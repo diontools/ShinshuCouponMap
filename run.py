@@ -135,14 +135,32 @@ with pdfplumber.open('./list-k-adv.pdf') as pdf:
       values[12] = pt.latitude
       values[13] = pt.longitude
 
+    data.sort(key=lambda d: f'{d[12]},{d[13]}')
+    for latlng, group in filter(lambda g: len(g[1]) >= 2, map(lambda g: (g[0], list(g[1])), groupby(data, lambda d: f'{d[12]},{d[13]}'))):
+      dist = geopy.distance.GeodesicDistance(meters=1.5)
+      count = len(group) - 1
+      for index, item in enumerate(group[1:]):
+        pt = dist.destination(geopy.distance.Point(item[12], item[13]), bearing=360/count*index)
+        print('around', item[0], item[3], (item[12], item[13]), (pt.latitude, pt.longitude))
+        item[12] = pt.latitude
+        item[13] = pt.longitude
+    data.sort(key=lambda d: int(d[0]))
+
     groups = groupby(data, key=lambda d: d[1])
+
+    def to_style(values: list[str]):
+      if values[8] != '': return 'act'
+      if values[9] != '': return 'shop'
+      if values[10] != '': return 'eat'
+      if values[11] != '': return 'trans'
+      return 'none'
 
     def to_placemark(values: list[str]):
       return f'''
       <Placemark>
         <name>{escape(values[3])}</name>
         <description><![CDATA[No.{values[0]}<br>長野県{values[5]}<br>{values[6]}<br>{values[7]}<br>{values[8]}<br>{'<br>'.join(filter(lambda v: v != '', values[9:12]))}]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#{to_style(values)}</styleUrl>
         <Point><coordinates>{values[13]},{values[12]},0</coordinates></Point>
       </Placemark>
 '''
@@ -156,17 +174,11 @@ with pdfplumber.open('./list-k-adv.pdf') as pdf:
     </Folder>
 '''
 
-    for group in groups:
-      folder = to_folder(group[0], list(group[1]))
-      with open(f'./results/result_{group[0]}.kml', 'w', encoding='utf_8') as f:
-        f.write(f'''<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
-    <name>信州割クーポン対象店舗 ({group[0]})</name>
-    <description/>
-    <Style id="icon-1899-0288D1-normal">
+    def define_style(name: str, color: str):
+      return f'''
+    <Style id="{name}-normal">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>{color}</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -177,9 +189,9 @@ with pdfplumber.open('./list-k-adv.pdf') as pdf:
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <Style id="icon-1899-0288D1-highlight">
+    <Style id="{name}-highlight">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>{color}</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -190,16 +202,31 @@ with pdfplumber.open('./list-k-adv.pdf') as pdf:
         <scale>1</scale>
       </LabelStyle>
     </Style>
-    <StyleMap id="icon-1899-0288D1">
+    <StyleMap id="{name}">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+        <styleUrl>#{name}-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+        <styleUrl>#{name}-highlight</styleUrl>
       </Pair>
     </StyleMap>
+'''
+
+    for group in groups:
+      folder = to_folder(group[0], list(group[1]))
+      with open(f'./results/result_{group[0]}.kml', 'w', encoding='utf_8') as f:
+        f.write(f'''<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>信州割クーポン対象店舗 ({group[0]})</name>
+    <description/>
+{define_style('act', 'ff1414e3')}
+{define_style('shop', 'ffd18802')}
+{define_style('eat', 'ff14afe3')}
+{define_style('trans', 'ff1ec935')}
+{define_style('none', 'ff9e9e9e')}
 {folder}
   </Document>
 </kml>''')
