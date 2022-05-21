@@ -84,6 +84,9 @@ with pdfplumber.open('./list-k-adv.pdf') as pdf:
 
     # すべてのテーブルを取得
     data = cacheJsonFile('./results/table_values.json', lambda: extractTable(pdf))
+
+    # Noの重複確認
+    assert len(data) == len(set(map(lambda v: v[0], data)))
     
     # "HP"をリンクに置き換え
     linkIndex = 0
