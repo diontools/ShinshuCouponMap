@@ -34,21 +34,7 @@ def extractTable(pdf: pdfplumber.PDF):
     return data
 
 gmaps = googlemaps.Client(key=inputJsonFile('./apikey.json'))
-geo_bounds = {
-    "northeast" : {
-        "lat" : 37.16621915151721,
-        "lng" : 137.27180990577534
-    },
-    "southwest" : {
-        "lat" : 35.1598723715222,
-        "lng" : 138.82338748509508
-    }
-}
-
-def geocode(text: str):
-    geoResult = gmaps.geocode(text, language='ja', bounds=geo_bounds, region='jp')
-    time.sleep(0.2)
-    return geoResult
+geo_offset_distance = geopy.distance.GeodesicDistance(meters=3)
 
 def find_place(text: str):
   result = gmaps.find_place(
@@ -141,6 +127,13 @@ with pdfplumber.open('./list-k-adv.pdf') as pdf:
         values.append(distance)
 
     outputJsonFile('./results/data.json', data)
+
+    # 北にオフセットする（Googleマップのマーカーと衝突を防ぐ）
+    for values in data:
+      pt = geopy.distance.Point(values[12], values[13])
+      pt: geopy.distance.Point = geo_offset_distance.destination(pt, bearing=0) #北にオフセット
+      values[12] = pt.latitude
+      values[13] = pt.longitude
 
     groups = groupby(data, key=lambda d: d[1])
 
