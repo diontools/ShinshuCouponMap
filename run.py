@@ -135,6 +135,7 @@ with pdfplumber.open('./list-k-adv.pdf') as pdf:
       values[12] = pt.latitude
       values[13] = pt.longitude
 
+    # 重複する位置は円状に再配置する
     data.sort(key=lambda d: f'{d[12]},{d[13]}')
     for latlng, group in filter(lambda g: len(g[1]) >= 2, map(lambda g: (g[0], list(g[1])), groupby(data, lambda d: f'{d[12]},{d[13]}'))):
       dist = geopy.distance.GeodesicDistance(meters=1.5)
