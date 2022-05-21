@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６−１",
-        "short_name": "２６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "村松",
-        "short_name": "村松",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "青木村",
-        "short_name": "青木村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1602",
-        "short_name": "386-1602",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1602 長野県小県郡青木村村松２６−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3729185,
-        "lng": 138.1401788
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3739650802915,
-          "lng": 138.1416132802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1602 長野県小県郡青木村村松２６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3729276,
+          "lng": 138.1403134
         },
-        "southwest": {
-          "lat": 36.3712671197085,
-          "lng": 138.1389153197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.37396592989272,
+            "lng": 138.1416141298927
+          },
+          "southwest": {
+            "lat": 36.37126627010728,
+            "lng": 138.1389144701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHfEbW5WhHWAR308l5s4wFes",
-    "plus_code": {
-      "compound_code": "94FR+53 日本、長野県青木村",
-      "global_code": "8Q8W94FR+53"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "味処 こまゆみ",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114140113888256691467\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECNlgVaUDw4i0YgI6QX0EfqnrSHGXPB7Rkem-ZKlKopFKaECyqjiRF5jpY6LIMqvbzc7Bso5C0ZnOMr28drw2w-EjgrwG5lorJjWUAkH24ZVs3PiA3BdmeXXLIQXxJJanZYN50oY1iA9GRnom0cwoXujAusAneSsU9AthdxbOOmoFNo",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJHfEbW5WhHWAR308l5s4wFes",
+      "plus_code": {
+        "compound_code": "94FR+53 青木村、長野県",
+        "global_code": "8Q8W94FR+53"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

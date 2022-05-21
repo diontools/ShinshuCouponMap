@@ -1,79 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0100",
-        "short_name": "391-0100",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0100 長野県諏訪郡原村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0111 長野県諏訪郡原村上里１８１１３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9680996,
+          "lng": 138.2414846
         },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+        "viewport": {
+          "northeast": {
+            "lat": 35.96958807989272,
+            "lng": 138.2428890298927
+          },
+          "southwest": {
+            "lat": 35.96688842010728,
+            "lng": 138.2401893701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9644513,
-        "lng": 138.2174935
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
-        },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "808Kitchen&Table",
+      "photos": [
+        {
+          "height": 2999,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107149993884936690501\">Jun Tezuka</a>"
+          ],
+          "photo_reference": "Aap_uEBKMzVNcLy_fdvTcidoBzaSfy7X1HpPIOI1WqkUeS7u5c1Uka6td9001wH16aoMRGU-B3ctxnYGF-V370_pr3ZWmgnJVzjdqhtlj16HUGZpWbiP-mqj2iTlqqaIYLS-RxHnuTfBNOTV_zA1j6daoaShabYfgCICgtGAfvA7m6Tvppxs",
+          "width": 5334
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMxZWzI1EHGARFpP8Ubkhhpw",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJMcu24dVEHGARKcBCsS0aqmc",
+      "plus_code": {
+        "compound_code": "X69R+6H 原村、長野県",
+        "global_code": "8Q7WX69R+6H"
+      },
+      "types": [
+        "cafe",
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

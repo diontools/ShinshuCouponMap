@@ -1,101 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８０",
-        "short_name": "８０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３２３",
-        "short_name": "１３２３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１３２３−８０",
-    "geometry": {
-      "location": {
-        "lat": 36.3439359,
-        "lng": 138.6213945
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.34523948029149,
-          "lng": 138.6226956802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１３２３−８０",
+      "geometry": {
+        "location": {
+          "lat": 36.3438944,
+          "lng": 138.6213333
         },
-        "southwest": {
-          "lat": 36.3425415197085,
-          "lng": 138.6199977197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34524032989272,
+            "lng": 138.6226965298927
+          },
+          "southwest": {
+            "lat": 36.34254067010727,
+            "lng": 138.6199968701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7es9gHXTHWARZ0QgSx-8a80",
-    "plus_code": {
-      "compound_code": "8JVC+HH 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JVC+HH"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Bon Okawa 軽井沢チョコレートファクトリー",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104628469942189002880\">加藤展康</a>"
+          ],
+          "photo_reference": "Aap_uEAgVJ8xzoLt3TnkxnV-SEt7ojDhb5iSFPJQAO5wNsm8zdrKUFJz-3AYCnIxw2eeCsrWJoQphhRBvbnXAQOChUWbns7xF7WMHXYb_2roo2AZLHcOYkRAvNDmr3_yOZSIkj6xqeMC3ir-5glsWSRwhuMePcSXiZuP7iSk8nJkrxyfHUMY",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJ7es9gHXTHWARZ0QgSx-8a80",
+      "plus_code": {
+        "compound_code": "8JVC+HH 軽井沢町、長野県",
+        "global_code": "8Q8W8JVC+HH"
+      },
+      "types": [
+        "bakery",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２８９番地１",
-        "short_name": "２２８９番地１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島２２８９番地１",
-    "geometry": {
-      "location": {
-        "lat": 35.8396605,
-        "lng": 137.693687
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8408954302915,
-          "lng": 137.6951387802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島２２８９番地１",
+      "geometry": {
+        "location": {
+          "lat": 35.8396605,
+          "lng": 137.693687
         },
-        "southwest": {
-          "lat": 35.8381974697085,
-          "lng": 137.6924408197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.84089627989272,
+            "lng": 137.6951396298927
+          },
+          "southwest": {
+            "lat": 35.83819662010728,
+            "lng": 137.6924399701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJSzvsuALcHGARoZpJDBExt6E",
-    "plus_code": {
-      "compound_code": "RMQV+VF 長野県木曽町",
-      "global_code": "8Q7VRMQV+VF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "むつみ食堂",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102436824713861541832\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDp2PCniNyQ-4uxHZu2FHi3xNe0wmMcJkOR1nCf9t0H8H8Xz6ynJEoZBF9JD9B2ic6QX8S1UmQC3JFslPyJ0wUJHY1quXYN8gTeV2sShTlFdQyF4aoJfTpO-ke4iYSN3ihD1IzxBiEo1_E56NOx4vkRlTtWJrLws5qWPpeYh491rUhK",
+          "width": 1535
+        }
+      ],
+      "place_id": "ChIJSzvsuALcHGARoZpJDBExt6E",
+      "plus_code": {
+        "compound_code": "RMQV+VF 木曽町、長野県",
+        "global_code": "8Q7VRMQV+VF"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３３３−２",
-        "short_name": "１３３３−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿教湯温泉",
-        "short_name": "鹿教湯温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0323",
-        "short_name": "386-0323",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１３３３−２",
-    "geometry": {
-      "location": {
-        "lat": 36.3022453,
-        "lng": 138.1370149
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3035900802915,
-          "lng": 138.1383594302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１３３３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3022453,
+          "lng": 138.1370149
         },
-        "southwest": {
-          "lat": 36.3008921197085,
-          "lng": 138.1356614697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30359092989273,
+            "lng": 138.1383602798927
+          },
+          "southwest": {
+            "lat": 36.30089127010729,
+            "lng": 138.1356606201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJK-JArsGmHWARdS3lGmvwy9k",
-    "plus_code": {
-      "compound_code": "842P+VR 長野県上田市",
-      "global_code": "8Q8W842P+VR"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0323 長野県上田市鹿教湯温泉１３３３−２",
+      "place_id": "ChIJK-JArsGmHWARdS3lGmvwy9k",
+      "plus_code": {
+        "compound_code": "842P+VR 上田市、長野県",
+        "global_code": "8Q8W842P+VR"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

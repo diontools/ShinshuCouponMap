@@ -1,64 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0012 長野県上田市中央３丁目１−１３",
+      "geometry": {
+        "location": {
+          "lat": 36.4017517,
+          "lng": 138.2525331
         },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+        "viewport": {
+          "northeast": {
+            "lat": 36.40306257989272,
+            "lng": 138.2540051798927
+          },
+          "southwest": {
+            "lat": 36.40036292010728,
+            "lng": 138.2513055201073
+          }
         }
       },
-      "location": {
-        "lat": 36.4019126,
-        "lng": 138.249075
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
-        },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "エンパイア 上田店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112456310901932509013\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC2G2viYYLAxfpi6mXum_yH25zVpo8rv7h8MqHwWObqvwEJh0db03L8jCF4pKBPHfGva4MzZAEWIWGbMCyRIWOJ9Baxgozk08k6KC7hekBajsASDPYY0KJlh-L70wLKciV3iqfAlwv54ZKMtX-C9jzlPRjZm4kelt5MkVgEFiqhTVia",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJsaSJhsy8HWARTFv1slYL1uE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJBaqA5Ni8HWARg8obdBtc6oo",
+      "plus_code": {
+        "compound_code": "C723+P2 上田市、長野県",
+        "global_code": "8Q8WC723+P2"
+      },
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

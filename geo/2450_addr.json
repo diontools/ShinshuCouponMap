@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４３４",
-        "short_name": "３４３４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "日",
-        "short_name": "日",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "麻績村",
-        "short_name": "麻績村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東筑摩郡",
-        "short_name": "東筑摩郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-7702",
-        "short_name": "399-7702",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-7702 長野県東筑摩郡麻績村日３４３４",
-    "geometry": {
-      "location": {
-        "lat": 36.4543457,
-        "lng": 138.0179373
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4558889302915,
-          "lng": 138.0194776802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-7702 長野県東筑摩郡麻績村日３４３４",
+      "geometry": {
+        "location": {
+          "lat": 36.4543457,
+          "lng": 138.0179373
         },
-        "southwest": {
-          "lat": 36.4531909697085,
-          "lng": 138.0167797197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.45588977989272,
+            "lng": 138.0194785298928
+          },
+          "southwest": {
+            "lat": 36.45319012010728,
+            "lng": 138.0167788701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJMSrNHSN3HWARZTyjroTzf7M",
-    "plus_code": {
-      "compound_code": "F239+P5 長野県麻績村",
-      "global_code": "8Q8WF239+P5"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-7702 長野県東筑摩郡麻績村日３４３４",
+      "place_id": "ChIJMSrNHSN3HWARZTyjroTzf7M",
+      "plus_code": {
+        "compound_code": "F239+P5 麻績村、長野県",
+        "global_code": "8Q8WF239+P5"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

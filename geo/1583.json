@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８８",
-        "short_name": "２８８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢東",
-        "short_name": "軽井沢東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0104",
-        "short_name": "389-0104",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東２８８",
-    "geometry": {
-      "location": {
-        "lat": 36.34455,
-        "lng": 138.6276556
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3458270802915,
-          "lng": 138.6291963802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東２８８",
+      "geometry": {
+        "location": {
+          "lat": 36.34455,
+          "lng": 138.6276556
         },
-        "southwest": {
-          "lat": 36.3431291197085,
-          "lng": 138.6264984197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34582792989273,
+            "lng": 138.6291972298928
+          },
+          "southwest": {
+            "lat": 36.34312827010729,
+            "lng": 138.6264975701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpajxoXfTHWAR8Ysn0QUTkF4",
-    "plus_code": {
-      "compound_code": "8JVH+R3 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JVH+R3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ザ グラン リゾート エレガンテ軽井沢",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112524679492110823659\">Kazuko Takahara</a>"
+          ],
+          "photo_reference": "Aap_uEAYGP4x3OFgapmyrBjDo2HgeW2zDed1CocA-8BWfabKV3NelAsGp45lwjx8u_NWlCP2ZWBqlVS7NpJiTptq4FbmImAgp69ILA1pjeTbmRK7-flX_JZvo6slu2F8Q-tGZ03r41RYeByXou1p8h9j4iTblNnEqkb_Jl_KI1ARBrv888j1",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJpajxoXfTHWAR8Ysn0QUTkF4",
+      "plus_code": {
+        "compound_code": "8JVH+R3 軽井沢町、長野県",
+        "global_code": "8Q8W8JVH+R3"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

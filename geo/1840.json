@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６４８−７",
-        "short_name": "２６４８−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊科",
-        "short_name": "豊科",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8205",
-        "short_name": "399-8205",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8205 長野県安曇野市豊科２６４８−７",
-    "geometry": {
-      "location": {
-        "lat": 36.287205,
-        "lng": 137.908341
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2886279802915,
-          "lng": 137.9097003302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8205 長野県安曇野市豊科２６４８−７",
+      "geometry": {
+        "location": {
+          "lat": 36.287205,
+          "lng": 137.908341
         },
-        "southwest": {
-          "lat": 36.2859300197085,
-          "lng": 137.9070023697086
+        "viewport": {
+          "northeast": {
+            "lat": 36.28862882989272,
+            "lng": 137.9097011798927
+          },
+          "southwest": {
+            "lat": 36.28592917010727,
+            "lng": 137.9070015201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJt20jZ7ESHWARihEYTsnseSE",
-    "plus_code": {
-      "compound_code": "7WP5+V8 日本、長野県安曇野市",
-      "global_code": "8Q8V7WP5+V8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "しき美本店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110430655746772342500\">しき美</a>"
+          ],
+          "photo_reference": "Aap_uEDj1XQytXOETnRywlKY7_6kk2VdGDqrwDnUCU9NClc89KfIg-UogzY1bNH8zoTL7JjZO9SNVx6EnoODuQql-FMLxuxHx0XFdZsaVobNowN5IfPoRr6_YQfMGHY4oxhRHEOLP3qSPA0Xl6BwPrZA-BSpSE6qw1y7T7IFUDrChtGN-Maa",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJt20jZ7ESHWARihEYTsnseSE",
+      "plus_code": {
+        "compound_code": "7WP5+V8 安曇野市、長野県",
+        "global_code": "8Q8V7WP5+V8"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

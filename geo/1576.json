@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "Nagakura",
-        "short_name": "Nagakura",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "Karuizawa",
-        "short_name": "Karuizawa",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Kitasaku District",
-        "short_name": "Kitasaku District",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Nagano",
-        "short_name": "Nagano",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0101",
-        "short_name": "389-0101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0101 Nagano, Kitasaku District, Karuizawa, Nagakura, 山国有林内2097",
-    "geometry": {
-      "location": {
-        "lat": 36.4097382,
-        "lng": 138.5943593
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.41112373029151,
-          "lng": 138.5956536802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0101 長野県北佐久郡軽井沢町長倉 山国有林内2097",
+      "geometry": {
+        "location": {
+          "lat": 36.4097382,
+          "lng": 138.5943593
         },
-        "southwest": {
-          "lat": 36.40842576970851,
-          "lng": 138.5929557197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.41112457989272,
+            "lng": 138.5956545298928
+          },
+          "southwest": {
+            "lat": 36.40842492010728,
+            "lng": 138.5929548701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhQBnbUvSHWARmu1l3HEJgB8",
-    "plus_code": {
-      "compound_code": "CH5V+VP 日本、長野県軽井沢町",
-      "global_code": "8Q8WCH5V+VP"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "白糸の滝売店",
+      "photos": [
+        {
+          "height": 1512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112455651692663114466\">呉龍権</a>"
+          ],
+          "photo_reference": "Aap_uEBgTmay8Yg4rzX38L5oKchWcXa2mQznpFNC8Ehg_K8J2ETy0C80MP3LXRm15Zc-IlOP9kyxpj8wuAn_3OzqoRPwjQntR3WBYtVNMNnHmZ8glxmlmOQgNbf8OSdOMOOLTcFCSHJDRL2FW7Uh9jxeiNp_koWF4c1LuhJqC5f4oWXfv0F8",
+          "width": 2688
+        }
+      ],
+      "place_id": "ChIJhQBnbUvSHWARmu1l3HEJgB8",
+      "plus_code": {
+        "compound_code": "CH5V+VP 軽井沢町、長野県",
+        "global_code": "8Q8WCH5V+VP"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

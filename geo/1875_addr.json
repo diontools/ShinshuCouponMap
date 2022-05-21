@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３３６３",
-        "short_name": "１３３６３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "明科東川手",
-        "short_name": "明科東川手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-7101",
-        "short_name": "399-7101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-7101 長野県安曇野市明科東川手１３３６３",
-    "geometry": {
-      "location": {
-        "lat": 36.36788140000001,
-        "lng": 137.9315133
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3692297302915,
-          "lng": 137.9328862802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-7101 長野県安曇野市明科東川手１３３６３",
+      "geometry": {
+        "location": {
+          "lat": 36.36788140000001,
+          "lng": 137.9315133
         },
-        "southwest": {
-          "lat": 36.3665317697085,
-          "lng": 137.9301883197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36923057989272,
+            "lng": 137.9328871298927
+          },
+          "southwest": {
+            "lat": 36.36653092010727,
+            "lng": 137.9301874701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJMzbNNBtyHWAR0CV2jTltiB4",
-    "plus_code": {
-      "compound_code": "9W9J+5J 長野県安曇野市",
-      "global_code": "8Q8V9W9J+5J"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-7101 長野県安曇野市明科東川手１３３６３",
+      "place_id": "ChIJMzbNNBtyHWAR0CV2jTltiB4",
+      "plus_code": {
+        "compound_code": "9W9J+5J 安曇野市、長野県",
+        "global_code": "8Q8V9W9J+5J"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

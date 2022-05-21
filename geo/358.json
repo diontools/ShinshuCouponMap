@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８０８",
-        "short_name": "８０８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0293",
-        "short_name": "381-0293",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0293 長野県上高井郡小布施町小布施８０８",
-    "geometry": {
-      "location": {
-        "lat": 36.6951782,
-        "lng": 138.3162465
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6966527302915,
-          "lng": 138.3176004302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0293 長野県上高井郡小布施町小布施８０８",
+      "geometry": {
+        "location": {
+          "lat": 36.6952038,
+          "lng": 138.3162475
         },
-        "southwest": {
-          "lat": 36.6939547697085,
-          "lng": 138.3149024697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69665357989272,
+            "lng": 138.3176012798927
+          },
+          "southwest": {
+            "lat": 36.69395392010727,
+            "lng": 138.3149016201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJeaZkKlmJHWARrHh4c7vEUMY",
-    "plus_code": {
-      "compound_code": "M8W8+3F 日本、長野県小布施町",
-      "global_code": "8Q8WM8W8+3F"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "えんとつ",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101368059488552031555\">マルヤマヒロ</a>"
+          ],
+          "photo_reference": "Aap_uEChTMuJKydpWLKkJG14mPHCHfBQdEXrff_IpmjVqK2loGumYHtILBajSoYE_qMpZ5tHXNesR139Cg3mGaKpOrjv1hv40Q4-wBd0RhaK5sUUsVETQvnvNioEt_UHBVC3f0-_Qm-yrLFATMz05xOIE0sXeuyUQvgGbmAL28_cW20WHH3K",
+          "width": 1616
+        }
+      ],
+      "place_id": "ChIJeaZkKlmJHWARrHh4c7vEUMY",
+      "plus_code": {
+        "compound_code": "M8W8+3F 小布施町、長野県",
+        "global_code": "8Q8WM8W8+3F"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,77 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "国分",
-        "short_name": "国分",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0016",
-        "short_name": "386-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0016 長野県上田市国分 字浦沖1251-1",
-    "geometry": {
-      "location": {
-        "lat": 36.3788179,
-        "lng": 138.2740673
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3800900802915,
-          "lng": 138.2753568802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0016 長野県上田市国分 字浦沖1251-1",
+      "geometry": {
+        "location": {
+          "lat": 36.3788179,
+          "lng": 138.2740673
         },
-        "southwest": {
-          "lat": 36.3773921197085,
-          "lng": 138.2726589197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.38009092989272,
+            "lng": 138.2753577298927
+          },
+          "southwest": {
+            "lat": 36.37739127010728,
+            "lng": 138.2726580701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJh8KpKYK8HWARkMquCXr6JFU",
-    "plus_code": {
-      "compound_code": "97HF+GJ 日本、長野県上田市",
-      "global_code": "8Q8W97HF+GJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 上田国分店",
+      "photos": [
+        {
+          "height": 2570,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104041130413097306050\">Yukihiko Kayama</a>"
+          ],
+          "photo_reference": "Aap_uEBHLHD5Zn9iQp8OC2Y5GdXq8Jz4Oci4ZYWKRnqfBT6llp34c_JRIlCbvm4Fh0BM7nOiNjmvucK2PRaazURaAtSwVd287O19K0LzO6L8a739giXSvmFR0lX5YV5jscZb9wez9ggb4c6xoaliagV9YPWRjq4IOpbE6kY8MfY7_GCDUS7i",
+          "width": 2570
+        }
+      ],
+      "place_id": "ChIJh8KpKYK8HWARkMquCXr6JFU",
+      "plus_code": {
+        "compound_code": "97HF+GJ 上田市、長野県",
+        "global_code": "8Q8W97HF+GJ"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

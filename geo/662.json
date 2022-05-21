@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９８",
-        "short_name": "４９８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元善町",
-        "short_name": "元善町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0851",
-        "short_name": "380-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0851 長野県長野市長野元善町４９８",
-    "geometry": {
-      "location": {
-        "lat": 36.658781,
-        "lng": 138.186897
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6606035302915,
-          "lng": 138.1881549802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0851 長野県長野市長野４９８",
+      "geometry": {
+        "location": {
+          "lat": 36.658781,
+          "lng": 138.186897
         },
-        "southwest": {
-          "lat": 36.6579055697085,
-          "lng": 138.1854570197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66060437989272,
+            "lng": 138.1881558298927
+          },
+          "southwest": {
+            "lat": 36.65790472010728,
+            "lng": 138.1854561701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzYngnuOGHWARBRzsKORrHD8",
-    "plus_code": {
-      "compound_code": "M55P+GQ 日本、長野県長野市",
-      "global_code": "8Q8WM55P+GQ"
-    },
-    "types": [
-      "establishment",
-      "place_of_worship",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+      "name": "良性院",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118235234833462255193\">石川智子</a>"
+          ],
+          "photo_reference": "Aap_uEBZBJveKxTvAb3XIoCEKb4lPH_TZewTgOCPnh9c6R8I1v0cnWyg8Hf4RDU2Zzy1PAOUItdhY52Jxy8JIfqJqGCk3dTz_j_0ndHgmjFQTj0gDy5QwanH_vTUJptaE4K8UYKP4TR-eeFh2ZPnF4-e6IbXfl-RhBGK78lgogVnC3AtxYoA",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJzYngnuOGHWARBRzsKORrHD8",
+      "plus_code": {
+        "compound_code": "M55P+GQ 長野市、長野県",
+        "global_code": "8Q8WM55P+GQ"
+      },
+      "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

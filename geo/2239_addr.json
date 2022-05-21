@@ -1,100 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "１８",
-        "short_name": "１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５−１８ 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.2320751,
-        "lng": 137.966369
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2334322302915,
-          "lng": 137.9677607802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５−１８ 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.2320751,
+          "lng": 137.966369
         },
-        "southwest": {
-          "lat": 36.2307342697085,
-          "lng": 137.9650628197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23343307989272,
+            "lng": 137.9677616298927
+          },
+          "southwest": {
+            "lat": 36.23073342010728,
+            "lng": 137.9650619701073
+          }
         }
-      }
-    },
-    "place_id": "Ej0x6ZqOLCAxLWNoxY1tZS01LTE4IENoxavFjSwgTWF0c3Vtb3RvLCBOYWdhbm8gMzkwLTA4MTEsIEphcGFuIiAaHgoWChQKEglt8aOrjg4dYBH4sbrVBoygNhIEMemajg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "1階",
+      "photos": [
+        {
+          "height": 3844,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102607207192582990222\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDMT0I3ipBQ1486nL5CuY-F_uRVG_aHHCHPMYipt7UyJs1VP8cd0qzABJcj-iD7EBk5bhdCtSqbuHVm-2MWOUlVgVnk-jRrNb-943b8QQzgoyye962MhA0RHS8AZjcnpfa2aTUqWo1AhAkX98gfvN4kp4AyJBuvznVzh7FyQ_tQymwQ",
+          "width": 2882
+        }
+      ],
+      "place_id": "Ekfml6XmnKzjgIHjgJIzOTAtMDgxMSDplbfph47nnIzmnb7mnKzluILkuK3lpK7vvJHkuIHnm67vvJXiiJLvvJHvvJggMemajiIgGh4KFgoUChIJbfGjq44OHWAR-LG61QaMoDYSBDHpmo4",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２０",
-        "short_name": "２０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "川岸上",
-        "short_name": "川岸上",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0048",
-        "short_name": "394-0048",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0048 長野県岡谷市川岸上１丁目２０−３",
-    "geometry": {
-      "location": {
-        "lat": 36.053007,
-        "lng": 138.0336658
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0543843802915,
-          "lng": 138.0349694302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0048 長野県岡谷市川岸上１丁目２０−３",
+      "geometry": {
+        "location": {
+          "lat": 36.053007,
+          "lng": 138.0336658
         },
-        "southwest": {
-          "lat": 36.0516864197085,
-          "lng": 138.0322714697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05438522989272,
+            "lng": 138.0349702798927
+          },
+          "southwest": {
+            "lat": 36.05168557010728,
+            "lng": 138.0322706201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJl48lPnX_HGARBYeTjtsRU1c",
-    "plus_code": {
-      "compound_code": "323M+6F 長野県岡谷市",
-      "global_code": "8Q8W323M+6F"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "うなぎ松川",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100167376081856135165\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDzS247U8GOIfI4fQVLDRtQjqVnY31Q3xpvfgZI08j98Mee1pToQMKd19dKag5sUhM9XyNgFE5q6wajQAoR63ab6b1V0zNvuYurOZHid3Dc9tLZnCqM2J7ikrEoD_vBQXWL6rn382qQrIG7qCES50R9xaaSWveFM0OtOTqR5p0sRyuz",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJl48lPnX_HGARBYeTjtsRU1c",
+      "plus_code": {
+        "compound_code": "323M+6F 岡谷市、長野県",
+        "global_code": "8Q8W323M+6F"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

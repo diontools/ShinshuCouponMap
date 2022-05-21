@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５９３２−５",
-        "short_name": "５９３２−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平５９３２−５",
-    "geometry": {
-      "location": {
-        "lat": 36.0122953,
-        "lng": 138.200699
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0136080802915,
-          "lng": 138.2020487802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平５９３２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.0122953,
+          "lng": 138.200699
         },
-        "southwest": {
-          "lat": 36.0109101197085,
-          "lng": 138.1993508197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01360892989272,
+            "lng": 138.2020496298927
+          },
+          "southwest": {
+            "lat": 36.01090927010728,
+            "lng": 138.1993499701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHzVAn7NRHGARyJHpJy-42A0",
-    "plus_code": {
-      "compound_code": "2662+W7 長野県茅野市",
-      "global_code": "8Q8W2662+W7"
-    },
-    "types": [
-      "art_gallery",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ギャラリーカフェそよ風",
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107589305793435903963\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED1tR0a1gNbiBGc6FHV0GEZ7zzeX5D_-hI3G7W_O8MECiyoclov8oAMT3ZJnNU8y_gV95g3PVUeYQvbnhec-ftEJdJGHX3dDBR9ElYGEB3ZbQifDCcesDIzPFGRsdLjIwEU0smdZs0E0sM15DbTOXxrw2PLAYD-lW1CQk_tPiXsc7Dr",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJHzVAn7NRHGARyJHpJy-42A0",
+      "plus_code": {
+        "compound_code": "2662+W7 茅野市、長野県",
+        "global_code": "8Q8W2662+W7"
+      },
+      "types": [
+        "cafe",
+        "art_gallery",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

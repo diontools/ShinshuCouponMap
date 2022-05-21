@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４１３６−６",
-        "short_name": "４１３６−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上仲町",
-        "short_name": "上仲町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町上仲町４１３６−６",
-    "geometry": {
-      "location": {
-        "lat": 36.5065313,
-        "lng": 137.858296
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.50792713029149,
-          "lng": 137.8598241802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町上仲町４１３６−６",
+      "geometry": {
+        "location": {
+          "lat": 36.5065313,
+          "lng": 137.858296
         },
-        "southwest": {
-          "lat": 36.5052291697085,
-          "lng": 137.8571262197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.50792797989273,
+            "lng": 137.8598250298927
+          },
+          "southwest": {
+            "lat": 36.50522832010728,
+            "lng": 137.8571253701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9zFTITRjHWARvv6YAQJ4ahU",
-    "plus_code": {
-      "compound_code": "GV45+J8 日本、長野県大町市",
-      "global_code": "8Q8VGV45+J8"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "北アルプスブルワリー",
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107981909668628233325\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAR0_lOFssCwj3Ee6DoLGICW9aYSN3IsfNXNO846hTvd08jq12seGNXE9xFlt9gLCmzEhlke_HQKBzWKp3WQcqJs_sV7aaIfVM3GGnAlp8KX-YFKHSjHC7ybZ_fweW79-ICeI8xBReZsICmQ49UJQNX1OH3gvB8EX4xbUwUYbPjOqe_",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ9zFTITRjHWARvv6YAQJ4ahU",
+      "plus_code": {
+        "compound_code": "GV45+J8 大町市、長野県",
+        "global_code": "8Q8VGV45+J8"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

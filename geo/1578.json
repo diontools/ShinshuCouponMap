@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１９−４０",
-        "short_name": "１９−４０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢東",
-        "short_name": "軽井沢東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0104",
-        "short_name": "389-0104",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東１９−４０",
-    "geometry": {
-      "location": {
-        "lat": 36.3468054,
-        "lng": 138.635437
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3481558302915,
-          "lng": 138.6368547302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東１９−４０",
+      "geometry": {
+        "location": {
+          "lat": 36.3468081,
+          "lng": 138.6354944
         },
-        "southwest": {
-          "lat": 36.3454578697085,
-          "lng": 138.6341567697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34815667989273,
+            "lng": 138.6368555798927
+          },
+          "southwest": {
+            "lat": 36.34545702010729,
+            "lng": 138.6341559201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJW73_637THWARLkkx9ZQghqU",
-    "plus_code": {
-      "compound_code": "8JWP+P5 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JWP+P5"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "小さな美術館軽井沢草花館",
+      "photos": [
+        {
+          "height": 639,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115000268379146122491\">小さな美術館軽井沢草花館</a>"
+          ],
+          "photo_reference": "Aap_uEBza0_lgWoyvUn619fc6pi2MGCo1P8nzUzmn_9XTF60C3Imkc6JbjtX4ubMgXqs0Q3SaFnEJPhtK0Kg2NVfdmxWZyBpcDVoLpSvOk1GrMK9z0dQHxSyz6w8JWDwavhyvznKDEpBN1P1do2py0cGM5oRsc2Eh0yQFj727AUA4Ymc_ME",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJW73_637THWARLkkx9ZQghqU",
+      "plus_code": {
+        "compound_code": "8JWP+P5 軽井沢町、長野県",
+        "global_code": "8Q8W8JWP+P5"
+      },
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

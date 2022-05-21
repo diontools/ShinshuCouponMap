@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城５７４６−３",
+      "geometry": {
+        "location": {
+          "lat": 36.701592,
+          "lng": 137.8467827
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.70287692989272,
+            "lng": 137.8480921298927
+          },
+          "southwest": {
+            "lat": 36.70017727010728,
+            "lng": 137.8453924701072
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "白馬ライオンアドベンチャー 八方事務所",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108188982182606589257\">Krishana Das</a>"
+          ],
+          "photo_reference": "Aap_uECkkHwtgo1os2BAbN41UuoKeNDDiLYmB2Zk2TYj5GAcxue1xj0LF0_g6dmtFK4lXIbtqpy_xzuaWAwJfxeQT9svZAWLDTxCiekUqUGSN3oFA6SCI21NLBxJfjoviZ_ZXp06Oe4a99oGD6aJmBSx21GvId4x1aGpDo9vJ8-FsbKAT9K3",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJOTAD-uLR918RRjp5KmOKXhE",
+      "plus_code": {
+        "compound_code": "PR2W+JP 白馬村、長野県",
+        "global_code": "8Q8VPR2W+JP"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

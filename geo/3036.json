@@ -1,89 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２９３７",
-        "short_name": "２９３７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "下市田",
-        "short_name": "下市田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "高森町",
-        "short_name": "高森町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3103",
-        "short_name": "399-3103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3103 長野県下伊那郡高森町下市田２９３７",
-    "geometry": {
-      "location": {
-        "lat": 35.549731,
-        "lng": 137.88567
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5511052302915,
-          "lng": 137.8869811302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-1107 長野県下伊那郡喬木村小川６７１４−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5127908,
+          "lng": 137.875319
         },
-        "southwest": {
-          "lat": 35.5484072697085,
-          "lng": 137.8842831697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51412437989272,
+            "lng": 137.8766389298927
+          },
+          "southwest": {
+            "lat": 35.51142472010728,
+            "lng": 137.8739392701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ36V2ZomaHGARLOlU-GME8GA",
-    "plus_code": {
-      "compound_code": "GVXP+V7 長野県高森町",
-      "global_code": "8Q7VGVXP+V7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "竜東タクシー",
+      "place_id": "ChIJ-T91hqWbHGARfFNafdgAmn0",
+      "plus_code": {
+        "compound_code": "GV7G+44 喬木村、長野県",
+        "global_code": "8Q7VGV7G+44"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４７２",
-        "short_name": "２４７２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平２４７２",
-    "geometry": {
-      "location": {
-        "lat": 36.0029331,
-        "lng": 138.3573501
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0042820802915,
-          "lng": 138.3586990802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平２４７２",
+      "geometry": {
+        "location": {
+          "lat": 36.0029331,
+          "lng": 138.3573501
         },
-        "southwest": {
-          "lat": 36.0015841197085,
-          "lng": 138.3560011197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00428292989272,
+            "lng": 138.3586999298927
+          },
+          "southwest": {
+            "lat": 36.00158327010727,
+            "lng": 138.3560002701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJB-foluNGHGARu7RjTror5Ic",
-    "plus_code": {
-      "compound_code": "2934+5W 長野県茅野市",
-      "global_code": "8Q8W2934+5W"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "オーレン小屋",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106556277766038012649\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAII9psz8CfhRdvrWooxH3PB_zX76R4tmt7UWULAOsq4kF2jwnc-MpRJxu7oZGtqUo_A-d_RyhvTO5v2NnGmOF-PYjqAORDcUoaCMyonLBKf7S1lEvQrorSYG90UsohmE64QsmnW92JfSir2YX540Mpxq9Fnl6J1t1hn-mv3DSfzOdu",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJB-foluNGHGARu7RjTror5Ic",
+      "plus_code": {
+        "compound_code": "2934+5W 茅野市、長野県",
+        "global_code": "8Q8W2934+5W"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

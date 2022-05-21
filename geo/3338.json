@@ -1,76 +1,94 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南箕輪村",
-        "short_name": "南箕輪村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4511",
-        "short_name": "399-4511",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村 大芝2358-5 信州大芝高原",
-    "geometry": {
-      "location": {
-        "lat": 35.88474,
-        "lng": 137.945709
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8860043802915,
-          "lng": 137.9462572302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村2358番地5",
+      "geometry": {
+        "location": {
+          "lat": 35.8864701,
+          "lng": 137.9443238
         },
-        "southwest": {
-          "lat": 35.8833064197085,
-          "lng": 137.9435592697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.88794297989271,
+            "lng": 137.9456174298927
+          },
+          "southwest": {
+            "lat": 35.88524332010727,
+            "lng": 137.9429177701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "大芝高原 味工房",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109382682782361133497\">Eduardo H.H. Kurioka 栗岡英二</a>"
+          ],
+          "photo_reference": "Aap_uECJT9_VwnhO8gI-9aOuq-Dg1IyOiOu61Rh5TGuhmP_DTJDPkVbwiWbiK-h1YhjyeoR1pR4n55vO979ehYllhC-VuebIvGrZ70A7E9tKzTTNMDkg45zuGQ7lF5c68lCU8iXP19y76C6WlJzP-LUlgFwtiQHJmhVsxZ92yI9FawDxle68",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJf6suopf6HGARaIEVxpMwVP8",
+      "plus_code": {
+        "compound_code": "VWPV+HP 南箕輪村、長野県",
+        "global_code": "8Q7VVWPV+HP"
+      },
+      "types": [
+        "cafe",
+        "bakery",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ4QaYk5n6HGARJ3XIHkg2APw",
-    "plus_code": {
-      "compound_code": "VWMW+V7 長野県南箕輪村",
-      "global_code": "8Q7VVWMW+V7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村 大芝2358-5 信州大芝高原",
+      "geometry": {
+        "location": {
+          "lat": 35.88474,
+          "lng": 137.945709
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88600522989272,
+            "lng": 137.94650975
+          },
+          "southwest": {
+            "lat": 35.88330557010728,
+            "lng": 137.94330675
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "味工房ガレットカフェ",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102447714460378505699\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED5K-DnclErI7voekQ7O3WHFF2sF8NOuwCyY_OkZe-LR9QMjUgGj-tuJthWv5qLo8_KX0aYPwoCPsh5OHna7i4UpmemXxAbS7rJKBjuvCTqO8CKSCnEDn2kpKJn2lSQiWyu0UMBnEo-79YHe0UUPsquQLN6uFrGwDFN3fk_lkcjh04a",
+          "width": 2432
+        }
+      ],
+      "place_id": "ChIJ4QaYk5n6HGARJ3XIHkg2APw",
+      "plus_code": {
+        "compound_code": "VWMW+V7 南箕輪村、長野県",
+        "global_code": "8Q7VVWMW+V7"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

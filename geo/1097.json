@@ -1,98 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "佐久平プラザ21",
-        "short_name": "佐久平プラザ21",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２−６",
-        "short_name": "２−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐久平駅東",
-        "short_name": "佐久平駅東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0028",
-        "short_name": "385-0028",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0028 長野県佐久市佐久平駅東２−６ 佐久平プラザ21 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.2775709,
-        "lng": 138.4666231
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.27918118029149,
-          "lng": 138.4678294802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0028 長野県佐久市佐久平駅東２−６ 佐久平プラザ21 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.2775709,
+          "lng": 138.4666231
         },
-        "southwest": {
-          "lat": 36.2764832197085,
-          "lng": 138.4651315197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27918202989272,
+            "lng": 138.4678303298927
+          },
+          "southwest": {
+            "lat": 36.27648237010727,
+            "lng": 138.4651306701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZaK6t3fLHWARcGTklyl4RoA",
-    "plus_code": {
-      "compound_code": "7FH8+2J 日本、長野県佐久市",
-      "global_code": "8Q8W7FH8+2J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "千年の宴 佐久平駅前店",
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104790076615224665901\">尾下雄紀</a>"
+          ],
+          "photo_reference": "Aap_uEAq0RojBUKRW2veqxYqp8zySyiofWtDDCSv4u-PQUEtxdtQYhtg3yZhZ9u1DCjtFM7OFIlZ5tTsUzP-27jx9JNLh9hW5LzJ4j217ySsZ6u4v9uvZGqoMo88fFn4triuraGfRjrzd-Onl7qhkVEoNFQV9mlRKxQHYMTRBS2mR1ZMY4bL",
+          "width": 5632
+        }
+      ],
+      "place_id": "ChIJZaK6t3fLHWARcGTklyl4RoA",
+      "plus_code": {
+        "compound_code": "7FH8+2J 佐久市、長野県",
+        "global_code": "8Q8W7FH8+2J"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

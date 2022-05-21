@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5631862,
-          "lng": 137.8875162
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒398-0002 長野県大町市大町",
+      "geometry": {
+        "location": {
+          "lat": 36.5159909,
+          "lng": 137.8575503
         },
-        "southwest": {
-          "lat": 36.4870873,
-          "lng": 137.8198737
+        "viewport": {
+          "northeast": {
+            "lat": 36.5631862,
+            "lng": 137.8875162
+          },
+          "southwest": {
+            "lat": 36.4870873,
+            "lng": 137.8198737
+          }
         }
       },
-      "location": {
-        "lat": 36.5159909,
-        "lng": 137.8575503
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5631862,
-          "lng": 137.8875162
-        },
-        "southwest": {
-          "lat": 36.4870873,
-          "lng": 137.8198737
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "大町",
+      "photos": [
+        {
+          "height": 2521,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109683333432791847935\">TOMOSHIGE Takaharu</a>"
+          ],
+          "photo_reference": "Aap_uEBs6wqmInEezhZCDvYWqpSEdttusJ7QYLX5xhaelfprxgDK6suXLoRmENJ3asRB5xjR0MkMDm9ir2ZOdCB-0gE11zy0KdjcuLnH5LCYXzOk0cX-KN1l2VkE8eb7ux9qnoePxlWXJtAnMN662cqSKJ9tyRHxdg3UMOu__G8VDWweMD6y",
+          "width": 4181
         }
-      }
-    },
-    "place_id": "ChIJGQljzTFiHWARJ0aqJLLQujI",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJGQljzTFiHWARJ0aqJLLQujI",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

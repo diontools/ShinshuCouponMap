@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３６０−２",
-        "short_name": "６３６０−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城６３６０−２",
-    "geometry": {
-      "location": {
-        "lat": 36.6954707,
-        "lng": 137.863226
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69693523029149,
-          "lng": 137.8645569302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城６３６０−２",
+      "geometry": {
+        "location": {
+          "lat": 36.6954707,
+          "lng": 137.863226
         },
-        "southwest": {
-          "lat": 36.69423726970849,
-          "lng": 137.8618589697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69693607989272,
+            "lng": 137.8645577798927
+          },
+          "southwest": {
+            "lat": 36.69423642010727,
+            "lng": 137.8618581201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJXaX61JLT918R7MxgLSSy0vk",
-    "plus_code": {
-      "compound_code": "MVW7+57 長野県白馬村",
-      "global_code": "8Q8VMVW7+57"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "HAKUBA COFFEE STAND",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113142160990865120645\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAaUXOnbPW7_QEe2Fbdx_IKzqHTBH6GG0SQ9TcTJCb0pNAbDiE12JhLKhLJGzXnHWK5sXdnLBI5V8zLtmUvcUrvQkXB6t2ovWHG-7685Sggxvwiq8DuZsQzUNeiKujLcJhF7hGSHwVfJCM8F-7CO_t_86RKbhNhEOL6A_-9vnDR7D5P",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJXaX61JLT918R7MxgLSSy0vk",
+      "plus_code": {
+        "compound_code": "MVW7+57 白馬村、長野県",
+        "global_code": "8Q8VMVW7+57"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

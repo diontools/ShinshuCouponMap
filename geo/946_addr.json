@@ -1,108 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "柘植ビル",
-        "short_name": "柘植ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１５−７",
-        "short_name": "１５−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳２丁目１５−７ 柘植ビル 1階",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6466422,
-          "lng": 138.1911973
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳２丁目１５−７ 柘植ビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.64656430000001,
+          "lng": 138.1911106
         },
-        "southwest": {
-          "lat": 36.6464954,
-          "lng": 138.1910398
+        "viewport": {
+          "northeast": {
+            "lat": 36.64786182989273,
+            "lng": 138.1924084798927
+          },
+          "southwest": {
+            "lat": 36.64516217010728,
+            "lng": 138.1897088201073
+          }
         }
       },
-      "location": {
-        "lat": 36.64656430000001,
-        "lng": 138.1911106
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6478999302915,
-          "lng": 138.1924509802915
-        },
-        "southwest": {
-          "lat": 36.6452019697085,
-          "lng": 138.1897530197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "柘植ビル 1階",
+      "photos": [
+        {
+          "height": 1328,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105197012006174628527\">kanb1129</a>"
+          ],
+          "photo_reference": "Aap_uEANbtq79eJHoeDlesBzY2obWCelrUEcvDGxSjwsGCwP7uppfAZgVA-p9KSWv8R-KVfWjmiqZ8O6n8kjzMoOBFJYnVYwPo8kAkD6hhjJYMGulxtcp2wRieq2YrM5zYN93KBHEHr9Eq3VukwLiAqrNddZwwunRhpR6jXJKm-t8nYTlwuR",
+          "width": 1892
         }
-      }
-    },
-    "place_id": "ElNKYXBhbiwg44CSMzgwLTA4MjMgTmFnYW5vLCBNaW5hbWljaGl0b3NlLCAyLWNoxY1tZeKIku-8ke-8leKIku-8lyDmn5jmpI3jg5Pjg6sgMemajiIgGh4KFgoUChIJi7U-yfKGHWARp3igjDOKw_kSBDHpmo4",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "Elfml6XmnKzjgIHjgJIzODAtMDgyMyDplbfph47nnIzplbfph47luILljZfljYPmrbPvvJLkuIHnm67vvJHvvJXiiJLvvJcg5p-Y5qSN44OT44OrIDHpmo4iIBoeChYKFAoSCYu1Psnyhh1gEad4oIwzisP5EgQx6ZqO",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

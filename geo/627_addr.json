@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "権堂町",
-        "short_name": "権堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0833",
-        "short_name": "380-0833",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0833 長野県長野市鶴賀権堂町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6548368,
-          "lng": 138.1932483
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0833 長野県長野市鶴賀権堂町",
+      "geometry": {
+        "location": {
+          "lat": 36.6525035,
+          "lng": 138.1914796
         },
-        "southwest": {
-          "lat": 36.6512211,
-          "lng": 138.1872704
+        "viewport": {
+          "northeast": {
+            "lat": 36.6548368,
+            "lng": 138.1932483
+          },
+          "southwest": {
+            "lat": 36.6512211,
+            "lng": 138.1872704
+          }
         }
       },
-      "location": {
-        "lat": 36.6525035,
-        "lng": 138.1914796
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6548368,
-          "lng": 138.1932483
-        },
-        "southwest": {
-          "lat": 36.6512211,
-          "lng": 138.1872704
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0833 長野県長野市鶴賀権堂町",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107370512235971735324\">Naonori Horikawa</a>"
+          ],
+          "photo_reference": "Aap_uECg3ZEOw4wHPBq3AWyJ8wu5xY88bMxoe6HKDvQ-RTAfC9W7p0bE9aRxfm5aIIzLXxTZ-xyCQ5DgIOH_EgjNjN-9u3BajUWRFKQRXWJrQ8k6fmRNz5c2Ap2jHV4ptGkdOqhoW0LGTjjN5G5VwrxHcHdp4pPp88IAPTJMHoLW0qX9SBNe",
+          "width": 4032
         }
-      }
-    },
-    "place_id": "ChIJFacYMPCGHWARXpjra-aPC-A",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJFacYMPCGHWARXpjra-aPC-A",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

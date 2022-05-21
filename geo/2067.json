@@ -1,64 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１ MIDORI 4階",
+      "geometry": {
+        "location": {
+          "lat": 36.231189,
+          "lng": 137.9645373
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23274202989272,
+            "lng": 137.9660407298927
+          },
+          "southwest": {
+            "lat": 36.23004237010727,
+            "lng": 137.9633410701072
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "松本からあげセンター",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108365698365060998940\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECJvYgHe7pQ_jCGHLLEoJJ0UqDFlrtyKzDVcVVF5L7suu2c0AK7dAL_Vblnh93DV-2SCrMOHtNOU9j0zTrnL3vf3ubUzU76MsyEceWTc-n8tnLHEUfrQBUb6D6QSOPKk2cu7evx0MRwlWdUjXme4sCrw_mK8DMWppWVcHx2iArgCDes",
+          "width": 5760
         }
-      }
+      ],
+      "place_id": "ChIJ25LHw4sOHWARGO_jEMazFKk",
+      "plus_code": {
+        "compound_code": "6XJ7+FR 松本市、長野県",
+        "global_code": "8Q8V6XJ7+FR"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0014 長野県松本市平田東２丁目１０−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.1943059,
+          "lng": 137.9657736
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.19571712989271,
+            "lng": 137.9672074298927
+          },
+          "southwest": {
+            "lat": 36.19301747010727,
+            "lng": 137.9645077701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "からあげセンター松本平田店",
+      "photos": [
+        {
+          "height": 2863,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101419187440319120779\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEChZSbp6XC_6VYP6xW1XvvpJCynMcZ5UWHsyGitlSrem3CCzTsm7pOlewz9IBW9oX2E73XFZKYbglKilcg1ccwPeP4PSSIIyjkNsgOBG26KYXWV2uLfPuZiU2V3ZPSjMCCuMi65f0MxMvCaR0i7z6rtHPXVctOgmF7-2wHUXdu5I6yM",
+          "width": 4295
+        }
+      ],
+      "place_id": "ChIJ57JsjgsPHWARmfRA2KuP8kE",
+      "plus_code": {
+        "compound_code": "5XV8+P8 松本市、長野県",
+        "global_code": "8Q8V5XV8+P8"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

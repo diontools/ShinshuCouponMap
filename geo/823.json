@@ -1,99 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "竹風堂",
-        "short_name": "竹風堂",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５１１",
-        "short_name": "５１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大門町",
-        "short_name": "大門町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0841",
-        "short_name": "380-0841",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0841 長野県長野市長野大門町５１１ 竹風堂",
-    "geometry": {
-      "location": {
-        "lat": 36.656928,
-        "lng": 138.187263
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6582814802915,
-          "lng": 138.1887293802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0841 長野県長野市長野５１１ 竹風堂",
+      "geometry": {
+        "location": {
+          "lat": 36.656933,
+          "lng": 138.187369
         },
-        "southwest": {
-          "lat": 36.6555835197085,
-          "lng": 138.1860314197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65828232989272,
+            "lng": 138.1887302298927
+          },
+          "southwest": {
+            "lat": 36.65558267010728,
+            "lng": 138.1860305701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7ajmiuSGHWARP1CEics7z4A",
-    "plus_code": {
-      "compound_code": "M54P+QW 日本、長野県長野市",
-      "global_code": "8Q8WM54P+QW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "竹風堂 善光寺大門店",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109745362959442670407\">竹之内英行</a>"
+          ],
+          "photo_reference": "Aap_uEAy_nRMA8JSmONmHHi3iPHDrLF0Gdm3lVYtwlvvbt9UxD5CcVfOrjnEVpnymMBpBHXQbQxG0_ifcZ1-401ejKx4-Unhpc0BKdu8z5b6zxgiKnw_MaOqdua4Vzh0rQP62iCBy3UOZIGVZPhCLGdsFFnwvKf1s3Mt2kse-HrwO8YxizSf",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ7ajmiuSGHWARP1CEics7z4A",
+      "plus_code": {
+        "compound_code": "M54P+QW 長野市、長野県",
+        "global_code": "8Q8WM54P+QW"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

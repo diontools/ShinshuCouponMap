@@ -1,100 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１−１４３６",
-        "short_name": "１−１４３６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広原",
-        "short_name": "広原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "立沢",
-        "short_name": "立沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0212",
-        "short_name": "399-0212",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0212 長野県諏訪郡富士見町立沢広原１−１４３６",
-    "geometry": {
-      "location": {
-        "lat": 35.9355147,
-        "lng": 138.2936106
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9368457302915,
-          "lng": 138.2951559802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0212 長野県諏訪郡富士見町立沢広原１−１４３６",
+      "geometry": {
+        "location": {
+          "lat": 35.9355158,
+          "lng": 138.2936613
         },
-        "southwest": {
-          "lat": 35.9341477697085,
-          "lng": 138.2924580197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.93684657989272,
+            "lng": 138.2951568298927
+          },
+          "southwest": {
+            "lat": 35.93414692010728,
+            "lng": 138.2924571701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJqT1BBJZDHGARm3-z87ZlFsg",
-    "plus_code": {
-      "compound_code": "W7PV+6C 長野県富士見町",
-      "global_code": "8Q7WW7PV+6C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "八ヶ岳カントリーキッチンレストラン",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106465798653881029768\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDyQKGFCSU63aPwaUaLLUlFC8jVnr5I2X2TL6q3_TGcKXouSrT0l4ivsiAhQfYq1Z2Eu-60XYn5ZAObZ8TvfQ42O-bUfSvEjcV4JIarG0lqi7vEH0SdRnHvSQlq4Vh4sXLRr6lKO2kKnZKI8PswGLclSGitPTn95HT0zWtM81e8LPh2",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJqT1BBJZDHGARm3-z87ZlFsg",
+      "plus_code": {
+        "compound_code": "W7PV+6C 富士見町、長野県",
+        "global_code": "8Q7WW7PV+6C"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

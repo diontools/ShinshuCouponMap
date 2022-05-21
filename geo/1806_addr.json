@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１０５−２２",
-        "short_name": "２１０５−２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明２１０５−２２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3690411,
-          "lng": 137.8474391
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明２１０５−２２",
+      "geometry": {
+        "location": {
+          "lat": 36.3687966,
+          "lng": 137.8472836
         },
-        "southwest": {
-          "lat": 36.368476,
-          "lng": 137.8464801
+        "viewport": {
+          "northeast": {
+            "lat": 36.37024077989273,
+            "lng": 137.8487249298927
+          },
+          "southwest": {
+            "lat": 36.36754112010728,
+            "lng": 137.8460252701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3687966,
-        "lng": 137.8472836
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3701075302915,
-          "lng": 137.8483223302915
-        },
-        "southwest": {
-          "lat": 36.36740956970851,
-          "lng": 137.8456243697085
-        }
-      }
-    },
-    "place_id": "ChIJI6k1D9RuHWARe9YGvvIVWSQ",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-8301 長野県安曇野市穂高有明２１０５−２２",
+      "place_id": "ChIJI6k1D9RuHWARe9YGvvIVWSQ",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

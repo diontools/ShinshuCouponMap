@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県伊那市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9748294,
-          "lng": 138.2369216
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0621 長野県伊那市富県１０５４",
+      "geometry": {
+        "location": {
+          "lat": 35.7950778,
+          "lng": 138.0354546
         },
-        "southwest": {
-          "lat": 35.5707672,
-          "lng": 137.8240581
+        "viewport": {
+          "northeast": {
+            "lat": 35.79640257989271,
+            "lng": 138.0367812798928
+          },
+          "southwest": {
+            "lat": 35.79370292010727,
+            "lng": 138.0340816201073
+          }
         }
       },
-      "location": {
-        "lat": 35.8274657,
-        "lng": 137.9540692
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9748294,
-          "lng": 138.2369216
-        },
-        "southwest": {
-          "lat": 35.5707672,
-          "lng": 137.8240581
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "農家民宿機織り工房ふだん着",
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111099345876033074654\">takashi numajiri</a>"
+          ],
+          "photo_reference": "Aap_uEDY5THrG2QYYkqS3fPsxgTGPnTAGFHfue2ONoY7-htKaxsFdjWdZ69cg847nixnpqT5AHozdWARLjZjnNzi92iUeDTCd89DYUKlObUMUEHBjLblDgMt4nmhSiT7u7UZWZkJ5RZtaDXwGOq3uY38qv2gk7oNyEVzmUtNBcM0rqzcaSIM",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJwUO1ANL0HGARHwZp4eUdL-o",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJL8zgb-T0HGARy-HKLTxOCRY",
+      "plus_code": {
+        "compound_code": "Q2WP+25 伊那市、長野県",
+        "global_code": "8Q7WQ2WP+25"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

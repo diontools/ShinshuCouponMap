@@ -1,101 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "かっぱ寿司南松本店",
-        "short_name": "かっぱ寿司南松本店",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１８",
-        "short_name": "１８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "双葉",
-        "short_name": "双葉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0833",
-        "short_name": "390-0833",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0833 長野県松本市双葉１８−２２ かっぱ寿司南松本店",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2121866,
-          "lng": 137.9616795
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0833 長野県松本市双葉１８−２２",
+      "geometry": {
+        "location": {
+          "lat": 36.2120619,
+          "lng": 137.96106
         },
-        "southwest": {
-          "lat": 36.2116749,
-          "lng": 137.9609654
+        "viewport": {
+          "northeast": {
+            "lat": 36.21339372989273,
+            "lng": 137.9623504798928
+          },
+          "southwest": {
+            "lat": 36.21069407010728,
+            "lng": 137.9596508201073
+          }
         }
       },
-      "location": {
-        "lat": 36.2119606,
-        "lng": 137.9613323
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2132797302915,
-          "lng": 137.9626639802915
-        },
-        "southwest": {
-          "lat": 36.2105817697085,
-          "lng": 137.9599660197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 南松本店",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111125008704532514883\">moke moke</a>"
+          ],
+          "photo_reference": "Aap_uEA3Tsbnnf_0U4gRfYHbZbru8gnnKHJzaiMjwAgMCSRA_ZrFxGi9x7Joe_g7RHSj1yTBKh0vz6orHJ8rDuKv8gejgUVLRvWAPFdk-3nxlzqecRPLm8RMA5wm5HsN32f-wvn_e7zrHjvLqzPMrDP6WtoWqyOQEH4PaQitfT52F1Ctjp4k",
+          "width": 5312
         }
-      }
-    },
-    "place_id": "ChIJt4iWA1YOHWAR4qVVAdyePK4",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJSQ1v_jG5ml8R9IIYLM7399U",
+      "plus_code": {
+        "compound_code": "6X66+RC 松本市、長野県",
+        "global_code": "8Q8V6X66+RC"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

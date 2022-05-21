@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0851 長野県長野市元善町４８６ 善光寺 仲見世通り",
+      "geometry": {
+        "location": {
+          "lat": 36.65982450000001,
+          "lng": 138.1874632
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.66117432989272,
+            "lng": 138.1888130298927
+          },
+          "southwest": {
+            "lat": 36.65847467010728,
+            "lng": 138.1861133701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "九九や旬粋(おみやげ＆クレープ）",
+      "photos": [
+        {
+          "height": 3268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110807531686252733131\">Masahiko Motono</a>"
+          ],
+          "photo_reference": "Aap_uEACY2RZUCYctIiXoC4bwfTA6skzi8KpX3MLV5YfbKni5KyissTOXaSi8MmVF66bF6LRIfqAZDBgK-XiFqHFPlVkYAC9u7ccMMHY90C8U3H6CvtjX__5kWxS4irqxaqwQua_90I77geV_ulYDqasNBlzqwGH6R5KgHA8QRB3Fa6w37fs",
+          "width": 4895
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJi3FnCOOGHWARBSaWzZnkpHc",
+      "plus_code": {
+        "compound_code": "M55P+WX 長野市、長野県",
+        "global_code": "8Q8WM55P+WX"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

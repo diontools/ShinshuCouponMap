@@ -1,88 +1,67 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "昌栄高速運輸",
-        "short_name": "昌栄高速運輸",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２５",
-        "short_name": "２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神明",
-        "short_name": "神明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "388-8020",
-        "short_name": "388-8020",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒388-8020 長野県長野市神明２５ 昌栄高速運輸",
-    "geometry": {
-      "location": {
-        "lat": 36.590089,
-        "lng": 138.180321
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.59143573029149,
-          "lng": 138.1815594302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒388-8020 長野県長野市神明２５ 昌栄高速運輸",
+      "geometry": {
+        "location": {
+          "lat": 36.5900884,
+          "lng": 138.1802909
         },
-        "southwest": {
-          "lat": 36.58873776970849,
-          "lng": 138.1788614697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.59143657989272,
+            "lng": 138.1815602798927
+          },
+          "southwest": {
+            "lat": 36.58873692010728,
+            "lng": 138.1788606201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "平和観光（株）",
+      "place_id": "ChIJb4hbzV-EHWARLJpnaU2KSIg",
+      "plus_code": {
+        "compound_code": "H5RJ+24 長野市、長野県",
+        "global_code": "8Q8WH5RJ+24"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJb4hbzV-EHWARLJpnaU2KSIg",
-    "plus_code": {
-      "compound_code": "H5RJ+24 日本、長野県長野市",
-      "global_code": "8Q8WH5RJ+24"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒381-2247 長野県長野市青木島１丁目４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.618061,
+          "lng": 138.181153
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.61941082989272,
+            "lng": 138.1825028298927
+          },
+          "southwest": {
+            "lat": 36.61671117010727,
+            "lng": 138.1798031701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "平和観光タクシー",
+      "place_id": "ChIJmYuYQyKEHWARzX7BqYpGuSc",
+      "plus_code": {
+        "compound_code": "J59J+6F 長野市、長野県",
+        "global_code": "8Q8WJ59J+6F"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

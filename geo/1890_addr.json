@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６１０−４",
-        "short_name": "１６１０−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘野村",
-        "short_name": "広丘野村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0702",
-        "short_name": "399-0702",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村１６１０−４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1452303,
-          "lng": 137.9500946
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村１６１０−４",
+      "geometry": {
+        "location": {
+          "lat": 36.1451155,
+          "lng": 137.9500209
         },
-        "southwest": {
-          "lat": 36.144987,
-          "lng": 137.9499101
+        "viewport": {
+          "northeast": {
+            "lat": 36.14651882989272,
+            "lng": 137.9514217298927
+          },
+          "southwest": {
+            "lat": 36.14381917010728,
+            "lng": 137.9487220701073
+          }
         }
       },
-      "location": {
-        "lat": 36.1451155,
-        "lng": 137.9500209
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1464576302915,
-          "lng": 137.9513654802915
-        },
-        "southwest": {
-          "lat": 36.1437596697085,
-          "lng": 137.9486675197085
-        }
-      }
-    },
-    "place_id": "ChIJIR1BPxIFHWARvE6ixMX1IG8",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-0702 長野県塩尻市広丘野村１６１０−４",
+      "place_id": "ChIJIR1BPxIFHWARvE6ixMX1IG8",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

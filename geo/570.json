@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３８０−１",
-        "short_name": "１３８０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "粟佐",
-        "short_name": "粟佐",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0006",
-        "short_name": "387-0006",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0006 長野県千曲市粟佐１３８０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.5387006,
-        "lng": 138.1226522
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5400441802915,
-          "lng": 138.1239353802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0006 長野県千曲市粟佐１３８０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.5386994,
+          "lng": 138.1226372
         },
-        "southwest": {
-          "lat": 36.5373462197085,
-          "lng": 138.1212374197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.54004502989272,
+            "lng": 138.1239362298928
+          },
+          "southwest": {
+            "lat": 36.53734537010727,
+            "lng": 138.1212365701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJ2pltoKDHWARhdBPco5AAKQ",
-    "plus_code": {
-      "compound_code": "G4QF+F3 日本、長野県千曲市",
-      "global_code": "8Q8WG4QF+F3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かつや 千曲店",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114483266524912824173\">英慈 gomi</a>"
+          ],
+          "photo_reference": "Aap_uEAQsY4s4anD7ztUIX2R4VSBo2AfI8MckeLaRr9CDjAqFaPJjq4XOT2Hn74DqDIJSxZcetiWTJj82sYYzS3NHBbEjmasuE_VnhUgI6gGkooo7an2I_8dHZZ3Y-J5iNPSyMzwQIXLozec5hZaR9kgfkK-g_snsopTwLk6HLZ3_qwTf5Za",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJJ2pltoKDHWARhdBPco5AAKQ",
+      "plus_code": {
+        "compound_code": "G4QF+F3 千曲市、長野県",
+        "global_code": "8Q8WG4QF+F3"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

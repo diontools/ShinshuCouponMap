@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５００−１",
-        "short_name": "３５００−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "荒井",
-        "short_name": "荒井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "396-0025",
-        "short_name": "396-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒396-0025 長野県伊那市荒井３５００−１ いなっせビル１F",
-    "geometry": {
-      "location": {
-        "lat": 35.8396243,
-        "lng": 137.9584679
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8409246302915,
-          "lng": 137.9597511302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0025 長野県伊那市荒井３５００−１ いなっせビル１F",
+      "geometry": {
+        "location": {
+          "lat": 35.8395951,
+          "lng": 137.9584379
         },
-        "southwest": {
-          "lat": 35.8382266697085,
-          "lng": 137.9570531697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.84092547989271,
+            "lng": 137.9597519798927
+          },
+          "southwest": {
+            "lat": 35.83822582010727,
+            "lng": 137.9570523201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzdmP-KjxHGAR-gAUQcuGwWM",
-    "plus_code": {
-      "compound_code": "RXQ5+R9 長野県伊那市",
-      "global_code": "8Q7VRXQ5+R9"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "かんてんぱぱショップ 駅前いなっせ店",
+      "photos": [
+        {
+          "height": 1909,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110068882522828182979\">mitsutaka suganuma</a>"
+          ],
+          "photo_reference": "Aap_uEBkugtlAE6DRNV6BhnF-by-MFSt6cbOmRW2GUaPKqtetrgrpKHJgUTRQQtdTqNtghSlTW2ZGaBSMIrtb3Eu6qt1t11y6juj28FGq0Cztg-jFjsZ4dX336fUXzoCVNDXOmegS6e-ueUIzWVNX7Lk2rkcDQ_-rE426LdP8-0vfbZVOTJT",
+          "width": 2555
+        }
+      ],
+      "place_id": "ChIJzdmP-KjxHGAR-gAUQcuGwWM",
+      "plus_code": {
+        "compound_code": "RXQ5+R9 伊那市、長野県",
+        "global_code": "8Q7VRXQ5+R9"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

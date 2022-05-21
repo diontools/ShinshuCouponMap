@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-8540",
-        "short_name": "392-8540",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-8540 長野県諏訪市湖岸通り２丁目３−１７",
-    "geometry": {
-      "location": {
-        "lat": 36.054068,
-        "lng": 138.112561
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0554609302915,
-          "lng": 138.1138420302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-8540 長野県諏訪市湖岸通り２丁目３−１７",
+      "geometry": {
+        "location": {
+          "lat": 36.054061,
+          "lng": 138.1125185
         },
-        "southwest": {
-          "lat": 36.0527629697085,
-          "lng": 138.1111440697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05546177989272,
+            "lng": 138.1138428798927
+          },
+          "southwest": {
+            "lat": 36.05276212010728,
+            "lng": 138.1111432201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJv6for6lVHGARYmDjg0ayafw",
-    "plus_code": {
-      "compound_code": "3437+J2 長野県諏訪市",
-      "global_code": "8Q8W3437+J2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "竹屋（タケヤ味噌会館）",
+      "photos": [
+        {
+          "height": 1112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106897660499592476984\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBxtJ9EhfaP0_XzSPrhXYpBon6zTyyKrPn1jtxNvuVS9P5fil-72ghSBMobQYf9B3xey1qWcuL9pMn9iAjawkEI92e74oNJ_DLMvdkRqiCrpiUUvZ2EaoNsQmvPipDJTkOML-OeAY4mL0LWAXqXoyhbx6tvfNsP60aKOXg81U5TEAyK",
+          "width": 1105
+        }
+      ],
+      "place_id": "ChIJv6for6lVHGARYmDjg0ayafw",
+      "plus_code": {
+        "compound_code": "3437+J2 諏訪市、長野県",
+        "global_code": "8Q8W3437+J2"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

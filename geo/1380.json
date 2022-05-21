@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６７４−１",
-        "short_name": "１６７４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "別所温泉",
-        "short_name": "別所温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1431",
-        "short_name": "386-1431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６７４−１",
-    "geometry": {
-      "location": {
-        "lat": 36.345948,
-        "lng": 138.1565975
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.34729738029149,
-          "lng": 138.1579462302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６７４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.345948,
+          "lng": 138.1565975
         },
-        "southwest": {
-          "lat": 36.3445994197085,
-          "lng": 138.1552482697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34729822989272,
+            "lng": 138.1579470798927
+          },
+          "southwest": {
+            "lat": 36.34459857010727,
+            "lng": 138.1552474201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC2ri8WChHWARFkWtym6ogLQ",
-    "plus_code": {
-      "compound_code": "85W4+9J 日本、長野県上田市",
-      "global_code": "8Q8W85W4+9J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "松籟亭",
+      "photos": [
+        {
+          "height": 811,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117173248306722953783\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA6Cyl98dJ0gwjeDqjEcxckdimezv9a5E7oPzEuJukjg9Q4hZPwBKeR6PNauSMvPyqMDM8despGxRk5L7fx17irfHovwUexI6lhCooxO6okzjcto9gzrdq2QCelFuNd9SpikL7oImKCb1ijcCzA8ELJJNR_-y4kSISm3kuZxszKhVcE",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJC2ri8WChHWARFkWtym6ogLQ",
+      "plus_code": {
+        "compound_code": "85W4+9J 上田市、長野県",
+        "global_code": "8Q8W85W4+9J"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

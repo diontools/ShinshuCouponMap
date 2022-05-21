@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡北安曇郡白馬村 神城22342-24",
+      "geometry": {
+        "location": {
+          "lat": 36.661521,
+          "lng": 137.84416
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.66265327989272,
+            "lng": 137.8454868298927
+          },
+          "southwest": {
+            "lat": 36.65995362010728,
+            "lng": 137.8427871701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "パルズイン雷鳥",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106063507513318552080\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBHh7Yp0QctAm__6rvxEhRFfcXzRu3NLQ2-tGXtXPK6-8Jq0p1OD0GnRJ-OtXKCj1ZmNBV8GGxHba9wep_7Vcw-eaYf85fHmp6osdnMNgz6Lz4wqn0BZoGdGyduMK0aEG__ogl7JRtjLC8NB8Y3JVLaRmahfioWK8aKASTzk0IxCPmE",
+          "width": 4000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJhcSDmlTQ918R1poE-JbWGnw",
+      "plus_code": {
+        "compound_code": "MR6V+JM 白馬村、長野県",
+        "global_code": "8Q8VMR6V+JM"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

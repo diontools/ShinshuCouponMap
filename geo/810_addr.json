@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "新田町",
-        "short_name": "新田町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0835",
-        "short_name": "380-0835",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0835 長野県長野市南長野新田町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6507939,
-          "lng": 138.1877078
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0835 長野県長野市南長野新田町",
+      "geometry": {
+        "location": {
+          "lat": 36.6494024,
+          "lng": 138.1861975
         },
-        "southwest": {
-          "lat": 36.6477206,
-          "lng": 138.1847786
+        "viewport": {
+          "northeast": {
+            "lat": 36.6507939,
+            "lng": 138.1877078
+          },
+          "southwest": {
+            "lat": 36.6477206,
+            "lng": 138.1847786
+          }
         }
       },
-      "location": {
-        "lat": 36.6494024,
-        "lng": 138.1861975
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6507939,
-          "lng": 138.1877078
-        },
-        "southwest": {
-          "lat": 36.6477206,
-          "lng": 138.1847786
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0835 長野県長野市南長野新田町",
+      "photos": [
+        {
+          "height": 2672,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104197522006835713116\">AZ FLASH</a>"
+          ],
+          "photo_reference": "Aap_uECzHK5dG4weyKwZMZFLwEgz_KJdk8NzguVOKmAVjlQS7bHbTci4wYOTJMtgBwMbw3gpfmrcmRmcggNENSXP57QBpdzF9oTSNratl8qekIBzXEq9vrQPMIt4jKz5GKNfNqPrZkDf-ySVmu83TD7WTeWiXX2EAc7aNDy3CktDPQjhuNID",
+          "width": 4000
         }
-      }
-    },
-    "place_id": "ChIJ9VnakO6GHWARqxPukOKROIs",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ9VnakO6GHWARqxPukOKROIs",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

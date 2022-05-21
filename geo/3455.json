@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１−１６",
-        "short_name": "１−１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "元町",
-        "short_name": "元町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-8686",
-        "short_name": "392-8686",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-8686 長野県諏訪市元町１−１−１６",
-    "geometry": {
-      "location": {
-        "lat": 36.0396104,
-        "lng": 138.1227382
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04097848029149,
-          "lng": 138.1241756802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-8686 長野県諏訪市元町１−１６",
+      "geometry": {
+        "location": {
+          "lat": 36.0396564,
+          "lng": 138.122829
         },
-        "southwest": {
-          "lat": 36.03828051970849,
-          "lng": 138.1214777197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04097932989272,
+            "lng": 138.1241765298927
+          },
+          "southwest": {
+            "lat": 36.03827967010728,
+            "lng": 138.1214768701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ199wWDRUHGARU2MBdpvIfcc",
-    "plus_code": {
-      "compound_code": "24QF+R3 長野県諏訪市",
-      "global_code": "8Q8W24QF+R3"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "蔵元ショップ セラ真澄",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113970221149444234733\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBQpw7_9gkHBsDGsBRiA7fVkaNI7u6v8kyAnDf9bmnk5F19lTFxH2XtL_iHrSOW8wvWm8n_j-w9mdrQQzFEcl2FraIKSUZz04w46d2-c60v3hNyY0iP0k9SdnRCMvaFUB7kTy_ZQu9xcnq3ciooVVA1xnrgUO0FAesJ_pSsZrP1vPlj",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ199wWDRUHGARU2MBdpvIfcc",
+      "plus_code": {
+        "compound_code": "24QF+R3 諏訪市、長野県",
+        "global_code": "8Q8W24QF+R3"
+      },
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

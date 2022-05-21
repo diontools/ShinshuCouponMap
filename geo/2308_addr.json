@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７３−１４",
-        "short_name": "１１７３−１４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈川",
-        "short_name": "奈川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1611",
-        "short_name": "390-1611",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1611 長野県松本市奈川１１７３−１４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0418215,
-          "lng": 137.7020215
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-1611 長野県松本市奈川１１７３−１４",
+      "geometry": {
+        "location": {
+          "lat": 36.0417285,
+          "lng": 137.7018709
         },
-        "southwest": {
-          "lat": 36.0416061,
-          "lng": 137.701725
+        "viewport": {
+          "northeast": {
+            "lat": 36.04298517989272,
+            "lng": 137.7030865798927
+          },
+          "southwest": {
+            "lat": 36.04028552010728,
+            "lng": 137.7003869201073
+          }
         }
       },
-      "location": {
-        "lat": 36.0417285,
-        "lng": 137.7018709
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0430308302915,
-          "lng": 137.7031610302915
-        },
-        "southwest": {
-          "lat": 36.0403328697085,
-          "lng": 137.7004630697085
-        }
-      }
-    },
-    "place_id": "ChIJXfAx1EEjHWARp-RhdUutwBo",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-1611 長野県松本市奈川１１７３−１４",
+      "place_id": "ChIJXfAx1EEjHWARp-RhdUutwBo",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

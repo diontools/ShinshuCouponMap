@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８３６−１６",
-        "short_name": "３８３６−１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元大島",
-        "short_name": "元大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3303",
-        "short_name": "399-3303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島３８３６−１６",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5969317,
-          "lng": 137.9126758
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島３８３６−１６",
+      "geometry": {
+        "location": {
+          "lat": 35.5968675,
+          "lng": 137.9126039
         },
-        "southwest": {
-          "lat": 35.5967738,
-          "lng": 137.912509
+        "viewport": {
+          "northeast": {
+            "lat": 35.59818832989272,
+            "lng": 137.9140212798927
+          },
+          "southwest": {
+            "lat": 35.59548867010728,
+            "lng": 137.9113216201073
+          }
         }
       },
-      "location": {
-        "lat": 35.5968675,
-        "lng": 137.9126039
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5982017302915,
-          "lng": 137.9139729802915
-        },
-        "southwest": {
-          "lat": 35.59550376970851,
-          "lng": 137.9112750197085
-        }
-      }
-    },
-    "place_id": "ChIJOysWWCOQHGARIQpVRU_MjkA",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-3303 長野県下伊那郡松川町元大島３８３６−１６",
+      "place_id": "ChIJOysWWCOQHGARIQpVRU_MjkA",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

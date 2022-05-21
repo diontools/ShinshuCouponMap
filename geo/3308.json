@@ -1,90 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4112",
-        "short_name": "399-4112",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4112 長野県駒ヶ根市中央４−５",
-    "geometry": {
-      "location": {
-        "lat": 35.735688,
-        "lng": 137.936204
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.73702958029149,
-          "lng": 137.9376425802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4112 長野県駒ヶ根市中央４−５",
+      "geometry": {
+        "location": {
+          "lat": 35.7356878,
+          "lng": 137.9362108
         },
-        "southwest": {
-          "lat": 35.7343316197085,
-          "lng": 137.9349446197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.73703042989273,
+            "lng": 137.9376434298927
+          },
+          "southwest": {
+            "lat": 35.73433077010728,
+            "lng": 137.9349437701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_aGp17DyHGARHbC2voPY-aM",
-    "plus_code": {
-      "compound_code": "PWPP+7F 長野県駒ヶ根市",
-      "global_code": "8Q7VPWPP+7F"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "丸八タクシー(伊南乗用自動車)",
+      "place_id": "ChIJ_aGp17DyHGARHbC2voPY-aM",
+      "plus_code": {
+        "compound_code": "PWPP+7F 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWPP+7F"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

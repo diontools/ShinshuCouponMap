@@ -1,85 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５６８−１",
-        "short_name": "５６８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鋳物師屋",
-        "short_name": "鋳物師屋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0015",
-        "short_name": "387-0015",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0015 長野県千曲市鋳物師屋５６８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.518484,
-        "lng": 138.1236319
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5199018802915,
-          "lng": 138.1250986802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0015 長野県千曲市鋳物師屋５６８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.518484,
+          "lng": 138.1236319
         },
-        "southwest": {
-          "lat": 36.5172039197085,
-          "lng": 138.1224007197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.51990272989273,
+            "lng": 138.1250995298927
+          },
+          "southwest": {
+            "lat": 36.51720307010729,
+            "lng": 138.1223998701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNzUsa6qdHWARcPwBI5eW2QY",
-    "plus_code": {
-      "compound_code": "G49F+9F 日本、長野県千曲市",
-      "global_code": "8Q8WG49F+9F"
-    },
-    "types": [
-      "bakery",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "りんごの木 千曲店",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109526892381772214923\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAYi0kN3KW5AYukyFRlOQ_KG0StvPDG8Iaq1e5uPK3p1g9FwYXqSr6ZGaM1Gih_xoKuOokNtmRyF0S1n0_BdMtXBYD4dOLGmvHgmQME_N_yI4IFzHdEcaLJ8XIZMsRA4_uFn2QxBNGerKmTEABwakbyJ34VOpd2kAeUPmOsi44m_vI4",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJNzUsa6qdHWARcPwBI5eW2QY",
+      "plus_code": {
+        "compound_code": "G49F+9F 千曲市、長野県",
+        "global_code": "8Q8WG49F+9F"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８００−１",
-        "short_name": "３８００−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎",
-        "short_name": "鼎",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0806",
-        "short_name": "395-0806",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0806 長野県飯田市鼎３８００−１",
-    "geometry": {
-      "location": {
-        "lat": 35.5067676,
-        "lng": 137.8094207
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5079830302915,
-          "lng": 137.8106954302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0806 長野県飯田市鼎３８００−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5067137,
+          "lng": 137.8093845
         },
-        "southwest": {
-          "lat": 35.50528506970851,
-          "lng": 137.8079974697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50798387989273,
+            "lng": 137.8106962798927
+          },
+          "southwest": {
+            "lat": 35.50528422010728,
+            "lng": 137.8079966201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7cKlOLGZHGARUjG-YE-9_Og",
-    "plus_code": {
-      "compound_code": "GR45+PQ 長野県飯田市",
-      "global_code": "8Q7VGR45+PQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "キッチンこいけ",
+      "photos": [
+        {
+          "height": 4248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116121104458337717093\">Kenji</a>"
+          ],
+          "photo_reference": "Aap_uEDseA1s3ICZgiZH9J6lB_78wCksfKoMe2QZvzOJQvTcLmlKfpC22rrvH6LWCroZykHKTlI-9C3_6Cm3cJrBKx9hojMLhXp63PimX1uhbzmcGrFjhHmUXi_G_5s9UMRMU87BjBj4BivdmQGdCOmNyFRMVLRTqHUbjbHMsmiWGIuSlhkz",
+          "width": 5664
+        }
+      ],
+      "place_id": "ChIJ7cKlOLGZHGARUjG-YE-9_Og",
+      "plus_code": {
+        "compound_code": "GR45+PQ 飯田市、長野県",
+        "global_code": "8Q7VGR45+PQ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５４９",
-        "short_name": "１５４９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西鶴賀町",
-        "short_name": "西鶴賀町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0907",
-        "short_name": "380-0907",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0907 長野県長野市鶴賀西鶴賀町１５４９",
-    "geometry": {
-      "location": {
-        "lat": 36.6521932,
-        "lng": 138.1955668
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6535823802915,
-          "lng": 138.1969225302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0811 長野県長野市東鶴賀町１５４９−３",
+      "geometry": {
+        "location": {
+          "lat": 36.652076,
+          "lng": 138.1964237
         },
-        "southwest": {
-          "lat": 36.6508844197085,
-          "lng": 138.1942245697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65342497989272,
+            "lng": 138.1977629798927
+          },
+          "southwest": {
+            "lat": 36.65072532010728,
+            "lng": 138.1950633201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ89VvGfSGHWARICRGXGI1mNo",
-    "plus_code": {
-      "compound_code": "M52W+V6 長野県長野市",
-      "global_code": "8Q8WM52W+V6"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ファミリー旅館 梅岡 UMEOKA-inn",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104716436152248249225\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAv-tLh6A0BE64AN6zStA7eFhOfndCuGkaVcchd6qKkJMjzyZSMUNe2XFgvZ39X9OVcu8HO-ETEUK5S1nCQMz7xeQ32Z1Zumn23kezlMWFcS9PQ6fkCg6gMQXVOjzK7GyryFcGyBzYilvL5vndm83mLBMXy3Sy-k4lZLkNXi3jYJJnC",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJTZJjN_SGHWARsx7EZoY8iT0",
+      "plus_code": {
+        "compound_code": "M52W+RH 長野市、長野県",
+        "global_code": "8Q8WM52W+RH"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

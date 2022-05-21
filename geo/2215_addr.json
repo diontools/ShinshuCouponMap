@@ -1,99 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０",
-        "short_name": "２０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目２０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2334458,
-          "lng": 137.968768
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目２０",
+      "geometry": {
+        "location": {
+          "lat": 36.233244,
+          "lng": 137.9681396
         },
-        "southwest": {
-          "lat": 36.2330234,
-          "lng": 137.9673876
+        "viewport": {
+          "northeast": {
+            "lat": 36.23458442989272,
+            "lng": 137.9694276298927
+          },
+          "southwest": {
+            "lat": 36.23188477010728,
+            "lng": 137.9667279701073
+          }
         }
       },
-      "location": {
-        "lat": 36.233244,
-        "lng": 137.9681396
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2345835802915,
-          "lng": 137.9694267802915
-        },
-        "southwest": {
-          "lat": 36.2318856197085,
-          "lng": 137.9667288197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0811 長野県松本市中央１丁目２０",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112670961079637648040\">Rico Hsu</a>"
+          ],
+          "photo_reference": "Aap_uEAwx1kHhEFuecE1US0B1Hf8e0s8MszXy32U3ndh19YsefuIdAG-1i4cYKFwZSBg51nDhzyf5Xehw0HBe_XyqE3qHQmGoVdzbsjCvEAFvSQwRt4Gzc7VrgE2Eq82wNHFkRGdBNRQ9eCcy2FxnM7r9CaLpAvIQfOfuAM029IDs0fWt7mw",
+          "width": 1365
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjaxekI4OHWARiYWfu_bnPw0",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_4"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJjaxekI4OHWARiYWfu_bnPw0",
+      "types": [
+        "sublocality_level_4",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

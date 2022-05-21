@@ -1,92 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "6midori",
-        "short_name": "6midori",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２２ 6midori",
-    "geometry": {
-      "location": {
-        "lat": 36.6441114,
-        "lng": 138.1885318
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6454603802915,
-          "lng": 138.1898807802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.6436514,
+          "lng": 138.1887931
         },
-        "southwest": {
-          "lat": 36.6427624197085,
-          "lng": 138.1871828197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64496832989272,
+            "lng": 138.1901431798927
+          },
+          "southwest": {
+            "lat": 36.64226867010728,
+            "lng": 138.1874435201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "Ejs2bWlkb3JpLCAxLWNoxY1tZS0yMiBNaW5hbWljaGl0b3NlLCBOYWdhbm8sIDM4MC0wODIzLCBKYXBhbiIjGiEKFgoUChIJmdssvJKGHWARQySSJVOfaGkSBzZtaWRvcmk",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "MIDORI 長野",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111855112406731253346\">山本圭晴</a>"
+          ],
+          "photo_reference": "Aap_uEDolERLEr2awtCs9TVPmeFf0BXg-GenB3xBWGlOaOXhsWY7yTTaUpYCMm-S9ckzkAanQLpZ3MCg29BzHlGYoSB7wPmM9X-ZjttQa_OSbxuu5JVWIyAcAIAUKmL9-9OOfH8EWcwbSB24LqRkhRFtFNkRbR33_OiHCz8ocEn417aW5OoN",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ__8_l5KGHWAR6PEjeIsa2qw",
+      "plus_code": {
+        "compound_code": "J5VQ+FG 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+FG"
+      },
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

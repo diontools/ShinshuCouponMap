@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６−１",
-        "short_name": "１６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢東",
-        "short_name": "軽井沢東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0104",
-        "short_name": "389-0104",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東１６−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3457187,
-        "lng": 138.6356553
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3472292302915,
-          "lng": 138.6370105802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東１６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3457107,
+          "lng": 138.635655
         },
-        "southwest": {
-          "lat": 36.3445312697085,
-          "lng": 138.6343126197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34723007989272,
+            "lng": 138.6370114298927
+          },
+          "southwest": {
+            "lat": 36.34453042010728,
+            "lng": 138.6343117701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJE4aIUHzTHWARX0Y6IwYGDLk",
-    "plus_code": {
-      "compound_code": "8JWP+77 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JWP+77"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "草軽交通株式会社",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110523110171185593693\">松本大我</a>"
+          ],
+          "photo_reference": "Aap_uECYJkrX5PND2nB7Ehl06nfhCTih2RyxQLHtb-X36fdaSLzKKwg-4yVvrEOKZm31tXR45b1RoRaYnnDN22VYRJC15HA2bLCHC22vHGn6hYxiGosKyorjsZTztcFi0neyk0GBbFcLDetOmTQEFTfNpwglO0Upb-yaIY7mi_GhgPrMEKpC",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJE4aIUHzTHWARX0Y6IwYGDLk",
+      "plus_code": {
+        "compound_code": "8JWP+77 軽井沢町、長野県",
+        "global_code": "8Q8W8JWP+77"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

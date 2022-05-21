@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８６１",
-        "short_name": "２８６１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町温泉郷",
-        "short_name": "大町温泉郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平大町温泉郷２８６１",
-    "geometry": {
-      "location": {
-        "lat": 36.5288619,
-        "lng": 137.8071289
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5303782302915,
-          "lng": 137.8084410302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平大町温泉郷２８６１",
+      "geometry": {
+        "location": {
+          "lat": 36.5288619,
+          "lng": 137.8071289
         },
-        "southwest": {
-          "lat": 36.5276802697085,
-          "lng": 137.8057430697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53037907989272,
+            "lng": 137.8084418798927
+          },
+          "southwest": {
+            "lat": 36.52767942010728,
+            "lng": 137.8057422201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC53W7NNhHWARbdiXdfiF1hE",
-    "plus_code": {
-      "compound_code": "GRH4+GV 日本、長野県大町市",
-      "global_code": "8Q8VGRH4+GV"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "アルペンルートホテル",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102704078963002851153\">Dlpek Uabkk</a>"
+          ],
+          "photo_reference": "Aap_uEDjRJ9z5E7tBCSeHUnsjorrM26Sg-S_n6bP4hIsmRx6Fh02Di2dEONxY67FyXqGCD0UBq2zq_cZgeI5qelDsqcOyg_1_4S_8kbXfA4zloJjf6jbNX0izT-r3TfB7V7Zt-7ZJELxNEIwzntZ71N22LLVguojInithjzSYdbLNvwvm_Yv",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJC53W7NNhHWARbdiXdfiF1hE",
+      "plus_code": {
+        "compound_code": "GRH4+GV 大町市、長野県",
+        "global_code": "8Q8VGRH4+GV"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

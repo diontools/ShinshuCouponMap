@@ -1,63 +1,78 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県駒ヶ根市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.7818989,
-          "lng": 138.0642372
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-4321 長野県駒ヶ根市東伊那",
+      "geometry": {
+        "location": {
+          "lat": 35.7612899,
+          "lng": 137.9911208
         },
-        "southwest": {
-          "lat": 35.6669102,
-          "lng": 137.8031716
+        "viewport": {
+          "northeast": {
+            "lat": 35.7818989,
+            "lng": 138.0173452
+          },
+          "southwest": {
+            "lat": 35.7360125,
+            "lng": 137.9586632
+          }
         }
       },
-      "location": {
-        "lat": 35.728854,
-        "lng": 137.9340239
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7818989,
-          "lng": 138.0642372
-        },
-        "southwest": {
-          "lat": 35.6669102,
-          "lng": 137.8031716
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "東伊那",
+      "photos": [
+        {
+          "height": 2940,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100709202933784342155\">大沼善貞</a>"
+          ],
+          "photo_reference": "Aap_uEDblQAlLescAG5cbeERmgiSmFrCyTCSFXhIwpCaF5A5niTC2ymT0Pp6lnsvOCvJeru-ST4OvmWN5JrNV8shmR9wW4vOFLoA2sDo7zjAcJg2WVf_2HLo-ljYBxEiQyO-7Ra7xyFrsCx775tXuIqAnM_fKElLtHlj3pZm1pdk2OS7pWu8",
+          "width": 3920
         }
-      }
+      ],
+      "place_id": "ChIJwZZ4bU_zHGARu_AbGPdf3BY",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
     },
-    "place_id": "ChIJH1TTyU2NHGARENTieWS5BTs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "formatted_address": "日本、長野県駒ヶ根市",
+      "geometry": {
+        "location": {
+          "lat": 35.728854,
+          "lng": 137.9340239
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.7818989,
+            "lng": 138.0642372
+          },
+          "southwest": {
+            "lat": 35.6669102,
+            "lng": 137.8031716
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "駒ヶ根市",
+      "photos": [
+        {
+          "height": 443,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111138014324263655008\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA1EkzPK1nGIrazftm6Cs3kzVE39szWP4ZQd794a-K6nT5mrXIS5R8gVmSKricUO9DKiZv5OWSC_SibH8a-l1LOsNOPQPZyo-sbKl8H7CU8MzynGuh3OUElOPY-l4T4zOT8a8G_BpSatvZF-6ptAud2bcQnBQ9RbdI0XJEmsE6rUBlq",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJH1TTyU2NHGARENTieWS5BTs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

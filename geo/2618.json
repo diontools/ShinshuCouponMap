@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３５０",
-        "short_name": "６３５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城６３５０",
-    "geometry": {
-      "location": {
-        "lat": 36.6963555,
-        "lng": 137.8632192
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6977225802915,
-          "lng": 137.8645160302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城６３５０",
+      "geometry": {
+        "location": {
+          "lat": 36.6963555,
+          "lng": 137.8632191
         },
-        "southwest": {
-          "lat": 36.69502461970851,
-          "lng": 137.8618180697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69772342989272,
+            "lng": 137.8645168298927
+          },
+          "southwest": {
+            "lat": 36.69502377010728,
+            "lng": 137.8618171701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYXIrCwTS918REt19kTO4hZU",
-    "plus_code": {
-      "compound_code": "MVW7+G7 長野県白馬村",
-      "global_code": "8Q8VMVW7+G7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "白馬ヤマトヤ",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105478710098039448821\">Noritada Kobayashi</a>"
+          ],
+          "photo_reference": "Aap_uEBjcECdKFQL6ElIazbOdrRdjoKkUKDG3rs-p41ozsolEYnChK66PXobwM65gmvwKtHnZYmsM_mSRQDUK2vaRH71yTYtKpa6WRmTHAQlJVYijyj1IUk_l6vGs1T4G6hTtyafnDOA8xNTrUdjzbu6HSm4F76Qdk-Jz_yOMAQWO4_GHg1g",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJYXIrCwTS918REt19kTO4hZU",
+      "plus_code": {
+        "compound_code": "MVW7+G7 白馬村、長野県",
+        "global_code": "8Q8VMVW7+G7"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

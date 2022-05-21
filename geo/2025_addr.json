@@ -1,88 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "巾上",
-        "short_name": "巾上",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0817",
-        "short_name": "390-0817",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0817 長野県松本市巾上３−２",
-    "geometry": {
-      "location": {
-        "lat": 36.2320452,
-        "lng": 137.9629128
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23339223029151,
-          "lng": 137.9641289802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0817 長野県松本市巾上３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.2320452,
+          "lng": 137.9629128
         },
-        "southwest": {
-          "lat": 36.23069426970851,
-          "lng": 137.9614310197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23339307989272,
+            "lng": 137.9641298298927
+          },
+          "southwest": {
+            "lat": 36.23069342010728,
+            "lng": 137.9614301701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJtyv3uYkOHWAR-BJhe159Pm4",
-    "plus_code": {
-      "compound_code": "6XJ7+R5 長野県松本市",
-      "global_code": "8Q8V6XJ7+R5"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0817 長野県松本市巾上３−２",
+      "place_id": "ChIJtyv3uYkOHWAR-BJhe159Pm4",
+      "plus_code": {
+        "compound_code": "6XJ7+R5 松本市、長野県",
+        "global_code": "8Q8V6XJ7+R5"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

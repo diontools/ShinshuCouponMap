@@ -1,89 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "東後町",
-        "short_name": "東後町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0832",
-        "short_name": "380-0832",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0832 長野県長野市長野東後町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6545907,
-          "lng": 138.1881158
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0832 長野県長野市東後町１５",
+      "geometry": {
+        "location": {
+          "lat": 36.6536136,
+          "lng": 138.1874446
         },
-        "southwest": {
-          "lat": 36.6527664,
-          "lng": 138.1872845
+        "viewport": {
+          "northeast": {
+            "lat": 36.65496512989272,
+            "lng": 138.1887411798927
+          },
+          "southwest": {
+            "lat": 36.65226547010728,
+            "lng": 138.1860415201072
+          }
         }
       },
-      "location": {
-        "lat": 36.6540532,
-        "lng": 138.1875956
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6550275302915,
-          "lng": 138.1890491302915
-        },
-        "southwest": {
-          "lat": 36.6523295697085,
-          "lng": 138.1863511697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "吉祥庵",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113453951977148105734\">吉祥庵</a>"
+          ],
+          "photo_reference": "Aap_uECKRLHL7yGE20Saz0J8mqOTmuv7a9joQdz9PCSKSx25g5_9Ir6H-_tiA8NZUOscdlILttOYF7H4Cwvwe9e5lb49Ucq2Yp_5_WkoGCGZweyfPElO_KHKhkTKjaDlq5uU2ZqpX4DZIG8qyDbXh2U0RdOzoq6FkJT__B_WNWPiAcs7P671",
+          "width": 4928
         }
-      }
-    },
-    "place_id": "ChIJbSj2h--GHWARxxKvqU2_0gY",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJA28QdnWfLxURvimFnTcD--U",
+      "plus_code": {
+        "compound_code": "M53P+CX 長野市、長野県",
+        "global_code": "8Q8WM53P+CX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

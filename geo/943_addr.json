@@ -1,89 +1,37 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目８",
-    "geometry": {
-      "location": {
-        "lat": 36.6461503,
-        "lng": 138.190023
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6474581302915,
-          "lng": 138.1914474802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.646208,
+          "lng": 138.1898798
         },
-        "southwest": {
-          "lat": 36.6447601697085,
-          "lng": 138.1887495197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64757987989272,
+            "lng": 138.1911486798927
+          },
+          "southwest": {
+            "lat": 36.64488022010728,
+            "lng": 138.1884490201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgcilqPKGHWARlgmsE-qA5dc",
-    "plus_code": {
-      "compound_code": "J5WR+F2 長野県長野市",
-      "global_code": "8Q8WJ5WR+F2"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ゲストハウス南千歳",
+      "place_id": "ChIJYY3fE32HHWARxTxn5YYWYXw",
+      "plus_code": {
+        "compound_code": "J5WQ+FX 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+FX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

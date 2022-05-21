@@ -50,6 +50,17 @@ def geocode(text: str):
     time.sleep(0.2)
     return geoResult
 
+def find_place(text: str):
+  result = gmaps.find_place(
+    text,
+    input_type='textquery',
+    fields=['business_status','formatted_address','geometry','icon','name','photos','place_id','plus_code','types'],
+    language='ja',
+    location_bias=f'rectangle:35.1598723715222,138.82338748509508|37.16621915151721,137.27180990577534'
+  )
+  time.sleep(0.2)
+  return result
+
 def text_to_latlng(text: str):
   arr = [float(x) for x in text.split(',')]
   assert len(arr) == 2
@@ -95,8 +106,8 @@ with pdfplumber.open('./list-k-adv.pdf') as pdf:
         check_addr = geoFix['addr'] if geoFix and 'addr' in geoFix else True
         distance: float = 0
         if not location:
-            geo = cacheJsonFile(f'./geo/{values[0]}.json', lambda: geocode(f'{values[2]} {values[3]}'))
-            geo_addr = cacheJsonFile(f'./geo/{values[0]}_addr.json', lambda: geocode(f'長野県{values[5]}'))
+            geo = cacheJsonFile(f'./geo/{values[0]}.json', lambda: find_place(f'{values[2]} {values[3]}'))['candidates']
+            geo_addr = cacheJsonFile(f'./geo/{values[0]}_addr.json', lambda: find_place(f'長野県{values[5]}'))['candidates']
             if len(geo) >= 1 and '長野県' in geo[0]['formatted_address'] and values[2] in geo[0]['formatted_address']:
               location = geo[0]['geometry']['location']
               if check_addr:
@@ -115,6 +126,9 @@ with pdfplumber.open('./list-k-adv.pdf') as pdf:
                     geoFixs[values[0]] = location
                   outputJsonFile('./geo-fix_updated.json', geoFixs)
             else:
+              if len(geo) >= 1:
+                v = geo[0]['geometry']['location']
+                print((v['lat'], v['lng']))
               latlngInputText = input('Lat,Lng: ')
               location = text_to_latlng(latlngInputText)
               geoFixs[values[0]] = location

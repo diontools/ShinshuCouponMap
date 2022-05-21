@@ -1,167 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５−１８",
+      "geometry": {
+        "location": {
+          "lat": 36.2321082,
+          "lng": 137.9665275
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23345127989272,
+            "lng": 137.9678416298927
+          },
+          "southwest": {
+            "lat": 36.23075162010727,
+            "lng": 137.9651419701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "BAR Dress formal club",
+      "photos": [
+        {
+          "height": 1864,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111468782791122258192\">西田三智男</a>"
+          ],
+          "photo_reference": "Aap_uEBk6QO9UHgrxxsU8Di1ApPORTk90B81Pk1K0qzgByjmEsz3FsmTgFtY9emWawu1ulM6e4HJQdq7-qRCw9sOnB8Pw9sUXLxmvStN43pi6ysBJ0R_jQungx_sEzxRVAAS5w0ZiOr4nbxcoblwB-Am2YvyOpH083IGpq74Z4l7iWz16Yuk",
+          "width": 2313
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "4F",
-        "short_name": "4F",
-        "types": [
-          "subpremise"
-        ]
+      ],
+      "place_id": "ChIJlylbSokOHWARI3ROVS_RfDQ",
+      "plus_code": {
+        "compound_code": "6XJ8+RJ 松本市、長野県",
+        "global_code": "8Q8V6XJ8+RJ"
       },
-      {
-        "long_name": "三橋ビル",
-        "short_name": "三橋ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "四谷",
-        "short_name": "四谷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "新宿区",
-        "short_name": "新宿区",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東京都",
-        "short_name": "東京都",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "160-0004",
-        "short_name": "160-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒160-0004 東京都新宿区四谷３丁目８ 三橋ビル 4F",
-    "geometry": {
-      "location": {
-        "lat": 35.6876869,
-        "lng": 139.7206235
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6890595802915,
-          "lng": 139.7218495302915
-        },
-        "southwest": {
-          "lat": 35.6863616197085,
-          "lng": 139.7191515697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVVUFbe2MGGARQqB3tFUxqNM",
-    "plus_code": {
-      "compound_code": "MPQC+36 日本、東京都新宿区",
-      "global_code": "8Q7XMPQC+36"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

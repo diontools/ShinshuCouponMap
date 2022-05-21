@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡軽井沢町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２１４５−５",
+      "geometry": {
+        "location": {
+          "lat": 36.3597053,
+          "lng": 138.5902543
         },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+        "viewport": {
+          "northeast": {
+            "lat": 36.36098967989273,
+            "lng": 138.5914209798927
+          },
+          "southwest": {
+            "lat": 36.35829002010728,
+            "lng": 138.5887213201073
+          }
         }
       },
-      "location": {
-        "lat": 36.3483927,
-        "lng": 138.5970297
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
-        },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "我蘭憧",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109925742846507395682\">小林慶一</a>"
+          ],
+          "photo_reference": "Aap_uEB_RJrkqLlirXsqdMqP8sjmRn_AcW095mvaigPUrIX0zXYzSK9Pj9b6V38X91S-VgNtgLN3uoVJgqt_agg2sDdIkIQgC1RdD5F6N9djq-QgGv64g5EbV8k60FSC-fkHK-dbx0PjmGxOWcl5pqUlVteWcfT4KZnsERz7Mvl8vMbFoNkh",
+          "width": 4608
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk6PBPzzSHWAR-XHag0iPEZk",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ0aeOuy_SHWARtT32z5T8aKs",
+      "plus_code": {
+        "compound_code": "9H5R+V4 軽井沢町、長野県",
+        "global_code": "8Q8W9H5R+V4"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

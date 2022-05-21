@@ -1,76 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山 蓼科プール平4035",
-    "geometry": {
-      "location": {
-        "lat": 36.0581426,
-        "lng": 138.269151
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.05949618029149,
-          "lng": 138.2705760302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市 蓼科プール平4035",
+      "geometry": {
+        "location": {
+          "lat": 36.0581534,
+          "lng": 138.2691909
         },
-        "southwest": {
-          "lat": 36.0567982197085,
-          "lng": 138.2678780697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05949702989272,
+            "lng": 138.2705768798927
+          },
+          "southwest": {
+            "lat": 36.05679737010728,
+            "lng": 138.2678772201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "三五十屋 本店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101670782058262965276\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC3fQpumhx0ebL2jLcw2jU7JlPoRbrqsdXaAfn6d8AoM1a_NTSKxhFfywE_f_eC_KA7haL2KNIDqEvOID58oypIAEoXMICfC-sKxcuTNaPv9nluwPakTyyq09nOZ267xX4lfw96wpoyS0OwPH-eiKv2zb8A1z0UsXjLrcZ_lW0UkXTq",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJE4Sk109OHGARUu7f0b-OFOg",
+      "plus_code": {
+        "compound_code": "3759+7M 茅野市、長野県",
+        "global_code": "8Q8W3759+7M"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJE4Sk109OHGARUu7f0b-OFOg",
-    "plus_code": {
-      "compound_code": "3759+7M 長野県茅野市",
-      "global_code": "8Q8W3759+7M"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市 蓼科桜ヶ丘4035",
+      "geometry": {
+        "location": {
+          "lat": 36.0581925,
+          "lng": 138.2691872
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.05953897989272,
+            "lng": 138.2705789298927
+          },
+          "southwest": {
+            "lat": 36.05683932010728,
+            "lng": 138.2678792701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "三五十屋そば田村",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113188211796559383644\">峰岸一真</a>"
+          ],
+          "photo_reference": "Aap_uEAllhvMy5SFnG1L5w2-V5PDLaoK82tuZ1iaVXMQA0zB0h20LLlFhAAYpXlbEynvgrClkRdK46IvRFGKkOFEmsFcCiymuwPpdmH13_P4y1tKGzU_kskyLGOMv0HiL3pnius1XGmEvn9NQVvOBaG0RReZg1abIxI74EwHBZCh_YQ_TrpQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJE4Sk109OHGARcRzZj8auuzg",
+      "plus_code": {
+        "compound_code": "3759+7M 茅野市、長野県",
+        "global_code": "8Q8W3759+7M"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

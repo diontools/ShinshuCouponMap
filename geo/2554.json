@@ -1,91 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３６０３",
-        "short_name": "２３６０３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２３６０３",
-    "geometry": {
-      "location": {
-        "lat": 36.6687036,
-        "lng": 137.8498098
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6700147302915,
-          "lng": 137.8512654802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２３６０３",
+      "geometry": {
+        "location": {
+          "lat": 36.6687036,
+          "lng": 137.8498098
         },
-        "southwest": {
-          "lat": 36.6673167697085,
-          "lng": 137.8485675197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.67001557989272,
+            "lng": 137.8512663298928
+          },
+          "southwest": {
+            "lat": 36.66731592010728,
+            "lng": 137.8485666701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "農家の手料理 農かふぇ白馬そだち",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112561754353991682511\">阿部岳</a>"
+          ],
+          "photo_reference": "Aap_uED4wGNCTLCLIiCKjZvLwprmnYkYkhaVtAuwmMXZeOigOmjtxaTcCWv9XYz-upyZNG3osRjSyc2eKqjiPQOMoOsWFS9_MnMAX4F-2Lc237qW-Q67adVboJZCL9LVQffKgdzFJ4qof6hnaO8d0B8TUXmYO8lwjNfSr-9807bJ3Iy77NZP",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJoXK-pP_Q918ReITEAd54xWM",
+      "plus_code": {
+        "compound_code": "MR9X+FW 白馬村、長野県",
+        "global_code": "8Q8VMR9X+FW"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJoXK-pP_Q918ReITEAd54xWM",
-    "plus_code": {
-      "compound_code": "MR9X+FW 長野県白馬村",
-      "global_code": "8Q8VMR9X+FW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村 神城飯森",
+      "geometry": {
+        "location": {
+          "lat": 36.6685829,
+          "lng": 137.8496626
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.66994007989273,
+            "lng": 137.8511788298927
+          },
+          "southwest": {
+            "lat": 36.66724042010728,
+            "lng": 137.8484791701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "白馬農場 農かふぇ/ジェラテリア/ブルーベリー園",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111772631818912312311\">関根信義</a>"
+          ],
+          "photo_reference": "Aap_uEAELRsya-P-11LNQX67Or89vuxT4cRE8MW_yTb-4abB71jHJC2OmyXpwNzDtDSSnH7PZrz2LkMEO-YZFv-tPAnzGDRjZ6lgH5gqaxUmQUYPFU31YR_3uYJNX1VmgoePZP7qSP1MguGFoUec4L7SSuq5OiinaLrmEkaZxYcosvDKLS-4",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJc2Yf6QbS918RTKPlGip_jh4",
+      "plus_code": {
+        "compound_code": "MR9X+CV 白馬村、長野県",
+        "global_code": "8Q8VMR9X+CV"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

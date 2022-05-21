@@ -1,160 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "寂蒔",
-        "short_name": "寂蒔",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0016",
-        "short_name": "387-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0016 長野県千曲市寂蒔",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.521363,
-          "lng": 138.1495288
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0016 長野県千曲市寂蒔９４７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.5180815,
+          "lng": 138.130811
         },
-        "southwest": {
-          "lat": 36.5078952,
-          "lng": 138.1256351
+        "viewport": {
+          "northeast": {
+            "lat": 36.51943447989272,
+            "lng": 138.1320691798927
+          },
+          "southwest": {
+            "lat": 36.51673482010728,
+            "lng": 138.1293695201072
+          }
         }
       },
-      "location": {
-        "lat": 36.515943,
-        "lng": 138.1324733
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.521363,
-          "lng": 138.1495288
-        },
-        "southwest": {
-          "lat": 36.5078952,
-          "lng": 138.1256351
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カルビ屋三夢 更埴店",
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114880309376716088470\">横山大</a>"
+          ],
+          "photo_reference": "Aap_uEBYX0URNQWGRJ5oIzgEwShrRY33n76wGIhNs94bC4ZuSoFREHX_1iC3l3eqTu2rbuMdUmzx26EGgqfZ83z1X3cTUF7V-vlKMbkTAjbef_NoZxX-2xsjwsqYlspXFVm_SKzRKUG-yKcD00Fn-S_wCBjFG0dlnV3e2D05Uo1A8TQl3q-C",
+          "width": 2400
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJffwU9eqcHWARmasBfMQu5kY",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "王子",
-        "short_name": "王子",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
+      ],
+      "place_id": "ChIJQZczu8ScHWARxtgUL-1uHyI",
+      "plus_code": {
+        "compound_code": "G49J+68 千曲市、長野県",
+        "global_code": "8Q8WG49J+68"
       },
-      {
-        "long_name": "北区",
-        "short_name": "北区",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東京都",
-        "short_name": "東京都",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "114-0002",
-        "short_name": "114-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒114-0002 東京都北区王子",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.7699679,
-          "lng": 139.7429251
-        },
-        "southwest": {
-          "lat": 35.7489734,
-          "lng": 139.7311395
-        }
-      },
-      "location": {
-        "lat": 35.7598769,
-        "lng": 139.7358241
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7699679,
-          "lng": 139.7429251
-        },
-        "southwest": {
-          "lat": 35.7489734,
-          "lng": 139.7311395
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJiTGUgGOSGGARtFhE4FJus_Y",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

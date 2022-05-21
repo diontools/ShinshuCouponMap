@@ -1,64 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県伊那市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9748294,
-          "lng": 138.2369216
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4498 長野県伊那市東春近 木裏原10561-5",
+      "geometry": {
+        "location": {
+          "lat": 35.80591769999999,
+          "lng": 137.9325265
         },
-        "southwest": {
-          "lat": 35.5707672,
-          "lng": 137.8240581
+        "viewport": {
+          "northeast": {
+            "lat": 35.80749042989272,
+            "lng": 137.9342559798927
+          },
+          "southwest": {
+            "lat": 35.80479077010727,
+            "lng": 137.9315563201072
+          }
         }
       },
-      "location": {
-        "lat": 35.8274657,
-        "lng": 137.9540692
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9748294,
-          "lng": 138.2369216
-        },
-        "southwest": {
-          "lat": 35.5707672,
-          "lng": 137.8240581
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "monterina",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110348594617950158613\">伊藤裕樹</a>"
+          ],
+          "photo_reference": "Aap_uEDGe6-F4mls53Xo-giiL8INOE8T4dE6p5YO4igQ2yWO0ZRMY9U22EgpQkWGGB5HyfcQgRUAZD5e21xfhObQS4RphLA_nL8M9JcF1dBGN06BsnADOiwC3_b3v8rZeI7uVBP3q5bKy-tXVjns92fj4UPaPZYfTdEvq2jseQ_eHOJXo-E5",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJwUO1ANL0HGARHwZp4eUdL-o",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ4eMgebzxHGAReqZrRP94VLo",
+      "plus_code": {
+        "compound_code": "RW4M+92 伊那市、長野県",
+        "global_code": "8Q7VRW4M+92"
+      },
+      "types": [
+        "tourist_attraction",
+        "bakery",
+        "grocery_or_supermarket",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

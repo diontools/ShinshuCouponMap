@@ -1,64 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0006 長野県諏訪市元町３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0389912,
+          "lng": 138.1238385
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 36.04033782989272,
+            "lng": 138.1251296298927
+          },
+          "southwest": {
+            "lat": 36.03763817010727,
+            "lng": 138.1224299701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "（有）山田養蜂場",
+      "photos": [
+        {
+          "height": 2438,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115034945136735388660\">seijioza .</a>"
+          ],
+          "photo_reference": "Aap_uEAqFKZcd752YuzOmmfh24ILYX-WCPxPoDAQtm2JcZHteq6_i2OWsk4QiFWVv9eAzSBYMAqHAGeiA-yBqZf1ziOIZhMjHho_v2UzakEGh7n7nz0j6uhhPWHnz5UQ75SNBnYIyVr3do3U-y885acDv5j9kZRFsh7m0lBIsL6Nc2WSuFSb",
+          "width": 3361
         }
-      }
+      ],
+      "place_id": "ChIJx1NmczRUHGARE3QeVwvBAjo",
+      "plus_code": {
+        "compound_code": "24QF+HF 諏訪市、長野県",
+        "global_code": "8Q8W24QF+HF"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0006 長野県諏訪市元町３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0390287,
+          "lng": 138.1237973
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.04038977989272,
+            "lng": 138.1251515798928
+          },
+          "southwest": {
+            "lat": 36.03769012010728,
+            "lng": 138.1224519201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "高原はちみつ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118415646578581802525\">zongu phoogy</a>"
+          ],
+          "photo_reference": "Aap_uEBidricHUMCat5xBINeEOtCAe-Ll0HWQny3yiJhnXn1hxjlZZjlPfljL_UqaCYPL9HWFwbs6hR2SYp94KOfaUbQiIcXJ5SXDEQMbtNNH7I0Kijn_OTBsLLe6Ljh6Bzm_YyujB1bf-ezpioDHEd2N4IIttx7FPrBoBHYHLNWmYCoOW-k",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJxdVLczRUHGARil7aFs1Exdw",
+      "plus_code": {
+        "compound_code": "24QF+JG 諏訪市、長野県",
+        "global_code": "8Q8W24QF+JG"
+      },
+      "types": [
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

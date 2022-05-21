@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０２０−１２１",
-        "short_name": "３０２０−１２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−１２１",
-    "geometry": {
-      "location": {
-        "lat": 36.691684,
-        "lng": 137.8446547
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69293503029149,
-          "lng": 137.8460348302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−１２１",
+      "geometry": {
+        "location": {
+          "lat": 36.691684,
+          "lng": 137.8446547
         },
-        "southwest": {
-          "lat": 36.69023706970849,
-          "lng": 137.8433368697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69293587989272,
+            "lng": 137.8460356798927
+          },
+          "southwest": {
+            "lat": 36.69023622010728,
+            "lng": 137.8433360201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJu8N5K_3R918RaYUYJEznPNQ",
-    "plus_code": {
-      "compound_code": "MRRV+MV 長野県白馬村",
-      "global_code": "8Q8VMRRV+MV"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-9301 長野県北安曇郡白馬村北城３０２０−１２１",
+      "place_id": "ChIJu8N5K_3R918RaYUYJEznPNQ",
+      "plus_code": {
+        "compound_code": "MRRV+MV 白馬村、長野県",
+        "global_code": "8Q8VMRRV+MV"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

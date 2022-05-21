@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "大石10699",
-        "short_name": "大石10699",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0100",
-        "short_name": "391-0100",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0100 長野県諏訪郡原村 大石10699",
-    "geometry": {
-      "location": {
-        "lat": 35.9547723,
-        "lng": 138.1968701
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9561538302915,
-          "lng": 138.1983038302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0100 長野県諏訪郡原村 大石10699",
+      "geometry": {
+        "location": {
+          "lat": 35.9547839,
+          "lng": 138.1969045
         },
-        "southwest": {
-          "lat": 35.9534558697085,
-          "lng": 138.1956058697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.95615467989273,
+            "lng": 138.1983046798927
+          },
+          "southwest": {
+            "lat": 35.95345502010728,
+            "lng": 138.1956050201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJn9yqAtdbHGARj9DTj45qmbo",
-    "plus_code": {
-      "compound_code": "X53W+WP 長野県原村",
-      "global_code": "8Q7WX53W+WP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "中央道原パーキングエリア下り（王滝水産）",
+      "photos": [
+        {
+          "height": 809,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114017599359175986916\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED9FaBMD4oCJtfOr6O3NA81sYrstW1tkcrg98VcAiFgAqV1i3xvA09kRK4Bzo_M9eDIGYSL92WZfr-_lvSYFdZVsp2xKoifoL0GTo2c0HMeZBlI92wqOXsDthrZf07MVYgsOlXMdO3xXK4GI23xfiFjitVNSeEaBsObGhBfniacqA0",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJn9yqAtdbHGARj9DTj45qmbo",
+      "plus_code": {
+        "compound_code": "X53W+WP 原村、長野県",
+        "global_code": "8Q7WX53W+WP"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

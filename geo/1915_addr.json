@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３７５",
-        "short_name": "３７５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈良井",
-        "short_name": "奈良井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6303",
-        "short_name": "399-6303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井３７５",
-    "geometry": {
-      "location": {
-        "lat": 35.9646757,
-        "lng": 137.8102997
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.96598693029149,
-          "lng": 137.8116936302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井３７５",
+      "geometry": {
+        "location": {
+          "lat": 35.9646757,
+          "lng": 137.8102997
         },
-        "southwest": {
-          "lat": 35.9632889697085,
-          "lng": 137.8089956697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96598777989272,
+            "lng": 137.8116944798927
+          },
+          "southwest": {
+            "lat": 35.96328812010727,
+            "lng": 137.8089948201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJYeARqSkeHWARZ_dYPvsLCEM",
-    "plus_code": {
-      "compound_code": "XR76+V4 長野県塩尻市",
-      "global_code": "8Q7VXR76+V4"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-6303 長野県塩尻市奈良井３７５",
+      "place_id": "ChIJYeARqSkeHWARZ_dYPvsLCEM",
+      "plus_code": {
+        "compound_code": "XR76+V4 塩尻市、長野県",
+        "global_code": "8Q7VXR76+V4"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

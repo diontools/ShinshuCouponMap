@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５３２５",
-        "short_name": "５３２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広瀬町",
-        "short_name": "広瀬町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪郡下諏訪町",
-        "short_name": "諏訪郡下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0056",
-        "short_name": "393-0056",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0056 長野県諏訪郡諏訪郡下諏訪町広瀬町５３２５",
-    "geometry": {
-      "location": {
-        "lat": 36.07268699999999,
-        "lng": 138.085036
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0740371802915,
-          "lng": 138.0863122302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0056 長野県諏訪郡諏訪郡下諏訪町広瀬町５３２５",
+      "geometry": {
+        "location": {
+          "lat": 36.0726905,
+          "lng": 138.0849675
         },
-        "southwest": {
-          "lat": 36.0713392197085,
-          "lng": 138.0836142697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07403802989273,
+            "lng": 138.0863130798927
+          },
+          "southwest": {
+            "lat": 36.07133837010728,
+            "lng": 138.0836134201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC9s7SldVHGARNXVh0RYBCjc",
-    "plus_code": {
-      "compound_code": "33FP+32 長野県下諏訪町",
-      "global_code": "8Q8W33FP+32"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "丸六 本山川魚店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101811946293712946347\">北川拓央</a>"
+          ],
+          "photo_reference": "Aap_uECDpzaeoZN6LSPyGYv3XmVMPSXs77D64B4SfDYFCbnKMqXTVVE7U2nqV2mIctK81dx1PrZi907_QKp6Og-DlhgWvyInrQvYam1Z2XCeLUEL0p1U4j0mK8L_kuXbQjOuPj-nJN2WPhs3B2Fajr9EsIneI5ijs5VVnH-DeQfMMg0BP0Iw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJC9s7SldVHGARNXVh0RYBCjc",
+      "plus_code": {
+        "compound_code": "33FP+32 下諏訪町、長野県",
+        "global_code": "8Q8W33FP+32"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

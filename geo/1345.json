@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目３−２２ 5F",
+      "geometry": {
+        "location": {
+          "lat": 36.3984569,
+          "lng": 138.2486322
         },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+        "viewport": {
+          "northeast": {
+            "lat": 36.39984197989273,
+            "lng": 138.2500470798927
+          },
+          "southwest": {
+            "lat": 36.39714232010729,
+            "lng": 138.2473474201072
+          }
         }
       },
-      "location": {
-        "lat": 36.4019126,
-        "lng": 138.249075
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
-        },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Dining & Cafe ANNIVERSARY 駅前本店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105188446995363593881\">shohei komiyama</a>"
+          ],
+          "photo_reference": "Aap_uEDtTr6RM5_atkOWOJ8ilt8teXDTCCLFFzBrWRyhnZzJfhf1QFSq_6sN-xzez71cygGJj852uJfWnJR_SEjnd6_4D-s2MGVqYzZVM720Z2NZpNabnYUa1HxNCpMcESb5EtNqXYmeqR2FGBe5GCXdPFVD8BnR2u21DgOo1BOyAv6VRMFN",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJsaSJhsy8HWARTFv1slYL1uE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJsxTTXNe8HWARyf-eseLPd2k",
+      "plus_code": {
+        "compound_code": "96XX+9F 上田市、長野県",
+        "global_code": "8Q8W96XX+9F"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０４４−１８９",
-        "short_name": "１０４４−１８９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈川",
-        "short_name": "奈川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1611",
-        "short_name": "390-1611",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1611 長野県松本市奈川１０４４−１８９",
-    "geometry": {
-      "location": {
-        "lat": 36.044072,
-        "lng": 137.699115
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04545638029149,
-          "lng": 137.7005323802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1611 長野県松本市奈川１０４４−１８９",
+      "geometry": {
+        "location": {
+          "lat": 36.044072,
+          "lng": 137.699115
         },
-        "southwest": {
-          "lat": 36.0427584197085,
-          "lng": 137.6978344197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04545722989273,
+            "lng": 137.7005332298927
+          },
+          "southwest": {
+            "lat": 36.04275757010728,
+            "lng": 137.6978335701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJF7js5UMjHWARkBj1aNuU_5M",
-    "plus_code": {
-      "compound_code": "2MVX+JJ 日本、長野県松本市",
-      "global_code": "8Q8V2MVX+JJ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "旅の宿大石屋",
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115101486324818824914\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBOvtZXtTxIbZHvlbaKHzwFl3ktJPhFawAJr21IY1_yRxGYzc2EbHx1gA7ZG_asUY7Xoh9JxOn_NqiDiHC-zkiGuvxAR_eP5X5axtqE_rnf9YRtzIAzt610V-kdPyr7IACAK7gYl65aqZ54co16cPrgutAQOaupPx-QwJWVLrxEiAwm",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJF7js5UMjHWARkBj1aNuU_5M",
+      "plus_code": {
+        "compound_code": "2MVX+JJ 松本市、長野県",
+        "global_code": "8Q8V2MVX+JJ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡南木曽町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.6906197,
-          "lng": 137.7295974
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻８０５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5753434,
+          "lng": 137.5949255
         },
-        "southwest": {
-          "lat": 35.5087583,
-          "lng": 137.5093811
+        "viewport": {
+          "northeast": {
+            "lat": 35.57670437989272,
+            "lng": 137.5963188798927
+          },
+          "southwest": {
+            "lat": 35.57400472010728,
+            "lng": 137.5936192201073
+          }
         }
       },
-      "location": {
-        "lat": 35.6038071,
-        "lng": 137.6089611
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6906197,
-          "lng": 137.7295974
-        },
-        "southwest": {
-          "lat": 35.5087583,
-          "lng": 137.5093811
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "妻籠 あぶらや",
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107037871839107344176\">BADBATUMARU</a>"
+          ],
+          "photo_reference": "Aap_uEByGdDu4nHSSkggtza8_HcL_8gK32LZ5GBSv2xQyxL6WyLiMvL3dutO4FByeUBQFdF-UGMg6oSL_rzhmGbT-Y2gYnI70U9LYRbNXtR-ddMz3KheR39J_voThq2GHvrMghgg6EW5HyMi-KyiI3yPOZGL4uck8Jq98FmmdT07DPTInnCl",
+          "width": 1200
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoUSzovHHHGARZ3_HfsiFTSo",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJVUj9HeW3HGARH2onSdFgGsc",
+      "plus_code": {
+        "compound_code": "HHGV+4X 南木曽町、長野県",
+        "global_code": "8Q7VHHGV+4X"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

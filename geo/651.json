@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８３",
-        "short_name": "４８３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元善町",
-        "short_name": "元善町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0851",
-        "short_name": "380-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0851 長野県長野市長野元善町４８３",
-    "geometry": {
-      "location": {
-        "lat": 36.6591332,
-        "lng": 138.1876813
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6604821802915,
-          "lng": 138.1890302802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0851 長野県長野市長野４８３",
+      "geometry": {
+        "location": {
+          "lat": 36.6591332,
+          "lng": 138.1876813
         },
-        "southwest": {
-          "lat": 36.6577842197085,
-          "lng": 138.1863323197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66048302989272,
+            "lng": 138.1890311298927
+          },
+          "southwest": {
+            "lat": 36.65778337010727,
+            "lng": 138.1863314701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJf9PDceOGHWARp0y304r7qgo",
-    "plus_code": {
-      "compound_code": "M55Q+M3 日本、長野県長野市",
-      "global_code": "8Q8WM55Q+M3"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "信州里の菓工房 長野仲見世店",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100998002221227844737\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED1qT_IiI79B7l_Iq_Jken8-UlngWSLpIDP9kh_lqocNVHMf1-jKj-S_8tHE3KYCP7kpD4d9nzUX1reKdhG605ImfAoR7IMikHVgKtaVgvVF1NxUx9F3v7JM-WDZsHcD1h3VSinPFud6uIyFCgiyKKefYdEF02ka565C6EhnrzYMXcy",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJf9PDceOGHWARp0y304r7qgo",
+      "plus_code": {
+        "compound_code": "M55Q+M3 長野市、長野県",
+        "global_code": "8Q8WM55Q+M3"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下伊那郡松川町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.6527173,
-          "lng": 138.018444
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島２７８４−１",
+      "geometry": {
+        "location": {
+          "lat": 35.6147612,
+          "lng": 137.8836347
         },
-        "southwest": {
-          "lat": 35.548076,
-          "lng": 137.8076584
+        "viewport": {
+          "northeast": {
+            "lat": 35.61609562989272,
+            "lng": 137.8849812298927
+          },
+          "southwest": {
+            "lat": 35.61339597010728,
+            "lng": 137.8822815701073
+          }
         }
       },
-      "location": {
-        "lat": 35.5971748,
-        "lng": 137.9096363
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6527173,
-          "lng": 138.018444
-        },
-        "southwest": {
-          "lat": 35.548076,
-          "lng": 137.8076584
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "まつかわの里 室内温水プール",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112552991387023888192\">lycaon918</a>"
+          ],
+          "photo_reference": "Aap_uEBjqE4HAGGO99FY2sWUARn-6vyGtW_95AtGgadMpTFfJAjlETInWtgJgkmfcyTPmdC6mKIvA5J3WvT7IKz-P_OXGnD-DtftKpQt7nLigCOhr6ysWYjHKlJ3AR_3b785UomW1-IqAzeQRF6G9iSjnSqxBogrbmZN4_rwQd9zXxZ8gr8V",
+          "width": 5504
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJCw4_3SSQHGARzPXl3DTlNow",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJD4lXJXWRHGARjkhmCJFdSM8",
+      "plus_code": {
+        "compound_code": "JV7M+WF 松川町、長野県",
+        "global_code": "8Q7VJV7M+WF"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

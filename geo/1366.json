@@ -1,83 +1,79 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４９",
-        "short_name": "１４９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "別所温泉",
-        "short_name": "別所温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1431",
-        "short_name": "386-1431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１４９",
-    "geometry": {
-      "location": {
-        "lat": 36.3497018,
-        "lng": 138.1594701
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3510230302915,
-          "lng": 138.1607886302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１４９",
+      "geometry": {
+        "location": {
+          "lat": 36.3497083,
+          "lng": 138.1594762
         },
-        "southwest": {
-          "lat": 36.3483250697085,
-          "lng": 138.1580906697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35102387989272,
+            "lng": 138.1607894798927
+          },
+          "southwest": {
+            "lat": 36.34832422010728,
+            "lng": 138.1580898201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "信州の地酒 こめや",
+      "photos": [
+        {
+          "height": 2008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107003868799031313301\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDO3kOpXqhHXsb-PIbLwIFGfsYN8zpb2Sv74eNw8KjAYjcrgXBD208thnW3rNZi3J5Ay0DAoIi8pfqgFUEghi0gWoWgPD4BDiEQOYP2j_6QEupx9S-zHSToRGC1z9Kxv3NW13D9U_t_RB0qphDXggELkfCWt3wxwTndrMvrUDXQFs9F",
+          "width": 3008
+        }
+      ],
+      "place_id": "ChIJL_1U4WGhHWAR4WNF_COUC2U",
+      "plus_code": {
+        "compound_code": "85X5+VQ 上田市、長野県",
+        "global_code": "8Q8W85X5+VQ"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJL_1U4WGhHWAR4WNF_COUC2U",
-    "plus_code": {
-      "compound_code": "85X5+VQ 日本、長野県上田市",
-      "global_code": "8Q8W85X5+VQ"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６７１",
+      "geometry": {
+        "location": {
+          "lat": 36.3497299,
+          "lng": 138.1570579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.35107972989273,
+            "lng": 138.1584077298927
+          },
+          "southwest": {
+            "lat": 36.34838007010728,
+            "lng": 138.1557080701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "地酒",
+      "place_id": "ChIJpYf102OhHWARCOIP-y8rOow",
+      "plus_code": {
+        "compound_code": "85X4+VR 上田市、長野県",
+        "global_code": "8Q8W85X4+VR"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

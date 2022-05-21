@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯田",
-        "short_name": "飯田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0204",
-        "short_name": "381-0204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0204 長野県上高井郡小布施町飯田",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7083784,
-          "lng": 138.305609
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0204 長野県上高井郡小布施町飯田字欠下９９７−３７",
+      "geometry": {
+        "location": {
+          "lat": 36.6932656,
+          "lng": 138.2951867
         },
-        "southwest": {
-          "lat": 36.6909977,
-          "lng": 138.2836342
+        "viewport": {
+          "northeast": {
+            "lat": 36.69465262989272,
+            "lng": 138.2966871798927
+          },
+          "southwest": {
+            "lat": 36.69195297010728,
+            "lng": 138.2939875201073
+          }
         }
       },
-      "location": {
-        "lat": 36.700366,
-        "lng": 138.2916263
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7083784,
-          "lng": 138.305609
-        },
-        "southwest": {
-          "lat": 36.6909977,
-          "lng": 138.2836342
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "小布施PA (上り)",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113612098746758736746\">角所信一郎</a>"
+          ],
+          "photo_reference": "Aap_uECrh9N2GYHqhT2rGo6DDzvkPMbpL-WhQcd93WboCg0GPzszmwbpqmZZQiG5ymsb2iLoPGLzcZy1eisP_rEKlpzxPK7IgH5ZcTPw9b9StJZ2XWqlBXWTQopnhIV_477keOUaZTDz3vNdbwAKA6ZmzQNtWkIfM_yC1I1_8OmAGJ7KtCzx",
+          "width": 4000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlz0w-g2JHWARqop1YOVcTO0",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJJ7_zSRSJHWARkyz2WjUnUW4",
+      "plus_code": {
+        "compound_code": "M7VW+83 小布施町、長野県",
+        "global_code": "8Q8WM7VW+83"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

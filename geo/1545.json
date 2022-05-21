@@ -1,199 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６９１−４",
-        "short_name": "６９１−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢６９１−４",
-    "geometry": {
-      "location": {
-        "lat": 36.3601837,
-        "lng": 138.6372223
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3615497302915,
-          "lng": 138.6385660802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢６９１−４",
+      "geometry": {
+        "location": {
+          "lat": 36.3601837,
+          "lng": 138.6372223
         },
-        "southwest": {
-          "lat": 36.3588517697085,
-          "lng": 138.6358681197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36155057989271,
+            "lng": 138.6385669298927
+          },
+          "southwest": {
+            "lat": 36.35885092010727,
+            "lng": 138.6358672701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-_CZcYjTHWARbXudePZsF5M",
-    "plus_code": {
-      "compound_code": "9J6P+3V 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J6P+3V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "Ｔコンフォート",
-        "short_name": "Ｔコンフォート",
-        "types": [
-          "premise"
-        ]
       },
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "阿佐谷南",
-        "short_name": "阿佐谷南",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "杉並区",
-        "short_name": "杉並区",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東京都",
-        "short_name": "東京都",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "166-0004",
-        "short_name": "166-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒166-0004 東京都杉並区阿佐谷南１丁目１４−１３ Ｔコンフォート",
-    "geometry": {
-      "location": {
-        "lat": 35.70006290000001,
-        "lng": 139.6373045
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7014474802915,
-          "lng": 139.6386804302915
-        },
-        "southwest": {
-          "lat": 35.6987495197085,
-          "lng": 139.6359824697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ちもと",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107753831483043029747\">大阪うりぼう</a>"
+          ],
+          "photo_reference": "Aap_uEARefS9kzc7u9AlPUOIxSwpY9YzgRKQqclb4FPI-9m7eaZpAqEvICBr5q8ZkQK__7EAVOSSgqjt5ghT3pb0ltt0v7Ql2gwMF6Y1ROUvcDSAg-_9uMu8I0s6jumJBO5sHnD3cqqM0R7wYLXr4H9J3jxVa9u67AVE4GMZ4VUGMp80OEN_",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNSI0snHyGGAR0HqjmItrBXk",
-    "plus_code": {
-      "compound_code": "PJ2P+2W 日本、東京都杉並区",
-      "global_code": "8Q7XPJ2P+2W"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ-_CZcYjTHWARbXudePZsF5M",
+      "plus_code": {
+        "compound_code": "9J6P+3V 軽井沢町、長野県",
+        "global_code": "8Q8W9J6P+3V"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

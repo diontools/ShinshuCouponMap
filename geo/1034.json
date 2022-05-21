@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１１７",
-        "short_name": "１１１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "福寿町",
-        "short_name": "福寿町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2253 長野県飯山市飯山福寿町１１１７",
-    "geometry": {
-      "location": {
-        "lat": 36.8526698,
-        "lng": 138.3652188
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.85401908029149,
-          "lng": 138.3664546302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山福寿町１１１７",
+      "geometry": {
+        "location": {
+          "lat": 36.8526692,
+          "lng": 138.3651181
         },
-        "southwest": {
-          "lat": 36.85132111970849,
-          "lng": 138.3637566697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85401992989271,
+            "lng": 138.3664554298927
+          },
+          "southwest": {
+            "lat": 36.85132027010727,
+            "lng": 138.3637557701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJW7igwy4Z9l8R63yPnViNgJw",
-    "plus_code": {
-      "compound_code": "V938+33 日本、長野県飯山市",
-      "global_code": "8Q8WV938+33"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "うなぎ専門店 本多",
+      "photos": [
+        {
+          "height": 6288,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111438337728176012751\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECDUzAKlqMMKAXGU4sOikwGGFdvNGFlJFKzx1zeCCMXTCy8Mqg79JtDCziY5L48BXBrw9j4fRDCDZyM2g1eQ2l5qvP_R42Y59t7PngOb7kQ1Z6VJLC5kW90qV_ewmPU48yO7VkVrRXEVAxVqIyK_l1k601qQWqLsSXypHgpXJiB8CxM",
+          "width": 8384
+        }
+      ],
+      "place_id": "ChIJW7igwy4Z9l8R63yPnViNgJw",
+      "plus_code": {
+        "compound_code": "V938+33 飯山市、長野県",
+        "global_code": "8Q8WV938+33"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

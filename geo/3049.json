@@ -1,72 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下伊那郡松川町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.6527173,
-          "lng": 138.018444
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島１５９１−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5966805,
+          "lng": 137.91456
         },
-        "southwest": {
-          "lat": 35.548076,
-          "lng": 137.8076584
+        "viewport": {
+          "northeast": {
+            "lat": 35.59807752989271,
+            "lng": 137.9159458798927
+          },
+          "southwest": {
+            "lat": 35.59537787010727,
+            "lng": 137.9132462201073
+          }
         }
       },
-      "location": {
-        "lat": 35.5971748,
-        "lng": 137.9096363
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6527173,
-          "lng": 138.018444
-        },
-        "southwest": {
-          "lat": 35.548076,
-          "lng": 137.8076584
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "BAR#180（BARワンエイティー）",
+      "photos": [
+        {
+          "height": 1702,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103509667523236559440\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAMiuQOSpr_ckB51QUW8yElDRfEbPUeTVxGtd2fD3H4fiG-b0iw9RQEaJPvvtzgOGaq5lpTK2P7iyEqHrIRKy6neu7mEkIAk_ZA83EkIU8WJaRimcokeOJo7csWqu2iVJdJa_l3j1tsmBQpd3SmoKGu7v2bWgKY-JIaGRqFYpX-gmvb",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJCw4_3SSQHGARzPXl3DTlNow",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJDWbugBmRHGARRqJx1K7dBHE",
+      "plus_code": {
+        "compound_code": "HWW7+MR 松川町、長野県",
+        "global_code": "8Q7VHWW7+MR"
+      },
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

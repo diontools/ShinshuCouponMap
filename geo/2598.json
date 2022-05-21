@@ -1,105 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2F",
-        "short_name": "2F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "白馬東急ホテル",
-        "short_name": "白馬東急ホテル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４６８８",
-        "short_name": "４６８８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４６８８ 白馬東急ホテル 2F",
-    "geometry": {
-      "location": {
-        "lat": 36.7059713,
-        "lng": 137.8392234
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7073979802915,
-          "lng": 137.8407406802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４６８８ 白馬東急ホテル 2F",
+      "geometry": {
+        "location": {
+          "lat": 36.7059744,
+          "lng": 137.839227
         },
-        "southwest": {
-          "lat": 36.7047000197085,
-          "lng": 137.8380427197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70739882989273,
+            "lng": 137.8407415298927
+          },
+          "southwest": {
+            "lat": 36.70469917010728,
+            "lng": 137.8380418701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRV40u-HN918R4nnSkqBnysk",
-    "plus_code": {
-      "compound_code": "PR4Q+9M 長野県白馬村",
-      "global_code": "8Q8VPR4Q+9M"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "レストラン シャモニー",
+      "photos": [
+        {
+          "height": 2825,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110286020701317693014\">南村盛壮</a>"
+          ],
+          "photo_reference": "Aap_uEBJTlIRJA4LmY4tRrm38_cz9Bwu-qiqfhjss_1ECCfk-xbXF8YCCzVMOFMb9MIduqswEwQXP0JiPfuMTYpn_ZbzBFg8yHNgM2r6T2zZqHGRNYaAbBUCps9yyHtxCCRq91nNcg6SVbs-vr52ZR67iRdw54FQYbpyCa0UXPmbsmUG2iZR",
+          "width": 4238
+        }
+      ],
+      "place_id": "ChIJRV40u-HN918R4nnSkqBnysk",
+      "plus_code": {
+        "compound_code": "PR4Q+9M 白馬村、長野県",
+        "global_code": "8Q8VPR4Q+9M"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

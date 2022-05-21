@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７１４８",
-        "short_name": "７１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
-    "geometry": {
-      "location": {
-        "lat": 36.6844496,
-        "lng": 138.4974789
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.68585703029149,
-          "lng": 138.4987691302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
+      "geometry": {
+        "location": {
+          "lat": 36.6844496,
+          "lng": 138.4974789
         },
-        "southwest": {
-          "lat": 36.68315906970849,
-          "lng": 138.4960711697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.68585787989272,
+            "lng": 138.4987699798928
+          },
+          "southwest": {
+            "lat": 36.68315822010728,
+            "lng": 138.4960703201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJLYhmER_uHWARBE-4JWmXjPM",
-    "plus_code": {
-      "compound_code": "MFMW+QX 日本、長野県山ノ内町",
-      "global_code": "8Q8WMFMW+QX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Hotel&Onsen2307Shigakogen （旧志賀喜楽ホテル）",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117249801139968315034\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECKPWpEV-mp6KgN-QFX0HlfRaDS4K4YwOuar0AE1BBLGj-2tG-JY4Ix15bXVs6C_NKG61KKYNj2ZBxJ6HKbSwtk536oqMeKDyNUp99-1orwv8jYARE0mhFeL0Y1u7Ri76iwK7QUTDPy7QXQWZoD3HEd2Kix2ht8iXlZItmO4QanJwPe",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJLYhmER_uHWARBE-4JWmXjPM",
+      "plus_code": {
+        "compound_code": "MFMW+QX 山ノ内町、長野県",
+        "global_code": "8Q8WMFMW+QX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

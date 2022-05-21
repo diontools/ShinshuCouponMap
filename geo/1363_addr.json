@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３８４−６５",
-        "short_name": "２３８４−６５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "武石上本入",
-        "short_name": "武石上本入",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0507",
-        "short_name": "386-0507",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0507 長野県上田市武石上本入２３８４−６５",
-    "geometry": {
-      "location": {
-        "lat": 36.2583664,
-        "lng": 138.1355797
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2598441302915,
-          "lng": 138.1368371302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0507 長野県上田市武石上本入２３８４−６５",
+      "geometry": {
+        "location": {
+          "lat": 36.2583664,
+          "lng": 138.1355797
         },
-        "southwest": {
-          "lat": 36.2571461697085,
-          "lng": 138.1341391697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.25984497989273,
+            "lng": 138.1368379798927
+          },
+          "southwest": {
+            "lat": 36.25714532010728,
+            "lng": 138.1341383201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJe0vLbTymHWARiSV6HOH4VKo",
-    "plus_code": {
-      "compound_code": "745P+86 長野県上田市",
-      "global_code": "8Q8W745P+86"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0507 長野県上田市武石上本入２３８４−６５",
+      "place_id": "ChIJe0vLbTymHWARiSV6HOH4VKo",
+      "plus_code": {
+        "compound_code": "745P+86 上田市、長野県",
+        "global_code": "8Q8W745P+86"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

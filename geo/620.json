@@ -1,64 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0043 長野県長野市吉田３丁目２１−１ 長電タクシー",
+      "geometry": {
+        "location": {
+          "lat": 36.6674202,
+          "lng": 138.2202179
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.66873747989271,
+            "lng": 138.2215803798927
+          },
+          "southwest": {
+            "lat": 36.66603782010727,
+            "lng": 138.2188807201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "長電タクシー（株） 長野営業所",
+      "place_id": "ChIJ6WsIHTiGHWARz4EU7OsG5f0",
+      "plus_code": {
+        "compound_code": "M68C+X3 長野市、長野県",
+        "global_code": "8Q8WM68C+X3"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

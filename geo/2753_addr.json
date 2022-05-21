@@ -1,83 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡北城 白馬村北城３４７７",
-    "geometry": {
-      "location": {
-        "lat": 36.6941267,
-        "lng": 137.8381678
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69552493029149,
-          "lng": 137.8397016802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村 大字北城白馬町7078−2",
+      "geometry": {
+        "location": {
+          "lat": 36.698222,
+          "lng": 137.864239
         },
-        "southwest": {
-          "lat": 36.6928269697085,
-          "lng": 137.8370037197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69959677989273,
+            "lng": 137.8655127798927
+          },
+          "southwest": {
+            "lat": 36.69689712010728,
+            "lng": 137.8628131201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2YoxxxzO918RgeQvSS3g-3s",
-    "plus_code": {
-      "compound_code": "MRVQ+M7 長野県白馬村",
-      "global_code": "8Q8VMRVQ+M7"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "name": "中信森林管理署 白馬森林事務所",
+      "place_id": "ChIJGS1QewbS918RuHum9EiGxRM",
+      "plus_code": {
+        "compound_code": "MVX7+7M 白馬村、長野県",
+        "global_code": "8Q8VMVX7+7M"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,77 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "中込",
-        "short_name": "中込",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0051",
-        "short_name": "385-0051",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0051 長野県佐久市中込 大塚３０２０-１",
-    "geometry": {
-      "location": {
-        "lat": 36.2471622,
-        "lng": 138.4766001
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2487648302915,
-          "lng": 138.4780289802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0051 長野県佐久市中込 大塚３０２０-１",
+      "geometry": {
+        "location": {
+          "lat": 36.2471622,
+          "lng": 138.4766001
         },
-        "southwest": {
-          "lat": 36.2460668697085,
-          "lng": 138.4753310197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24876567989272,
+            "lng": 138.4780298298927
+          },
+          "southwest": {
+            "lat": 36.24606602010728,
+            "lng": 138.4753301701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlQsYgJ80HGAR5hWczrXJ6ds",
-    "plus_code": {
-      "compound_code": "6FWG+VJ 日本、長野県佐久市",
-      "global_code": "8Q8W6FWG+VJ"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "和泉屋菓子店 ツルヤ佐久中央店",
+      "photos": [
+        {
+          "height": 3008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106081639825973769011\">Masaki TSUCHIYA</a>"
+          ],
+          "photo_reference": "Aap_uEAtbhQbCmr8tAaWwv6NrdYw_8XfYO4zOqOcrCm6drsW96euZAHsKH4RoMCWK2luYruaiWkE5WSrzlph9QXw2tDiUl4Hu0Y-2Mg_UDCQ93Vynb72f9H2gqEmCXOsdJORu0minKAkQ2fHEZg1klSsTDiTlr-9WGoLXq16P5ALaTu_o8rf",
+          "width": 3008
+        }
+      ],
+      "place_id": "ChIJlQsYgJ80HGAR5hWczrXJ6ds",
+      "plus_code": {
+        "compound_code": "6FWG+VJ 佐久市、長野県",
+        "global_code": "8Q8W6FWG+VJ"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

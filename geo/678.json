@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１６",
-        "short_name": "３４１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠３４１６",
-    "geometry": {
-      "location": {
-        "lat": 36.7382115,
-        "lng": 138.0854907
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7396001302915,
-          "lng": 138.0868524802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠３４１６",
+      "geometry": {
+        "location": {
+          "lat": 36.7382464,
+          "lng": 138.0855013
         },
-        "southwest": {
-          "lat": 36.7369021697085,
-          "lng": 138.0841545197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73960097989271,
+            "lng": 138.0868533298927
+          },
+          "southwest": {
+            "lat": 36.73690132010727,
+            "lng": 138.0841536701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoxXcoLsu9l8RBTAASpto4Us",
-    "plus_code": {
-      "compound_code": "P3QP+75 日本、長野県長野市",
-      "global_code": "8Q8WP3QP+75"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "井上竹細工店",
+      "photos": [
+        {
+          "height": 2832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109740712337574049498\">Kenta Eguchi</a>"
+          ],
+          "photo_reference": "Aap_uEAqrhPt0r_cXk_5asu6w-fxZqRzq0QhFGBg4X-hu16XZxZ0F3sHGiHjWOIWsK5Itj_3PuvhkZ-oKuJnAP0anxkUcV5ovpQ4UcWTjurL0Uhm7pEh4WIDjQ86ve6fBbEL35tM083eRoyMK9ViNwS-iJXMHT5yaji46Hz_HPzQn1AB1ILC",
+          "width": 4240
+        }
+      ],
+      "place_id": "ChIJoxXcoLsu9l8RBTAASpto4Us",
+      "plus_code": {
+        "compound_code": "P3QP+75 長野市、長野県",
+        "global_code": "8Q8WP3QP+75"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

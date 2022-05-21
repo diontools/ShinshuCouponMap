@@ -1,153 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0831 長野県長野市東町１４７",
+      "geometry": {
+        "location": {
+          "lat": 36.6551048,
+          "lng": 138.1883559
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.65648107989273,
+            "lng": 138.1897115298927
+          },
+          "southwest": {
+            "lat": 36.65378142010729,
+            "lng": 138.1870118701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ものづくり匠の館 花廼蔵",
+      "photos": [
+        {
+          "height": 1224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111771143652355683691\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBSs7CmMpGRR32fztliqI9lWoWcQJkv8EVWPXZV03HzsItOybZQwDQf2e7_uLTxlrP-29bPOAQL0l7FdOVuTdAe_LbxuZDMF8bbOrTGfiJ7lABNXYDbNfWLyeNn79wwMEu9N3rqkCt279UyQ-5-erPJviumjb8BNWu0hCndwE6R0wVP",
+          "width": 1632
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "１７−１",
-        "short_name": "１７−１",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJ8yIVyNGHHWARXlFprHhtOlY",
+      "plus_code": {
+        "compound_code": "M54Q+28 長野市、長野県",
+        "global_code": "8Q8WM54Q+28"
       },
-      {
-        "long_name": "又振",
-        "short_name": "又振",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "宇治",
-        "short_name": "宇治",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "宇治市",
-        "short_name": "宇治市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "京都府",
-        "short_name": "京都府",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "611-0021",
-        "short_name": "611-0021",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒611-0021 京都府宇治市宇治又振１７−１",
-    "geometry": {
-      "location": {
-        "lat": 34.891796,
-        "lng": 135.808897
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 34.8931719302915,
-          "lng": 135.8102791802915
-        },
-        "southwest": {
-          "lat": 34.8904739697085,
-          "lng": 135.8075812197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3VGGqgwRAWARuTaQ1CErjkw",
-    "plus_code": {
-      "compound_code": "VRR5+PH 日本、京都府宇治市",
-      "global_code": "8Q6QVRR5+PH"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

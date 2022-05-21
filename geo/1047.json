@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７７２−６",
-        "short_name": "７７２−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2253 長野県飯山市飯山７７２−６",
-    "geometry": {
-      "location": {
-        "lat": 36.8451701,
-        "lng": 138.3590544
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8465927802915,
-          "lng": 138.3605428802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山７７２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.8451701,
+          "lng": 138.3590544
         },
-        "southwest": {
-          "lat": 36.8438948197085,
-          "lng": 138.3578449197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.84659362989273,
+            "lng": 138.3605437298927
+          },
+          "southwest": {
+            "lat": 36.84389397010729,
+            "lng": 138.3578440701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJU05n89QY9l8RgCqsBE6H1c0",
-    "plus_code": {
-      "compound_code": "R9W5+3J 日本、長野県飯山市",
-      "global_code": "8Q8WR9W5+3J"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "信越自然郷アクティビティセンター",
+      "photos": [
+        {
+          "height": 2403,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100395838135437207783\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBcRaYpVxlabfo_T9XUBCQuOZS5s5IlD4b-q_zRVnXJlIe04kqCYE3KViFTi3yL9JDwutCA_sf8Sqs0AkEM3jAbAo3oYxbO9GryqAFHyOlelgaINZL3CPJjvf17OfuJdaAwPiWA1l2yokLaSZrFDIX0YxDCZObOYxwQo69XNehoTmQX",
+          "width": 3600
+        }
+      ],
+      "place_id": "ChIJU05n89QY9l8RgCqsBE6H1c0",
+      "plus_code": {
+        "compound_code": "R9W5+3J 飯山市、長野県",
+        "global_code": "8Q8WR9W5+3J"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

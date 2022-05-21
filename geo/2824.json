@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８９８",
-        "short_name": "１８９８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "開田高原末川",
-        "short_name": "開田高原末川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0301",
-        "short_name": "397-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0301 長野県木曽郡木曽町開田高原末川１８９８",
-    "geometry": {
-      "location": {
-        "lat": 35.9372886,
-        "lng": 137.6323201
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.93863518029149,
-          "lng": 137.6335420302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0301 長野県木曽郡木曽町開田高原末川１８９８",
+      "geometry": {
+        "location": {
+          "lat": 35.9372886,
+          "lng": 137.6323201
         },
-        "southwest": {
-          "lat": 35.93593721970849,
-          "lng": 137.6308440697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.93863602989271,
+            "lng": 137.6335428798927
+          },
+          "southwest": {
+            "lat": 35.93593637010727,
+            "lng": 137.6308432201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs5TTN0ImHWARQ8dcaH98d04",
-    "plus_code": {
-      "compound_code": "WJPJ+WW 長野県木曽町",
-      "global_code": "8Q7VWJPJ+WW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "霧しな",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103668763445308632716\">冨澤高尚</a>"
+          ],
+          "photo_reference": "Aap_uEClSGMZtHli-iebeUmzaRQ7SkVUe8JG4XcueN-PYYl25qKHLwVIcYKjJUNhAE0luRRWmRSN581jTgTmPHdjbu4-bFbTgMQ_3nnl4Hgfcysb27XMEQf_0zWi94e3hm0j668I3IfVM4TM7p3uYaezVrRHAN7E55KCtw4nJ_xy7AJWrUSP",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJs5TTN0ImHWARQ8dcaH98d04",
+      "plus_code": {
+        "compound_code": "WJPJ+WW 木曽町、長野県",
+        "global_code": "8Q7VWJPJ+WW"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

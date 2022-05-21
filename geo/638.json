@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５２８−１",
-        "short_name": "５２８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "県町",
-        "short_name": "県町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0838",
-        "short_name": "380-0838",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0838 長野県長野市南長野県町５２８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6530297,
-        "lng": 138.1836048
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6543645302915,
-          "lng": 138.1852202302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0838 長野県長野市県町５２８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6530297,
+          "lng": 138.1836048
         },
-        "southwest": {
-          "lat": 36.6516665697085,
-          "lng": 138.1825222697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65436537989272,
+            "lng": 138.1852210798927
+          },
+          "southwest": {
+            "lat": 36.65166572010727,
+            "lng": 138.1825214201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHw7bFOaGHWARoger2rjxchM",
-    "plus_code": {
-      "compound_code": "M53M+6C 日本、長野県長野市",
-      "global_code": "8Q8WM53M+6C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "THE SAIHOKUKAN HOTEL",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104832887761038768337\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAXXbJdX1L6DOkeYQ91ljfZ-DWh44b6hUreOqwDfQmfCdxGvfdgdS7O4Tev2tGvVGkexoNItpofQbZcwP41iKpE0QmJvIfXzs1863NDzH9yfGVcmPkACreo3dmAFy3NJf2NPlpe0cUWSnuxDAaEylUt2qKoUlYxUwC9kY8XWCEPNFHY",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJHw7bFOaGHWARoger2rjxchM",
+      "plus_code": {
+        "compound_code": "M53M+6C 長野市、長野県",
+        "global_code": "8Q8WM53M+6C"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,106 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２F",
-        "short_name": "２F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "長野駅焼肉 パティオ",
-        "short_name": "長野駅焼肉 パティオ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３８１",
-        "short_name": "１３８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北石堂町",
-        "short_name": "北石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0826",
-        "short_name": "380-0826",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0826 長野県長野市南長野北石堂町１３８１ 長野駅焼肉 パティオ ２F",
-    "geometry": {
-      "location": {
-        "lat": 36.6454798,
-        "lng": 138.1871874
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6468187802915,
-          "lng": 138.1885346302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0826 長野県長野市南長野北石堂町１３８１ 長野駅焼肉 パティオ ２F",
+      "geometry": {
+        "location": {
+          "lat": 36.6454798,
+          "lng": 138.1871874
         },
-        "southwest": {
-          "lat": 36.6441208197085,
-          "lng": 138.1858366697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64681962989272,
+            "lng": 138.1885354798927
+          },
+          "southwest": {
+            "lat": 36.64411997010728,
+            "lng": 138.1858358201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJrZvOdDCHHWARlBcVxFiIxfk",
-    "plus_code": {
-      "compound_code": "J5WP+5V 日本、長野県長野市",
-      "global_code": "8Q8WJ5WP+5V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "炭火焼肉 信州ミートセンター (SMC)",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102614341393973115557\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDoHJx9AkWJoBx_-1mUz3oef5fD6BCtkC9QQQ1G0SKJJjge-kfrHTYw7oYlIdG20mEnNsOq0gZ9kPeikqpYLZ_3S9ifgluWwnHCS7GsCf85HcsIR-wCzFJGYAct8zCtGfuishAKFIFgMTd7975Hg552_lvF5Mr-tf-suHx30dI9-QRs",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJrZvOdDCHHWARlBcVxFiIxfk",
+      "plus_code": {
+        "compound_code": "J5WP+5V 長野市、長野県",
+        "global_code": "8Q8WJ5WP+5V"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

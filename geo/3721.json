@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７６−２",
-        "short_name": "１７６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎一色",
-        "short_name": "鼎一色",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0805",
-        "short_name": "395-0805",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0805 長野県飯田市鼎一色１７６−２",
-    "geometry": {
-      "location": {
-        "lat": 35.5007458,
-        "lng": 137.8130827
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5019930802915,
-          "lng": 137.8143674802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0805 長野県飯田市鼎一色１７６−２",
+      "geometry": {
+        "location": {
+          "lat": 35.5007458,
+          "lng": 137.8130827
         },
-        "southwest": {
-          "lat": 35.4992951197085,
-          "lng": 137.8116695197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50199392989272,
+            "lng": 137.8143683298927
+          },
+          "southwest": {
+            "lat": 35.49929427010728,
+            "lng": 137.8116686701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdVkLWK-ZHGARVohK8RAkY_w",
-    "plus_code": {
-      "compound_code": "GR27+76 長野県飯田市",
-      "global_code": "8Q7VGR27+76"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ステーキ宮 飯田インター店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103061170890279927845\">関野仁</a>"
+          ],
+          "photo_reference": "Aap_uEA8Gg2wreinL7uTyoeU00ilPEZaZrp0FLaKwI4ywjHiJE-zcXLM2drCrCxS0i2znH0-XjpNI51n0i3i4ld4YI9nTRotitZdclatLnyCt1hi_SMfENPxM3x6c63KVimkXIB0Ux0rRM25SGq9-VUBtbgaQcnTsW6aXyHDZMsbp2_1vIND",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJdVkLWK-ZHGARVohK8RAkY_w",
+      "plus_code": {
+        "compound_code": "GR27+76 飯田市、長野県",
+        "global_code": "8Q7VGR27+76"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

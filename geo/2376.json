@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１５０−８",
-        "short_name": "３１５０−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町３１５０−８",
-    "geometry": {
-      "location": {
-        "lat": 36.5005125,
-        "lng": 137.8594611
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5019155802915,
-          "lng": 137.8607923302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町３１５０−８",
+      "geometry": {
+        "location": {
+          "lat": 36.5005125,
+          "lng": 137.8594611
         },
-        "southwest": {
-          "lat": 36.4992176197085,
-          "lng": 137.8580943697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.50191642989272,
+            "lng": 137.8607931798927
+          },
+          "southwest": {
+            "lat": 36.49921677010727,
+            "lng": 137.8580935201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVVUhpetjHWAR_YZGCK7E5-s",
-    "plus_code": {
-      "compound_code": "GV25+6Q 日本、長野県大町市",
-      "global_code": "8Q8VGV25+6Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "松葉鮨",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101360989494738338011\">furi chan</a>"
+          ],
+          "photo_reference": "Aap_uEDZzpIFeKR-xQCa1gQjGHjYaESno9Lzp1v_5HI5oKgAeZ45f52DX7FG8q5Tn_KyWMliZqQro0o5hdkKuf7sJezw-fU00Kw4FdvSf0Yl_T4p72OdTe0dc3uzczL20k3vkemoHz4vecUhDAO9ptj2UKvwDr5I-ZxDVNzpjToYLyxXMrgs",
+          "width": 1616
+        }
+      ],
+      "place_id": "ChIJVVUhpetjHWAR_YZGCK7E5-s",
+      "plus_code": {
+        "compound_code": "GV25+6Q 大町市、長野県",
+        "global_code": "8Q8VGV25+6Q"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

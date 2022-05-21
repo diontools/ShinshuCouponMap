@@ -1,74 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "県",
-        "short_name": "県",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8201",
-        "short_name": "399-8201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8201 長野県長野県 安曇野市豊科南穂高6815-4",
-    "geometry": {
-      "location": {
-        "lat": 36.3314809,
-        "lng": 137.9029372
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3328301802915,
-          "lng": 137.9042782302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8201 長野県長野県 安曇野市豊科南穂高6815-4",
+      "geometry": {
+        "location": {
+          "lat": 36.3314809,
+          "lng": 137.9029372
         },
-        "southwest": {
-          "lat": 36.3301322197085,
-          "lng": 137.9015802697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33283102989272,
+            "lng": 137.9042790798927
+          },
+          "southwest": {
+            "lat": 36.33013137010727,
+            "lng": 137.9015794201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJF6wLjt5tHWARnnftT5Dsz3k",
-    "plus_code": {
-      "compound_code": "8WJ3+H5 長野県安曇野市",
-      "global_code": "8Q8V8WJ3+H5"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "安曇野リバークルージング わんだぁ えっぐ ネイチャー&レクリエーションズ",
+      "photos": [
+        {
+          "height": 2894,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107952285465921558013\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECo19X2eR9Dee31wilPJrIhbnTCIllrqXrYodSBMeKBe2AK7UPbmK3Hd9HRLBCCmb6OGEhEyITzud11lxB9A5Zfa1Y_BVQg0xtfImZ9eNGDYfeKAsqeg38-3bqeJq7Ge2j_GrXDzygUuzFsXGmrLMJXy3tTvojRRl0wfPNnYm2yVJ4v",
+          "width": 4093
+        }
+      ],
+      "place_id": "ChIJF6wLjt5tHWARnnftT5Dsz3k",
+      "plus_code": {
+        "compound_code": "8WJ3+H5 安曇野市、長野県",
+        "global_code": "8Q8V8WJ3+H5"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

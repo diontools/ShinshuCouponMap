@@ -1,86 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "779",
-        "short_name": "779",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒779 長野県上高井郡小布施町小布施 JP 3810201",
-    "geometry": {
-      "location": {
-        "lat": 36.6965875,
-        "lng": 138.3165683
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6980002802915,
-          "lng": 138.3179126802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒779 長野県上高井郡小布施町 JP 3810201",
+      "geometry": {
+        "location": {
+          "lat": 36.6965875,
+          "lng": 138.3165683
         },
-        "southwest": {
-          "lat": 36.6953023197085,
-          "lng": 138.3152147197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69800112989272,
+            "lng": 138.3179135298927
+          },
+          "southwest": {
+            "lat": 36.69530147010727,
+            "lng": 138.3152138701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJG3WNH1-JHWARfMs0lssk7qQ",
-    "plus_code": {
-      "compound_code": "M8W8+JJ 日本、長野県小布施町",
-      "global_code": "8Q8WM8W8+JJ"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "桜井甘精堂カフェ茶蔵",
+      "photos": [
+        {
+          "height": 5504,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106471700722173698423\">井口秀幸</a>"
+          ],
+          "photo_reference": "Aap_uEDiwj0dgRoYKUzMrwLx_31SBpH6zxCHQn7IwN4IQyMUrIjRi_CbVgBFusnWX6hZPjCWx5iGUs8zDIFkS2eNAp-HuWuDwc1xxvVImtP4sRg95nx_ozUyBJiOXKlO6ZyHnPfvvPK9DRjGAszoy-h01Nge6rjsPHTAk7T-Cun5fLMSYpFI",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJG3WNH1-JHWARfMs0lssk7qQ",
+      "plus_code": {
+        "compound_code": "M8W8+JJ 小布施町、長野県",
+        "global_code": "8Q8WM8W8+JJ"
+      },
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

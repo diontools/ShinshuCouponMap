@@ -1,86 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "日",
-        "short_name": "日",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "麻績村",
-        "short_name": "麻績村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東筑摩郡",
-        "short_name": "東筑摩郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-7702",
-        "short_name": "399-7702",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-7702 長野県東筑摩郡麻績村日 小東３４３４",
-    "geometry": {
-      "location": {
-        "lat": 36.4542186,
-        "lng": 138.0181749
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.45576433029149,
-          "lng": 138.0196935802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-7702 長野県東筑摩郡麻績村日 小東３４３４",
+      "geometry": {
+        "location": {
+          "lat": 36.4542186,
+          "lng": 138.0181749
         },
-        "southwest": {
-          "lat": 36.4530663697085,
-          "lng": 138.0169956197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.45576517989272,
+            "lng": 138.0196944298927
+          },
+          "southwest": {
+            "lat": 36.45306552010727,
+            "lng": 138.0169947701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRxo4HCN3HWARFx9bUZYZnQY",
-    "plus_code": {
-      "compound_code": "F239+M7 日本、長野県麻績村",
-      "global_code": "8Q8WF239+M7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "シェーンガルテンおみ",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100574907057058475381\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED-IS10ysC_AYRmgcZneu-pV2D8Elzul3YolIWtqhtkpbc7wYBq9cmInj9aUKiTSoh77JvXMFaFIqxFWJIdJxJllO3VmaNe4ZTDrbgOXDNvwDCgW8x5L479EzNqh3Saf0VAc1AP_YfbCvnZRo144mL5ZFLsGocma59fFp_Z8_uXlD7P",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJRxo4HCN3HWARFx9bUZYZnQY",
+      "plus_code": {
+        "compound_code": "F239+M7 麻績村、長野県",
+        "global_code": "8Q8WF239+M7"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

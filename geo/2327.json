@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５",
-        "short_name": "３５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "白板",
-        "short_name": "白板",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0863",
-        "short_name": "390-0863",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0863 長野県松本市白板２丁目３−３５",
-    "geometry": {
-      "location": {
-        "lat": 36.2390064,
-        "lng": 137.9559178
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2404124302915,
-          "lng": 137.9571139302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0863 長野県松本市白板２丁目３−３５",
+      "geometry": {
+        "location": {
+          "lat": 36.238983,
+          "lng": 137.9558323
         },
-        "southwest": {
-          "lat": 36.2377144697085,
-          "lng": 137.9544159697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24041327989272,
+            "lng": 137.9571147798927
+          },
+          "southwest": {
+            "lat": 36.23771362010728,
+            "lng": 137.9544151201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJY3_r0HgOHWARrB2cYPGJ4No",
-    "plus_code": {
-      "compound_code": "6XQ4+J9 日本、長野県松本市",
-      "global_code": "8Q8V6XQ4+J9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "おおたき総本店",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108212293331148114405\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECDqPDPpMatZKXQjZsxUSFtl4p2sUh5jt6WnBv50_6x_nRkdaElNesDpuCnSQFLmC6-juuylmRrGj07ExL-jlF-9NJ16ADtfbmiDz3uqvCk9_SCotlqwBsvOjmBkzI_79qLXmsEvGmXaORqMIM9DELSZXmh2VSxEMN8jp9JmZwA_JcG",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJY3_r0HgOHWARrB2cYPGJ4No",
+      "plus_code": {
+        "compound_code": "6XQ4+J9 松本市、長野県",
+        "global_code": "8Q8V6XQ4+J9"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

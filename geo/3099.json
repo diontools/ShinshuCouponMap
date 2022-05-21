@@ -1,98 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "茅野駅ビル",
-        "short_name": "茅野駅ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３５０６",
-        "short_name": "３５０６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "ちの",
-        "short_name": "ちの",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0001",
-        "short_name": "391-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0001 長野県茅野市ちの３５０６ 茅野駅ビル 1階",
-    "geometry": {
-      "location": {
-        "lat": 35.9942627,
-        "lng": 138.1521048
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9955841302915,
-          "lng": 138.1533882302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0001 長野県茅野市ちの３５０６ 茅野駅ビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 35.9942627,
+          "lng": 138.1521048
         },
-        "southwest": {
-          "lat": 35.9928861697085,
-          "lng": 138.1506902697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99558497989272,
+            "lng": 138.1533890798927
+          },
+          "southwest": {
+            "lat": 35.99288532010727,
+            "lng": 138.1506894201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAQAQZd1WHGARJmqyPEoVhU8",
-    "plus_code": {
-      "compound_code": "X5V2+PR 長野県茅野市",
-      "global_code": "8Q7WX5V2+PR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "福福屋 茅野西口駅前店",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112268821689411382714\">坂本明</a>"
+          ],
+          "photo_reference": "Aap_uECuNnjXFLHLwOFS7O5liTbKDOk02-HTA80hUy_zp4mmEm3JTtFOZWDUHW3cunX_vvVmLc-P-RBZ1NjI_Yi9pM9RWqZ9wKumNIAsSebJDko24r_pVQXvTd9N8nJeqLxaXk1NfwgB-TEdTJv5SIxFLnJ1HUyB4ygFg5oxwGNfg4Wk7vzF",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJAQAQZd1WHGARJmqyPEoVhU8",
+      "plus_code": {
+        "compound_code": "X5V2+PR 茅野市、長野県",
+        "global_code": "8Q7WX5V2+PR"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

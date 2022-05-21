@@ -1,81 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７７０２",
-        "short_name": "７７０２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平７７０２",
-    "geometry": {
-      "location": {
-        "lat": 36.0019515,
-        "lng": 138.272231
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0027972302915,
-          "lng": 138.2728440302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平７７０２",
+      "geometry": {
+        "location": {
+          "lat": 36.0019515,
+          "lng": 138.272231
         },
-        "southwest": {
-          "lat": 36.0000992697085,
-          "lng": 138.2701460697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00279807989272,
+            "lng": 138.27296695
+          },
+          "southwest": {
+            "lat": 36.00009842010728,
+            "lng": 138.27002315
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "鹿島南蓼科ゴルフコース",
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113828723640550244621\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAC_SwBQremULZtyB24HJA5lL_e6yJOQC14x1POuvQ5XYhLou1V-aFNB-6hLUzGj-dCZl9yb9C9Hv6pfQfLeaHhA9gxo_AXppjIfxOE3DmC8hPXU5MxMftK7x0jWlbf8gviCQXrB5NwmWwJzzxKMfYSWuOZrnhzqpWIeHBCsCRhSDyt",
+          "width": 4288
+        }
+      ],
+      "place_id": "ChIJoRBv0nNFHGARLJO2okia0Io",
+      "plus_code": {
+        "compound_code": "272C+QV 茅野市、長野県",
+        "global_code": "8Q8W272C+QV"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJoRBv0nNFHGARLJO2okia0Io",
-    "plus_code": {
-      "compound_code": "272C+QV 長野県茅野市",
-      "global_code": "8Q8W272C+QV"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平７７０２",
+      "geometry": {
+        "location": {
+          "lat": 36.0020066,
+          "lng": 138.2720709
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.00340847989272,
+            "lng": 138.2734418798927
+          },
+          "southwest": {
+            "lat": 36.00070882010728,
+            "lng": 138.2707422201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "鹿島南蓼科ゴルフコースレストラン・イーグル",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111466000620073698004\">Toshichan</a>"
+          ],
+          "photo_reference": "Aap_uEBs0jtaAr2quxY05mqSG6bAKcQPVQLy1dCgpS4026_UG-XaRH9u5brSLzkiYAEfvNtxT1ieQcf1sEQ4vBT6Vsv3EOgsRPqbU23T8LuSvfzDl7AIjArb8dIJnxb30EHO5wh3KEp6_8cg9vpK07w1wADx8VHWKFP6G1gdxeMGZzDSrAUZ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJIYj_J3VFHGARIoxZlbeKRc4",
+      "plus_code": {
+        "compound_code": "272C+RR 茅野市、長野県",
+        "global_code": "8Q8W272C+RR"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９４９４",
-        "short_name": "９４９４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９４９４",
-    "geometry": {
-      "location": {
-        "lat": 36.9232426,
-        "lng": 138.4478648
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9246117802915,
-          "lng": 138.4492264302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９４９４",
+      "geometry": {
+        "location": {
+          "lat": 36.9232426,
+          "lng": 138.4478648
         },
-        "southwest": {
-          "lat": 36.9219138197085,
-          "lng": 138.4465284697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92461262989272,
+            "lng": 138.4492272798927
+          },
+          "southwest": {
+            "lat": 36.92191297010728,
+            "lng": 138.4465276201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyRvn8C4F9l8RPCvjEoxdoOY",
-    "plus_code": {
-      "compound_code": "WCFX+74 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCFX+74"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "レストラン風の家",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111217713245689169394\">Edmund Wong</a>"
+          ],
+          "photo_reference": "Aap_uEAMSuWks70wzAcQkVJKOZX2cZEtkT4z7uordC50gphsWO6L2mwnJ0UnIbGSKOTBHzORrZtPlFAlGQ6uR0ft_Tyxd_Kifvwu6T6XPAk0XY7JKIUkixMG3mKh1HK9OtuGSbg_e8fwQpJW8dwStgq8vL3QWJqAjgSZOLZoTk5dbbTk675P",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJyRvn8C4F9l8RPCvjEoxdoOY",
+      "plus_code": {
+        "compound_code": "WCFX+74 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+74"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0000",
-        "short_name": "393-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0000 長野県諏訪郡下諏訪町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1668307,
-          "lng": 138.17455
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0046 長野県諏訪郡下諏訪町東赤砂4643−６",
+      "geometry": {
+        "location": {
+          "lat": 36.0648067,
+          "lng": 138.0799924
         },
-        "southwest": {
-          "lat": 36.0500822,
-          "lng": 138.0689579
+        "viewport": {
+          "northeast": {
+            "lat": 36.06615187989272,
+            "lng": 138.0814004798927
+          },
+          "southwest": {
+            "lat": 36.06345222010728,
+            "lng": 138.0787008201073
+          }
         }
       },
-      "location": {
-        "lat": 36.0695678,
-        "lng": 138.0801295
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1668307,
-          "lng": 138.17455
-        },
-        "southwest": {
-          "lat": 36.0500822,
-          "lng": 138.0689579
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Cafe食堂 1093",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114269545364611645946\">suwakoko</a>"
+          ],
+          "photo_reference": "Aap_uED7ofVh8EydPBfgB6Vv0428jqd75hOhaQNXSI_K6ri57g_OVr-pxEBJpTxXuo40Sf0w6yg7_qBGWFz2N_ypGfo2CQDqHmdD7oyykfKA_LCYL1-HNt0obOhh5NvTW3v38Rgs4vINsa68JaProwX0Y2CqBNSzTwRNTvq6T3hNOWdufQZf",
+          "width": 3456
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHaxBFCerHWARsKnAUVv2D8c",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJU4FJ_PX_HGARZ1JYCZnOUmA",
+      "plus_code": {
+        "compound_code": "337H+WX 下諏訪町、長野県",
+        "global_code": "8Q8W337H+WX"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

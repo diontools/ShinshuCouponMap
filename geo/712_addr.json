@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８０−１",
-        "short_name": "４８０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "篠ノ井小森",
-        "short_name": "篠ノ井小森",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "388-8003",
-        "short_name": "388-8003",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒388-8003 長野県長野市篠ノ井小森４８０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.5752605,
-        "lng": 138.1530072
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5767367802915,
-          "lng": 138.1543629802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒388-8003 長野県長野市篠ノ井小森４８０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.5752605,
+          "lng": 138.1530072
         },
-        "southwest": {
-          "lat": 36.57403881970851,
-          "lng": 138.1516650197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.57673762989272,
+            "lng": 138.1543638298927
+          },
+          "southwest": {
+            "lat": 36.57403797010727,
+            "lng": 138.1516641701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ7e5mkniDHWARF9IHaCHBbr0",
-    "plus_code": {
-      "compound_code": "H5G3+46 長野県長野市",
-      "global_code": "8Q8WH5G3+46"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒388-8003 長野県長野市篠ノ井小森４８０−１",
+      "place_id": "ChIJ7e5mkniDHWARF9IHaCHBbr0",
+      "plus_code": {
+        "compound_code": "H5G3+46 長野市、長野県",
+        "global_code": "8Q8WH5G3+46"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

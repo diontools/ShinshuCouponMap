@@ -1,97 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手２丁目１０−２",
-    "geometry": {
-      "location": {
-        "lat": 36.2365741,
-        "lng": 137.9653407
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2379270802915,
-          "lng": 137.9665958802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0874 長野県松本市大手２丁目１０−２",
+      "geometry": {
+        "location": {
+          "lat": 36.2365741,
+          "lng": 137.9653407
         },
-        "southwest": {
-          "lat": 36.2352291197085,
-          "lng": 137.9638979197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23792792989272,
+            "lng": 137.9665967298927
+          },
+          "southwest": {
+            "lat": 36.23522827010727,
+            "lng": 137.9638970701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJX2ABF4YOHWARaIOuoNJaq4g",
-    "plus_code": {
-      "compound_code": "6XP8+J4 長野県松本市",
-      "global_code": "8Q8V6XP8+J4"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0874 長野県松本市大手２丁目１０−２",
+      "place_id": "ChIJX2ABF4YOHWARaIOuoNJaq4g",
+      "plus_code": {
+        "compound_code": "6XP8+J4 松本市、長野県",
+        "global_code": "8Q8V6XP8+J4"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

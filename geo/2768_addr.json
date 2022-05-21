@@ -1,79 +1,80 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "王滝村",
-        "short_name": "王滝村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0201",
-        "short_name": "397-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9054781,
-          "lng": 137.6251478
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村東３１８６",
+      "geometry": {
+        "location": {
+          "lat": 35.8232389,
+          "lng": 137.5557422
         },
-        "southwest": {
-          "lat": 35.7087132,
-          "lng": 137.3243378
+        "viewport": {
+          "northeast": {
+            "lat": 35.82456512989273,
+            "lng": 137.5570287298927
+          },
+          "southwest": {
+            "lat": 35.82186547010728,
+            "lng": 137.5543290701073
+          }
         }
       },
-      "location": {
-        "lat": 35.809316,
-        "lng": 137.5508923
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9054781,
-          "lng": 137.6251478
-        },
-        "southwest": {
-          "lat": 35.7087132,
-          "lng": 137.3243378
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ひめや",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116098604104044563257\">山口悟史</a>"
+          ],
+          "photo_reference": "Aap_uED-JZnJZ9lwtjwxA3yj3UWo9X6ImBxnerWKPE0zDpjdA-hq_zNDFxRBoYBoN0Ok00yvJOM6Js8k07KJr6ac888AiOxWYw-E4byseXYnQUZQ8dPniK5sttTV8QSggxV0pSolhgrqjA-vPhRHKVlvqFrZjiTfsSXlpblG5Evb5c53dkyh",
+          "width": 3024
         }
-      }
+      ],
+      "place_id": "ChIJQZ5wZ1rWHGARWH5_Ed6GANw",
+      "plus_code": {
+        "compound_code": "RHF4+77 王滝村、長野県",
+        "global_code": "8Q7VRHF4+77"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJUf5ZDW_VHGAR7FVwY-FGkiY",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村３１８６−１",
+      "geometry": {
+        "location": {
+          "lat": 35.82329,
+          "lng": 137.55568
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.82461217989273,
+            "lng": 137.5569843798927
+          },
+          "southwest": {
+            "lat": 35.82191252010728,
+            "lng": 137.5542847201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "一心堂こたに",
+      "place_id": "ChIJYXWOkfPWHGARRsonGArrB_M",
+      "plus_code": {
+        "compound_code": "RHF4+87 王滝村、長野県",
+        "global_code": "8Q7VRHF4+87"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

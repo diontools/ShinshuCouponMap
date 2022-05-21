@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４−１６",
-        "short_name": "４−１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "浅間温泉",
-        "short_name": "浅間温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0303",
-        "short_name": "390-0303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉３丁目４−４−１６",
-    "geometry": {
-      "location": {
-        "lat": 36.2627272,
-        "lng": 137.9916894
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2639947302915,
-          "lng": 137.9930747302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉３丁目４−１６",
+      "geometry": {
+        "location": {
+          "lat": 36.2626634,
+          "lng": 137.9917178
         },
-        "southwest": {
-          "lat": 36.2612967697085,
-          "lng": 137.9903767697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26399557989272,
+            "lng": 137.9930755798927
+          },
+          "southwest": {
+            "lat": 36.26129592010728,
+            "lng": 137.9903759201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfZTO2QQMHWARNYqzInTl3-k",
-    "plus_code": {
-      "compound_code": "7X7R+3M 日本、長野県松本市",
-      "global_code": "8Q8V7X7R+3M"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "梅の湯",
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108425855264165963720\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED1_mXJLL7_dBDzRnemSy4rdV8X3N4yTVG4-JmCcKjmWZiMIvtmonDHaDEizFUTs85o5ZZtOfWgpJWkEiosyu2Z3lKkotcrpmGjBM_3w5nbLi1CRd7FZuUfRzZU8sRUbP7PnfzGrxVzqhlw_N7y0oeS-Zpyx2ths-mz-5iM2HKw3Sk4",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJfZTO2QQMHWARNYqzInTl3-k",
+      "plus_code": {
+        "compound_code": "7X7R+3M 松本市、長野県",
+        "global_code": "8Q8V7X7R+3M"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

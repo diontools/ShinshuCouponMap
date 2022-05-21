@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２８０−４",
-        "short_name": "１２８０−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平岡",
-        "short_name": "平岡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "天龍村",
-        "short_name": "天龍村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1201",
-        "short_name": "399-1201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1201 長野県下伊那郡天龍村平岡１２８０−４",
-    "geometry": {
-      "location": {
-        "lat": 35.2738889,
-        "lng": 137.8536111
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.2753038802915,
-          "lng": 137.8548834802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1201 長野県下伊那郡天龍村平岡１２８０−４",
+      "geometry": {
+        "location": {
+          "lat": 35.2739413,
+          "lng": 137.8535433
         },
-        "southwest": {
-          "lat": 35.2726059197085,
-          "lng": 137.8521855197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.27530472989272,
+            "lng": 137.8548843298927
+          },
+          "southwest": {
+            "lat": 35.27260507010728,
+            "lng": 137.8521846701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2aNLuOhlG2AR-QmD2LGv72k",
-    "plus_code": {
-      "compound_code": "7VF3+HC 長野県天龍村",
-      "global_code": "8Q7V7VF3+HC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ふれあいステーション 龍泉閣",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100270999748255439098\">豊田泰孝</a>"
+          ],
+          "photo_reference": "Aap_uEDBUxcql6HRkEVR3t26vyKQifs7t3Z95Wda1xJd3GjLaYqh8CObYKFycqT8rM6tiqq_5Q9ckJK3nds5mBqiTppDeKrvqYksbCmgWnoy72isnK8C5urU0t4ZpeJ1dXYw1g9uT_FhvasaD_4nmCpVS9Vdtj-boKz3oamPFA6kcNKlJ0cc",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ2aNLuOhlG2AR-QmD2LGv72k",
+      "plus_code": {
+        "compound_code": "7VF3+HC 天龍村、長野県",
+        "global_code": "8Q7V7VF3+HC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

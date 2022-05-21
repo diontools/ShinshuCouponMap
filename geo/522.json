@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３７",
-        "short_name": "３７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目３７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.4820139,
-        "lng": 138.1422667
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4832742302915,
-          "lng": 138.1435672302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目３７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.4818783,
+          "lng": 138.1422039
         },
-        "southwest": {
-          "lat": 36.4805762697085,
-          "lng": 138.1408692697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48327507989272,
+            "lng": 138.1435680798927
+          },
+          "southwest": {
+            "lat": 36.48057542010728,
+            "lng": 138.1408684201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVeVTKhWcHWARbZpZcHpl9i8",
-    "plus_code": {
-      "compound_code": "F4JR+RW 日本、長野県千曲市",
-      "global_code": "8Q8WF4JR+RW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル亀屋本店",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115061075212287251826\">Irina Uemura</a>"
+          ],
+          "photo_reference": "Aap_uECJpebb23PklUr1ccN7NTLiQdBZCA4-QIyFWjJaFK0vS6CCsz6eLcb-AkneU3YL1lTqMlFWdZ8JXJ4MIwlQtXehiTKYWGBYaKM9yxjxKNlKtK5KLTxbRkyC4uCWibYOVhSfPowOxfWxfSzK9fQawe4PBwL1mAjTTG1ZFAlDp8zoqe6r",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJVeVTKhWcHWARbZpZcHpl9i8",
+      "plus_code": {
+        "compound_code": "F4JR+RW 千曲市、長野県",
+        "global_code": "8Q8WF4JR+RW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

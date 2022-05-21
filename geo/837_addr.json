@@ -1,76 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "岡田町",
-        "short_name": "岡田町",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "中御所",
-        "short_name": "中御所",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0935",
-        "short_name": "380-0935",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0935 長野県長野市中御所 岡田町",
-    "geometry": {
-      "location": {
-        "lat": 36.6468076,
-        "lng": 138.1820609
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64815658029151,
-          "lng": 138.1834098802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0935 長野県長野市中御所岡田町１７３−８",
+      "geometry": {
+        "location": {
+          "lat": 36.6448469,
+          "lng": 138.1822278
         },
-        "southwest": {
-          "lat": 36.64545861970851,
-          "lng": 138.1807119197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64619992989272,
+            "lng": 138.1834306298927
+          },
+          "southwest": {
+            "lat": 36.64350027010727,
+            "lng": 138.1807309701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJB2OIgOmGHWAR1siA7REYmUY",
-    "types": [
-      "intersection"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "三井住友海上火災長野支店",
+      "place_id": "ChIJV-7P7X2HHWARyJTdLAXJsiw",
+      "plus_code": {
+        "compound_code": "J5VJ+WV 長野市、長野県",
+        "global_code": "8Q8WJ5VJ+WV"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

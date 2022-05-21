@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城827ｰ100",
+      "geometry": {
+        "location": {
+          "lat": 36.6861808,
+          "lng": 137.8463292
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.68753777989272,
+            "lng": 137.8476026298927
+          },
+          "southwest": {
+            "lat": 36.68483812010728,
+            "lng": 137.8449029701072
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "SANFERMO PIZZA ET BBQ（サンフェルモ ピッツァ&バーベキュー）",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102139683795018596319\">高橋僚</a>"
+          ],
+          "photo_reference": "Aap_uEBJPUCXut25uTYpUmOVgO2gwQ2V9o5-m_h2nowMx8kgWlPBC0gp7Fr2WK_DhJRImOo44J7BEuriGrIkXyYDN8atozDmYVRboPUt0IFlqLweMGS53V1G-pVnlC4h2ujB8G2HuPd3JVxHbJZKpodjgZeHHl3mrcfBqmG1e_lsRcD2p8n8",
+          "width": 4864
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJO7dFp9nR918RJVbgiPQCdGw",
+      "plus_code": {
+        "compound_code": "MRPW+FG 白馬村、長野県",
+        "global_code": "8Q8VMRPW+FG"
+      },
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

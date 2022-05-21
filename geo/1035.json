@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "斑尾高原",
-        "short_name": "斑尾高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2257",
-        "short_name": "389-2257",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2257 長野県飯山市斑尾高原",
-    "geometry": {
-      "location": {
-        "lat": 36.8523551,
-        "lng": 138.2926691
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8537205302915,
-          "lng": 138.2938875802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2257 長野県飯山市斑尾高原",
+      "geometry": {
+        "location": {
+          "lat": 36.8523551,
+          "lng": 138.2926691
         },
-        "southwest": {
-          "lat": 36.8510225697085,
-          "lng": 138.2911896197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85372137989272,
+            "lng": 138.2938884298927
+          },
+          "southwest": {
+            "lat": 36.85102172010728,
+            "lng": 138.2911887701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZeniun0Y9l8RuIhytILeVas",
-    "plus_code": {
-      "compound_code": "V72V+W3 日本、長野県飯山市",
-      "global_code": "8Q8WV72V+W3"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ブルーベリーペンション",
+      "photos": [
+        {
+          "height": 3151,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113479253788193024197\">ブルーベリーペンション</a>"
+          ],
+          "photo_reference": "Aap_uEDTU_PwhtMwuFGMTaZq0unruvdV69XORWWEFvTif7EF7zQpZEWfCjKSmpdmJE64fQWbd7Q7CdT53N-XRQw0Sv7jAihhr-50AlUwX7ei8CF6LnBdmsPFd63-lW7K_hVa8GqdKz7b-2lXYvHk9bDimuVBrRIi6eFOunMwJI6LVETMWbU",
+          "width": 4726
+        }
+      ],
+      "place_id": "ChIJZeniun0Y9l8RuIhytILeVas",
+      "plus_code": {
+        "compound_code": "V72V+W3 飯山市、長野県",
+        "global_code": "8Q8WV72V+W3"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

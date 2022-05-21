@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 北安曇群白馬村 9342ｰ46",
-    "geometry": {
-      "location": {
-        "lat": 36.713006,
-        "lng": 137.8361658
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7143334802915,
-          "lng": 137.8374356302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村 北安曇群白馬村 9342ｰ46",
+      "geometry": {
+        "location": {
+          "lat": 36.713006,
+          "lng": 137.8361657
         },
-        "southwest": {
-          "lat": 36.7116355197085,
-          "lng": 137.8347376697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71433432989271,
+            "lng": 137.8374364298927
+          },
+          "southwest": {
+            "lat": 36.71163467010727,
+            "lng": 137.8347367701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO0rZpK_N918RhYFClWa8gVE",
-    "plus_code": {
-      "compound_code": "PR7P+6F 長野県白馬村",
-      "global_code": "8Q8VPR7P+6F"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Forest Garden SEASHA",
+      "photos": [
+        {
+          "height": 6936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117018780731428776889\">朝霧 玲</a>"
+          ],
+          "photo_reference": "Aap_uEBQ4xcbAK3iHWV7DUbYiBeQocGNl_CQVxI2bsgoNt4W7TK_rb-oCU13qanv8xG4LuzZQYewp3sUXsW2BrMO746bg_0niFoV6WJhQ9VJoRKHt50YxhZqTLcu2xAK80l5-HmWeDQVwbLUy9w48HBIt150jyOntKuzDtqKq9cwhULv8Qo8",
+          "width": 9248
+        }
+      ],
+      "place_id": "ChIJO0rZpK_N918RhYFClWa8gVE",
+      "plus_code": {
+        "compound_code": "PR7P+6F 白馬村、長野県",
+        "global_code": "8Q8VPR7P+6F"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

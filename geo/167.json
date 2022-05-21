@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７００",
-        "short_name": "１１７００",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "夜間瀬",
-        "short_name": "夜間瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１１７００",
-    "geometry": {
-      "location": {
-        "lat": 36.7850152,
-        "lng": 138.4601987
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7859523802915,
-          "lng": 138.4612199302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１１７００",
+      "geometry": {
+        "location": {
+          "lat": 36.7850152,
+          "lng": 138.4601987
         },
-        "southwest": {
-          "lat": 36.7832544197085,
-          "lng": 138.4585219697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.78595322989273,
+            "lng": 138.4612207798927
+          },
+          "southwest": {
+            "lat": 36.78325357010728,
+            "lng": 138.4585211201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJBR4tEs31HWARPuSUd9U9tJE",
-    "plus_code": {
-      "compound_code": "QFP6+23 日本、長野県山ノ内町",
-      "global_code": "8Q8WQFP6+23"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "SORA GLAMPING RESORT",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101381669742694016612\">hiroshi akiike</a>"
+          ],
+          "photo_reference": "Aap_uEDRTFsyMMJ9eZsOWQZ4LVYXQMdVbVf5n6ONhAyGpavFdS9Tti7lWwijBhIPUmD1yWBoXpfxvpE8yTcl8vEsynf-bMMIMwKkJAMCEzOCc_dpbIc72qMrwjdLH26n3Ip12iQ-uBpRmwHH2pjKgU0_DjNqF5-kXdPKF5P-19tgYe2hytdV",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJBR4tEs31HWARPuSUd9U9tJE",
+      "plus_code": {
+        "compound_code": "QFP6+23 山ノ内町、長野県",
+        "global_code": "8Q8WQFP6+23"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６２６",
-        "short_name": "６２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0012",
-        "short_name": "392-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0012 長野県諏訪市四賀６２６",
-    "geometry": {
-      "location": {
-        "lat": 36.0228143,
-        "lng": 138.1308244
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0241033802915,
-          "lng": 138.1322102302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0012 長野県諏訪市四賀６２６",
+      "geometry": {
+        "location": {
+          "lat": 36.0227943,
+          "lng": 138.1308403
         },
-        "southwest": {
-          "lat": 36.0214054197085,
-          "lng": 138.1295122697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.02410422989271,
+            "lng": 138.1322110798927
+          },
+          "southwest": {
+            "lat": 36.02140457010727,
+            "lng": 138.1295114201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAQCcRptWHGARLMih_0vcUsI",
-    "plus_code": {
-      "compound_code": "24FJ+48 長野県諏訪市",
-      "global_code": "8Q8W24FJ+48"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "正栄軒",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105058719651409175140\">. gjtwn</a>"
+          ],
+          "photo_reference": "Aap_uEBrVVFYYabeD-vBrAoVK0e3xxXbtXRlNuzMCVLx6S1hVwd_9MKjybn3XxrRKa3n9pj9rGEoZBoX0TwYbfxyIwnI8LmBXUFXjWWA9X_uXmMQdUf2WYs7JQ6BcJkSkoHquotBDmhrk61d5NQTkz8PtTsr9i8jA1_-DMPXs_BnUcIDxhYS",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJAQCcRptWHGARLMih_0vcUsI",
+      "plus_code": {
+        "compound_code": "24FJ+48 諏訪市、長野県",
+        "global_code": "8Q8W24FJ+48"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

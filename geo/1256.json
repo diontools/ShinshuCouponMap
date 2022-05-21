@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "常田",
-        "short_name": "常田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0018",
-        "short_name": "386-0018",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0018 長野県上田市常田１丁目４−１３",
-    "geometry": {
-      "location": {
-        "lat": 36.392503,
-        "lng": 138.252747
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3939252802915,
-          "lng": 138.2541713802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0018 長野県上田市常田１丁目４−１３",
+      "geometry": {
+        "location": {
+          "lat": 36.3925282,
+          "lng": 138.2527737
         },
-        "southwest": {
-          "lat": 36.39122731970851,
-          "lng": 138.2514734197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39392612989273,
+            "lng": 138.2541722298927
+          },
+          "southwest": {
+            "lat": 36.39122647010728,
+            "lng": 138.2514725701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYSQxESK9HWAR3K6IvliML40",
-    "plus_code": {
-      "compound_code": "97V3+23 日本、長野県上田市",
-      "global_code": "8Q8W97V3+23"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "アランフェス カフェ&スペインバル",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114135266023402274084\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC3xng5UbpKiZAprf1O9AZGUqMbcukQIgWBNCeNDuU18AX_KBsIIGxpqdIlNfza7tDNcirFadXY_SLam8HOtGwrw_I3408nSnaTlaZDsl-etVwzPhu1fWTPFWMT_LATyejVmDgiHkm9yesU12W5s4xftbH5JwruKXVEauyui4iE6nZ6",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJYSQxESK9HWAR3K6IvliML40",
+      "plus_code": {
+        "compound_code": "97V3+23 上田市、長野県",
+        "global_code": "8Q8W97V3+23"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

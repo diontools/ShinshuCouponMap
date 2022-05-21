@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１３４−１",
-        "short_name": "１１３４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "祢津",
-        "short_name": "祢津",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0506",
-        "short_name": "389-0506",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0506 長野県東御市祢津１１３４−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3655074,
-          "lng": 138.3481012
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0506 長野県東御市祢津１１３４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3654314,
+          "lng": 138.3480202
         },
-        "southwest": {
-          "lat": 36.3653417,
-          "lng": 138.3479129
+        "viewport": {
+          "northeast": {
+            "lat": 36.36675202989272,
+            "lng": 138.3492716798927
+          },
+          "southwest": {
+            "lat": 36.36405237010728,
+            "lng": 138.3465720201073
+          }
         }
       },
-      "location": {
-        "lat": 36.3654314,
-        "lng": 138.3480202
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3667735302915,
-          "lng": 138.3493113302915
-        },
-        "southwest": {
-          "lat": 36.3640755697085,
-          "lng": 138.3466133697085
-        }
-      }
-    },
-    "place_id": "ChIJVUz_c6W5HWARDUtxg32i9xw",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0506 長野県東御市祢津１１３４−１",
+      "place_id": "ChIJVUz_c6W5HWARDUtxg32i9xw",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

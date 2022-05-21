@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０１",
-        "short_name": "１０１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "湯ノ原",
-        "short_name": "湯ノ原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "里山辺",
-        "short_name": "里山辺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0221",
-        "short_name": "390-0221",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0221 長野県松本市里山辺湯ノ原１０１",
-    "geometry": {
-      "location": {
-        "lat": 36.2474982,
-        "lng": 137.9981474
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2487564802915,
-          "lng": 137.9993413802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0221 長野県松本市里山辺湯ノ原１０１",
+      "geometry": {
+        "location": {
+          "lat": 36.2474742,
+          "lng": 137.9980618
         },
-        "southwest": {
-          "lat": 36.2460585197085,
-          "lng": 137.9966434197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24875732989272,
+            "lng": 137.9993422298927
+          },
+          "southwest": {
+            "lat": 36.24605767010727,
+            "lng": 137.9966425701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3bwHDbMOHWARYNGgRj6VK3k",
-    "plus_code": {
-      "compound_code": "6XWX+X7 日本、長野県松本市",
-      "global_code": "8Q8V6XWX+X7"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "旬彩 月の静香",
+      "photos": [
+        {
+          "height": 1750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117632727302017459266\">cokeccoco</a>"
+          ],
+          "photo_reference": "Aap_uEDEr4aX_ZjCHSH_rSSTEN1fNXt_IC93DOvT1zwBrxXYMzj5qC3hMAp7g5FzlY0muOV-D4TepD-7grBeb7AMjev3Ia_uha4gYERcCCc_HvCzwZxHbQ2U9YL1noFJAjCWBkFPZqm9tKx6_DNRu1N4wpOIHTVvoJRSvmzt0dOqXLkAKeUE",
+          "width": 2337
+        }
+      ],
+      "place_id": "ChIJ3bwHDbMOHWARYNGgRj6VK3k",
+      "plus_code": {
+        "compound_code": "6XWX+X7 松本市、長野県",
+        "global_code": "8Q8V6XWX+X7"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

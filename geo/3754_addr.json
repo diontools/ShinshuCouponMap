@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本町",
-        "short_name": "本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0044",
-        "short_name": "395-0044",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0044 長野県飯田市本町２丁目",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5160408,
-          "lng": 137.825212
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0044 長野県飯田市本町２丁目",
+      "geometry": {
+        "location": {
+          "lat": 35.5154254,
+          "lng": 137.824287
         },
-        "southwest": {
-          "lat": 35.5148111,
-          "lng": 137.8233224
+        "viewport": {
+          "northeast": {
+            "lat": 35.51677577989272,
+            "lng": 137.8256170298927
+          },
+          "southwest": {
+            "lat": 35.51407612010728,
+            "lng": 137.8229173701073
+          }
         }
       },
-      "location": {
-        "lat": 35.5154254,
-        "lng": 137.824287
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5167749302915,
-          "lng": 137.8256161802915
-        },
-        "southwest": {
-          "lat": 35.5140769697085,
-          "lng": 137.8229182197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒395-0044 長野県飯田市本町２丁目",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110899769280850633646\">西尾茂紀</a>"
+          ],
+          "photo_reference": "Aap_uED6w7RrhpmlTcsbHiqbJpXQeLwAE5qfk51OYpiDhvFs9Skzrk_g4lcUWbcKaV-yYb5ZA685e8HYn2uwwteMHzz6WkpOF8kSNzNV7ceiHTO4QxNjheohFjlMM-NJs1SLGtHNy-J3E6DH8ibS0un16r8n46KKV1LLpJQPx9DzJa3hKVA5",
+          "width": 4618
         }
-      }
-    },
-    "place_id": "ChIJa52NvZWZHGARALoXNdjA-dw",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJa52NvZWZHGARALoXNdjA-dw",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

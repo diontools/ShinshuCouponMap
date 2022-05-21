@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0872 長野県松本市北深志１丁目４",
+      "geometry": {
+        "location": {
+          "lat": 36.2411955,
+          "lng": 137.9739099
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.24254567989273,
+            "lng": 137.9751655798927
+          },
+          "southwest": {
+            "lat": 36.23984602010728,
+            "lng": 137.9724659201073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "旅の宿 またたび",
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114366365028772251638\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBfqA3A6Jy2YAWFL9IQ6WZqI_yMnh0_e47BtH8gR3x7f2V07qwW-PGrpBXIToqH3w-PgfaLk8l7EPWCqmGb82iBtd5XphibiUV8gqUTjpPQ-8L3yoappRpnfuYA4BTiU6SkW2UHBZZ4nqCCo61lxaj7cJMhqOd27jFybvX-x-VcygP1",
+          "width": 1200
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJlacB1OUPHWARQq6OQhJZkW8",
+      "plus_code": {
+        "compound_code": "6XRF+FH 松本市、長野県",
+        "global_code": "8Q8V6XRF+FH"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

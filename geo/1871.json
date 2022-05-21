@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１−１",
-        "short_name": "１１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "堀金烏川",
-        "short_name": "堀金烏川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8211",
-        "short_name": "399-8211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8211 長野県安曇野市堀金烏川１１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3104856,
-        "lng": 137.8242332
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3117316302915,
-          "lng": 137.8257993302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8211 長野県安曇野市堀金烏川１１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3104856,
+          "lng": 137.8242332
         },
-        "southwest": {
-          "lat": 36.3090336697085,
-          "lng": 137.8231013697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31173247989272,
+            "lng": 137.8258001798927
+          },
+          "southwest": {
+            "lat": 36.30903282010727,
+            "lng": 137.8231005201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJdJvkeprHWAR9LHJIfNL9RY",
-    "plus_code": {
-      "compound_code": "8R6F+5M 日本、長野県安曇野市",
-      "global_code": "8Q8V8R6F+5M"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ほりでーゆ～ 四季の郷",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109162080840326817935\">PZ TREE</a>"
+          ],
+          "photo_reference": "Aap_uEASuPVYjqT-Q0kquei4jtRl4t9MuOcqt2SUc6xlFYDP1NHpwkdK8m1SY_0jA3DEb8pavKa6SJqmxHx4a6QJ6OjtqOj5hQZi-Wn1SlQtXq-N1ZXlFDV8pQcgFvab93yuuWpfR_eqM-jod2ZGPSds9-J1NOfWM_MJtNinvQvYBOGGpmKg",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJJdJvkeprHWAR9LHJIfNL9RY",
+      "plus_code": {
+        "compound_code": "8R6F+5M 安曇野市、長野県",
+        "global_code": "8Q8V8R6F+5M"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,109 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２Ｆ",
-        "short_name": "２Ｆ",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "長野ＮＣビル",
-        "short_name": "長野ＮＣビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２８−３",
-        "short_name": "２８−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２８−３ 長野ＮＣビル ２Ｆ",
-    "geometry": {
-      "location": {
-        "lat": 36.644286,
-        "lng": 138.187748
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6455744302915,
-          "lng": 138.1890598802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２８−３ 長野ＮＣビル ２Ｆ",
+      "geometry": {
+        "location": {
+          "lat": 36.644286,
+          "lng": 138.187748
         },
-        "southwest": {
-          "lat": 36.6428764697085,
-          "lng": 138.1863619197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64557527989272,
+            "lng": 138.1890607298928
+          },
+          "southwest": {
+            "lat": 36.64287562010728,
+            "lng": 138.1863610701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHU0n0JKGHWARb8jRPwePGxQ",
-    "plus_code": {
-      "compound_code": "J5VQ+P3 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+P3"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "liquor_store",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "ワインの酒場。ディプント 長野駅前店",
+      "photos": [
+        {
+          "height": 675,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101157243009339537906\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECMcCXqP9dxnIzpPJhBinqXe-VCHmT8KOUcqrcOHDdwM7uyg-yYC3rJKJFzklqdz9UptrEuNcvzNWqYjmUkk5VfsDQDWp2S3fGD3ZKIuT2Dkf5uKzto5n5XW5hhZPcPzg7_Y64V3WksjsTLN9ztaQfsP8MR_Q1TaXe2_K6RUfz6ldfM",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJHU0n0JKGHWARb8jRPwePGxQ",
+      "plus_code": {
+        "compound_code": "J5VQ+P3 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+P3"
+      },
+      "types": [
+        "liquor_store",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

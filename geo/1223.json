@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９２−１",
-        "short_name": "９２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "材木町",
-        "short_name": "材木町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0014",
-        "short_name": "386-0014",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0014 長野県上田市材木町２丁目１０−９２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3981642,
-        "lng": 138.2650579
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3996130302915,
-          "lng": 138.2663528302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0014 長野県上田市材木町２丁目１０−９２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3981642,
+          "lng": 138.2650579
         },
-        "southwest": {
-          "lat": 36.3969150697085,
-          "lng": 138.2636548697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39961387989272,
+            "lng": 138.2663536798927
+          },
+          "southwest": {
+            "lat": 36.39691422010728,
+            "lng": 138.2636540201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJkx_xJO-8HWARabr-XIlLnOI",
-    "plus_code": {
-      "compound_code": "97X8+72 日本、長野県上田市",
-      "global_code": "8Q8W97X8+72"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ステーキ宮 上田店",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114483266524912824173\">英慈 gomi</a>"
+          ],
+          "photo_reference": "Aap_uEDrLd6J_oATWhK0S3sYN3cWrAjD6D9DWptskCqtbkos_pCsor9vaUkL-j_2fyYAKj2DyFNQxaeJOeVYz5VP5nOEx4nQuhYhGspzrMxlMWplKoCFjq2KMACFbIVKf-tRljsSxl5F__48gzMKsPEDUIweg_mQMBpbvu-GmflgpFHtgWCj",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJkx_xJO-8HWARabr-XIlLnOI",
+      "plus_code": {
+        "compound_code": "97X8+72 上田市、長野県",
+        "global_code": "8Q8W97X8+72"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

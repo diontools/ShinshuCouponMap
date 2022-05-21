@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９４９−２３７",
-        "short_name": "９４９−２３７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "板橋",
-        "short_name": "板橋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1304",
-        "short_name": "384-1304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1304 長野県南佐久郡南牧村板橋９４９−２３７",
-    "geometry": {
-      "location": {
-        "lat": 35.966897,
-        "lng": 138.4953177
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.96825313029149,
-          "lng": 138.4967071302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1304 長野県南佐久郡南牧村板橋９４９−２３７",
+      "geometry": {
+        "location": {
+          "lat": 35.966897,
+          "lng": 138.4953177
         },
-        "southwest": {
-          "lat": 35.96555516970849,
-          "lng": 138.4940091697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96825397989272,
+            "lng": 138.4967079798927
+          },
+          "southwest": {
+            "lat": 35.96555432010728,
+            "lng": 138.4940083201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVTrUwfU9HGARPJE78qXHCmY",
-    "plus_code": {
-      "compound_code": "XF8W+Q4 日本、長野県南牧村",
-      "global_code": "8Q7WXF8W+Q4"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション・ドライブ気分",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109535660768994881734\">Tucchy Akira</a>"
+          ],
+          "photo_reference": "Aap_uEBHL9TTcBEvv9LzZ-hz6nTixuElPtLlVCaewowXas-shyg4RKzvVQ4maWK9wdqqNK5Zj-g08ivF29dLJfhlRepw6pC8pcGrRuGUPqWK9R5r3NoFMII67ac435B2bBYzXOkoqPiHtCT_fCpVWkTbhDPwOcTzG7fITIdBvBjZnXKQ6KV2",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJVTrUwfU9HGARPJE78qXHCmY",
+      "plus_code": {
+        "compound_code": "XF8W+Q4 南牧村、長野県",
+        "global_code": "8Q7WXF8W+Q4"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下伊那郡阿智村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7703721
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0303 長野県下伊那郡阿智村駒場１２３３",
+      "geometry": {
+        "location": {
+          "lat": 35.4445363,
+          "lng": 137.740768
         },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.5930079
+        "viewport": {
+          "northeast": {
+            "lat": 35.44585177989271,
+            "lng": 137.7421016298927
+          },
+          "southwest": {
+            "lat": 35.44315212010727,
+            "lng": 137.7394019701073
+          }
         }
       },
-      "location": {
-        "lat": 35.4440944,
-        "lng": 137.7479129
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7703721
-        },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.5930079
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "きたせんと",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102917518782538342476\">金子和成</a>"
+          ],
+          "photo_reference": "Aap_uECUki1tl7OOj7smQJKY3BIGawxsLRLq882EX1eKEJ05BNUeYdHghx8WC8vFa9ywEgwb-1tDtYqIZ4_h0ROspPOsfKaPFS19FkuC9ehtHMmn8ux_RL48KVj7suqR5_98r8-BdRuvU-k9iQhZ9JPEgqF-KOi0tYpFSezjfYbR5WppYQ5G",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_6rBnHakHGARKet4IBZfp3c",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJMeIfFoCjHGARWhKS5oDQvP0",
+      "plus_code": {
+        "compound_code": "CPVR+R8 阿智村、長野県",
+        "global_code": "8Q7VCPVR+R8"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

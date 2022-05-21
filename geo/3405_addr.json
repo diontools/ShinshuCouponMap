@@ -1,166 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "四王",
-        "short_name": "四王",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0000",
-        "short_name": "393-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0000 長野県諏訪郡下諏訪町 四王",
-    "geometry": {
-      "location": {
-        "lat": 36.0695094,
-        "lng": 138.0863606
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0708583802915,
-          "lng": 138.0877095802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0041 長野県諏訪郡下諏訪町西四王４９９７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.06743040000001,
+          "lng": 138.0847082
         },
-        "southwest": {
-          "lat": 36.06816041970851,
-          "lng": 138.0850116197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJS5D7yFtVHGARn_9EqdkFkrk",
-    "types": [
-      "intersection"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "4997-1",
-        "short_name": "4997-1",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４９９７−１",
-        "short_name": "４９９７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "岩井",
-        "short_name": "岩井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "坂東市",
-        "short_name": "坂東市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "茨城県",
-        "short_name": "茨城県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "306-0631",
-        "short_name": "306-0631",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "4997-1, 4997-1 岩井 坂東市 茨城県 306-0631 日本",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0441356,
-          "lng": 139.8844224
-        },
-        "southwest": {
-          "lat": 36.0440678,
-          "lng": 139.8842936
+        "viewport": {
+          "northeast": {
+            "lat": 36.06867437989272,
+            "lng": 138.0860991298927
+          },
+          "southwest": {
+            "lat": 36.06597472010728,
+            "lng": 138.0833994701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0441067,
-        "lng": 139.8843593
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0454506802915,
-          "lng": 139.8857307302915
-        },
-        "southwest": {
-          "lat": 36.0427527197085,
-          "lng": 139.8830327697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カルビ大将 下諏訪店",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114248509540830931116\">miya y</a>"
+          ],
+          "photo_reference": "Aap_uEC3jKqSH0dp51GDKqeqcO-iaCrelxul5Soz9e3h-72s3qtp17O8_iDTYeLMOoCKXLH26xmAfF9Nl414Z3b3q0CHwHQJUcP8Qjsc1yIvfT9k155T6zsw2hQDOvJH6ICxxI476TsYpoU6FrbF5FezYgVNvQoTsHwGJ2UWFrF4u8KSHY7u",
+          "width": 3648
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlQv4vpKkGGARGknb-mWisxo",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJtYqS6VlVHGARfbHiYyp2jMU",
+      "plus_code": {
+        "compound_code": "338M+XV 下諏訪町、長野県",
+        "global_code": "8Q8W338M+XV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

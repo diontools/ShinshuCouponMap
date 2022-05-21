@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６９",
-        "short_name": "６９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "１丁目-６９-3 上山田温泉 千曲市 長野県 389-0821 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.4808571,
-        "lng": 138.1426747
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4822080302915,
-          "lng": 138.1440260802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "１丁目-６９-３ 上山田温泉 千曲市 長野県 389-0821 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.4808629,
+          "lng": 138.1426822
         },
-        "southwest": {
-          "lat": 36.4795100697085,
-          "lng": 138.1413281197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48220887989272,
+            "lng": 138.1440269298927
+          },
+          "southwest": {
+            "lat": 36.47950922010728,
+            "lng": 138.1413272701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJPULj4xScHWARmjoTpoUZi7U",
-    "plus_code": {
-      "compound_code": "F4JV+83 日本、長野県千曲市",
-      "global_code": "8Q8WF4JV+83"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ラピス・ラズリ",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104233314970158646172\">土屋輝昌</a>"
+          ],
+          "photo_reference": "Aap_uEBPQx_jN8o03aWc8f_mTTIJ01c8yXfkuuUNaGBgvMJ0Ofibv1w0PD4ig8Nj9doA6HG417YX3P8--VkNfb79wlVLxo12-lYmwFZWeIh55tTTswwKTpBiDsky00TyT1krYWEqPUJTBQ65cgG5KliQUOq0gWBghITI-6rez2UUPnUpj19z",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJPULj4xScHWARmjoTpoUZi7U",
+      "plus_code": {
+        "compound_code": "F4JV+83 千曲市、長野県",
+        "global_code": "8Q8WF4JV+83"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上千歳町",
-        "short_name": "上千歳町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0821",
-        "short_name": "380-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0821 長野県長野市鶴賀上千歳町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6518462,
-          "lng": 138.1923223
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0821 長野県長野市鶴賀上千歳町",
+      "geometry": {
+        "location": {
+          "lat": 36.6497355,
+          "lng": 138.1902367
         },
-        "southwest": {
-          "lat": 36.647921,
-          "lng": 138.188392
+        "viewport": {
+          "northeast": {
+            "lat": 36.6518462,
+            "lng": 138.1923223
+          },
+          "southwest": {
+            "lat": 36.647921,
+            "lng": 138.188392
+          }
         }
       },
-      "location": {
-        "lat": 36.6497355,
-        "lng": 138.1902367
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6518462,
-          "lng": 138.1923223
-        },
-        "southwest": {
-          "lat": 36.647921,
-          "lng": 138.188392
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0821 長野県長野市鶴賀上千歳町",
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114050453398305271937\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAx7IpxMLmC7zW04DDat2pkFSyMYGCEsUmgWtvP3nQz6ujqd0j5qMvXAH2w_CD0d73ULu8vu4HTvzIFWqUEgD0g8DXyCYIclBkk-0j9TeOBQ-YRkU8BQ54wi_Iw2zRX4hcdegWBV_GIOw2Sx3wXw3zAMb-FVKQuL6-5mzjjPbJxchZz",
+          "width": 2048
         }
-      }
-    },
-    "place_id": "ChIJ7TTwGvKGHWARf3XUXFTia0c",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ7TTwGvKGHWARf3XUXFTia0c",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

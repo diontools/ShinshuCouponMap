@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１４００−２１",
-        "short_name": "１１４００−２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "宮川",
-        "short_name": "宮川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0013",
-        "short_name": "391-0013",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0013 長野県茅野市宮川１１４００−２１",
-    "geometry": {
-      "location": {
-        "lat": 35.9897904,
-        "lng": 138.1606052
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9911292302915,
-          "lng": 138.1618837302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0013 長野県茅野市宮川１１４００−２１",
+      "geometry": {
+        "location": {
+          "lat": 35.9897848,
+          "lng": 138.1605488
         },
-        "southwest": {
-          "lat": 35.98843126970851,
-          "lng": 138.1591857697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99113007989273,
+            "lng": 138.1618845798927
+          },
+          "southwest": {
+            "lat": 35.98843042010728,
+            "lng": 138.1591849201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJG7_MO8tQHGARvszxiIgf8NM",
-    "plus_code": {
-      "compound_code": "X5Q6+W6 長野県茅野市",
-      "global_code": "8Q7WX5Q6+W6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "柚子の香",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103782820989139783707\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAFrYL6Si2-JdtltgJXjT6bHmuZyxMrjyVUGSyKsFpfbDlqvt4V70kOnf7J7_PfZWjSTLVTY6Sa7VAR4RIyGJGeYARKTQ4LASvxRICq91fd0m2jg1_yWd3sm0ThAMqGssnmxFpIBma5cArC3WOMdmxXFqiqmAglO-GQqR9jayrmm4k4",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJG7_MO8tQHGARvszxiIgf8NM",
+      "plus_code": {
+        "compound_code": "X5Q6+W6 茅野市、長野県",
+        "global_code": "8Q7WX5Q6+W6"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

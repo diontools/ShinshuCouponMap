@@ -1,72 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡木島平村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8948837,
-          "lng": 138.5555357
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島",
+      "geometry": {
+        "location": {
+          "lat": 36.8403083,
+          "lng": 138.4994642
         },
-        "southwest": {
-          "lat": 36.7934872,
-          "lng": 138.3841393
+        "viewport": {
+          "northeast": {
+            "lat": 36.8589354,
+            "lng": 138.5555357
+          },
+          "southwest": {
+            "lat": 36.7934872,
+            "lng": 138.3841393
+          }
         }
       },
-      "location": {
-        "lat": 36.8585206,
-        "lng": 138.4066807
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8948837,
-          "lng": 138.5555357
-        },
-        "southwest": {
-          "lat": 36.7934872,
-          "lng": 138.3841393
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "上木島",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103705282620330218234\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBlVFQmVLOskRSwfFjolnmdSouKxBEsydVDN9VyM0g5HlG_8bMwcGwjMzC6WLmk0AtiGpy6dBVGx_i5ElST0LyL1Fvjh9IwGwoxZG_1jQxRq2La6l7PCIBt-23LVR-wnQY5doSYzdOd8Mapb4wmY5tgbTRKwkknpQCCViu2dEQ4z2Au",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc3eDrccd9l8RkOQoasAe-GM",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJTz9xqFwe9l8Rw83PMSSVM10",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

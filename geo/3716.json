@@ -1,95 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "通り町",
-        "short_name": "通り町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0043",
-        "short_name": "395-0043",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0043 長野県飯田市通り町２丁目１",
-    "geometry": {
-      "location": {
-        "lat": 35.515922,
-        "lng": 137.8252611
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5172161802915,
-          "lng": 137.8267188302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0043 長野県飯田市通り町２丁目１",
+      "geometry": {
+        "location": {
+          "lat": 35.5158375,
+          "lng": 137.8254303
         },
-        "southwest": {
-          "lat": 35.5145182197085,
-          "lng": 137.8240208697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51721702989272,
+            "lng": 137.8267196798928
+          },
+          "southwest": {
+            "lat": 35.51451737010728,
+            "lng": 137.8240200201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdUhss5WZHGARw4FledsxxAQ",
-    "plus_code": {
-      "compound_code": "GR8G+94 長野県飯田市",
-      "global_code": "8Q7VGR8G+94"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "カフェ三連蔵 / cafe sanrenggura",
+      "photos": [
+        {
+          "height": 2178,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113212272647905332140\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECnhrzfD-wX_TrimB-cuvUdMmbpkZJFmBDKSNku_QoijXcA8Zgb8zLoGBi5qeCO66xCOjvLlMnOXMPJVLQsoHI-9kKuZQM-SdA9NYnwt-mw6Sj1z_mEQ-bW1NkCmLs-JfjxsU96vPCOY1MONH-AeCrs_iIrR1p_Os1ttRPwEhygNapk",
+          "width": 3267
+        }
+      ],
+      "place_id": "ChIJdUhss5WZHGARw4FledsxxAQ",
+      "plus_code": {
+        "compound_code": "GR8G+94 飯田市、長野県",
+        "global_code": "8Q7VGR8G+94"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

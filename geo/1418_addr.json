@@ -1,85 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９８−１",
-        "short_name": "４９８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "布下",
-        "short_name": "布下",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0402",
-        "short_name": "389-0402",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0402 長野県東御市布下４９８−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3362692,
-          "lng": 138.3732115
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0402 長野県東御市布下４９８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3361796,
+          "lng": 138.373131
         },
-        "southwest": {
-          "lat": 36.3360397,
-          "lng": 138.3729999
+        "viewport": {
+          "northeast": {
+            "lat": 36.33763737989272,
+            "lng": 138.3744241298927
+          },
+          "southwest": {
+            "lat": 36.33493772010728,
+            "lng": 138.3717244701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3361796,
-        "lng": 138.373131
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3375665802915,
-          "lng": 138.3744546802915
-        },
-        "southwest": {
-          "lat": 36.3348686197085,
-          "lng": 138.3717567197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0402 長野県東御市布下４９８−１",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104856486236872474152\">青木ひろ</a>"
+          ],
+          "photo_reference": "Aap_uECCbtKNCrqvD3fyCvBrbAzzZ8BBIgQ34t2TSFT3jqTySYHu1V_A-7_owkWG-IETwACKo9pJaFINPSIEnl9isZA9EgH0rWLQ1ofeYYVxVwJdE6yUfvhuFFEijorw6SBVr0cmJu0jV7brACjHJ3-8UEBUiKeMPevu3GPAVxfe2ZS30or3",
+          "width": 3840
         }
-      }
-    },
-    "place_id": "ChIJJSxUmZG3HWARegkMFJeStbk",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJJSxUmZG3HWARegkMFJeStbk",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

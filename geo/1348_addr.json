@@ -1,211 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目６−１ 若菜ビル 2F",
-    "geometry": {
-      "location": {
-        "lat": 36.3974239,
-        "lng": 138.2496672
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.39875293029149,
-          "lng": 138.2509996802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目６−１ 若菜ビル 2F",
+      "geometry": {
+        "location": {
+          "lat": 36.3974239,
+          "lng": 138.2496672
         },
-        "southwest": {
-          "lat": 36.3960549697085,
-          "lng": 138.2483017197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJaeN1Btq8HWAREd-MgGrJ9DE",
-    "plus_code": {
-      "compound_code": "96WX+XV 長野県上田市",
-      "global_code": "8Q8W96WX+XV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目６−１ 1階",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3975717,
-          "lng": 138.2497661
-        },
-        "southwest": {
-          "lat": 36.3973999,
-          "lng": 138.2495193
+        "viewport": {
+          "northeast": {
+            "lat": 36.39875377989272,
+            "lng": 138.2510005298927
+          },
+          "southwest": {
+            "lat": 36.39605412010727,
+            "lng": 138.2483008701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3974878,
-        "lng": 138.2496363
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3988228302915,
-          "lng": 138.2509916802915
-        },
-        "southwest": {
-          "lat": 36.3961248697085,
-          "lng": 138.2482937197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "若菜館",
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311950103862417055\">遠藤康史</a>"
+          ],
+          "photo_reference": "Aap_uEBnTO8hbu1yyf6LVcVBL4wCkbv1ydm8yFuv43NPfaxyKGBFv4P19OqQHYXYRqpOCgZkEMQz-Qt_cWL8RhDa7Eajq0nptYkSy66U0IRQGp84CvVAR9TPTPSm3GnEtbxFt_1VfG4yFFBCOFx_kCwP8EFUa1CWFRSYrMPHoMWT6Yol3399",
+          "width": 2048
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "Ejcx6ZqOLCAxLWNoxY1tZS02LTEgVGVuamluLCBVZWRhLCBOYWdhbm8gMzg2LTAwMjUsIEphcGFuIiAaHgoWChQKEgnFMnYG2rwdYBE4-yRKd-7Z3RIEMemajg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJaeN1Btq8HWAREd-MgGrJ9DE",
+      "plus_code": {
+        "compound_code": "96WX+XV 上田市、長野県",
+        "global_code": "8Q8W96WX+XV"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

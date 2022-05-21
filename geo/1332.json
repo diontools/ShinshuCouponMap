@@ -1,99 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５",
-        "short_name": "３５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央北",
-        "short_name": "中央北",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0011",
-        "short_name": "386-0011",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0011 長野県上田市中央北１丁目６−３５",
-    "geometry": {
-      "location": {
-        "lat": 36.4072571,
-        "lng": 138.2576002
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.40851428029151,
-          "lng": 138.2588750802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0011 長野県上田市中央北１丁目６−３５",
+      "geometry": {
+        "location": {
+          "lat": 36.4072652,
+          "lng": 138.2576028
         },
-        "southwest": {
-          "lat": 36.40581631970851,
-          "lng": 138.2561771197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.40851512989272,
+            "lng": 138.2588759298928
+          },
+          "southwest": {
+            "lat": 36.40581547010728,
+            "lng": 138.2561762701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxb_VRSC9HWARvn_Z1mpV3Z0",
-    "plus_code": {
-      "compound_code": "C745+W2 日本、長野県上田市",
-      "global_code": "8Q8WC745+W2"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "上田観光自動車（株） タクシー本社営業所",
+      "place_id": "ChIJxb_VRSC9HWARvn_Z1mpV3Z0",
+      "plus_code": {
+        "compound_code": "C745+W2 上田市、長野県",
+        "global_code": "8Q8WC745+W2"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

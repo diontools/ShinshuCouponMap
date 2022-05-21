@@ -1,102 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０６１６",
-        "short_name": "１０６１６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "西高木",
-        "short_name": "西高木",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0033",
-        "short_name": "393-0033",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0033 長野県諏訪郡下諏訪町西高木１０６１６",
-    "geometry": {
-      "location": {
-        "lat": 36.0639448,
-        "lng": 138.1047788
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0652618302915,
-          "lng": 138.1061815302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0033 長野県諏訪郡下諏訪町西高木１０６１６",
+      "geometry": {
+        "location": {
+          "lat": 36.0639216,
+          "lng": 138.1048
         },
-        "southwest": {
-          "lat": 36.06256386970851,
-          "lng": 138.1034835697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06526267989273,
+            "lng": 138.1061823798927
+          },
+          "southwest": {
+            "lat": 36.06256302010728,
+            "lng": 138.1034827201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq8Sq8xNVHGARVj9dzacWUww",
-    "plus_code": {
-      "compound_code": "3473+HW 長野県下諏訪町",
-      "global_code": "8Q8W3473+HW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "塩天丼",
+      "photos": [
+        {
+          "height": 2740,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103055726251217812445\">F. Masaki</a>"
+          ],
+          "photo_reference": "Aap_uEBGxb2ZaaEvOYrOlh11J-PGenNpMncOCZFCCvs-O4kK8E5GhoIzjAeSj4yUbFqaxQBP0mz_rQWmjskOcWInzWOyPLT4v7Ciw8v0sk2EvcMAhZU3x8xSS5x_cPEn5Z9AMMx1DnY4C186LA3as1XbBX6AagTbaQYBnpz4JvTsOgAJtyhZ",
+          "width": 5480
+        }
+      ],
+      "place_id": "ChIJq8Sq8xNVHGARVj9dzacWUww",
+      "plus_code": {
+        "compound_code": "3473+HW 下諏訪町、長野県",
+        "global_code": "8Q8W3473+HW"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

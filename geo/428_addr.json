@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８４７−３",
-        "short_name": "８４７−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "柳里",
-        "short_name": "柳里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯綱町",
-        "short_name": "飯綱町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1222",
-        "short_name": "389-1222",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1222 長野県上水内郡飯綱町柳里８４７−３",
-    "geometry": {
-      "location": {
-        "lat": 36.7436315,
-        "lng": 138.2056221
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7449783802915,
-          "lng": 138.2068716302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-1222 長野県上水内郡飯綱町柳里８４７−３",
+      "geometry": {
+        "location": {
+          "lat": 36.7436315,
+          "lng": 138.2056221
         },
-        "southwest": {
-          "lat": 36.7422804197085,
-          "lng": 138.2041736697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74497922989272,
+            "lng": 138.2068724798927
+          },
+          "southwest": {
+            "lat": 36.74227957010728,
+            "lng": 138.2041728201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJh9RoYSsm9l8RVxiRzmLKLys",
-    "plus_code": {
-      "compound_code": "P6V4+F6 長野県飯綱町",
-      "global_code": "8Q8WP6V4+F6"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-1222 長野県上水内郡飯綱町柳里８４７−３",
+      "place_id": "ChIJh9RoYSsm9l8RVxiRzmLKLys",
+      "plus_code": {
+        "compound_code": "P6V4+F6 飯綱町、長野県",
+        "global_code": "8Q8WP6V4+F6"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

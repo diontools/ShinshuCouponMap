@@ -1,94 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６",
-        "short_name": "２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "本町西",
-        "short_name": "本町西",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0003",
-        "short_name": "391-0003",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0003 長野県茅野市本町西１−２６",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.994111,
-          "lng": 138.162192
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0003 長野県茅野市本町西１−２６",
+      "geometry": {
+        "location": {
+          "lat": 35.99406159999999,
+          "lng": 138.1621334
         },
-        "southwest": {
-          "lat": 35.9940101,
-          "lng": 138.1620868
+        "viewport": {
+          "northeast": {
+            "lat": 35.99538532989272,
+            "lng": 138.1635261798927
+          },
+          "southwest": {
+            "lat": 35.99268567010728,
+            "lng": 138.1608265201072
+          }
         }
       },
-      "location": {
-        "lat": 35.99406159999999,
-        "lng": 138.1621334
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9954091802915,
-          "lng": 138.1635020302915
-        },
-        "southwest": {
-          "lat": 35.9927112197085,
-          "lng": 138.1608040697085
-        }
-      }
-    },
-    "place_id": "ChIJL1kD_8xQHGARsiVLYr5bRzA",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0003 長野県茅野市本町西１−２６",
+      "place_id": "ChIJL1kD_8xQHGARsiVLYr5bRzA",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

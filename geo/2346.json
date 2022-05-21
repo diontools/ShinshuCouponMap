@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７",
-        "short_name": "２７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "野溝西",
-        "short_name": "野溝西",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0006",
-        "short_name": "399-0006",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0006 長野県松本市野溝西１丁目６−２７",
-    "geometry": {
-      "location": {
-        "lat": 36.2041004,
-        "lng": 137.9521429
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2054584802915,
-          "lng": 137.9535482302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0006 長野県松本市野溝西１丁目６−２７",
+      "geometry": {
+        "location": {
+          "lat": 36.2041004,
+          "lng": 137.9521429
         },
-        "southwest": {
-          "lat": 36.20276051970851,
-          "lng": 137.9508502697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.20545932989272,
+            "lng": 137.9535490798928
+          },
+          "southwest": {
+            "lat": 36.20275967010728,
+            "lng": 137.9508494201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL-tLu1IOHWARRw2I9vJaStU",
-    "plus_code": {
-      "compound_code": "6X32+JV 日本、長野県松本市",
-      "global_code": "8Q8V6X32+JV"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "珈琲ノンノン",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114943956526595151585\">田原勇一</a>"
+          ],
+          "photo_reference": "Aap_uEAgdzHiRj9A7T_laGEo5bUeWWc7Uj9mg_X35KTgncWN_NHaZGbkw_3mFREHel7j7PVb8aBZ_wbSNlQtu9y2aLozaZR99Cjh54dn5bDfEQFGrMFJb6_g9bcLSinuNQ_OBga3mHaU8uj532f1LquB7YjasgKiGhuE090Q1kRnpNpKnv-s",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJL-tLu1IOHWARRw2I9vJaStU",
+      "plus_code": {
+        "compound_code": "6X32+JV 松本市、長野県",
+        "global_code": "8Q8V6X32+JV"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

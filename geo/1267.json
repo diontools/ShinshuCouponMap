@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５１５−１",
-        "short_name": "５１５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神畑",
-        "short_name": "神畑",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1103",
-        "short_name": "386-1103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1103 長野県上田市神畑５１５−１",
-    "geometry": {
-      "location": {
-        "lat": 36.384101,
-        "lng": 138.211837
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.38548138029149,
-          "lng": 138.2131925302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1103 長野県上田市神畑５１５−１",
+      "geometry": {
+        "location": {
+          "lat": 36.384101,
+          "lng": 138.211837
         },
-        "southwest": {
-          "lat": 36.3827834197085,
-          "lng": 138.2104945697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.38548222989272,
+            "lng": 138.2131933798927
+          },
+          "southwest": {
+            "lat": 36.38278257010727,
+            "lng": 138.2104937201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWTIPdrujHWARiHmr2wkicTI",
-    "plus_code": {
-      "compound_code": "96M6+JP 日本、長野県上田市",
-      "global_code": "8Q8W96M6+JP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ハレ terrace グリーンパーク しおだ野店",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100361089770537407955\">西村仁志</a>"
+          ],
+          "photo_reference": "Aap_uEA7EhoP3R8tLFkrLwk-62H1ybmojJWHGlpwyMA3RKg9p13mPW6ymPTx0WgUtK7YiWqxN3nRGXHn5ecackaEd5H0u8dQqQHSjfY1xZ9LH7V8rTIf29Ko_Y5B8SiKffUBOCUTLlOOdEl3iX5Uh3bp8je4b4atXnVldK3Orfqo_PBn40LW",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJWTIPdrujHWARiHmr2wkicTI",
+      "plus_code": {
+        "compound_code": "96M6+JP 上田市、長野県",
+        "global_code": "8Q8W96M6+JP"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

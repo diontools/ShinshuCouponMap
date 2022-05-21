@@ -1,76 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "梓川倭",
-        "short_name": "梓川倭",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1701",
-        "short_name": "390-1701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1701 長野県松本市梓川倭",
-    "geometry": {
-      "location": {
-        "lat": 36.2320512,
-        "lng": 137.8922595
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23348748029149,
-          "lng": 137.8937074302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1701 長野県松本市梓川倭",
+      "geometry": {
+        "location": {
+          "lat": 36.2321053,
+          "lng": 137.8922311
         },
-        "southwest": {
-          "lat": 36.23078951970849,
-          "lng": 137.8910094697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23348832989272,
+            "lng": 137.8937082798927
+          },
+          "southwest": {
+            "lat": 36.23078867010728,
+            "lng": 137.8910086201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgyye40cSHWARLw9BUdewqx0",
-    "plus_code": {
-      "compound_code": "6VJR+RW 日本、長野県松本市",
-      "global_code": "8Q8V6VJR+RW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "小木曽製粉所 梓川店",
+      "photos": [
+        {
+          "height": 808,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102054116566829766923\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED3BWp9UeTmxiW-TN7KhCA2CKRAXV1hxg8ongSf7IIvkRBLEGmsTRXjE73YeDlOXjLpV1_tgIt_pgnF5A6b5IKiLiYVWNQlOEc2X1Rd0fDvAbfM-3m-4Gk8s3MT88cLOM_93U8L9C2a-fxTSUefN8_dJ1kC_OGOOIvjIRNVFsy1Auf_",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJgyye40cSHWARLw9BUdewqx0",
+      "plus_code": {
+        "compound_code": "6VJR+RW 松本市、長野県",
+        "global_code": "8Q8V6VJR+RW"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

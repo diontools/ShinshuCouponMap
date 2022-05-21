@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１ 松本 駅 ビル MIDORI 4F",
-    "geometry": {
-      "location": {
-        "lat": 36.2312669,
-        "lng": 137.9645038
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2327852302915,
-          "lng": 137.9660129802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１ 松本 駅 ビル MIDORI 4F",
+      "geometry": {
+        "location": {
+          "lat": 36.2312669,
+          "lng": 137.9645038
         },
-        "southwest": {
-          "lat": 36.23008726970851,
-          "lng": 137.9633150197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23278607989273,
+            "lng": 137.9660138298927
+          },
+          "southwest": {
+            "lat": 36.23008642010728,
+            "lng": 137.9633141701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzcxKY4kOHWARtxBXSYL6U74",
-    "plus_code": {
-      "compound_code": "6XJ7+GR 日本、長野県松本市",
-      "global_code": "8Q8V6XJ7+GR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カンポ ディ ジラソーレ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117789666497415171483\">shinohara makoto</a>"
+          ],
+          "photo_reference": "Aap_uEDpNVyQW0qddwOxGuJlnS9a71Hd6MZq7Nae5w0ZHH70XCYouYNN9GEw7PKWed1KT44GuhgR3jLvz_hV2gvQ0r6inW2gD_9BMrUt5mmvpsGuB8FmArx_EnqXsKqygcguQQrqcztx95RJ8TWOLMxU5z10N-JVtOFiF6vtTNsj6EbrWqrk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJzcxKY4kOHWARtxBXSYL6U74",
+      "plus_code": {
+        "compound_code": "6XJ7+GR 松本市、長野県",
+        "global_code": "8Q8V6XJ7+GR"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

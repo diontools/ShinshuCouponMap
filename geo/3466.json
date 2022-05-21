@@ -1,95 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り２丁目７",
-    "geometry": {
-      "location": {
-        "lat": 36.0513496,
-        "lng": 138.1134185
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0528080302915,
-          "lng": 138.1144828802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り２丁目７",
+      "geometry": {
+        "location": {
+          "lat": 36.0514553,
+          "lng": 138.1129738
         },
-        "southwest": {
-          "lat": 36.0501100697085,
-          "lng": 138.1117849197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05280887989272,
+            "lng": 138.1144837298928
+          },
+          "southwest": {
+            "lat": 36.05010922010728,
+            "lng": 138.1117840701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdRtE0K5VHGARiTVwQHotpf4",
-    "plus_code": {
-      "compound_code": "3427+G9 長野県諏訪市",
-      "global_code": "8Q8W3427+G9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル 紅や",
+      "photos": [
+        {
+          "height": 2832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102226733098649135514\">yuya 0606</a>"
+          ],
+          "photo_reference": "Aap_uEAPuBjKxkkttnL4meJNSir6LvhZjontlVOvgUpYviuwuc8M1-Km-B8DlPxwCsbEYWC4XPRtJw4u25secueX-kOCOZmu8mDASPDJg0yZHlhBMZZcBfbJW8YlHcH6rocIFM_jB9sqwuo-jrdi43_CYW72YFufgPCeeXjEimGlwn__Kuc1",
+          "width": 4240
+        }
+      ],
+      "place_id": "ChIJdRtE0K5VHGARiTVwQHotpf4",
+      "plus_code": {
+        "compound_code": "3427+G9 諏訪市、長野県",
+        "global_code": "8Q8W3427+G9"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

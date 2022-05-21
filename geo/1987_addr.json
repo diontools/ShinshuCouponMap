@@ -1,80 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３０６−７",
-        "short_name": "４３０６−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇４３０６−７",
-    "geometry": {
-      "location": {
-        "lat": 36.1229855,
-        "lng": 137.6263308
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1243078302915,
-          "lng": 137.6277247802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1513 長野県松本市安曇鈴蘭４３０６−６",
+      "geometry": {
+        "location": {
+          "lat": 36.1219872,
+          "lng": 137.6249484
         },
-        "southwest": {
-          "lat": 36.12160986970851,
-          "lng": 137.6250268197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12334842989272,
+            "lng": 137.6263794798927
+          },
+          "southwest": {
+            "lat": 36.12064877010727,
+            "lng": 137.6236798201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ046gtL45HWARuB3CPACR_y0",
-    "plus_code": {
-      "compound_code": "4JFG+5G 長野県松本市",
-      "global_code": "8Q8V4JFG+5G"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "中部山岳国立公園 松本市乗鞍観光センター",
+      "photos": [
+        {
+          "height": 2269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117807539351950002835\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBLFRGepj6zN80yLB4PYzhB7utRBgFb9Toxj7HvI7DoJtht9IzCLA1ap4lyaet-Q5Fz_rX8cpgXTe1DwgvSWQSZ1BKCJYRD2bbLeQ3qXFx4XJ7Lu3cUbnb2sJ6ID2ZgjtgkCeobhhRX1RKXakwSvwUI2VN6dYQC3xw3iA46ZX5KesSG",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_0MOACk5HWAR9doXJfEqrJc",
+      "plus_code": {
+        "compound_code": "4JCF+QX 松本市、長野県",
+        "global_code": "8Q8V4JCF+QX"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

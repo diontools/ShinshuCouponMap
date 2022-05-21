@@ -1,97 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１階",
-        "short_name": "１階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "エス・バード Ｂ棟",
-        "short_name": "エス・バード Ｂ棟",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３３４９−１",
-        "short_name": "３３４９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "座光寺",
-        "short_name": "座光寺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0001",
-        "short_name": "395-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0001 長野県飯田市座光寺３３４９−１ エス・バード Ｂ棟 １階",
-    "geometry": {
-      "location": {
-        "lat": 35.5373719,
-        "lng": 137.8641897
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5387816802915,
-          "lng": 137.8665789802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0001 長野県飯田市３３４９−１ エス・バード Ｂ棟 １階",
+      "geometry": {
+        "location": {
+          "lat": 35.5373719,
+          "lng": 137.8641897
         },
-        "southwest": {
-          "lat": 35.5360837197085,
-          "lng": 137.8638810197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.53878252989271,
+            "lng": 137.8673106
+          },
+          "southwest": {
+            "lat": 35.53608287010727,
+            "lng": 137.8631494
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJsZJHke2bHGAR5nRk_Rv-ZGo",
-    "plus_code": {
-      "compound_code": "GVP7+WM 長野県飯田市",
-      "global_code": "8Q7VGVP7+WM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "熟成とんかつ 3びきのこぶた 座光寺店",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102613123168640044397\">春名将行</a>"
+          ],
+          "photo_reference": "Aap_uEAF7tShwfFZyj3D1-HQVrqa6FIFkNwVBYEuV96g0PqS5PA0jkt-t7oFfwKlsIRvUT1IDtGui93wTPoisgE5DpID8sVBL-hUaoRGPOtzQxxKj3tboem3e0M1lzad2MSVwpuEGvYNrTWlNkPDQHPCLnYBrWlU0g2PCiugmH3-7hIy_WcW",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJsZJHke2bHGAR5nRk_Rv-ZGo",
+      "plus_code": {
+        "compound_code": "GVP7+WM 飯田市、長野県",
+        "global_code": "8Q7VGVP7+WM"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

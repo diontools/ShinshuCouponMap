@@ -1,100 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３９",
-        "short_name": "３９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "開田高原西野",
-        "short_name": "開田高原西野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0302",
-        "short_name": "397-0302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野１−３９",
-    "geometry": {
-      "location": {
-        "lat": 35.9347918,
-        "lng": 137.6048065
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9362243802915,
-          "lng": 137.6062180802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野１−３９",
+      "geometry": {
+        "location": {
+          "lat": 35.9347918,
+          "lng": 137.6048065
         },
-        "southwest": {
-          "lat": 35.9335264197085,
-          "lng": 137.6035201197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.93622522989273,
+            "lng": 137.6062189298927
+          },
+          "southwest": {
+            "lat": 35.93352557010728,
+            "lng": 137.6035192701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば處中西屋",
+      "photos": [
+        {
+          "height": 3104,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116517628433953553277\">沢口千春</a>"
+          ],
+          "photo_reference": "Aap_uEA2QrAdiGq73YIlDAQlqMckg2alrrRJiy0oG9Uv07CssfIjEwzMM-K2yj8jX2gdhSRO3NtQz-G98AGh-rvy16qn_e33FaBUr2f4YM2NeksypEmKH5_MvvXon7Zllh3KcD_HbWD7aJrYe4T7Tf9DEV_j_hA7fhlaOFf_luGNlEaLUoc",
+          "width": 5520
+        }
+      ],
+      "place_id": "ChIJqSq4V6goHWARvl95Y2fGloo",
+      "plus_code": {
+        "compound_code": "WJM3+WW 木曽町、長野県",
+        "global_code": "8Q7VWJM3+WW"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJqSq4V6goHWARvl95Y2fGloo",
-    "plus_code": {
-      "compound_code": "WJM3+WW 長野県木曽町",
-      "global_code": "8Q7VWJM3+WW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0301 長野県木曽郡木曽町開田高原末川３９０４−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9352874,
+          "lng": 137.6152801
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.93662552989272,
+            "lng": 137.6166296798927
+          },
+          "southwest": {
+            "lat": 35.93392587010728,
+            "lng": 137.6139300201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処まつば",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103058109216224371495\">森俊之</a>"
+          ],
+          "photo_reference": "Aap_uEAA439164MpvQSOlNTFRUr7eOhljbfpC8HZfhykpAFGcldFmLKOr7lUieJk2M4fLpsO1WS1UW6_JeVcJuCDV9FzwbEj70hFPBjsBLGKtBvsrtXjR1ixPPFsoeSM6erKtPGxNDzrGMd1w1k9_eIlgISPMKlCZ42GGAlpexXgbI0sDpTR",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJwYDnlkQmHWARGJ446GEe4As",
+      "plus_code": {
+        "compound_code": "WJP8+44 木曽町、長野県",
+        "global_code": "8Q7VWJP8+44"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

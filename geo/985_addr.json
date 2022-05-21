@@ -1,101 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "長野セントラルホテル",
-        "short_name": "長野セントラルホテル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町 長野セントラルホテル 1f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6444868,
-          "lng": 138.1869219
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町 長野セントラルホテル 1f",
+      "geometry": {
+        "location": {
+          "lat": 36.6443334,
+          "lng": 138.1867994
         },
-        "southwest": {
-          "lat": 36.6442451,
-          "lng": 138.1866921
+        "viewport": {
+          "northeast": {
+            "lat": 36.64560182989272,
+            "lng": 138.1881018798927
+          },
+          "southwest": {
+            "lat": 36.64290217010728,
+            "lng": 138.1854022201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6443334,
-        "lng": 138.1867994
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6456776802915,
-          "lng": 138.1881559802915
-        },
-        "southwest": {
-          "lat": 36.6429797197085,
-          "lng": 138.1854580197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "長野セントラルホテル 1f",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102438891059407340605\">小林正雄</a>"
+          ],
+          "photo_reference": "Aap_uEAUCdZzax6Nb4qTdvWwjTnBx_wiO9wEO49Fj_se0lBkG5c0a0QNo8p3TJ_eSW86sCJ5082daxnOWxvnSM_NBRh26gqlI4mUysc1pnJclcREXtmP-3FoBHce6XyYAP6o9AvsixoQnc0rUBvr7vzs-BCKtOEx5vwkcDWYoH4tZ2bc-rlD",
+          "width": 2736
         }
-      }
-    },
-    "place_id": "EktOYWdhbm8gQ2VudHJhbCBIb3RlbCwgMWYsIFN1ZWhpcm9jaMWNIE1pbmFtaW5hZ2FubywgTmFnYW5vLCAzODAtMDgyNSwgSmFwYW4iHhocChYKFAoSCWO_VdPshh1gEaNh_Q16uEvyEgIxZg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "Elvml6XmnKzjgIHjgJIzODAtMDgyNSDplbfph47nnIzplbfph47luILljZfplbfph47mnKvluoPnlLog6ZW36YeO44K744Oz44OI44Op44Or44Ob44OG44OrIDFmIh4aHAoWChQKEgljv1XT7IYdYBGjYf0NerhL8hICMWY",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

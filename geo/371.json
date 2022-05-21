@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "フローラルガーデン おぶせ",
-        "short_name": "フローラルガーデン おぶせ",
-        "types": [
-          "establishment",
-          "park",
-          "point_of_interest",
-          "tourist_attraction"
-        ]
-      },
-      {
-        "long_name": "５０６−１",
-        "short_name": "５０６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中松",
-        "short_name": "中松",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0209",
-        "short_name": "381-0209",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0209 長野県上高井郡小布施町中松５０６−１ フローラルガーデン おぶせ",
-    "geometry": {
-      "location": {
-        "lat": 36.6960669,
-        "lng": 138.3263122
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6971182302915,
-          "lng": 138.3278987302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0209 長野県上高井郡小布施町中松５０６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6960669,
+          "lng": 138.3263122
         },
-        "southwest": {
-          "lat": 36.6944202697085,
-          "lng": 138.3252007697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69711907989272,
+            "lng": 138.3278995798927
+          },
+          "southwest": {
+            "lat": 36.69441942010727,
+            "lng": 138.3251999201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbWZiJuWLHWAR853paYJvkFM",
-    "plus_code": {
-      "compound_code": "M8WG+CG 日本、長野県小布施町",
-      "global_code": "8Q8WM8WG+CG"
-    },
-    "types": [
-      "establishment",
-      "park",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "フローラルガーデン おぶせ",
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109070538093321707917\">鈴木悠香理</a>"
+          ],
+          "photo_reference": "Aap_uEBkpgqmuTxEL6ZoJILNlytphi94GxjBT6ITXH9aMCmyiyHYsfA1SB2VzHDwVlBuDfTLhwBQJZzVPy4jU0kFoIGW6Khd2aKEopPfumAI4-ExtGcHoN_UqxeiUiYJ1OZOMM8wRMekp4RH8DE1wIHVOESxW09rUvCylKEjjmE_v0A_mO2f",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJbWZiJuWLHWAR853paYJvkFM",
+      "plus_code": {
+        "compound_code": "M8WG+CG 小布施町、長野県",
+        "global_code": "8Q8WM8WG+CG"
+      },
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

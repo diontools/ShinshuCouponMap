@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８０１",
-        "short_name": "８０１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢８０１",
-    "geometry": {
-      "location": {
-        "lat": 36.3575889,
-        "lng": 138.6346459
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.35896058029149,
-          "lng": 138.6359585802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢８０１",
+      "geometry": {
+        "location": {
+          "lat": 36.3575665,
+          "lng": 138.6346812
         },
-        "southwest": {
-          "lat": 36.3562626197085,
-          "lng": 138.6332606197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35896142989271,
+            "lng": 138.6359594298927
+          },
+          "southwest": {
+            "lat": 36.35626177010727,
+            "lng": 138.6332597701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJnSz8EobTHWARK767QFTOhEM",
-    "plus_code": {
-      "compound_code": "9J5M+2V 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J5M+2V"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "浅間高原農場 軽井沢旧道店",
+      "photos": [
+        {
+          "height": 590,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117171373446628782386\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAEr0b3zPtb5AHBr1hHO8U-Bxb_e7yZa-Oo0eJIrgLrSrhzwwWFIEchoUNtGOelgaRI3I1B89IIFkLGZKzUk9iqCm0x2ELEoirMSuyT_v-DlQFe1Y4HJGOwuxv4PJL1h2T-kGGkURTCgIVRhDy1xxB6dzLivVXXeozqy-r2tAK2-Llg",
+          "width": 1052
+        }
+      ],
+      "place_id": "ChIJnSz8EobTHWARK767QFTOhEM",
+      "plus_code": {
+        "compound_code": "9J5M+2V 軽井沢町、長野県",
+        "global_code": "8Q8W9J5M+2V"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

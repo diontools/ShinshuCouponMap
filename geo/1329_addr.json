@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６丁目",
-        "short_name": "６丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0012",
-        "short_name": "386-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0012 長野県上田市中央６丁目",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4042202,
-          "lng": 138.2629152
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0012 長野県上田市中央６丁目",
+      "geometry": {
+        "location": {
+          "lat": 36.4023591,
+          "lng": 138.2586384
         },
-        "southwest": {
-          "lat": 36.4001,
-          "lng": 138.2553227
+        "viewport": {
+          "northeast": {
+            "lat": 36.4042202,
+            "lng": 138.2629152
+          },
+          "southwest": {
+            "lat": 36.4001,
+            "lng": 138.2553227
+          }
         }
       },
-      "location": {
-        "lat": 36.4023591,
-        "lng": 138.2586384
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4042202,
-          "lng": 138.2629152
-        },
-        "southwest": {
-          "lat": 36.4001,
-          "lng": 138.2553227
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0012 長野県上田市中央６丁目",
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108077175485018878731\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDz9tCRMZG3vKMJ9mq8FkRT4aDBMWnxudBg3wTZ-IX0lIfyJGyQKVTCBF5UiXzWHlo_gFjM5IXyJdB7ikGrtagqs9MHuLNIyo1rhO9oZn_qaRwrK17HgV9EAtAeQahqjWKj7LXG6F0KhpMlKL5CTAym1Vc5MicQH7vVODD0bAF6rbk2",
+          "width": 2896
         }
-      }
-    },
-    "place_id": "ChIJx_2pAd68HWARKPHrHd87p6I",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJx_2pAd68HWARKPHrHd87p6I",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

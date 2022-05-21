@@ -1,75 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "武石上本入",
-        "short_name": "武石上本入",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0507",
-        "short_name": "386-0507",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0507 長野県上田市武石上本入",
-    "geometry": {
-      "location": {
-        "lat": 36.2225884,
-        "lng": 138.1205097
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2230017802915,
-          "lng": 138.1222116802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0701 長野県小県郡長和町和田 美ヶ原高原５１０１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2282211,
+          "lng": 138.1317979
         },
-        "southwest": {
-          "lat": 36.2203038197085,
-          "lng": 138.1195137197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.22961797989272,
+            "lng": 138.1331423298927
+          },
+          "southwest": {
+            "lat": 36.22691832010727,
+            "lng": 138.1304426701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxyDYnZKoHWARAdK-0XES2AU",
-    "plus_code": {
-      "compound_code": "64FC+26 長野県上田市",
-      "global_code": "8Q8W64FC+26"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "山本小屋ふる里館",
+      "photos": [
+        {
+          "height": 2008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105261806806716846890\">山本小屋ふる里館</a>"
+          ],
+          "photo_reference": "Aap_uEBqHY1MD0yrjzy7MjItXCCJZwlVIOITJcpF1-xLjcGxetwsdvv_1AB7JLRP_q_sPCnsbCotaQRu9daj37iUw9OU3ptp8vfwu-OVlDz6q18ZFS2N5T2SLV0E0TDoBKBgul9nvI0N6dh6s2Tvx6e5syO7pXOIIrxmp9bW94hBZ2jH428g",
+          "width": 3008
+        }
+      ],
+      "place_id": "ChIJz8w55ZKoHWARFetncUCd3KI",
+      "plus_code": {
+        "compound_code": "64HJ+7P 長和町、長野県",
+        "global_code": "8Q8W64HJ+7P"
+      },
+      "types": [
+        "lodging",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

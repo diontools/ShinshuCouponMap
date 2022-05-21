@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１−イ",
-        "short_name": "２１−イ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央３丁目４−２１−イ",
-    "geometry": {
-      "location": {
-        "lat": 36.2339388,
-        "lng": 137.9725021
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2352877802915,
-          "lng": 137.9738638302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央３丁目４−２１−イ",
+      "geometry": {
+        "location": {
+          "lat": 36.2339389,
+          "lng": 137.9725548
         },
-        "southwest": {
-          "lat": 36.2325898197085,
-          "lng": 137.9711658697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23528862989272,
+            "lng": 137.9738646798927
+          },
+          "southwest": {
+            "lat": 36.23258897010728,
+            "lng": 137.9711650201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ1SoPGJIOHWARpxhhhbU0GaU",
-    "plus_code": {
-      "compound_code": "6XMF+H2 日本、長野県松本市",
-      "global_code": "8Q8V6XMF+H2"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "松本ブルワリー タップルーム中町店",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111955454475131528523\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAwhaNsSafUac10zOVUh1eSfNSFo8WKVS-pIbfAuFE7OAz9DA7eFE1wz6xAx4mdCYDyZe-PlOM2dD_Xmzw3eEHa4XAZVv99uoxJF1ARqA4tGBe17Lexip8bNoy90vwUv64xt2Rt6Ia-zESTuF44WRWPfu58ANPHeEpfl9LFE4y6R-65",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ1SoPGJIOHWARpxhhhbU0GaU",
+      "plus_code": {
+        "compound_code": "6XMF+H2 松本市、長野県",
+        "global_code": "8Q8V6XMF+H2"
+      },
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

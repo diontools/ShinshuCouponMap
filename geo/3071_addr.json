@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３１",
-        "short_name": "６３１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿塩",
-        "short_name": "鹿塩",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大鹿村",
-        "short_name": "大鹿村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3501",
-        "short_name": "399-3501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3501 長野県下伊那郡大鹿村鹿塩６３１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5868635,
-          "lng": 138.0565039
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-3501 長野県下伊那郡大鹿村鹿塩６３１",
+      "geometry": {
+        "location": {
+          "lat": 35.5867995,
+          "lng": 138.0563844
         },
-        "southwest": {
-          "lat": 35.5867231,
-          "lng": 138.0562875
+        "viewport": {
+          "northeast": {
+            "lat": 35.58804602989272,
+            "lng": 138.0576518798927
+          },
+          "southwest": {
+            "lat": 35.58534637010727,
+            "lng": 138.0549522201072
+          }
         }
       },
-      "location": {
-        "lat": 35.5867995,
-        "lng": 138.0563844
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.58807718029149,
-          "lng": 138.0577107802915
-        },
-        "southwest": {
-          "lat": 35.5853792197085,
-          "lng": 138.0550128197085
-        }
-      }
-    },
-    "place_id": "ChIJD0446ROHHGARTzBQWLjxZbg",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-3501 長野県下伊那郡大鹿村鹿塩６３１",
+      "place_id": "ChIJD0446ROHHGARTzBQWLjxZbg",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

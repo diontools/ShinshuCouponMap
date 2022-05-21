@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４９７−２",
-        "short_name": "１４９７−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施１４９７−２",
-    "geometry": {
-      "location": {
-        "lat": 36.698864,
-        "lng": 138.3127291
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7002425302915,
-          "lng": 138.3141876802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施１４９７−２",
+      "geometry": {
+        "location": {
+          "lat": 36.698864,
+          "lng": 138.3127291
         },
-        "southwest": {
-          "lat": 36.6975445697085,
-          "lng": 138.3114897197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70024337989273,
+            "lng": 138.3141885298927
+          },
+          "southwest": {
+            "lat": 36.69754372010728,
+            "lng": 138.3114888701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgTE0aGeJHWARLl1lRcP0lFQ",
-    "plus_code": {
-      "compound_code": "M8X7+G3 日本、長野県小布施町",
-      "global_code": "8Q8WM8X7+G3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "六斉舎",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107094671897341524549\">Yukie Shigeta</a>"
+          ],
+          "photo_reference": "Aap_uEAgOK4BlQyltJ7-TUEcK8S9j7gJtkYPgpY3u28Rg0R0rN81wrLbjd2WxiCGt2bWczxq0eJ0tRFkHYgEHcYfqynNvDqitLAfRXDg4DNjLWQmVTYEDxMN61aankV-oWII9qXGsx5yL0lPl7Nz7N4W_STp6WUSn0_33biHs569zXcKf0ou",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJgTE0aGeJHWARLl1lRcP0lFQ",
+      "plus_code": {
+        "compound_code": "M8X7+G3 小布施町、長野県",
+        "global_code": "8Q8WM8X7+G3"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

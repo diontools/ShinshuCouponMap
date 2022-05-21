@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１９０−２",
-        "short_name": "３１９０−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町３１９０−２",
-    "geometry": {
-      "location": {
-        "lat": 36.5002467,
-        "lng": 137.8613618
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.50157118029149,
-          "lng": 137.8626234802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町３１９０−２",
+      "geometry": {
+        "location": {
+          "lat": 36.5002467,
+          "lng": 137.8613618
         },
-        "southwest": {
-          "lat": 36.4988732197085,
-          "lng": 137.8599255197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.50157202989272,
+            "lng": 137.8626243298927
+          },
+          "southwest": {
+            "lat": 36.49887237010727,
+            "lng": 137.8599246701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJuXEnXetjHWARpptpi5jAg_o",
-    "plus_code": {
-      "compound_code": "GV26+3G 日本、長野県大町市",
-      "global_code": "8Q8VGV26+3G"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "アルプスロマン館",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107911671855683535988\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB1BEml3GynWe3Ks8ErckTGzIGT66FFJ53zAflNyDbPDQwfp9GDUC7NNrKCH8cVgx6_pgpgEsaHCFB6cUqfDYAqvl6tAdUQJFScuK1cA0lt_9buxgIq3kbw0TSqNANn3on5-_eI77qwFOE7go97_KVFkTCdKG2GuqdTj06Hnxd3A-9X",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJuXEnXetjHWARpptpi5jAg_o",
+      "plus_code": {
+        "compound_code": "GV26+3G 大町市、長野県",
+        "global_code": "8Q8VGV26+3G"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

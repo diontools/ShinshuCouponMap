@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "黒部湖",
-        "short_name": "黒部湖",
-        "types": [
-          "establishment",
-          "natural_feature"
-        ]
-      },
-      {
-        "long_name": "富山県",
-        "short_name": "富山県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、富山県 黒部湖",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5669069,
-          "lng": 137.665108
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒930-1406 富山県中新川郡立山町芦峅寺",
+      "geometry": {
+        "location": {
+          "lat": 36.56650270000001,
+          "lng": 137.6621096
         },
-        "southwest": {
-          "lat": 36.5135503,
-          "lng": 137.6323702
+        "viewport": {
+          "northeast": {
+            "lat": 36.56777967989273,
+            "lng": 137.66568455
+          },
+          "southwest": {
+            "lat": 36.56508002010728,
+            "lng": 137.66091795
+          }
         }
       },
-      "location": {
-        "lat": 36.5431445,
-        "lng": 137.6503266
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5669069,
-          "lng": 137.665108
-        },
-        "southwest": {
-          "lat": 36.5135503,
-          "lng": 137.6323702
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "黒部ダム",
+      "photos": [
+        {
+          "height": 2296,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115179799944355328094\">夢煙夏士</a>"
+          ],
+          "photo_reference": "Aap_uEDZouM-gFoIL1hMNH3DAOzfI4H8IR05dKugkHFuzoQbSgy9QNK3EKJ7AwgtDBlli8v3HGmN1cbrDaBJJoUUkyMOxym7_KC26T0lyQZlVXoKasolqwnCZKxlbZ7pjQojlTe7CkL5Sb5BjJQIipy7HTwgjbpXiu_P7hsylxblOcP7afBN",
+          "width": 3450
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJg4ATq0fh918R7fZVNBBUDoM",
-    "types": [
-      "establishment",
-      "natural_feature"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJB7x2Jpru918RXnjJFJb9E94",
+      "plus_code": {
+        "compound_code": "HM86+JR 立山町、富山県",
+        "global_code": "8Q8VHM86+JR"
+      },
+      "types": [
+        "tourist_attraction",
+        "premise",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７１４８",
-        "short_name": "７１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
-    "geometry": {
-      "location": {
-        "lat": 36.7201155,
-        "lng": 138.4976643
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7213560802915,
-          "lng": 138.4989000302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
+      "geometry": {
+        "location": {
+          "lat": 36.7201155,
+          "lng": 138.4976643
         },
-        "southwest": {
-          "lat": 36.7186581197085,
-          "lng": 138.4962020697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.72135692989272,
+            "lng": 138.4989008798927
+          },
+          "southwest": {
+            "lat": 36.71865727010728,
+            "lng": 138.4962012201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmxpmbJ_xHWARbjpp4rLd1EI",
-    "plus_code": {
-      "compound_code": "PFCX+23 日本、長野県山ノ内町",
-      "global_code": "8Q8WPFCX+23"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル ベルグ",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114265797717613723591\">Haruhisa Tate</a>"
+          ],
+          "photo_reference": "Aap_uEANjcUobj96NwkDJXTR4EHiR9clBJX1rDrcZEiARmQPf6c2gWBpudNtnsO1sMg4EpF3p6CkSD_lj2cb7UH-huSoApaev-nB-aaWAy5BoRSmM-T_FSYoZOKRG-7uCmQZlX0WRm5V8NVBI5-Wt5H7b6BnKlKyC6K3DE2LQslJJchaEGIU",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJmxpmbJ_xHWARbjpp4rLd1EI",
+      "plus_code": {
+        "compound_code": "PFCX+23 山ノ内町、長野県",
+        "global_code": "8Q8WPFCX+23"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,122 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2階",
-        "short_name": "2階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "イオンモール松本店",
-        "short_name": "イオンモール松本店",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "晴庭",
-        "short_name": "晴庭",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "9番地51号",
-        "short_name": "9番地51号",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央４丁目９−9番地51号 晴庭 2階 イオンモール松本店",
-    "geometry": {
-      "location": {
-        "lat": 36.2339415,
-        "lng": 137.9786622
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2351108302915,
-          "lng": 137.9799018802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央４丁目9番地51号 晴庭 2階 イオンモール松本店",
+      "geometry": {
+        "location": {
+          "lat": 36.2339415,
+          "lng": 137.9786622
         },
-        "southwest": {
-          "lat": 36.2324128697085,
-          "lng": 137.9772039197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23511167989272,
+            "lng": 137.9799027298927
+          },
+          "southwest": {
+            "lat": 36.23241202010728,
+            "lng": 137.9772030701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "JTB イオンモール松本店",
+      "photos": [
+        {
+          "height": 404,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103331326843057709514\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB6EYpUGLAu8GttM9D2vzwbdqQPCfIARpsyec_eHS7ow6LbIK3KgyjJYmN5eYvR7Gi-NW5TID6Ijv4_J9q9HbChc1syaNB49S9rSCUKd62nX5xdotHiqPf3BaXEHLkXxv0Ax70BM8pnh1kl9hFSi1Aa4WML9_bQFddKhAa9b3ui3uKD",
+          "width": 719
+        }
+      ],
+      "place_id": "ChIJ-47G4ZQOHWARJTX_y-ddyk0",
+      "plus_code": {
+        "compound_code": "6XMH+HF 松本市、長野県",
+        "global_code": "8Q8V6XMH+HF"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ-47G4ZQOHWARJTX_y-ddyk0",
-    "plus_code": {
-      "compound_code": "6XMH+HF 日本、長野県松本市",
-      "global_code": "8Q8V6XMH+HF"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央４丁目9番地51号 晴庭 2階 イオンモール松本店",
+      "geometry": {
+        "location": {
+          "lat": 36.2340258,
+          "lng": 137.9782749
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23557212989272,
+            "lng": 137.9794373798927
+          },
+          "southwest": {
+            "lat": 36.23287247010728,
+            "lng": 137.9767377201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "JTBウエディングデスクイオンモール松本",
+      "photos": [
+        {
+          "height": 270,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111432515382173069321\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECxeuMYmWZB9TgSqkrqXjPxMz30-xB5vFtUwJeC4mawCczS8gNBOyXOYFfjgjoLXrswZRsJRb19xigwaqiRuMtVchjd4bbUezoIaWE8-WUUNlacgbUQSoLo3dihu4iLV5biGk7Qfem0IOJwHLIdlCyLxacqpRbqkGHmMeIBiyzswS_j",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJJQ2OAPoPHWAR8GN06y3CchY",
+      "plus_code": {
+        "compound_code": "6XMH+J8 松本市、長野県",
+        "global_code": "8Q8V6XMH+J8"
+      },
+      "types": [
+        "travel_agency",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

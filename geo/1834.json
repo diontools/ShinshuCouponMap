@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９１４６−２",
-        "short_name": "９１４６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明９１４６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.3491758,
-        "lng": 137.8491747
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3506059802915,
-          "lng": 137.8505227802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明９１４６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3492651,
+          "lng": 137.8491737
         },
-        "southwest": {
-          "lat": 36.3479080197085,
-          "lng": 137.8478248197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35060682989272,
+            "lng": 137.8505236298927
+          },
+          "southwest": {
+            "lat": 36.34790717010728,
+            "lng": 137.8478239701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfQXUoLFuHWARn-OcTVdKdh4",
-    "plus_code": {
-      "compound_code": "8RXX+MM 日本、長野県安曇野市",
-      "global_code": "8Q8V8RXX+MM"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "安曇野ペンションハーヴェスト",
+      "photos": [
+        {
+          "height": 2016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103893913102127033252\">田村正一</a>"
+          ],
+          "photo_reference": "Aap_uEBsMqnh4BbS0c3IAiUGr3SvOVgeR9efN1orXkXuRTr-odVcAZJL7MtHvUjbVHhVBdCig6w1ZYjF3yZxRaLCyFGr-FDMcmZpg6YU9j75Sks8yp7H73yVUXelmZmbWjVE1ybJqAGIuFa-gfxZ8yqk5tKzLWsICvjT043nutYazGaqgxiJ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJfQXUoLFuHWARn-OcTVdKdh4",
+      "plus_code": {
+        "compound_code": "8RXX+MM 安曇野市、長野県",
+        "global_code": "8Q8V8RXX+MM"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

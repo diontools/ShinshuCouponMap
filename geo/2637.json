@@ -1,171 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 白馬町7024",
+      "geometry": {
+        "location": {
+          "lat": 36.6988317,
+          "lng": 137.8615405
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.70025022989272,
+            "lng": 137.8627917798927
+          },
+          "southwest": {
+            "lat": 36.69755057010727,
+            "lng": 137.8600921201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "いけ",
+      "photos": [
+        {
+          "height": 3104,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103522834391979148607\">笠原徹一</a>"
+          ],
+          "photo_reference": "Aap_uECtzFXEKDcgFsWOvDWhHQxqQo8Sw5FuayJaO_QntVcAIuNDk2v0cl4HeH7Aav_eXoZoLRQDWVchNUcZ_td1Zb_sgFWX5aUoCC2oVGZ_H7aSbO1APLyT7Y0FFncwarEZDWEHHEMNtBmTIkD4Ho4iBPYbalaStL8sFss3Wmxa7Sphmhpm",
+          "width": 5520
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJMzug4gbS918Ry6h2jLxLZsk",
+      "plus_code": {
+        "compound_code": "MVX6+GJ 白馬村、長野県",
+        "global_code": "8Q8VMVX6+GJ"
       },
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "富士見",
-        "short_name": "富士見",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "浦安市",
-        "short_name": "浦安市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "千葉県",
-        "short_name": "千葉県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "279-0041",
-        "short_name": "279-0041",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒279-0041 千葉県浦安市富士見２丁目８−１",
-    "geometry": {
-      "location": {
-        "lat": 35.652788,
-        "lng": 139.8917851
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6541777302915,
-          "lng": 139.8931676302915
-        },
-        "southwest": {
-          "lat": 35.65147976970851,
-          "lng": 139.8904696697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJnfroVHl9GGAR8kb4ugEfOQw",
-    "plus_code": {
-      "compound_code": "MV3R+4P 千葉県浦安市",
-      "global_code": "8Q7XMV3R+4P"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

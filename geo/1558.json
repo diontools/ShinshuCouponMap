@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 軽井沢・プリンスショッピングプラザ イースト",
-    "geometry": {
-      "location": {
-        "lat": 36.3420832,
-        "lng": 138.6371746
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3434173802915,
-          "lng": 138.6383912302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 軽井沢・プリンスショッピングプラザ イースト",
+      "geometry": {
+        "location": {
+          "lat": 36.3420832,
+          "lng": 138.6371746
         },
-        "southwest": {
-          "lat": 36.3407194197085,
-          "lng": 138.6356932697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34341822989272,
+            "lng": 138.6383920798928
+          },
+          "southwest": {
+            "lat": 36.34071857010728,
+            "lng": 138.6356924201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzdMwSmPTHWARDiqstYISVJ0",
-    "plus_code": {
-      "compound_code": "8JRP+RV 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JRP+RV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "KUA`AINA 軽井沢店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101891131760134157672\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDxUbyrEUN0hx34W8MWeBNcjEzd4Lde8D9pMmdD8gV8mxIVpggTPWZtslSSfGUpkCuCfVq7VtgznPdycCZ0OwJ2ZiagEVzuU5vApOEWQSj154ahrdpnoG6VPesyQTEatMGYu4eIehanklozu_91jRBFA1MMgnz68dmjDtR4tHQKBmCR",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJzdMwSmPTHWARDiqstYISVJ0",
+      "plus_code": {
+        "compound_code": "8JRP+RV 軽井沢町、長野県",
+        "global_code": "8Q8W8JRP+RV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

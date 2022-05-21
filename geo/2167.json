@@ -1,86 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "ナワテ通り",
-        "short_name": "ナワテ通り",
-        "types": [
-          "route"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手 ナワテ通り",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.234936,
-          "lng": 137.9725494
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目１−３",
+      "geometry": {
+        "location": {
+          "lat": 36.2345781,
+          "lng": 137.9710869
         },
-        "southwest": {
-          "lat": 36.2341381,
-          "lng": 137.9694354
+        "viewport": {
+          "northeast": {
+            "lat": 36.23588867989272,
+            "lng": 137.9724448798927
+          },
+          "southwest": {
+            "lat": 36.23318902010728,
+            "lng": 137.9697452201073
+          }
         }
       },
-      "location": {
-        "lat": 36.2344894,
-        "lng": 137.9710005
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2358860302915,
-          "lng": 137.9725494
-        },
-        "southwest": {
-          "lat": 36.2331880697085,
-          "lng": 137.9694354
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "WABISABI",
+      "photos": [
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101683954158054657765\">Jia Zhe Chai</a>"
+          ],
+          "photo_reference": "Aap_uEAjFov4KXh27RM297_nVxyhWRacU_I11_J7y3lqWGDN-4rElExRAEJ72CjXwyv-fZikFIOFi3JThIi51riUKiLeI4YbDLSbv434driEcWLF6fdHFZP0Dq9G-O1cEi_XJQfAuuWvoqhZ5_bOfltl8JmbioUb4nB7SgiU-vsQAoqdiYbu",
+          "width": 4656
         }
-      }
+      ],
+      "place_id": "ChIJFUV4HI4OHWARfKskq2ZgGGI",
+      "plus_code": {
+        "compound_code": "6XMC+RC 松本市、長野県",
+        "global_code": "8Q8V6XMC+RC"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJtVesXI4OHWAR5ba_s6lCNME",
-    "types": [
-      "route"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央４丁目５−３１ 空庭 1階 イオンモール松本",
+      "geometry": {
+        "location": {
+          "lat": 36.2322124,
+          "lng": 137.97879
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23361262989273,
+            "lng": 137.9802377298927
+          },
+          "southwest": {
+            "lat": 36.23091297010728,
+            "lng": 137.9775380701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "WABI×SABI",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111371499899554356672\">F. L.</a>"
+          ],
+          "photo_reference": "Aap_uECyhFOJxTzNY9t74UnvNR9MbcPsAs88-UewboCFofGZSdEL_OT2vfsaQ59s7XKEuPXXVz9A1qTd09rfeZsv0XKabzzkYnhEprcWUObIlTS74Z8Zn_Iw5h0NCi14I38EXcKD_XLDFhTiltN9rzdhYnJEEdZyhKQhhLXLZ45QLZIF0YDJ",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJz9jp1-oOHWARJoZ3Hhybo00",
+      "plus_code": {
+        "compound_code": "6XJH+VG 松本市、長野県",
+        "global_code": "8Q8V6XJH+VG"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

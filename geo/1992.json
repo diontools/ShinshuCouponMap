@@ -1,84 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４６８",
-        "short_name": "４４６８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇４４６８",
-    "geometry": {
-      "location": {
-        "lat": 36.2284317,
-        "lng": 137.6195068
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2297507802915,
-          "lng": 137.6209010302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1520 長野県松本市安曇４４６８",
+      "geometry": {
+        "location": {
+          "lat": 36.2284317,
+          "lng": 137.6195068
         },
-        "southwest": {
-          "lat": 36.2270528197085,
-          "lng": 137.6182030697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.22975162989272,
+            "lng": 137.6209018798927
+          },
+          "southwest": {
+            "lat": 36.22705197010728,
+            "lng": 137.6182022201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJnaRoFtRFHWAR4_9D07pN3Ro",
-    "plus_code": {
-      "compound_code": "6JH9+9R 日本、長野県安曇野市",
-      "global_code": "8Q8V6JH9+9R"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "大正池ホテル",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112643799321307267103\">Satoshi Kojima</a>"
+          ],
+          "photo_reference": "Aap_uEBkHvCg3LkManU88WtBF-01fUzakLB4lU0F7qWDI9GEEv8CPlxUUnX6-mPM1nnkFnPgVAGD4wBCkpZ5po1nCbig_g-XAWgC5Z8Mrq0C4q1Ie3CxbY_aovXMoCHahsAxIaHZkfhmCpRxaM-oiqe3sZBt7x2hXGR9iEXiqGQ-fbUk91uD",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJnaRoFtRFHWAR4_9D07pN3Ro",
+      "plus_code": {
+        "compound_code": "6JH9+9R 安曇野市、長野県",
+        "global_code": "8Q8V6JH9+9R"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

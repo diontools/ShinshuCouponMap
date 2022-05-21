@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２９９３−５",
-        "short_name": "２９９３−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２９９３−５",
-    "geometry": {
-      "location": {
-        "lat": 36.74120740000001,
-        "lng": 138.4154116
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7425271802915,
-          "lng": 138.4167396802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２９９３−５",
+      "geometry": {
+        "location": {
+          "lat": 36.7411838,
+          "lng": 138.4153958
         },
-        "southwest": {
-          "lat": 36.7398292197085,
-          "lng": 138.4140417197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74252802989273,
+            "lng": 138.4167405298927
+          },
+          "southwest": {
+            "lat": 36.73982837010729,
+            "lng": 138.4140408701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVVXhbr_0HWAR06hblJMKPoM",
-    "plus_code": {
-      "compound_code": "PCR8+F5 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCR8+F5"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Kitchen&Bar D-LINE",
+      "photos": [
+        {
+          "height": 2100,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108701220762771180051\">omake at G.</a>"
+          ],
+          "photo_reference": "Aap_uEDLjaKPzLK_oD2YDCKD_QUAzTU851IFP4adsTzYGjs1T1YPSeWjRbnJoTQnNt8EOLsu31E5o2oBqLTnBIZ-1eKcsb0FyQVb7mkRTDh4i7_-Dvs50SGKoV3hXQTR8XTHxfkRve-_UOymqXljcsRIJ8Rr1dnMdrs_lqQ6SZ6TyBJu-w5x",
+          "width": 2748
+        }
+      ],
+      "place_id": "ChIJVVXhbr_0HWAR06hblJMKPoM",
+      "plus_code": {
+        "compound_code": "PCR8+F5 山ノ内町、長野県",
+        "global_code": "8Q8WPCR8+F5"
+      },
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

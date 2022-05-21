@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３２９４",
-        "short_name": "３２９４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉３２９４",
-    "geometry": {
-      "location": {
-        "lat": 36.3496783,
-        "lng": 138.5885471
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3510226302915,
-          "lng": 138.5898295802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉３２９４",
+      "geometry": {
+        "location": {
+          "lat": 36.3496783,
+          "lng": 138.5885471
         },
-        "southwest": {
-          "lat": 36.3483246697085,
-          "lng": 138.5871316197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35102347989272,
+            "lng": 138.5898304298927
+          },
+          "southwest": {
+            "lat": 36.34832382010728,
+            "lng": 138.5871307701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJfyO-JjjSHWARMHuOgfueYlc",
-    "plus_code": {
-      "compound_code": "8HXQ+VC 長野県軽井沢町",
-      "global_code": "8Q8W8HXQ+VC"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0111 長野県北佐久郡軽井沢町長倉３２９４",
+      "place_id": "ChIJfyO-JjjSHWARMHuOgfueYlc",
+      "plus_code": {
+        "compound_code": "8HXQ+VC 軽井沢町、長野県",
+        "global_code": "8Q8W8HXQ+VC"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

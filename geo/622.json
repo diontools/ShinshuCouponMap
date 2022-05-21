@@ -1,101 +1,81 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "吉田",
-        "short_name": "吉田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0043",
-        "short_name": "381-0043",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0043 長野県長野市吉田３丁目２２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.666459,
-        "lng": 138.222106
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6680383802915,
-          "lng": 138.2234543802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0043 長野県長野市吉田３丁目２２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.666459,
+          "lng": 138.222106
         },
-        "southwest": {
-          "lat": 36.6653404197085,
-          "lng": 138.2207564197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66803922989272,
+            "lng": 138.2234552298927
+          },
+          "southwest": {
+            "lat": 36.66533957010728,
+            "lng": 138.2207555701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "かくおか醸造（株） ながの東急ライフ店",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112150997491118558666\">WEST JAPAN W7</a>"
+          ],
+          "photo_reference": "Aap_uEA-9aDDO9MaRT8G-XHNiyDccPsX6Bhh1qdJDjq9X6kovxCvsKvKeI4pQJz7U04OeEVGGjP8T3JTH9WZiFkoNJgz42tKS931PrFhVEh26JYprVGNRJkApZrd_ADfpmG-3rFdlqAIDjtUnYNymrxG4Jd7iGZ8fXXReF-GyOgdaYynk_Js",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJhfKKqzmGHWARri1IKJgg16I",
+      "plus_code": {
+        "compound_code": "M68C+HR 長野市、長野県",
+        "global_code": "8Q8WM68C+HR"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJhfKKqzmGHWARri1IKJgg16I",
-    "plus_code": {
-      "compound_code": "M68C+HR 日本、長野県長野市",
-      "global_code": "8Q8WM68C+HR"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0043 長野県長野市吉田１丁目８−２４ ブラウンヒルズ２番館",
+      "geometry": {
+        "location": {
+          "lat": 36.6682865,
+          "lng": 138.21511
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.66974682989273,
+            "lng": 138.2164403798927
+          },
+          "southwest": {
+            "lat": 36.66704717010728,
+            "lng": 138.2137407201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "かくおか醸造（株）",
+      "place_id": "ChIJL9qkOkmGHWARKKM4YZZb-wE",
+      "plus_code": {
+        "compound_code": "M698+72 長野市、長野県",
+        "global_code": "8Q8WM698+72"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

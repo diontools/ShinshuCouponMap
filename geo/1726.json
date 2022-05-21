@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０２５",
-        "short_name": "１０２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１０２５",
-    "geometry": {
-      "location": {
-        "lat": 36.1327833,
-        "lng": 138.270801
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1341408302915,
-          "lng": 138.2722288802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１０２５",
+      "geometry": {
+        "location": {
+          "lat": 36.1327833,
+          "lng": 138.270801
         },
-        "southwest": {
-          "lat": 36.1314428697085,
-          "lng": 138.2695309197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13414167989272,
+            "lng": 138.2722297298927
+          },
+          "southwest": {
+            "lat": 36.13144202010728,
+            "lng": 138.2695300701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJDaOeoAVNHGAR-PPEkLSSxmA",
-    "plus_code": {
-      "compound_code": "47MC+48 日本、長野県立科町",
-      "global_code": "8Q8W47MC+48"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処せんすい",
+      "photos": [
+        {
+          "height": 3088,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109025584271762774280\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECfGq9dwceOIWP_NSS_XW9UX5nKYGXAfl55NAKEWzCOrjbXoizkcZ87CzB7hJGHTgfzHidfsQsjEwxmA_BoNuKRQ_PzVNx7s0LYDKjxhzSNYvPCus3WxzqqnG4Hx39MkoV5575yQaRvexmbt160od9KClUiJzbYteMKYc8fzQ2J4uyx",
+          "width": 5488
+        }
+      ],
+      "place_id": "ChIJDaOeoAVNHGAR-PPEkLSSxmA",
+      "plus_code": {
+        "compound_code": "47MC+48 立科町、長野県",
+        "global_code": "8Q8W47MC+48"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

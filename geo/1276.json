@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−２０９３",
+      "geometry": {
+        "location": {
+          "lat": 36.5294895,
+          "lng": 138.3333384
         },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+        "viewport": {
+          "northeast": {
+            "lat": 36.53089877989272,
+            "lng": 138.3345909298927
+          },
+          "southwest": {
+            "lat": 36.52819912010727,
+            "lng": 138.3318912701073
+          }
         }
       },
-      "location": {
-        "lat": 36.4019126,
-        "lng": 138.249075
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
-        },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "土産センター しゃくなげ",
+      "photos": [
+        {
+          "height": 1083,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117008107944143451684\">直爺</a>"
+          ],
+          "photo_reference": "Aap_uEDmT4uaDndoAjNd798vau3YRpCjo-zrb_-ImvcxySwFqWLoBMlXSUnkrtFe9h8DQ9vVAAoUVnYzhlbJVA3EfWN76nPykQsDEiCOFJHDIfxq1Y4wLi3ZLIWeN6sIiJ9eeowc1cR4PwKpwR3Oi_h4Dn70vfMzjwApeFQfD5njR0xYsQFN",
+          "width": 1920
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJsaSJhsy8HWARTFv1slYL1uE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ__inehaUHWARsEI_52kAH8s",
+      "plus_code": {
+        "compound_code": "G8HM+Q8 上田市、長野県",
+        "global_code": "8Q8WG8HM+Q8"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

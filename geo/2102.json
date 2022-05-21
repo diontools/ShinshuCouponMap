@@ -1,103 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志２丁目３−７ 松本食文化会館",
-    "geometry": {
-      "location": {
-        "lat": 36.229836,
-        "lng": 137.968735
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2312415802915,
-          "lng": 137.9700651802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志２丁目３−７ 松本食文化会館",
+      "geometry": {
+        "location": {
+          "lat": 36.229836,
+          "lng": 137.968735
         },
-        "southwest": {
-          "lat": 36.2285436197085,
-          "lng": 137.9673672197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23124242989272,
+            "lng": 137.9700660298927
+          },
+          "southwest": {
+            "lat": 36.22854277010728,
+            "lng": 137.9673663701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJw8qH4YwOHWARTh0TmV_5Ueg",
-    "plus_code": {
-      "compound_code": "6XH9+WF 日本、長野県松本市",
-      "global_code": "8Q8V6XH9+WF"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "翠香園 松本店",
+      "photos": [
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112404706725285268664\">中華料理 翠香園（すいこうえん） 松本店</a>"
+          ],
+          "photo_reference": "Aap_uEAKgM-67_MAy0fLGsPAGmCx3UF6UlXavwRNuwnHZ-PODr73JKeXxuEg1LVZoBT6RVe5RRSHXE2BQmLh0GIR5nmSSxeG3X7sGz2B2O2oKCwk9pmkdUvWuqrDIZJ6QebBaSGBUV0rM9yNsE_bkAcYN3gyE8d44YbNby-s24RYzHquJkWt",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJw8qH4YwOHWARTh0TmV_5Ueg",
+      "plus_code": {
+        "compound_code": "6XH9+WF 松本市、長野県",
+        "global_code": "8Q8V6XH9+WF"
+      },
+      "types": [
+        "bar",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５８５",
-        "short_name": "１５８５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県北佐久郡立科町芦田八ケ野１５８５",
-    "geometry": {
-      "location": {
-        "lat": 36.1061128,
-        "lng": 138.242206
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1074766302915,
-          "lng": 138.2435007802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県北佐久郡立科町芦田八ケ野１５８５",
+      "geometry": {
+        "location": {
+          "lat": 36.1061128,
+          "lng": 138.242206
         },
-        "southwest": {
-          "lat": 36.1047786697085,
-          "lng": 138.2408028197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10747747989272,
+            "lng": 138.2435016298927
+          },
+          "southwest": {
+            "lat": 36.10477782010728,
+            "lng": 138.2408019701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC-_B3YZNHGARzC2nn4GqIRQ",
-    "plus_code": {
-      "compound_code": "464R+CV 日本、長野県立科町",
-      "global_code": "8Q8W464R+CV"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アミューズグラススタジオ",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117468413099029409818\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBxXxw5_iJU1IkcdqkkaTQUYArxZgExLRSvtmF0gt5bMphuJAwkUrkZdd8EEfjtIMJC3_Sjcnw2KaMndceINlhBdBgMKlw_G7cVjyKK4gnOp9KzVzJxAEKCJ1j0LFUFYmRBj9x_qZglJoQF-63a9cNXBkPV-HWieuVbhnR_QlmfZdm_",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJC-_B3YZNHGARzC2nn4GqIRQ",
+      "plus_code": {
+        "compound_code": "464R+CV 立科町、長野県",
+        "global_code": "8Q8W464R+CV"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

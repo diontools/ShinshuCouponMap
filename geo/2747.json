@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3020-892 Echoland, 北城 白馬村 北安曇郡 長野県 399-9301 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.6911606,
+          "lng": 137.8426314
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.69246762989272,
+            "lng": 137.8439945798928
+          },
+          "southwest": {
+            "lat": 36.68976797010728,
+            "lng": 137.8412949201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "Central Snowsports Hakuba - Echoland",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110252213105092731451\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAUOAci8soG0RM56dFo1a73H9Eg8ZqyR_0cZzFbW4qxOiMgS0JvK4xCGcRv97Xb0HR_cEL713jIjdU-2Ij4vrZ5tMmJqhJwLEvAlRDG7V4xXRi4KhOWXvY4ShV37joX5mP-zfFOxIk2jRqh2XzOayY9rdmeCgR9huFeSkZd5hOwyLkd",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJyRy3xW7R918R-b7zymNDrz8",
+      "plus_code": {
+        "compound_code": "MRRV+F3 白馬村、長野県",
+        "global_code": "8Q8VMRRV+F3"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

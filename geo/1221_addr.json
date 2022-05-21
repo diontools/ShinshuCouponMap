@@ -1,177 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "国分",
-        "short_name": "国分",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0016",
-        "short_name": "386-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0016 長野県上田市国分",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3893676,
-          "lng": 138.282272
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0016 長野県上田市国分 字浦沖1251-1",
+      "geometry": {
+        "location": {
+          "lat": 36.3788179,
+          "lng": 138.2740673
         },
-        "southwest": {
-          "lat": 36.3740578,
-          "lng": 138.2607177
+        "viewport": {
+          "northeast": {
+            "lat": 36.38009092989272,
+            "lng": 138.2753577298927
+          },
+          "southwest": {
+            "lat": 36.37739127010728,
+            "lng": 138.2726580701073
+          }
         }
       },
-      "location": {
-        "lat": 36.38267930000001,
-        "lng": 138.2717067
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3893676,
-          "lng": 138.282272
-        },
-        "southwest": {
-          "lat": 36.3740578,
-          "lng": 138.2607177
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 上田国分店",
+      "photos": [
+        {
+          "height": 2570,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104041130413097306050\">Yukihiko Kayama</a>"
+          ],
+          "photo_reference": "Aap_uECIITJ-NkTe3GV0DrSDlI5hTn4uCsvYdOlgOrWqADCBgaI8TQCEHPODDiQAqeP74bU0a7rsy7LHRSMAX4aa6fA5uy7bisFVX3S4N29QcyDS_d3oam3Rcm0kjnbhjp82RPBANANfpD-MPaLZdOsfEUvvs7IQNbQUTsArrS-noreY8q8N",
+          "width": 2570
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8TgZ9IS8HWARmTSUtG_kSUE",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "浦",
-        "short_name": "浦",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
+      ],
+      "place_id": "ChIJh8KpKYK8HWARkMquCXr6JFU",
+      "plus_code": {
+        "compound_code": "97HF+GJ 上田市、長野県",
+        "global_code": "8Q8W97HF+GJ"
       },
-      {
-        "long_name": "赤羽",
-        "short_name": "赤羽",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "石川町",
-        "short_name": "石川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "石川郡",
-        "short_name": "石川郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "福島県",
-        "short_name": "福島県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "963-7826",
-        "short_name": "963-7826",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒963-7826 福島県石川郡石川町赤羽浦",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 37.1333531,
-          "lng": 140.3791513
-        },
-        "southwest": {
-          "lat": 37.131134,
-          "lng": 140.3756611
-        }
-      },
-      "location": {
-        "lat": 37.1331702,
-        "lng": 140.3779912
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 37.13359253029149,
-          "lng": 140.3791513
-        },
-        "southwest": {
-          "lat": 37.1308945697085,
-          "lng": 140.3756611
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ05sKubJJIGARUyuKgAUE1XI",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

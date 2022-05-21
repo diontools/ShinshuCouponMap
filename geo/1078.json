@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３１",
-        "short_name": "３１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "岩村田北",
-        "short_name": "岩村田北",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0023",
-        "short_name": "385-0023",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0023 長野県佐久市岩村田北１丁目３１−３",
-    "geometry": {
-      "location": {
-        "lat": 36.285653,
-        "lng": 138.480228
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2868685802915,
-          "lng": 138.4814083302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0023 長野県佐久市岩村田北１丁目３１−３",
+      "geometry": {
+        "location": {
+          "lat": 36.285653,
+          "lng": 138.480228
         },
-        "southwest": {
-          "lat": 36.2841706197085,
-          "lng": 138.4787103697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.28686942989271,
+            "lng": 138.4814091798928
+          },
+          "southwest": {
+            "lat": 36.28416977010727,
+            "lng": 138.4787095201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJ-5Pv3_MHWARWbo-z42Yv8k",
-    "plus_code": {
-      "compound_code": "7FPJ+73 日本、長野県佐久市",
-      "global_code": "8Q8W7FPJ+73"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "海山亭いっちょう佐久店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112591141925256068281\">T Shiraiwa</a>"
+          ],
+          "photo_reference": "Aap_uEBCUu5GwHh_bcKQp4sE4IwfXDYmidV-Rud5sTt2NgLoAnFP5PEzOBfjoGLt3VxeXWWW9pKoaSvQgP_KzZ-YTmdmqmDwn0SRYvw0rsv3TUnkELLV8a5uacTG7_T4QnWkunC2ZCUmf6SNC7NeQ5bohnrx5FZ681s7J3bLZCytN_C_ndtK",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJJ-5Pv3_MHWARWbo-z42Yv8k",
+      "plus_code": {
+        "compound_code": "7FPJ+73 佐久市、長野県",
+        "global_code": "8Q8W7FPJ+73"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

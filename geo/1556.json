@@ -1,84 +1,80 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢",
-    "geometry": {
-      "location": {
-        "lat": 36.3400638,
-        "lng": 138.6330007
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3413566802915,
-          "lng": 138.6344725302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢",
+      "geometry": {
+        "location": {
+          "lat": 36.3400638,
+          "lng": 138.6330007
         },
-        "southwest": {
-          "lat": 36.3386587197085,
-          "lng": 138.6317745697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34135752989272,
+            "lng": 138.6344733798927
+          },
+          "southwest": {
+            "lat": 36.33865787010728,
+            "lng": 138.6317737201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "トライスクル バイ ヌーヴ・エイ",
+      "photos": [
+        {
+          "height": 1824,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111955454475131528523\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA5J4O7xvZVbpF62LOyJ7I4rHVh6TIIHN_Iny_dnfo7zfkur8wY49dDTAs0jVcjg8Vy91shL25otF5IxgO6Ak3FYjCFEgwfxghG_MOycd5RJT8UbZJL7ANNbZVAxANefIGYTguKd4ZghtUef4ThbGQmdbDau14bs7-ub9rHecgCxs4P",
+          "width": 2736
+        }
+      ],
+      "place_id": "ChIJ86z6THvTHWARMGlNSKnA1Wo",
+      "plus_code": {
+        "compound_code": "8JRM+26 軽井沢町、長野県",
+        "global_code": "8Q8W8JRM+26"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "health",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ86z6THvTHWARMGlNSKnA1Wo",
-    "plus_code": {
-      "compound_code": "8JRM+26 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JRM+26"
-    },
-    "types": [
-      "establishment",
-      "health",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 ツリーモール",
+      "geometry": {
+        "location": {
+          "lat": 36.3400778,
+          "lng": 138.6329985
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.34136942989272,
+            "lng": 138.6344757798927
+          },
+          "southwest": {
+            "lat": 36.33866977010727,
+            "lng": 138.6317761201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "トライスクル・バイ・ヌーヴ・エイポーカーフェイス",
+      "place_id": "ChIJzVZ_RXvTHWAR8t7EWBvQEXc",
+      "plus_code": {
+        "compound_code": "8JRM+25 軽井沢町、長野県",
+        "global_code": "8Q8W8JRM+25"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

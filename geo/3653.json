@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７１７０",
-        "short_name": "７１７０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "松尾新井",
-        "short_name": "松尾新井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0821",
-        "short_name": "395-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0821 長野県飯田市松尾新井７１７０",
-    "geometry": {
-      "location": {
-        "lat": 35.4968174,
-        "lng": 137.8593646
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4980838302915,
-          "lng": 137.8608397302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0821 長野県飯田市松尾新井７１７０",
+      "geometry": {
+        "location": {
+          "lat": 35.4968174,
+          "lng": 137.8593646
         },
-        "southwest": {
-          "lat": 35.4953858697085,
-          "lng": 137.8581417697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.49808467989273,
+            "lng": 137.8608405798927
+          },
+          "southwest": {
+            "lat": 35.49538502010729,
+            "lng": 137.8581409201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJH0YjcOqbHGARvRENFS5VtKw",
-    "plus_code": {
-      "compound_code": "FVW5+PP 長野県飯田市",
-      "global_code": "8Q7VFVW5+PP"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "天竜舟下り",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109268430078391771905\">Tak Sugaya</a>"
+          ],
+          "photo_reference": "Aap_uEB8tTMQGtcftLebOcfqEhyY4ZeX7RufmEKQX3TrpYkf_4vhoFIg-LYvbgMRMaOghRo7I6TPQVZ8nA8AVnHc2DoMEZAAKU_nQL-uh3JOFex2lFs2aXB8e8yo9NBW75eTuIRdB1v8rPTMnn68oFifSMz22bTxUdaKFYv6RW5ofCMB3dLX",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJH0YjcOqbHGARvRENFS5VtKw",
+      "plus_code": {
+        "compound_code": "FVW5+PP 飯田市、長野県",
+        "global_code": "8Q7VFVW5+PP"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

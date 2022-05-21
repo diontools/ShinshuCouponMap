@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４−２",
-        "short_name": "１４−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "明科中川手",
-        "short_name": "明科中川手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-7102",
-        "short_name": "399-7102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-7102 長野県安曇野市明科中川手１４−２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3351882,
-          "lng": 137.9299847
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-7102 長野県安曇野市明科中川手１４−２",
+      "geometry": {
+        "location": {
+          "lat": 36.335049,
+          "lng": 137.9297823
         },
-        "southwest": {
-          "lat": 36.3347853,
-          "lng": 137.9295997
+        "viewport": {
+          "northeast": {
+            "lat": 36.33644382989272,
+            "lng": 137.9312667798927
+          },
+          "southwest": {
+            "lat": 36.33374417010728,
+            "lng": 137.9285671201073
+          }
         }
       },
-      "location": {
-        "lat": 36.335049,
-        "lng": 137.9297823
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.33633573029149,
-          "lng": 137.9311746302915
-        },
-        "southwest": {
-          "lat": 36.3336377697085,
-          "lng": 137.9284766697085
-        }
-      }
-    },
-    "place_id": "ChIJrVeYrYdyHWARAqgwbtmU8a8",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-7102 長野県安曇野市明科中川手１４−２",
+      "place_id": "ChIJrVeYrYdyHWARAqgwbtmU8a8",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

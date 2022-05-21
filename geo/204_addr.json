@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡野沢温泉村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村新田 4382",
+      "geometry": {
+        "location": {
+          "lat": 36.9245024,
+          "lng": 138.4486551
         },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+        "viewport": {
+          "northeast": {
+            "lat": 36.92583732989272,
+            "lng": 138.4500052798927
+          },
+          "southwest": {
+            "lat": 36.92313767010727,
+            "lng": 138.4473056201073
+          }
         }
       },
-      "location": {
-        "lat": 36.9228462,
-        "lng": 138.4405097
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
-        },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "野沢温泉",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111557225021414449034\">鈴木勝弘</a>"
+          ],
+          "photo_reference": "Aap_uEBhfneX3jwoYCSumfau-0xAqRlNHyPkjsOTwSWExLsbw0395LEKP1WnechpGAFMhf9uivVfX1Wp7hI5VJ9ND4Kq9PjXSNr9-S7YnBl2_hvso8jCH7lN0_P6IKj0ZvVG1Nu-y8rAqtruMC2FSb2uaG0bYusOvcrbIpcqGHYKo34ywRoC",
+          "width": 5184
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK2HJ2xoF9l8RMIVuRlrbkRg",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJsxsTRlkF9l8RqbfOpHCbnkI",
+      "plus_code": {
+        "compound_code": "WCFX+RF 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+RF"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

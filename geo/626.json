@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０２８",
-        "short_name": "１０２８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "栗田",
-        "short_name": "栗田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0921",
-        "short_name": "380-0921",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0921 長野県長野市栗田１０２８",
-    "geometry": {
-      "location": {
-        "lat": 36.6427481,
-        "lng": 138.1886286
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6445953802915,
-          "lng": 138.1898261302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0921 長野県長野市栗田１０２８",
+      "geometry": {
+        "location": {
+          "lat": 36.6427481,
+          "lng": 138.1886286
         },
-        "southwest": {
-          "lat": 36.6418974197085,
-          "lng": 138.1871281697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64459622989271,
+            "lng": 138.1898269798927
+          },
+          "southwest": {
+            "lat": 36.64189657010727,
+            "lng": 138.1871273201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJnWUgipKGHWARDacVrY1fXn4",
-    "plus_code": {
-      "compound_code": "J5VQ+3F 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+3F"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ベックスコーヒーショップ 長野店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107997183495134618692\">橋場文俊</a>"
+          ],
+          "photo_reference": "Aap_uEDGD8jHqHSNZLE4hzougZ84BUF8wyIhs6Nc2leRWw029GoJdMEs_QfjiYgNmnQdosqhfk4YhIRtPRvM26sn-lyd-FXDANUzve6ykxHhiBiOqiJ2pGS20-y8slhKpxUYAMq71Pw9QfzglNttNvSK0hIkIqojzLNI0wqBI1iIuY_wXDIt",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJnWUgipKGHWARDacVrY1fXn4",
+      "plus_code": {
+        "compound_code": "J5VQ+3F 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+3F"
+      },
+      "types": [
+        "store",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

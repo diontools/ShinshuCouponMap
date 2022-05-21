@@ -1,170 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県須坂市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0000 長野県須坂市須坂３９",
+      "geometry": {
+        "location": {
+          "lat": 36.6537222,
+          "lng": 138.313952
         },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
+        "viewport": {
+          "northeast": {
+            "lat": 36.65509282989272,
+            "lng": 138.3153727298927
+          },
+          "southwest": {
+            "lat": 36.65239317010727,
+            "lng": 138.3126730701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6510879,
-        "lng": 138.3072807
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
-        },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "La Vie Lente",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104684988952598025048\">Shinobu Tago</a>"
+          ],
+          "photo_reference": "Aap_uEDUSJ3ID47Dy5pmZVNEKrZmAPt-Ijn9yviHgCyqUKz9ofL9urKSfgfsI5oLII1Vkbr9rsRglxCMM1CCWrY8-7JAYeeHHWnHY_u-fD-N_yhP-xO5EtNltW6oi3MRAYiEOWXtuVQkB6dln9-yaI5T9Pq9BEfFhr-nTynXJUsgH_YMPIrB",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEfGghGWSHWARb4zc9I-lG7Q",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "C.K Ⅰ ハイム",
-        "short_name": "C.K Ⅰ ハイム",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJnz-FLIWOHWAR7WIBRFP67X8",
+      "plus_code": {
+        "compound_code": "M837+FH 須坂市、長野県",
+        "global_code": "8Q8WM837+FH"
       },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "白金",
-        "short_name": "白金",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "港区",
-        "short_name": "港区",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東京都",
-        "short_name": "東京都",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "108-0072",
-        "short_name": "108-0072",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒108-0072 東京都港区白金３丁目２−７ C.K Ⅰ ハイム",
-    "geometry": {
-      "location": {
-        "lat": 35.6466141,
-        "lng": 139.7315237
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6479626802915,
-          "lng": 139.7328802802915
-        },
-        "southwest": {
-          "lat": 35.6452647197085,
-          "lng": 139.7301823197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbSu5LQiLGGARShcV48pzsCw",
-    "plus_code": {
-      "compound_code": "JPWJ+JJ 日本、東京都港区",
-      "global_code": "8Q7XJPWJ+JJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

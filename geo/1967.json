@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇 安曇４１４４−１７",
-    "geometry": {
-      "location": {
-        "lat": 36.169494,
-        "lng": 137.649193
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1707812302915,
-          "lng": 137.6505123302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1520 長野県松本市 安曇４１４４−１７",
+      "geometry": {
+        "location": {
+          "lat": 36.169494,
+          "lng": 137.649193
         },
-        "southwest": {
-          "lat": 36.1680832697085,
-          "lng": 137.6478143697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.17078207989272,
+            "lng": 137.6505131798927
+          },
+          "southwest": {
+            "lat": 36.16808242010728,
+            "lng": 137.6478135201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxW2N-Yw4HWARZZjL0JYK7U8",
-    "plus_code": {
-      "compound_code": "5J9X+QM 日本、長野県松本市",
-      "global_code": "8Q8V5J9X+QM"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "グレンパークさわんど",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114186468922816207375\">太田彰</a>"
+          ],
+          "photo_reference": "Aap_uEBakUwSX3Pk0TrjfPrAQ8CJS7RWi36qvU8PlYqCHzedI0Ryfh1iMewuZNBGravPg07JsyohNArTEPxZdTA5_zzn_gMgplnbbbz-OpmNdrRNEebEgmaETxRULuc1eBxyc2AvxCaZtygRd51b5GtGGQs_7ltHmJOUxnYvPUnKJXIYDHwU",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJxW2N-Yw4HWARZZjL0JYK7U8",
+      "plus_code": {
+        "compound_code": "5J9X+QM 松本市、長野県",
+        "global_code": "8Q8V5J9X+QM"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

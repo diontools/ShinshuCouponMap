@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 大字小布施中町774",
-    "geometry": {
-      "location": {
-        "lat": 36.696863,
-        "lng": 138.316733
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6981451302915,
-          "lng": 138.3181045802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町 大字小布施中町774",
+      "geometry": {
+        "location": {
+          "lat": 36.6968176,
+          "lng": 138.3167572
         },
-        "southwest": {
-          "lat": 36.6954471697085,
-          "lng": 138.3154066197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69814597989272,
+            "lng": 138.3181054298927
+          },
+          "southwest": {
+            "lat": 36.69544632010728,
+            "lng": 138.3154057701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs6I6HF-JHWAR1oqblC452UQ",
-    "plus_code": {
-      "compound_code": "M8W8+PM 日本、長野県小布施町",
-      "global_code": "8Q8WM8W8+PM"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "桜井甘精堂 小布施本店",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116360944047047959804\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAPSuqi6YBt5QK4aJpUA2JtZOTmlGv-WobJ78uErEehBaoYXelSLXE2amCLisKe56qTpakg5ExSSuv_vARS118jtmjepuhPl-6JOwNIq3LcAcHUGb7LdvNVb0Fr54DWRgq84eMSJJzNGO9l4ySxqXTP0JAPBG16SCgapjz6CF2IHEyl",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJs6I6HF-JHWAR1oqblC452UQ",
+      "plus_code": {
+        "compound_code": "M8W8+PM 小布施町、長野県",
+        "global_code": "8Q8WM8W8+PM"
+      },
+      "types": [
+        "bakery",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３",
-        "short_name": "３３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "川岸東",
-        "short_name": "川岸東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0045",
-        "short_name": "394-0045",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0045 長野県岡谷市川岸東３丁目１５−３３",
-    "geometry": {
-      "location": {
-        "lat": 36.032178,
-        "lng": 138.021698
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0334827302915,
-          "lng": 138.0231580302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0045 長野県岡谷市川岸東３丁目１５−３３",
+      "geometry": {
+        "location": {
+          "lat": 36.0321626,
+          "lng": 138.0217365
         },
-        "southwest": {
-          "lat": 36.0307847697085,
-          "lng": 138.0204600697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03348357989272,
+            "lng": 138.0231588798927
+          },
+          "southwest": {
+            "lat": 36.03078392010728,
+            "lng": 138.0204592201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ00wX0n__HGARSLUIpSSf4ec",
-    "plus_code": {
-      "compound_code": "22JC+VM 長野県岡谷市",
-      "global_code": "8Q8W22JC+VM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処 岸の花",
+      "photos": [
+        {
+          "height": 757,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105268239091601856563\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBy4e0eBriVZHSeEPvgZlQ8WtjSYH_CFVVkawmgpQFIvKbQ2ma_5puMtnGAzU5rb-WbjahjG55jmdFZsUpKBXvGO-Ae-U3gy41EsyRO5FrHj12n1VYzyBF3OrojeBG3CMqSf9Wz9CMYdjChXq4Yy7MZ2394CgVhyQF5D7999w_DfQQ",
+          "width": 1009
+        }
+      ],
+      "place_id": "ChIJ00wX0n__HGARSLUIpSSf4ec",
+      "plus_code": {
+        "compound_code": "22JC+VM 岡谷市、長野県",
+        "global_code": "8Q8W22JC+VM"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

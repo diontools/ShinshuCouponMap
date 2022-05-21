@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０３７−１",
-        "short_name": "２０３７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "御代田",
-        "short_name": "御代田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "御代田町",
-        "short_name": "御代田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0206",
-        "short_name": "389-0206",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0206 長野県北佐久郡御代田町御代田２０３７−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3132326,
-          "lng": 138.4987001
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0206 長野県北佐久郡御代田町御代田２０３７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3129631,
+          "lng": 138.4985255
         },
-        "southwest": {
-          "lat": 36.3128379,
-          "lng": 138.498367
+        "viewport": {
+          "northeast": {
+            "lat": 36.31436282989272,
+            "lng": 138.4999774798927
+          },
+          "southwest": {
+            "lat": 36.31166317010727,
+            "lng": 138.4972778201073
+          }
         }
       },
-      "location": {
-        "lat": 36.3129631,
-        "lng": 138.4985255
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.31438423029149,
-          "lng": 138.4998973802915
-        },
-        "southwest": {
-          "lat": 36.3116862697085,
-          "lng": 138.4971994197086
-        }
-      }
-    },
-    "place_id": "ChIJ9XcOhhXMHWARHgTTW_B8DeY",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0206 長野県北佐久郡御代田町御代田２０３７−１",
+      "place_id": "ChIJ9XcOhhXMHWARHgTTW_B8DeY",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１３−１１０",
-        "short_name": "３４１３−１１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１３−１１０",
-    "geometry": {
-      "location": {
-        "lat": 36.0953871,
-        "lng": 138.2157088
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0967514302915,
-          "lng": 138.2171421302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１３−１１０",
+      "geometry": {
+        "location": {
+          "lat": 36.0953874,
+          "lng": 138.2156966
         },
-        "southwest": {
-          "lat": 36.09405346970851,
-          "lng": 138.2144441697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.09675227989273,
+            "lng": 138.2171429798927
+          },
+          "southwest": {
+            "lat": 36.09405262010728,
+            "lng": 138.2144433201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFdt5GFxSHGARKOyoxtUu6FI",
-    "plus_code": {
-      "compound_code": "36W8+57 長野県茅野市",
-      "global_code": "8Q8W36W8+57"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "リゾートインカプリス／Resort Inn Caprice",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115931448413551366451\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECmgdDJkvsOjVbvJuL7J-WijQqhgZAEZrI87JkOlPWn-CDpg7_2FZvAbRaJNJJ5oT1f2TCmnfk-3TzRa65O96nxi2JNq6n7rPUB3dvcDn0XNYATKEoOCA0EHI0cD_tc4_el9OFC4DaM1jbuNvU_i-BiltKFBxWRApb49qSnPhfyI_ps",
+          "width": 3999
+        }
+      ],
+      "place_id": "ChIJFdt5GFxSHGARKOyoxtUu6FI",
+      "plus_code": {
+        "compound_code": "36W8+57 茅野市、長野県",
+        "global_code": "8Q8W36W8+57"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０７７",
-        "short_name": "３０７７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３０７７",
-    "geometry": {
-      "location": {
-        "lat": 36.7395486,
-        "lng": 138.4198901
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7408270802915,
-          "lng": 138.4213357802915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３０７７",
+      "geometry": {
+        "location": {
+          "lat": 36.7394263,
+          "lng": 138.4200537
         },
-        "southwest": {
-          "lat": 36.7381291197085,
-          "lng": 138.4186378197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74082792989273,
+            "lng": 138.4213366298927
+          },
+          "southwest": {
+            "lat": 36.73812827010728,
+            "lng": 138.4186369701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVVUFs8b0HWARCiDQbzC5kWU",
-    "plus_code": {
-      "compound_code": "PCQ9+RX 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCQ9+RX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "信州湯田中温泉 よろづやアネックス湯楽庵",
+      "photos": [
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105707272047590996149\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB3dcpdqqPO-71C3aVbb7NXG8kJ5-b8rC4L55ydgj39olwvNTAO7Cn6eIZ3aNLibuCvqCrec4essUYEfQAIRGxVobzzaWUlhW5tXpjBJDR8F4dHPV98Z0i3vIzRetjQ9RKleZ_J0rdW9adTxEzJhJU4wgvFrpQ1VOk1hyHH311Ez4Ra",
+          "width": 5616
+        }
+      ],
+      "place_id": "ChIJVVUFs8b0HWARCiDQbzC5kWU",
+      "plus_code": {
+        "compound_code": "PCQ9+RX 山ノ内町、長野県",
+        "global_code": "8Q8WPCQ9+RX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

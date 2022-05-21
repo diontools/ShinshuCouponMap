@@ -1,88 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２７９",
-        "short_name": "１２７９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "高島",
-        "short_name": "高島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0022",
-        "short_name": "392-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0022 長野県諏訪市高島２丁目１２７９",
-    "geometry": {
-      "location": {
-        "lat": 36.0402678,
-        "lng": 138.1092907
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0416817802915,
-          "lng": 138.1106716802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0022 長野県諏訪市高島２丁目１２７９",
+      "geometry": {
+        "location": {
+          "lat": 36.0402678,
+          "lng": 138.1092907
         },
-        "southwest": {
-          "lat": 36.0389838197085,
-          "lng": 138.1079737197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04168262989273,
+            "lng": 138.1106725298927
+          },
+          "southwest": {
+            "lat": 36.03898297010728,
+            "lng": 138.1079728701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJx7lOwrlVHGAR07Ck1fV_ldM",
-    "plus_code": {
-      "compound_code": "24R5+4P 長野県諏訪市",
-      "global_code": "8Q8W24R5+4P"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0022 長野県諏訪市高島２丁目１２７９",
+      "place_id": "ChIJx7lOwrlVHGAR07Ck1fV_ldM",
+      "plus_code": {
+        "compound_code": "24R5+4P 諏訪市、長野県",
+        "global_code": "8Q8W24R5+4P"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

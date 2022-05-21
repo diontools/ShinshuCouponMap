@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５−１７",
-    "geometry": {
-      "location": {
-        "lat": 36.2321238,
-        "lng": 137.9667041
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2334254802915,
-          "lng": 137.9680754302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５−１７",
+      "geometry": {
+        "location": {
+          "lat": 36.2321238,
+          "lng": 137.9667041
         },
-        "southwest": {
-          "lat": 36.2307275197085,
-          "lng": 137.9653774697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23342632989272,
+            "lng": 137.9680762798928
+          },
+          "southwest": {
+            "lat": 36.23072667010727,
+            "lng": 137.9653766201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3RGdqY4OHWARDi9zLCK6zvk",
-    "plus_code": {
-      "compound_code": "6XJ8+RM 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+RM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "小羊樓",
+      "photos": [
+        {
+          "height": 1500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100584624368580682030\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBPTY_dljjp-jliGsH_XtATwlBC82LnQyxXWlAprAtsgxbVrUisC99wmnCuJcWnTYG1It98fdewmP8Z00IaXhCD5vRv8Bu1HvhpzjAX7nLTNPf8aZCxRBBcKC8zNqktlZ4pNl9quwF15fBXeRbIn0xC9WMDCXWRw6c-4Oj4kCNnDpA",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJ3RGdqY4OHWARDi9zLCK6zvk",
+      "plus_code": {
+        "compound_code": "6XJ8+RM 松本市、長野県",
+        "global_code": "8Q8V6XJ8+RM"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

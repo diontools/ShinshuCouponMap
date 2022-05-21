@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 中町1101",
-    "geometry": {
-      "location": {
-        "lat": 36.6960443,
-        "lng": 138.3158671
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69736063029151,
-          "lng": 138.3172085302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 中町1101",
+      "geometry": {
+        "location": {
+          "lat": 36.6960443,
+          "lng": 138.3158671
         },
-        "southwest": {
-          "lat": 36.69466266970851,
-          "lng": 138.3145105697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69736147989273,
+            "lng": 138.3172093798927
+          },
+          "southwest": {
+            "lat": 36.69466182010728,
+            "lng": 138.3145097201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJUXJslPWJHWARcdkZvm5XEqo",
-    "plus_code": {
-      "compound_code": "M8W8+C8 日本、長野県小布施町",
-      "global_code": "8Q8WM8W8+C8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "しょうゆきゃふぇ小布施",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105635579678352907624\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC96A1B1X5oms1R1JpQ03gs8Hxr0TPlxlBstt4A41qa8FCbRWjgCoMp8kOye9ih0_Strz2RT3GmraY-ciCVnjgHn_LAL0jrJuqPq5NxW0CZyWcO7wsUJGUPuuXRfgWcGvOam6NcdtK-UR3xcgpDUcGrirB5NKoB1ThaU8RTVHW4KreR",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJUXJslPWJHWARcdkZvm5XEqo",
+      "plus_code": {
+        "compound_code": "M8W8+C8 小布施町、長野県",
+        "global_code": "8Q8WM8W8+C8"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

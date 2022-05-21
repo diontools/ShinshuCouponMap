@@ -1,82 +1,88 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷 大字豊郷横落9580−5",
-    "geometry": {
-      "location": {
-        "lat": 36.9226637,
-        "lng": 138.4465245
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9239682802915,
-          "lng": 138.4478647302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村 大字豊郷横落9580−5",
+      "geometry": {
+        "location": {
+          "lat": 36.9226637,
+          "lng": 138.4465245
         },
-        "southwest": {
-          "lat": 36.9212703197085,
-          "lng": 138.4451667697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92396912989272,
+            "lng": 138.4478655798927
+          },
+          "southwest": {
+            "lat": 36.92126947010728,
+            "lng": 138.4451659201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "河達レンタルスキー",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111217713245689169394\">Edmund Wong</a>"
+          ],
+          "photo_reference": "Aap_uEAgJKypfA-ymFpN8iraGrZFrDdGgzXwac0IkuCF7KJAGw3SBhj7NcEDz8LW0Z_Sx7siYqQ8uv69pg_EfuGXFefvlrCf68eBCguTCQgCFMnas22Rpq0Z2_ylhGCMnyGtCQH8Vi28VUmdkXXWpcFEJdyuCBA_yC7GG9AHfhV1TViGEV9V",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJZJEhS4F9l8R9RC-v9CyN5o",
+      "plus_code": {
+        "compound_code": "WCFW+3J 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFW+3J"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJJZJEhS4F9l8R9RC-v9CyN5o",
-    "plus_code": {
-      "compound_code": "WCFW+3J 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCFW+3J"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡豊郷４３７９ 野沢 温泉 村 大字 豊郷 4379-17",
+      "geometry": {
+        "location": {
+          "lat": 36.92006,
+          "lng": 138.444713
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.92144247989272,
+            "lng": 138.4460889298927
+          },
+          "southwest": {
+            "lat": 36.91874282010728,
+            "lng": 138.4433892701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "河達",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108332835585014482383\">河達</a>"
+          ],
+          "photo_reference": "Aap_uEC0P28iOM_fzeS9VZlJSOvK_6edl3RjCLK6z-XD21G9vomhCmMPAU5iTRzDFXaYgwqmZcc52cNPa_1bUDpyap4J-0QUlDlGaqOiSX6G6RBou8-_wS0i8r8wJjU6RGFRsiXNqJduKvA5mX4ttfSdpTJOqO1QnT39DJ16ntF751Nlxi97",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJCexYsiwF9l8Ref6olxc97QU",
+      "plus_code": {
+        "compound_code": "WCCV+2V 野沢温泉村、長野県",
+        "global_code": "8Q8WWCCV+2V"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

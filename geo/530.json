@@ -1,109 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "西野入商店",
-        "short_name": "西野入商店",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "51",
-        "short_name": "51",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目51−７ 西野入商店",
-    "geometry": {
-      "location": {
-        "lat": 36.48189290000001,
-        "lng": 138.1405308
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4832611302915,
-          "lng": 138.1419025302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目51−７ 西野入商店",
+      "geometry": {
+        "location": {
+          "lat": 36.48189290000001,
+          "lng": 138.1405308
         },
-        "southwest": {
-          "lat": 36.4805631697085,
-          "lng": 138.1392045697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48326197989272,
+            "lng": 138.1419033798927
+          },
+          "southwest": {
+            "lat": 36.48056232010728,
+            "lng": 138.1392037201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWxU-OBWcHWARIVh5-Omhm90",
-    "plus_code": {
-      "compound_code": "F4JR+Q6 日本、長野県千曲市",
-      "global_code": "8Q8WF4JR+Q6"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "有限会社西野入商店",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109840154237937181080\">kenichi inaba</a>"
+          ],
+          "photo_reference": "Aap_uECMolfH5DHCuHqSMLy_v2nOMjCNpaXOXLX5v8nqIujB-uLeSZ3JTAQuoo9-8uJcuPJIh9XinUH2wHZGPRdBNZeV8iVGy5jW_YkMSvKVFbgcXSt4JRWmw36IdQov8zSRa5DJehJg8mL8frXEQfpHyqXm_lzYPGuwFkhysoUu7njBY3vG",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJWxU-OBWcHWARIVh5-Omhm90",
+      "plus_code": {
+        "compound_code": "F4JR+Q6 千曲市、長野県",
+        "global_code": "8Q8WF4JR+Q6"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

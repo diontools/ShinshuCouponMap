@@ -1,102 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "そば処藤木庵",
-        "short_name": "そば処藤木庵",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６７",
-        "short_name": "６７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大門町",
-        "short_name": "大門町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字長野大門町",
-        "short_name": "大字長野大門町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0841",
-        "short_name": "380-0841",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0841 長野県長野市大字長野大門町大門町６７ そば処藤木庵",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6566595,
-          "lng": 138.1878092
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0841 長野県長野市大字長野大門町６７",
+      "geometry": {
+        "location": {
+          "lat": 36.6565859,
+          "lng": 138.1876029
         },
-        "southwest": {
-          "lat": 36.6565542,
-          "lng": 138.1875921
+        "viewport": {
+          "northeast": {
+            "lat": 36.65799487989272,
+            "lng": 138.1889556298927
+          },
+          "southwest": {
+            "lat": 36.65529522010728,
+            "lng": 138.1862559701073
+          }
         }
       },
-      "location": {
-        "lat": 36.656627,
-        "lng": 138.1876927
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.65796233029149,
-          "lng": 138.1890496302915
-        },
-        "southwest": {
-          "lat": 36.6552643697085,
-          "lng": 138.1863516697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "藤木庵",
+      "photos": [
+        {
+          "height": 809,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117264542640467906573\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAIXCOPLnJUYRifl5NEafF5f0M-PpfeRwFza6AxeXTRbAHfRnTLrGRPLgiThtZOLedoTA8bSfKBrEuY7GlaAeRNYQFlrVpOLuzHAq5Um5UCHnZVuVKT6mIMqDhcyE40vDpGEde-mRHsgWcAtacRu8MERONzkSwM27W4rymExd_OPZRH",
+          "width": 1440
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGxsz8OSGHWARVY75iTNLS0Y",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJiwMy8OSGHWARe80sqiAdEos",
+      "plus_code": {
+        "compound_code": "M54Q+J2 長野市、長野県",
+        "global_code": "8Q8WM54Q+J2"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

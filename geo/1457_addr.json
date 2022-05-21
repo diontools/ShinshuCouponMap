@@ -1,71 +1,41 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡軽井沢町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、長野県北佐久郡軽井沢町",
+      "geometry": {
+        "location": {
+          "lat": 36.3483927,
+          "lng": 138.5970297
         },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+        "viewport": {
+          "northeast": {
+            "lat": 36.424134,
+            "lng": 138.6571931
+          },
+          "southwest": {
+            "lat": 36.27847089999999,
+            "lng": 138.5075049
+          }
         }
       },
-      "location": {
-        "lat": 36.3483927,
-        "lng": 138.5970297
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
-        },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "軽井沢町",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113889767993987955434\">Jeffy Chen</a>"
+          ],
+          "photo_reference": "Aap_uEAwKWIWsDadZliq4ZdlNTIenOII0GhzZM8N5wjoKUtKxA14D_bts3SEp6EQDRuxbDmwLwrlBoGJVHyWbNb2R3RGSRvT5ij-x7r8zvkpHC51rMHkLEoOkxikQWUcPTexW_dEHNMwsOw3z9ZVLwBsLcQ_vHCGAz26DilzrVUeZfdNB7Nh",
+          "width": 2736
         }
-      }
-    },
-    "place_id": "ChIJk6PBPzzSHWAR-XHag0iPEZk",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJk6PBPzzSHWAR-XHag0iPEZk",
+      "types": [
+        "locality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

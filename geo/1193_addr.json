@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９３９−５",
-        "short_name": "９３９−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "山浦",
-        "short_name": "山浦",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0807",
-        "short_name": "384-0807",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0807 長野県小諸市山浦９３９−５",
-    "geometry": {
-      "location": {
-        "lat": 36.3021768,
-        "lng": 138.4180713
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3034080302915,
-          "lng": 138.4194585802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0807 長野県小諸市山浦９３９−５",
+      "geometry": {
+        "location": {
+          "lat": 36.3021768,
+          "lng": 138.4180713
         },
-        "southwest": {
-          "lat": 36.3007100697085,
-          "lng": 138.4167606197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30340887989272,
+            "lng": 138.4194594298927
+          },
+          "southwest": {
+            "lat": 36.30070922010728,
+            "lng": 138.4167597701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJf-uRt_LJHWARgO6SRiSknjo",
-    "plus_code": {
-      "compound_code": "8C29+V6 長野県小諸市",
-      "global_code": "8Q8W8C29+V6"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0807 長野県小諸市山浦９３９−５",
+      "place_id": "ChIJf-uRt_LJHWARgO6SRiSknjo",
+      "plus_code": {
+        "compound_code": "8C29+V6 小諸市、長野県",
+        "global_code": "8Q8W8C29+V6"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,97 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１９",
-        "short_name": "１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目３−１９",
-    "geometry": {
-      "location": {
-        "lat": 36.23477010000001,
-        "lng": 137.9719118
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23611908029151,
-          "lng": 137.9732607802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目３−１９",
+      "geometry": {
+        "location": {
+          "lat": 36.23477010000001,
+          "lng": 137.9719118
         },
-        "southwest": {
-          "lat": 36.23342111970851,
-          "lng": 137.9705628197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23611992989272,
+            "lng": 137.9732616298927
+          },
+          "southwest": {
+            "lat": 36.23342027010728,
+            "lng": 137.9705619701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJi6-n-pEOHWAR5EnGCzDxHEY",
-    "plus_code": {
-      "compound_code": "6XMC+WQ 長野県松本市",
-      "global_code": "8Q8V6XMC+WQ"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0874 長野県松本市大手４丁目３−１９",
+      "place_id": "ChIJi6-n-pEOHWAR5EnGCzDxHEY",
+      "plus_code": {
+        "compound_code": "6XMC+WQ 松本市、長野県",
+        "global_code": "8Q8V6XMC+WQ"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

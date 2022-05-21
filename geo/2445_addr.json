@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "清水高原登山道 展望台",
-        "short_name": "清水高原登山道 展望台",
-        "types": [
-          "establishment",
-          "park",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "山形村",
-        "short_name": "山形村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東筑摩郡",
-        "short_name": "東筑摩郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1301",
-        "short_name": "390-1301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1301 長野県東筑摩郡山形村 清水高原登山道 展望台",
-    "geometry": {
-      "location": {
-        "lat": 36.145112,
-        "lng": 137.8204573
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.14646098029151,
-          "lng": 137.8218062802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1301 長野県東筑摩郡山形村清水高原７５９８−９７",
+      "geometry": {
+        "location": {
+          "lat": 36.1497001,
+          "lng": 137.8385925
         },
-        "southwest": {
-          "lat": 36.14376301970851,
-          "lng": 137.8191083197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.15091152989272,
+            "lng": 137.8397169298927
+          },
+          "southwest": {
+            "lat": 36.14821187010728,
+            "lng": 137.8370172701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWXOMKxEXHWARNSjzIYdMdiA",
-    "plus_code": {
-      "compound_code": "4RWC+25 長野県山形村",
-      "global_code": "8Q8V4RWC+25"
-    },
-    "types": [
-      "establishment",
-      "park",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "スカイランドきよみず",
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105733534867540705909\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAtc5U7szqL0geDZgWqaN5KjlcLxB72bfq_FpWZr3Rc8YybgtEBbMnG4aabW9f9jksWqwtIorcsO2pE7o2u2qJbORKgQccDUjFfDn1rSiL_0EI4BOC2GAl25W3RMsHVyRTpKJyyOOXAaY7B3D7H97XaPdpPJETMQYCcfGSD2sMuH9aI",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJo-MhCSwXHWARQkDqQK5OdWc",
+      "plus_code": {
+        "compound_code": "4RXQ+VC 山形村、長野県",
+        "global_code": "8Q8V4RXQ+VC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

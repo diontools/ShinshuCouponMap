@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央４丁目９−５１ 晴庭 １F イオンモール松本",
+      "geometry": {
+        "location": {
+          "lat": 36.2338504,
+          "lng": 137.978171
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23507092989271,
+            "lng": 137.9796469298927
+          },
+          "southwest": {
+            "lat": 36.23237127010727,
+            "lng": 137.9769472701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ビストロ ヒカリヤ",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102055641462681936938\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEABU_6-568xQD6R_tzhGB7QYLpp55sAtYBAEIDXvUP4NIsK7tGZZkTB68EJp7_GoRaOVepuSvcdK_O1GLGiVY_-K9I4cGlX8g9Ic75GCheIZyeVz9sszJLuhTp34bv95Dh9PkoWGiTIr09_Cl_uNE_M9XFXmqJFdmbgyeSM3b9vxADE",
+          "width": 2560
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJY7Lj5ZQOHWAR7uNVdsZ54e0",
+      "plus_code": {
+        "compound_code": "6XMH+G7 松本市、長野県",
+        "global_code": "8Q8V6XMH+G7"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

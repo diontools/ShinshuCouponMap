@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５９２−１",
-        "short_name": "２５９２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐野",
-        "short_name": "佐野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡山ノ内町",
-        "short_name": "下高井郡山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0402",
-        "short_name": "381-0402",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0402 長野県下高井郡下高井郡山ノ内町佐野２５９２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.73647,
-        "lng": 138.416458
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.73787333029149,
-          "lng": 138.4177640302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0402 長野県下高井郡下高井郡山ノ内町佐野２５９２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7364691,
+          "lng": 138.4164599
         },
-        "southwest": {
-          "lat": 36.73517536970849,
-          "lng": 138.4150660697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73787417989272,
+            "lng": 138.4177648798928
+          },
+          "southwest": {
+            "lat": 36.73517452010728,
+            "lng": 138.4150652201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJf6qIS7z0HWARAMTmCOAafCY",
-    "plus_code": {
-      "compound_code": "PCP8+HH 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCP8+HH"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "風間館",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113731321657553821773\">勝山芳郎</a>"
+          ],
+          "photo_reference": "Aap_uECoaEgOU3K60Pnxn_tMSO1IVdns9PT2eMexO-D5zPzocvFx0vV784LiZQCiFU8Dc2gCRFRsZKGzx-EgnbEmxuIqpvW5VxF1RWpZhfbZpnWqoQZe7YaLf7aw7mamg4xIgDt8If7gpwvM5Z_r0wQb9MhwUSjiPkzsKY0du76Ila3jrwsJ",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJf6qIS7z0HWARAMTmCOAafCY",
+      "plus_code": {
+        "compound_code": "PCP8+HH 山ノ内町、長野県",
+        "global_code": "8Q8WPCP8+HH"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

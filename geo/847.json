@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３３７−７",
-        "short_name": "１３３７−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上千歳町",
-        "short_name": "上千歳町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0821",
-        "short_name": "380-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0821 長野県長野市鶴賀上千歳町１３３７−７",
-    "geometry": {
-      "location": {
-        "lat": 36.650679,
-        "lng": 138.188902
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6519651802915,
-          "lng": 138.1902573302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0821 長野県長野市鶴賀１３３７−７",
+      "geometry": {
+        "location": {
+          "lat": 36.650679,
+          "lng": 138.188902
         },
-        "southwest": {
-          "lat": 36.6492672197085,
-          "lng": 138.1875593697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65196602989273,
+            "lng": 138.1902581798927
+          },
+          "southwest": {
+            "lat": 36.64926637010728,
+            "lng": 138.1875585201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs8OjF-6GHWARTWOFSkssZ7E",
-    "plus_code": {
-      "compound_code": "M52Q+7H 日本、長野県長野市",
-      "global_code": "8Q8WM52Q+7H"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "権堂大衆酒場 吟屋",
+      "photos": [
+        {
+          "height": 1102,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101319085260811782196\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDfK1tgxlQ43vq_RZr1A_A2keaFCQLayWOzxbwAzReMEzQSgscdFjuix9zFqiYVsDwTakAm3xABf4vszlKwTEjjHt1HK0mAa6mXEmKu2elQlkGiq6C6L0OQr77R3z0Iiz8Q8BGqN8BmjMojYSYnS731xaI2_lNFT7hMTAYRtnuEKySH",
+          "width": 1653
+        }
+      ],
+      "place_id": "ChIJs8OjF-6GHWARTWOFSkssZ7E",
+      "plus_code": {
+        "compound_code": "M52Q+7H 長野市、長野県",
+        "global_code": "8Q8WM52Q+7H"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

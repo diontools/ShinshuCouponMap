@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８８２−１０",
-        "short_name": "１８８２−１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "新子田",
-        "short_name": "新子田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0007",
-        "short_name": "385-0007",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0007 長野県佐久市新子田１８８２−１０",
-    "geometry": {
-      "location": {
-        "lat": 36.2625924,
-        "lng": 138.4877236
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2639152302915,
-          "lng": 138.4888778802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0007 長野県佐久市新子田１８８２−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.2625454,
+          "lng": 138.4876738
         },
-        "southwest": {
-          "lat": 36.2612172697085,
-          "lng": 138.4861799197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26391607989272,
+            "lng": 138.4888787298927
+          },
+          "southwest": {
+            "lat": 36.26121642010728,
+            "lng": 138.4861790701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx8LlI6XMHWARL26eAb50u98",
-    "plus_code": {
-      "compound_code": "7F7Q+23 日本、長野県佐久市",
-      "global_code": "8Q8W7F7Q+23"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "猪料理 やまおく",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114190943049463559683\">hsieh ninia</a>"
+          ],
+          "photo_reference": "Aap_uEBpqVxEBSNrSdWZjg8OZvU7a_oOfB2B9v6oymJVhISRSsY04yLptwS-yuJ3hEf0LY9XrwHZQwVe-iAvR-hCtefOEul8HDnRA5NSjI650Mu2qjhUV2wx_Jt_WEucBmD4Y1B11DfkGUHbGvmTQg0oabGI7RtJyf3EkURrI-7kfKZREdJ8",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJx8LlI6XMHWARL26eAb50u98",
+      "plus_code": {
+        "compound_code": "7F7Q+23 佐久市、長野県",
+        "global_code": "8Q8W7F7Q+23"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

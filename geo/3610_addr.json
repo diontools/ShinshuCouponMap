@@ -1,94 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "末広",
-        "short_name": "末広",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0025",
-        "short_name": "392-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0025 長野県諏訪市末広８−３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0427097,
-          "lng": 138.1190513
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0025 長野県諏訪市末広８−３",
+      "geometry": {
+        "location": {
+          "lat": 36.0426509,
+          "lng": 138.1189537
         },
-        "southwest": {
-          "lat": 36.0425892,
-          "lng": 138.1188883
+        "viewport": {
+          "northeast": {
+            "lat": 36.04403182989272,
+            "lng": 138.1202973298927
+          },
+          "southwest": {
+            "lat": 36.04133217010727,
+            "lng": 138.1175976701072
+          }
         }
       },
-      "location": {
-        "lat": 36.0426509,
-        "lng": 138.1189537
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04400013029151,
-          "lng": 138.1203187802915
-        },
-        "southwest": {
-          "lat": 36.04130216970851,
-          "lng": 138.1176208197085
-        }
-      }
-    },
-    "place_id": "ChIJxRazPbVVHGARX-EGjueypAQ",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0025 長野県諏訪市末広８−３",
+      "place_id": "ChIJxRazPbVVHGARX-EGjueypAQ",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

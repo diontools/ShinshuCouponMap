@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８９８−６",
-        "short_name": "８９８−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北割一区",
-        "short_name": "北割一区",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割一区８９８−６",
-    "geometry": {
-      "location": {
-        "lat": 35.7396998,
-        "lng": 137.9174245
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7409166802915,
-          "lng": 137.9187792302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割一区８９８−６",
+      "geometry": {
+        "location": {
+          "lat": 35.7395665,
+          "lng": 137.9175323
         },
-        "southwest": {
-          "lat": 35.7382187197085,
-          "lng": 137.9160812697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74091752989273,
+            "lng": 137.9187800798927
+          },
+          "southwest": {
+            "lat": 35.73821787010728,
+            "lng": 137.9160804201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjdBpt2DtHGARBL23u-Yxydo",
-    "plus_code": {
-      "compound_code": "PWQ8+VX 長野県駒ヶ根市",
-      "global_code": "8Q7VPWQ8+VX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "明治亭 駒ヶ根本店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106249092203470336757\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBpBvIX1qhJut1V0raTqp7uFPOOo_qE3uYl3lXCXPu4eQtz6aD06UiwgJ_tjJfSgrbFUFVlMdcnogzpt5lpqQZHnT7c4318aNa6uqwtl_NZBW8XjhbmGLxn6Cskr8pevPW-AikFa2f_9lkthUnUPPPSvhPDR8D0cwndyDrFzqK-szVw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJjdBpt2DtHGARBL23u-Yxydo",
+      "plus_code": {
+        "compound_code": "PWQ8+VX 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWQ8+VX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

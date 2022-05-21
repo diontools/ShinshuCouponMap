@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２３６−２",
-        "short_name": "１２３６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎",
-        "short_name": "鼎",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0803",
-        "short_name": "395-0803",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0803 長野県飯田市鼎１２３６−２",
-    "geometry": {
-      "location": {
-        "lat": 35.5052471,
-        "lng": 137.8315
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.50669218029149,
-          "lng": 137.8328637302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0803 長野県飯田市鼎１２３６−２",
+      "geometry": {
+        "location": {
+          "lat": 35.5052922,
+          "lng": 137.8314934
         },
-        "southwest": {
-          "lat": 35.5039942197085,
-          "lng": 137.8301657697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50669302989272,
+            "lng": 137.8328645798927
+          },
+          "southwest": {
+            "lat": 35.50399337010727,
+            "lng": 137.8301649201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJIVb5F52ZHGARNYPKzC7VgAg",
-    "plus_code": {
-      "compound_code": "GR4J+3J 長野県飯田市",
-      "global_code": "8Q7VGR4J+3J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "食事処 天月",
+      "photos": [
+        {
+          "height": 625,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113612999938136141833\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECRY1WqoqcbIJyj_yR2cDIfe-qw5a6YINTD_8pFla9jVMUJ60BoH1__uolSq0fsCZWHlYVOdFVkEVgDUDDmKoFuZZF-LNaMzRFPcC3Hk4blTtPPS5XN933RyJyPEbw4sshbJVDyJ1nerT2zr5XdV_gB-suKjFWji7ceoYB6NUHnDzeK",
+          "width": 833
+        }
+      ],
+      "place_id": "ChIJIVb5F52ZHGARNYPKzC7VgAg",
+      "plus_code": {
+        "compound_code": "GR4J+3J 飯田市、長野県",
+        "global_code": "8Q7VGR4J+3J"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本町",
-        "short_name": "本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0028",
-        "short_name": "394-0028",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0028 長野県岡谷市本町１丁目１−７",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0570391,
-          "lng": 138.0450734
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒394-0028 長野県岡谷市本町１丁目１−７",
+      "geometry": {
+        "location": {
+          "lat": 36.0569417,
+          "lng": 138.0449561
         },
-        "southwest": {
-          "lat": 36.0568283,
-          "lng": 138.0448265
+        "viewport": {
+          "northeast": {
+            "lat": 36.05832587989271,
+            "lng": 138.0461907298927
+          },
+          "southwest": {
+            "lat": 36.05562622010727,
+            "lng": 138.0434910701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0569417,
-        "lng": 138.0449561
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0582826802915,
-          "lng": 138.0462485302915
-        },
-        "southwest": {
-          "lat": 36.0555847197085,
-          "lng": 138.0435505697085
-        }
-      }
-    },
-    "place_id": "ChIJEyaXzdP_HGARuXnCAlay-Eg",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒394-0028 長野県岡谷市本町１丁目１−７",
+      "place_id": "ChIJEyaXzdP_HGARuXnCAlay-Eg",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

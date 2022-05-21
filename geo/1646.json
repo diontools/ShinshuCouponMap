@@ -1,171 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.41791449999999,
-          "lng": 138.6545133
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0194 長野県北佐久郡軽井沢町長倉星野 ハルニレテラス",
+      "geometry": {
+        "location": {
+          "lat": 36.3593501,
+          "lng": 138.5902676
         },
-        "southwest": {
-          "lat": 36.31933730000001,
-          "lng": 138.6110868
+        "viewport": {
+          "northeast": {
+            "lat": 36.36066637989273,
+            "lng": 138.5915044798927
+          },
+          "southwest": {
+            "lat": 36.35796672010728,
+            "lng": 138.5888048201072
+          }
         }
       },
-      "location": {
-        "lat": 36.3741834,
-        "lng": 138.6288642
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.41791449999999,
-          "lng": 138.6545133
-        },
-        "southwest": {
-          "lat": 36.31933730000001,
-          "lng": 138.6110868
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "HARVEST NAGAI FARM ハーヴェストナガイファーム軽井沢店",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102702329585113304408\">松崎宏美</a>"
+          ],
+          "photo_reference": "Aap_uEAIUCZla3K3N6srFRuKv69E7qwORXxK2N_P7hcFp3VuQ1svKbsiYjaDJ-lJZfAFNhUiO_KzzC56YimkvaAaZCtSEKtz7YAUWb-Kpz_dcQVfzSedATJxRttLGm5O3vz6bJHF3_6_Tz8aulXJw-cKQ4P20I5BZswO81K06F-Hx-9MvvSd",
+          "width": 1080
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ116rGYLTHWARUjaA27PxUjk",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "８４０６−２",
-        "short_name": "８４０６−２",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJT-KzuS_SHWARoIKuviHwNwE",
+      "plus_code": {
+        "compound_code": "9H5R+P4 軽井沢町、長野県",
+        "global_code": "8Q8W9H5R+P4"
       },
-      {
-        "long_name": "和",
-        "short_name": "和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0505",
-        "short_name": "389-0505",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0505 長野県東御市和８４０６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.372409,
-        "lng": 138.33313
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.37391308029149,
-          "lng": 138.3345470802915
-        },
-        "southwest": {
-          "lat": 36.3712151197085,
-          "lng": 138.3318491197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJj3e-cXG5HWARLl0Dxa31eHU",
-    "plus_code": {
-      "compound_code": "98CM+X7 日本、長野県東御市",
-      "global_code": "8Q8W98CM+X7"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

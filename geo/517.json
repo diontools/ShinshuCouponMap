@@ -1,152 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県千曲市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目３−１４",
+      "geometry": {
+        "location": {
+          "lat": 36.4830523,
+          "lng": 138.1420588
         },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+        "viewport": {
+          "northeast": {
+            "lat": 36.48440077989272,
+            "lng": 138.1434103298927
+          },
+          "southwest": {
+            "lat": 36.48170112010727,
+            "lng": 138.1407106701072
+          }
         }
       },
-      "location": {
-        "lat": 36.5338864,
-        "lng": 138.119971
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
-        },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "（資）島屋",
+      "photos": [
+        {
+          "height": 4640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108440966639800104380\">小宮山昭一</a>"
+          ],
+          "photo_reference": "Aap_uEA_lhLrQY0D4qcPIrQ4pxP4ksFFaQflDdhB2Tx6_3iVfS3jRkqbiEi90aH-mMu3lLvRsde-pWCmnkST6E3WwxsZIMEW8M6JfwchoN8tQVgHSZUf-NKoVOTay3Xr9ieSFRyKR2H4b76uziNazAcYbwGGI9obeOw113pSJLcGh59tUG8H",
+          "width": 6960
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQfuLuhydHWARe_teCWFmml0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "3075−イ",
-        "short_name": "3075−イ",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJC2F_6GqcHWARySnPLXBQJMA",
+      "plus_code": {
+        "compound_code": "F4MR+6R 千曲市、長野県",
+        "global_code": "8Q8WF4MR+6R"
       },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏3075−イ",
-    "geometry": {
-      "location": {
-        "lat": 36.7392839,
-        "lng": 138.4198597
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7406056802915,
-          "lng": 138.4211585802915
-        },
-        "southwest": {
-          "lat": 36.7379077197085,
-          "lng": 138.4184606197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVVUZ_JX0HWARc5IZPLSUtc4",
-    "plus_code": {
-      "compound_code": "PCQ9+PW 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCQ9+PW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

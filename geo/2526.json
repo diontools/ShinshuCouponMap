@@ -1,94 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０２０−９６１",
-        "short_name": "３０２０−９６１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−９６１",
-    "geometry": {
-      "location": {
-        "lat": 36.6911159,
-        "lng": 137.8433099
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6925164302915,
-          "lng": 137.8446415302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−９６１",
+      "geometry": {
+        "location": {
+          "lat": 36.6911159,
+          "lng": 137.8433099
         },
-        "southwest": {
-          "lat": 36.6898184697085,
-          "lng": 137.8419435697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69251727989272,
+            "lng": 137.8446423798927
+          },
+          "southwest": {
+            "lat": 36.68981762010728,
+            "lng": 137.8419427201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJb4kg3uLR918RCTxNfolCje4",
-    "plus_code": {
-      "compound_code": "MRRV+C8 長野県白馬村",
-      "global_code": "8Q8VMRRV+C8"
-    },
-    "types": [
-      "bar",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ペンギン カフェ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106716809239328422602\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDJcgm_lm6GqrpDJsj6G8XmJuDwnFS9Rbb9ES3v0QjpAq-GSqkRRYAeTp3pNG_9yXhELzVbmLw2joSFOcnKGcA5BvIT-iAXZ3eJzYa0umTmPgqopSyuWy1MGwvKlYinye1IQAWa_iEblD5lGUPZsh3ZRkKK1Vr5imR6IaGzfpb-pXiU",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJb4kg3uLR918RCTxNfolCje4",
+      "plus_code": {
+        "compound_code": "MRRV+C8 白馬村、長野県",
+        "global_code": "8Q8VMRRV+C8"
+      },
+      "types": [
+        "cafe",
+        "bar",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

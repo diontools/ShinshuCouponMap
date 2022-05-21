@@ -1,79 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0100",
-        "short_name": "391-0100",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0100 長野県諏訪郡原村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0114 長野県諏訪郡原村ペンション17217−１６９７",
+      "geometry": {
+        "location": {
+          "lat": 35.9681162,
+          "lng": 138.2660412
         },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+        "viewport": {
+          "northeast": {
+            "lat": 35.96942612989272,
+            "lng": 138.2673320298927
+          },
+          "southwest": {
+            "lat": 35.96672647010728,
+            "lng": 138.2646323701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9644513,
-        "lng": 138.2174935
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
-        },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ミック ハウス",
+      "photos": [
+        {
+          "height": 1441,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116860120871945006264\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC9A-hB-6WnoOr41YzEUUPRQ7Dlk_51GcOFSDmtw_Yph948trdUGcTQsbUojgSpWDw8F8YR4x8Zp0IerwGtfEphwdogMsQnXM_l_eKEKRTnV5UfbAirnY6yCBpcitV9Hu84pQe2cnEJcVuAix6yLLyVjaoRYSTxYSowjQVGj0zHYoY9",
+          "width": 2560
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMxZWzI1EHGARFpP8Ubkhhpw",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJH3Iqe-9EHGARavXqmzCr8cI",
+      "plus_code": {
+        "compound_code": "X798+6C 原村、長野県",
+        "global_code": "8Q7WX798+6C"
+      },
+      "types": [
+        "bar",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

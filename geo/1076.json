@@ -1,64 +1,87 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県小諸市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.414866,
-          "lng": 138.5067915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0025 長野県小諸市相生町１丁目２−４",
+      "geometry": {
+        "location": {
+          "lat": 36.3273205,
+          "lng": 138.4223348
         },
-        "southwest": {
-          "lat": 36.2757988,
-          "lng": 138.3623833
+        "viewport": {
+          "northeast": {
+            "lat": 36.32864152989272,
+            "lng": 138.4236380298927
+          },
+          "southwest": {
+            "lat": 36.32594187010727,
+            "lng": 138.4209383701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3271412,
-        "lng": 138.4258254
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.414866,
-          "lng": 138.5067915
-        },
-        "southwest": {
-          "lat": 36.2757988,
-          "lng": 138.3623833
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "佐久小諸観光株式会社",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111656508565842515826\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECZf6aQE0PemBl2LnfPS0kgASuUi5YVZDjhArw4sgsURS1Tml6y3RV64IqKxBYmSW-t36pkpnAO-UPXhdPqhiahgZrsvxYyRHNzXPBTPweCrZDSCuWFhFbHn1aWVYAqjAO2aTtsG4EQDx5_6Auzt3phBcMh2r4cKVf5NgA2uHMIuE5X",
+          "width": 4128
         }
-      }
+      ],
+      "place_id": "ChIJ78NjnrbJHWARXgQgAUxc8IA",
+      "plus_code": {
+        "compound_code": "8CGC+WW 小諸市、長野県",
+        "global_code": "8Q8W8CGC+WW"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJCbaWP1fIHWARK6ZkTmPAsGE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田８５１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2768355,
+          "lng": 138.4783798
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.27818287989272,
+            "lng": 138.4797295798927
+          },
+          "southwest": {
+            "lat": 36.27548322010728,
+            "lng": 138.4770299201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "佐久小諸観光タクシー",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111656508565842515826\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECoOCOPrkiTO2TqDHId1hvKJO-wX7hdVLoKwzC6bedcMtywFEBXsSLllxDqsDkpZCKhceoAeAeqne29xYkEwsikJWBQXvHYE5CmIL8_W2oi4ODU_qiCQnvwaKK66LyS-CBuJhpqkGbDo0Pmp_i_RJALHRQkpKQ3C6ja-NVCduhjbJi9",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJ0SIoeX3LHWARuFqn29zdcxs",
+      "plus_code": {
+        "compound_code": "7FGH+P9 佐久市、長野県",
+        "global_code": "8Q8W7FGH+P9"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

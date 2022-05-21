@@ -1,90 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "末広",
-        "short_name": "末広",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0025",
-        "short_name": "392-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0025 長野県諏訪市末広１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0449133,
-          "lng": 138.1178811
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0025 長野県諏訪市末広１−７",
+      "geometry": {
+        "location": {
+          "lat": 36.0442998,
+          "lng": 138.1174078
         },
-        "southwest": {
-          "lat": 36.043527,
-          "lng": 138.1167364
+        "viewport": {
+          "northeast": {
+            "lat": 36.04567067989272,
+            "lng": 138.1187809798927
+          },
+          "southwest": {
+            "lat": 36.04297102010728,
+            "lng": 138.1160813201073
+          }
         }
       },
-      "location": {
-        "lat": 36.0442652,
-        "lng": 138.1174215
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0455691302915,
-          "lng": 138.1186577302915
-        },
-        "southwest": {
-          "lat": 36.0428711697085,
-          "lng": 138.1159597697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "手打ちそば更科",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106729434605574918023\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAXZ1rW26QUN_Dk6kJgp7hAGkAhzYyNPPYAF9nWjWK_EoA3H_g1uwUgzyMs8q8RixQMLR-RuIwaL85UUhDlcTG45q6LjdFincZO_cjkOb-JUamEKHI6EhO_Ij_9CN3P5KHUjgR8LJCWtWDauFQfWqncNcq35lha1jV3si-GQVWPBolx",
+          "width": 3264
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJj_6cY7RVHGARHwUT3ZFUzbA",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_4"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJfzARY7RVHGARnrqY3feJMLA",
+      "plus_code": {
+        "compound_code": "24V8+PX 諏訪市、長野県",
+        "global_code": "8Q8W24V8+PX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

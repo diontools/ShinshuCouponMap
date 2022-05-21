@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１",
-        "short_name": "１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央町",
-        "short_name": "中央町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0027",
-        "short_name": "394-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0027 長野県岡谷市中央町１丁目６−１１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.059315,
-          "lng": 138.046346
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒394-0027 長野県岡谷市中央町１丁目６−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.0592099,
+          "lng": 138.0462344
         },
-        "southwest": {
-          "lat": 36.0590853,
-          "lng": 138.04615
+        "viewport": {
+          "northeast": {
+            "lat": 36.06047382989271,
+            "lng": 138.0476229798927
+          },
+          "southwest": {
+            "lat": 36.05777417010727,
+            "lng": 138.0449233201073
+          }
         }
       },
-      "location": {
-        "lat": 36.0592099,
-        "lng": 138.0462344
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.06052553029149,
-          "lng": 138.0475969802915
-        },
-        "southwest": {
-          "lat": 36.05782756970849,
-          "lng": 138.0448990197085
-        }
-      }
-    },
-    "place_id": "ChIJNZfiUdH_HGAR-ABQXIT9WN4",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒394-0027 長野県岡谷市中央町１丁目６−１１",
+      "place_id": "ChIJNZfiUdH_HGAR-ABQXIT9WN4",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

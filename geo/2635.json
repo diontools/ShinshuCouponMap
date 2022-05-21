@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２８５",
-        "short_name": "１２２８５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１２２８５",
-    "geometry": {
-      "location": {
-        "lat": 36.718142,
-        "lng": 137.862181
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7195036802915,
-          "lng": 137.8634473302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１２２８５",
+      "geometry": {
+        "location": {
+          "lat": 36.718142,
+          "lng": 137.862181
         },
-        "southwest": {
-          "lat": 36.7168057197085,
-          "lng": 137.8607493697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71950452989272,
+            "lng": 137.8634481798927
+          },
+          "southwest": {
+            "lat": 36.71680487010728,
+            "lng": 137.8607485201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8daONZbN918R7xMr_kdnq5M",
-    "plus_code": {
-      "compound_code": "PV96+7V 長野県白馬村",
-      "global_code": "8Q8VPV96+7V"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "高山館",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106832755781446439108\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECITuJ8Popphe0uBpn2Tv_7VW4zcx3yd-Ox77dJrORraryMMJtlzOOUkWjya4mUCkcD1jQXRVNGtfsL-Wj-7E7SbNCyLqmx5qBLwtcH6blMaPf_BGRc1TqxinERFIEuol3TOa7_O0m1lrtNZ3GbOkAAFIQ_6z78Ea5Ua29TvfizSXl5",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ8daONZbN918R7xMr_kdnq5M",
+      "plus_code": {
+        "compound_code": "PV96+7V 白馬村、長野県",
+        "global_code": "8Q8VPV96+7V"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９９６−３",
-        "short_name": "４９９６−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西四王",
-        "short_name": "西四王",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0041",
-        "short_name": "393-0041",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0041 長野県諏訪郡下諏訪町西四王４９９６−３",
-    "geometry": {
-      "location": {
-        "lat": 36.0673036,
-        "lng": 138.0842386
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0686611302915,
-          "lng": 138.0856850302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0041 長野県諏訪郡下諏訪町西四王４９９６−３",
+      "geometry": {
+        "location": {
+          "lat": 36.0673036,
+          "lng": 138.0842386
         },
-        "southwest": {
-          "lat": 36.0659631697085,
-          "lng": 138.0829870697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06866197989272,
+            "lng": 138.0856858798927
+          },
+          "southwest": {
+            "lat": 36.06596232010727,
+            "lng": 138.0829862201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJizqKSFlVHGARoZ8niL6CFYE",
-    "plus_code": {
-      "compound_code": "338M+WM 日本、長野県下諏訪町",
-      "global_code": "8Q8W338M+WM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 下諏訪店",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117556102168128708070\">kazuya morozumi</a>"
+          ],
+          "photo_reference": "Aap_uEBABnGB3nrwGuYEZvuzYSeMGw66ylOIkCzC-1ovUZosynyM4JiRUeFeQOCaencoF53K4b6iOZOE96pIR1-En5Mr9YG5m6FKqajis17axvALL5laqy348DB25TwOF4ngrJeq_176WKweDODDSwbrFncUaYC49QxHbTShLTnoBP0GgIyp",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJizqKSFlVHGARoZ8niL6CFYE",
+      "plus_code": {
+        "compound_code": "338M+WM 下諏訪町、長野県",
+        "global_code": "8Q8W338M+WM"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,148 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市１丁目",
+      "geometry": {
+        "location": {
+          "lat": 36.2304807,
+          "lng": 137.9644579
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23222412989272,
+            "lng": 137.9653426298927
+          },
+          "southwest": {
+            "lat": 36.22952447010728,
+            "lng": 137.9626429701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "松本駅改札内 おみやげ屋 特産品店レガロス",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118121360665072257636\">Daniel Brvnišťan</a>"
+          ],
+          "photo_reference": "Aap_uEDdzi-U9v8gzYorbF-fVfVdfV9ZEG3B12a7qcNdU-jIh7wXoNwaSq5cMHEwiqV8Yarfi6RWIc5ccpjTxSYEPh-go9pcYPYleIHPZjdkwztDSuW7GORSPq10kgGyfY5hVOBt4pCSHgtVSSV6ixXg5dp0saNbo3Umtiwx-o4srwTs4ux9",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "熊谷市",
-        "short_name": "熊谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
+      ],
+      "place_id": "ChIJ91r1EQsPHWARxNC0-zo86nc",
+      "plus_code": {
+        "compound_code": "6XJ7+5Q 松本市、長野県",
+        "global_code": "8Q8V6XJ7+5Q"
       },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "筑波",
-        "short_name": "筑波",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "埼玉県",
-        "short_name": "埼玉県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "360-0037",
-        "short_name": "360-0037",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒360-0037 埼玉県熊谷市筑波２丁目 筑波2-56-1 五城ビル３階",
-    "geometry": {
-      "location": {
-        "lat": 36.140813,
-        "lng": 139.389251
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1421094302915,
-          "lng": 139.3905748802915
-        },
-        "southwest": {
-          "lat": 36.1394114697085,
-          "lng": 139.3878769197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJBcA2xr4pH2AR1rmi9Kj8PcA",
-    "plus_code": {
-      "compound_code": "49RQ+8P 日本、埼玉県熊谷市",
-      "global_code": "8Q8X49RQ+8P"
-    },
-    "types": [
-      "establishment",
-      "gym",
-      "health",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

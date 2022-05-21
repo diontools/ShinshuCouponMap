@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡山ノ内町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２９９４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7413474,
+          "lng": 138.4156454
         },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+        "viewport": {
+          "northeast": {
+            "lat": 36.74268057989272,
+            "lng": 138.4169876798927
+          },
+          "southwest": {
+            "lat": 36.73998092010728,
+            "lng": 138.4142880201073
+          }
         }
       },
-      "location": {
-        "lat": 36.7446479,
-        "lng": 138.4128175
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
-        },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "味処 みかさ",
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113073648293701831709\">kag</a>"
+          ],
+          "photo_reference": "Aap_uECihSJgjzTvu-CKScz-WnmjHob7VkPcI9x8yoxu_g4RBiMFuWHrMgJeCXTRkrtyj_i1WTYaWpfmabjIJ7MZBrJ7rKR390ltgFdjTH1dFQzt_h3cCuAcP6afVLn0YfZ-VLkUT-h4p-SkbmKG6R5jmm1QWsgAXNQmRktNlUjuGHyEKfK2",
+          "width": 2592
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp5BF3xjxHWARfQ5Kg1VjUng",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ60KUc7_0HWAR9BhrRSglxDo",
+      "plus_code": {
+        "compound_code": "PCR8+G6 山ノ内町、長野県",
+        "global_code": "8Q8WPCR8+G6"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

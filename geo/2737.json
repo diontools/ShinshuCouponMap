@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１−１５",
+      "geometry": {
+        "location": {
+          "lat": 36.6810602,
+          "lng": 137.8534032
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.68248272989273,
+            "lng": 137.8547948298927
+          },
+          "southwest": {
+            "lat": 36.67978307010728,
+            "lng": 137.8520951701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "單車驛站 Bike terminal",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109896448468998048222\">理彦大島</a>"
+          ],
+          "photo_reference": "Aap_uECCLnRU-DnSrn-IRTmymvHgXxSuTYFiaCBzIqN9excdnHymK4RsJgiss7j5SxBtII5r7hcekyteRIvag9FAjiYKdqnfuIRjxz_Pns5CP40gQs8brKamxKMH2NRiONQMT1FTnuwLqFtRPmudbCQ-BxqbMjh4l_zYq0hVsr6pO6TGQy0L",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ7yHfBXDT918ROaRvBsFbVng",
+      "plus_code": {
+        "compound_code": "MVJ3+C9 白馬村、長野県",
+        "global_code": "8Q8VMVJ3+C9"
+      },
+      "types": [
+        "tourist_attraction",
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

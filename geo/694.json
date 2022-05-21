@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６８２",
-        "short_name": "３６８２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠３６８２",
-    "geometry": {
-      "location": {
-        "lat": 36.7541154,
-        "lng": 138.0931587
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.75544713029149,
-          "lng": 138.0945415302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠３６８２",
+      "geometry": {
+        "location": {
+          "lat": 36.7541285,
+          "lng": 138.0931239
         },
-        "southwest": {
-          "lat": 36.75274916970849,
-          "lng": 138.0918435697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.75544797989271,
+            "lng": 138.0945423798927
+          },
+          "southwest": {
+            "lat": 36.75274832010727,
+            "lng": 138.0918427201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmQvT9eQu9l8RCrfVLJ3i4Jg",
-    "plus_code": {
-      "compound_code": "Q33V+J7 日本、長野県長野市",
-      "global_code": "8Q8WQ33V+J7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "蕎麦レストランとがくれ",
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103926740173055278376\">nori mono</a>"
+          ],
+          "photo_reference": "Aap_uEA3IOiHzNiuBcnUk51AGjMbKChLUQMP7PAb-yqp_A7a7bRpDuMSwUiBx02dSyqtvP4Mnkgo8XOyMXcf5JxNjCEmO8YShIkgcHDJI_QvAeGyGQoZ98krPLRIX6x8cXndo2CWJjfrqG3SkopHoxoJNJorchSSJvvQgqA_CMA7FBlPUDq0",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJmQvT9eQu9l8RCrfVLJ3i4Jg",
+      "plus_code": {
+        "compound_code": "Q33V+J7 長野市、長野県",
+        "global_code": "8Q8WQ33V+J7"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

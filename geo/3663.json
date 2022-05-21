@@ -1,97 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2F",
-        "short_name": "2F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "イオン飯田店",
-        "short_name": "イオン飯田店",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１５７５",
-        "short_name": "１５７５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上郷飯沼",
-        "short_name": "上郷飯沼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0002",
-        "short_name": "395-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0002 長野県飯田市上郷飯沼１５７５ イオン飯田店 2F",
-    "geometry": {
-      "location": {
-        "lat": 35.5233781,
-        "lng": 137.8506027
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5245074302915,
-          "lng": 137.8522449302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0002 長野県飯田市上郷飯沼１５７５ イオン飯田店 2F",
+      "geometry": {
+        "location": {
+          "lat": 35.5233781,
+          "lng": 137.8506027
         },
-        "southwest": {
-          "lat": 35.5218094697085,
-          "lng": 137.8495469697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.52450827989272,
+            "lng": 137.8522457798927
+          },
+          "southwest": {
+            "lat": 35.52180862010728,
+            "lng": 137.8495461201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNSzP5CSaHGARLCd7LhfA0Jo",
-    "plus_code": {
-      "compound_code": "GVF2+96 長野県飯田市",
-      "global_code": "8Q7VGVF2+96"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "しなとら イオン飯田店",
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116149942324113998087\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEADIok8OmEwJBrT4Hp5AQPTDmf85uYNPqRoLm1CLDOkdc-7Qr1nJPz4fPRj3Pesy24w4W07OfDKqASovSiNqAG_5hy_h852P1eXI2ARtFLXEXrW8zl5GIwldXFY2cnD1i4h6uehIDXCo4_b7-I7mHVVag6bRGF-YS5rk4NvkhsIprsr",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJNSzP5CSaHGARLCd7LhfA0Jo",
+      "plus_code": {
+        "compound_code": "GVF2+96 飯田市、長野県",
+        "global_code": "8Q7VGVF2+96"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

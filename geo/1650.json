@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１４８",
-        "short_name": "２１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２１４８",
-    "geometry": {
-      "location": {
-        "lat": 36.3628512,
-        "lng": 138.589123
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3637353802915,
-          "lng": 138.5904381302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２１４８",
+      "geometry": {
+        "location": {
+          "lat": 36.3628512,
+          "lng": 138.589123
         },
-        "southwest": {
-          "lat": 36.3610374197085,
-          "lng": 138.5877401697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36373622989272,
+            "lng": 138.5904389798927
+          },
+          "southwest": {
+            "lat": 36.36103657010727,
+            "lng": 138.5877393201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJrWLlpijSHWARiSps5yzsnKg",
-    "plus_code": {
-      "compound_code": "9H7Q+4J 日本、長野県軽井沢町",
-      "global_code": "8Q8W9H7Q+4J"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "星野温泉 トンボの湯",
+      "photos": [
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115475638345896342700\">星野温泉 トンボの湯</a>"
+          ],
+          "photo_reference": "Aap_uEAzTXagZ83eJWINrHzHyGt5MQbOAb1tK6YkDvMLN1CZ-sw46of1X92UF7Jih_zJ_39qamBcyiPeezPTLaRymiL5WMyYwuaQR1-MYKfuN5Ve4efk1nKvQpL70tO-zV1DIl63jM0VAJ12g7s3rBaHogIjhlh5g2XwyGKlNUrGaHXg_xbs",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJrWLlpijSHWARiSps5yzsnKg",
+      "plus_code": {
+        "compound_code": "9H7Q+4J 軽井沢町、長野県",
+        "global_code": "8Q8W9H7Q+4J"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

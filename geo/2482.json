@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８９",
-        "short_name": "４８９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙４８９",
-    "geometry": {
-      "location": {
-        "lat": 36.74532200000001,
-        "lng": 137.87281
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.74681303029151,
-          "lng": 137.8741716802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙４８９",
+      "geometry": {
+        "location": {
+          "lat": 36.74532200000001,
+          "lng": 137.87281
         },
-        "southwest": {
-          "lat": 36.74411506970851,
-          "lng": 137.8714737197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74681387989272,
+            "lng": 137.8741725298927
+          },
+          "southwest": {
+            "lat": 36.74411422010728,
+            "lng": 137.8714728701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQY-CaN7M918RcZTEP_3rLoM",
-    "plus_code": {
-      "compound_code": "PVWF+44 長野県小谷村",
-      "global_code": "8Q8VPVWF+44"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ロッヂ招仙",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101950641328556074215\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEArhwxym1ZGWpDy39jEsZfbBX9Vu-cGBeIy5uxxe0h-uX3XykfIZELyXZBih_W5LGxlNFCjC1e7S4Og9rKUUAFl6OH0snp9nSSn4QBpusKKNAKUnPUZlsqlDzucpYdThxf177OubOypZIULamv1WayFlym8dLDLr0rmFDkq9VmI2nli",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJQY-CaN7M918RcZTEP_3rLoM",
+      "plus_code": {
+        "compound_code": "PVWF+44 小谷村、長野県",
+        "global_code": "8Q8VPVWF+44"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

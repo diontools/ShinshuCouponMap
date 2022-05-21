@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４",
-        "short_name": "２４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志２丁目４−２４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2291968,
-          "lng": 137.9698563
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0815 長野県松本市深志２丁目４−２４",
+      "geometry": {
+        "location": {
+          "lat": 36.2291372,
+          "lng": 137.9696289
         },
-        "southwest": {
-          "lat": 36.2290598,
-          "lng": 137.969487
+        "viewport": {
+          "northeast": {
+            "lat": 36.23054122989272,
+            "lng": 137.9708613298928
+          },
+          "southwest": {
+            "lat": 36.22784157010728,
+            "lng": 137.9681616701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2291372,
-        "lng": 137.9696289
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2305016802915,
-          "lng": 137.9709741802915
-        },
-        "southwest": {
-          "lat": 36.2278037197085,
-          "lng": 137.9682762197085
-        }
-      }
-    },
-    "place_id": "ChIJne4UMY0OHWARhOSHYYpeg6E",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0815 長野県松本市深志２丁目４−２４",
+      "place_id": "ChIJne4UMY0OHWARhOSHYYpeg6E",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

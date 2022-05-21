@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８０００−４",
-        "short_name": "８０００−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "小根山",
-        "short_name": "小根山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小川村",
-        "short_name": "小川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-3303",
-        "short_name": "381-3303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-3303 長野県上水内郡小川村小根山８０００−４",
-    "geometry": {
-      "location": {
-        "lat": 36.6048033,
-        "lng": 137.9597808
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6061182302915,
-          "lng": 137.9611876802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-3303 長野県上水内郡小川村小根山８０００−４",
+      "geometry": {
+        "location": {
+          "lat": 36.6048033,
+          "lng": 137.9597808
         },
-        "southwest": {
-          "lat": 36.6034202697085,
-          "lng": 137.9584897197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.60611907989273,
+            "lng": 137.9611885298927
+          },
+          "southwest": {
+            "lat": 36.60341942010728,
+            "lng": 137.9584888701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtYBLZSzW918RJ8nkgA60cIo",
-    "plus_code": {
-      "compound_code": "JX35+WW 日本、長野県小川村",
-      "global_code": "8Q8VJX35+WW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "北アルプス絶景の宿林りん館",
+      "photos": [
+        {
+          "height": 465,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118313117893079792783\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAbg5GkIiVZpXOrknvxzNnWW_acUJyNSGYAp6BbQMyfNwX4SzmwEegLpxCSL9cz0btBM-t-3A8UkYm9qrIvcIlENSu9R1pTt3hwDwXeOR8RQhzsiRWkLHJAEqFanOZaKMm7s-JZt3rUcuDfq8625KsvZGrVkbUe7ZZZxLzjh0T22xDL",
+          "width": 700
+        }
+      ],
+      "place_id": "ChIJtYBLZSzW918RJ8nkgA60cIo",
+      "plus_code": {
+        "compound_code": "JX35+WW 小川村、長野県",
+        "global_code": "8Q8VJX35+WW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

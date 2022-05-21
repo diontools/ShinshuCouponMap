@@ -1,84 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白骨",
-        "short_name": "白骨",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1515",
-        "short_name": "390-1515",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1515 長野県松本市安曇白骨 温泉4195",
-    "geometry": {
-      "location": {
-        "lat": 36.1553027,
-        "lng": 137.6251962
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1566317802915,
-          "lng": 137.6265452802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1515 長野県松本市安曇白骨 温泉4195",
+      "geometry": {
+        "location": {
+          "lat": 36.1553027,
+          "lng": 137.6251962
         },
-        "southwest": {
-          "lat": 36.1539338197085,
-          "lng": 137.6238473197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.15663262989272,
+            "lng": 137.6265461298927
+          },
+          "southwest": {
+            "lat": 36.15393297010728,
+            "lng": 137.6238464701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJTfsHpRQ4HWAR7_FMh5ZD1t0",
-    "plus_code": {
-      "compound_code": "5J4G+43 日本、長野県松本市",
-      "global_code": "8Q8V5J4G+43"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白骨温泉 湯元齋藤旅館",
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113547977818189391397\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAClfV3SMKUcxUBC_skkuSgKJqXMQv7_2ZesX_bpk4JIkjdcTtot4-rWf76Hn4Fi0zOJochfSrbceS6Z8rcF9i6gPlwPiCcmuQJQ9wDK_--Qxelt2PDPCmqcUFMOUtln2em8cHDU9chG0fbJTTMmEklEt_G8lRxpKH0wcuxj7QbQJ5Q",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJTfsHpRQ4HWAR7_FMh5ZD1t0",
+      "plus_code": {
+        "compound_code": "5J4G+43 松本市、長野県",
+        "global_code": "8Q8V5J4G+43"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

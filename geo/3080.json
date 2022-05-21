@@ -1,80 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５２",
-        "short_name": "２５２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平谷村",
-        "short_name": "平谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0601",
-        "short_name": "395-0601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0601 長野県下伊那郡平谷村２５２",
-    "geometry": {
-      "location": {
-        "lat": 35.3244273,
-        "lng": 137.6319732
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.3257121802915,
-          "lng": 137.6333944802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0601 長野県下伊那郡平谷村２５２",
+      "geometry": {
+        "location": {
+          "lat": 35.3244273,
+          "lng": 137.6319732
         },
-        "southwest": {
-          "lat": 35.3230142197085,
-          "lng": 137.6306965197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.32571302989272,
+            "lng": 137.6333953298927
+          },
+          "southwest": {
+            "lat": 35.32301337010727,
+            "lng": 137.6306956701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk8DHF5SnHGARt6WQwQOcNpU",
-    "plus_code": {
-      "compound_code": "8JFJ+QQ 長野県平谷村",
-      "global_code": "8Q7V8JFJ+QQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ひまわり市場",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117438280917002453612\">lelebaka</a>"
+          ],
+          "photo_reference": "Aap_uEAYbR-GuNTUDa_yoBXzDD2VbrG9_tyGnaOvXv8G3-8tO4_xzOS4EYGui7r5Q0yonj5R6lQ9hRGC3Se1HTxnw1EoneEg1RWNToxOjEAXYvbhlaRCOKEdcFZjpVsbGEFC2li5z8TdDZWHeBSOInhFwtBsBW_NX-6IkLvTMS46v0GE9BQ-",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJk8DHF5SnHGARt6WQwQOcNpU",
+      "plus_code": {
+        "compound_code": "8JFJ+QQ 平谷村、長野県",
+        "global_code": "8Q7V8JFJ+QQ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,109 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "スタープラザ",
-        "short_name": "スタープラザ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３５２−３",
-        "short_name": "１３５２−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上千歳町",
-        "short_name": "上千歳町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字鶴賀上千歳町",
-        "short_name": "大字鶴賀上千歳町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0821",
-        "short_name": "380-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0821 長野県長野市大字鶴賀上千歳町上千歳町１３５２−３ スタープラザ 1f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6507556,
-          "lng": 138.1893582
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0907 長野県長野市鶴賀１３５２−３ スタープラザ 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.650735,
+          "lng": 138.1891391
         },
-        "southwest": {
-          "lat": 36.6506516,
-          "lng": 138.189132
+        "viewport": {
+          "northeast": {
+            "lat": 36.65206502989272,
+            "lng": 138.1904736298927
+          },
+          "southwest": {
+            "lat": 36.64936537010728,
+            "lng": 138.1877739701073
+          }
         }
       },
-      "location": {
-        "lat": 36.65069099999999,
-        "lng": 138.1892463
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6520525802915,
-          "lng": 138.1905704802915
-        },
-        "southwest": {
-          "lat": 36.6493546197085,
-          "lng": 138.1878725197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "九州情熱酒場 がばい寅次郎",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105855245717373500772\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBD63WAvbpCZJxGUlRzLpI2eQPZ46Pf29K9-FzOWanc38j_RsXYZs146Thn4-DpxVreXcCZ6qrE0TeM7irVfUORTY3N6u8myKSRezfblLANGo5PorB-EGCYOXZ8vB6Zl0A-8dsvnsyOKove9Hk78EYoUAuMswdHJeFZofffjEjr7yrY",
+          "width": 1536
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "Em5KYXBhbiwg44CSMzgwLTA4MjEgTmFnYW5vLCDlpKflrZfptrTos4DkuIrljYPmrbPnlLpLYW1pY2hpdG9zZW1hY2hp4oiS77yR77yT77yV77yS4oiS77yTIOOCueOCv-ODvOODl-ODqeOCtiAxZiIeGhwKFgoUChIJsd5jGe6GHWARJ_Ur080a514SAjFm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJuaBmGe6GHWARTmUX-ct3Ti8",
+      "plus_code": {
+        "compound_code": "M52Q+7M 長野市、長野県",
+        "global_code": "8Q8WM52Q+7M"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

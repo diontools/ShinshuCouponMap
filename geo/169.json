@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北志賀高原竜王",
-        "short_name": "北志賀高原竜王",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "夜間瀬",
-        "short_name": "夜間瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬 北志賀高原竜王",
-    "geometry": {
-      "location": {
-        "lat": 36.7897433,
-        "lng": 138.4505815
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7911636802915,
-          "lng": 138.4517778302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町 北志賀高原竜王",
+      "geometry": {
+        "location": {
+          "lat": 36.7897433,
+          "lng": 138.4505815
         },
-        "southwest": {
-          "lat": 36.7884657197085,
-          "lng": 138.4490798697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.79116452989272,
+            "lng": 138.4517786798928
+          },
+          "southwest": {
+            "lat": 36.78846487010728,
+            "lng": 138.4490790201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6pqZpf0HWARVn_-vZvfelw",
-    "plus_code": {
-      "compound_code": "QFQ2+V6 日本、長野県山ノ内町",
-      "global_code": "8Q8WQFQ2+V6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル ノース志賀",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110185455977054994479\">ye guang</a>"
+          ],
+          "photo_reference": "Aap_uEAEIloNyvkuuYijlDVPfq62_bP_K3JdJ9fgTGN3-b79iG4MqSe_aXe8GNMdThCSwJSSHSD6FefDrlgvSau4VQeHyuk7OL_slbaWNMml4e9uMI1dphfnRNaRxPTble2j3WVUbtM9cv0gPzulsEMuEkXKE-7ubeI4I_vUl2qh3IZcJMkF",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJq6pqZpf0HWARVn_-vZvfelw",
+      "plus_code": {
+        "compound_code": "QFQ2+V6 山ノ内町、長野県",
+        "global_code": "8Q8WQFQ2+V6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

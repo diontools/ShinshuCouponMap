@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡木曽町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6101 長野県木曽郡木曽町日義正沢原５０６",
+      "geometry": {
+        "location": {
+          "lat": 35.851659,
+          "lng": 137.748005
         },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+        "viewport": {
+          "northeast": {
+            "lat": 35.85301967989272,
+            "lng": 137.7494299798927
+          },
+          "southwest": {
+            "lat": 35.85032002010727,
+            "lng": 137.7467303201072
+          }
         }
       },
-      "location": {
-        "lat": 35.8424988,
-        "lng": 137.6915171
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
-        },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "神明宮",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107294117622211255910\">Fabbro Pino</a>"
+          ],
+          "photo_reference": "Aap_uECPo-e-LmO5M-6qmCVlyST4xZmjNv4ASXVpB-yMM2cfcQsr7EohkKR4FlPedJhu2GdPUZivR8Ef5_vNdEGTjOxPJxojtIJMSAE-fipkmwCGOQF3wqSZ8mYWWYmWWqexS06kVOpW37MkiwQSkPKFDZT58EXP-jGgWEWpfhUae1r7dujY",
+          "width": 1024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGb9UfHEnHWARFYfp0VxZPjs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJQTkDXPbdHGARe7f7n18hk0E",
+      "plus_code": {
+        "compound_code": "VP2X+M6 木曽町、長野県",
+        "global_code": "8Q7VVP2X+M6"
+      },
+      "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

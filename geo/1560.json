@@ -1,103 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８１３−１０",
-        "short_name": "８１３−１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "旧軽井沢",
-        "short_name": "旧軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢旧軽井沢８１３−１０",
-    "geometry": {
-      "location": {
-        "lat": 36.3569016,
-        "lng": 138.6342282
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3582301802915,
-          "lng": 138.6354904302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢旧軽井沢８１３−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.35686099999999,
+          "lng": 138.634167
         },
-        "southwest": {
-          "lat": 36.3555322197085,
-          "lng": 138.6327924697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35823102989272,
+            "lng": 138.6354912798927
+          },
+          "southwest": {
+            "lat": 36.35553137010728,
+            "lng": 138.6327916201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfbfs-HLTHWART-wWaiS8Pjo",
-    "plus_code": {
-      "compound_code": "9J4M+QM 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J4M+QM"
-    },
-    "types": [
-      "bar",
-      "cafe",
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "つるとんたん UDON NOODLE Brasserie KARUIZAWA JAPAN",
+      "photos": [
+        {
+          "height": 5000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111939546890139378803\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBFEVKKLDCS8Wd23uW6q9Eh2xJaW51WogbGEDXFQy-AW2KQgXBSPFAM6ybfPA2uL6W0OwQCMkLrUf3wzDgMS6MixvWkhLQyRd48EuQFbI62K93hi3XC47G84Iphpup7Z6A8HkRYgeZkMpwEdWyqoyEaK7fuDENxQ6e28apvYrbC2pZ6",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJfbfs-HLTHWART-wWaiS8Pjo",
+      "plus_code": {
+        "compound_code": "9J4M+QM 軽井沢町、長野県",
+        "global_code": "8Q8W9J4M+QM"
+      },
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

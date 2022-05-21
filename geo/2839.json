@@ -1,94 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０２２１−１",
-        "short_name": "１０２２１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "新開",
-        "short_name": "新開",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0002",
-        "short_name": "397-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0002 長野県木曽郡木曽町新開１０２２１−１",
-    "geometry": {
-      "location": {
-        "lat": 35.943055,
-        "lng": 137.665916
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9444943802915,
-          "lng": 137.6671736302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0002 長野県木曽郡木曽町新開１０２２１−１",
+      "geometry": {
+        "location": {
+          "lat": 35.943055,
+          "lng": 137.665916
         },
-        "southwest": {
-          "lat": 35.9417964197085,
-          "lng": 137.6644756697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.94449522989272,
+            "lng": 137.6671744798927
+          },
+          "southwest": {
+            "lat": 35.94179557010728,
+            "lng": 137.6644748201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJE7QreN0mHWARp3ipaDQON2w",
-    "plus_code": {
-      "compound_code": "WMV8+69 長野県木曽町",
-      "global_code": "8Q7VWMV8+69"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンションかおる",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106838218473945928828\">ペンション カオル（ＫＡＯＲＵ）</a>"
+          ],
+          "photo_reference": "Aap_uEDODlQlDqA9CN2TsgT0mXehOJZ9E2veceSjrQxdBOraX_5ihxYrWZmKy1aT7xrMrqe88fl_AR6IybLvr1q0BCl6nk1AC4VODr_trtMdw5eRAQj4vzZk5mV5IBLLYmyCpUCOyVnr4WsDMrXL1iZe7fC3QLEhf67Tn1wd7hWBGa7RNWg2",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJE7QreN0mHWARp3ipaDQON2w",
+      "plus_code": {
+        "compound_code": "WMV8+69 木曽町、長野県",
+        "global_code": "8Q7VWMV8+69"
+      },
+      "types": [
+        "cafe",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

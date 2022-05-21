@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県飯山市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 37.0296895,
-          "lng": 138.5230847
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2413 長野県飯山市照里９７３−１",
+      "geometry": {
+        "location": {
+          "lat": 36.9133615,
+          "lng": 138.3893129
         },
-        "southwest": {
-          "lat": 36.8036089,
-          "lng": 138.2742644
+        "viewport": {
+          "northeast": {
+            "lat": 36.91479797989271,
+            "lng": 138.3907195798927
+          },
+          "southwest": {
+            "lat": 36.91209832010727,
+            "lng": 138.3880199201073
+          }
         }
       },
-      "location": {
-        "lat": 36.8517344,
-        "lng": 138.3654889
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 37.0296895,
-          "lng": 138.5230847
-        },
-        "southwest": {
-          "lat": 36.8036089,
-          "lng": 138.2742644
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "POWERDRIVE R117",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108662300642378503140\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDamBIAO4yKvQQVggLv5P8tbiZEe2wUzLMyKakCEDZKzMpq0suBejaeaKmW-wh9_qhVsRStXdNTnqo4qnSjCvMk7wpZuv7oZWc3jE7PA_kX6h1IRNeYXVY9K1veEMNNJcM5hMBnPHCbc5Dw4MVjZzIDz02ax9SM5EQXUkasBt1FBh4b",
+          "width": 2048
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWRwQY5Ma9l8R4BO4Q1o2g2Y",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJUxLiIWIb9l8R-xErP1-E6T4",
+      "plus_code": {
+        "compound_code": "W97Q+8P 飯山市、長野県",
+        "global_code": "8Q8WW97Q+8P"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

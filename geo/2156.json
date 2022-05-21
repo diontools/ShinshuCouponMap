@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手２丁目１０−２",
+      "geometry": {
+        "location": {
+          "lat": 36.2365644,
+          "lng": 137.9652571
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23791627989272,
+            "lng": 137.9665739798927
+          },
+          "southwest": {
+            "lat": 36.23521662010727,
+            "lng": 137.9638743201072
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ジュレ ブランシュ",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115025922282755503003\">片桐史浩</a>"
+          ],
+          "photo_reference": "Aap_uEB-uNHVWgPVBePlrSCK7IQZbg2kRRcaWS039Ilv1OZgvvIXiJ0l0hpD0Y4Gk0jeh8semakwQdlXbew3NESoQce8K4rqQvUnvQhoYY__BRcO9LR4gS1qNZSe5Vi2Dmu3T5KukEO9gWP1qpjeBQmtd0ngj5a-I3Xbh_obVYvNXS2wQkMa",
+          "width": 3723
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJX2ABF4YOHWARmsyde_sVT_0",
+      "plus_code": {
+        "compound_code": "6XP8+J4 松本市、長野県",
+        "global_code": "8Q8V6XP8+J4"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

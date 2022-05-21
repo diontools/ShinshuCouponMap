@@ -1,105 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "ライジングフィールド軽井沢",
-        "short_name": "ライジングフィールド軽井沢",
-        "types": [
-          "campground",
-          "establishment",
-          "lodging",
-          "park",
-          "point_of_interest",
-          "store"
-        ]
-      },
-      {
-        "long_name": "山国有林2129",
-        "short_name": "山国有林2129",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉山国有林2129 ライジングフィールド軽井沢",
-    "geometry": {
-      "location": {
-        "lat": 36.3855342,
-        "lng": 138.6178067
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.38676548029151,
-          "lng": 138.6193123302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉山国有林2129",
+      "geometry": {
+        "location": {
+          "lat": 36.3855342,
+          "lng": 138.6178067
         },
-        "southwest": {
-          "lat": 36.38406751970851,
-          "lng": 138.6166143697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.38676632989272,
+            "lng": 138.6193131798927
+          },
+          "southwest": {
+            "lat": 36.38406667010728,
+            "lng": 138.6166135201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "ライジングフィールド軽井沢",
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117358119175622862674\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAMpwQBY1GklGrrRJ88sClXlDSQwMAxQua0PQRALsCAYUdmEpOSbC5MxQnNQJwJGmlAO1Dn6Se7sMDseKXJGy9sRd5SS8XbKzIg17kMX7-5bzccQCjLkFswsfozhrHT4HBWBcGydQODRDw5G20Ii9C6EJMtD8Lz6YqMa1d0tzmErsiS",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJT3_wO4bTHWAR2q7yGO2OeXY",
+      "plus_code": {
+        "compound_code": "9JP9+64 軽井沢町、長野県",
+        "global_code": "8Q8W9JP9+64"
+      },
+      "types": [
+        "campground",
+        "park",
+        "lodging",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJT3_wO4bTHWAR2q7yGO2OeXY",
-    "plus_code": {
-      "compound_code": "9JP9+64 日本、長野県軽井沢町",
-      "global_code": "8Q8W9JP9+64"
-    },
-    "types": [
-      "campground",
-      "establishment",
-      "lodging",
-      "park",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町 町長倉山国有林2129",
+      "geometry": {
+        "location": {
+          "lat": 36.3856842,
+          "lng": 138.6181286
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.38691702989272,
+            "lng": 138.6196038798928
+          },
+          "southwest": {
+            "lat": 36.38421737010728,
+            "lng": 138.6169042201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "株式会社ライジング・フィールド",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102326388003892610463\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECx4zO7XuqqxeYxey-POE2T8TSdPFg1OJOKTSDJg-UpTtUHFEyKZJ77Bf4L5CmpfCye02JVeqecDfmvqtR7p4SYklKlelN_GWTm69hssVPkeW9yU-8y2gzu2kTxzR--f6yJBpTbRrPoL-ta3KNZvfvrg7tGaoVXmq5mogBjtOiqRpxC",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJsaqAzGfRHWARdObbX76ACxs",
+      "plus_code": {
+        "compound_code": "9JP9+77 軽井沢町、長野県",
+        "global_code": "8Q8W9JP9+77"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

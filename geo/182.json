@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "往郷",
-        "short_name": "往郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2302",
-        "short_name": "389-2302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "５５６７−１, 下高井, 往郷 木島平村 下高井郡 長野県 389-2302 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.8653569,
-        "lng": 138.4469158
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.86673698029151,
-          "lng": 138.4482792302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "５５６７−１, 下高井, 往郷 木島平村 下高井郡 長野県 389-2302 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.8653569,
+          "lng": 138.4469158
         },
-        "southwest": {
-          "lat": 36.86403901970851,
-          "lng": 138.4455812697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.86673782989272,
+            "lng": 138.4482800798928
+          },
+          "southwest": {
+            "lat": 36.86403817010728,
+            "lng": 138.4455804201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK3yYDWkc9l8ROwN9r4v0kbQ",
-    "plus_code": {
-      "compound_code": "VC8W+4Q 日本、長野県木島平村",
-      "global_code": "8Q8WVC8W+4Q"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "馬曲温泉 望郷の湯",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108099730219127467994\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECgUUL_6mJOLiCjDPAjOMBs28WJwyKt9WWpjw6hh0nK_JV5N4bKlGwNMVZrwC0r5UTOAP6TJyAgF2Ytvw3oAHQ7IEdx-jcn2p1OcNm0X-L2kYabDWtvOHSAjXPANryDRy6xKc7WyLLrOZ5zTjv6MWNG_wk-_Fk1OBkEUYX6JE0sYLFy",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJK3yYDWkc9l8ROwN9r4v0kbQ",
+      "plus_code": {
+        "compound_code": "VC8W+4Q 木島平村、長野県",
+        "global_code": "8Q8WVC8W+4Q"
+      },
+      "types": [
+        "tourist_attraction",
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

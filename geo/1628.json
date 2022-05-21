@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３２９４−１",
-        "short_name": "３２９４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉３２９４−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3493861,
-        "lng": 138.5886176
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.35064868029149,
-          "lng": 138.5899989802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉３２９４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3493889,
+          "lng": 138.5886171
         },
-        "southwest": {
-          "lat": 36.3479507197085,
-          "lng": 138.5873010197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35064952989272,
+            "lng": 138.5899998298927
+          },
+          "southwest": {
+            "lat": 36.34794987010727,
+            "lng": 138.5873001701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJeRya9TfSHWAR0RXezaKyjJg",
-    "plus_code": {
-      "compound_code": "8HXQ+QC 日本、長野県軽井沢町",
-      "global_code": "8Q8W8HXQ+QC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "くつかけステイ 中軽井沢",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101628221331873117620\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA77XjNszCcuAwcj5wzq8MtrClPbOBm6wtR7FDJHyQ3WrEoP1T61c0CZ3HWDNpXEvLPS1vWpeXW9QxIkNiTxHA-f2Y-wExAUQ3izj1pLZRiu8fEldrRfI9PruWOvwvylPXK9AMg6SqbWOoRq8kXXyaW_GG4UoW3zEnN_FUxuh_mMAjf",
+          "width": 5760
+        }
+      ],
+      "place_id": "ChIJeRya9TfSHWAR0RXezaKyjJg",
+      "plus_code": {
+        "compound_code": "8HXQ+QC 軽井沢町、長野県",
+        "global_code": "8Q8W8HXQ+QC"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,109 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "10f",
-        "short_name": "10f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "ウエストプラザ長野",
-        "short_name": "ウエストプラザ長野",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３５５−５",
-        "short_name": "１３５５−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野末広町",
-        "short_name": "大字南長野末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市大字南長野末広町末広町１３５５−５ ウエストプラザ長野 10f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6439031,
-          "lng": 138.1872276
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0825 長野県長野市１３５５−５",
+      "geometry": {
+        "location": {
+          "lat": 36.64375709999999,
+          "lng": 138.1871017
         },
-        "southwest": {
-          "lat": 36.6434862,
-          "lng": 138.1866982
+        "viewport": {
+          "northeast": {
+            "lat": 36.64500767989271,
+            "lng": 138.1884962798927
+          },
+          "southwest": {
+            "lat": 36.64230802010727,
+            "lng": 138.1857966201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6436905,
-        "lng": 138.1870519
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6450436302915,
-          "lng": 138.1883118802915
-        },
-        "southwest": {
-          "lat": 36.6423456697085,
-          "lng": 138.1856139197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ウェストプラザ長野",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109411816431015573515\">Nobuo Suzuki</a>"
+          ],
+          "photo_reference": "Aap_uEAHLE4pckhVhP2Jz7yMDiRljNEdsRGEPZWceEuHaL5bNRtpUgX5a_PNUvh4v6PS5QcF300hqLFVjmE7uV6FKZM0G0bwj2NiOY2-u8lR1zny7lDgc6gGrR4G6M40bGaQ-NfwX29FcVXysd8wN5l29WmRgyRFJAjEJfamP4hTd_2hSo8L",
+          "width": 4032
         }
-      }
+      ],
+      "place_id": "ChIJhQgFJ5OGHWARSVgDV-3lPgo",
+      "plus_code": {
+        "compound_code": "J5VP+GR 長野市、長野県",
+        "global_code": "8Q8WJ5VP+GR"
+      },
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "EnNKYXBhbiwg44CSMzgwLTA4MjUgTmFnYW5vLCDlpKflrZfljZfplbfph47mnKvluoPnlLpTdWVoaXJvY2jFjeKIku-8ke-8k--8le-8leKIku-8lSDjgqbjgqjjgrnjg4jjg5fjg6njgrbplbfph44gMTBmIh8aHQoWChQKEgmHVuYlk4YdYBGOvJA_ua295RIDMTBm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0825 長野県長野市末広町１３５５−５ ウエストプラザ長野 10Ｆ",
+      "geometry": {
+        "location": {
+          "lat": 36.643791,
+          "lng": 138.187141
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.64522287989272,
+            "lng": 138.1885242798927
+          },
+          "southwest": {
+            "lat": 36.64252322010728,
+            "lng": 138.1858246201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "欅屋 びくら 長野駅前",
+      "photos": [
+        {
+          "height": 2002,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104354130376695016075\">欅屋 びくら</a>"
+          ],
+          "photo_reference": "Aap_uEA-pvggSIe1vtcUsITBuYFiB2ZMC_P9tUlbZPx3sPuA032rw0dWPIG_xQseuMW3yTVaK6aXGY9U68FmV0zvKoab9v-4Iry6845JyAxJPqKPsgkABh2YwotZptp01aclv6WF6wopIMWYkKvVZeluf_6X79_Atn3ccvbphhXRiQyKuDGH",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ5SEdJ5OGHWARd46uU8a7_R8",
+      "plus_code": {
+        "compound_code": "J5VP+GV 長野市、長野県",
+        "global_code": "8Q8WJ5VP+GV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３２５",
-        "short_name": "１３２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "問御所町",
-        "short_name": "問御所町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字鶴賀問御所町",
-        "short_name": "大字鶴賀問御所町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0834",
-        "short_name": "380-0834",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0834 長野県長野市大字鶴賀問御所町問御所町１３２５ 中島ビル２Ｆ",
-    "geometry": {
-      "location": {
-        "lat": 36.651692,
-        "lng": 138.188339
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6530385802915,
-          "lng": 138.1896642302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0834 長野県長野市大字鶴賀問御所町１３２５ 中島ビル２Ｆ",
+      "geometry": {
+        "location": {
+          "lat": 36.651697,
+          "lng": 138.1883939
         },
-        "southwest": {
-          "lat": 36.6503406197085,
-          "lng": 138.1869662697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65303942989272,
+            "lng": 138.1896650798927
+          },
+          "southwest": {
+            "lat": 36.65033977010728,
+            "lng": 138.1869654201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHTGlSu6GHWARVzXWxvxQJ_E",
-    "plus_code": {
-      "compound_code": "M52Q+M8 日本、長野県長野市",
-      "global_code": "8Q8WM52Q+M8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そる亭",
+      "photos": [
+        {
+          "height": 1078,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111773801205640967060\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAq-8vSchJEOwZOF4ChkQQpVA0YeV8c8xRocxtouMtY2ASHvMnpkXgFMfEQY0_cp5JAkOjZVwRPge-7jJquJfPMXaWxeeDHNg-OHERiR7urXsFIx4DRJWyPPFWppqgl6YZzvDMUQjj3UhPq9ffqgAzdXMV_DtKjvNI5R21FeIohhbSD",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJHTGlSu6GHWARVzXWxvxQJ_E",
+      "plus_code": {
+        "compound_code": "M52Q+M8 長野市、長野県",
+        "global_code": "8Q8WM52Q+M8"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

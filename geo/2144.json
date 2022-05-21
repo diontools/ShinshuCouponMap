@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本空港（信州まつもと空港）",
-        "short_name": "松本空港（信州まつもと空港）",
-        "types": [
-          "airport",
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "８９０９",
-        "short_name": "８９０９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "空港東",
-        "short_name": "空港東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1132",
-        "short_name": "390-1132",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1132 長野県松本市空港東８９０９ 松本空港（信州まつもと空港） (MMJ)",
-    "geometry": {
-      "location": {
-        "lat": 36.1646638,
-        "lng": 137.9264151
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.16615678029149,
-          "lng": 137.9284393302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1132 長野県松本市空港東８９０９",
+      "geometry": {
+        "location": {
+          "lat": 36.1648099,
+          "lng": 137.9263297
         },
-        "southwest": {
-          "lat": 36.1634588197085,
-          "lng": 137.9257413697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.16626212989272,
+            "lng": 137.9278606298927
+          },
+          "southwest": {
+            "lat": 36.16356247010727,
+            "lng": 137.9251609701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMaHqpfwPHWARyCD3cuB3ov0",
-    "plus_code": {
-      "compound_code": "5W7G+VH 日本、長野県松本市",
-      "global_code": "8Q8V5W7G+VH"
-    },
-    "types": [
-      "airport",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "四季の味蔵松本空港店",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109848470769929588141\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECwHmeqmxWaXAMBDHG-i6iW8TU3PBj_Le7rd3X1FzB8Cv4RLPuWoGRccWabbJ1jumv8lzLJhK03gdMkAs032v3YNCQRjEcsoU_f1SQ12j82Lr6OJC7NvogP8Hkdj2iAmhCSVx0Bx94nL7xoE7Y0lRNrIQRwcIu71VS8pEtkZqcbLlOk",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJ3c_HpfwPHWAR0QxUEp2_MCE",
+      "plus_code": {
+        "compound_code": "5W7G+WG 松本市、長野県",
+        "global_code": "8Q8V5W7G+WG"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

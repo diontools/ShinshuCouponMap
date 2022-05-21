@@ -1,64 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県小諸市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.414866,
-          "lng": 138.5067915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0025 長野県小諸市相生町１丁目",
+      "geometry": {
+        "location": {
+          "lat": 36.3271638,
+          "lng": 138.4241248
         },
-        "southwest": {
-          "lat": 36.2757988,
-          "lng": 138.3623833
+        "viewport": {
+          "northeast": {
+            "lat": 36.32842687989272,
+            "lng": 138.4255983298928
+          },
+          "southwest": {
+            "lat": 36.32572722010728,
+            "lng": 138.4228986701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3271412,
-        "lng": 138.4258254
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.414866,
-          "lng": 138.5067915
-        },
-        "southwest": {
-          "lat": 36.2757988,
-          "lng": 138.3623833
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "こもテラス",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106081639825973769011\">Masaki TSUCHIYA</a>"
+          ],
+          "photo_reference": "Aap_uEA8-4fhUoXOQov-TbnbsgFZKteE7lwDAZECrZhF6t8ocXW97zDFYulKUPxiaTKtDJgKvlJLJ8XCTxqohb_Otmhun3xsq94KnK75sx7hCgxp8sA5-V6t9pvKzFuU7RTcnagEu58kD7FnQmqXxcQjfnWOadmMjSAGm1r1hJreKWXONGiG",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJCbaWP1fIHWARK6ZkTmPAsGE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ55lpvyzJHWARTWU9DQ8KtjY",
+      "plus_code": {
+        "compound_code": "8CGF+VJ 小諸市、長野県",
+        "global_code": "8Q8W8CGF+VJ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

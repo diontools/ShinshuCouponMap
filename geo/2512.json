@@ -1,82 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５７２１−１６２８",
-        "short_name": "５７２１−１６２８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "松川村",
-        "short_name": "松川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8501",
-        "short_name": "399-8501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8501 長野県北安曇郡松川村５７２１−１６２８",
-    "geometry": {
-      "location": {
-        "lat": 36.4213858,
-        "lng": 137.866743
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.42275298029149,
-          "lng": 137.8681411302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8501 長野県北安曇郡松川村５７２１−１６２８",
+      "geometry": {
+        "location": {
+          "lat": 36.4213759,
+          "lng": 137.8667345
         },
-        "southwest": {
-          "lat": 36.42005501970849,
-          "lng": 137.8654431697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.42275382989272,
+            "lng": 137.8681419798927
+          },
+          "southwest": {
+            "lat": 36.42005417010728,
+            "lng": 137.8654423201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ77l6055nHWARAhy72DHKHLM",
-    "plus_code": {
-      "compound_code": "CVC8+HM 長野県松川村",
-      "global_code": "8Q8VCVC8+HM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "手打ちそば 潮",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108684106297751596848\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB9l1RLoFIn_qrKoUhA7KWz5_Thx28Wy1fSU2dGb2Vg0Ys_PJXj0pqKrdsqoqIiUxjvrkK-XvowKSYWFh3wiDXXKtlyrEGtR3We7fKNdkRowvg2V4TTTA7h6pHoW737Or8PHy2sOAjKB0VA0V-p3v-lZpq5yqaq3NY_UUrHSZZKvcyr",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ77l6055nHWARAhy72DHKHLM",
+      "plus_code": {
+        "compound_code": "CVC8+HM 松川村、長野県",
+        "global_code": "8Q8VCVC8+HM"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡立科町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3243676,
-          "lng": 138.3442034
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-2307 長野県北佐久郡立科町山部３６３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.2800401,
+          "lng": 138.3108914
         },
-        "southwest": {
-          "lat": 36.0862461,
-          "lng": 138.2337213
+        "viewport": {
+          "northeast": {
+            "lat": 36.28144232989272,
+            "lng": 138.3119611798928
+          },
+          "southwest": {
+            "lat": 36.27874267010728,
+            "lng": 138.3092615201073
+          }
         }
       },
-      "location": {
-        "lat": 36.2720773,
-        "lng": 138.3160771
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3243676,
-          "lng": 138.3442034
-        },
-        "southwest": {
-          "lat": 36.0862461,
-          "lng": 138.2337213
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFddCeKizHWARaM8BCA3KszE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-2307 長野県北佐久郡立科町山部３６３−２",
+      "place_id": "ChIJx4MaLi-xHWARiBjha2NWr3o",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

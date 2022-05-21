@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "乙１２８４０",
-        "short_name": "乙１２８４０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国",
-        "short_name": "千国",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８４０",
-    "geometry": {
-      "location": {
-        "lat": 36.7736828,
-        "lng": 137.8186051
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7750208302915,
-          "lng": 137.8199392802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８４０",
+      "geometry": {
+        "location": {
+          "lat": 36.7736828,
+          "lng": 137.8186051
         },
-        "southwest": {
-          "lat": 36.7723228697085,
-          "lng": 137.8172413197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.77502167989272,
+            "lng": 137.8199401298928
+          },
+          "southwest": {
+            "lat": 36.77232202010727,
+            "lng": 137.8172404701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGcGGuT_L918R2FGJ-5hyLws",
-    "plus_code": {
-      "compound_code": "QRF9+FC 長野県小谷村",
-      "global_code": "8Q8VQRF9+FC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "栂池山荘",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106672678219946608537\">中島見和子</a>"
+          ],
+          "photo_reference": "Aap_uEBiiWPT6aeIKKsw7Ca0MeGVzdAiOT-9CY8X37SaBIIreO3gqhPp1v5AGyjB0CZhQd5_ppVhzs2NcTOMfdlxw_dbnkBHaNBRUrAC3ne8GsMY1hQwA0-03xn2ww688P6dzcTvjJxM6oyVZ5uBnYDgK0GPsh6K-zFJ_2EzWUmwlB26r0TO",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJGcGGuT_L918R2FGJ-5hyLws",
+      "plus_code": {
+        "compound_code": "QRF9+FC 小谷村、長野県",
+        "global_code": "8Q8VQRF9+FC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上伊那郡箕輪町",
-        "short_name": "上伊那郡箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東箕輪",
-        "short_name": "東箕輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4602",
-        "short_name": "399-4602",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4602 長野県上伊那郡上伊那郡箕輪町東箕輪 東箕輪１２０８−１",
-    "geometry": {
-      "location": {
-        "lat": 35.9181909,
-        "lng": 137.9964431
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9195940302915,
-          "lng": 137.9977604302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4602 長野県上伊那郡上伊那郡箕輪町 東箕輪１２０８−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9182285,
+          "lng": 137.9964212
         },
-        "southwest": {
-          "lat": 35.9168960697085,
-          "lng": 137.9950624697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.91959487989272,
+            "lng": 137.9977612798928
+          },
+          "southwest": {
+            "lat": 35.91689522010728,
+            "lng": 137.9950616201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlYSwjiH6HGAR4OQ7kB2pqHg",
-    "plus_code": {
-      "compound_code": "WX9W+7H 長野県箕輪町",
-      "global_code": "8Q7VWX9W+7H"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "とざ和",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103076807326386685201\">原幸裕</a>"
+          ],
+          "photo_reference": "Aap_uECSMUWyd8DJ-Y5j-wodN5MqwSt_xa4myOCJj1PzvINY6T5qxqQ9cqhffL-WTf7OR6Qtvf0JUSqItZhKnGjchUd788FTx4Jh0HFohtUDS5XwEu-KL3d5NEPVFa6XjEgh8t1nd6kj2aWO-EtyjdJxmKQjRDLR11mHFiVCv05AsB5FxHKO",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJlYSwjiH6HGAR4OQ7kB2pqHg",
+      "plus_code": {
+        "compound_code": "WX9W+7H 箕輪町、長野県",
+        "global_code": "8Q7VWX9W+7H"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

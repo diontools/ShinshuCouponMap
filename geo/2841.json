@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３９６８−２",
-        "short_name": "３９６８−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "新開",
-        "short_name": "新開",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0002",
-        "short_name": "397-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0002 長野県木曽郡木曽町新開３９６８−２",
-    "geometry": {
-      "location": {
-        "lat": 35.8611175,
-        "lng": 137.6955541
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8625691802915,
-          "lng": 137.6969190802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0002 長野県木曽郡木曽町新開３９６８−２",
+      "geometry": {
+        "location": {
+          "lat": 35.8611175,
+          "lng": 137.6955541
         },
-        "southwest": {
-          "lat": 35.8598712197085,
-          "lng": 137.6942211197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.86257002989272,
+            "lng": 137.6969199298927
+          },
+          "southwest": {
+            "lat": 35.85987037010728,
+            "lng": 137.6942202701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgwnu2sfeHGARaX00aKJaIZs",
-    "plus_code": {
-      "compound_code": "VM6W+C6 長野県木曽町",
-      "global_code": "8Q7VVM6W+C6"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "代山温泉 せせらぎの四季",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107263370293627304736\">257 Osoh</a>"
+          ],
+          "photo_reference": "Aap_uEB113yshFfbqM0Hh0PTJJv9SsP80NFY7PACW81C2jG0ZrguKwFJ_QjvZxXMW5gWYxZ7vfFENvo4ADDOzW1x7BAW9tkCNygC4hHIil9doc5GbTEJASu4NtAbIzdQpO8CIllciDElBPl_yEsUNKDnu6pEivmz3x9UJPXO0uelnAza47EZ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJgwnu2sfeHGARaX00aKJaIZs",
+      "plus_code": {
+        "compound_code": "VM6W+C6 木曽町、長野県",
+        "global_code": "8Q7VVM6W+C6"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "茂田井",
-        "short_name": "茂田井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2211",
-        "short_name": "384-2211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2211 長野県北佐久郡立科町茂田井 芳田2500-1",
-    "geometry": {
-      "location": {
-        "lat": 36.2760643,
-        "lng": 138.3301264
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2774001802915,
-          "lng": 138.3316128802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2211 長野県北佐久郡立科町茂田井 芳田2500-1",
+      "geometry": {
+        "location": {
+          "lat": 36.2760643,
+          "lng": 138.3301264
         },
-        "southwest": {
-          "lat": 36.2747022197085,
-          "lng": 138.3289149197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27740102989273,
+            "lng": 138.3316137298927
+          },
+          "southwest": {
+            "lat": 36.27470137010729,
+            "lng": 138.3289140701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJY7ON6se2HWAR9LPBOuJd2b4",
-    "plus_code": {
-      "compound_code": "78GJ+C3 日本、長野県立科町",
-      "global_code": "8Q8W78GJ+C3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "蓼科牛いっとう 立科本店",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113738216089385468768\">石生原</a>"
+          ],
+          "photo_reference": "Aap_uEAveG12ok9jBvhb5As0QMknxwGvqmbO3kEmQNdpxE_pS9nh34QqOfMvBgkje2cxBAMWOsS4xSk9x_qzaWZeSGdQ1vmWJiIIIL0v1VdYesi5UoqS26nDV66vFfPAu95IsjXI4XX6Qm8bj7JxpPiP0GuFCaPGGAOuh3Ec_S200D76z7lb",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJY7ON6se2HWAR9LPBOuJd2b4",
+      "plus_code": {
+        "compound_code": "78GJ+C3 立科町、長野県",
+        "global_code": "8Q8W78GJ+C3"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

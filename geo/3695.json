@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６９１",
-        "short_name": "６９１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "竹佐",
-        "short_name": "竹佐",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0242",
-        "short_name": "395-0242",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0242 長野県飯田市竹佐６９１",
-    "geometry": {
-      "location": {
-        "lat": 35.4715516,
-        "lng": 137.7644719
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4729433302915,
-          "lng": 137.7658499302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0242 長野県飯田市竹佐６９１",
+      "geometry": {
+        "location": {
+          "lat": 35.4715172,
+          "lng": 137.7645832
         },
-        "southwest": {
-          "lat": 35.4702453697085,
-          "lng": 137.7631519697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.47294417989272,
+            "lng": 137.7658507798928
+          },
+          "southwest": {
+            "lat": 35.47024452010728,
+            "lng": 137.7631511201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO8YQw4GYHGAR2EPxm453w0k",
-    "plus_code": {
-      "compound_code": "FQC7+JQ 長野県飯田市",
-      "global_code": "8Q7VFQC7+JQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "千福屋",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108803405754750973557\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEASc_S-vAQSEewzm3frjaq3X8onNL8eEzSUBjfnrD803X5I-XmOfzn2gLDdL332TM-NQSOyeCxNXRqAPsDbJwIWFLFsyEPYsVdriRkTjG9jS2npDT1DVVMOotVQ4o0cgmotFjv_j6wZB_dWCxRBrePDdlo6PShbR-rcNf6aM74TSk3t",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJO8YQw4GYHGAR2EPxm453w0k",
+      "plus_code": {
+        "compound_code": "FQC7+JQ 飯田市、長野県",
+        "global_code": "8Q7VFQC7+JQ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

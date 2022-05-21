@@ -1,77 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "栗田",
-        "short_name": "栗田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0921",
-        "short_name": "380-0921",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0921 長野県長野市栗田 1015ＮＫコーポ 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.6415747,
-        "lng": 138.1902993
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64295688029149,
-          "lng": 138.1916994302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0921 長野県長野市栗田 1015ＮＫコーポ 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.6415747,
+          "lng": 138.1902993
         },
-        "southwest": {
-          "lat": 36.6402589197085,
-          "lng": 138.1890014697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64295772989272,
+            "lng": 138.1917002798927
+          },
+          "southwest": {
+            "lat": 36.64025807010727,
+            "lng": 138.1890006201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEy5L442GHWARG0_hBooVf1U",
-    "plus_code": {
-      "compound_code": "J5RR+J4 日本、長野県長野市",
-      "global_code": "8Q8WJ5RR+J4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "山内農場 長野東口駅前店",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107515925831550241068\">hira yu</a>"
+          ],
+          "photo_reference": "Aap_uEAaT4FUyi6YHCinLjw2MfSVEwDoQ2H8c12-HXQGRPibxSu4R_Cxax5guq3w1NKI2W_YDc-Mh19tpWcx8LWh7bndmCmjDJiQjWr8vPk0fHO3tXCqnZMOYHyMM3FCp1Lk2YjrOy1k6olm6L8zTfdXvfitGK1TxT0oraelCQrSM3FZBch1",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJEy5L442GHWARG0_hBooVf1U",
+      "plus_code": {
+        "compound_code": "J5RR+J4 長野市、長野県",
+        "global_code": "8Q8WJ5RR+J4"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

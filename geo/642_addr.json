@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "元善町",
-        "short_name": "元善町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0851",
-        "short_name": "380-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0851 長野県長野市長野元善町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6628343,
-          "lng": 138.1897516
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0851 長野県長野市長野元善町",
+      "geometry": {
+        "location": {
+          "lat": 36.6587301,
+          "lng": 138.187751
         },
-        "southwest": {
-          "lat": 36.6574141,
-          "lng": 138.1860197
+        "viewport": {
+          "northeast": {
+            "lat": 36.6628343,
+            "lng": 138.1897516
+          },
+          "southwest": {
+            "lat": 36.6574141,
+            "lng": 138.1860197
+          }
         }
       },
-      "location": {
-        "lat": 36.6587301,
-        "lng": 138.187751
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6628343,
-          "lng": 138.1897516
-        },
-        "southwest": {
-          "lat": 36.6574141,
-          "lng": 138.1860197
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0851 長野県長野市長野元善町",
+      "photos": [
+        {
+          "height": 2816,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113402000191803284457\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECX0iuyu5Nog3NC_-Q1TCIy5meJ8VNEf7VSd383om7z3lO0meLeiNEU8yyMlzBTaNmY2fIvf_KeW3nToSF-PsLIwyNd30s5GQosoi5KiFtG7m9xMJs6Djz9x9Jka2mKcQfldeSeVXLKm_DvDQkPSTpQUExcVBIkhkQKHS9DPTUnqyes",
+          "width": 4224
         }
-      }
-    },
-    "place_id": "ChIJ0YNzG-OGHWARdaXdL-wp6cA",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ0YNzG-OGHWARdaXdL-wp6cA",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９２８",
-        "short_name": "９２８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "西高遠旭町",
-        "short_name": "西高遠旭町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "高遠町",
-        "short_name": "高遠町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "396-0211",
-        "short_name": "396-0211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒396-0211 長野県伊那市高遠町西高遠旭町９２８−２",
-    "geometry": {
-      "location": {
-        "lat": 35.839408,
-        "lng": 138.060613
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8408597802915,
-          "lng": 138.0619060802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0211 長野県伊那市高遠町西高遠旭町９２８−２",
+      "geometry": {
+        "location": {
+          "lat": 35.839408,
+          "lng": 138.060613
         },
-        "southwest": {
-          "lat": 35.8381618197085,
-          "lng": 138.0592081197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.84086062989272,
+            "lng": 138.0619069298927
+          },
+          "southwest": {
+            "lat": 35.83816097010727,
+            "lng": 138.0592072701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJl94nder1HGARhtY-ejUFSSA",
-    "plus_code": {
-      "compound_code": "R3Q6+Q6 長野県伊那市",
-      "global_code": "8Q7WR3Q6+Q6"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "信州高遠温泉さくらの湯",
+      "photos": [
+        {
+          "height": 880,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104102744045720546082\">北原大輔</a>"
+          ],
+          "photo_reference": "Aap_uEDJnAmMt_UL343qY4K1SMEW5fQU9_c33M8vu_Nv3BY8QHU_a2R7UEYo1YIuM9jegFhs2cJJcC0vRx2yRAmE9hQPSxghWRnIeDrNZaGkgmbHQdEriJq8CuGH2bTpx6dW0YTN_Q6dd9NHXTVl8UmZges09LxyvkfqA02uqqXBP-I5AXzC",
+          "width": 1174
+        }
+      ],
+      "place_id": "ChIJl94nder1HGARhtY-ejUFSSA",
+      "plus_code": {
+        "compound_code": "R3Q6+Q6 伊那市、長野県",
+        "global_code": "8Q7WR3Q6+Q6"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

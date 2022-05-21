@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２３０",
-        "short_name": "２２３０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２２３０",
-    "geometry": {
-      "location": {
-        "lat": 36.7344707,
-        "lng": 138.4335866
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7357957302915,
-          "lng": 138.4349163302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２２３０",
+      "geometry": {
+        "location": {
+          "lat": 36.7345086,
+          "lng": 138.4336205
         },
-        "southwest": {
-          "lat": 36.7330977697085,
-          "lng": 138.4322183697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73579657989271,
+            "lng": 138.4349171798928
+          },
+          "southwest": {
+            "lat": 36.73309692010727,
+            "lng": 138.4322175201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhUCE14P0HWAREe8hw4yTGlo",
-    "plus_code": {
-      "compound_code": "PCMM+QC 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCMM+QC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "小松屋商店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112491274470456480253\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECKTHhIpb2Gp01mN5BGzIrx4dAkNy3peoe_STn0ubvwguXukFE9_oVsK89x3yLC_Yahk706cPby-G5q-kmCC5usF1nWJiyRDsoTXxCFdvlDLJLfsUembdZSGN9_pwNEaIIcaB8-uQGR1ELNImnZQeVBhtp-gpMwVvjXvCNuI5tjT8O6",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJhUCE14P0HWAREe8hw4yTGlo",
+      "plus_code": {
+        "compound_code": "PCMM+QC 山ノ内町、長野県",
+        "global_code": "8Q8WPCMM+QC"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

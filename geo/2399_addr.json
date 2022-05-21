@@ -1,82 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８２９５−４７",
-        "short_name": "８２９５−４７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町８２９５−４７",
-    "geometry": {
-      "location": {
-        "lat": 36.5602038,
-        "lng": 137.8682722
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5614394802915,
-          "lng": 137.8692796802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町８２９５−４８ 中山高原",
+      "geometry": {
+        "location": {
+          "lat": 36.5604006,
+          "lng": 137.8698967
         },
-        "southwest": {
-          "lat": 36.5587415197085,
-          "lng": 137.8665817197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.56144497989272,
+            "lng": 137.87100735
+          },
+          "southwest": {
+            "lat": 36.55874532010728,
+            "lng": 137.86656475
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgVU6kjFjHWARPT5dSOBu_sc",
-    "plus_code": {
-      "compound_code": "HV69+38 長野県大町市",
-      "global_code": "8Q8VHV69+38"
-    },
-    "types": [
-      "establishment",
-      "parking",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "農園カフェ ラビット",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114259268309989452211\">Tora Tamu</a>"
+          ],
+          "photo_reference": "Aap_uEAeED2tliSstOan29IuJTPYdcHvoSgdEflQYBMfM5jFbD6jArWJWiqVDfpAWYjGuq3fPljeZxnCPgNFZJ2pJ_XqtwrrL-D_FSyIaPRNRyLf4JBPn2belsD0cHenAB4811fSaF8RflqH7bDGmZR9tHQvZrcqZh5U87peHl1Ewi5GItaO",
+          "width": 4896
+        }
+      ],
+      "place_id": "ChIJ1xsry3diHWAR0bRn0b3dtSc",
+      "plus_code": {
+        "compound_code": "HV69+5X 大町市、長野県",
+        "global_code": "8Q8VHV69+5X"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

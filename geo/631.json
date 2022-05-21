@@ -1,95 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３００",
-        "short_name": "２３００",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "権堂町",
-        "short_name": "権堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0833",
-        "short_name": "381-0833",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0833 長野県長野市鶴賀権堂町２３００",
-    "geometry": {
-      "location": {
-        "lat": 36.6529277,
-        "lng": 138.1879445
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6542802302915,
-          "lng": 138.1892755802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0833 長野県長野市鶴賀権堂町２３００",
+      "geometry": {
+        "location": {
+          "lat": 36.6529277,
+          "lng": 138.1879445
         },
-        "southwest": {
-          "lat": 36.65158226970851,
-          "lng": 138.1865776197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65428107989273,
+            "lng": 138.1892764298927
+          },
+          "southwest": {
+            "lat": 36.65158142010728,
+            "lng": 138.1865767701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJH-vPle-GHWARnho3xJFMS10",
-    "plus_code": {
-      "compound_code": "M53Q+55 日本、長野県長野市",
-      "global_code": "8Q8WM53Q+55"
-    },
-    "types": [
-      "bar",
-      "cafe",
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "GOFUKU (ゴフク)",
+      "photos": [
+        {
+          "height": 2947,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116261370863701556099\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBpKSTGltExdJaRUnN4ibhwmYrxx3BBSnuKpd9wKkDssyZ45y4t7dy52DLP3Zv_8IsbfY2xY8DJ7lHgBFoDpN-XxAIinjxWeDLD91LkSGB1Qk4G5u5x_f4DKP8Gk9LmMjdIUOAqMnW-WqX5Vy-QksOfCrHd8VW5RjDSRbKeJzgaTODa",
+          "width": 4416
+        }
+      ],
+      "place_id": "ChIJH-vPle-GHWARnho3xJFMS10",
+      "plus_code": {
+        "compound_code": "M53Q+55 長野市、長野県",
+        "global_code": "8Q8WM53Q+55"
+      },
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

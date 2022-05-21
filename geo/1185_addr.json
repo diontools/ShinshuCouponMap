@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "相生町",
-        "short_name": "相生町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0025",
-        "short_name": "384-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0025 長野県小諸市相生町１丁目２−２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3275817,
-          "lng": 138.422288
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0025 長野県小諸市相生町１丁目２−２",
+      "geometry": {
+        "location": {
+          "lat": 36.327524,
+          "lng": 138.4222072
         },
-        "southwest": {
-          "lat": 36.3274664,
-          "lng": 138.4221174
+        "viewport": {
+          "northeast": {
+            "lat": 36.32883512989272,
+            "lng": 138.4234821298927
+          },
+          "southwest": {
+            "lat": 36.32613547010727,
+            "lng": 138.4207824701073
+          }
         }
       },
-      "location": {
-        "lat": 36.327524,
-        "lng": 138.4222072
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3288631302915,
-          "lng": 138.4235216802915
-        },
-        "southwest": {
-          "lat": 36.3261651697085,
-          "lng": 138.4208237197085
-        }
-      }
-    },
-    "place_id": "ChIJM5E2J7TJHWAR_LhQIyoNeVk",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0025 長野県小諸市相生町１丁目２−２",
+      "place_id": "ChIJM5E2J7TJHWAR_LhQIyoNeVk",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

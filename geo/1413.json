@@ -1,90 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０７５−５",
-        "short_name": "２０７５−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "字下宿",
-        "short_name": "字下宿",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "祢津",
-        "short_name": "祢津",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0506",
-        "short_name": "389-0506",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0506 長野県東御市祢津字下宿２０７５−５",
-    "geometry": {
-      "location": {
-        "lat": 36.3721088,
-        "lng": 138.3481571
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.37346868029151,
-          "lng": 138.3495650802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0506 長野県東御市祢津字下宿２０７５−５",
+      "geometry": {
+        "location": {
+          "lat": 36.3721088,
+          "lng": 138.3481571
         },
-        "southwest": {
-          "lat": 36.37077071970851,
-          "lng": 138.3468671197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.37346952989272,
+            "lng": 138.3495659298927
+          },
+          "southwest": {
+            "lat": 36.37076987010728,
+            "lng": 138.3468662701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5Y8o46e5HWAR_GZXNHqmUGw",
-    "plus_code": {
-      "compound_code": "98CX+R7 日本、長野県東御市",
-      "global_code": "8Q8W98CX+R7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "東部湯の丸SA (上り)",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101219323283717559817\">Kazuhiko Kishi</a>"
+          ],
+          "photo_reference": "Aap_uEDka2Zo0xQviZ5trRq4HKIdnfnh26Fr81tDCHeLHR6b-NVIYiZjntXJAwfZQnu8WW71NYrj_7ych9Ci0tzqg2eWcP0euv0NM_EoFJTkw-1oc5lR30BwoF_zEQzKWs3rdy_3JAjz0xRB-NrcYI6k1I1hRgIg4LfxwfqvJNdCFY-rOIPP",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ5Y8o46e5HWAR_GZXNHqmUGw",
+      "plus_code": {
+        "compound_code": "98CX+R7 東御市、長野県",
+        "global_code": "8Q8W98CX+R7"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

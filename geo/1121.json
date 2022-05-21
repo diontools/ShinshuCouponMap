@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県佐久市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.316,
-          "lng": 138.6370677
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田３１４０−１５",
+      "geometry": {
+        "location": {
+          "lat": 36.2696412,
+          "lng": 138.4783928
         },
-        "southwest": {
-          "lat": 36.1083353,
-          "lng": 138.2799026
+        "viewport": {
+          "northeast": {
+            "lat": 36.27091382989273,
+            "lng": 138.4797378298927
+          },
+          "southwest": {
+            "lat": 36.26821417010728,
+            "lng": 138.4770381701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2487978,
-        "lng": 138.47685
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.316,
-          "lng": 138.6370677
-        },
-        "southwest": {
-          "lat": 36.1083353,
-          "lng": 138.2799026
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "大衆食堂&沖縄料理ゆいま〜る",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107705977053093477591\">大衆食堂&amp;沖縄料理KUSABUE</a>"
+          ],
+          "photo_reference": "Aap_uEBoQps6AqEdzarO_7Cp216jQVIdVcJvzjBHUsmtTpcXo_-tktQZbU0C7xyOpv-x_6hHKYEcKOtlZIPLqTdiot5TQNE0k8FYP2GUpEPfAwrGyimXI2HpLecvwOhhkJ0DSVQfMEqEH62zJnxZ7MQkljuFsrIHR_URuMZg_3IB9gq5KgeV",
+          "width": 2448
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq4kaq_I0HGARPt0mcrpk7i8",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJzxGo5GHLHWARyDqq8kxoVDc",
+      "plus_code": {
+        "compound_code": "7F9H+V9 佐久市、長野県",
+        "global_code": "8Q8W7F9H+V9"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

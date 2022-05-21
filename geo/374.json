@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小川村",
-        "short_name": "小川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "稲丘",
-        "short_name": "稲丘",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-3301",
-        "short_name": "381-3301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-3301 長野県上水内郡小川村稲丘 大洞高原",
-    "geometry": {
-      "location": {
-        "lat": 36.6587181,
-        "lng": 137.9872589
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6599675302915,
-          "lng": 137.9886020802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-3301 長野県上水内郡小川村 大洞高原",
+      "geometry": {
+        "location": {
+          "lat": 36.6587181,
+          "lng": 137.9872589
         },
-        "southwest": {
-          "lat": 36.6572695697085,
-          "lng": 137.9859041197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65996837989272,
+            "lng": 137.9886029298927
+          },
+          "southwest": {
+            "lat": 36.65726872010728,
+            "lng": 137.9859032701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJM8jpfUzU918RL6zhJcI99Ac",
-    "plus_code": {
-      "compound_code": "MX5P+FW 日本、長野県小川村",
-      "global_code": "8Q8VMX5P+FW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "星と緑のロマン館",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114088906634269291782\">とどろきしゅうじ</a>"
+          ],
+          "photo_reference": "Aap_uEAYEkgg2x9pVZnEdasB6IsxTQyhb6gER5_55ID7p6_tWedDzchAA4H-zA_-q-kCLWVp-MCx6A4uwXCE4D_gEcZUCly0pQno88K0pye09a5h2i5n0YwiS5rrkkPJY8n7Octktcs4yJP-D_lOWpvJi7Betg3lgk4_Wf-M3L0b62fY2UTS",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJM8jpfUzU918RL6zhJcI99Ac",
+      "plus_code": {
+        "compound_code": "MX5P+FW 小川村、長野県",
+        "global_code": "8Q8VMX5P+FW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

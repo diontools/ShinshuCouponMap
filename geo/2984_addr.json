@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "清内路",
-        "short_name": "清内路",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0401",
-        "short_name": "395-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0401 長野県下伊那郡阿智村清内路",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7448122
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0401 長野県下伊那郡阿智村清内路",
+      "geometry": {
+        "location": {
+          "lat": 35.5079631,
+          "lng": 137.6947512
         },
-        "southwest": {
-          "lat": 35.4687326,
-          "lng": 137.6434622
+        "viewport": {
+          "northeast": {
+            "lat": 35.5544747,
+            "lng": 137.7448122
+          },
+          "southwest": {
+            "lat": 35.4687326,
+            "lng": 137.6434622
+          }
         }
       },
-      "location": {
-        "lat": 35.5079631,
-        "lng": 137.6947512
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7448122
-        },
-        "southwest": {
-          "lat": 35.4687326,
-          "lng": 137.6434622
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "清内路",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106861304271574131672\">永井まみ</a>"
+          ],
+          "photo_reference": "Aap_uEAgUOphrRBUW6I7jY0kfZMCVkIc9zNAEOlVPPnuQkYKuokDRHRG39E6WLDZb7CYjz9PZ2bm98UWHfbb_7q_lVzZVqFMogNBnHfEtEdZG4TVQZLXW1RnT1-ogc1ywe_BHdfTZM1vYBr-Cd8ReoKJeA25N53AP7IxVg1_4F49K7A2e2yG",
+          "width": 1920
         }
-      }
-    },
-    "place_id": "ChIJXT-_74W8HGARjdj1r_kO7BM",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJXT-_74W8HGARjdj1r_kO7BM",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

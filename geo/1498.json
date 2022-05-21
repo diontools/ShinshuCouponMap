@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７８",
-        "short_name": "１１７８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0103",
-        "short_name": "389-0103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢１１７８",
-    "geometry": {
-      "location": {
-        "lat": 36.3431957,
-        "lng": 138.6342478
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.34462143029149,
-          "lng": 138.6355992802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢１１７８",
+      "geometry": {
+        "location": {
+          "lat": 36.3431957,
+          "lng": 138.6342478
         },
-        "southwest": {
-          "lat": 36.3419234697085,
-          "lng": 138.6329013197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34462227989273,
+            "lng": 138.6356001298927
+          },
+          "southwest": {
+            "lat": 36.34192262010728,
+            "lng": 138.6329004701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVXpsenzTHWAR4ja7Cjgr9pk",
-    "plus_code": {
-      "compound_code": "8JVM+7M 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JVM+7M"
-    },
-    "types": [
-      "car_rental",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "駅レンタカー軽井沢営業所",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106511608261005972978\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAcIH2p1P466sStUhi8P0Nl64zRMTiLIXlw9RJ0MBE-POh9zro6eSJkvwpgnTi2QUcfaHBJNKQRIzmHm97A4hs15cQR0MmCYurnQXNwCx4x9uoB4V_krJdS5lToRBwK7mnA_R9yMjjrp3z09XmKHtCxCQ9HmnC3B9MpMBVruL48tb8g",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJVXpsenzTHWAR4ja7Cjgr9pk",
+      "plus_code": {
+        "compound_code": "8JVM+7M 軽井沢町、長野県",
+        "global_code": "8Q8W8JVM+7M"
+      },
+      "types": [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

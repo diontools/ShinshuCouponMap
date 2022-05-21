@@ -1,107 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "松澤店舗",
-        "short_name": "松澤店舗",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４２",
-        "short_name": "４２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央通り",
-        "short_name": "中央通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0041",
-        "short_name": "395-0041",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0041 長野県飯田市中央通り４丁目４２ 松澤店舗 1階",
-    "geometry": {
-      "location": {
-        "lat": 35.5188351,
-        "lng": 137.8216253
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.52024478029149,
-          "lng": 137.8230308802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0041 長野県飯田市中央通り４丁目４２ 松澤店舗 1階",
+      "geometry": {
+        "location": {
+          "lat": 35.5188351,
+          "lng": 137.8216253
         },
-        "southwest": {
-          "lat": 35.51754681970849,
-          "lng": 137.8203329197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.52024562989271,
+            "lng": 137.8230317298927
+          },
+          "southwest": {
+            "lat": 35.51754597010727,
+            "lng": 137.8203320701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVVUVgJqZHGARVukEtswV8Ro",
-    "plus_code": {
-      "compound_code": "GR9C+GM 長野県飯田市",
-      "global_code": "8Q7VGR9C+GM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "山内農場 飯田駅前店",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100106806084143532592\">masaki4255</a>"
+          ],
+          "photo_reference": "Aap_uEBcwO_hfWn8cQGTJy_tfmjg6Gtz1ENYDElcgj5KDaA1SYaZPnfo_nDt4XXvY8tCFY95Tgv7NJ0ys20KkGXJLMYYrJO0h9QFgSaHGeSVQqJUSrvhd6c_WgVx2KvyFMr13ofXi_WIZLCq8wcs5vJg0bZ1393rUXxIrKqJsWjsL7ipz3vX",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJVVUVgJqZHGARVukEtswV8Ro",
+      "plus_code": {
+        "compound_code": "GR9C+GM 飯田市、長野県",
+        "global_code": "8Q7VGR9C+GM"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

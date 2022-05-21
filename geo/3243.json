@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０２６−２",
-        "short_name": "４０２６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿山",
-        "short_name": "鹿山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山鹿山４０２６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.0695534,
-        "lng": 138.2526068
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.07101748029149,
-          "lng": 138.2538715802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山鹿山４０２６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0695899,
+          "lng": 138.2525907
         },
-        "southwest": {
-          "lat": 36.0683195197085,
-          "lng": 138.2511736197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07101832989272,
+            "lng": 138.2538724298927
+          },
+          "southwest": {
+            "lat": 36.06831867010728,
+            "lng": 138.2511727701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJycw_tRFOHGAR3bGZ49UM1mU",
-    "plus_code": {
-      "compound_code": "3793+R2 長野県茅野市",
-      "global_code": "8Q8W3793+R2"
-    },
-    "types": [
-      "establishment",
-      "natural_feature",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "蓼科東急スパリゾート鹿山の湯",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116179781929214780405\">Yuko Sogo</a>"
+          ],
+          "photo_reference": "Aap_uEBT73kLbjo_vfAx0cadu3JItXyjJrbd1O5YW2vVmihQQr-ZViFi77Qh07zp-_OkV56MDyWa3R41ot0CChp5ToJFr_KpGbPFxC-nMbe5_zc4t-_YzzKzq_9RPU7p7AETULhsiI-45mCRJalCSHmHfFOO2qHWoRxsHR_TtpZGvUdncvwQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJycw_tRFOHGAR3bGZ49UM1mU",
+      "plus_code": {
+        "compound_code": "3793+R2 茅野市、長野県",
+        "global_code": "8Q8W3793+R2"
+      },
+      "types": [
+        "spa",
+        "natural_feature",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

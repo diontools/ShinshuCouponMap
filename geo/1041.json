@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２００",
-        "short_name": "１２００",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2253 長野県飯山市飯山１２００",
-    "geometry": {
-      "location": {
-        "lat": 36.851608,
-        "lng": 138.362901
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8529489302915,
-          "lng": 138.3641309302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山１２００",
+      "geometry": {
+        "location": {
+          "lat": 36.851608,
+          "lng": 138.362901
         },
-        "southwest": {
-          "lat": 36.8502509697085,
-          "lng": 138.3614329697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85294977989273,
+            "lng": 138.3641317798927
+          },
+          "southwest": {
+            "lat": 36.85025012010728,
+            "lng": 138.3614321201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJSToSKi8Z9l8R7LG_wNBM_6w",
-    "plus_code": {
-      "compound_code": "V927+J5 日本、長野県飯山市",
-      "global_code": "8Q8WV927+J5"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処幸輪",
+      "photos": [
+        {
+          "height": 700,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100847172567326529574\">そば処幸輪</a>"
+          ],
+          "photo_reference": "Aap_uECtWJvRPJSzikt7M8SYj6VJEMQ3AsRSth0M8zZmY-UkhS_1rCfKlNlywKFWHwR-BxdJKCSKtU3TFAnVksv1bdHJ9kjI68mUxe0joK8BuJbo_lY451o5sn1FebTIT09hp32XlGu22PBV_YP4WdmFkN-IexUuyLL-7QiPmRcxjIZ6heTH",
+          "width": 1242
+        }
+      ],
+      "place_id": "ChIJSToSKi8Z9l8R7LG_wNBM_6w",
+      "plus_code": {
+        "compound_code": "V927+J5 飯山市、長野県",
+        "global_code": "8Q8WV927+J5"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

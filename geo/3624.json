@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５００−１",
-        "short_name": "２５００−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "龍江",
-        "short_name": "龍江",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2221",
-        "short_name": "399-2221",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2221 長野県飯田市龍江２５００−１",
-    "geometry": {
-      "location": {
-        "lat": 35.4597264,
-        "lng": 137.828791
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4610374302915,
-          "lng": 137.8301087802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2221 長野県飯田市龍江２５００−１",
+      "geometry": {
+        "location": {
+          "lat": 35.45970070000001,
+          "lng": 137.8287659
         },
-        "southwest": {
-          "lat": 35.4583394697085,
-          "lng": 137.8274108197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.46103827989272,
+            "lng": 137.8301096298927
+          },
+          "southwest": {
+            "lat": 35.45833862010728,
+            "lng": 137.8274099701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJT30jJLGeHGARbzmBPFll3jk",
-    "plus_code": {
-      "compound_code": "FR5H+VG 長野県飯田市",
-      "global_code": "8Q7VFR5H+VG"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "天竜川ラフティング ランナバウト",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104735663747274196035\">天竜川ラフティング ランナバウト</a>"
+          ],
+          "photo_reference": "Aap_uECNYmZ_GILJfGcALprzt1cJakrDN9yer6FjD3vz8Hk_yjGi5CkrUTnBVH7gujDPsvMG-F4dHBomcBsZCmlQYuYL77FRqXNR48VA3xAzKipTkr8YZZ0Ixjc_zHzcAGdVhZ1qRklegvlYJKTPLWKX-atNp46PuYvlBe0IiJGBV_5EeD8Y",
+          "width": 584
+        }
+      ],
+      "place_id": "ChIJT30jJLGeHGARbzmBPFll3jk",
+      "plus_code": {
+        "compound_code": "FR5H+VG 飯田市、長野県",
+        "global_code": "8Q7VFR5H+VG"
+      },
+      "types": [
+        "tourist_attraction",
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

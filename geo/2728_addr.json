@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３４６−１",
-        "short_name": "６３４６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城６３４６−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6962022,
-          "lng": 137.8636218
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城６３４６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6961087,
+          "lng": 137.8635468
         },
-        "southwest": {
-          "lat": 36.6960178,
-          "lng": 137.8634304
+        "viewport": {
+          "northeast": {
+            "lat": 36.69745347989272,
+            "lng": 137.8649351798927
+          },
+          "southwest": {
+            "lat": 36.69475382010727,
+            "lng": 137.8622355201072
+          }
         }
       },
-      "location": {
-        "lat": 36.6961087,
-        "lng": 137.8635467
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6974589802915,
-          "lng": 137.8648761302915
-        },
-        "southwest": {
-          "lat": 36.6947610197085,
-          "lng": 137.8621781697085
-        }
-      }
-    },
-    "place_id": "ChIJU-CfdATS918R3hXAw8mlk00",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-9301 長野県北安曇郡白馬村北城６３４６−１",
+      "place_id": "ChIJU-CfdATS918R3hXAw8mlk00",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

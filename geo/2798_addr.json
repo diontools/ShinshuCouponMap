@@ -1,111 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４６４４",
-        "short_name": "４６４４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻４６４４−７",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5665193,
-          "lng": 137.668907
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻４６４４−７",
+      "geometry": {
+        "location": {
+          "lat": 35.5663731,
+          "lng": 137.6686859
         },
-        "southwest": {
-          "lat": 35.5662367,
-          "lng": 137.668456
+        "viewport": {
+          "northeast": {
+            "lat": 35.56765657989273,
+            "lng": 137.6700810798927
+          },
+          "southwest": {
+            "lat": 35.56495692010728,
+            "lng": 137.6673814201073
+          }
         }
       },
-      "location": {
-        "lat": 35.5663731,
-        "lng": 137.6686859
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5677269802915,
-          "lng": 137.6700304802915
-        },
-        "southwest": {
-          "lat": 35.5650290197085,
-          "lng": 137.6673325197085
-        }
-      }
-    },
-    "place_id": "ChIJsR2VXjy5HGARRzgmYrxtZlY",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-5302 長野県木曽郡南木曽町吾妻４６４４−７",
+      "place_id": "ChIJsR2VXjy5HGARRzgmYrxtZlY",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山形村",
-        "short_name": "山形村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東筑摩郡",
-        "short_name": "東筑摩郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1301",
-        "short_name": "390-1301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1301 長野県東筑摩郡山形村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1902664,
-          "lng": 137.901797
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1394 長野県東筑摩郡山形村 ７９７７",
+      "geometry": {
+        "location": {
+          "lat": 36.1844122,
+          "lng": 137.8926326
         },
-        "southwest": {
-          "lat": 36.133982,
-          "lng": 137.8108306
+        "viewport": {
+          "northeast": {
+            "lat": 36.18580660000001,
+            "lng": 137.8936493298927
+          },
+          "southwest": {
+            "lat": 36.18228020000001,
+            "lng": 137.8909496701073
+          }
         }
       },
-      "location": {
-        "lat": 36.1680917,
-        "lng": 137.878912
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1902664,
-          "lng": 137.901797
-        },
-        "southwest": {
-          "lat": 36.133982,
-          "lng": 137.8108306
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "アイシティ21",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112510959185728157500\">不来えんび</a>"
+          ],
+          "photo_reference": "Aap_uEAUq75VKpZAHLwphqIG4Ih5Mr4BH32gnEOH_9HlLijafarZbeOhyiifYXn1chUXJdzhtkEsc1rqM7M4Mf0TER9Rv1cUgldWZUTakBBs9CtemNzxhX8xQCjdYZOgtnweLTlIQBFWgsQY_Y3AWjxS_WlEmJwxmmCCvmK3vF4X7IBqMpGg",
+          "width": 4032
         }
-      }
+      ],
+      "place_id": "ChIJzdKUzbERHWARykX9pQ3i7Bc",
+      "plus_code": {
+        "compound_code": "5VMV+Q3 山形村、長野県",
+        "global_code": "8Q8V5VMV+Q3"
+      },
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJk9BHoNgQHWARnRDTgWjw7as",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1301 長野県東筑摩郡山形村７９７７",
+      "geometry": {
+        "location": {
+          "lat": 36.1837326,
+          "lng": 137.892108
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.18517647989272,
+            "lng": 137.8932590298927
+          },
+          "southwest": {
+            "lat": 36.18247682010728,
+            "lng": 137.8905593701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+      "name": "アイシティシネマ",
+      "photos": [
+        {
+          "height": 1352,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">toro mochi</a>"
+          ],
+          "photo_reference": "Aap_uEDVmc6_1ZuoQ05WjcGpCkDIkff_cyagF06EqQCklJ2c8cMFnYpuVAOGRk_zme9DP9ufliO9BtQRllBpbLzIK-sdXmTOCJWqehmFsZdfi570Odn-8sBE7pdigpXPxUWhedayomDFvYjtolXIMG0xdQwnqdjQsxTurmT7NNVhNWTTJilF",
+          "width": 1728
+        }
+      ],
+      "place_id": "ChIJb73q17ERHWARuavd1LTX2nM",
+      "plus_code": {
+        "compound_code": "5VMR+FR 山形村、長野県",
+        "global_code": "8Q8V5VMR+FR"
+      },
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

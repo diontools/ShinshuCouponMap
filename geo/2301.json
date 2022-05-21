@@ -1,76 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "島立",
-        "short_name": "島立",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0852",
-        "short_name": "390-0852",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0852 長野県松本市島立",
-    "geometry": {
-      "location": {
-        "lat": 36.2319611,
-        "lng": 137.9453992
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2332633802915,
-          "lng": 137.9467589302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0852 長野県松本市島立",
+      "geometry": {
+        "location": {
+          "lat": 36.2318845,
+          "lng": 137.9454155
         },
-        "southwest": {
-          "lat": 36.2305654197085,
-          "lng": 137.9440609697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23326422989272,
+            "lng": 137.9467597798927
+          },
+          "southwest": {
+            "lat": 36.23056457010727,
+            "lng": 137.9440601201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJeUM8C3QOHWAR1_ZTnzu0ACw",
-    "plus_code": {
-      "compound_code": "6WJW+Q5 日本、長野県松本市",
-      "global_code": "8Q8V6WJW+Q5"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "榑木野 別館",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115066706955903666654\">薮田智</a>"
+          ],
+          "photo_reference": "Aap_uEDv9uNSKEojY3JRSIVWG-s4_rrp2xMPida0cng6_EBrbeRk1c1J_PIMdW2fefIsn5kAqEzIiTd9ZdCgG3mMIHKPr1cVR-c6B6jF-TpbR1wYmEfiWMjjne3djBMAh5fL1EDiFdkn0Yhzo-eUeSAl-nCEBKojml35hTVD432Q-PI7ebhA",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJeUM8C3QOHWAR1_ZTnzu0ACw",
+      "plus_code": {
+        "compound_code": "6WJW+Q5 松本市、長野県",
+        "global_code": "8Q8V6WJW+Q5"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,101 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "高天ヶ原",
-        "short_name": "高天ヶ原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "志賀高原",
-        "short_name": "志賀高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町志賀高原高天ヶ原",
-    "geometry": {
-      "location": {
-        "lat": 36.7303375,
-        "lng": 138.5059476
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7315128302915,
-          "lng": 138.5074744802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町志賀高原高天ヶ原",
+      "geometry": {
+        "location": {
+          "lat": 36.7303375,
+          "lng": 138.5059476
         },
-        "southwest": {
-          "lat": 36.7288148697085,
-          "lng": 138.5047765197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73151367989272,
+            "lng": 138.5074753298927
+          },
+          "southwest": {
+            "lat": 36.72881402010728,
+            "lng": 138.5047756701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJqe9Ovcb0HWARQf8WCOiv94w",
-    "plus_code": {
-      "compound_code": "PGJ4+49 日本、長野県山ノ内町",
-      "global_code": "8Q8WPGJ4+49"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "志賀パークホテル",
+      "photos": [
+        {
+          "height": 2688,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104250861961041156902\">英昭 飯名</a>"
+          ],
+          "photo_reference": "Aap_uEDFP_vJX5ISVmBZ7yZsfrHIMjFsuzvtL9llqje5kLXrU9t2NlUQGVEbZXw_ahCiszhUwGwYJxHE9jqcFeooFIMbTh_0DX9tw2J4iEaZ0O_llvOdRqrPvCLSjhPR-dFFIC_YliKrUdaMnzGJMxR93LINdKN5qd9KWS240VHrA55_AMNm",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJqe9Ovcb0HWARQf8WCOiv94w",
+      "plus_code": {
+        "compound_code": "PGJ4+49 山ノ内町、長野県",
+        "global_code": "8Q8WPGJ4+49"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

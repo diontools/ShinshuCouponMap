@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６０７",
-        "short_name": "１６０７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "木曽平沢",
-        "short_name": "木曽平沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6302",
-        "short_name": "399-6302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6302 長野県塩尻市木曽平沢１６０７",
-    "geometry": {
-      "location": {
-        "lat": 35.980594,
-        "lng": 137.832551
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9819072802915,
-          "lng": 137.8339657802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6302 長野県塩尻市木曽平沢１６０７",
+      "geometry": {
+        "location": {
+          "lat": 35.9805649,
+          "lng": 137.8325927
         },
-        "southwest": {
-          "lat": 35.9792093197085,
-          "lng": 137.8312678197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.98190812989272,
+            "lng": 137.8339666298927
+          },
+          "southwest": {
+            "lat": 35.97920847010728,
+            "lng": 137.8312669701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKwvYsxoeHWARS7QoMWUBNjI",
-    "plus_code": {
-      "compound_code": "XRJM+62 日本、長野県塩尻市",
-      "global_code": "8Q7VXRJM+62"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "伊藤寛司商店",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110066587000539849505\">将軍桜ん坊</a>"
+          ],
+          "photo_reference": "Aap_uEB_0H2MqvkTsp2aIxBqenJSaz7v1kH9lFm-3sXiFaJAGwE19uJuoCQOY4PQ_hol67M2SY3zFaqsrV0kjYyFPtddiVVduS2jizeZoqjGwpbvJ3ZOjP99zrD0KlYEliskUFHTffC1MIHcrkKjJ_U-oQJ7aVnSYgdjHkYUCxguavrGknlE",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJKwvYsxoeHWARS7QoMWUBNjI",
+      "plus_code": {
+        "compound_code": "XRJM+62 塩尻市、長野県",
+        "global_code": "8Q7VXRJM+62"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

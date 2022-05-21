@@ -9,7 +9,7 @@ pip install geopy
 ```
 
 ## APIキー
-Google Geocoding API のAPIキーを apikey.json に書き込む。
+Google Places API のAPIキーを apikey.json に書き込む。
 
 ```json
 "<API-KEY>"

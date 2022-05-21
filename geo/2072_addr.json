@@ -1,101 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2311847,
-        "lng": 137.9647612
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2324263302915,
-          "lng": 137.9662906302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2313167,
+          "lng": 137.9644172
         },
-        "southwest": {
-          "lat": 36.2297283697085,
-          "lng": 137.9635926697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23282897989272,
+            "lng": 137.9659441298927
+          },
+          "southwest": {
+            "lat": 36.23012932010727,
+            "lng": 137.9632444701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJu9f02IsOHWAR9orTRYDysb8",
-    "plus_code": {
-      "compound_code": "6XJ7+FW 長野県松本市",
-      "global_code": "8Q8V6XJ7+FW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "MIDORI 松本 (ミドリ松本)",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">nori baba</a>"
+          ],
+          "photo_reference": "Aap_uEC4fUevDJFQ3zuO-bo0sNcmeEZ2E41-2O6NEyH_1SpbnITcIhKSYGAwp9_FTBZmQhJYVzM-zUHMlfHqnP7iVG5fUBrEGlWC-IH_IGm7svlx5qI9VjSQ21V4ttCSUbwLriHvWnuYDVHUtWs5ydBBXUUi3DqGETkiiU5ngJHugaqe0viR",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJR6aZYokOHWARl_oizGpDc2g",
+      "plus_code": {
+        "compound_code": "6XJ7+GQ 松本市、長野県",
+        "global_code": "8Q8V6XJ7+GQ"
+      },
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

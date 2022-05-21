@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３７７７−３",
-        "short_name": "３７７７−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "乙事",
-        "short_name": "乙事",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0213",
-        "short_name": "399-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0213 長野県諏訪郡富士見町乙事３７７７−３",
-    "geometry": {
-      "location": {
-        "lat": 35.91924030000001,
-        "lng": 138.2824081
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9206819802915,
-          "lng": 138.2836704302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0213 長野県諏訪郡富士見町乙事３７７７−３",
+      "geometry": {
+        "location": {
+          "lat": 35.91924030000001,
+          "lng": 138.2824081
         },
-        "southwest": {
-          "lat": 35.9179840197085,
-          "lng": 138.2809724697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.92068282989272,
+            "lng": 138.2836712798927
+          },
+          "southwest": {
+            "lat": 35.91798317010727,
+            "lng": 138.2809716201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJaHD46hDHGAR6SXdlBrQfWw",
-    "plus_code": {
-      "compound_code": "W79J+MX 長野県富士見町",
-      "global_code": "8Q7WW79J+MX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処 おっこと亭",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110813319141191133774\">牛島直樹</a>"
+          ],
+          "photo_reference": "Aap_uEDf6ysIvpkBcdtEi-hWH1bCS7p5u-R-W7Kh0Ma0n5QJea1jPaw6juxHQs4Tr3rBck7lp_Pe5fJPU9kWTXwSiaDEcPt51odlXl4oyxpZPL3VUoCfjIw3BZUGXgVKo7VZ-s_kf0xBcO24BXZGXwDrIk6MxiBcPRYTsgcIkgG9UrvblW1E",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJaHD46hDHGAR6SXdlBrQfWw",
+      "plus_code": {
+        "compound_code": "W79J+MX 富士見町、長野県",
+        "global_code": "8Q7WW79J+MX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

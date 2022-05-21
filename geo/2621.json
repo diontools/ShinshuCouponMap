@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０１６０",
-        "short_name": "１０１６０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１０１６０",
-    "geometry": {
-      "location": {
-        "lat": 36.712557,
-        "lng": 137.8643984
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7139094302915,
-          "lng": 137.8657518302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１０１６０",
+      "geometry": {
+        "location": {
+          "lat": 36.712557,
+          "lng": 137.8643984
         },
-        "southwest": {
-          "lat": 36.7112114697085,
-          "lng": 137.8630538697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71391027989272,
+            "lng": 137.8657526798927
+          },
+          "southwest": {
+            "lat": 36.71121062010727,
+            "lng": 137.8630530201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxZI5QZLN918RanXkSf0n-MA",
-    "plus_code": {
-      "compound_code": "PV77+2Q 長野県白馬村",
-      "global_code": "8Q8VPV77+2Q"
-    },
-    "types": [
-      "art_gallery",
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "まるしち Gallery&Shop",
+      "photos": [
+        {
+          "height": 1968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118290849874110209016\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAr_t5rh61FGuhST1CWNo6101m9HLnbGdh6EpzlWsbW5LDYFFYqyL3FdUlg5z7adqgUZROwVHI6ayyddyzYgcLzxUmqvdDwmv4WXGYVsbk2osIJkhtG2_TdU2rS3wbXJ4-1S9n4eCB2udyvP-hTF4h3Z8Q8b9RyfBvWnrq6-UC63kS7",
+          "width": 3497
+        }
+      ],
+      "place_id": "ChIJxZI5QZLN918RanXkSf0n-MA",
+      "plus_code": {
+        "compound_code": "PV77+2Q 白馬村、長野県",
+        "global_code": "8Q8VPV77+2Q"
+      },
+      "types": [
+        "art_gallery",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８",
-        "short_name": "２８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "沖田町",
-        "short_name": "沖田町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0013",
-        "short_name": "392-0013",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町５丁目２８",
-    "geometry": {
-      "location": {
-        "lat": 36.0060374,
-        "lng": 138.1300192
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.00728858029149,
-          "lng": 138.1312612802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町５丁目２８",
+      "geometry": {
+        "location": {
+          "lat": 36.0060634,
+          "lng": 138.1300027
         },
-        "southwest": {
-          "lat": 36.0045906197085,
-          "lng": 138.1285633197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00728942989272,
+            "lng": 138.1312621298927
+          },
+          "southwest": {
+            "lat": 36.00458977010727,
+            "lng": 138.1285624701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJT1gECvJWHGARBNIGgmbyGvw",
-    "plus_code": {
-      "compound_code": "244J+C2 日本、長野県諏訪市",
-      "global_code": "8Q8W244J+C2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "三夢 諏訪ステーションパーク店",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114248509540830931116\">miya y</a>"
+          ],
+          "photo_reference": "Aap_uECddWIu0tW5wDKgm0p1Uy_DDflmhTn08_xqvBiELRfLMc6C9sGHWM3ZX8mUdXqiEbNdHnv0g_CbK4kYrDnVqOFMkAcgse-X0rAJo9oHVxZxrfDFbZm7nhn4q4KPGO1q5dv-AyheVc-zTl4JblsOXvGUT_JXMvSwPOhVs2zVCLalLoEh",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJT1gECvJWHGARBNIGgmbyGvw",
+      "plus_code": {
+        "compound_code": "244J+C2 諏訪市、長野県",
+        "global_code": "8Q8W244J+C2"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６７３３−１",
-        "short_name": "６７３３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "和",
-        "short_name": "和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0505",
-        "short_name": "389-0505",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0505 長野県東御市和６７３３−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3986035,
-        "lng": 138.3533967
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.40001923029151,
-          "lng": 138.3550644802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0505 長野県東御市和６７３３−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3986035,
+          "lng": 138.3533967
         },
-        "southwest": {
-          "lat": 36.39732126970851,
-          "lng": 138.3523665197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.40002007989272,
+            "lng": 138.3550653298927
+          },
+          "southwest": {
+            "lat": 36.39732042010728,
+            "lng": 138.3523656701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJo4DpIiS5HWARh_mPYB2y1zQ",
-    "plus_code": {
-      "compound_code": "99X3+C9 長野県東御市",
-      "global_code": "8Q8W99X3+C9"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0505 長野県東御市和６７３３−１",
+      "place_id": "ChIJo4DpIiS5HWARh_mPYB2y1zQ",
+      "plus_code": {
+        "compound_code": "99X3+C9 東御市、長野県",
+        "global_code": "8Q8W99X3+C9"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

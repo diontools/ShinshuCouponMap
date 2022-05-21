@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７４２５",
-        "short_name": "７４２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "常盤",
-        "short_name": "常盤",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2414",
-        "short_name": "389-2414",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2414 長野県飯山市常盤７４２５",
-    "geometry": {
-      "location": {
-        "lat": 36.8818835,
-        "lng": 138.3878533
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8831795302915,
-          "lng": 138.3892576802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2414 長野県飯山市常盤７４２５",
+      "geometry": {
+        "location": {
+          "lat": 36.8818835,
+          "lng": 138.3878533
         },
-        "southwest": {
-          "lat": 36.8804815697085,
-          "lng": 138.3865597197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.88318037989272,
+            "lng": 138.3892585298927
+          },
+          "southwest": {
+            "lat": 36.88048072010728,
+            "lng": 138.3865588701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ9_h7S8Ub9l8RMMqoJhtRARY",
-    "plus_code": {
-      "compound_code": "V9JQ+Q4 長野県飯山市",
-      "global_code": "8Q8WV9JQ+Q4"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2414 長野県飯山市常盤７４２５",
+      "place_id": "ChIJ9_h7S8Ub9l8RMMqoJhtRARY",
+      "plus_code": {
+        "compound_code": "V9JQ+Q4 飯山市、長野県",
+        "global_code": "8Q8WV9JQ+Q4"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

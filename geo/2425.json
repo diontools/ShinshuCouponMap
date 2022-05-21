@@ -1,95 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８２２",
-        "short_name": "２８２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町温泉郷",
-        "short_name": "大町温泉郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平大町温泉郷２８２２",
-    "geometry": {
-      "location": {
-        "lat": 36.5282657,
-        "lng": 137.8115409
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5295494302915,
-          "lng": 137.8131394302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平大町温泉郷２８２２",
+      "geometry": {
+        "location": {
+          "lat": 36.5282657,
+          "lng": 137.8115409
         },
-        "southwest": {
-          "lat": 36.5268514697085,
-          "lng": 137.8104414697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.52955027989272,
+            "lng": 137.8131402798927
+          },
+          "southwest": {
+            "lat": 36.52685062010728,
+            "lng": 137.8104406201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9RBWN9BhHWARgnMU3gDnrCE",
-    "plus_code": {
-      "compound_code": "GRH6+8J 日本、長野県大町市",
-      "global_code": "8Q8VGRH6+8J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant",
-      "spa",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "黒部観光ホテル",
+      "photos": [
+        {
+          "height": 3432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100297443925924603628\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECc2RjfwvIE9_BkFq45ROKOiGoU-RXIhARAC9ON6q2-IRnMINemZu-Tq9lZsiRennxRKUGZp-ZTBjBqNQ7BFDxn9mn1SGo1LthzU-46ndEwlEBtyI5MGmcxehtb26VRUyviSYUGAnLTLAtGUco-hHJaHF58f1TcTmiUSsiOml3dBkUB",
+          "width": 5148
+        }
+      ],
+      "place_id": "ChIJ9RBWN9BhHWARgnMU3gDnrCE",
+      "plus_code": {
+        "compound_code": "GRH6+8J 大町市、長野県",
+        "global_code": "8Q8VGRH6+8J"
+      },
+      "types": [
+        "lodging",
+        "spa",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

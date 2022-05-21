@@ -1,85 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６２１０−１",
-        "short_name": "６２１０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "松代町豊栄",
-        "short_name": "松代町豊栄",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-1222",
-        "short_name": "381-1222",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-1222 長野県長野市松代町豊栄６２１０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.5514221,
-        "lng": 138.2136522
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.55297248029149,
-          "lng": 138.2144547802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-1222 長野県長野市松代町豊栄６２１０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.5514221,
+          "lng": 138.2136522
         },
-        "southwest": {
-          "lat": 36.5502745197085,
-          "lng": 138.2117568197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.55297332989273,
+            "lng": 138.2144556298927
+          },
+          "southwest": {
+            "lat": 36.55027367010728,
+            "lng": 138.2117559701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtRPKw8OaHWARa8go1EflFvA",
-    "plus_code": {
-      "compound_code": "H627+HF 日本、長野県長野市",
-      "global_code": "8Q8WH627+HF"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "コトリの湯",
+      "photos": [
+        {
+          "height": 3337,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104714210686858792913\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC0y4O5EWoidmL1v3oSsATXd6EleZl5Wc9AnU1WCmJZVGwKg0YNk7OBecCf2sbTqw3ty1aiinAO9QKxgijYVDCZheslG8xu8pWYwVViB6r9K_l_XzR6lxnaOQjlAMr_OAr_LJkKVzbbfadP4FGQFDp0_XF9oya5Ft4zwQYWY-_L1s1a",
+          "width": 5000
+        }
+      ],
+      "place_id": "ChIJtRPKw8OaHWARa8go1EflFvA",
+      "plus_code": {
+        "compound_code": "H627+HF 長野市、長野県",
+        "global_code": "8Q8WH627+HF"
+      },
+      "types": [
+        "cafe",
+        "spa",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４２４−１４",
-        "short_name": "２４２４−１４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "古町",
-        "short_name": "古町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長和町",
-        "short_name": "長和町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0603",
-        "short_name": "386-0603",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0603 長野県小県郡長和町古町２４２４−１４",
-    "geometry": {
-      "location": {
-        "lat": 36.274123,
-        "lng": 138.2577148
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2755673302915,
-          "lng": 138.2590481302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0603 長野県小県郡長和町古町２４２４−１４",
+      "geometry": {
+        "location": {
+          "lat": 36.274123,
+          "lng": 138.2577148
         },
-        "southwest": {
-          "lat": 36.2728693697085,
-          "lng": 138.2563501697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27556817989272,
+            "lng": 138.2590489798928
+          },
+          "southwest": {
+            "lat": 36.27286852010727,
+            "lng": 138.2563493201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_XVm7jiwHWAR9UkcD0gm_D8",
-    "plus_code": {
-      "compound_code": "77F5+J3 日本、長野県長和町",
-      "global_code": "8Q8W77F5+J3"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "おみやげ処 菜の花館",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117836461771066721818\">tool8441</a>"
+          ],
+          "photo_reference": "Aap_uECJoJcN2rlen3Vob6lA5JDt3vwmNBRBL1BgnvqxvDwcQ8dzelm3da5etnFQmFf27d64ICPAxNy9GAWBOdt-y7t2eyMc5LM9CAg4hhM_0Ztfh5nEYKIc7IkMygO2gEsaspThmFdJ5WlHnbMnlJxrifB335OoMpzD-brADlm1_rW41d8B",
+          "width": 3888
+        }
+      ],
+      "place_id": "ChIJ_XVm7jiwHWAR9UkcD0gm_D8",
+      "plus_code": {
+        "compound_code": "77F5+J3 長和町、長野県",
+        "global_code": "8Q8W77F5+J3"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

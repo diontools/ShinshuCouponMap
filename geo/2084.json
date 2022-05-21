@@ -1,102 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５１",
-        "short_name": "５１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央４丁目９−５１",
-    "geometry": {
-      "location": {
-        "lat": 36.2331424,
-        "lng": 137.9781402
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2344319802915,
-          "lng": 137.9793990302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目３−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.229843,
+          "lng": 137.9671548
         },
-        "southwest": {
-          "lat": 36.2317340197085,
-          "lng": 137.9767010697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23122867989272,
+            "lng": 137.9685825298927
+          },
+          "southwest": {
+            "lat": 36.22852902010728,
+            "lng": 137.9658828701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7TXXKOsOHWARWbr0y5gzEQA",
-    "plus_code": {
-      "compound_code": "6XMH+77 日本、長野県松本市",
-      "global_code": "8Q8V6XMH+77"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "クワトロクオーレ",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102278510087255059026\">LANA KICHI</a>"
+          ],
+          "photo_reference": "Aap_uECvrzF-ELi-F0QUHJQwSNG3fAxUcns86u6SESiTPd6F8djpmm0VTeD74jOLx5RE-vMu1uC5VyPHGqP_dmLx_XVOvQuIKfI25qVT79St8DFCJ6FqSTXSsZFg23SEwmBzzgx7_eR8emElEmv_ZszyvRy0QoKTXd9x0Ub4Tb9r3IYY_wM",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJw6urtgIPHWARR5uSIv3LpjY",
+      "plus_code": {
+        "compound_code": "6XH8+WV 松本市、長野県",
+        "global_code": "8Q8V6XH8+WV"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

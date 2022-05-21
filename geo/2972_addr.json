@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本町",
-        "short_name": "本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0028",
-        "short_name": "394-0028",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0028 長野県岡谷市本町４丁目１０−４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0646415,
-          "lng": 138.04781
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒394-0028 長野県岡谷市本町４丁目１０−４",
+      "geometry": {
+        "location": {
+          "lat": 36.0645634,
+          "lng": 138.0477451
         },
-        "southwest": {
-          "lat": 36.0644841,
-          "lng": 138.0476597
+        "viewport": {
+          "northeast": {
+            "lat": 36.06600082989272,
+            "lng": 138.0490444298927
+          },
+          "southwest": {
+            "lat": 36.06330117010727,
+            "lng": 138.0463447701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0645634,
-        "lng": 138.0477451
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0659603302915,
-          "lng": 138.0490760302915
-        },
-        "southwest": {
-          "lat": 36.0632623697085,
-          "lng": 138.0463780697085
-        }
-      }
-    },
-    "place_id": "ChIJB74VKtb_HGARGSadje0f9lk",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒394-0028 長野県岡谷市本町４丁目１０−４",
+      "place_id": "ChIJB74VKtb_HGARGSadje0f9lk",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

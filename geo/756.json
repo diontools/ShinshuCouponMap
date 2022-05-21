@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３００−１",
-        "short_name": "３００−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "信州新町日原西",
-        "short_name": "信州新町日原西",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2423",
-        "short_name": "381-2423",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2423 長野県長野市信州新町日原西３００−１",
-    "geometry": {
-      "location": {
-        "lat": 36.53001,
-        "lng": 137.959484
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5314341302915,
-          "lng": 137.9607061302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-2423 長野県長野市信州新町日原西３００−１",
+      "geometry": {
+        "location": {
+          "lat": 36.53001,
+          "lng": 137.959484
         },
-        "southwest": {
-          "lat": 36.5287361697085,
-          "lng": 137.9580081697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53143497989272,
+            "lng": 137.9607069798928
+          },
+          "southwest": {
+            "lat": 36.52873532010728,
+            "lng": 137.9580073201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJA81gSIB8HWAR7Z-8jjNG9-I",
-    "plus_code": {
-      "compound_code": "GXJ5+2Q 日本、長野県長野市",
-      "global_code": "8Q8VGXJ5+2Q"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "信州不動温泉旅館 さぎり荘",
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104344597852307310725\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAI6QPuTLIGgWh7JdN_64eAaZkl4aDBlbaVxdUcO-Ox9DtMEymQgxaiMEU-gOh9VMO5Uyz8Cg1HhGFBT3NVvlwuJdvoZngCg9ViQnAx5eYTb08P3kY586HV4FEP0qWQbPOej9kwVHyI_1uD0Tn9VvTT0awbijm6_9x6usy3XTbY9Vbm",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJA81gSIB8HWAR7Z-8jjNG9-I",
+      "plus_code": {
+        "compound_code": "GXJ5+2Q 長野市、長野県",
+        "global_code": "8Q8VGXJ5+2Q"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

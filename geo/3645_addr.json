@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８８−９",
-        "short_name": "４８８−９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "山本",
-        "short_name": "山本",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0244",
-        "short_name": "395-0244",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0244 長野県飯田市山本４８８−９",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.481913,
-          "lng": 137.7660576
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0244 長野県飯田市山本４８８−９",
+      "geometry": {
+        "location": {
+          "lat": 35.4818357,
+          "lng": 137.7659721
         },
-        "southwest": {
-          "lat": 35.481781,
-          "lng": 137.7658753
+        "viewport": {
+          "northeast": {
+            "lat": 35.48318247989272,
+            "lng": 137.7672375798927
+          },
+          "southwest": {
+            "lat": 35.48048282010728,
+            "lng": 137.7645379201072
+          }
         }
       },
-      "location": {
-        "lat": 35.4818357,
-        "lng": 137.7659721
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4831959802915,
-          "lng": 137.7672794802915
-        },
-        "southwest": {
-          "lat": 35.4804980197085,
-          "lng": 137.7645815197085
-        }
-      }
-    },
-    "place_id": "ChIJUVcU_HiYHGARkelpx0de8yk",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒395-0244 長野県飯田市山本４８８−９",
+      "place_id": "ChIJUVcU_HiYHGARkelpx0de8yk",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

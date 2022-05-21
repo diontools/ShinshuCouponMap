@@ -1,82 +1,88 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６７０−１",
-        "short_name": "６７０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "下平",
-        "short_name": "下平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4101",
-        "short_name": "399-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4101 長野県駒ヶ根市下平６７０−１",
-    "geometry": {
-      "location": {
-        "lat": 35.729012,
-        "lng": 137.952414
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7304144802915,
-          "lng": 137.9538211802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4101 長野県駒ヶ根市下平６７０−１",
+      "geometry": {
+        "location": {
+          "lat": 35.7290581,
+          "lng": 137.9524721
         },
-        "southwest": {
-          "lat": 35.7277165197085,
-          "lng": 137.9511232197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.73041532989273,
+            "lng": 137.9538220298927
+          },
+          "southwest": {
+            "lat": 35.72771567010728,
+            "lng": 137.9511223701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "こまくさ観光",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101363245716796763141\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDgy_focHhw8tLexQ4jqeOCUQR8UsYmaZ2Jj2jrQ_HciYeH2iURH3yQOoIHxj4kdEO1Fcap3N58LXK_Hws90e8AcRVoRUXcM4N9xURFBWLRrvIPpoYY4RSv4-rWwfqgzGW8B7Y_W8qvoWzyUn9P_tWr9ccHm7eKXxAub8CsgeSRR6hF",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJCdZdMy6NHGARzU2wO0_zWZs",
+      "plus_code": {
+        "compound_code": "PXH2+JX 駒ヶ根市、長野県",
+        "global_code": "8Q7VPXH2+JX"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJCdZdMy6NHGARzU2wO0_zWZs",
-    "plus_code": {
-      "compound_code": "PXH2+JX 長野県駒ヶ根市",
-      "global_code": "8Q7VPXH2+JX"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂 北割一区７５９−６",
+      "geometry": {
+        "location": {
+          "lat": 35.7452836,
+          "lng": 137.8927093
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.74708357989272,
+            "lng": 137.8937658798927
+          },
+          "southwest": {
+            "lat": 35.74438392010728,
+            "lng": 137.8910662201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "こまくさ橋",
+      "photos": [
+        {
+          "height": 1155,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108788728432956521823\">say siraisi</a>"
+          ],
+          "photo_reference": "Aap_uEBYbPzKDE_R4cQ3u-_bGxF9Qac0IvNKC8dEfWoWUtmGTCP0ykeouU078_dQUArOjAi2xlJink5W-BGLgTI8FcLnThweWWKz74xaxo86dxhDa6GpO2wcM8BKyCxC3jJxpCFVAs0yV_VyZ7FkoeaD0pzDd9hb-fPPo6h1RkNUp4cW3DD1",
+          "width": 1731
+        }
+      ],
+      "place_id": "ChIJ36NXaiDtHGAR5xrcJtqFlqc",
+      "plus_code": {
+        "compound_code": "PVWV+43 駒ヶ根市、長野県",
+        "global_code": "8Q7VPVWV+43"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

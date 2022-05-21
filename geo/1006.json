@@ -1,77 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "静間",
-        "short_name": "静間",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2255",
-        "short_name": "389-2255",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2255 長野県飯山市静間 字久根下1978 45.モンテローザ飯山ビル 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.8320261,
-        "lng": 138.3554439
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8333333302915,
-          "lng": 138.3569038802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2255 長野県飯山市静間 字久根下1978 45.モンテローザ飯山ビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.8320261,
+          "lng": 138.3554439
         },
-        "southwest": {
-          "lat": 36.8306353697085,
-          "lng": 138.3542059197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.83333417989272,
+            "lng": 138.3569047298927
+          },
+          "southwest": {
+            "lat": 36.83063452010727,
+            "lng": 138.3542050701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6quETgf9l8RAc60GzN6G5w",
-    "plus_code": {
-      "compound_code": "R9J4+R5 日本、長野県飯山市",
-      "global_code": "8Q8WR9J4+R5"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "魚民 飯山店",
+      "photos": [
+        {
+          "height": 1040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109024172324207506977\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAkIJ0Z52GuT89PJYsv7Ww2izwbiVA8SXCW_4L7fLJaosf9P8iYESumwQrmCRPAOUh5Ghscxghh2pfPtOralfMO5ZWX7rS8Kk2KbhmJ1-xHxdLfK-5gRXZPAcPIp1YPuPL6QGcjQ_8VzkD9nVxFG1dvOo0XmZcN1q1eGypNRbW_b7TK",
+          "width": 1040
+        }
+      ],
+      "place_id": "ChIJq6quETgf9l8RAc60GzN6G5w",
+      "plus_code": {
+        "compound_code": "R9J4+R5 飯山市、長野県",
+        "global_code": "8Q8WR9J4+R5"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

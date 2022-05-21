@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２−６",
-        "short_name": "２−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐久平駅東",
-        "short_name": "佐久平駅東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0028",
-        "short_name": "385-0028",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0028 長野県佐久市佐久平駅東２−６",
-    "geometry": {
-      "location": {
-        "lat": 36.2775,
-        "lng": 138.4666667
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.27865798029151,
-          "lng": 138.4681150302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0028 長野県佐久市佐久平駅東２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.2775,
+          "lng": 138.4666667
         },
-        "southwest": {
-          "lat": 36.27596001970851,
-          "lng": 138.4654170697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27865882989273,
+            "lng": 138.4681158798927
+          },
+          "southwest": {
+            "lat": 36.27595917010728,
+            "lng": 138.4654162201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZaK6t3fLHWARnAoQoj6V3l0",
-    "plus_code": {
-      "compound_code": "7FH8+2M 日本、長野県佐久市",
-      "global_code": "8Q8W7FH8+2M"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "佐久平プラザ21",
+      "photos": [
+        {
+          "height": 444,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113096142553377634480\">佐久平プラザ21</a>"
+          ],
+          "photo_reference": "Aap_uEAwlsXQNu8fofmFKY457GqYm3E3-As_a6Ib4y7rl_kpIT_xAQU0foVxtpyEWV3Y7sfIXgRN9wvifkjKfJXAPOrN7cbTvPvmxb5A_2-e2n7iKyMFs1qwBeFYbtJgjnzQLLpIfCfN3xdLzAs1R3T86CJV1U6nlw_uRTi55aHpAd9BoURh",
+          "width": 665
+        }
+      ],
+      "place_id": "ChIJZaK6t3fLHWARnAoQoj6V3l0",
+      "plus_code": {
+        "compound_code": "7FH8+2M 佐久市、長野県",
+        "global_code": "8Q8W7FH8+2M"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

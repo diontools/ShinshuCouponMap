@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４７１−７９",
-        "short_name": "２４７１−７９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上ケ屋",
-        "short_name": "上ケ屋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0888",
-        "short_name": "380-0888",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0888 長野県長野市上ケ屋２４７１−７９",
-    "geometry": {
-      "location": {
-        "lat": 36.701035,
-        "lng": 138.13599
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7026410802915,
-          "lng": 138.1375061802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0888 長野県長野市上ケ屋２４７１−７９",
+      "geometry": {
+        "location": {
+          "lat": 36.7010455,
+          "lng": 138.1360137
         },
-        "southwest": {
-          "lat": 36.6999431197085,
-          "lng": 138.1348082197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70264192989271,
+            "lng": 138.1375070298928
+          },
+          "southwest": {
+            "lat": 36.69994227010727,
+            "lng": 138.1348073701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlUP9WYgp9l8RUdZR4ZaKQS4",
-    "plus_code": {
-      "compound_code": "P42P+C9 日本、長野県長野市",
-      "global_code": "8Q8WP42P+C9"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "アソビーバ ナガノパーク（旧：スポーツホテル アゼリア）",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105294588438450520902\">icchii aqua</a>"
+          ],
+          "photo_reference": "Aap_uEBF6EaCwDevS2HJkDitNJM9qBBC0NAQFJ1l_lxRWNYu6fn6W7b1FsP6M7qHkAIT6DA1SvOF0hTNwnP66pvumyIujhSHwH_BqSuK76u7TR62MfwSiHRC00ZHpBx7P72_d0rTyROziYOn86XK-AEIQsGnGKCIgbuf5W8USNfk6Pqz1krx",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJlUP9WYgp9l8RUdZR4ZaKQS4",
+      "plus_code": {
+        "compound_code": "P42P+C9 長野市、長野県",
+        "global_code": "8Q8WP42P+C9"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

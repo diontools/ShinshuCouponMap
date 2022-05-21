@@ -1,91 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５８８",
-        "short_name": "３５８８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "富士見",
-        "short_name": "富士見",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0211",
-        "short_name": "399-0211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0211 長野県諏訪郡富士見町富士見３５８８",
-    "geometry": {
-      "location": {
-        "lat": 35.91176600000001,
-        "lng": 138.238427
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9131278802915,
-          "lng": 138.2395727302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0100 長野県諏訪郡原村大石１０６９９",
+      "geometry": {
+        "location": {
+          "lat": 35.9549395,
+          "lng": 138.1971547
         },
-        "southwest": {
-          "lat": 35.91042991970851,
-          "lng": 138.2368747697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.95630727989272,
+            "lng": 138.1985555298927
+          },
+          "southwest": {
+            "lat": 35.95360762010728,
+            "lng": 138.1958558701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "中央道原PA (下り)",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110589662636746124798\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDrRvYDhx0Joo-jVZwDV1zcvfn_Y6q8DgCoj634vEQrJwG2l2DWbI-2JaSairMkp_GVr_2YKe4VrAPu0LMHMd5wBF2qyys-TmfZGWEHCXk2eO4gvou3HYdM7e55p_UUkhWUS3L5zEGqsMsiXQeQY_MCrKPtM-mY4ZAHiml9Ynfl1Z_L",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJN03j_1ZaHGAR2wxotCqnLpk",
+      "plus_code": {
+        "compound_code": "X53W+XV 原村、長野県",
+        "global_code": "8Q7WX53W+XV"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJRSXMWLVcHGARh3QG6Bqf6rY",
-    "plus_code": {
-      "compound_code": "W66Q+P9 長野県富士見町",
-      "global_code": "8Q7WW66Q+P9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0100 長野県諏訪郡原村 大石10699",
+      "geometry": {
+        "location": {
+          "lat": 35.9547839,
+          "lng": 138.1969045
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.95615467989273,
+            "lng": 138.1983046798927
+          },
+          "southwest": {
+            "lat": 35.95345502010728,
+            "lng": 138.1956050201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "中央道原パーキングエリア下り（王滝水産）",
+      "photos": [
+        {
+          "height": 809,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114017599359175986916\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAlsygnLP32mQo3DIfhOp0Od6e3DhJ-DpXsmpwW8v5dc8Zwo9OU3PI_IhDQTz1Bia1gP1sfwxtX6cvBgVTzetFZP_H28snXjvJMcOhRFOOv1CXuIOqBj8Qzd5mjNH4eUofmX5jev-wbEeBt8gJSmvezDWkke3AJFwd-xIIen08PGwc",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJn9yqAtdbHGARj9DTj45qmbo",
+      "plus_code": {
+        "compound_code": "X53W+WP 原村、長野県",
+        "global_code": "8Q7WX53W+WP"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

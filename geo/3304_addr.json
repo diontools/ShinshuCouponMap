@@ -1,76 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北割",
-        "short_name": "北割",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂 北割",
-    "geometry": {
-      "location": {
-        "lat": 35.7392886,
-        "lng": 137.9169918
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7406375802915,
-          "lng": 137.9183407802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割一区１４６７",
+      "geometry": {
+        "location": {
+          "lat": 35.7411932,
+          "lng": 137.9272366
         },
-        "southwest": {
-          "lat": 35.7379396197085,
-          "lng": 137.9156428197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74255377989272,
+            "lng": 137.9286620298927
+          },
+          "southwest": {
+            "lat": 35.73985412010728,
+            "lng": 137.9259623701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処 信州蕎麦の 小木曽製粉所 駒ヶ根店",
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110968185992602775913\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAxKK9p4qPUUVkeWhxFp8T_uhDzj4HGBo1M3bu5OnDsHr8u5cFi9eb9ri-345dlGeH4-v-wmTfAJLvZiBr28iQmCb46WfCWHUw3qIbfR8RYL7RS44JwRF5iOIdDRs1M0iYTgaEiTIShrtFvFKwLuppuTsd6ioxClzTrUVOCVYaxSlHO",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJPYYiQQvzHGARpoGHi2WRUhI",
+      "plus_code": {
+        "compound_code": "PWRG+FV 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWRG+FV"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJYYkqTWftHGARa4Ee8Av45uI",
-    "types": [
-      "intersection"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市 赤穂北割一区497−1467",
+      "geometry": {
+        "location": {
+          "lat": 35.741467,
+          "lng": 137.8989791
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.74282402989272,
+            "lng": 137.9003294798927
+          },
+          "southwest": {
+            "lat": 35.74012437010728,
+            "lng": 137.8976298201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "name": "切石浄水場",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110068882522828182979\">mitsutaka suganuma</a>"
+          ],
+          "photo_reference": "Aap_uEDrd7OLVliqL0HBL8UI0z3wrJRvIpssG7FRP_02WX6OUMYC7QtVkqZufbuxZc6kE3Wo3GE9heiENxvoMra9agOIsyjT83AebrpYvSUFfhASh8y7Q2xZoPzjXJ_ALyBp_t8DqF2zvjA7TNxCIChVKQ88WiNSzBgGleCugMgKCUs-c9ad",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJU_3QpA3tHGARGzTMaevPeIA",
+      "plus_code": {
+        "compound_code": "PVRX+HH 駒ヶ根市、長野県",
+        "global_code": "8Q7VPVRX+HH"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

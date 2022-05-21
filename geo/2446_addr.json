@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "生坂村",
-        "short_name": "生坂村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東筑摩郡",
-        "short_name": "東筑摩郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県東筑摩郡生坂村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4894465,
-          "lng": 137.9769387
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-7200 長野県東筑摩郡生坂村5204番地1",
+      "geometry": {
+        "location": {
+          "lat": 36.4244907,
+          "lng": 137.9328074
         },
-        "southwest": {
-          "lat": 36.3815397,
-          "lng": 137.905446
+        "viewport": {
+          "northeast": {
+            "lat": 36.42591122989272,
+            "lng": 137.9341497798927
+          },
+          "southwest": {
+            "lat": 36.42321157010728,
+            "lng": 137.9314501201073
+          }
         }
       },
-      "location": {
-        "lat": 36.42517,
-        "lng": 137.9274909
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4894465,
-          "lng": 137.9769387
-        },
-        "southwest": {
-          "lat": 36.3815397,
-          "lng": 137.905446
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 いくさかの郷",
+      "photos": [
+        {
+          "height": 2964,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110172348280137103404\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBZFpz95A9SCLwVAc_vqqHjTPHubJUgaIIvRhVVo8s1YIq3jFFGmngKPOMG4VSRU-Dy89l5f7xR9mT-rfbL1Wi_EedpQ2rRLffhmk-l30_L1wFah65RfA4dkduJYcXO13-ZSSTc5P9vBJR4GFarlV4SZjtM-lPMqmc-CmPrKCLpxTow",
+          "width": 4134
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJX4MuqRRwHWARPD7xMHsr36I",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJMxBpeOhxHWARQrf4iDX2Q0A",
+      "plus_code": {
+        "compound_code": "CWFM+Q4 生坂村、長野県",
+        "global_code": "8Q8VCWFM+Q4"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

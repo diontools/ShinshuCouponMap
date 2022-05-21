@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５７０９−３３",
-        "short_name": "５７０９−３３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中洲",
-        "short_name": "中洲",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0015",
-        "short_name": "392-0015",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0015 長野県諏訪市中洲５７０９−３３",
-    "geometry": {
-      "location": {
-        "lat": 36.0264606,
-        "lng": 138.1153429
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.02789978029151,
-          "lng": 138.1167351302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0015 長野県諏訪市中洲５７０９−３３",
+      "geometry": {
+        "location": {
+          "lat": 36.02644420000001,
+          "lng": 138.115335
         },
-        "southwest": {
-          "lat": 36.02520181970851,
-          "lng": 138.1140371697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.02790062989272,
+            "lng": 138.1167359798928
+          },
+          "southwest": {
+            "lat": 36.02520097010728,
+            "lng": 138.1140363201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJvXOa_tNVHGARNkXN_jswPgk",
-    "plus_code": {
-      "compound_code": "24G8+H4 長野県諏訪市",
-      "global_code": "8Q8W24G8+H4"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "地酒の信濃屋",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107313612719625155084\">GARAGE USAUSA</a>"
+          ],
+          "photo_reference": "Aap_uECxkVuK8VYsMzkTcCbwop6L597ekoPw06qNszYV3zr6bNN8G7j2OM1mC_QQqnkNveER9ifuvu0F-EEJE6vA4leGNh6KhpbocQDupP4UpCgZW1rfq1lpmwa21KbeFRaq2wHYBLaLe9FEPl0U3HoH9se1-60bY1OYIgoyz3-joBRymWSR",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJvXOa_tNVHGARNkXN_jswPgk",
+      "plus_code": {
+        "compound_code": "24G8+H4 諏訪市、長野県",
+        "global_code": "8Q8W24G8+H4"
+      },
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

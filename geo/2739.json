@@ -1,172 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８３６−１２５",
-        "short_name": "８３６−１２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡白馬村",
-        "short_name": "北安曇郡白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡北安曇郡白馬村北城８３６−１２５",
-    "geometry": {
-      "location": {
-        "lat": 36.687372,
-        "lng": 137.845881
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6888085302915,
-          "lng": 137.8472678802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡北安曇郡白馬村北城８３６−１２５",
+      "geometry": {
+        "location": {
+          "lat": 36.687372,
+          "lng": 137.845881
         },
-        "southwest": {
-          "lat": 36.6861105697085,
-          "lng": 137.8445699197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.68880937989272,
+            "lng": 137.8472687298927
+          },
+          "southwest": {
+            "lat": 36.68610972010728,
+            "lng": 137.8445690701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNXVxteXR918RsqsqgseFWuw",
-    "plus_code": {
-      "compound_code": "MRPW+W9 長野県白馬村",
-      "global_code": "8Q8VMRPW+W9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "４２３−５",
-        "short_name": "４２３−５",
-        "types": [
-          "premise"
-        ]
       },
-      {
-        "long_name": "人見",
-        "short_name": "人見",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "深谷市",
-        "short_name": "深谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "埼玉県",
-        "short_name": "埼玉県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "366-0811",
-        "short_name": "366-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒366-0811 埼玉県深谷市人見４２３−５",
-    "geometry": {
-      "location": {
-        "lat": 36.17224,
-        "lng": 139.278009
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1735158802915,
-          "lng": 139.2793739302915
-        },
-        "southwest": {
-          "lat": 36.1708179197085,
-          "lng": 139.2766759697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "NIKU雅",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109099946149978102842\">Thissade Tulyaanukij</a>"
+          ],
+          "photo_reference": "Aap_uEAvdxT4WTbr11K-CEB_rL-1IurE2ZBDtWKkKDfXw2yO689YCqGYkEPG-9ZptrsMK9EwleT9_-Hb-CJEHFfADz3Lcl8ekBxLdzvqi_AD_HxUC0BiVGNQzvMLIhdeUWFm4ENnsnQQZQNgJisgRBgQtWhO0KOoI5euiCn4pCSBeFirCwxI",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFVCy6yXaHmAROKGZ7FNqwlI",
-    "plus_code": {
-      "compound_code": "57CH+V6 埼玉県深谷市",
-      "global_code": "8Q8X57CH+V6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJNXVxteXR918RsqsqgseFWuw",
+      "plus_code": {
+        "compound_code": "MRPW+W9 白馬村、長野県",
+        "global_code": "8Q8VMRPW+W9"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

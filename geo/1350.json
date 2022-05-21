@@ -1,109 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2階",
-        "short_name": "2階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "3ASANOビル",
-        "short_name": "3ASANOビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目９ 3ASANOビル 2階",
-    "geometry": {
-      "location": {
-        "lat": 36.3967111,
-        "lng": 138.2505174
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.39811093029149,
-          "lng": 138.2519141302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目９ 3ASANOビル 2階",
+      "geometry": {
+        "location": {
+          "lat": 36.3967111,
+          "lng": 138.2505174
         },
-        "southwest": {
-          "lat": 36.3954129697085,
-          "lng": 138.2492161697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39811177989272,
+            "lng": 138.2519149798927
+          },
+          "southwest": {
+            "lat": 36.39541212010727,
+            "lng": 138.2492153201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0_sSXdq8HWARvdvVkHONu2U",
-    "plus_code": {
-      "compound_code": "97W2+M6 日本、長野県上田市",
-      "global_code": "8Q8W97W2+M6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "目利きの銀次 上田お城口駅前店",
+      "photos": [
+        {
+          "height": 4008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100983890295795865269\">Takayuki Sakurai</a>"
+          ],
+          "photo_reference": "Aap_uEA6W25qP_QJGqlGh48wdnk5cJ3l5VgCm-VbL9FQf5DzkU6jPBf_QwMr5QwuXp9Prb9uSiWWE0esq3xlUTG3K9NveGxPbX9XOh46uiJRL6czQRBT86zJW5dsPD7kxJEjBEDyXCJwXuoNGQ6s_XXlZSPAFn3kdL3JC_smXV-l1akFqLNe",
+          "width": 5344
+        }
+      ],
+      "place_id": "ChIJ0_sSXdq8HWARvdvVkHONu2U",
+      "plus_code": {
+        "compound_code": "97W2+M6 上田市、長野県",
+        "global_code": "8Q8W97W2+M6"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

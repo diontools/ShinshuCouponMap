@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡小谷村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9421 長野県北安曇郡小谷村中小谷８４５７",
+      "geometry": {
+        "location": {
+          "lat": 36.8090931,
+          "lng": 137.8886026
         },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+        "viewport": {
+          "northeast": {
+            "lat": 36.81038107989272,
+            "lng": 137.8895491298927
+          },
+          "southwest": {
+            "lat": 36.80768142010728,
+            "lng": 137.8868494701072
+          }
         }
       },
-      "location": {
-        "lat": 36.779238,
-        "lng": 137.9083847
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
-        },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "キャンプ場 石坂森林探険村",
+      "photos": [
+        {
+          "height": 1296,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103583418973606282734\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECqUhrlZ0VPhxBXzrhunJd9iD2sFAZRwvMb3A9yCtOq2afvE3h_UeE3HpbsRkpJQN2KowurHetHKsYfLSn806cZutJ1tyrArwSHruHi-MCcMhAdAVfIAXWHf6ZIgsm5Z5ZDgCeuij3MQr464u7IWeWKqgNfze63T2EXJ33DVv3UQvgc",
+          "width": 1728
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEbXKV9U19l8R_PGKt2EWtyI",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJpXHP_kY09l8RIb2TaQ-Qmqc",
+      "plus_code": {
+        "compound_code": "RV5Q+JC 小谷村、長野県",
+        "global_code": "8Q8VRV5Q+JC"
+      },
+      "types": [
+        "campground",
+        "lodging",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６３−１",
-        "short_name": "１６３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "薮原",
-        "short_name": "薮原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木祖村",
-        "short_name": "木祖村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6201",
-        "short_name": "399-6201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6201 長野県木曽郡木祖村薮原１６３−１",
-    "geometry": {
-      "location": {
-        "lat": 35.9306878,
-        "lng": 137.7862506
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9319003302915,
-          "lng": 137.7875686802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6201 長野県木曽郡木祖村薮原１６３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9306878,
+          "lng": 137.7862506
         },
-        "southwest": {
-          "lat": 35.9292023697085,
-          "lng": 137.7848707197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.93190117989271,
+            "lng": 137.7875695298927
+          },
+          "southwest": {
+            "lat": 35.92920152010727,
+            "lng": 137.7848698701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJg6a2n0HgHGARA3LEiD-J9k4",
-    "plus_code": {
-      "compound_code": "WQJP+7G 長野県木祖村",
-      "global_code": "8Q7VWQJP+7G"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 木曽川源流の里きそむら",
+      "photos": [
+        {
+          "height": 3918,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116089110234810258824\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECQB1UgU1SkAjOEMnaMTmB9WOdY8G5Q28nba2mn0_7p_m_oQf4cAY-u3Ne1GKL-WTsa_L4jyGvw6TwfzO2Z2gNSpbx0yV8tx63fv4CABXHI72_bIrREuk4eUvnUQnmSGwmmRTfd_PJ7DeXQ2ENp-AR_pUAnWUTFCnmbvQXcBXxvzjVd",
+          "width": 5877
+        }
+      ],
+      "place_id": "ChIJg6a2n0HgHGARA3LEiD-J9k4",
+      "plus_code": {
+        "compound_code": "WQJP+7G 木祖村、長野県",
+        "global_code": "8Q7VWQJP+7G"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

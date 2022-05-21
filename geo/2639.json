@@ -1,72 +1,81 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡 白馬村大字北城森上12867-289",
+      "geometry": {
+        "location": {
+          "lat": 36.710915,
+          "lng": 137.870021
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.71233872989273,
+            "lng": 137.8716550298927
+          },
+          "southwest": {
+            "lat": 36.70963907010729,
+            "lng": 137.8689553701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "株式会社藤森",
+      "place_id": "ChIJIWEiMIzN918RTV0Kn4R1kF8",
+      "plus_code": {
+        "compound_code": "PV6C+92 白馬村、長野県",
+        "global_code": "8Q8VPV6C+92"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
-        }
-      }
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１２８６７−２８９",
+      "geometry": {
+        "location": {
+          "lat": 36.7054071,
+          "lng": 137.8665401
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.70681962989272,
+            "lng": 137.8678998298927
+          },
+          "southwest": {
+            "lat": 36.70411997010728,
+            "lng": 137.8652001701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "藤森酒店",
+      "photos": [
+        {
+          "height": 2631,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104362019913911999789\">石井博昭</a>"
+          ],
+          "photo_reference": "Aap_uEBjEz5X7zJqWBT5aYx0fj5JKKUKYC-iEHxrsvlnZ7gLfUVM__oLzvABDK1KbIn3YRzeabdF4lBx6124KJXwrgUctrjwh90VBRppzz5JuZImbFqN_SjHxLkFD2Tt3e8o3hV6HVAjzxCZNhsUsj7qCPmZfJldi7taCkXpSVMj9e79wfk3",
+          "width": 3510
+        }
+      ],
+      "place_id": "ChIJ__9Ps_XN918RksEJNJLQhCA",
+      "plus_code": {
+        "compound_code": "PV48+4J 白馬村、長野県",
+        "global_code": "8Q8VPV48+4J"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

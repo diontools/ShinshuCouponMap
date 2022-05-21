@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３８−２５",
-        "short_name": "３３８−２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３３８−２５",
-    "geometry": {
-      "location": {
-        "lat": 35.4583866,
-        "lng": 137.7116704
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4597433302915,
-          "lng": 137.7130700302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３３８−２５",
+      "geometry": {
+        "location": {
+          "lat": 35.4583866,
+          "lng": 137.7116704
         },
-        "southwest": {
-          "lat": 35.4570453697085,
-          "lng": 137.7103720697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.45974417989272,
+            "lng": 137.7130708798927
+          },
+          "southwest": {
+            "lat": 35.45704452010728,
+            "lng": 137.7103712201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJD25j-w6jHGARKOpw1vYsyQ4",
-    "plus_code": {
-      "compound_code": "FP56+9M 長野県阿智村",
-      "global_code": "8Q7VFP56+9M"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ACHI BASE",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116869009164554572877\">pippo co</a>"
+          ],
+          "photo_reference": "Aap_uEBS7oXNrYwrRtllDpXLvXN7kUY_-_xYe_-hdsmMZVPcxJCAkMHeavJM9I9kPlTei4Z4GUIIFQWw_i1Vmu7RY9jIUf0NH7GmRMoNe6eEr2cv_kCF1R7Zwn5KmxO_ZhQ5x6KE6k1TMWmxWPrDri6b6rbQn7EewZ5XEm4r_-5DJTY93l0R",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJD25j-w6jHGARKOpw1vYsyQ4",
+      "plus_code": {
+        "compound_code": "FP56+9M 阿智村、長野県",
+        "global_code": "8Q7VFP56+9M"
+      },
+      "types": [
+        "travel_agency",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

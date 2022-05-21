@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "千国",
-        "short_name": "千国",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "12840-148 Aza Oyanohara Oaza, 千国 小谷村 北安曇郡 長野県 399-9422 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.7524403,
-        "lng": 137.8695254
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.75372358029149,
-          "lng": 137.8707911802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８４０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.747847,
+          "lng": 137.8706597
         },
-        "southwest": {
-          "lat": 36.75102561970849,
-          "lng": 137.8680932197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74918242989272,
+            "lng": 137.8720032298927
+          },
+          "southwest": {
+            "lat": 36.74648277010728,
+            "lng": 137.8693035701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJA63mwtzM918RwhRnROhe-H4",
-    "plus_code": {
-      "compound_code": "QV29+XR 長野県小谷村",
-      "global_code": "8Q8VQV29+XR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "（株）内川スポーツ 本店",
+      "photos": [
+        {
+          "height": 3355,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112972801854290092382\">styleplusone</a>"
+          ],
+          "photo_reference": "Aap_uEA2jb1HbCGI9XsqITV_U8keWO_Sr-pC4zqmHH3RqkUQTSDYBjLUhMR8p8YAdzAcTSoDXyXttpfaKzuNOy_z_Nyyq-it8wQmr8C8yJEuZbUOVh4gEdytct6bkEYhEpwt8hechGwunc6Vf8vv_BpFwi2yDhCkiQKPilLTY6f_vTix3LZh",
+          "width": 3234
+        }
+      ],
+      "place_id": "ChIJl5vkw8TM918RQv5iuC9teag",
+      "plus_code": {
+        "compound_code": "PVXC+47 小谷村、長野県",
+        "global_code": "8Q8VPVXC+47"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

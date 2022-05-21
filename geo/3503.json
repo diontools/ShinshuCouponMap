@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４２１−１",
-        "short_name": "１４２１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "高島",
-        "short_name": "高島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0022",
-        "short_name": "392-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0022 長野県諏訪市高島３丁目１４２１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.0386654,
-        "lng": 138.1052252
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0401193802915,
-          "lng": 138.1067173302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0022 長野県諏訪市高島３丁目１４２１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0387329,
+          "lng": 138.1053298
         },
-        "southwest": {
-          "lat": 36.0374214197085,
-          "lng": 138.1040193697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04012022989273,
+            "lng": 138.1067181798927
+          },
+          "southwest": {
+            "lat": 36.03742057010728,
+            "lng": 138.1040185201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJw4Hjsr5VHGARJmIw2J-VDDw",
-    "plus_code": {
-      "compound_code": "24Q4+F3 長野県諏訪市",
-      "global_code": "8Q8W24Q4+F3"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "丸安田中屋 本店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100164931707801183598\">小山真人</a>"
+          ],
+          "photo_reference": "Aap_uEDW0uN69EqFnbvmCnaECo6yA-V-vEVhdlR-j5NCN1A1Q8r00Cke4v2x0CVjy93n07ZVbXZ5OuV_g8K6R_9qCI5TzbQygVxmNyFQnU8qZ39vEugFlMwZlFkyMtSMPFXp07TzMM9-wIuZk98xT3OA8ot5hnxXLqg_vepin9eEqHrSqVjH",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJw4Hjsr5VHGARJmIw2J-VDDw",
+      "plus_code": {
+        "compound_code": "24Q4+F3 諏訪市、長野県",
+        "global_code": "8Q8W24Q4+F3"
+      },
+      "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６２８−２",
-        "short_name": "１６２８−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘高出",
-        "short_name": "広丘高出",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0703",
-        "short_name": "399-0703",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0703 長野県塩尻市広丘高出１６２８−２",
-    "geometry": {
-      "location": {
-        "lat": 36.1215134,
-        "lng": 137.9605841
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1229003302915,
-          "lng": 137.9619343802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0703 長野県塩尻市広丘高出１６２８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.1215454,
+          "lng": 137.9605826
         },
-        "southwest": {
-          "lat": 36.1202023697085,
-          "lng": 137.9592364197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12290117989272,
+            "lng": 137.9619352298927
+          },
+          "southwest": {
+            "lat": 36.12020152010728,
+            "lng": 137.9592355701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7wWw4_UEHWARAz2W2suSMGI",
-    "plus_code": {
-      "compound_code": "4XC6+J6 日本、長野県塩尻市",
-      "global_code": "8Q8V4XC6+J6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "モスバーガー カインズ塩尻店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104915055683291703885\">Kenichi Ishii</a>"
+          ],
+          "photo_reference": "Aap_uEA4ZHWqcqWhwiGP07oKphKimLGl2vu18M-3YF9ConulD5M6aVRiVVcYkAlZNP-tAP3i2Y7ZJ8b8ob0nOHESAXLtQx8BWqV1wt6auLIgKF17w_-2hhePzgMOZ41JD5w3L6puYA2CTjIm3DxnrOs65_5FEDM0iCag5hJ7PsowY087VVZR",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ7wWw4_UEHWARAz2W2suSMGI",
+      "plus_code": {
+        "compound_code": "4XC6+J6 塩尻市、長野県",
+        "global_code": "8Q8V4XC6+J6"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

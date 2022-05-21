@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "甲1581-3",
-        "short_name": "甲1581-3",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "東小諸",
-        "short_name": "東小諸",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "甲",
-        "short_name": "甲",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0008",
-        "short_name": "384-0008",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0008 長野県小諸市甲東小諸甲1581-3",
-    "geometry": {
-      "location": {
-        "lat": 36.3141062,
-        "lng": 138.431027
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3154301302915,
-          "lng": 138.4324127302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0008 長野県小諸市東小諸甲1581-3",
+      "geometry": {
+        "location": {
+          "lat": 36.3141023,
+          "lng": 138.4310383
         },
-        "southwest": {
-          "lat": 36.3127321697085,
-          "lng": 138.4297147697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31543097989272,
+            "lng": 138.4324135798927
+          },
+          "southwest": {
+            "lat": 36.31273132010728,
+            "lng": 138.4297139201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQeKtnpnJHWARyPsRfDtS82Y",
-    "plus_code": {
-      "compound_code": "8C7J+JC 日本、長野県小諸市",
-      "global_code": "8Q8W8C7J+JC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "grocery_or_supermarket",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "蔵の粉屋 大西製粉",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109793811971747334352\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBf4Ii6lhGD19fZ7ccTZCbzBvuoB8NrMnRSWjjjDyVcLuD0bZuTRJbQfrLFdhqcNSpbliCGQDah375Ch-W38MGMbaAV-CEGcUGmUlrZ6rsM-7fU-BvBpStByacwoFb_aeEnlP8t-_hczHQCb8SJRyxlI29fWcIx2qoHlb4y5i__Urx5",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJQeKtnpnJHWARyPsRfDtS82Y",
+      "plus_code": {
+        "compound_code": "8C7J+JC 小諸市、長野県",
+        "global_code": "8Q8W8C7J+JC"
+      },
+      "types": [
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

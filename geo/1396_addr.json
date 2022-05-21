@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８７３−１",
-        "short_name": "１８７３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芳田",
-        "short_name": "芳田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0151",
-        "short_name": "386-0151",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0151 長野県上田市芳田１８７３−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3790485,
-          "lng": 138.2932756
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0151 長野県上田市芳田１８７３−１",
+      "geometry": {
+        "location": {
+          "lat": 36.378979,
+          "lng": 138.2930466
         },
-        "southwest": {
-          "lat": 36.3788856,
-          "lng": 138.2928662
+        "viewport": {
+          "northeast": {
+            "lat": 36.38029557989272,
+            "lng": 138.2945342298927
+          },
+          "southwest": {
+            "lat": 36.37759592010727,
+            "lng": 138.2918345701073
+          }
         }
       },
-      "location": {
-        "lat": 36.378979,
-        "lng": 138.2930466
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3803160302915,
-          "lng": 138.2944431802915
-        },
-        "southwest": {
-          "lat": 36.3776180697085,
-          "lng": 138.2917452197085
-        }
-      }
-    },
-    "place_id": "ChIJTxdWko67HWARHdilKu1JMNs",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0151 長野県上田市芳田１８７３−１",
+      "place_id": "ChIJTxdWko67HWARHdilKu1JMNs",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "7977",
-        "short_name": "7977",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "山形村",
-        "short_name": "山形村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東筑摩郡",
-        "short_name": "東筑摩郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1394",
-        "short_name": "390-1394",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1394 長野県東筑摩郡山形村 7977",
-    "geometry": {
-      "location": {
-        "lat": 36.18423020000001,
-        "lng": 137.8927983
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.18556598029149,
-          "lng": 137.8945307302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1394 長野県東筑摩郡山形村 7977",
+      "geometry": {
+        "location": {
+          "lat": 36.18423020000001,
+          "lng": 137.8927983
         },
-        "southwest": {
-          "lat": 36.1828680197085,
-          "lng": 137.8918327697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.18556682989272,
+            "lng": 137.8945315798927
+          },
+          "southwest": {
+            "lat": 36.18286717010727,
+            "lng": 137.8918319201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJI9dizrERHWARz2ZYr2c2lJ8",
-    "plus_code": {
-      "compound_code": "5VMV+M4 日本、長野県山形村",
-      "global_code": "8Q8V5VMV+M4"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "5HORN アイシティ21",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">nori baba</a>"
+          ],
+          "photo_reference": "Aap_uECRoUQpudUBZRICRO3u8v5Z_ZzP0uVpsk9AEGXGAKKQYOp_Fz_UhftP3k-NQdPgNuIzJ7ir8SC8_NAi5gHVEoTyr7eepR6gKOalEJsBkNXBkrxH_eYEiFhvQGA1bZ7SpFdXvuWUfUivPD2ZXXSrr7-xIP5qkHYOQf-UzYtY5O9MHWdj",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJI9dizrERHWARz2ZYr2c2lJ8",
+      "plus_code": {
+        "compound_code": "5VMV+M4 山形村、長野県",
+        "global_code": "8Q8V5VMV+M4"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

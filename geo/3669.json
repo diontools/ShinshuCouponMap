@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４９−２",
-        "short_name": "１４９−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "程野",
-        "short_name": "程野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上村",
-        "short_name": "上村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1403",
-        "short_name": "399-1403",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1403 長野県飯田市上村程野１４９−２",
-    "geometry": {
-      "location": {
-        "lat": 35.4327863,
-        "lng": 137.9891795
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.43414028029149,
-          "lng": 137.9903795802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1403 長野県飯田市上村程野１４９−２",
+      "geometry": {
+        "location": {
+          "lat": 35.4327863,
+          "lng": 137.9891795
         },
-        "southwest": {
-          "lat": 35.43144231970849,
-          "lng": 137.9876816197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.43414112989272,
+            "lng": 137.9903804298928
+          },
+          "southwest": {
+            "lat": 35.43144147010727,
+            "lng": 137.9876807701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3QNBM8V9G2ARTtjz0MJ7nJQ",
-    "plus_code": {
-      "compound_code": "CXMQ+4M 長野県飯田市",
-      "global_code": "8Q7VCXMQ+4M"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "村の茶屋",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111522799077908867259\">福田淳一</a>"
+          ],
+          "photo_reference": "Aap_uEC3b-KwNnEgUagrF4QYVc285MrdZ8XmCJjKMzlNNNZgmqFVaGY2NxAhb-IW0UFDjZWLoJ0M_9UA7OvrSjIIPnHS3EuVSvziiU889PCg_fn8_kSkC69v5MYvHDhRYM0FNvFbXyEMysKYfKY0NfYyPUZFueyG6HdEVxkS1z3f1xyPPbk3",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ3QNBM8V9G2ARTtjz0MJ7nJQ",
+      "plus_code": {
+        "compound_code": "CXMQ+4M 飯田市、長野県",
+        "global_code": "8Q7VCXMQ+4M"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

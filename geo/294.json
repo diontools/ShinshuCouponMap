@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷 大字豊郷十王堂9571",
-    "geometry": {
-      "location": {
-        "lat": 36.922362,
-        "lng": 138.4470145
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9237284802915,
-          "lng": 138.4483294302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村 大字豊郷十王堂9571",
+      "geometry": {
+        "location": {
+          "lat": 36.922362,
+          "lng": 138.4470145
         },
-        "southwest": {
-          "lat": 36.9210305197085,
-          "lng": 138.4456314697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92372932989272,
+            "lng": 138.4483302798928
+          },
+          "southwest": {
+            "lat": 36.92102967010727,
+            "lng": 138.4456306201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7ZYIoi4F9l8RPRKws3ovYCE",
-    "plus_code": {
-      "compound_code": "WCCW+WR 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCCW+WR"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "丸見屋商店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103410365608513034858\">木部博</a>"
+          ],
+          "photo_reference": "Aap_uEAh0ylFho9pyPX8PKCDGbytGUUFEK5okAi20GmFQwU5A_f-LayWFzm0cFD4SWAyIxHyFEDnkYEt6lWrNv95GGKZlcZd62HWjnUmBQBVKdTRxWdqFqyoA5ooVkalFJSoTm53iZvTByGx1H8TkVuFzeiYPx6Yr4nXN48JL9xByqYL1ZYJ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ7ZYIoi4F9l8RPRKws3ovYCE",
+      "plus_code": {
+        "compound_code": "WCCW+WR 野沢温泉村、長野県",
+        "global_code": "8Q8WWCCW+WR"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

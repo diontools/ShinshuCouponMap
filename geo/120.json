@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０５２",
-        "short_name": "３０５２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３０５２",
-    "geometry": {
-      "location": {
-        "lat": 36.740104,
-        "lng": 138.418946
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7414747802915,
-          "lng": 138.4203071302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３０５２",
+      "geometry": {
+        "location": {
+          "lat": 36.7401055,
+          "lng": 138.4189467
         },
-        "southwest": {
-          "lat": 36.7387768197085,
-          "lng": 138.4176091697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74147562989273,
+            "lng": 138.4203079798927
+          },
+          "southwest": {
+            "lat": 36.73877597010728,
+            "lng": 138.4176083201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp8Uqi5X0HWARDay8Bg_p5B8",
-    "plus_code": {
-      "compound_code": "PCR9+2H 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCR9+2H"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "みきや商店（有）",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107515925831550241068\">hira yu</a>"
+          ],
+          "photo_reference": "Aap_uEAW7RvtQn7pC0Hh2uH3jB7_uobkBTZwBnNZbww8M1E_PAbpkGtS-82FP_7c25TgTK8z5Tt6MJve85iue54djUL6DrhiLe6J0xHy0bg7MfpYVfg0lk93xfLzcLlytYLlMFTQDMCRChRTiknP5KWNEV3C3Knko0zMwqTKf0QTeNz2_JUk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJp8Uqi5X0HWARDay8Bg_p5B8",
+      "plus_code": {
+        "compound_code": "PCR9+2H 山ノ内町、長野県",
+        "global_code": "8Q8WPCR9+2H"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

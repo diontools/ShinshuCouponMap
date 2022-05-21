@@ -1,90 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１２−１２２",
-        "short_name": "３４１２−１２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "車山",
-        "short_name": "車山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山車山３４１２−１２２",
-    "geometry": {
-      "location": {
-        "lat": 36.0938341,
-        "lng": 138.2046436
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0951285802915,
-          "lng": 138.2060312302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山車山３４１２−１２２",
+      "geometry": {
+        "location": {
+          "lat": 36.0938341,
+          "lng": 138.2046436
         },
-        "southwest": {
-          "lat": 36.0924306197085,
-          "lng": 138.2033332697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.09512942989272,
+            "lng": 138.2060320798927
+          },
+          "southwest": {
+            "lat": 36.09242977010728,
+            "lng": 138.2033324201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHx1beFZSHGAR_oysnRAIx_8",
-    "plus_code": {
-      "compound_code": "36V3+GV 長野県茅野市",
-      "global_code": "8Q8W36V3+GV"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "プチペンショングリーングラス(B&B Green Grass)",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109688182895448388396\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA6evevnFUXUxoaQ9SSmmQvJ9V7Mh0DvrirgLE0zNYu8XGl_5J0E30UhOZeznIzUn16Glmn4OB4m_c6jra1yRXeqUxZw6gFGO4YvBrK9EDrzr98mJM_T_5s8J8UNfeDFwUQZQ28ZfDdtJPLB_VuQSwCSg8aXXxLzrzWZvI4t3EpPL_L",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHx1beFZSHGAR_oysnRAIx_8",
+      "plus_code": {
+        "compound_code": "36V3+GV 茅野市、長野県",
+        "global_code": "8Q8W36V3+GV"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,94 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３７３−６",
-        "short_name": "１３７３−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１３７３−６",
-    "geometry": {
-      "location": {
-        "lat": 36.3578961,
-        "lng": 138.6257864
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3595190802915,
-          "lng": 138.6270799802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１３７３−６",
+      "geometry": {
+        "location": {
+          "lat": 36.3578961,
+          "lng": 138.6257864
         },
-        "southwest": {
-          "lat": 36.3568211197085,
-          "lng": 138.6243820197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35951992989272,
+            "lng": 138.6270808298927
+          },
+          "southwest": {
+            "lat": 36.35682027010728,
+            "lng": 138.6243811701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZVyIEZHTHWARP0spy3Tp9QI",
-    "plus_code": {
-      "compound_code": "9J5G+58 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J5G+58"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "lodging",
-      "night_club",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル鹿島ﾉ森",
+      "photos": [
+        {
+          "height": 684,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104474985418472627383\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBhT988NFpB3kxj16YweACuUFlamQaJYZ2xxQwyQ03ttvmvOkbNJZ7IbWrIe7-ODI28FQlKCPaezgDnan5AQjOr7-9HGGZNVN8G3foahqSo9rCK7J0RXxi4fWKWWn4ZdwoN3pHb5LXjPhhFNNWy4_gXJE-s9UHRAmOmvuNCho3hV_O4",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJZVyIEZHTHWARP0spy3Tp9QI",
+      "plus_code": {
+        "compound_code": "9J5G+58 軽井沢町、長野県",
+        "global_code": "8Q8W9J5G+58"
+      },
+      "types": [
+        "night_club",
+        "bar",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

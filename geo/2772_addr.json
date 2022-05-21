@@ -1,94 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "赤沢自然休養林",
-        "short_name": "赤沢自然休養林",
-        "types": [
-          "establishment",
-          "park",
-          "point_of_interest",
-          "tourist_attraction"
-        ]
-      },
-      {
-        "long_name": "小川",
-        "short_name": "小川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上松町",
-        "short_name": "上松町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5600",
-        "short_name": "399-5600",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5600 長野県木曽郡上松町小川 小川入国有林 赤沢自然休養林",
-    "geometry": {
-      "location": {
-        "lat": 35.7277176,
-        "lng": 137.6232411
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.72906658029149,
-          "lng": 137.6245900802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5600 長野県木曽郡上松町小川 小川入国有林",
+      "geometry": {
+        "location": {
+          "lat": 35.7277176,
+          "lng": 137.6232411
         },
-        "southwest": {
-          "lat": 35.7263686197085,
-          "lng": 137.6218921197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.72906742989272,
+            "lng": 137.6245909298927
+          },
+          "southwest": {
+            "lat": 35.72636777010727,
+            "lng": 137.6218912701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC8gXEEfFHGARZg-d8hAgDd4",
-    "plus_code": {
-      "compound_code": "PJHF+37 長野県上松町",
-      "global_code": "8Q7VPJHF+37"
-    },
-    "types": [
-      "establishment",
-      "park",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "赤沢自然休養林",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102493739106301259801\">Masamura Makoto</a>"
+          ],
+          "photo_reference": "Aap_uEBvWeOJ2icESxVM6iVa65PocUpG67V1J9GFTyimcjjRhxzEomXSamL_1y2Re1rO-NvQKuafi9EamdbOlQW7BD0UBcFuokPmFhbQNGH34IqQU-Ws17b_3BRJqBXIpljTx9uMRybNyiiPkQv1w6X8GwZHK0JGAUSnR-29aGOH369wea5q",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJC8gXEEfFHGARZg-d8hAgDd4",
+      "plus_code": {
+        "compound_code": "PJHF+37 上松町、長野県",
+        "global_code": "8Q7VPJHF+37"
+      },
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

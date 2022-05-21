@@ -1,100 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "なんだ館内",
-        "short_name": "なんだ館内",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "２３２９−１",
-        "short_name": "２３２９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "一本柳",
-        "short_name": "一本柳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "岩村田",
-        "short_name": "岩村田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0022",
-        "short_name": "385-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0022 長野県佐久市岩村田一本柳２３２９−１ なんだ館内",
-    "geometry": {
-      "location": {
-        "lat": 36.2661888,
-        "lng": 138.4676812
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.26765178029151,
-          "lng": 138.4690100802915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田一本柳２３２９−１ なんだ館内",
+      "geometry": {
+        "location": {
+          "lat": 36.2662344,
+          "lng": 138.467679
         },
-        "southwest": {
-          "lat": 36.26495381970851,
-          "lng": 138.4663121197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26765262989272,
+            "lng": 138.4690109298927
+          },
+          "southwest": {
+            "lat": 36.26495297010728,
+            "lng": 138.4663112701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJabp75sLLHWAR8DBI1Znyg-s",
-    "plus_code": {
-      "compound_code": "7F89+F3 日本、長野県佐久市",
-      "global_code": "8Q8W7F89+F3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "肉肉亭 花いちばん",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100329917956828506606\">hajime kurosawa</a>"
+          ],
+          "photo_reference": "Aap_uEDQxGmwHXN-xCBNGkFbsirAzF2C4YdgytXIBO2QpiLznp9oACF_cUCUBsrWKF_m3lCesQBMznjiGkJi0YsSWKfJuoWqiPuOV1AVDxvlIDx5t4Hsgeq0eDbj19K-S9eKoh2lWbVZ-KIvGg6Rq3FsrLcPA8CA0Q_TbkCbDvhdXbI-TIXL",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJabp75sLLHWAR8DBI1Znyg-s",
+      "plus_code": {
+        "compound_code": "7F89+F3 佐久市、長野県",
+        "global_code": "8Q8W7F89+F3"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,108 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山屋御飴所",
-        "short_name": "山屋御飴所",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手２丁目１−５ 山屋御飴所",
-    "geometry": {
-      "location": {
-        "lat": 36.23468,
-        "lng": 137.965268
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2360688802915,
-          "lng": 137.9666360802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手２丁目１−５ 山屋御飴所",
+      "geometry": {
+        "location": {
+          "lat": 36.2346982,
+          "lng": 137.9652804
         },
-        "southwest": {
-          "lat": 36.2333709197085,
-          "lng": 137.9639381197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23606972989273,
+            "lng": 137.9666369298927
+          },
+          "southwest": {
+            "lat": 36.23337007010728,
+            "lng": 137.9639372701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxYpgwIgOHWARbUGmN-8Oq-8",
-    "plus_code": {
-      "compound_code": "6XM8+V4 日本、長野県松本市",
-      "global_code": "8Q8V6XM8+V4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "山屋御飴所",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103314122367758340260\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA1XfBHRo2PvG-RQRTUoBCj04TrGNN9bZOPjVSUuyuXH4MZI45UxmH_AYxt3yD7uTBhVeQ7MYCOSVRLEpi91lyUGe3jh6oD8HWM8wbhfkFTymP_m5YF_yphUpmWNlo9gkVlXluA_TjRX9JA2T7yUpc9HmIQRZyqflmH9lH_yRCHVc5I",
+          "width": 3867
+        }
+      ],
+      "place_id": "ChIJxYpgwIgOHWARbUGmN-8Oq-8",
+      "plus_code": {
+        "compound_code": "6XM8+V4 松本市、長野県",
+        "global_code": "8Q8V6XM8+V4"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８８２−１０",
-        "short_name": "１８８２−１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "新子田",
-        "short_name": "新子田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0007",
-        "short_name": "385-0007",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0007 長野県佐久市新子田１８８２−１０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2626473,
-          "lng": 138.4877764
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒385-0007 長野県佐久市新子田１８８２−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.2625905,
+          "lng": 138.4876875
         },
-        "southwest": {
-          "lat": 36.2625105,
-          "lng": 138.4876049
+        "viewport": {
+          "northeast": {
+            "lat": 36.26394667989272,
+            "lng": 138.4891318298927
+          },
+          "southwest": {
+            "lat": 36.26124702010727,
+            "lng": 138.4864321701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2625905,
-        "lng": 138.4876875
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2639278802915,
-          "lng": 138.4890896802915
-        },
-        "southwest": {
-          "lat": 36.2612299197085,
-          "lng": 138.4863917197085
-        }
-      }
-    },
-    "place_id": "ChIJS5bcI6XMHWARAP1WQaWpwFg",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒385-0007 長野県佐久市新子田１８８２−１０",
+      "place_id": "ChIJS5bcI6XMHWARAP1WQaWpwFg",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

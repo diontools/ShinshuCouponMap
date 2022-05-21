@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "鹿教湯温泉",
-        "short_name": "鹿教湯温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0323",
-        "short_name": "386-0323",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉 鹿教湯1462",
-    "geometry": {
-      "location": {
-        "lat": 36.299655,
-        "lng": 138.134575
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3010398302915,
-          "lng": 138.1359485802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉 鹿教湯1462",
+      "geometry": {
+        "location": {
+          "lat": 36.299655,
+          "lng": 138.134575
         },
-        "southwest": {
-          "lat": 36.2983418697085,
-          "lng": 138.1332506197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30104067989272,
+            "lng": 138.1359494298927
+          },
+          "southwest": {
+            "lat": 36.29834102010728,
+            "lng": 138.1332497701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-XhABsKmHWARd7Ztsp-PKhc",
-    "plus_code": {
-      "compound_code": "74XM+VR 日本、長野県上田市",
-      "global_code": "8Q8W74XM+VR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "鹿乃屋旅館",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104819299034669364373\">望月春香</a>"
+          ],
+          "photo_reference": "Aap_uEBz1OFZtpxAYH1deC2DBLIZn9jzimZNfIj00odT2Fc5dJ7-C3PjZljgpNPW54pLkPM5DAGzq9fI2o-yg4qDX-YjMNtWk4QX0sDBpogcDEom_IQBI5zIBsNEB-BEUf_dnPst5olcF1i2QqLNQmpH4wezk9QSvQS0lIjjNGn6NylZwCBg",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ-XhABsKmHWARd7Ztsp-PKhc",
+      "plus_code": {
+        "compound_code": "74XM+VR 上田市、長野県",
+        "global_code": "8Q8W74XM+VR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

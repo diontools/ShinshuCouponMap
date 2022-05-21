@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８３６６",
-        "short_name": "８３６６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷８３６６",
-    "geometry": {
-      "location": {
-        "lat": 36.9073013,
-        "lng": 138.4810135
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9087165802915,
-          "lng": 138.4824694802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷８３６６",
+      "geometry": {
+        "location": {
+          "lat": 36.9073013,
+          "lng": 138.4810135
         },
-        "southwest": {
-          "lat": 36.9060186197085,
-          "lng": 138.4797715197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.90871742989273,
+            "lng": 138.4824703298927
+          },
+          "southwest": {
+            "lat": 36.90601777010728,
+            "lng": 138.4797706701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbdnDlrAE9l8RPV1cIeccy9Y",
-    "plus_code": {
-      "compound_code": "WF4J+WC 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWF4J+WC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "レストハウスやまびこ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116921444119397518518\">116921444119397518518</a>"
+          ],
+          "photo_reference": "Aap_uEDADBsocdqz7xf2WI4z9Ky4daf7RcGr86DT9cFHv_sOe2-rW6ceOYFY_mrZBs9C2Zi8Tzm8mDl0JIpmTTlR14qJ3vbffp5tvSF-JQY0AonSVjX56GkXQ2xXxLn3xAaLPsP_oKldFU7Bww0uBJPWrH-X6UuQiEDvA5OTJLkbPIm4wJGP",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJbdnDlrAE9l8RPV1cIeccy9Y",
+      "plus_code": {
+        "compound_code": "WF4J+WC 野沢温泉村、長野県",
+        "global_code": "8Q8WWF4J+WC"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,107 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1F",
-        "short_name": "1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "人生劇場",
-        "short_name": "人生劇場",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１１",
-        "short_name": "１１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "仲町",
-        "short_name": "仲町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0005",
-        "short_name": "391-0005",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0005 長野県茅野市仲町１１−２ 1F 人生劇場",
-    "geometry": {
-      "location": {
-        "lat": 35.9925575,
-        "lng": 138.1547393
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.99401563029149,
-          "lng": 138.1560396302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0005 長野県茅野市仲町１１−２ 1F 人生劇場",
+      "geometry": {
+        "location": {
+          "lat": 35.9925818,
+          "lng": 138.1547284
         },
-        "southwest": {
-          "lat": 35.99131766970849,
-          "lng": 138.1533416697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99401647989272,
+            "lng": 138.1560404798927
+          },
+          "southwest": {
+            "lat": 35.99131682010728,
+            "lng": 138.1533408201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4aw_yBdXHGAR9mvnY0Yccas",
-    "plus_code": {
-      "compound_code": "X5V3+2V 長野県茅野市",
-      "global_code": "8Q7WX5V3+2V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ととバル ギョぎょGyo",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112005255954195880732\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECZ4aPcDmkZPaIOEk_AsyQmCxQtbSJZEyQ4GUxt_kuzdnYpY3eAQa9RYVeZjjtxqErnx6mWj2hqF2Bkhf-LRgQWJmNQMnS0NzMAUzSYbpo0PY0-clu1Lj4YvorHc0ZQd9F2ovOF6BgZCRcoB3toKO9-quJ8IrTyAnmcc2niwa02aQXq",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ4aw_yBdXHGAR9mvnY0Yccas",
+      "plus_code": {
+        "compound_code": "X5V3+2V 茅野市、長野県",
+        "global_code": "8Q7WX5V3+2V"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

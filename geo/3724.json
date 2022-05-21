@@ -1,84 +1,82 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６４−１",
-        "short_name": "６４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎",
-        "short_name": "鼎",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0805",
-        "short_name": "395-0805",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0805 長野県飯田市鼎６４−１",
-    "geometry": {
-      "location": {
-        "lat": 35.503443,
-        "lng": 137.811687
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5048169802915,
-          "lng": 137.8129965802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0805 長野県飯田市鼎６４−１",
+      "geometry": {
+        "location": {
+          "lat": 35.503443,
+          "lng": 137.811687
         },
-        "southwest": {
-          "lat": 35.5021190197085,
-          "lng": 137.8102986197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50481782989272,
+            "lng": 137.8129974298928
+          },
+          "southwest": {
+            "lat": 35.50211817010727,
+            "lng": 137.8102977701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "はと錦 本店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110068882522828182979\">菅沼光貴</a>"
+          ],
+          "photo_reference": "Aap_uECD_IVnl6akpsSd2g_oblFD7zoran7-Sjw8Qpyg3pMBb06Phv8m8MvqMfyLhhB9n8krJ9pXWyg8eNBCdwhz7TZsrB-3tkndvgfo_t1k6uzSE-gOvKfpwzrQnzraSJX_oqq1rPy8ac8vSJ3NowSjjpjnHok3Leu5MvVGxxqRuDu0dWT9",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJzQHywq-ZHGARU7mkpqu7iYQ",
+      "plus_code": {
+        "compound_code": "GR36+9M 飯田市、長野県",
+        "global_code": "8Q7VGR36+9M"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJzQHywq-ZHGARU7mkpqu7iYQ",
-    "plus_code": {
-      "compound_code": "GR36+9M 長野県飯田市",
-      "global_code": "8Q7VGR36+9M"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0083 長野県飯田市錦町２丁目２",
+      "geometry": {
+        "location": {
+          "lat": 35.5211062,
+          "lng": 137.8259328
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.52244427989272,
+            "lng": 137.8272850298927
+          },
+          "southwest": {
+            "lat": 35.51974462010728,
+            "lng": 137.8245853701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "（有）錦食品",
+      "place_id": "ChIJARXRBeuZHGARFiADUbMGxTs",
+      "plus_code": {
+        "compound_code": "GRCG+C9 飯田市、長野県",
+        "global_code": "8Q7VGRCG+C9"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

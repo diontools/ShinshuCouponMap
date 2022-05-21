@@ -1,168 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1",
-        "short_name": "1",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "松川村",
-        "short_name": "松川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8501",
-        "short_name": "399-8501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "1, 松川村 北安曇郡 長野県 399-8501 日本",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4310313,
-          "lng": 137.8593956
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8501 長野県北安曇郡松川村細野５３７５−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3958779,
+          "lng": 137.867912
         },
-        "southwest": {
-          "lat": 36.4308824,
-          "lng": 137.8591563
+        "viewport": {
+          "northeast": {
+            "lat": 36.39716547989272,
+            "lng": 137.8694373798927
+          },
+          "southwest": {
+            "lat": 36.39446582010728,
+            "lng": 137.8667377201072
+          }
         }
       },
-      "location": {
-        "lat": 36.4309866,
-        "lng": 137.8592681
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4323058302915,
-          "lng": 137.8606005302915
-        },
-        "southwest": {
-          "lat": 36.42960786970851,
-          "lng": 137.8579025697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 安曇野松川",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117888739617711568207\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBeFtDzn481aENkVCkYrlw_St-1TKHQFAyG1Du87_UdwKCx4lEyeQpMd9MoFrr1NuAhQqLmId5g33SKpWzYwNc2CJZfqyqJvfayxoodRh4zgz4hGic3sPyroOpBwjyvgPRiOSQ-w_c6IwHDdMXjXWrM4X4ARsNp5P6xQO3KBwNUAvcY",
+          "width": 4000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJG2_PaOplHWAR98xJZRWFXck",
-    "types": [
-      "premise"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "1",
-        "short_name": "1",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJnRHonUFvHWARkgyv_BP8Sj4",
+      "plus_code": {
+        "compound_code": "9VW9+95 松川村、長野県",
+        "global_code": "8Q8V9VW9+95"
       },
-      {
-        "long_name": "松川村",
-        "short_name": "松川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8501",
-        "short_name": "399-8501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "1, 松川村 北安曇郡 長野県 399-8501 日本",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4282638,
-          "lng": 137.8624583
-        },
-        "southwest": {
-          "lat": 36.4280588,
-          "lng": 137.8618862
-        }
-      },
-      "location": {
-        "lat": 36.4281611,
-        "lng": 137.8622212
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4295102802915,
-          "lng": 137.8635212302915
-        },
-        "southwest": {
-          "lat": 36.4268123197085,
-          "lng": 137.8608232697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVcoLruxlHWARjqhbhMZGqp0",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

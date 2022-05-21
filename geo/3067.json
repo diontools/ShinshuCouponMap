@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３４７",
-        "short_name": "３３４７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大島",
-        "short_name": "大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3304",
-        "short_name": "399-3304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島３３４７",
-    "geometry": {
-      "location": {
-        "lat": 35.5972363,
-        "lng": 137.8843711
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.59848118029149,
-          "lng": 137.8856412802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島３３４７",
+      "geometry": {
+        "location": {
+          "lat": 35.5972363,
+          "lng": 137.8843711
         },
-        "southwest": {
-          "lat": 35.5957832197085,
-          "lng": 137.8829433197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.59848202989272,
+            "lng": 137.8856421298927
+          },
+          "southwest": {
+            "lat": 35.59578237010727,
+            "lng": 137.8829424701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoyDTGFWQHGARdBhHQhvigoA",
-    "plus_code": {
-      "compound_code": "HVWM+VP 長野県松川町",
-      "global_code": "8Q7VHVWM+VP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "フルーツガーデン北沢",
+      "photos": [
+        {
+          "height": 809,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111229113471088718406\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA7RCA1b5eO41YDM7IYpigfash6xy70NtxgKAcpZddLmwhG6dLEQ82I_iLYCeZzV2YNt7gKHBAwYgICNXXHRwokPOnCic04fBAPzJ6jWrddVX_TpDvifHt_izC6QheizQwc2XhCuFUCXRr1B7P0Hk-pMkgQLWOzK-YlFHC1Bbd28LY",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJoyDTGFWQHGARdBhHQhvigoA",
+      "plus_code": {
+        "compound_code": "HVWM+VP 松川町、長野県",
+        "global_code": "8Q7VHVWM+VP"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

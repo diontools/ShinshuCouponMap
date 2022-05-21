@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２８５６−９４",
-        "short_name": "１２８５６−９４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８５６−９４",
-    "geometry": {
-      "location": {
-        "lat": 36.768884,
-        "lng": 137.880241
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.77020143029149,
-          "lng": 137.8816761302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８５６−９４",
+      "geometry": {
+        "location": {
+          "lat": 36.768884,
+          "lng": 137.880241
         },
-        "southwest": {
-          "lat": 36.76750346970849,
-          "lng": 137.8789781697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.77020227989271,
+            "lng": 137.8816769798927
+          },
+          "southwest": {
+            "lat": 36.76750262010727,
+            "lng": 137.8789773201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5asCjkUz9l8RE_lpxLmuRE4",
-    "plus_code": {
-      "compound_code": "QV9J+H3 長野県小谷村",
-      "global_code": "8Q8VQV9J+H3"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "プチホテル バク",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116639225603518106742\">hajime arakawa</a>"
+          ],
+          "photo_reference": "Aap_uEAwIALiRts8yPv1ngVdCp2aVXtcwcJ2UXNrss2ReNNEEA_KQHvW0DatIojDSp8tcP4dp56_9ya9U56kPhb1QcNdCGwRkKYY1EkmDk_n8g9ihUKT22isJTnNs_Ufx34jb0B8UObAYFvx4dK2OuMaIMkCMjeY5j5V8UWxHaBBphi9w8H1",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ5asCjkUz9l8RE_lpxLmuRE4",
+      "plus_code": {
+        "compound_code": "QV9J+H3 小谷村、長野県",
+        "global_code": "8Q8VQV9J+H3"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

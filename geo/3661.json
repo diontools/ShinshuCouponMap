@@ -1,83 +1,38 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５７５",
-        "short_name": "１５７５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上郷飯沼",
-        "short_name": "上郷飯沼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0002",
-        "short_name": "395-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0002 長野県飯田市上郷飯沼１５７５",
-    "geometry": {
-      "location": {
-        "lat": 35.5233125,
-        "lng": 137.8509524
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5244883302915,
-          "lng": 137.8524207802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0002 長野県飯田市上郷飯沼１５７５",
+      "geometry": {
+        "location": {
+          "lat": 35.5233125,
+          "lng": 137.8509524
         },
-        "southwest": {
-          "lat": 35.5217903697085,
-          "lng": 137.8497228197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.52448917989272,
+            "lng": 137.8524216298927
+          },
+          "southwest": {
+            "lat": 35.52178952010728,
+            "lng": 137.8497219701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZ5TO5CSaHGARjksGOIV-6ic",
-    "plus_code": {
-      "compound_code": "GVF2+89 長野県飯田市",
-      "global_code": "8Q7VGVF2+89"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "みつばつつじイオン飯田店",
+      "place_id": "ChIJZ5TO5CSaHGARjksGOIV-6ic",
+      "plus_code": {
+        "compound_code": "GVF2+89 飯田市、長野県",
+        "global_code": "8Q7VGVF2+89"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７００−９",
-        "short_name": "１１７００−９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "夜間瀬",
-        "short_name": "夜間瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１１７００−９",
-    "geometry": {
-      "location": {
-        "lat": 36.788224,
-        "lng": 138.448867
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.78960938029149,
-          "lng": 138.4500804302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１１７００−９",
+      "geometry": {
+        "location": {
+          "lat": 36.788224,
+          "lng": 138.448867
         },
-        "southwest": {
-          "lat": 36.7869114197085,
-          "lng": 138.4473824697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.78961022989272,
+            "lng": 138.4500812798927
+          },
+          "southwest": {
+            "lat": 36.78691057010728,
+            "lng": 138.4473816201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJBTIMs7z1HWARGG1z45e3Sjc",
-    "plus_code": {
-      "compound_code": "QCQX+7G 日本、長野県山ノ内町",
-      "global_code": "8Q8WQCQX+7G"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル ホワイトイン北志賀",
+      "photos": [
+        {
+          "height": 2816,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117839776331141484533\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAGoXHjSrZ3eHN2gQ-7D8tgYcGUz4OGicIkE41qQl0193EohQS0X8Pa2GYg9SA_HCuLQJtdMsJFYe04bD96Iy2S4ufpWojZq5iMECRWG5ZUWCyNGqf8rOffm8XU3huXMgF_wmwOnNnfqKiArOQnCNpb4kJ6JvXIemQAdtzF8owGXRKp",
+          "width": 2112
+        }
+      ],
+      "place_id": "ChIJBTIMs7z1HWARGG1z45e3Sjc",
+      "plus_code": {
+        "compound_code": "QCQX+7G 山ノ内町、長野県",
+        "global_code": "8Q8WQCQX+7G"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

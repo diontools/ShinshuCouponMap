@@ -1,82 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５１",
-        "short_name": "５５１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈良井",
-        "short_name": "奈良井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6303",
-        "short_name": "399-6303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井５５１",
-    "geometry": {
-      "location": {
-        "lat": 35.96616090000001,
-        "lng": 137.812378
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.96758298029151,
-          "lng": 137.8135943302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井５５１",
+      "geometry": {
+        "location": {
+          "lat": 35.96616090000001,
+          "lng": 137.812378
         },
-        "southwest": {
-          "lat": 35.96488501970851,
-          "lng": 137.8108963697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96758382989272,
+            "lng": 137.8135951798927
+          },
+          "southwest": {
+            "lat": 35.96488417010728,
+            "lng": 137.8108955201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "BYAKU Narai 歳吉屋",
+      "photos": [
+        {
+          "height": 945,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110362411421550525520\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBAYYBJFPjvcYOAJaaqD1zf6pfv_LWJraqttIKFFFSCXkqS4ljVSc6KkR3DfQLQHnuipuKIIvU9fJtXMHA2FJdKIoDdb-bvskcNzfBO2DPqbdn9buOHN5nIPXQMA-6aE4oNCGv8mw0QSV-EVdqpYNoMwjDP3f_NUaAjv9k-2TWj9pDr",
+          "width": 1417
+        }
+      ],
+      "place_id": "ChIJuSchDl8fHWARiKoVVQXoYro",
+      "plus_code": {
+        "compound_code": "XR86+FX 塩尻市、長野県",
+        "global_code": "8Q7VXR86+FX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJuSchDl8fHWARiKoVVQXoYro",
-    "plus_code": {
-      "compound_code": "XR86+FX 日本、長野県塩尻市",
-      "global_code": "8Q7VXR86+FX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井６０７",
+      "geometry": {
+        "location": {
+          "lat": 35.96729699999999,
+          "lng": 137.8134083
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.96867677989272,
+            "lng": 137.8147310298928
+          },
+          "southwest": {
+            "lat": 35.96597712010728,
+            "lng": 137.8120313701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "BYAKU Narai 上原屋",
+      "photos": [
+        {
+          "height": 3948,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110378413500788349921\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBEVe-R5x5MHWmua15v8_DZoom54ZcEJtOl9MLK9r5vfvyDXMB93jWjJnxCf5FiUJXfxJqmg1wTb6BKpQcQ1HKAv6oAWxXw9Ary8EGxW4SlmI1ONs6hIlDYtE22g_t6yoVxYBpyL2MhSLouw6rc-6z0rwHOih4UaSPx_iJJB5uN8YQL",
+          "width": 6025
+        }
+      ],
+      "place_id": "ChIJVVXcIyYeHWAR8EcKTZ-pDZQ",
+      "plus_code": {
+        "compound_code": "XR87+W9 塩尻市、長野県",
+        "global_code": "8Q7VXR87+W9"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

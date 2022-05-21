@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３４６",
-        "short_name": "１３４６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南石堂町",
-        "short_name": "南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野南石堂町",
-        "short_name": "大字南長野南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0824",
-        "short_name": "380-0824",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0824 長野県長野市大字南長野南石堂町南石堂町１３４６",
-    "geometry": {
-      "location": {
-        "lat": 36.6427178,
-        "lng": 138.1869139
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6441657302915,
-          "lng": 138.1880454302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0824 長野県長野市大字南長野南石堂町１３４６",
+      "geometry": {
+        "location": {
+          "lat": 36.6427178,
+          "lng": 138.1869139
         },
-        "southwest": {
-          "lat": 36.6414677697085,
-          "lng": 138.1853474697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64416657989272,
+            "lng": 138.1880462798927
+          },
+          "southwest": {
+            "lat": 36.64146692010728,
+            "lng": 138.1853466201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVU4aHZOGHWARc3-78D8BiD8",
-    "plus_code": {
-      "compound_code": "J5VP+3Q 日本、長野県長野市",
-      "global_code": "8Q8WJ5VP+3Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "中国料理 皇華",
+      "photos": [
+        {
+          "height": 1592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118264178942489586635\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAZs1Dc6NnbazX2-aL0Trxsnprs7_G30ZlVYiEBWQkFoam31OYZJtg0NuGZCZhmZCDnJI_a-OsujYY6eEwbi3EcrulWQ3FJMR2aeNQE8G8gt4BvAus68aXzVqA7upgl7Vmv89TBG3HbrEuWNEJ8vWdrcWkcRFTU_JMWHCmfhxQ6guk",
+          "width": 2387
+        }
+      ],
+      "place_id": "ChIJVU4aHZOGHWARc3-78D8BiD8",
+      "plus_code": {
+        "compound_code": "J5VP+3Q 長野市、長野県",
+        "global_code": "8Q8WJ5VP+3Q"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

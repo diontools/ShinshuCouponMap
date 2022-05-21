@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡山ノ内町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２８５８番地５",
+      "geometry": {
+        "location": {
+          "lat": 36.7370367,
+          "lng": 138.4214687
         },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+        "viewport": {
+          "northeast": {
+            "lat": 36.73850167989272,
+            "lng": 138.4229143298927
+          },
+          "southwest": {
+            "lat": 36.73580202010728,
+            "lng": 138.4202146701072
+          }
         }
       },
-      "location": {
-        "lat": 36.7446479,
-        "lng": 138.4128175
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
-        },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "山ノ内町 子育て支援センター ゆめっこ",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108701220762771180051\">ggrks louis</a>"
+          ],
+          "photo_reference": "Aap_uEAzHGrAd40Vhl1JFXlmCWYS2x9NsubjyiElraQuvr7g8eECr13qRtpdbLx7LhRQRMj52ogcwpt2lOFkx9J7D0qe902RDxgttqHtAMok_L91EUM8LAxFk8-RBww3mgv-abSXScSK02Dphlg6Rl88rmtL3sdPe4RnJ2F8HOFFWCogXhop",
+          "width": 3264
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp5BF3xjxHWARfQ5Kg1VjUng",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJy8ELCZf0HWARMkJE0fHybUA",
+      "plus_code": {
+        "compound_code": "PCPC+RH 山ノ内町、長野県",
+        "global_code": "8Q8WPCPC+RH"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

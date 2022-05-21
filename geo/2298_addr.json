@@ -1,90 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６９３１−５",
-        "short_name": "６９３１−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西河原",
-        "short_name": "西河原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "島内",
-        "short_name": "島内",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0851",
-        "short_name": "390-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0851 長野県松本市島内西河原６９３１−５",
-    "geometry": {
-      "location": {
-        "lat": 36.2603209,
-        "lng": 137.9339511
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.26166988029149,
-          "lng": 137.9353000802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0851 長野県松本市島内西河原６９３１−５",
+      "geometry": {
+        "location": {
+          "lat": 36.2603209,
+          "lng": 137.9339511
         },
-        "southwest": {
-          "lat": 36.25897191970849,
-          "lng": 137.9326021197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26167072989272,
+            "lng": 137.9353009298927
+          },
+          "southwest": {
+            "lat": 36.25897107010727,
+            "lng": 137.9326012701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJuXghG5sNHWARR3RENI-YkWc",
-    "plus_code": {
-      "compound_code": "7W6M+4H 長野県松本市",
-      "global_code": "8Q8V7W6M+4H"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "梓川SA (下り)",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109387029774614406010\">泰地達也</a>"
+          ],
+          "photo_reference": "Aap_uECGXvI_ARIIJB-gK-JrZPJUeB_-TnCbo-uXfZ9ks_qtKAO8JYgp-o5Ia_948SXq7esrq8OZ4Xhk1ZB-tljsfnuYrLGqaoYUcloDC98mLKKdtig30iicZneVONySF3jOPC0shgMBkcnIa2mV8fP88X4bx1XKYDAxJDXkU-mOhOwjRHfo",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJuXghG5sNHWARR3RENI-YkWc",
+      "plus_code": {
+        "compound_code": "7W6M+4H 松本市、長野県",
+        "global_code": "8Q8V7W6M+4H"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

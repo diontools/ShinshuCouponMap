@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 軽井沢・プリンスショッピングプラザ スーベニアコート SC-08",
-    "geometry": {
-      "location": {
-        "lat": 36.3385808,
-        "lng": 138.6322742
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3400238802915,
-          "lng": 138.6335633802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 軽井沢・プリンスショッピングプラザ スーベニアコート SC-08",
+      "geometry": {
+        "location": {
+          "lat": 36.3385808,
+          "lng": 138.6322742
         },
-        "southwest": {
-          "lat": 36.3373259197085,
-          "lng": 138.6308654197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34002472989273,
+            "lng": 138.6335642298927
+          },
+          "southwest": {
+            "lat": 36.33732507010728,
+            "lng": 138.6308645701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQ7apG3vTHWARZEKymVj24Ps",
-    "plus_code": {
-      "compound_code": "8JQJ+CW 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JQJ+CW"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "沢屋 プリンスショッピングプラザ店",
+      "photos": [
+        {
+          "height": 5472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116092186445444072829\">小野寺秀樹</a>"
+          ],
+          "photo_reference": "Aap_uEDOOYbDTKpQI02EqUovpyoFRdLeSPs4FhdSDFRpnJqAoq9txQHkHSGjzGbx7PeDBm-oYJggF9RWfYXXMBqwBhoQ9sSEiwDofT2x6cRXETqc1xFmrrOXLfbNn_jCh8ULlbIELQAbRZFcVXSP_r5phymavOonl1-FPpPralzCAiLLloPM",
+          "width": 7296
+        }
+      ],
+      "place_id": "ChIJQ7apG3vTHWARZEKymVj24Ps",
+      "plus_code": {
+        "compound_code": "8JQJ+CW 軽井沢町、長野県",
+        "global_code": "8Q8W8JQJ+CW"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

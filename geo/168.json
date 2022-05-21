@@ -1,99 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７００−１１",
-        "short_name": "１１７００−１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "夜間瀬",
-        "short_name": "夜間瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "町大字",
-        "short_name": "町大字",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町町大字夜間瀬１１７００−１１",
-    "geometry": {
-      "location": {
-        "lat": 36.78884499999999,
-        "lng": 138.44984
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7902852302915,
-          "lng": 138.4511168302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町町大字夜間瀬１１７００−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.78884499999999,
+          "lng": 138.44984
         },
-        "southwest": {
-          "lat": 36.7875872697085,
-          "lng": 138.4484188697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.79028607989272,
+            "lng": 138.4511176798927
+          },
+          "southwest": {
+            "lat": 36.78758642010727,
+            "lng": 138.4484180201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJF3Lvvrz1HWARymlObsqbiF0",
-    "plus_code": {
-      "compound_code": "QCQX+GW 日本、長野県山ノ内町",
-      "global_code": "8Q8WQCQX+GW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル シャレー竜王",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116456972304012565411\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC7dxJxC1puU9V4pWIUhZh5IP4dAh72Isy-Bw206xrOPGdFBAcd4Q122gRAlME2WpUg1aPmSCZrn7_g6JyVKpNAL2NSOaE_1-0UncRBqk8NQvCmt1bKPg-iGfb0ceiERF4JRShI4b6zNxGk73GwdplzQ7Xp2e_iY0pbkZfPgiOKa1E",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJF3Lvvrz1HWARymlObsqbiF0",
+      "plus_code": {
+        "compound_code": "QCQX+GW 山ノ内町、長野県",
+        "global_code": "8Q8WQCQX+GW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

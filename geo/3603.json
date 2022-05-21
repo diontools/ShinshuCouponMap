@@ -1,76 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0016",
-        "short_name": "392-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0016 長野県諏訪市豊田 所久保３１１８",
-    "geometry": {
-      "location": {
-        "lat": 36.0270857,
-        "lng": 138.0778456
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.02831113029151,
-          "lng": 138.0790421302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0016 長野県諏訪市豊田 所久保３１１８",
+      "geometry": {
+        "location": {
+          "lat": 36.0270857,
+          "lng": 138.0778456
         },
-        "southwest": {
-          "lat": 36.02561316970851,
-          "lng": 138.0763441697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.02831197989272,
+            "lng": 138.0790429798927
+          },
+          "southwest": {
+            "lat": 36.02561232010728,
+            "lng": 138.0763433201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJV5v2sWH_HGARR7rHsqxyz1k",
-    "plus_code": {
-      "compound_code": "23GH+R4 長野県諏訪市",
-      "global_code": "8Q8W23GH+R4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "和食・信州そば処 そじ坊 諏訪湖ＳＡ店",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110585937496145664554\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC79MB-MzhlT7goqWQGJWcxW-IckmTlm87JMtxh4nb-iUsgUiWfwAhGCuc3VUvpXZ-CnC4bHTUvaD2mgTwqMUBLVygc5AW9ZToKgsSGVMacl_xdj9NMxoQGFJiFOY_3IOUZ65pT4M9YP4uefhyaAXEiN4_Mwcfn79VNs2EGBdqfTRhp",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJV5v2sWH_HGARR7rHsqxyz1k",
+      "plus_code": {
+        "compound_code": "23GH+R4 諏訪市、長野県",
+        "global_code": "8Q8W23GH+R4"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

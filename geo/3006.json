@@ -1,89 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３７３１−４",
-        "short_name": "３７３１−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３７３１−４",
-    "geometry": {
-      "location": {
-        "lat": 35.4552058,
-        "lng": 137.6686946
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4561961802915,
-          "lng": 137.6697197802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３７３１−４",
+      "geometry": {
+        "location": {
+          "lat": 35.4552058,
+          "lng": 137.6686946
         },
-        "southwest": {
-          "lat": 35.4534982197085,
-          "lng": 137.6670218197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.45619702989273,
+            "lng": 137.6697206298927
+          },
+          "southwest": {
+            "lat": 35.45349737010728,
+            "lng": 137.6670209701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJafo-2r6kHGARR7LEJB2a7hQ",
-    "plus_code": {
-      "compound_code": "FM49+3F 長野県阿智村",
-      "global_code": "8Q7VFM49+3F"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ヘブンスそのはら",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106003392477602217916\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDieW2X-Jlb-1LxsTLSt7W36qxOpgYfbtmtd4chzF78q9lSdN3ogDTERsLXUoapW_6-Z_-Q9LGzYNTPR8nWgzkLY2KsfpqkCvIybYAsQjCt6xW5J0hjDVh41VCuAsF3lwJ-kwgHXwUAb9MtspEZHEyQ3077b2NT2afhy1HtZtLXZ6T3",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJafo-2r6kHGARR7LEJB2a7hQ",
+      "plus_code": {
+        "compound_code": "FM49+3F 阿智村、長野県",
+        "global_code": "8Q7VFM49+3F"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

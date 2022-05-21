@@ -1,94 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小布施駅",
-        "short_name": "小布施駅",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "train_station",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 小布施駅",
-    "geometry": {
-      "location": {
-        "lat": 36.6989409,
-        "lng": 138.3128615
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7002425302915,
-          "lng": 138.3142538802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施",
+      "geometry": {
+        "location": {
+          "lat": 36.6989409,
+          "lng": 138.3128615
         },
-        "southwest": {
-          "lat": 36.6975445697085,
-          "lng": 138.3115559197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70024337989273,
+            "lng": 138.3142547298927
+          },
+          "southwest": {
+            "lat": 36.69754372010728,
+            "lng": 138.3115550701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJH-A3aGeJHWARl-6GuLdHBmw",
-    "plus_code": {
-      "compound_code": "M8X7+H4 日本、長野県小布施町",
-      "global_code": "8Q8WM8X7+H4"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "train_station",
-      "transit_station"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "name": "小布施駅",
+      "photos": [
+        {
+          "height": 3712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103028085410534773423\">Tsukasa</a>"
+          ],
+          "photo_reference": "Aap_uEAnTCaYrWLAgW_KUovf5kMl97tVG2e2J0tIpL7TOLKSMAEVN6DXF0k4LQ5bVLEaU2Dps9lZdVL-vNv05E4dkcEWjFjOKSn8n2wQCBHJOYpRC5rwt0Vb3phHevmY54GWKsJ3LKqCgFBGEyy7PjofIIbpiiiz7jG2owAZ83VMCKPNb62D",
+          "width": 5568
+        }
+      ],
+      "place_id": "ChIJH-A3aGeJHWARl-6GuLdHBmw",
+      "plus_code": {
+        "compound_code": "M8X7+H4 小布施町、長野県",
+        "global_code": "8Q8WM8X7+H4"
+      },
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

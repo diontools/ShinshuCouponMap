@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２０８−７",
-        "short_name": "１２０８−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿塩",
-        "short_name": "鹿塩",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大鹿村",
-        "short_name": "大鹿村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3501",
-        "short_name": "399-3501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3501 長野県下伊那郡大鹿村鹿塩１２０８−７",
-    "geometry": {
-      "location": {
-        "lat": 35.5894183,
-        "lng": 138.0605745
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5907781802915,
-          "lng": 138.0618486802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-3501 長野県下伊那郡大鹿村鹿塩１２０８−７",
+      "geometry": {
+        "location": {
+          "lat": 35.5894183,
+          "lng": 138.0605745
         },
-        "southwest": {
-          "lat": 35.5880802197085,
-          "lng": 138.0591507197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.59077902989272,
+            "lng": 138.0618495298927
+          },
+          "southwest": {
+            "lat": 35.58807937010727,
+            "lng": 138.0591498701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJo4GT0myHHGARfHCjPIxEFeU",
-    "plus_code": {
-      "compound_code": "H3Q6+Q6 長野県大鹿村",
-      "global_code": "8Q7WH3Q6+Q6"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-3501 長野県下伊那郡大鹿村鹿塩１２０８−７",
+      "place_id": "ChIJo4GT0myHHGARfHCjPIxEFeU",
+      "plus_code": {
+        "compound_code": "H3Q6+Q6 大鹿村、長野県",
+        "global_code": "8Q7WH3Q6+Q6"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

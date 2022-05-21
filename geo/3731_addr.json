@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８６５−１",
-        "short_name": "２８６５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎中平",
-        "short_name": "鼎中平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0801",
-        "short_name": "395-0801",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0801 長野県飯田市鼎中平２８６５−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5102896,
-          "lng": 137.8203371
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0801 長野県飯田市鼎中平２８６５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5100991,
+          "lng": 137.8200052
         },
-        "southwest": {
-          "lat": 35.5098659,
-          "lng": 137.8198145
+        "viewport": {
+          "northeast": {
+            "lat": 35.51127632989272,
+            "lng": 137.8214020298927
+          },
+          "southwest": {
+            "lat": 35.50857667010728,
+            "lng": 137.8187023701073
+          }
         }
       },
-      "location": {
-        "lat": 35.5100991,
-        "lng": 137.8200052
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5113707302915,
-          "lng": 137.8214247802915
-        },
-        "southwest": {
-          "lat": 35.5086727697085,
-          "lng": 137.8187268197085
-        }
-      }
-    },
-    "place_id": "ChIJrb0mV7yZHGARrS9h8G3bd6c",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒395-0801 長野県飯田市鼎中平２８６５−１",
+      "place_id": "ChIJrb0mV7yZHGARrS9h8G3bd6c",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

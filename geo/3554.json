@@ -1,78 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0016",
-        "short_name": "392-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0016 長野県諏訪市豊田",
-    "geometry": {
-      "location": {
-        "lat": 36.0270154,
-        "lng": 138.0779438
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0282386302915,
-          "lng": 138.0791375802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0016 長野県諏訪市豊田３１１８",
+      "geometry": {
+        "location": {
+          "lat": 36.0267651,
+          "lng": 138.0780532
         },
-        "southwest": {
-          "lat": 36.0255406697085,
-          "lng": 138.0764396197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.02812362989273,
+            "lng": 138.0792625298927
+          },
+          "southwest": {
+            "lat": 36.02542397010728,
+            "lng": 138.0765628701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNVQUoWH_HGARBKwW5AmlZ6s",
-    "plus_code": {
-      "compound_code": "23GH+R5 長野県諏訪市",
-      "global_code": "8Q8W23GH+R5"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "parking",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "峠の釜めし本舗「おぎのや」 中央自動車道諏訪湖サービスエリア(上り線)内売店",
+      "photos": [
+        {
+          "height": 2657,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108770730428604664943\">安田智一</a>"
+          ],
+          "photo_reference": "Aap_uECqUY-rgcTU5NW5Ff2PIf9NRqkIkBb3xIRoaHtnwS0TKlynp79v1KXNf7N47poubpOT_Ay8A1wT_UBG1Wlk2MaJIaC56ZXzmadN0d9_u1MRTgGr4xt-mIXmCISyV9iUx7Fll9W6oitdA2zoVeBILxBYVczXY8cKvWArzfsbuJQyKNyh",
+          "width": 3543
+        }
+      ],
+      "place_id": "ChIJjRl-jsH_HGARz_mvG5hVHcQ",
+      "plus_code": {
+        "compound_code": "23GH+M6 諏訪市、長野県",
+        "global_code": "8Q8W23GH+M6"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

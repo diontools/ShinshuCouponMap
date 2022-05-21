@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１２５",
-        "short_name": "１１２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "磯部",
-        "short_name": "磯部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0806",
-        "short_name": "389-0806",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0806 長野県千曲市磯部１１２５",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4807801,
-          "lng": 138.1506869
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0806 長野県千曲市磯部１１２５",
+      "geometry": {
+        "location": {
+          "lat": 36.4807081,
+          "lng": 138.1506148
         },
-        "southwest": {
-          "lat": 36.4806716,
-          "lng": 138.1505521
+        "viewport": {
+          "northeast": {
+            "lat": 36.48210062989272,
+            "lng": 138.1520309298927
+          },
+          "southwest": {
+            "lat": 36.47940097010728,
+            "lng": 138.1493312701073
+          }
         }
       },
-      "location": {
-        "lat": 36.4807081,
-        "lng": 138.1506148
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4820815302915,
-          "lng": 138.1519987302915
-        },
-        "southwest": {
-          "lat": 36.4793835697085,
-          "lng": 138.1493007697085
-        }
-      }
-    },
-    "place_id": "ChIJeT2uDw6cHWARJ_FoUqK1Mhk",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0806 長野県千曲市磯部１１２５",
+      "place_id": "ChIJeT2uDw6cHWARJ_FoUqK1Mhk",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

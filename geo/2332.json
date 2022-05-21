@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１",
-        "short_name": "２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１１",
-        "short_name": "１１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "並柳",
-        "short_name": "並柳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0825",
-        "short_name": "390-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0825 長野県松本市並柳２丁目１１−２１",
-    "geometry": {
-      "location": {
-        "lat": 36.2115252,
-        "lng": 137.9807225
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.21284228029149,
-          "lng": 137.9821801802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0825 長野県松本市並柳２丁目１１−２１",
+      "geometry": {
+        "location": {
+          "lat": 36.2115252,
+          "lng": 137.9807225
         },
-        "southwest": {
-          "lat": 36.2101443197085,
-          "lng": 137.9794822197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.21284312989272,
+            "lng": 137.9821810298927
+          },
+          "southwest": {
+            "lat": 36.21014347010728,
+            "lng": 137.9794813701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfxFaUB8PHWARasC2Ts0eYPs",
-    "plus_code": {
-      "compound_code": "6X6J+J7 日本、長野県松本市",
-      "global_code": "8Q8V6X6J+J7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "民芸旅館 深志荘",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109709343070991292163\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAUZ7nnNraVTyuDwCT1LHvp2vxM43mPz4Jm-OVY2X59l3qwV2Lhe8tOzVmvLtZwSJ4fB5HpYnPbhepfXFVFI4ffsqqcfwk1byszyZJsnSOohrnec1m5vfuCnEjb9eezM2r8D8LCPd_CP8lCQuXDyNuf_49nbusTFwqA1ECl2BDvIr_Y",
+          "width": 5120
+        }
+      ],
+      "place_id": "ChIJfxFaUB8PHWARasC2Ts0eYPs",
+      "plus_code": {
+        "compound_code": "6X6J+J7 松本市、長野県",
+        "global_code": "8Q8V6X6J+J7"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

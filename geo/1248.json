@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６０",
-        "short_name": "２６０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上塩尻",
-        "short_name": "上塩尻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0042",
-        "short_name": "386-0042",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0042 長野県上田市上塩尻２６０",
-    "geometry": {
-      "location": {
-        "lat": 36.417826,
-        "lng": 138.21386
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4191553802915,
-          "lng": 138.2152786802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0042 長野県上田市上塩尻２６０",
+      "geometry": {
+        "location": {
+          "lat": 36.4178106,
+          "lng": 138.2139341
         },
-        "southwest": {
-          "lat": 36.4164574197085,
-          "lng": 138.2125807197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.41915622989271,
+            "lng": 138.2152795298927
+          },
+          "southwest": {
+            "lat": 36.41645657010727,
+            "lng": 138.2125798701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJr3GJ5ZuiHWARb45SeOxmplQ",
-    "plus_code": {
-      "compound_code": "C697+4G 日本、長野県上田市",
-      "global_code": "8Q8WC697+4G"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "信州イゲタ味噌醸造蔵元 酒の原商店",
+      "photos": [
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110074207467664962130\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEARIJhTBYM7uesRG1LWYHKD2qbrjpn1YcCs9ckuEXwHHkNi0KgseZxV3RvxBuh1VktUjQUPrU0c_zSqPnMB13uUTumZPnMLl8jpz6qE0ZB6DRVawQDntwZbOioNC6cu1ydltcZoso8KgqDJqfPQ9mhm3kmg_MbLhcJSR_y1J9JoHyKI",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJr3GJ5ZuiHWARb45SeOxmplQ",
+      "plus_code": {
+        "compound_code": "C697+4G 上田市、長野県",
+        "global_code": "8Q8WC697+4G"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

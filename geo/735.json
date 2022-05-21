@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３７２−１",
-        "short_name": "１３７２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "松代町西寺尾",
-        "short_name": "松代町西寺尾",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-1215",
-        "short_name": "381-1215",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-1215 長野県長野市松代町西寺尾１３７２−１ インターチェンジ ビジネスホテル 温泉 おすすめ ディナーバイキング リゾートホテル",
-    "geometry": {
-      "location": {
-        "lat": 36.5715693,
-        "lng": 138.2006133
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5730753802915,
-          "lng": 138.2017275802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-1215 長野県長野市松代町西寺尾１３７２−１ インターチェンジ ビジネスホテル 温泉 おすすめ ディナーバイキング リゾートホテル",
+      "geometry": {
+        "location": {
+          "lat": 36.5715693,
+          "lng": 138.2006133
         },
-        "southwest": {
-          "lat": 36.5703774197085,
-          "lng": 138.1990296197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.57307622989273,
+            "lng": 138.2017284298927
+          },
+          "southwest": {
+            "lat": 36.57037657010729,
+            "lng": 138.1990287701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJy1pTnCeFHWARkZVn9fdu788",
-    "plus_code": {
-      "compound_code": "H6C2+J6 日本、長野県長野市",
-      "global_code": "8Q8WH6C2+J6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Royal Hotel 長野",
+      "photos": [
+        {
+          "height": 1997,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113776816821047340180\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC7FEyZ83LyrS-_iPMPAgQigcAoxh8zJehEOr-ktm06l8BOxfqTXU1P2yhHGDEqepy1UqvVwNUUbiyYlHie-7VNJH9QxHcbnX4chzQfq03NrmHbUDIyRmuV8l6V2BXZpTe8IGv4GGSCvByK7jeZNw-C7hNr85h4tQy0siTwm0CK9qBH",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJy1pTnCeFHWARkZVn9fdu788",
+      "plus_code": {
+        "compound_code": "H6C2+J6 長野市、長野県",
+        "global_code": "8Q8WH6C2+J6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

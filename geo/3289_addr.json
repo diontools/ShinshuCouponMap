@@ -1,108 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2f",
-        "short_name": "2f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根ファームス",
-        "short_name": "駒ヶ根ファームス",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７５９−４４７",
-        "short_name": "７５９−４４７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北割一区",
-        "short_name": "北割一区",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割一区７５９−４４７ 駒ヶ根ファームス 2f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.7435657,
-          "lng": 137.8926336
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割一区７５９−４４７ 駒ヶ根ファームス 2f",
+      "geometry": {
+        "location": {
+          "lat": 35.7434246,
+          "lng": 137.8924921
         },
-        "southwest": {
-          "lat": 35.7433155,
-          "lng": 137.8922945
+        "viewport": {
+          "northeast": {
+            "lat": 35.74468862989272,
+            "lng": 137.8937793298927
+          },
+          "southwest": {
+            "lat": 35.74198897010728,
+            "lng": 137.8910796701073
+          }
         }
       },
-      "location": {
-        "lat": 35.7434246,
-        "lng": 137.8924921
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7447583302915,
-          "lng": 137.8938130302915
-        },
-        "southwest": {
-          "lat": 35.7420603697085,
-          "lng": 137.8911150697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "駒ヶ根ファームス 2f",
+      "photos": [
+        {
+          "height": 2136,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106579317147060341595\">駒ヶ根観光協会</a>"
+          ],
+          "photo_reference": "Aap_uED1E5qEXgiEXiepjFLGqxE-NJq5LNuUyFbklppO31DgMlg5X7vM55DhtGcYIm7eR8lGFrFE2_ruiQlBUtULkC70Z0XF6owZPRa6k3N_qOXwHjTG23xYh5_vr1LQ_XMhFC_cGKqFJraSUCGwbLgy9i4UHykVQFVkiGzg0qI8hh7659Yf",
+          "width": 3216
         }
-      }
-    },
-    "place_id": "EmtKYXBhbiwg44CSMzk5LTQxMTcgTmFnYW5vLCBLb21hZ2FuZSwgQWthaG8sIEtpdGF3YXJpMWt14oiS77yX77yV77yZ4oiS77yU77yU77yXIOmnkuODtuagueODleOCoeODvOODoOOCuSAyZiIeGhwKFgoUChIJ_TSHhAjtHGARbDxEpTu6K0gSAjJm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "Em3ml6XmnKzjgIHjgJIzOTktNDExNyDplbfph47nnIzpp5Ljg7bmoLnluILotaTnqYLljJflibLkuIDljLrvvJfvvJXvvJniiJLvvJTvvJTvvJcg6aeS44O25qC544OV44Kh44O844Og44K5IDJmIh4aHAoWChQKEgn9NIeECO0cYBFsPESlO7orSBICMmY",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

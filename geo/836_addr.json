@@ -1,76 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "岡田町",
-        "short_name": "岡田町",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "中御所",
-        "short_name": "中御所",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0935",
-        "short_name": "380-0935",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0935 長野県長野市中御所 岡田町",
-    "geometry": {
-      "location": {
-        "lat": 36.6468076,
-        "lng": 138.1820609
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64815658029151,
-          "lng": 138.1834098802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0936 長野県長野市中御所岡田町１３１−４",
+      "geometry": {
+        "location": {
+          "lat": 36.642556,
+          "lng": 138.181075
         },
-        "southwest": {
-          "lat": 36.64545861970851,
-          "lng": 138.1807119197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64382162989272,
+            "lng": 138.1824710298928
+          },
+          "southwest": {
+            "lat": 36.64112197010728,
+            "lng": 138.1797713701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJB2OIgOmGHWAR1siA7REYmUY",
-    "types": [
-      "intersection"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル信濃路",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111238742476887117825\">木方亮一</a>"
+          ],
+          "photo_reference": "Aap_uEBiLK8xc7CWW3973IKUY7ytHu5QCFYodG0_smYGDPuPHKJyITrslrQ10i7LWt2DqoDTfWEY8D0LpRsA6HauqY6zl1EdUozfDwljG5sW4LDqmRd7ExkA9h5qbpFfseFPfYM27n4tuxMQKH9jMa_nhjPUoAYcW70Jr__Ziv2kQb59yOq5",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJn0XKx-qGHWARKPmjQHEKbEs",
+      "plus_code": {
+        "compound_code": "J5VJ+2C 長野市、長野県",
+        "global_code": "8Q8WJ5VJ+2C"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

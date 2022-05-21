@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１",
-        "short_name": "２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１１",
-        "short_name": "１１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "吉田",
-        "short_name": "吉田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0043",
-        "short_name": "381-0043",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "長野 県 長野 市 吉田 ４ 丁目 １１−２１−２, ４丁目-１１-21 吉田 長野市 長野県 381-0043 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.6662239,
-        "lng": 138.2259189
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6676055302915,
-          "lng": 138.2272721802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0822 長野県長野市鶴賀866−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6475036,
+          "lng": 138.1878448
         },
-        "southwest": {
-          "lat": 36.6649075697085,
-          "lng": 138.2245742197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64885577989272,
+            "lng": 138.1891997298927
+          },
+          "southwest": {
+            "lat": 36.64615612010728,
+            "lng": 138.1865000701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_eHkkjuGHWARPQs-2GYv0Pg",
-    "plus_code": {
-      "compound_code": "M68G+F9 日本、長野県長野市",
-      "global_code": "8Q8WM68G+F9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "楽",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117357616562067563705\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECs4mj6FM9iuFF67ay0Fm762XB5ThuTijfIORB-Bq6chmdGCA72zM_TADKE9-2coqjPjU1Kh4C2_sq_YgEWE2XXcV_eqFh057dEjLF6mjTLHtd_1r8OO9fwgwIsD6oLR1AGGHDozVYz3jqq__l5Nbg9_Sqxq3S1Zz9ZTdXLwv4VLONL",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJJ-4Tpe2GHWARJ5T6459tVK8",
+      "plus_code": {
+        "compound_code": "J5XQ+24 長野市、長野県",
+        "global_code": "8Q8WJ5XQ+24"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

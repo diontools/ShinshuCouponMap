@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡立科町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3243676,
-          "lng": 138.3442034
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡北佐久郡立科町４１０−３",
+      "geometry": {
+        "location": {
+          "lat": 36.1346465,
+          "lng": 138.2733722
         },
-        "southwest": {
-          "lat": 36.0862461,
-          "lng": 138.2337213
+        "viewport": {
+          "northeast": {
+            "lat": 36.13593727989272,
+            "lng": 138.2745649298927
+          },
+          "southwest": {
+            "lat": 36.13323762010727,
+            "lng": 138.2718652701072
+          }
         }
       },
-      "location": {
-        "lat": 36.2720773,
-        "lng": 138.3160771
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3243676,
-          "lng": 138.3442034
-        },
-        "southwest": {
-          "lat": 36.0862461,
-          "lng": 138.2337213
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション ワイルドフラワー",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111497378409937563936\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBy5KiBF7r3Tm1dTKMup1h_zMcyEzgmh4iCTkix8yobo6Mn5S152azaxiQhWu4rTZX4wbXizo6NbsU-R4Q2i7MfIuJKVK3uM0dsL9w3Dbg--DnDK5EwkG3sRFPz9J1fDuExjoVqyHOawPxvMKxan9UDaHpunb31Xdkl7VdnVp74Yd5Q",
+          "width": 1080
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFddCeKizHWARaM8BCA3KszE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJJYLdOBtNHGARjDnP_a48ioE",
+      "plus_code": {
+        "compound_code": "47MF+V8 立科町、長野県",
+        "global_code": "8Q8W47MF+V8"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

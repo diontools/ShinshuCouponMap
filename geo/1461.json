@@ -1,98 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1F",
-        "short_name": "1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "本館",
-        "short_name": "本館",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0193",
-        "short_name": "389-0193",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0193 長野県北佐久郡軽井沢町軽井沢 本館 1F",
-    "geometry": {
-      "location": {
-        "lat": 36.3297453,
-        "lng": 138.6373792
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.33064428029149,
-          "lng": 138.6380567802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0193 長野県北佐久郡軽井沢町軽井沢 本館 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.3297453,
+          "lng": 138.6373792
         },
-        "southwest": {
-          "lat": 36.3279463197085,
-          "lng": 138.6353588197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33064512989272,
+            "lng": 138.6380576298927
+          },
+          "southwest": {
+            "lat": 36.32794547010728,
+            "lng": 138.6353579701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc5jpxpzUHWAR6X76vO8VDfk",
-    "plus_code": {
-      "compound_code": "8JHP+VX 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JHP+VX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ダイニングルーム ボーセジュール",
+      "photos": [
+        {
+          "height": 1051,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112865989973735259569\">ボーセジュール</a>"
+          ],
+          "photo_reference": "Aap_uEBt7Lg6BUrJqifyOX8-NA16ixmVUEwJ6rVhO8AjZhwoWX05usuQ2gWhLpOTSUzGDcyoDcMuknWOiSA3pmpm6-15S1apEmgF8E6hB1uXDRad_Lg1Ae5CI631KzBB3JSkUwlyVM5G28XXd6YWaxiBHsYjmiyxWobZiFApA1vQD4qmYbYK",
+          "width": 1577
+        }
+      ],
+      "place_id": "ChIJc5jpxpzUHWAR6X76vO8VDfk",
+      "plus_code": {
+        "compound_code": "8JHP+VX 軽井沢町、長野県",
+        "global_code": "8Q8W8JHP+VX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

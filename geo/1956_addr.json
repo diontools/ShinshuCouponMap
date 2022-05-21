@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1515",
-        "short_name": "390-1515",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1515 長野県松本市安曇",
-    "geometry": {
-      "location": {
-        "lat": 36.1519177,
-        "lng": 137.6276281
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1532900302915,
-          "lng": 137.6289582302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1515 長野県松本市安曇白骨温泉4185−２",
+      "geometry": {
+        "location": {
+          "lat": 36.1459649,
+          "lng": 137.6249053
         },
-        "southwest": {
-          "lat": 36.1505920697085,
-          "lng": 137.6262602697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.14726077989272,
+            "lng": 137.6263323798927
+          },
+          "southwest": {
+            "lat": 36.14456112010728,
+            "lng": 137.6236327201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRWOCsRQ4HWARvmbtsk9A8Ig",
-    "plus_code": {
-      "compound_code": "5J2H+Q3 長野県松本市",
-      "global_code": "8Q8V5J2H+Q3"
-    },
-    "types": [
-      "establishment",
-      "health",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "かつらの湯丸永旅館",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113829654696321101862\">久保泰雄</a>"
+          ],
+          "photo_reference": "Aap_uEBj0PLgSySBAA1zHKj56ovk7EelXVr8GJNn6ERV7Eg2GpQchXRkioWfuilzmmZynKZSGC4nMJ2W81ziG7xtU42zmwD8sfjWMVcR2XZhbBO0LDg3dOjyyVLwXSZChaVHfwu35DdvAAk1vz_WW6nM9W8gAmYZDm8cQcGc7NzxyXsmGbMK",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ1T93vjg4HWAR1QV7U7512Uw",
+      "plus_code": {
+        "compound_code": "4JWF+9X 松本市、長野県",
+        "global_code": "8Q8V4JWF+9X"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

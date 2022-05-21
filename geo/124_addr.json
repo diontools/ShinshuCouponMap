@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１７４",
-        "short_name": "３１７４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３１７４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7405875,
-          "lng": 138.4185578
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３１７４",
+      "geometry": {
+        "location": {
+          "lat": 36.7404708,
+          "lng": 138.418414
         },
-        "southwest": {
-          "lat": 36.740364,
-          "lng": 138.4183168
+        "viewport": {
+          "northeast": {
+            "lat": 36.74178177989272,
+            "lng": 138.4197399798927
+          },
+          "southwest": {
+            "lat": 36.73908212010728,
+            "lng": 138.4170403201073
+          }
         }
       },
-      "location": {
-        "lat": 36.7404708,
-        "lng": 138.418414
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7418247302915,
-          "lng": 138.4197862802915
-        },
-        "southwest": {
-          "lat": 36.7391267697085,
-          "lng": 138.4170883197085
-        }
-      }
-    },
-    "place_id": "ChIJH0amKL70HWAR6ZZMzkGi9Ds",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0401 長野県下高井郡山ノ内町平穏３１７４",
+      "place_id": "ChIJH0amKL70HWAR6ZZMzkGi9Ds",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

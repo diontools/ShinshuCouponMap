@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６８１",
-        "short_name": "３６８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奥山田",
-        "short_name": "奥山田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "高山村",
-        "short_name": "高山村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0800",
-        "short_name": "382-0800",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0800 長野県上高井郡高山村奥山田３６８１",
-    "geometry": {
-      "location": {
-        "lat": 36.667717,
-        "lng": 138.456667
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6691005802915,
-          "lng": 138.4581412802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0800 長野県上高井郡高山村奥山田３６８１",
+      "geometry": {
+        "location": {
+          "lat": 36.667717,
+          "lng": 138.456667
         },
-        "southwest": {
-          "lat": 36.6664026197085,
-          "lng": 138.4554433197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66910142989273,
+            "lng": 138.4581421298927
+          },
+          "southwest": {
+            "lat": 36.66640177010728,
+            "lng": 138.4554424701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc06D_YrtHWARL064mSgzFKQ",
-    "plus_code": {
-      "compound_code": "MF94+3M 日本、長野県高山村",
-      "global_code": "8Q8WMF94+3M"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション樹里庵",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112055381753608585283\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAJv_QF3Ai30R9qxOSJD8UaeUHvL8Co3p0HyPLdTRSJF2SCBuwBWmOOYc3CWTLGP09FV_2JQ_w1z_xu6DYQo-QXnttFG2-Dax7v2EA-uaWhPdxCPMbCOrHjiuIQcoAfwO59sng-snU7APQzsCQH9AsdXwWnpqPCa9jOBPANbWOXmcnV",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJc06D_YrtHWARL064mSgzFKQ",
+      "plus_code": {
+        "compound_code": "MF94+3M 高山村、長野県",
+        "global_code": "8Q8WMF94+3M"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

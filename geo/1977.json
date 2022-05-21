@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４２９４−２",
-        "short_name": "４２９４−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇４２９４−２",
-    "geometry": {
-      "location": {
-        "lat": 36.1231079,
-        "lng": 137.6189423
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.12444328029149,
-          "lng": 137.6203343302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1520 長野県松本市安曇４２９４−２",
+      "geometry": {
+        "location": {
+          "lat": 36.1231079,
+          "lng": 137.6189423
         },
-        "southwest": {
-          "lat": 36.1217453197085,
-          "lng": 137.6176363697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12444412989272,
+            "lng": 137.6203351798927
+          },
+          "southwest": {
+            "lat": 36.12174447010728,
+            "lng": 137.6176355201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ73-0DM85HWARZ3S4Lt0i-y4",
-    "plus_code": {
-      "compound_code": "4JF9+6H 日本、長野県木曽町",
-      "global_code": "8Q8V4JF9+6H"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション カムス",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112189895642775834709\">MASAO OKADA</a>"
+          ],
+          "photo_reference": "Aap_uEDTRHp5b51N_57nrt22asAvQaB8PFXpGxxY8px9ro2nROhgllc4bFXGFlB3SDY07Y4uj4myv_11VhJ3GuJxUqP1XED3pCOzxZObCUjsJqJ5axiJqo_CJW8-lJYIZU-Qm91iEM6wsiXv29CSLH7RxeW8PyIfjJ508RuEN5nIiHSGlA5y",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ73-0DM85HWARZ3S4Lt0i-y4",
+      "plus_code": {
+        "compound_code": "4JF9+6H 木曽町、長野県",
+        "global_code": "8Q8V4JF9+6H"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

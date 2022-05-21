@@ -1,95 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４２６",
-        "short_name": "１４２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南石堂町",
-        "short_name": "南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0824",
-        "short_name": "380-0824",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0824 長野県長野市南長野南石堂町１４２６",
-    "geometry": {
-      "location": {
-        "lat": 36.6458809,
-        "lng": 138.1864197
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64712718029151,
-          "lng": 138.1879353302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0824 長野県長野市南石堂町１４２６",
+      "geometry": {
+        "location": {
+          "lat": 36.6458809,
+          "lng": 138.1864197
         },
-        "southwest": {
-          "lat": 36.64442921970851,
-          "lng": 138.1852373697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64712802989273,
+            "lng": 138.1879361798927
+          },
+          "southwest": {
+            "lat": 36.64442837010728,
+            "lng": 138.1852365201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJSWpat2qHHWAR9oYAHRC_qdo",
-    "plus_code": {
-      "compound_code": "J5WP+9H 日本、長野県長野市",
-      "global_code": "8Q8WJ5WP+9H"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "grocery_or_supermarket",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "創作和食 せったか 長野駅前店",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104099931842217598170\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAAuFYOXOX1_ieFj-on95wOzlzejJRu3wdOSG8zcSYQNY7d-z2VyvFU5mV_lWSizWRhFQ62wZYqfX7oLW12kwdzWQKziTUZMVCHM23XeW_8dttnFQEKq_8f4lc01S2wIPwmFKZ1WBG6MTsT1nZl5nynWzJvrdu-kCkJMiF6L2O7Im8",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJSWpat2qHHWAR9oYAHRC_qdo",
+      "plus_code": {
+        "compound_code": "J5WP+9H 長野市、長野県",
+        "global_code": "8Q8WJ5WP+9H"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

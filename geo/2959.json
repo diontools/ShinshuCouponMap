@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央町",
-        "short_name": "中央町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0027",
-        "short_name": "394-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0027 長野県岡谷市中央町２丁目２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.0598849,
-        "lng": 138.0483842
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0612290802915,
-          "lng": 138.0496608302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0027 長野県岡谷市中央町２丁目２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0598849,
+          "lng": 138.0483842
         },
-        "southwest": {
-          "lat": 36.0585311197085,
-          "lng": 138.0469628697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06122992989273,
+            "lng": 138.0496616798927
+          },
+          "southwest": {
+            "lat": 36.05853027010728,
+            "lng": 138.0469620201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlwEW0ND_HGAR8Cq6JtBjHC8",
-    "plus_code": {
-      "compound_code": "325X+X9 長野県岡谷市",
-      "global_code": "8Q8W325X+X9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "モスバーガー イルフプラザ岡谷店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104915055683291703885\">Kenichi Ishii</a>"
+          ],
+          "photo_reference": "Aap_uEBcqIesCxbcNtXW5mCKWaiO4_tYycfmdZBsDXlz3AOkXhUqzYp71LzdkOPxPKCLpr_bynFMsKEFFwrZwFQgtGKmf-3llO6rTlzwg_O2q2uQPKCEo-kKXoiKBRzEjY7W2B66Novo-tYMOdUbl0GTjvn_UQ4RMuL_pQE2eMMJ5no2L5pz",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJlwEW0ND_HGAR8Cq6JtBjHC8",
+      "plus_code": {
+        "compound_code": "325X+X9 岡谷市、長野県",
+        "global_code": "8Q8W325X+X9"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

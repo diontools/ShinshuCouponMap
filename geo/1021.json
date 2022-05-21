@@ -1,76 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "戸狩",
-        "short_name": "戸狩",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "照里",
-        "short_name": "照里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2413",
-        "short_name": "389-2413",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2413 長野県飯山市照里 戸狩",
-    "geometry": {
-      "location": {
-        "lat": 36.9134347,
-        "lng": 138.3896934
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.91478368029149,
-          "lng": 138.3910423802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2411 長野県飯山市豊田６３６２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.93203,
+          "lng": 138.387858
         },
-        "southwest": {
-          "lat": 36.91208571970849,
-          "lng": 138.3883444197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.93344437989272,
+            "lng": 138.3891875798927
+          },
+          "southwest": {
+            "lat": 36.93074472010728,
+            "lng": 138.3864879201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxURvk4sa9l8RyHFqQm95SJY",
-    "types": [
-      "intersection"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "レストハウスとがり",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100327541512610832128\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECstSi_nyZP6DQ7nvAcn3mv2J8DvpSM0XkmzSw9436ekZtslFUx7z3rZz3cYekGAp236QvkuphDjPgF11Mj-6NdceZJhgHtcqCyOVHtBmqYpfPNOiPM80xelcLtdWtRb_N02dh7isXUX0kdWCuc8OUsUXslPgqzjIlztqzQ1XcdtVA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJwyoPZgsQ9l8RCfn_97cSVEQ",
+      "plus_code": {
+        "compound_code": "W9JQ+R4 飯山市、長野県",
+        "global_code": "8Q8WW9JQ+R4"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

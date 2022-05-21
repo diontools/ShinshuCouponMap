@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "ヴィーナスコート",
-        "short_name": "ヴィーナスコート",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１１１８−１",
-        "short_name": "１１１８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西尾張部",
-        "short_name": "西尾張部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0031",
-        "short_name": "381-0031",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0031 長野県長野市西尾張部１１１８−１ ヴィーナスコート",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6477989,
-          "lng": 138.2303013
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0031 長野県長野市西尾張部１１１８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6477887,
+          "lng": 138.2301048
         },
-        "southwest": {
-          "lat": 36.6475788,
-          "lng": 138.2299174
+        "viewport": {
+          "northeast": {
+            "lat": 36.64916467989273,
+            "lng": 138.2314534298928
+          },
+          "southwest": {
+            "lat": 36.64646502010729,
+            "lng": 138.2287537701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6477379,
-        "lng": 138.2302179
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6490747802915,
-          "lng": 138.2314583302915
-        },
-        "southwest": {
-          "lat": 36.6463768197085,
-          "lng": 138.2287603697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ヴィーナスコート長野",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109904661499541632599\">ヴィーナスコート</a>"
+          ],
+          "photo_reference": "Aap_uED67sFrWA-2WTDfCpzkjDp1IcOvWqJvrVj3yp0ZP6fow9zUAn9OugTTU82mG8R9VBCl18RX2JLLs0ybcXmRJ0qxiRDC4t1sv8x-qqHQ1D-mQPvFyQicpzv4wCP6idEMV3ebdlXn3nnSEd8PHbMtxjFuP0xBl2DeU4clsKzg2syCPzC-",
+          "width": 768
         }
-      }
-    },
-    "place_id": "ChIJ15JBMAaGHWARBB8_Oqx9QeI",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJeV9tMAaGHWARPUOmOyWer5M",
+      "plus_code": {
+        "compound_code": "J6XJ+42 長野市、長野県",
+        "global_code": "8Q8WJ6XJ+42"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

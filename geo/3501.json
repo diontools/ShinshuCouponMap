@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２７９",
-        "short_name": "１２７９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "高島",
-        "short_name": "高島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0022",
-        "short_name": "392-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0022 長野県諏訪市高島２丁目１２７９",
-    "geometry": {
-      "location": {
-        "lat": 36.040369,
-        "lng": 138.109043
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0417493302915,
-          "lng": 138.1104594302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0022 長野県諏訪市高島２丁目１２７９",
+      "geometry": {
+        "location": {
+          "lat": 36.04035100000001,
+          "lng": 138.1090362
         },
-        "southwest": {
-          "lat": 36.0390513697085,
-          "lng": 138.1077614697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04175017989272,
+            "lng": 138.1104602798927
+          },
+          "southwest": {
+            "lat": 36.03905052010728,
+            "lng": 138.1077606201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-Upn6rlVHGARLA96YeG1Bpo",
-    "plus_code": {
-      "compound_code": "24R5+4J 長野県諏訪市",
-      "global_code": "8Q8W24R5+4J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "諏訪湖物産",
+      "photos": [
+        {
+          "height": 555,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116384611566914050254\">hiroaki maejima</a>"
+          ],
+          "photo_reference": "Aap_uEDLsfRdC69SgpBOGGQCIvRi6QNe80DbGT1_cU-cYb_N8P_Oh6wO9tai4FTfVwRh_uY-hQtVfZ_FkIxHfH1-Pg4Xqummi6Ni_OlSEduI55C0DTlYnHC16lqVfbeG8CDlKYses7cKyXbj9E8nTMlWEXlo9Vk0MntwHNhQRDsk23pk3ylL",
+          "width": 740
+        }
+      ],
+      "place_id": "ChIJ-Upn6rlVHGARLA96YeG1Bpo",
+      "plus_code": {
+        "compound_code": "24R5+4J 諏訪市、長野県",
+        "global_code": "8Q8W24R5+4J"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

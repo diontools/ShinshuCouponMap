@@ -1,99 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７４６−１",
-        "short_name": "７４６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "旧軽井沢",
-        "short_name": "旧軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢旧軽井沢７４６−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3584914,
-        "lng": 138.6365523
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3598490802915,
-          "lng": 138.6379130802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢旧軽井沢７４６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3584914,
+          "lng": 138.6365523
         },
-        "southwest": {
-          "lat": 36.3571511197085,
-          "lng": 138.6352151197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35984992989273,
+            "lng": 138.6379139298927
+          },
+          "southwest": {
+            "lat": 36.35715027010728,
+            "lng": 138.6352142701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRVgNyofTHWARR3TKEzVR--4",
-    "plus_code": {
-      "compound_code": "9J5P+9J 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J5P+9J"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "沢屋 旧軽井沢店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101275472035271119018\">劉汶叡</a>"
+          ],
+          "photo_reference": "Aap_uEDAnDf1XGJpvl-O8vu4WERjDmEOY1waPMpBthdckkNkHGOXQL7Ds56hwg7Rd5_HmOEk8oCM8oruCm8xit-KXPTK_y1oO59QIIx6IdFzbqdAIRNYDnceF2e3tb-Tobb_I34aWI-IkjJNa7iTO_tvN4rnGUcT6IayqMfLZvDKQ9CQ6Wwx",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJRVgNyofTHWARR3TKEzVR--4",
+      "plus_code": {
+        "compound_code": "9J5P+9J 軽井沢町、長野県",
+        "global_code": "8Q8W9J5P+9J"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

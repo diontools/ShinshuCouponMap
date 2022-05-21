@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５７０−１",
-        "short_name": "５７０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "篠ノ井有旅",
-        "short_name": "篠ノ井有旅",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "388-8016",
-        "short_name": "388-8016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒388-8016 長野県長野市篠ノ井有旅５７０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.5854455,
-        "lng": 138.1154413
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5869332802915,
-          "lng": 138.1165532802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒388-8016 長野県長野市篠ノ井有旅５７０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.5854455,
+          "lng": 138.1154413
         },
-        "southwest": {
-          "lat": 36.5842353197085,
-          "lng": 138.1138553197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.58693412989272,
+            "lng": 138.1165541298927
+          },
+          "southwest": {
+            "lat": 36.58423447010728,
+            "lng": 138.1138544701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJx624BjKCHWARAFMH4_oaNoo",
-    "plus_code": {
-      "compound_code": "H4P8+55 長野県長野市",
-      "global_code": "8Q8WH4P8+55"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒388-8016 長野県長野市篠ノ井有旅５７０−１",
+      "place_id": "ChIJx624BjKCHWARAFMH4_oaNoo",
+      "plus_code": {
+        "compound_code": "H4P8+55 長野市、長野県",
+        "global_code": "8Q8WH4P8+55"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

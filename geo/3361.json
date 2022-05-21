@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３９９",
-        "short_name": "１３９９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中箕輪",
-        "short_name": "中箕輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "箕輪町",
-        "short_name": "箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4601",
-        "short_name": "399-4601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪１３９９",
-    "geometry": {
-      "location": {
-        "lat": 35.9404714,
-        "lng": 137.9781008
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9417905302915,
-          "lng": 137.9795807302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪１３９９",
+      "geometry": {
+        "location": {
+          "lat": 35.9404346,
+          "lng": 137.9781802
         },
-        "southwest": {
-          "lat": 35.9390925697085,
-          "lng": 137.9768827697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.94179137989272,
+            "lng": 137.9795815798927
+          },
+          "southwest": {
+            "lat": 35.93909172010728,
+            "lng": 137.9768819201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJ3pjGsT7HGARyLRHB50sjvA",
-    "plus_code": {
-      "compound_code": "WXRH+56 長野県箕輪町",
-      "global_code": "8Q7VWXRH+56"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "たまや食堂",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102300471418234869019\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECsMrBiI914V4s9gFnUtsmtgxvN76Sc_GekjJrHllGvePqOpEYpIwYMfX-qLNZ9-e2qXpT_t2_vL_g4IFEegx00SyYxgZ01j4EJJ4AS7Ui5cFW4z2EZqjqSPAAWWl6_vBiYJnN7yo2mWFMnCWpwwdwSYO2ZeJqmeQsqEpbEd_qYN2vL",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJ3pjGsT7HGARyLRHB50sjvA",
+      "plus_code": {
+        "compound_code": "WXRH+56 箕輪町、長野県",
+        "global_code": "8Q7VWXRH+56"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

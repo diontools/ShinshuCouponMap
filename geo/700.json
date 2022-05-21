@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７６３",
-        "short_name": "２７６３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠豊岡",
-        "short_name": "戸隠豊岡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4102",
-        "short_name": "381-4102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4102 長野県長野市戸隠豊岡２７６３",
-    "geometry": {
-      "location": {
-        "lat": 36.715839,
-        "lng": 138.1147359
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7171060302915,
-          "lng": 138.1160521802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4102 長野県長野市戸隠豊岡２７６３",
+      "geometry": {
+        "location": {
+          "lat": 36.715839,
+          "lng": 138.1147359
         },
-        "southwest": {
-          "lat": 36.7144080697085,
-          "lng": 138.1133542197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71710687989273,
+            "lng": 138.1160530298927
+          },
+          "southwest": {
+            "lat": 36.71440722010728,
+            "lng": 138.1133533701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0dsHA2Qp9l8RgwUItMMCVk4",
-    "plus_code": {
-      "compound_code": "P487+8V 日本、長野県長野市",
-      "global_code": "8Q8WP487+8V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "大久保西の茶屋本店",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100595165325353840981\">飯島裕一</a>"
+          ],
+          "photo_reference": "Aap_uEB84y8UlAcYM-WVRhjJyPTPd1WU0l8sV26XNUxrB4BG9QqkG4TJX4HcDor2qdZZAId5ASk5rtcB3c-PS7XW7eUEH91n2SoSnbqD0W3Hzzia7aoTW7FbyRPcZ-rdQS9L2D6k3xTGGK5iVMkoIJFJjEqWhtZdQiOOpaALGGXNF9hGTC_P",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJ0dsHA2Qp9l8RgwUItMMCVk4",
+      "plus_code": {
+        "compound_code": "P487+8V 長野市、長野県",
+        "global_code": "8Q8WP487+8V"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

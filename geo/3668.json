@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２５０−１",
-        "short_name": "１２５０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上村",
-        "short_name": "上村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1403",
-        "short_name": "399-1403",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1403 長野県飯田市上村１２５０−１",
-    "geometry": {
-      "location": {
-        "lat": 35.3746948,
-        "lng": 137.9824743
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.3760105302915,
-          "lng": 137.9838481802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1403 長野県飯田市上村１２５０−１",
+      "geometry": {
+        "location": {
+          "lat": 35.3746948,
+          "lng": 137.9824743
         },
-        "southwest": {
-          "lat": 35.3733125697085,
-          "lng": 137.9811502197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.37601137989272,
+            "lng": 137.9838490298928
+          },
+          "southwest": {
+            "lat": 35.37331172010728,
+            "lng": 137.9811493701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL0BtQed7G2AR7Lj_WROhuSA",
-    "plus_code": {
-      "compound_code": "9XFJ+VX 長野県飯田市",
-      "global_code": "8Q7V9XFJ+VX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "はんば亭",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103737723153450934508\">kazu miura</a>"
+          ],
+          "photo_reference": "Aap_uEDZ9_7e9Ft9af7dW2T70idCnNLU-HvjjekXgqrKKdJ1j0hYWF6WzYFyHNSGGpEh3ZLvqAjPVEwiZSaY77-eROvMc7qn967ZZEdpuLYy42eyKAp2uz2GH88jwHJxU2Gadu3vdpZ9BK6ZrCO_duCaVxUoAbwIyboNqkoKv5YJPTvx8UVm",
+          "width": 5120
+        }
+      ],
+      "place_id": "ChIJL0BtQed7G2AR7Lj_WROhuSA",
+      "plus_code": {
+        "compound_code": "9XFJ+VX 飯田市、長野県",
+        "global_code": "8Q7V9XFJ+VX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

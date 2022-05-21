@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３０３−１",
-        "short_name": "２３０３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "開田高原末川",
-        "short_name": "開田高原末川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0301",
-        "short_name": "397-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0301 長野県木曽郡木曽町開田高原末川２３０３−１",
-    "geometry": {
-      "location": {
-        "lat": 35.94926170000001,
-        "lng": 137.6421553
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.95063733029151,
-          "lng": 137.6434662302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0301 長野県木曽郡木曽町開田高原末川２３０３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.94926170000001,
+          "lng": 137.6421553
         },
-        "southwest": {
-          "lat": 35.94793936970851,
-          "lng": 137.6407682697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.95063817989272,
+            "lng": 137.6434670798927
+          },
+          "southwest": {
+            "lat": 35.94793852010728,
+            "lng": 137.6407674201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJXWwZ6GMmHWARBKXzxfPk91g",
-    "plus_code": {
-      "compound_code": "WJXR+PV 長野県木曽町",
-      "global_code": "8Q7VWJXR+PV"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "カフェレスト・はーと",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109470953705723980133\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAOphFux4a4ADDFmjyu6AQ1S8yC3nfagTEqLHg_1ok7fPGQSgudGzOsY1-gml1SIzfomogJP92hj7azxZ8aHxbUAFFfWB1fah4PHbNr328DLfzoBI78nU_43kthcZaNco2tHje49NAgG_VffouqjqSHc28PLF1wO39UR4Y2ZYHCokH-",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJXWwZ6GMmHWARBKXzxfPk91g",
+      "plus_code": {
+        "compound_code": "WJXR+PV 木曽町、長野県",
+        "global_code": "8Q7VWJXR+PV"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

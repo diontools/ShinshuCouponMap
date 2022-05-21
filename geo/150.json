@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏 志賀高原 一の瀬ファミリー通り",
-    "geometry": {
-      "location": {
-        "lat": 36.7358423,
-        "lng": 138.5128104
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7372225802915,
-          "lng": 138.5140597302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町 志賀高原 一の瀬ファミリー通り",
+      "geometry": {
+        "location": {
+          "lat": 36.7358423,
+          "lng": 138.5128104
         },
-        "southwest": {
-          "lat": 36.7345246197085,
-          "lng": 138.5113617697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73722342989272,
+            "lng": 138.5140605798928
+          },
+          "southwest": {
+            "lat": 36.73452377010728,
+            "lng": 138.5113609201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6pqZpf0HWAR3iQpJFW3mWk",
-    "plus_code": {
-      "compound_code": "PGP7+84 日本、長野県山ノ内町",
-      "global_code": "8Q8WPGP7+84"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル山楽",
+      "photos": [
+        {
+          "height": 4624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105617597583065678123\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECD7u0S_JcvmPxACxChdhpC8hdKSEcebVoERfMs7uh_wZNBYEc6SZb2ptDKGXkYY9GCNHebw2O2IHYigpkjL4sP4UbdPENe8Qhu6pCH_xDPwngLSCgwHYbZYmD8uAw5UNPBBoUi4ngdNX4csRYsO4iy4zR8EJNyxXro5WfIn8swYo-x",
+          "width": 3468
+        }
+      ],
+      "place_id": "ChIJq6pqZpf0HWAR3iQpJFW3mWk",
+      "plus_code": {
+        "compound_code": "PGP7+84 山ノ内町、長野県",
+        "global_code": "8Q8WPGP7+84"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

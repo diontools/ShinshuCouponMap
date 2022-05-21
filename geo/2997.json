@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３６６−８",
-        "short_name": "３３６６−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３３６６−８",
-    "geometry": {
-      "location": {
-        "lat": 35.4373096,
-        "lng": 137.7073394
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4386954302915,
-          "lng": 137.7087502302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３３６６−８",
+      "geometry": {
+        "location": {
+          "lat": 35.4373096,
+          "lng": 137.7073394
         },
-        "southwest": {
-          "lat": 35.4359974697085,
-          "lng": 137.7060522697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.43869627989272,
+            "lng": 137.7087510798927
+          },
+          "southwest": {
+            "lat": 35.43599662010728,
+            "lng": 137.7060514201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJF6NiMbyjHGARqAMkxB_pOjQ",
-    "plus_code": {
-      "compound_code": "CPP4+WW 長野県阿智村",
-      "global_code": "8Q7VCPP4+WW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば 三日庵",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100928073120300661997\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBy97oABFUCBZ6k3HlaOr3ubwjwAM-DCiUc3Tf4uaZSCLgmg5GoIbTv1TttHe2HlwCoF6ylzhl4cI44oc8IdHU_n4UlBCpdQ6lCLVluhCN1Dem23bB3NwJiqS66be7tUAZ8j2Bt7h0sq0FqZj_JP1H4H_8CEykGzx6v_wAGyhAm7NEK",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJF6NiMbyjHGARqAMkxB_pOjQ",
+      "plus_code": {
+        "compound_code": "CPP4+WW 阿智村、長野県",
+        "global_code": "8Q7VCPP4+WW"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

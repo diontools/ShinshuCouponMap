@@ -1,101 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "ＫＩＴＣＨＥＮ３６５",
-        "short_name": "ＫＩＴＣＨＥＮ３６５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１１３０−８",
-        "short_name": "１１３０−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南県町",
-        "short_name": "南県町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野南県町",
-        "short_name": "大字南長野南県町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0836",
-        "short_name": "380-0836",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0836 長野県長野市大字南長野南県町南県町１１３０−８ ＫＩＴＣＨＥＮ３６５",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.649553,
-          "lng": 138.185103
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0836 長野県長野市大字南長野南県町南県町１１３０−８ ＫＩＴＣＨＥＮ３６５",
+      "geometry": {
+        "location": {
+          "lat": 36.64951,
+          "lng": 138.1850421
         },
-        "southwest": {
-          "lat": 36.6494723,
-          "lng": 138.1849839
+        "viewport": {
+          "northeast": {
+            "lat": 36.65093642989272,
+            "lng": 138.1864114798927
+          },
+          "southwest": {
+            "lat": 36.64823677010727,
+            "lng": 138.1837118201073
+          }
         }
       },
-      "location": {
-        "lat": 36.64951,
-        "lng": 138.1850421
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6509167302915,
-          "lng": 138.1863924302915
-        },
-        "southwest": {
-          "lat": 36.6482187697085,
-          "lng": 138.1836944697085
-        }
-      }
-    },
-    "place_id": "ChIJT_vGzu6GHWAROqSbG9V1kiw",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "ＫＩＴＣＨＥＮ３６５",
+      "place_id": "ChIJT_vGzu6GHWAROqSbG9V1kiw",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

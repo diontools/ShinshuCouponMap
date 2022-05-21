@@ -1,72 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡軽井沢町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町南軽井沢１３９８−９９",
+      "geometry": {
+        "location": {
+          "lat": 36.3149188,
+          "lng": 138.6319509
         },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+        "viewport": {
+          "northeast": {
+            "lat": 36.31615207989272,
+            "lng": 138.6329380798927
+          },
+          "southwest": {
+            "lat": 36.31345242010728,
+            "lng": 138.6302384201072
+          }
         }
       },
-      "location": {
-        "lat": 36.3483927,
-        "lng": 138.5970297
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
-        },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ドッグデプトガーデンホテル軽井沢",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113990648126705241837\">113990648126705241837</a>"
+          ],
+          "photo_reference": "Aap_uEB0_307FzXECM5UMMeEimPj9rCEC8niqiWw51KzEhm-tbXpuw2mN50ZDIN6cVSttxSWvNb8ThepXKEPwGzHVK_6ofl4G0mWk0sVVUv1_zsVA6F65YhQMXzyqw9CGkRRc3b3dBjb6xk7kXI-IYBfRJpgZrBIpD9cWkXZkoPvuzkXtV27",
+          "width": 4032
         }
-      }
+      ],
+      "place_id": "ChIJ7dEgsFPTHWARTjJaLs4YtHA",
+      "plus_code": {
+        "compound_code": "8J7J+XQ 軽井沢町、長野県",
+        "global_code": "8Q8W8J7J+XQ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJk6PBPzzSHWAR-XHag0iPEZk",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡 軽井沢町南軽井沢１３９８−９９",
+      "geometry": {
+        "location": {
+          "lat": 36.3149693,
+          "lng": 138.6316621
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.31618882989272,
+            "lng": 138.6330221298927
+          },
+          "southwest": {
+            "lat": 36.31348917010727,
+            "lng": 138.6303224701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ドッグデプトガーデン 軽井沢店",
+      "photos": [
+        {
+          "height": 2400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104715855686791381013\">ドッグデプト・ガーデン軽井沢</a>"
+          ],
+          "photo_reference": "Aap_uEDNdWjLHabWhYHzQ16hCgKiDF6HZAtSI7SK3mQBamy9of2kuecKwt41hKvmjoBS2wIFiV5Wgb2dZSCYzrZYdo7dGtc0YkxqwQsuSceKquoHmMI9FN8FnOuCeCLR_b-jHXF-N1Rt2mqr3Ytq29PS6zzf4wbsXnpkmH_vwpAUhebF4BuH",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJwz-9qFPTHWARBwwIUUnmks8",
+      "plus_code": {
+        "compound_code": "8J7J+XM 軽井沢町、長野県",
+        "global_code": "8Q8W8J7J+XM"
+      },
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

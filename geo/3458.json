@@ -1,103 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８",
-        "short_name": "２８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り１丁目１３−２８",
-    "geometry": {
-      "location": {
-        "lat": 36.0558416,
-        "lng": 138.1117588
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.05717618029149,
-          "lng": 138.1129486302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り１丁目１３−２８",
+      "geometry": {
+        "location": {
+          "lat": 36.0558416,
+          "lng": 138.1117588
         },
-        "southwest": {
-          "lat": 36.05447821970849,
-          "lng": 138.1102506697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05717702989271,
+            "lng": 138.1129494798927
+          },
+          "southwest": {
+            "lat": 36.05447737010727,
+            "lng": 138.1102498201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ73ZjJqhVHGARTeB_FQid-0s",
-    "plus_code": {
-      "compound_code": "3446+8P 長野県諏訪市",
-      "global_code": "8Q8W3446+8P"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "museum",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "北澤美術館",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117728908659300388576\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEASYd2jvVBC4AM3R9cRpQgfwbjCRPbApozAidMquWp3OJ4XoNYVaMlpSg1rAxlXO08MJPnJrDXuFBoR9bs65wYnmfQNx_baLfo9b3MdMt1q8nkqkWllcNEpRsSmtvNZQNf5n3tZPgBO43JZUuKSkM8EbuqZYNIKiL1--vuqmnw1gudk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ73ZjJqhVHGARTeB_FQid-0s",
+      "plus_code": {
+        "compound_code": "3446+8P 諏訪市、長野県",
+        "global_code": "8Q8W3446+8P"
+      },
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

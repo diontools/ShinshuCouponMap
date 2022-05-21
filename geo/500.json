@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５０７−１",
-        "short_name": "５０７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "屋代",
-        "short_name": "屋代",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0007",
-        "short_name": "387-0007",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0007 長野県千曲市屋代５０７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.5349858,
-        "lng": 138.1384807
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5361265802915,
-          "lng": 138.1398005302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0007 長野県千曲市屋代５０７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.534925,
+          "lng": 138.1384868
         },
-        "southwest": {
-          "lat": 36.5334286197085,
-          "lng": 138.1371025697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53612742989272,
+            "lng": 138.1398013798927
+          },
+          "southwest": {
+            "lat": 36.53342777010728,
+            "lng": 138.1371017201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQYwbOTWDHWARK4V6Rc8XM6A",
-    "plus_code": {
-      "compound_code": "G4MQ+X9 日本、長野県千曲市",
-      "global_code": "8Q8WG4MQ+X9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "あんずの里物産館",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117393380421308463398\">チャンネルニコラシカ</a>"
+          ],
+          "photo_reference": "Aap_uED5oGLw959ighcoSEKAwIqP2wBsW_IXlAQPsyN3A7ntCrmF-BVI4k3W6oz9XiqkiSE9ugYYTD9j346itP6ehbfJaxoffxvfcvBGG6cQ0N0qRCNa4RKosBVieWunamWpP7yNxawZxrv6iYHeTK_Y84AzctdAHx-2bn63isuBdPgapxf7",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJQYwbOTWDHWARK4V6Rc8XM6A",
+      "plus_code": {
+        "compound_code": "G4MQ+X9 千曲市、長野県",
+        "global_code": "8Q8WG4MQ+X9"
+      },
+      "types": [
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

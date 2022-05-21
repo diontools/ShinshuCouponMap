@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 軽井沢・プリンスショッピングプラザ フードコート FC-03",
-    "geometry": {
-      "location": {
-        "lat": 36.3417927,
-        "lng": 138.6333506
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3431247802915,
-          "lng": 138.6346991302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 軽井沢・プリンスショッピングプラザ フードコート FC-03",
+      "geometry": {
+        "location": {
+          "lat": 36.3417927,
+          "lng": 138.6333506
         },
-        "southwest": {
-          "lat": 36.3404268197085,
-          "lng": 138.6320011697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34312562989273,
+            "lng": 138.6346999798927
+          },
+          "southwest": {
+            "lat": 36.34042597010728,
+            "lng": 138.6320003201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJe2Zde3vTHWAR-WiWSeBBhtc",
-    "plus_code": {
-      "compound_code": "8JRM+P8 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JRM+P8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "信州ぐるめ農場",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116693087682958774947\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBe-ocmxK9jQfTdE6jDsqNcobxIimQdckOrq2nov_0-OQwZWr23TKGoQHUld8p41ffwRzr3KrQI92pfYbcf4SrN9ZwB98MKY0X7j6CpOpO0pZJTWCFC09J47vvM2wKjXqHylj9_zmRH4ioxt8C80MYv5FcJv48WDqzN2738T8TTgy3v",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJe2Zde3vTHWAR-WiWSeBBhtc",
+      "plus_code": {
+        "compound_code": "8JRM+P8 軽井沢町、長野県",
+        "global_code": "8Q8W8JRM+P8"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０９８−１２",
-        "short_name": "３０９８−１２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "小島",
-        "short_name": "小島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0013",
-        "short_name": "387-0013",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0013 長野県千曲市小島３０９８−１２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5323828,
-          "lng": 138.1280787
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒387-0013 長野県千曲市小島３０９８−１２",
+      "geometry": {
+        "location": {
+          "lat": 36.5323257,
+          "lng": 138.1279923
         },
-        "southwest": {
-          "lat": 36.5322733,
-          "lng": 138.1279411
+        "viewport": {
+          "northeast": {
+            "lat": 36.53357822989273,
+            "lng": 138.1292915298927
+          },
+          "southwest": {
+            "lat": 36.53087857010728,
+            "lng": 138.1265918701073
+          }
         }
       },
-      "location": {
-        "lat": 36.5323257,
-        "lng": 138.1279923
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5336059302915,
-          "lng": 138.1293313802915
-        },
-        "southwest": {
-          "lat": 36.5309079697085,
-          "lng": 138.1266334197085
-        }
-      }
-    },
-    "place_id": "ChIJb_QGry2DHWARipHEvceDUHE",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒387-0013 長野県千曲市小島３０９８−１２",
+      "place_id": "ChIJb_QGry2DHWARipHEvceDUHE",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

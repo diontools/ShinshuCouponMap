@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３３５−４",
-        "short_name": "３３３５−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "古海",
-        "short_name": "古海",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1302",
-        "short_name": "389-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海３３３５−４",
-    "geometry": {
-      "location": {
-        "lat": 36.849431,
-        "lng": 138.253527
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.85068853029149,
-          "lng": 138.2548126802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海３３３５−４",
+      "geometry": {
+        "location": {
+          "lat": 36.849431,
+          "lng": 138.253527
         },
-        "southwest": {
-          "lat": 36.84799056970849,
-          "lng": 138.2521147197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85068937989272,
+            "lng": 138.2548135298927
+          },
+          "southwest": {
+            "lat": 36.84798972010728,
+            "lng": 138.2521138701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJETbR_JQi9l8R0Ca74fj6kfI",
-    "plus_code": {
-      "compound_code": "R7X3+QC 日本、長野県信濃町",
-      "global_code": "8Q8WR7X3+QC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "森のログホテル カムループス",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118208504955513178538\">吉田繁樹</a>"
+          ],
+          "photo_reference": "Aap_uEAMufJxUieVDgRoKpbS1Zru15Oip6tQXyMagsxYgp4mLeCU0e52qnVQgUGRHzsRQWzawDW2u2wvT3wD5YUEkcyLjjRkQ6DqS3bPA1oSAn-SSkDys9ARols-VgJGgsNsTsdnpZfbatVme70U6304b6lvO533115BcXPjs87-sMFOo0uM",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJETbR_JQi9l8R0Ca74fj6kfI",
+      "plus_code": {
+        "compound_code": "R7X3+QC 信濃町、長野県",
+        "global_code": "8Q8WR7X3+QC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

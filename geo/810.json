@@ -1,109 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１階",
-        "short_name": "１階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "もんぜんぷら座",
-        "short_name": "もんぜんぷら座",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "１４８５−１",
-        "short_name": "１４８５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "新田町",
-        "short_name": "新田町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0835",
-        "short_name": "380-0835",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0835 長野県長野市南長野新田町１４８５−１ １階 もんぜんぷら座",
-    "geometry": {
-      "location": {
-        "lat": 36.649185,
-        "lng": 138.186725
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6503917302915,
-          "lng": 138.1882709802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0835 長野県長野市１４８５−１ １階 もんぜんぷら座",
+      "geometry": {
+        "location": {
+          "lat": 36.649185,
+          "lng": 138.186725
         },
-        "southwest": {
-          "lat": 36.6476937697085,
-          "lng": 138.1855730197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65039257989271,
+            "lng": 138.1882718298927
+          },
+          "southwest": {
+            "lat": 36.64769292010727,
+            "lng": 138.1855721701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHyZzhO6GHWARt9VYLNrp2IE",
-    "plus_code": {
-      "compound_code": "J5XP+MM 日本、長野県長野市",
-      "global_code": "8Q8WJ5XP+MM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "grocery_or_supermarket",
-      "point_of_interest",
-      "store",
-      "supermarket"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "（株）まちづくり長野とまと食品館",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112777714159494658046\">Andy F</a>"
+          ],
+          "photo_reference": "Aap_uECRIiOnvgZ4pLT7NLsDRMvfGLnCwAP8I1A8Tn3tWle2js_ZK0TItQBXxD-QmvlGgFMXqzaaMUQv3baoNihWdaaGHsEEvJqqEFxS8fP3E5nPdS0AzqCztyGpDAK3izAL4C47jB7Xofj7gg9_lgWZEkvYtO1m0ti09ac_ZWuhmbbV3GPZ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHyZzhO6GHWARt9VYLNrp2IE",
+      "plus_code": {
+        "compound_code": "J5XP+MM 長野市、長野県",
+        "global_code": "8Q8WJ5XP+MM"
+      },
+      "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

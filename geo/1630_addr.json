@@ -1,89 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6534799
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２０２３−２ アーク旧軽井沢ヴィレッジII 2階",
+      "geometry": {
+        "location": {
+          "lat": 36.3436981,
+          "lng": 138.6081515
         },
-        "southwest": {
-          "lat": 36.314541,
-          "lng": 138.5075049
+        "viewport": {
+          "northeast": {
+            "lat": 36.34514107989273,
+            "lng": 138.6095041798927
+          },
+          "southwest": {
+            "lat": 36.34244142010728,
+            "lng": 138.6068045201072
+          }
         }
       },
-      "location": {
-        "lat": 36.38012250000001,
-        "lng": 138.5787728
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6534799
-        },
-        "southwest": {
-          "lat": 36.314541,
-          "lng": 138.5075049
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "株式会社Resort Innovation （リゾートイノベーション）",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103918910327597379186\">株式会社Resort Innovation</a>"
+          ],
+          "photo_reference": "Aap_uEBJ0CBj71A_l9lscXRK03tUJZa3SUO_rkf7qfR_hW9Rd0-PyS-Zghcsp1f-KWzjF0qmaM_L-xH6RXNpdsePtEPpWSAzD5LUKaG1PM2pv3mUZP4pZQenNOrnIyRY3wV2pdHC8Hj_PBK9NwSFyPNphyFuei-riehTJrxbtg2NkaSfVVeX",
+          "width": 6000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2Smyp9LTHWARQKqT60zrujY",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJMbDFdGbTHWARcYKwifMOb7E",
+      "plus_code": {
+        "compound_code": "8JV5+F7 軽井沢町、長野県",
+        "global_code": "8Q8W8JV5+F7"
+      },
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

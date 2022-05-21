@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "乙事",
-        "short_name": "乙事",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0213",
-        "short_name": "399-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0213 長野県諏訪郡富士見町乙事",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9259945,
-          "lng": 138.3051006
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0213 長野県諏訪郡富士見町乙事",
+      "geometry": {
+        "location": {
+          "lat": 35.914493,
+          "lng": 138.2717067
         },
-        "southwest": {
-          "lat": 35.8956067,
-          "lng": 138.2486633
+        "viewport": {
+          "northeast": {
+            "lat": 35.9259945,
+            "lng": 138.3051006
+          },
+          "southwest": {
+            "lat": 35.8956067,
+            "lng": 138.2486633
+          }
         }
       },
-      "location": {
-        "lat": 35.914493,
-        "lng": 138.2717067
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9259945,
-          "lng": 138.3051006
-        },
-        "southwest": {
-          "lat": 35.8956067,
-          "lng": 138.2486633
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "乙事",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118194920828354771365\">Kanemichi Nagasaki</a>"
+          ],
+          "photo_reference": "Aap_uEAsOQ65D4L41H76LIdl3fUcxIn6ly9XZ_6wu0DVTWwOxVPKkMT0IZUaNs4WqhMAjFs9ppg6cAV0eKNH1hq93JqXzXFZ_PWc5uLzWjgRfNO_3Dd8bkNQ0SrSEzgtgXe2kWbPoh_4jeu7VfgK-Vblo-BH0rvegznujwymS1avQ_oKbro4",
+          "width": 3264
         }
-      }
-    },
-    "place_id": "ChIJeXcVOwFDHGARC4n7VbwOmTI",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJeXcVOwFDHGARC4n7VbwOmTI",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,64 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県塩尻市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1717857,
-          "lng": 138.0433886
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒399-0713 長野県塩尻市大小屋１０２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.1064463,
+          "lng": 137.9677568
         },
-        "southwest": {
-          "lat": 35.8131241,
-          "lng": 137.7953235
+        "viewport": {
+          "northeast": {
+            "lat": 36.10796487989272,
+            "lng": 137.9692402798927
+          },
+          "southwest": {
+            "lat": 36.10526522010728,
+            "lng": 137.9665406201073
+          }
         }
       },
-      "location": {
-        "lat": 36.1148135,
-        "lng": 137.9532361
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1717857,
-          "lng": 138.0433886
-        },
-        "southwest": {
-          "lat": 35.8131241,
-          "lng": 137.7953235
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アルピコタクシー(株) 塩尻営業所",
+      "photos": [
+        {
+          "height": 2589,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113177172218939808584\">Taro Kikuchi</a>"
+          ],
+          "photo_reference": "Aap_uECRqSPp9JBWLdajJlzoY1IY90stOJdLYxrxOYiYT8wi6z4FMAL6N2bln54BtmRWMWST80fSEDPlCkY-FmDSww0NNz65kMA09P-DbV8een19AxnreATTt9fDuDVjg1bphiC-aXUHD-VeIot9x9Es-nOiKkQR9-ocY4E3GHhPTs91-wvU",
+          "width": 3452
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5wtQdrXiHGARNN7zHA-e9e8",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJhc7hZnkEHWAR1l9dAIv0WrA",
+      "plus_code": {
+        "compound_code": "4X49+H4 塩尻市、長野県",
+        "global_code": "8Q8V4X49+H4"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

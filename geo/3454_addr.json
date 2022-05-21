@@ -1,94 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３９",
-        "short_name": "３９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "沖田町",
-        "short_name": "沖田町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0013",
-        "short_name": "392-0013",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町５丁目３９",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0058219,
-          "lng": 138.1292215
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町５丁目３９",
+      "geometry": {
+        "location": {
+          "lat": 36.0057291,
+          "lng": 138.1291173
         },
-        "southwest": {
-          "lat": 36.0056683,
-          "lng": 138.1290395
+        "viewport": {
+          "northeast": {
+            "lat": 36.00699537989272,
+            "lng": 138.1305210298927
+          },
+          "southwest": {
+            "lat": 36.00429572010728,
+            "lng": 138.1278213701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0057291,
-        "lng": 138.1291173
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0070409302915,
-          "lng": 138.1304812802915
-        },
-        "southwest": {
-          "lat": 36.0043429697085,
-          "lng": 138.1277833197085
-        }
-      }
-    },
-    "place_id": "ChIJOZvZE_JWHGARB8NAxD-MVpo",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0013 長野県諏訪市沖田町５丁目３９",
+      "place_id": "ChIJOZvZE_JWHGARB8NAxD-MVpo",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

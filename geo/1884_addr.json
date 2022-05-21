@@ -1,81 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "広丘吉田",
-        "short_name": "広丘吉田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0701",
-        "short_name": "399-0701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0701 長野県塩尻市広丘吉田",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1717857,
-          "lng": 137.9682866
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0701 長野県塩尻市広丘吉田６４２−２５",
+      "geometry": {
+        "location": {
+          "lat": 36.167497,
+          "lng": 137.954306
         },
-        "southwest": {
-          "lat": 36.1538284,
-          "lng": 137.9422888
+        "viewport": {
+          "northeast": {
+            "lat": 36.16884682989272,
+            "lng": 137.9556558298927
+          },
+          "southwest": {
+            "lat": 36.16614717010727,
+            "lng": 137.9529561701073
+          }
         }
       },
-      "location": {
-        "lat": 36.1647972,
-        "lng": 137.9564594
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1717857,
-          "lng": 137.9682866
-        },
-        "southwest": {
-          "lat": 36.1538284,
-          "lng": 137.9422888
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "牛角塩尻店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101474793296997285974\">征矢洋文</a>"
+          ],
+          "photo_reference": "Aap_uEDqdwXW2xJ1-PSByqQNqii6t0tY4Qfsw1S8NmlWwxWR54jFytxakaILgHELFsRC_EWoKEKyj8sYrbqhcerilL1Gq4OBGAgCHyTmiElHUgQavOZq8DI13b3Qn2rYAmWTZOxb-4XChcDXkE-a8RZS78n-NVm3VUBafVQJj8IGbYxHWF4x",
+          "width": 5333
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL2Bpx3sFHWARv5Od9m03sYw",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJAQBQ8WEFHWARq2pDPNjZ0EE",
+      "plus_code": {
+        "compound_code": "5X83+XP 塩尻市、長野県",
+        "global_code": "8Q8V5X83+XP"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

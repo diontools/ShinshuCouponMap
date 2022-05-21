@@ -1,98 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５８２",
-        "short_name": "３５８２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鷹山",
-        "short_name": "鷹山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大門",
-        "short_name": "大門",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長和町",
-        "short_name": "長和町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0601",
-        "short_name": "386-0601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0601 長野県小県郡長和町大門鷹山３５８２",
-    "geometry": {
-      "location": {
-        "lat": 36.144511,
-        "lng": 138.212449
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1454945302915,
-          "lng": 138.2137346802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0601 長野県小県郡長和町大門鷹山３５８２",
+      "geometry": {
+        "location": {
+          "lat": 36.144511,
+          "lng": 138.212449
         },
-        "southwest": {
-          "lat": 36.1427965697085,
-          "lng": 138.2110367197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.14549537989272,
+            "lng": 138.2137355298927
+          },
+          "southwest": {
+            "lat": 36.14279572010728,
+            "lng": 138.2110358701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyS0qezqtHWARNlBfxZ2yaWA",
-    "plus_code": {
-      "compound_code": "46V6+RX 日本、長野県長和町",
-      "global_code": "8Q8W46V6+RX"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "鷹山ファミリー牧場",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100617240650801758434\">カズキン</a>"
+          ],
+          "photo_reference": "Aap_uEBYq2AsZSfarbdWw1jcj6eJ038Ce9ZMBIis9IwAsmPV9drmEaIbdxw-KVRRH5Rf1tHAyDEavjlHgdPcqHE8hvNUt8dx6IvKVd1XPYemfH1tPMoyWKtKW9Owo35DYROMZeZd54S5cG84fQ9LIAjGz6W9DHxPzrb2-gXJHykrY4hqAZdN",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJyS0qezqtHWARNlBfxZ2yaWA",
+      "plus_code": {
+        "compound_code": "46V6+RX 長和町、長野県",
+        "global_code": "8Q8W46V6+RX"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

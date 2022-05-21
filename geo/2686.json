@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４２５６",
+      "geometry": {
+        "location": {
+          "lat": 36.7012923,
+          "lng": 137.8384319
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.70261437989272,
+            "lng": 137.8397558298927
+          },
+          "southwest": {
+            "lat": 36.69991472010727,
+            "lng": 137.8370561701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "Central Snowsports Hakuba",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109582186125714945564\">Edwyn Low</a>"
+          ],
+          "photo_reference": "Aap_uEBF3HDDCUclTWHsGvaHj75QpgbZeCmFrIzIu27R7v9obOfSirXs6KLkPBZE7iwixjE1odid8eKlnLePDOCfj1irhE6gKb1sU4Yb6dT8g-W8rzw8j8rAlAn0OYfcXiwBaDxTOtX734He5zE9sKjMhsEJGHKiQmEeNhlnBQFGjtKwDBmv",
+          "width": 1836
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJWa9M4wjO918RPTbNFijFUQk",
+      "plus_code": {
+        "compound_code": "PR2Q+G9 白馬村、長野県",
+        "global_code": "8Q8VPR2Q+G9"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

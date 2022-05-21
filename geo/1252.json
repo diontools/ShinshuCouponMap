@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２１−１",
-        "short_name": "１２２１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上田",
-        "short_name": "上田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0001",
-        "short_name": "386-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0001 長野県上田市上田１２２１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.411285,
-        "lng": 138.2653869
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4125877802915,
-          "lng": 138.2669249302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0001 長野県上田市上田１２２１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.411285,
+          "lng": 138.2653869
         },
-        "southwest": {
-          "lat": 36.4098898197085,
-          "lng": 138.2642269697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.41258862989272,
+            "lng": 138.2669257798927
+          },
+          "southwest": {
+            "lat": 36.40988897010727,
+            "lng": 138.2642261201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxw5PShy9HWARFj8zLc9yNY4",
-    "plus_code": {
-      "compound_code": "C768+G5 日本、長野県上田市",
-      "global_code": "8Q8WC768+G5"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "御菓子処 花岡 上田店",
+      "photos": [
+        {
+          "height": 1971,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110983698832664912405\">倉島香里</a>"
+          ],
+          "photo_reference": "Aap_uEAfCnc6Dt9y3AXy_f_L8ep0MTaO_vecFdOSqkJUaKvR3ns6SePARMXAvrCL29TNmRbabQDrqHB7GIk68zXbO_Ij7qFRCPEdb_HK0GMwtt20g0I7hNlhJW-iZiJlOV0yIo712Udz6PmtAAvwdbEiGbpV_1o8DSxklgyjFtKVzdPm_4np",
+          "width": 2893
+        }
+      ],
+      "place_id": "ChIJxw5PShy9HWARFj8zLc9yNY4",
+      "plus_code": {
+        "compound_code": "C768+G5 上田市、長野県",
+        "global_code": "8Q8WC768+G5"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

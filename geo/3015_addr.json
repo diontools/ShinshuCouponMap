@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5110634,
-          "lng": 137.7278479
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里",
+      "geometry": {
+        "location": {
+          "lat": 35.4549281,
+          "lng": 137.6553601
         },
-        "southwest": {
-          "lat": 35.4016931,
-          "lng": 137.5930079
+        "viewport": {
+          "northeast": {
+            "lat": 35.5110634,
+            "lng": 137.7278479
+          },
+          "southwest": {
+            "lat": 35.4016931,
+            "lng": 137.5930079
+          }
         }
       },
-      "location": {
-        "lat": 35.4549281,
-        "lng": 137.6553601
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5110634,
-          "lng": 137.7278479
-        },
-        "southwest": {
-          "lat": 35.4016931,
-          "lng": 137.5930079
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "智里",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118094571428205798468\">牧野正幸</a>"
+          ],
+          "photo_reference": "Aap_uEDOrzHYs6KpeNf_TZ2iEFYd-NCf-9JX34Q6483HY1OMXdnWDOr7Enn8HC7jxLwb6JIoGWsQETEZT_gfpYhIcghvMG-7o7j-KUAwHk1Sb5PwKA6lgXgpgQe46rpjkcsIp5hdWKXvOgRowSYffAkhSv7UMhJdzzNmE_J2gfIsmyJ2wSfy",
+          "width": 3264
         }
-      }
-    },
-    "place_id": "ChIJI56zCcakHGARdf2Go5hmo7k",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJI56zCcakHGARdf2Go5hmo7k",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

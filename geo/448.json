@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１５３−６０４",
-        "short_name": "３１５３−６０４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "町峰の原",
-        "short_name": "町峰の原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2211",
-        "short_name": "386-2211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2211 長野県須坂市仁礼町峰の原３１５３−６０４",
-    "geometry": {
-      "location": {
-        "lat": 36.5528198,
-        "lng": 138.3568557
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5541831802915,
-          "lng": 138.3582885802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2211 長野県須坂市仁礼町峰の原３１５３−６０４",
+      "geometry": {
+        "location": {
+          "lat": 36.5528198,
+          "lng": 138.3568557
         },
-        "southwest": {
-          "lat": 36.5514852197085,
-          "lng": 138.3555906197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.55418402989272,
+            "lng": 138.3582894298927
+          },
+          "southwest": {
+            "lat": 36.55148437010728,
+            "lng": 138.3555897701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQe0QXH6UHWARcuL6wpBtpxo",
-    "plus_code": {
-      "compound_code": "H934+4P 日本、長野県須坂市",
-      "global_code": "8Q8WH934+4P"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション ハイジ・ホフ",
+      "photos": [
+        {
+          "height": 290,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107778667292830323728\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAfEG0KslHZDHtdn9IBNpJbsrVtL7FeSlNrixUSll1Hm6j_a7Pdh8JOy8avYuVwN8bb8qkEtRFTuaImlAx_Zgd1rokcLj8fn1ac7kAQ9vQsC9BqGFpMzysE2Xz0rXzfGehT9Tsi4bnTwL9_p3vLx53blIkpGu-6k60UdARDMovtwONy",
+          "width": 435
+        }
+      ],
+      "place_id": "ChIJQe0QXH6UHWARcuL6wpBtpxo",
+      "plus_code": {
+        "compound_code": "H934+4P 須坂市、長野県",
+        "global_code": "8Q8WH934+4P"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

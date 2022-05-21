@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県安曇野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4253478,
-          "lng": 137.9914004
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明１０３６８−１ 県 安曇野市穂高有明１０３６８−１ ザ・ビッグ穂高店内",
+      "geometry": {
+        "location": {
+          "lat": 36.3396304,
+          "lng": 137.8580255
         },
-        "southwest": {
-          "lat": 36.2374416,
-          "lng": 137.7011596
+        "viewport": {
+          "northeast": {
+            "lat": 36.34107997989272,
+            "lng": 137.8595607798927
+          },
+          "southwest": {
+            "lat": 36.33838032010728,
+            "lng": 137.8568611201073
+          }
         }
       },
-      "location": {
-        "lat": 36.30397860000001,
-        "lng": 137.9058007
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4253478,
-          "lng": 137.9914004
-        },
-        "southwest": {
-          "lat": 36.2374416,
-          "lng": 137.7011596
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "美容室 epic エピック",
+      "photos": [
+        {
+          "height": 2752,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106149340908515330499\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAfs7-8UWre02I-c9ovFfqJYXEvARt2fIXDnykKVkfX1mrCn-fmTUNjlKiF2FDGd_isO964hY7HUPXuKqibqZ_JsiYjWf17N_sEQIqttLb8Koh1vZ7SwEnq1vpb1AT1Hv-LpcGzITiNZk1rG8KOxhCgDPx38SwtZyJwJ8Gqfq_wzcTl",
+          "width": 4128
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJaQHawwZsHWARVuICyjW5jS0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJn9GMeR5sHWARl4gpgNO-Pxk",
+      "plus_code": {
+        "compound_code": "8VQ5+V6 安曇野市、長野県",
+        "global_code": "8Q8V8VQ5+V6"
+      },
+      "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

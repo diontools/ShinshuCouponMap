@@ -1,91 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０２０",
-        "short_name": "２０２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "日向山",
-        "short_name": "日向山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平日向山２０２０",
-    "geometry": {
-      "location": {
-        "lat": 36.5295149,
-        "lng": 137.7951626
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5308963802915,
-          "lng": 137.7966445302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平２０２０",
+      "geometry": {
+        "location": {
+          "lat": 36.5296059,
+          "lng": 137.7949829
         },
-        "southwest": {
-          "lat": 36.5281984197085,
-          "lng": 137.7939465697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53098937989272,
+            "lng": 137.7965388798928
+          },
+          "southwest": {
+            "lat": 36.52828972010728,
+            "lng": 137.7938392201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ANAホリデイ・インリゾート信濃大町くろよん",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106925614076657924153\">隆義和田</a>"
+          ],
+          "photo_reference": "Aap_uEBUK2lKtjHRoPc63D-w0N9NIP9ya2qJ7baNHd77XohTW2yQGZV2SUeuFRfMNLEyNd0j6bzFaHihzwtQYmcLhoiEs86S3jPKyTu6O2XhlY8UjhTI6uSO6ZgIk4qzinZ2Wn0uOIRXhj61BAx19uUerDpDVRI89lqLVFhK4F8vQTstIzCh",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ8bHNlijf918RDNk0n-9XC_8",
+      "plus_code": {
+        "compound_code": "GQHV+RX 大町市、長野県",
+        "global_code": "8Q8VGQHV+RX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJM22EDoff918R6sZ9Q7_rU9M",
-    "plus_code": {
-      "compound_code": "GQHW+R3 日本、長野県大町市",
-      "global_code": "8Q8VGQHW+R3"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市日向山２０２０",
+      "geometry": {
+        "location": {
+          "lat": 36.5295378,
+          "lng": 137.7952256
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.53089722989272,
+            "lng": 137.7966454298927
+          },
+          "southwest": {
+            "lat": 36.52819757010727,
+            "lng": 137.7939457701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "くろよんロイヤルホテル",
+      "photos": [
+        {
+          "height": 2016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116238354534654341315\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBcUawsXNJOLucSo7gorI9eiEEe4enfDk_DoKFt2Ks3clMNQ1O8o801nLSu4y5KRGlTY77BEZe2qzBDKNXAW9eMsCFyEC4dxR8Uv7qNRTuMAMPwCrqCCpVHoaF589vkpU66N9YCvIKWgEgJ08yBWwz5pDXIgxWc2VxBU_cA9Yrwcure",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJM22EDoff918R6sZ9Q7_rU9M",
+      "plus_code": {
+        "compound_code": "GQHW+R3 大町市、長野県",
+        "global_code": "8Q8VGQHW+R3"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

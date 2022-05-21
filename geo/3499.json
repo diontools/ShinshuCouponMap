@@ -1,64 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒107-0052 東京都港区赤坂４丁目１３−５ オフィスハイツ",
+      "geometry": {
+        "location": {
+          "lat": 35.6729582,
+          "lng": 139.732615
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 35.67425337989272,
+            "lng": 139.7340029298927
+          },
+          "southwest": {
+            "lat": 35.67155372010728,
+            "lng": 139.7313032701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "㈱エディックス",
+      "place_id": "ChIJK6a5dX-LGGARfjEfoZytAn0",
+      "plus_code": {
+        "compound_code": "MPFM+52 港区、東京都",
+        "global_code": "8Q7XMPFM+52"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

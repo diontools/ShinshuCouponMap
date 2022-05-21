@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２１３３−５０",
-        "short_name": "２２１３３−５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２１３３−５０",
-    "geometry": {
-      "location": {
-        "lat": 36.6637469,
-        "lng": 137.8371189
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6650976802915,
-          "lng": 137.8384037802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２１３３−５０",
+      "geometry": {
+        "location": {
+          "lat": 36.6637469,
+          "lng": 137.8371189
         },
-        "southwest": {
-          "lat": 36.6623997197085,
-          "lng": 137.8357058197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66509852989272,
+            "lng": 137.8384046298927
+          },
+          "southwest": {
+            "lat": 36.66239887010727,
+            "lng": 137.8357049701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJYQbhllHQ918R639403MuZ8M",
-    "plus_code": {
-      "compound_code": "MR7P+FR 長野県白馬村",
-      "global_code": "8Q8VMR7P+FR"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-9211 長野県北安曇郡白馬村神城２２１３３−５０",
+      "place_id": "ChIJYQbhllHQ918R639403MuZ8M",
+      "plus_code": {
+        "compound_code": "MR7P+FR 白馬村、長野県",
+        "global_code": "8Q8VMR7P+FR"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

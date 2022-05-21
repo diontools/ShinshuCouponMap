@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５２８６",
-        "short_name": "５２８６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中条日下野",
-        "short_name": "中条日下野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-3202",
-        "short_name": "381-3202",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-3202 長野県長野市中条日下野５２８６",
-    "geometry": {
-      "location": {
-        "lat": 36.6432519,
-        "lng": 138.0388057
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6445811802915,
-          "lng": 138.0401540802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-3202 長野県長野市中条日下野５２８６",
+      "geometry": {
+        "location": {
+          "lat": 36.6432603,
+          "lng": 138.0388048
         },
-        "southwest": {
-          "lat": 36.6418832197085,
-          "lng": 138.0374561197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64458202989273,
+            "lng": 138.0401549298928
+          },
+          "southwest": {
+            "lat": 36.64188237010728,
+            "lng": 138.0374552701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJcxy_fnrV918Rt4apS-4XIQs",
-    "plus_code": {
-      "compound_code": "J2VQ+8G 日本、長野県長野市",
-      "global_code": "8Q8WJ2VQ+8G"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "やきもち家",
+      "photos": [
+        {
+          "height": 676,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100217345177645338409\">やきもち家</a>"
+          ],
+          "photo_reference": "Aap_uEC80hlTV6rYmEVr_xcMurLsETInoBwbbo0Ia8Eu7fnW6X5oCYZrfJEU1JWq7sgqtGI-PM54U1nGViUzEUqYUaaShuwV6h2TjHb1uyYJ2deuiFQ9oG4oYC9Ex2r6tPf049DpK18tkNeN-h8R5u2VUGATUXf7uFHynHl92aks1gnxtEBn",
+          "width": 1016
+        }
+      ],
+      "place_id": "ChIJcxy_fnrV918Rt4apS-4XIQs",
+      "plus_code": {
+        "compound_code": "J2VQ+8G 長野市、長野県",
+        "global_code": "8Q8WJ2VQ+8G"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

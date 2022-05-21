@@ -1,69 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "中央通り",
-        "short_name": "中央通り",
-        "types": [
-          "route"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県岡谷市 中央通り",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0657558,
-          "lng": 138.0509024
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0000 長野県諏訪郡下諏訪町中央通２１８",
+      "geometry": {
+        "location": {
+          "lat": 36.0761029,
+          "lng": 138.0818946
         },
-        "southwest": {
-          "lat": 36.0615138,
-          "lng": 138.0491978
+        "viewport": {
+          "northeast": {
+            "lat": 36.07745262989273,
+            "lng": 138.0832512798927
+          },
+          "southwest": {
+            "lat": 36.07475297010728,
+            "lng": 138.0805516201073
+          }
         }
       },
-      "location": {
-        "lat": 36.0635999,
-        "lng": 138.0500159
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0657558,
-          "lng": 138.0513990802915
-        },
-        "southwest": {
-          "lat": 36.0615138,
-          "lng": 138.0487011197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "フレール洋菓子店",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106465798653881029768\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAkXE3yzRyebnq1gYf_xGWr9SX_UoPmg3qYjtCypLjBLfsLaeFYgRdtRxvUORwS2njIrgGqzj5cbwd5lVyi8y1p9yWOK_FC9QDIgXje6hAl07kAoJ79yVctaThX7kx3TT42OSpuHfoGz_MIxfd6W-wxcwD3lHnRK8nWG5oATnTQZTcU",
+          "width": 4864
         }
-      }
-    },
-    "place_id": "ChIJm9fOONf_HGAR17oGaKrBAS0",
-    "types": [
-      "route"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJJ_syuVVVHGARyS0rwm1KhuQ",
+      "plus_code": {
+        "compound_code": "33GJ+CQ 下諏訪町、長野県",
+        "global_code": "8Q8W33GJ+CQ"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

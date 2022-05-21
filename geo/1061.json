@@ -1,81 +1,77 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５２５−３",
-        "short_name": "１５２５−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "安原",
-        "short_name": "安原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0004",
-        "short_name": "385-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0004 長野県佐久市安原１５２５−３",
-    "geometry": {
-      "location": {
-        "lat": 36.274619,
-        "lng": 138.491398
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2759948302915,
-          "lng": 138.4926877802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0004 長野県佐久市安原１５２５−３",
+      "geometry": {
+        "location": {
+          "lat": 36.2746232,
+          "lng": 138.4913839
         },
-        "southwest": {
-          "lat": 36.2732968697085,
-          "lng": 138.4899898197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27599567989272,
+            "lng": 138.4926886298927
+          },
+          "southwest": {
+            "lat": 36.27329602010727,
+            "lng": 138.4899889701072
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ニュー交通タクシー佐久",
+      "place_id": "ChIJCfgr3pbMHWARzG73E45TJ00",
+      "plus_code": {
+        "compound_code": "7FFR+RH 佐久市、長野県",
+        "global_code": "8Q8W7FFR+RH"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJCfgr3pbMHWARzG73E45TJ00",
-    "plus_code": {
-      "compound_code": "7FFR+RH 日本、長野県佐久市",
-      "global_code": "8Q8W7FFR+RH"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0011 長野県小諸市赤坂１丁目４−４",
+      "geometry": {
+        "location": {
+          "lat": 36.3250987,
+          "lng": 138.4244779
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.32646567989273,
+            "lng": 138.4258551298927
+          },
+          "southwest": {
+            "lat": 36.32376602010728,
+            "lng": 138.4231554701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ニュー交通タクシー小諸",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111656508565842515826\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDz_lTolWMyOD1MgLc6GTPHHN40-g6os7PHt3_mVnCSisvuMOwVoJEAxMlN1oEw3QRZT1eF87L447dx9otAob_2kb39_Bm69CGkTx1PdSEn-jZuo9bEQpRpGc50qzjbZrHZUGBnvHc-ie6vIiRCLUPX2L_tnpjLbwd01c7v-vAtd_9g",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJOcdZlKTJHWAR-_L1yyr831k",
+      "plus_code": {
+        "compound_code": "8CGF+2Q 小諸市、長野県",
+        "global_code": "8Q8W8CGF+2Q"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

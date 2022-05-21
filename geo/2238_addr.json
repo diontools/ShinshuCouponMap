@@ -1,111 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "シャイニービルタナカ",
-        "short_name": "シャイニービルタナカ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５ シャイニービルタナカ 1f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.232171,
-          "lng": 137.966617
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央５−５ １丁目５−１８シャイニービルタナカ1F",
+      "geometry": {
+        "location": {
+          "lat": 36.2320217,
+          "lng": 137.9665258
         },
-        "southwest": {
-          "lat": 36.2320065,
-          "lng": 137.9664686
+        "viewport": {
+          "northeast": {
+            "lat": 36.23336957989272,
+            "lng": 137.9678655298927
+          },
+          "southwest": {
+            "lat": 36.23066992010728,
+            "lng": 137.9651658701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2320812,
-        "lng": 137.9665344
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2334377302915,
-          "lng": 137.9678883302915
-        },
-        "southwest": {
-          "lat": 36.2307397697085,
-          "lng": 137.9651903697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "バル（Ｂａｒ）Ｙｏｂａｎａｓｈｉ",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113788015522190608876\">大橋慶三</a>"
+          ],
+          "photo_reference": "Aap_uECQj0bFMbKT8AmGlJrn5Oxq7nDIsSZebCX4ij2-TugU8HwV3DzKo_NlCU57Ii5msCURgrcr4mproqk69zC3U1b8BzvQ6djzthT4Ivc7NGdG9N2o1HKk94Fzue8u4VdcAbjmF4Pr8bDh3b7tWeknPaUkQVt_Wx-BtE7FfyvjTOEOcKhJ",
+          "width": 2592
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "El1KYXBhbiwg44CSMzkwLTA4MTEgTmFnYW5vLCBNYXRzdW1vdG8sIENoxavFjSwgMS1jaMWNbWXiiJI1LCDjgrfjg6PjgqTjg4vjg7zjg5Pjg6vjgr_jg4rjgqsgMWYiHhocChYKFAoSCcVRsquODh1gERUJsPJN11mcEgIxZg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ_-Kjq44OHWARki8WubeOQM0",
+      "plus_code": {
+        "compound_code": "6XJ8+RJ 松本市、長野県",
+        "global_code": "8Q8V6XJ8+RJ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

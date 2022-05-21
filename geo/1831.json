@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８２０８−５",
-        "short_name": "８２０８−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明８２０８−５",
-    "geometry": {
-      "location": {
-        "lat": 36.3376337,
-        "lng": 137.8417022
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3389206802915,
-          "lng": 137.8430520802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明８２０８−５",
+      "geometry": {
+        "location": {
+          "lat": 36.3375792,
+          "lng": 137.8417016
         },
-        "southwest": {
-          "lat": 36.3362227197085,
-          "lng": 137.8403541197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33892152989272,
+            "lng": 137.8430529298927
+          },
+          "southwest": {
+            "lat": 36.33622187010727,
+            "lng": 137.8403532701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNydj0qpuHWARYBZu_9ZS_d0",
-    "plus_code": {
-      "compound_code": "8RQR+3M 日本、長野県安曇野市",
-      "global_code": "8Q8V8RQR+3M"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "北アルプス牧場 直売店",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103268008516178903466\">櫻井太郎</a>"
+          ],
+          "photo_reference": "Aap_uEA_QnRjSzePbXecoKItFReC-NaNIkLquKxwon8bf4Eni-xZKyeD9J4BKKHf0S6IuVsXHyFGNHmwHkZpLLb1rAcvAhlFSgVQFbpM9DeLqP7X19KapDSKlj2-aJsRWdixoerjGXQ_DMM5oG-kaIfqbzYjtjqXrppgEhjLtbKBloDBD_n2",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJNydj0qpuHWARYBZu_9ZS_d0",
+      "plus_code": {
+        "compound_code": "8RQR+3M 安曇野市、長野県",
+        "global_code": "8Q8V8RQR+3M"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

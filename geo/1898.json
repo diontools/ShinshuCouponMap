@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０５０−１３",
-        "short_name": "２０５０−１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘野村",
-        "short_name": "広丘野村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0702",
-        "short_name": "399-0702",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村２０５０−１３",
-    "geometry": {
-      "location": {
-        "lat": 36.1514678,
-        "lng": 137.9507002
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.15292548029149,
-          "lng": 137.9519260302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村２０５０−１３",
+      "geometry": {
+        "location": {
+          "lat": 36.1514677,
+          "lng": 137.9505896
         },
-        "southwest": {
-          "lat": 36.15022751970849,
-          "lng": 137.9492280697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.15292632989272,
+            "lng": 137.9519268798927
+          },
+          "southwest": {
+            "lat": 36.15022667010727,
+            "lng": 137.9492272201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNTijm20FHWARZ8bjKhd3xj8",
-    "plus_code": {
-      "compound_code": "5X22+H7 日本、長野県塩尻市",
-      "global_code": "8Q8V5X22+H7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ビッグボーイ 塩尻店",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">toro mochi</a>"
+          ],
+          "photo_reference": "Aap_uEC168XQj9Pio_jUi41coBjZBgL6GHlXCKmVXfijwPhHFZPcvrinmEx_gtqW9PTi61nST3yQrkuOI7arambXcJOVuoykreKobv40BIjGuwINNlVBaW7sfut7CXIFmJ-empzBXOhHvJ-Gvf6M9Yo2hD97MfBX3Dt0cWDniQWCfj9NDbRx",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJNTijm20FHWARZ8bjKhd3xj8",
+      "plus_code": {
+        "compound_code": "5X22+H7 塩尻市、長野県",
+        "global_code": "8Q8V5X22+H7"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３７５",
-        "short_name": "６３７５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "白馬町",
-        "short_name": "白馬町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村白馬町６３７５",
-    "geometry": {
-      "location": {
-        "lat": 36.6955155,
-        "lng": 137.8625258
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6968441302915,
-          "lng": 137.8639373802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村白馬町６３７５",
+      "geometry": {
+        "location": {
+          "lat": 36.6955155,
+          "lng": 137.8625258
         },
-        "southwest": {
-          "lat": 36.6941461697085,
-          "lng": 137.8612394197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69684497989272,
+            "lng": 137.8639382298927
+          },
+          "southwest": {
+            "lat": 36.69414532010727,
+            "lng": 137.8612385701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgaRijwLS918RxJAVyuvGFrE",
-    "plus_code": {
-      "compound_code": "MVW7+62 長野県白馬村",
-      "global_code": "8Q8VMVW7+62"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "絵夢",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105561619637903739496\">酒泉誠</a>"
+          ],
+          "photo_reference": "Aap_uECJS3wYFlFCCYa32KGLwxTxH2ZW6MKHfoSAig4yjRrRxXBlOPWjlsZVrewn0NeYA-YeHq09esshIEGTYXOFum1szteLJgXVclgEad6MbufivYZOWtrYj-1pODntx7oSN_9-0D5J5-MS95rqWuTt5PhYsh9lfdfeROShXIAnjeGm3yfy",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJgaRijwLS918RxJAVyuvGFrE",
+      "plus_code": {
+        "compound_code": "MVW7+62 白馬村、長野県",
+        "global_code": "8Q8VMVW7+62"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５４−１",
-        "short_name": "５４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "野尻",
-        "short_name": "野尻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1303",
-        "short_name": "389-1303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻５４−１",
-    "geometry": {
-      "location": {
-        "lat": 36.83691779999999,
-        "lng": 138.2164143
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.83819928029151,
-          "lng": 138.2177154302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻５４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.83691779999999,
+          "lng": 138.2164143
         },
-        "southwest": {
-          "lat": 36.83550131970851,
-          "lng": 138.2150174697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.83820012989272,
+            "lng": 138.2177162798927
+          },
+          "southwest": {
+            "lat": 36.83550047010728,
+            "lng": 138.2150166201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ62LXbT0j9l8R_NKj4No-pGw",
-    "plus_code": {
-      "compound_code": "R6P8+QH 日本、長野県信濃町",
-      "global_code": "8Q8WR6P8+QH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カピタンファンタジー 甲比丹",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107934703653855920796\">jay clark</a>"
+          ],
+          "photo_reference": "Aap_uECNT25FSOGxnVHTEai-JlEwj6htLYVvFKgnRhdTl_qC8IUzfhvbxJy_9SwANm4_maDpeHi9nQtcD338gfnNRuoGxUf59YL-iPfbONW31G8_MjN6NLXTQsTmseqwxpt_wz7CiucrKD0A9lmYatE5klCng-QVE4IlOFKaAFZS5yKRxnPJ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ62LXbT0j9l8R_NKj4No-pGw",
+      "plus_code": {
+        "compound_code": "R6P8+QH 信濃町、長野県",
+        "global_code": "8Q8WR6P8+QH"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

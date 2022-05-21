@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1106 長野県上田市小泉７７５−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3834347,
+          "lng": 138.1871081
         },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+        "viewport": {
+          "northeast": {
+            "lat": 36.38478017989272,
+            "lng": 138.1883569298928
+          },
+          "southwest": {
+            "lat": 36.38208052010727,
+            "lng": 138.1856572701073
+          }
         }
       },
-      "location": {
-        "lat": 36.4019126,
-        "lng": 138.249075
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
-        },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ヘアーサロン陽だまり",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116090447866599894188\">ヘアーサロン陽だまり</a>"
+          ],
+          "photo_reference": "Aap_uEB96_C93riNCSGBJkxuCf4KKqBSi8qc3zyBlP2Ud9o5FTJm4Vf-KRgtplRejcWliePrQiVwQD3UJRtGz5Yem2lMsiyOEs-U79P57sPJSaWTqBdbHHFPPONl7qg4DHGbGOHJoMkVDpmBnopCCchJUP-mJWSpllyow6HoPhY3hVJJMKij",
+          "width": 1478
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJsaSJhsy8HWARTFv1slYL1uE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJTSC7oE-iHWARdhebkFT10eY",
+      "plus_code": {
+        "compound_code": "95MP+9V 上田市、長野県",
+        "global_code": "8Q8W95MP+9V"
+      },
+      "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

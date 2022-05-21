@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０５７−５０",
-        "short_name": "１０５７−５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0103",
-        "short_name": "389-0103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢１０５７−５０",
-    "geometry": {
-      "location": {
-        "lat": 36.331712,
-        "lng": 138.630732
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3330188802915,
-          "lng": 138.6322430802915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢１０５７−５０",
+      "geometry": {
+        "location": {
+          "lat": 36.331712,
+          "lng": 138.630732
         },
-        "southwest": {
-          "lat": 36.33032091970851,
-          "lng": 138.6295451197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33301972989273,
+            "lng": 138.6322439298927
+          },
+          "southwest": {
+            "lat": 36.33032007010728,
+            "lng": 138.6295442701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJLVgtsGfTHWAR8qibGi0zLdo",
-    "plus_code": {
-      "compound_code": "8JJJ+M7 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JJJ+M7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "【閉業】牛角 軽井沢店",
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104088225529384024531\">鄭偉婷</a>"
+          ],
+          "photo_reference": "Aap_uECMWULrujmWCAFKYVxIu42QRvs9nDNS__PXmb1lLvST8IbQKv8YrDZjmdtS84VYYoqa0FkE4mzhyxCIgau8Q4F8hjHjXwBVfPXSjE93CQXG-vNtgaA-pntSEiSIfKQPdWDuhjrd0WQr2G09MRgsoDcO7rmn3cgXAuVfvpwid8P9Fnmr",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJLVgtsGfTHWAR8qibGi0zLdo",
+      "plus_code": {
+        "compound_code": "8JJJ+M7 軽井沢町、長野県",
+        "global_code": "8Q8W8JJJ+M7"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

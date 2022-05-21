@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８０７−３０",
-        "short_name": "３８０７−３０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "野尻",
-        "short_name": "野尻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1303",
-        "short_name": "389-1303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３８０７−３０",
-    "geometry": {
-      "location": {
-        "lat": 36.8215226,
-        "lng": 138.1680117
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8228356802915,
-          "lng": 138.1694444802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３８０７−３０",
+      "geometry": {
+        "location": {
+          "lat": 36.8215226,
+          "lng": 138.1680117
         },
-        "southwest": {
-          "lat": 36.82013771970851,
-          "lng": 138.1667465197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.82283652989273,
+            "lng": 138.1694453298927
+          },
+          "southwest": {
+            "lat": 36.82013687010728,
+            "lng": 138.1667456701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJA_wH17sk9l8Rb6ALHrDfY6o",
-    "plus_code": {
-      "compound_code": "R5C9+J6 長野県信濃町",
-      "global_code": "8Q8WR5C9+J6"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-1303 長野県上水内郡信濃町野尻３８０７−３０",
+      "place_id": "ChIJA_wH17sk9l8Rb6ALHrDfY6o",
+      "plus_code": {
+        "compound_code": "R5C9+J6 信濃町、長野県",
+        "global_code": "8Q8WR5C9+J6"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

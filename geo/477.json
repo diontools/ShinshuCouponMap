@@ -1,64 +1,37 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県須坂市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、長野県須坂市須坂 44番地1",
+      "geometry": {
+        "location": {
+          "lat": 36.6533845,
+          "lng": 138.3141564
         },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
+        "viewport": {
+          "northeast": {
+            "lat": 36.65474307989271,
+            "lng": 138.3155356298927
+          },
+          "southwest": {
+            "lat": 36.65204342010727,
+            "lng": 138.3128359701072
+          }
         }
       },
-      "location": {
-        "lat": 36.6510879,
-        "lng": 138.3072807
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "櫻居酒屋 櫻ネイルサロン",
+      "place_id": "ChIJ-2kBxhuPHWARMXv2ahpjAR4",
+      "plus_code": {
+        "compound_code": "M837+8J 須坂市、長野県",
+        "global_code": "8Q8WM837+8J"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
-        },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEfGghGWSHWARb4zc9I-lG7Q",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

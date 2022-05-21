@@ -1,92 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "姫木平",
-        "short_name": "姫木平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長和町",
-        "short_name": "長和町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0601",
-        "short_name": "386-0601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0601 長野県小県郡長和町姫木平１",
-    "geometry": {
-      "location": {
-        "lat": 36.1189481,
-        "lng": 138.212034
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.12027858029149,
-          "lng": 138.2134619302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0601 長野県小県郡長和町姫木平１",
+      "geometry": {
+        "location": {
+          "lat": 36.1189481,
+          "lng": 138.212034
         },
-        "southwest": {
-          "lat": 36.1175806197085,
-          "lng": 138.2107639697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12027942989272,
+            "lng": 138.2134627798927
+          },
+          "southwest": {
+            "lat": 36.11757977010728,
+            "lng": 138.2107631201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQ2fM_8JSHGARCWwRiCzmw4A",
-    "plus_code": {
-      "compound_code": "4696+HR 日本、長野県長和町",
-      "global_code": "8Q8W4696+HR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "リゾートハウス オックス",
+      "photos": [
+        {
+          "height": 380,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104467303474820479000\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDSe0m_kSL7A54npkbK4hzW1iwzq5sKuUMaRT9UvDYl1W0dtii7oEvyT143K_tR3gMWpQb_wzBCP6wgHT24-KUW4ecPKmZM82cB8VGOWcmpd6fgRx53Vg1zTvY_qwFQelTP8V8E0vqoxJp19mq4ouh-0R1uTB2w7-EWO-NSl8R7d4c",
+          "width": 900
+        }
+      ],
+      "place_id": "ChIJQ2fM_8JSHGARCWwRiCzmw4A",
+      "plus_code": {
+        "compound_code": "4696+HR 長和町、長野県",
+        "global_code": "8Q8W4696+HR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

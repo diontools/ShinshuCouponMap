@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "Nagano",
-        "short_name": "Nagano",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "Iiyama, 11492-330 Iiyama City, Nagano Prefecture, 飯山 飯山市 Nagano 389-2253 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.850252,
-        "lng": 138.291034
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.85166528029149,
-          "lng": 138.2924131302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Iiyama, 11492-330 Iiyama City, Nagano Prefecture, Nagano 389-2253 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.8502644,
+          "lng": 138.2910399
         },
-        "southwest": {
-          "lat": 36.84896731970849,
-          "lng": 138.2897151697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85166612989271,
+            "lng": 138.2924139798927
+          },
+          "southwest": {
+            "lat": 36.84896647010727,
+            "lng": 138.2897143201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMz7GIX4Y9l8RB1Ksg7IVF_4",
-    "plus_code": {
-      "compound_code": "V72R+4C 日本、長野県飯山市",
-      "global_code": "8Q8WV72R+4C"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Madarao Mountain Lodge",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109526738503869118186\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDNYr2i4LxzPcR5e29E9UmzqxvwSNxWDhgmJ0xRcqy53PuInlhEeFq8ztlpUL17vcul5GWI9It73v8F93FWKbZg9Ic9_kZVfpt5QkoFA0_L5hIz1anzT5m6F5SaGLGruJbd7uojFp-XPSHScWmtTCcoyqn8H8d_uM6_HksjAA454nDw",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJMz7GIX4Y9l8RB1Ksg7IVF_4",
+      "plus_code": {
+        "compound_code": "V72R+4C 飯山市、長野県",
+        "global_code": "8Q8WV72R+4C"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７６２",
-        "short_name": "７６２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "岩村田",
-        "short_name": "岩村田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0022",
-        "short_name": "385-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0022 長野県佐久市岩村田７６２",
-    "geometry": {
-      "location": {
-        "lat": 36.2731869,
-        "lng": 138.4784565
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2745692302915,
-          "lng": 138.4798063302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田７６２",
+      "geometry": {
+        "location": {
+          "lat": 36.2731995,
+          "lng": 138.4784569
         },
-        "southwest": {
-          "lat": 36.2718712697085,
-          "lng": 138.4771083697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27457007989272,
+            "lng": 138.4798071798927
+          },
+          "southwest": {
+            "lat": 36.27187042010727,
+            "lng": 138.4771075201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAwhPnWLLHWARH_ZW-csTzaY",
-    "plus_code": {
-      "compound_code": "7FFH+79 日本、長野県佐久市",
-      "global_code": "8Q8W7FFH+79"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ショコラ・デュ・ボヌール",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109434149971329900649\">Sasuke Oscar</a>"
+          ],
+          "photo_reference": "Aap_uEDO91IQyjwStc4LOTxLK2AHdCOjaIY5Y3RktJx_s0622GIYDUE7oJBvjLURFMwda1XKgNrfl4SHs6FTivAo6peA2Nh4xdeJg9bmV4NepBhL1y7HQroj_MCQ3qV9BmKfYZ9grW0HWsghVblBXO2dXzKbl0Cn2C16wWRmqGyLRtgeCz8Q",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJAwhPnWLLHWARH_ZW-csTzaY",
+      "plus_code": {
+        "compound_code": "7FFH+79 佐久市、長野県",
+        "global_code": "8Q8W7FFH+79"
+      },
+      "types": [
+        "bakery",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

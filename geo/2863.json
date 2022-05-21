@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５１１５−６",
-        "short_name": "５１１５−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島５１１５−６",
-    "geometry": {
-      "location": {
-        "lat": 35.8505115,
-        "lng": 137.6993551
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.85186048029149,
-          "lng": 137.7007040802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島５１１５−６",
+      "geometry": {
+        "location": {
+          "lat": 35.8505115,
+          "lng": 137.6993551
         },
-        "southwest": {
-          "lat": 35.8491625197085,
-          "lng": 137.6980061197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.85186132989271,
+            "lng": 137.7007049298927
+          },
+          "southwest": {
+            "lat": 35.84916167010726,
+            "lng": 137.6980052701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtatxnKTeHGARW-TUaGTfWak",
-    "plus_code": {
-      "compound_code": "VM2X+6P 長野県木曽町",
-      "global_code": "8Q7VVM2X+6P"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "旬菜 たま菜",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115479494481664205218\">巣山幸洋</a>"
+          ],
+          "photo_reference": "Aap_uECh6FnNA_8KKrHwEzmv5ZG2VoZBQt_A935tqYgd_Xyj6NVR8lHTbqshTGuqF-l-Dlq-qFbMk-ZCREEVOBz3MFAW989WC2hJohmhyNMCok5BXvjjiSgXRT02-pcl2zr3yb9A9Q-mLYFbty_u6g-G5yH75HuyXFY57tNVJPn1tlsUN1a_",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJtatxnKTeHGARW-TUaGTfWak",
+      "plus_code": {
+        "compound_code": "VM2X+6P 木曽町、長野県",
+        "global_code": "8Q7VVM2X+6P"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

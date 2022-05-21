@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３７９５−２",
-        "short_name": "３７９５−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上木島",
-        "short_name": "上木島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2303",
-        "short_name": "389-2303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３７９５−２",
-    "geometry": {
-      "location": {
-        "lat": 36.8280263,
-        "lng": 138.4030057
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8293887302915,
-          "lng": 138.4042699302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３７９５−２",
+      "geometry": {
+        "location": {
+          "lat": 36.8280263,
+          "lng": 138.4030057
         },
-        "southwest": {
-          "lat": 36.82669076970851,
-          "lng": 138.4015719697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.82938957989272,
+            "lng": 138.4042707798927
+          },
+          "southwest": {
+            "lat": 36.82668992010728,
+            "lng": 138.4015711201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk0NrG_8e9l8R3oziqs7nQ4U",
-    "plus_code": {
-      "compound_code": "RCH3+66 日本、長野県木島平村",
-      "global_code": "8Q8WRCH3+66"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "紙ふうせん",
+      "photos": [
+        {
+          "height": 490,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110635341408099175668\">岩本研一</a>"
+          ],
+          "photo_reference": "Aap_uEDcautfXXPuzxm7v6fB68ayWIIEbhyVNYQ81XxrmKFaq26GjJy1FgQbdWvl86I9MrogVWT4GttG9nkDnE50EciiXkfYcq5E9x08MBhU_QRTAr17QVV-gdvdYeOTLLvBR7W6yGzPjBgWGe_blofI-a4GGUWNS4baEaOHj-xI4DJyV9Io",
+          "width": 727
+        }
+      ],
+      "place_id": "ChIJk0NrG_8e9l8R3oziqs7nQ4U",
+      "plus_code": {
+        "compound_code": "RCH3+66 木島平村、長野県",
+        "global_code": "8Q8WRCH3+66"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

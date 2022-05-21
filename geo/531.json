@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５４",
-        "short_name": "５４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目５４−４",
-    "geometry": {
-      "location": {
-        "lat": 36.481253,
-        "lng": 138.1403871
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4826020302915,
-          "lng": 138.1417252302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目５４−４",
+      "geometry": {
+        "location": {
+          "lat": 36.481253,
+          "lng": 138.1404111
         },
-        "southwest": {
-          "lat": 36.4799040697085,
-          "lng": 138.1390272697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48260287989272,
+            "lng": 138.1417260798927
+          },
+          "southwest": {
+            "lat": 36.47990322010727,
+            "lng": 138.1390264201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJwyYoUxWcHWARDWRuNgdZ19k",
-    "plus_code": {
-      "compound_code": "F4JR+G5 日本、長野県千曲市",
-      "global_code": "8Q8WF4JR+G5"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Pasta&Pudding COCORO",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108937137074528325394\">unagi perori</a>"
+          ],
+          "photo_reference": "Aap_uEAZOYUoabWjud2slZ_ViEAHXxi_5EbAPSNPN31IE1WL4nii3hBKZKex_IrU617etgJyTvLmjfRtgawDlh-4o3dLbCqE0ZUufmTdAebHzwd38aN7zWV9WQRKujzHmxbKGSB5pyRQfwVzbPXBJe6LPT5JmD6-JX27hqFpW67Ux3QCa8SI",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJwyYoUxWcHWARDWRuNgdZ19k",
+      "plus_code": {
+        "compound_code": "F4JR+G5 千曲市、長野県",
+        "global_code": "8Q8WF4JR+G5"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

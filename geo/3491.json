@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り５丁目５−２",
-    "geometry": {
-      "location": {
-        "lat": 36.0461,
-        "lng": 138.1102
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0474962302915,
-          "lng": 138.1116053302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り５丁目５−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0461158,
+          "lng": 138.1102788
         },
-        "southwest": {
-          "lat": 36.0447982697085,
-          "lng": 138.1089073697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04749707989272,
+            "lng": 138.1116061798927
+          },
+          "southwest": {
+            "lat": 36.04479742010727,
+            "lng": 138.1089065201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_xLB7BVHGARORzo_YrnmK4",
-    "plus_code": {
-      "compound_code": "24W6+C3 長野県諏訪市",
-      "global_code": "8Q8W24W6+C3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "うなぎのうな藤",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104353836490144520261\">府川勝紀</a>"
+          ],
+          "photo_reference": "Aap_uEBFzMA1PnHop6ORyJvAsR5qQ-V8OXE3Xw8fSLnFfptYW5CokbsSqHE6IC2WovuNUuh7UsjsWTg4gIUt07rkAcHQE8JO7cRqWT5RAKRselMx3w5MUQTZzx7Wgty_MYPey5et32GOtrDZzZ5iV0yPExya4sJ20pjgzgu5Ac52g7zhZXwL",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ5_xLB7BVHGARORzo_YrnmK4",
+      "plus_code": {
+        "compound_code": "24W6+C3 諏訪市、長野県",
+        "global_code": "8Q8W24W6+C3"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

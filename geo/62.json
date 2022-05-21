@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７１４８",
-        "short_name": "７１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
-    "geometry": {
-      "location": {
-        "lat": 36.6959499,
-        "lng": 138.4888851
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69730053029149,
-          "lng": 138.4903924802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
+      "geometry": {
+        "location": {
+          "lat": 36.6959499,
+          "lng": 138.4888851
         },
-        "southwest": {
-          "lat": 36.6946025697085,
-          "lng": 138.4876945197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69730137989272,
+            "lng": 138.4903933298928
+          },
+          "southwest": {
+            "lat": 36.69460172010727,
+            "lng": 138.4876936701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgTvx3_HxHWARL7TDOmxapAo",
-    "plus_code": {
-      "compound_code": "MFWQ+9H 日本、長野県山ノ内町",
-      "global_code": "8Q8WMFWQ+9H"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "OYO旅館 幸の湯 志賀高原",
+      "photos": [
+        {
+          "height": 813,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111299903560357104523\">Shiho.Ido</a>"
+          ],
+          "photo_reference": "Aap_uEBH8iD59H5vIzhd7pPXf-_UOPyVyUezRBpbQMJDjt-27QjYUUk9dFtl9NKAkTbs6rgek2aEfzKT7TwMGwvA50Nf0kr4NoIdLgo097hIxUhYmHKz77W5zyAbT39eKO6Q9baGf4V3FtFxot_ANamtIXGVp9pdAQ4spaOeul2T4PD7mtoj",
+          "width": 1242
+        }
+      ],
+      "place_id": "ChIJgTvx3_HxHWARL7TDOmxapAo",
+      "plus_code": {
+        "compound_code": "MFWQ+9H 山ノ内町、長野県",
+        "global_code": "8Q8WMFWQ+9H"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

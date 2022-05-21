@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４７−１",
-        "short_name": "１４７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "協和",
-        "short_name": "協和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2204",
-        "short_name": "384-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2204 長野県佐久市協和１４７−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2641274,
-          "lng": 138.3544091
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-2204 長野県佐久市協和１４７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2640082,
+          "lng": 138.354292
         },
-        "southwest": {
-          "lat": 36.2639233,
-          "lng": 138.3541634
+        "viewport": {
+          "northeast": {
+            "lat": 36.26541667989272,
+            "lng": 138.3557509798927
+          },
+          "southwest": {
+            "lat": 36.26271702010727,
+            "lng": 138.3530513201073
+          }
         }
       },
-      "location": {
-        "lat": 36.2640082,
-        "lng": 138.354292
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2653743302915,
-          "lng": 138.3556858302915
-        },
-        "southwest": {
-          "lat": 36.2626763697085,
-          "lng": 138.3529878697085
-        }
-      }
-    },
-    "place_id": "ChIJQVUX6Cu0HWAR623XHmyGT6I",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-2204 長野県佐久市協和１４７−１",
+      "place_id": "ChIJQVUX6Cu0HWAR623XHmyGT6I",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

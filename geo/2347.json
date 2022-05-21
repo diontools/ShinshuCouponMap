@@ -1,109 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１Ｆ",
-        "short_name": "１Ｆ",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "２７",
-        "short_name": "２７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "野溝西",
-        "short_name": "野溝西",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0006",
-        "short_name": "399-0006",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0006 長野県松本市野溝西１丁目６−２７, １Ｆ",
-    "geometry": {
-      "location": {
-        "lat": 36.2041621,
-        "lng": 137.9521591
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2055190802915,
-          "lng": 137.9535484302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0006 長野県松本市野溝西１丁目６−２７ １Ｆ",
+      "geometry": {
+        "location": {
+          "lat": 36.2041621,
+          "lng": 137.9521591
         },
-        "southwest": {
-          "lat": 36.2028211197085,
-          "lng": 137.9508504697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.20551992989272,
+            "lng": 137.9535492798927
+          },
+          "southwest": {
+            "lat": 36.20282027010727,
+            "lng": 137.9508496201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0_pLu1IOHWARfYDu11u5zF0",
-    "plus_code": {
-      "compound_code": "6X32+MV 日本、長野県松本市",
-      "global_code": "8Q8V6X32+MV"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "サーティワンアイスクリーム 南松本店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107145312459147103456\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECUarK21ABUX6CPZFjBZDHYarIOztzd1h05M1_ibEb53Hf07SbSCx1XuxLchY2YVoG8sOujzH1yOQGSLWT-Q3iakzIYZCU38e1-oOcTTOs8rP6BYNMKOQD5cuggWwEmmAzD8D6AfU-oht6dee77RoAtmM_-0ZdZBW0NhpqyXcIk7xoR",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ0_pLu1IOHWARfYDu11u5zF0",
+      "plus_code": {
+        "compound_code": "6X32+MV 松本市、長野県",
+        "global_code": "8Q8V6X32+MV"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

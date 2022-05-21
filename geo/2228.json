@@ -1,118 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−２０ 日本生命松本駅前ビル 3階",
+      "geometry": {
+        "location": {
+          "lat": 36.2313601,
+          "lng": 137.9668399
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23258467989272,
+            "lng": 137.9681784798927
+          },
+          "southwest": {
+            "lat": 36.22988502010727,
+            "lng": 137.9654788201073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "近畿日本ツーリスト 松本営業所",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">toro mochi</a>"
+          ],
+          "photo_reference": "Aap_uECuWHrC0eB3ka5mhPogyk3iRAgTWK6R7PBbQKriG1DOZhlMGRJs8_J25X0sm4luKOwmTAGSd1-SMETaiUx4s4JkEdu3y3u86vyl6WMESzPDWzekcOot6DViis4sYVotEJD7dElt5Fjr49Dk7pcUTRENQtKpcVNsxX1IcHe9XDZYe2-Z",
+          "width": 3264
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "関東地方",
-        "short_name": "関東地方",
-        "types": [
-          "colloquial_area",
-          "political"
-        ]
+      ],
+      "place_id": "ChIJdTzJkYsOHWARt0qcOEflgVQ",
+      "plus_code": {
+        "compound_code": "6XJ8+GP 松本市、長野県",
+        "global_code": "8Q8V6XJ8+GP"
       },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、関東地方",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 37.1550727,
-          "lng": 140.8789636
-        },
-        "southwest": {
-          "lat": 34.8979627,
-          "lng": 138.3970639
-        }
-      },
-      "location": {
-        "lat": 36.4598667,
-        "lng": 139.6911374
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 37.1550727,
-          "lng": 140.8789636
-        },
-        "southwest": {
-          "lat": 34.8979627,
-          "lng": 138.3970639
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbw4iEgC2GGARiZ85fiY71mk",
-    "types": [
-      "colloquial_area",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

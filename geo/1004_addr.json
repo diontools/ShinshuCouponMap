@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７３３２−２",
-        "short_name": "７３３２−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "瑞穂",
-        "short_name": "瑞穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2322",
-        "short_name": "389-2322",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2322 長野県飯山市瑞穂７３３２−２",
-    "geometry": {
-      "location": {
-        "lat": 36.9032583,
-        "lng": 138.4227044
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9045979802915,
-          "lng": 138.4244738302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2322 長野県飯山市瑞穂７３３２−２",
+      "geometry": {
+        "location": {
+          "lat": 36.9032583,
+          "lng": 138.4227044
         },
-        "southwest": {
-          "lat": 36.9019000197085,
-          "lng": 138.4217758697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.90459882989272,
+            "lng": 138.4244746798927
+          },
+          "southwest": {
+            "lat": 36.90189917010728,
+            "lng": 138.4217750201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJBSiljBwb9l8RljxFHR9jW94",
-    "plus_code": {
-      "compound_code": "WC3F+83 長野県飯山市",
-      "global_code": "8Q8WWC3F+83"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2322 長野県飯山市瑞穂７３３２−２",
+      "place_id": "ChIJBSiljBwb9l8RljxFHR9jW94",
+      "plus_code": {
+        "compound_code": "WC3F+83 飯山市、長野県",
+        "global_code": "8Q8WWC3F+83"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小川",
-        "short_name": "小川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上松町",
-        "short_name": "上松町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5607",
-        "short_name": "399-5607",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5607 長野県木曽郡上松町小川 小川入国有林内",
-    "geometry": {
-      "location": {
-        "lat": 35.7315373,
-        "lng": 137.6246554
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.73339018029149,
-          "lng": 137.6262565302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5607 長野県木曽郡上松町小川 小川入国有林内",
+      "geometry": {
+        "location": {
+          "lat": 35.7315373,
+          "lng": 137.6246554
         },
-        "southwest": {
-          "lat": 35.7306922197085,
-          "lng": 137.6235585697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.73339102989272,
+            "lng": 137.6262573798927
+          },
+          "southwest": {
+            "lat": 35.73069137010727,
+            "lng": 137.6235577201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJqSsB10nFHGAR4h7yYxfffJg",
-    "plus_code": {
-      "compound_code": "PJJF+JV 長野県上松町",
-      "global_code": "8Q7VPJJF+JV"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "赤沢森林鉄道",
+      "photos": [
+        {
+          "height": 3712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113979364632126406788\">赤沢自然休養林</a>"
+          ],
+          "photo_reference": "Aap_uEBXVoiEcGGIxMTfjV2pdc91rRoUcUfioLj8HDSBPaYUv-aWuSprt2ov8eX9nktD9pWxfdIFCTkbDG_-twgE2oCaUI8gRysKLQuuPslc-ioRO4yyQeOvshDzaBvXZsvVb_OWWaFzAfaKc6colBxSkssM44c3al_FjIjx9IQP9ikENGU9",
+          "width": 5568
+        }
+      ],
+      "place_id": "ChIJqSsB10nFHGAR4h7yYxfffJg",
+      "plus_code": {
+        "compound_code": "PJJF+JV 上松町、長野県",
+        "global_code": "8Q7VPJJF+JV"
+      },
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

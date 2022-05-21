@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７１４８",
-        "short_name": "７１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
-    "geometry": {
-      "location": {
-        "lat": 36.6838061,
-        "lng": 138.4978176
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6852117802915,
-          "lng": 138.4987511302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
+      "geometry": {
+        "location": {
+          "lat": 36.6838061,
+          "lng": 138.4978176
         },
-        "southwest": {
-          "lat": 36.6825138197085,
-          "lng": 138.4960531697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.68521262989272,
+            "lng": 138.4987519798927
+          },
+          "southwest": {
+            "lat": 36.68251297010728,
+            "lng": 138.4960523201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx_uQ3pbxHWARKgZ_9OLLpJs",
-    "plus_code": {
-      "compound_code": "MFMX+G4 日本、長野県山ノ内町",
-      "global_code": "8Q8WMFMX+G4"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "志賀高原ロッヂ",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117374042917439424375\">長田晃登</a>"
+          ],
+          "photo_reference": "Aap_uEAqko7TGPRigNfTvlkzjaJyh2mxjCd9hA9j7NYAg67tWE1VqatJ67aAuJiZF8h2wYsBuLvVFzBHnIqhGfK-myCfNubzf2D8-6DRth3lDrvg1IM1aqMWfwBnsgNZCs82Gk-Q2RiD2JxCJ6vO5i-55Mi1uduX5YifxC-iHqgvW0uSKX4m",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJx_uQ3pbxHWARKgZ_9OLLpJs",
+      "plus_code": {
+        "compound_code": "MFMX+G4 山ノ内町、長野県",
+        "global_code": "8Q8WMFMX+G4"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

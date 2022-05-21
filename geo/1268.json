@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２３−１７２０",
-        "short_name": "１２２３−１７２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−１７２０",
-    "geometry": {
-      "location": {
-        "lat": 36.528371,
-        "lng": 138.3348309
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5297787802915,
-          "lng": 138.3363364302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−１７２０",
+      "geometry": {
+        "location": {
+          "lat": 36.528371,
+          "lng": 138.3348309
         },
-        "southwest": {
-          "lat": 36.5270808197085,
-          "lng": 138.3336384697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.52977962989272,
+            "lng": 138.3363372798927
+          },
+          "southwest": {
+            "lat": 36.52707997010728,
+            "lng": 138.3336376201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHcKfHT6UHWARoNKanKPWgwg",
-    "plus_code": {
-      "compound_code": "G8HM+8W 日本、長野県上田市",
-      "global_code": "8Q8WG8HM+8W"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "プチホテル ちょっと屋ガーデン",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100202869434058407418\">鈴木香央里</a>"
+          ],
+          "photo_reference": "Aap_uEBHyzEy6oIB0Hq86ZYU6OgVeZyCMPhAHQo52svEy1Y87bg2_y2EemoSNVeFteiSoW_Q2Nnqfhl9HwZlqUwnLb2GffDrcfKlELYZF9Ly8sZUhjRzhv7FwNLNG2R0liwjabC4RgEyXm0TNOJMDP7WLXLKQE9BsIPKJNZ2msGwWGT7TUsa",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJHcKfHT6UHWARoNKanKPWgwg",
+      "plus_code": {
+        "compound_code": "G8HM+8W 上田市、長野県",
+        "global_code": "8Q8WG8HM+8W"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

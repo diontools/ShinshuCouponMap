@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0875 長野県松本市城西１丁目５−９",
+      "geometry": {
+        "location": {
+          "lat": 36.2391831,
+          "lng": 137.9622979
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.24050392989272,
+            "lng": 137.9636221298927
+          },
+          "southwest": {
+            "lat": 36.23780427010728,
+            "lng": 137.9609224701072
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かつ玄弁当受付専用",
+      "photos": [
+        {
+          "height": 1980,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113581380884184545974\">daijiro takano</a>"
+          ],
+          "photo_reference": "Aap_uEBsJ5jbK36AUhH12DGYCMCXcFLmEq1-23LIxePfwcNYeezwZOKZWT4VW1GHQ7AZOCclV-iltwNMvBHJQ_MUjXfrkxImkTPyF8QWLHGF6d-LJNoI40LQ-wf3t_e-bcdYQYNX-XjuNa1EUTdcwuaqxXK_aRNIo5Es4vEugm154sHjbiCO",
+          "width": 3520
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJP6J5s4AOHWAR60Fh8NgfAB0",
+      "plus_code": {
+        "compound_code": "6XQ6+MW 松本市、長野県",
+        "global_code": "8Q8V6XQ6+MW"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

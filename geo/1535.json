@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 北佐久郡北佐久郡 軽井沢町軽井沢6-1",
-    "geometry": {
-      "location": {
-        "lat": 36.3561709,
-        "lng": 138.6339199
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3575230302915,
-          "lng": 138.6353571802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県 北佐久郡北佐久郡 軽井沢町軽井沢6-1",
+      "geometry": {
+        "location": {
+          "lat": 36.3561709,
+          "lng": 138.6339199
         },
-        "southwest": {
-          "lat": 36.3548250697085,
-          "lng": 138.6326592197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35752387989272,
+            "lng": 138.6353580298928
+          },
+          "southwest": {
+            "lat": 36.35482422010728,
+            "lng": 138.6326583701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJcSt_f4bTHWAR8_qVGLj1qOg",
-    "plus_code": {
-      "compound_code": "9J4M+FH 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J4M+FH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "レストラン・カフェ キッツビュール",
+      "photos": [
+        {
+          "height": 361,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109695507687134852616\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECNFSmCe_HDTXASHmmOThp-bXDIsR7Blbld8HYsF-SeuiACziSzi7-Ze1E-iQh_8mpQdSvb1uGgsQsKVOskHxN4CXpLwog4c3kItUBCy_APvn15lpLg8DZ4759AfaVwmsHy99z-ADdGFTb4KdH7D5M43zG4TbWMZqMqU1jj8ERPrfWp",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJcSt_f4bTHWAR8_qVGLj1qOg",
+      "plus_code": {
+        "compound_code": "9J4M+FH 軽井沢町、長野県",
+        "global_code": "8Q8W9J4M+FH"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

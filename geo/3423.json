@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８２１",
-        "short_name": "２８２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "17217",
-        "short_name": "17217",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0100",
-        "short_name": "391-0100",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0100 長野県諏訪郡原村17217−２８２１",
-    "geometry": {
-      "location": {
-        "lat": 35.9658358,
-        "lng": 138.2756402
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9672591802915,
-          "lng": 138.2767106302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0100 長野県諏訪郡原村17217−２８２１",
+      "geometry": {
+        "location": {
+          "lat": 35.9658358,
+          "lng": 138.2756402
         },
-        "southwest": {
-          "lat": 35.9645612197085,
-          "lng": 138.2740126697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96726002989272,
+            "lng": 138.2767114798928
+          },
+          "southwest": {
+            "lat": 35.96456037010728,
+            "lng": 138.2740118201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxV-1pN9EHGAR_Kl6jOYaqsk",
-    "plus_code": {
-      "compound_code": "X78G+87 長野県原村",
-      "global_code": "8Q7WX78G+87"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "グリーンプラザホテル",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107857899563774518387\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECIZqqYrqkWHdLpoZ9dFnawe5c8GXVmztWaW1VX8PrmV6q5JCGhU3SJaPzQXQJzmJkXkEbd718ekWvtlJglGyOK2p8vvMFZ2I8BXSYMCLu48oVSI6Lwd-qvo-tyC0VVl1JdxggfsYR3yvM2Do6tUSSQ8wqDk2Zj79Isv1IOPW8LwOew",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJxV-1pN9EHGAR_Kl6jOYaqsk",
+      "plus_code": {
+        "compound_code": "X78G+87 原村、長野県",
+        "global_code": "8Q7WX78G+87"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

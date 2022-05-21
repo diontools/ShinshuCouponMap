@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７５０−４",
-        "short_name": "７５０−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0012",
-        "short_name": "392-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0012 長野県諏訪市四賀７５０−４",
-    "geometry": {
-      "location": {
-        "lat": 36.021928,
-        "lng": 138.131928
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0232322302915,
-          "lng": 138.1331687802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0012 長野県諏訪市四賀７５０−４",
+      "geometry": {
+        "location": {
+          "lat": 36.0219276,
+          "lng": 138.1319271
         },
-        "southwest": {
-          "lat": 36.0205342697085,
-          "lng": 138.1304708197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.02323307989273,
+            "lng": 138.1331696298927
+          },
+          "southwest": {
+            "lat": 36.02053342010728,
+            "lng": 138.1304699701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9aaiAptWHGARhPdq3K1zI6Y",
-    "plus_code": {
-      "compound_code": "24CJ+QQ 長野県諏訪市",
-      "global_code": "8Q8W24CJ+QQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ドミンゴ諏訪店",
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104374043790007078635\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAsh_isi9MdotjzXttkN3K6jt-LhGbuSSe7KLGJqdPAtp-JEsQ6nD6Iu2-Zlc5pfk-wUl7pCIeJe5Xv8_Y_EXI7IEedo5wflMlmD5t9RFJ0Toswk0Wnn0yi7nN-VoGnh_UT48DnidmmrfAZjVkdmOIP20YIqERUEuptyhTPBzltu0BE",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJ9aaiAptWHGARhPdq3K1zI6Y",
+      "plus_code": {
+        "compound_code": "24CJ+QQ 諏訪市、長野県",
+        "global_code": "8Q8W24CJ+QQ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,106 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "仲見世通り",
-        "short_name": "仲見世通り",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "善光寺",
-        "short_name": "善光寺",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４８６",
-        "short_name": "４８６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元善町",
-        "short_name": "元善町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0851",
-        "short_name": "380-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0851 長野県長野市長野元善町４８６ 善光寺 仲見世通り",
-    "geometry": {
-      "location": {
-        "lat": 36.65982450000001,
-        "lng": 138.1874632
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.66117348029151,
-          "lng": 138.1888121802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0851 長野県長野市元善町４８６ 善光寺 仲見世通り",
+      "geometry": {
+        "location": {
+          "lat": 36.65982450000001,
+          "lng": 138.1874632
         },
-        "southwest": {
-          "lat": 36.65847551970851,
-          "lng": 138.1861142197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66117432989272,
+            "lng": 138.1888130298927
+          },
+          "southwest": {
+            "lat": 36.65847467010728,
+            "lng": 138.1861133701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "九九や旬粋(おみやげ＆クレープ）",
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111385353651951620768\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBJGXxM84nsQiOWyTNr58jtJ30zJhe5AcEElpiouXTG6RMeF_EnKcUZ_gE42pfl5E7tuHWpQ78N07kiBcOOOzPSSFkfQ4Ewq08o6u_BvLSvHgIa49ro-MbvbpnuCVsYVwWFaa-tgtlowcZ9FqZw1UUG4aaQKHNKlQ_TfHWM4KNTTbFZ",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJi3FnCOOGHWARBSaWzZnkpHc",
+      "plus_code": {
+        "compound_code": "M55P+WX 長野市、長野県",
+        "global_code": "8Q8WM55P+WX"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJi3FnCOOGHWARBSaWzZnkpHc",
-    "plus_code": {
-      "compound_code": "M55P+WX 長野県長野市",
-      "global_code": "8Q8WM55P+WX"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0851 長野県長野市元善町４８６ 仲見世通り 九九や旬粋2階 善光寺",
+      "geometry": {
+        "location": {
+          "lat": 36.6598364,
+          "lng": 138.1874686
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.66118622989271,
+            "lng": 138.1888184298927
+          },
+          "southwest": {
+            "lat": 36.65848657010727,
+            "lng": 138.1861187701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "cafe dolette カフェドレッタ",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101636289066182661295\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAcDl9Szan4uge3Cz6_9f8zQPzLuhhjwo7DOeHAUZCHgUN2l_PxU32jcdZUKY2KLWDmVQKWRxAUI5aoLIDe9SpPwIDzFZWB-Z6THpKxhLSl1GV7uhnVh0onBO15PGnD832EOUUe_OdELo9fo1CvK8OfpEUsmEuaoG7QAA75knSkeZQS",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJ-63TWY-HHWARqQWV5ue-Rs0",
+      "plus_code": {
+        "compound_code": "M55P+WX 長野市、長野県",
+        "global_code": "8Q8WM55P+WX"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

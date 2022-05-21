@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長地柴宮",
-        "short_name": "長地柴宮",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0083",
-        "short_name": "394-0083",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0083 長野県岡谷市長地柴宮１丁目９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.07261099999999,
-        "lng": 138.061866
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0741660302915,
-          "lng": 138.0630538802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0083 長野県岡谷市長地柴宮１丁目９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.072576,
+          "lng": 138.0617654
         },
-        "southwest": {
-          "lat": 36.0714680697085,
-          "lng": 138.0603559197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07416687989272,
+            "lng": 138.0630547298927
+          },
+          "southwest": {
+            "lat": 36.07146722010728,
+            "lng": 138.0603550701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJkaVIoh8AHWARkN6th2h8ILU",
-    "plus_code": {
-      "compound_code": "33F6+2P 長野県岡谷市",
-      "global_code": "8Q8W33F6+2P"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "あきしの",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117187495267186946512\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDGOHAwjyFVt1iFg3KAKMQ0kDnOqrtSKAEH57nLPP7eVvMM-UA2LyKX80G1J7M8xODuM-abEclhAN3FWx1rWARhXrvrzjPB5Ocvo27l9xXvQIlMLQt4l8ZR6OO-9Z247SSzt2xceGOGcC4E5H9rIFFcVSYlAiAkUYtHyg_byLWQ--rD",
+          "width": 4912
+        }
+      ],
+      "place_id": "ChIJkaVIoh8AHWARkN6th2h8ILU",
+      "plus_code": {
+        "compound_code": "33F6+2P 岡谷市、長野県",
+        "global_code": "8Q8W33F6+2P"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

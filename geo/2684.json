@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "Kitaazumigun Hakubamura",
-        "short_name": "Kitaazumigun Hakubamura",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Nagano",
-        "short_name": "Nagano",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "3322-1, 北城 Kitaazumigun Hakubamura, 北安曇郡 Nagano 399-9301 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.699034,
-        "lng": 137.845314
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.70032663029149,
-          "lng": 137.8465810302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3322-1, Kitaazumigun Hakubamura, Nagano 399-9301 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.699034,
+          "lng": 137.845314
         },
-        "southwest": {
-          "lat": 36.69762866970849,
-          "lng": 137.8438830697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70032747989272,
+            "lng": 137.8465818798927
+          },
+          "southwest": {
+            "lat": 36.69762782010728,
+            "lng": 137.8438822201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyyyQOgfO918RwYzzOGi7wzQ",
-    "plus_code": {
-      "compound_code": "MRXW+J4 長野県白馬村",
-      "global_code": "8Q8VMRXW+J4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "白馬パノラマ ホテル",
+      "photos": [
+        {
+          "height": 1265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115981589629522572528\">Hakuba Taproom</a>"
+          ],
+          "photo_reference": "Aap_uEDc2e4Fl6evdDoI6brDaY4fOnl8pMaH-0WI1vhgMdz9vI1METzXRMi8R5uxkfM1DIhQvVCpxSW9iqcbp6VvN3qLAJWHROhYiotST5ex_8AAHw9AaOtPbhnnZ-Iskwu1sp6YzaPPGTDTNVTp4nqVxokAI-L4eeovTzjc1ZDn7WBCnwYY",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJyyyQOgfO918RwYzzOGi7wzQ",
+      "plus_code": {
+        "compound_code": "MRXW+J4 白馬村、長野県",
+        "global_code": "8Q8VMRXW+J4"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

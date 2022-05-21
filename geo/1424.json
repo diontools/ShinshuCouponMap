@@ -1,110 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "池畔",
-        "short_name": "池畔",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "白駒",
-        "short_name": "白駒",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "八郡",
-        "short_name": "八郡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大字",
-        "short_name": "大字",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "佐久穂町",
-        "short_name": "佐久穂町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0704",
-        "short_name": "384-0704",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0704 長野県南佐久郡佐久穂町大字八郡白駒池畔",
-    "geometry": {
-      "location": {
-        "lat": 36.0529031,
-        "lng": 138.3610765
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0538269302915,
-          "lng": 138.3657305
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0704 長野県南佐久郡佐久穂町大字八郡白駒池畔",
+      "geometry": {
+        "location": {
+          "lat": 36.0529042,
+          "lng": 138.361158
         },
-        "southwest": {
-          "lat": 36.0511289697085,
-          "lng": 138.3610765
+        "viewport": {
+          "northeast": {
+            "lat": 36.05382777989273,
+            "lng": 138.3680575
+          },
+          "southwest": {
+            "lat": 36.05112812010729,
+            "lng": 138.3587495
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "青苔荘",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104898068455017707386\">DongHyun Kim</a>"
+          ],
+          "photo_reference": "Aap_uEBWogNA0zrXiiBMroFrDeuBj3TAgwV9JUvb5v4v5oNjXozWt0f-0dwCxsp32RrVx2vDsd-N44_Xxbwfw1GgKNqKKIYIbIwKunPEWVPZZgESY-fftT0qHwbWuVQDILKbhe0R3TWXwuH7vuMK0grb9egFhp6cQhA9AIEbCDRHGZdgvWKn",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJY6mnddVHHGARQtDcHzEDalU",
+      "plus_code": {
+        "compound_code": "3936+5C 佐久穂町、長野県",
+        "global_code": "8Q8W3936+5C"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJY6mnddVHHGARQtDcHzEDalU",
-    "plus_code": {
-      "compound_code": "3936+5C 日本、長野県佐久穂町",
-      "global_code": "8Q8W3936+5C"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0704 長野県南佐久郡佐久穂町八郡６０３",
+      "geometry": {
+        "location": {
+          "lat": 36.0528354,
+          "lng": 138.3615066
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.05379392989273,
+            "lng": 138.36784245
+          },
+          "southwest": {
+            "lat": 36.05109427010728,
+            "lng": 138.35939465
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "青苔荘 テント場",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110360471376619305361\">Yosuke Yamada</a>"
+          ],
+          "photo_reference": "Aap_uEAwwU0KVJgPEx6zTj9UxAaQXneRiQn8mPKxQV2iNDngVTDU0PCJS4Cz0UehhLtQ0rn9K5kHE6RK0TQfK2-uE2KYh4mWZrW_A_najSj28f3t8KKS7eqzzkGQlFTHEeSVHNT1DYZEezP-iseG33b-LYC-eQ9YAU48jBlcRphj7cJjgJ6t",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJD2ClzHdHHGARUfZSpbyJsDg",
+      "plus_code": {
+        "compound_code": "3936+4J 佐久穂町、長野県",
+        "global_code": "8Q8W3936+4J"
+      },
+      "types": [
+        "campground",
+        "park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,74 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "西町",
-        "short_name": "西町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "396-0026",
-        "short_name": "396-0026",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒396-0026 長野県伊那市西町 ますみケ丘269",
-    "geometry": {
-      "location": {
-        "lat": 35.8405232,
-        "lng": 137.9335115
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8418721802915,
-          "lng": 137.9348604802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0026 長野県伊那市西町 ますみケ丘269",
+      "geometry": {
+        "location": {
+          "lat": 35.8405232,
+          "lng": 137.9335115
         },
-        "southwest": {
-          "lat": 35.8391742197085,
-          "lng": 137.9321625197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.84187302989272,
+            "lng": 137.9348613298927
+          },
+          "southwest": {
+            "lat": 35.83917337010728,
+            "lng": 137.9321616701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYa6h2zHwHGARTvz6aq4hUU4",
-    "plus_code": {
-      "compound_code": "RWRM+6C 長野県伊那市",
-      "global_code": "8Q7VRWRM+6C"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "小黒川PA (下り)",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115594383350793380631\">横山満紀</a>"
+          ],
+          "photo_reference": "Aap_uEDlYW5UkOAHmWeMzU1MxPpvHbxRe2RdERnkPC4xYWF5a95gpDtzsiGAY0cCuOYks-k2TnUcs3P33NNNryDAnnj4LDbcUlIoZLxhewQ5NYdkYFDrzOgy9mEwyKZRIyWV1KdrOC9yvq9F0fyVWKxsb75dA9ogeGBbQt-hToD_45duh3Uv",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJYa6h2zHwHGARTvz6aq4hUU4",
+      "plus_code": {
+        "compound_code": "RWRM+6C 伊那市、長野県",
+        "global_code": "8Q7VRWRM+6C"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

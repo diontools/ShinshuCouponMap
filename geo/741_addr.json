@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４７１−７９",
-        "short_name": "２４７１−７９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上ケ屋",
-        "short_name": "上ケ屋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0888",
-        "short_name": "380-0888",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0888 長野県長野市上ケ屋２４７１−７９",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7016201,
-          "lng": 138.1361728
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0888 長野県長野市上ケ屋２４７１−７９",
+      "geometry": {
+        "location": {
+          "lat": 36.7013268,
+          "lng": 138.1358938
         },
-        "southwest": {
-          "lat": 36.7009484,
-          "lng": 138.1356831
+        "viewport": {
+          "northeast": {
+            "lat": 36.70278827989272,
+            "lng": 138.1374588798927
+          },
+          "southwest": {
+            "lat": 36.70008862010728,
+            "lng": 138.1347592201072
+          }
         }
       },
-      "location": {
-        "lat": 36.7013268,
-        "lng": 138.1358939
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7026332302915,
-          "lng": 138.1373526802915
-        },
-        "southwest": {
-          "lat": 36.6999352697085,
-          "lng": 138.1346547197085
-        }
-      }
-    },
-    "place_id": "ChIJ_RNXV4gp9l8Rqmb9jCMsLsY",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0888 長野県長野市上ケ屋２４７１−７９",
+      "place_id": "ChIJ_RNXV4gp9l8Rqmb9jCMsLsY",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

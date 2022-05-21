@@ -1,72 +1,92 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡軽井沢町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0115 長野県北佐久郡軽井沢町追分８９−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3330997,
+          "lng": 138.5317847
         },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+        "viewport": {
+          "northeast": {
+            "lat": 36.33455482989272,
+            "lng": 138.5331379298927
+          },
+          "southwest": {
+            "lat": 36.33185517010727,
+            "lng": 138.5304382701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3483927,
-        "lng": 138.5970297
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
-        },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "VIZ ブリュノー家の食卓",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112389454638462926946\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECy5mzEnJnDFJXquLi_qF84LsiekoxdZsYTvzogTrBPgqqAGHUFojHTJDZrKJ_S_rbVrFjubikRTdGjbrs-WsYgdlrtiFsXezsKtky1_TwygZPglideA0KibOCzSAxXIEKOHu1wcLlqOFXAlwskCF_bW_gzFRIYV-qa7ZGsFnZeQiVp",
+          "width": 3151
         }
-      }
+      ],
+      "place_id": "ChIJF8fEOoTNHWARTxdtYld5tDw",
+      "plus_code": {
+        "compound_code": "8GMJ+6P 軽井沢町、長野県",
+        "global_code": "8Q8W8GMJ+6P"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJk6PBPzzSHWAR-XHag0iPEZk",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、北佐久郡軽井沢町追分８９−７ 389-0115 VIZ西側",
+      "geometry": {
+        "location": {
+          "lat": 36.3330997,
+          "lng": 138.5317847
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.33455482989272,
+            "lng": 138.5331379298927
+          },
+          "southwest": {
+            "lat": 36.33185517010727,
+            "lng": 138.5304382701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "みかげ茶屋",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118413890825349252479\">acecafe246 .</a>"
+          ],
+          "photo_reference": "Aap_uEBliECPFatPDHrakOeieHvaVs8EneaFPMYolYPYMRX4DffTCOtmq27TZHF2D70sbaEuGMLQC-f6e-VVesIKlESqVlRlZdIFiuezq6bYaZ3Lux9iz7kBfKRDshNxdXRPmhX-JtP_fO9RIm4Cz4yv2k6GxRFEYCWFSWZPWUhAG2fXIynJ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJBeJu0sTNHWAR40mfsjcYarY",
+      "plus_code": {
+        "compound_code": "8GMJ+6P 軽井沢町、長野県",
+        "global_code": "8Q8W8GMJ+6P"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

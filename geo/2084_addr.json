@@ -1,108 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "コングロM 地下",
-        "short_name": "コングロM 地下",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１１",
-        "short_name": "１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目３−１１ コングロM 地下 1階～2階",
-    "geometry": {
-      "location": {
-        "lat": 36.2296706,
-        "lng": 137.9673101
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2309810302915,
-          "lng": 137.9687991802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目３−１１ 1階～2階 コングロM 地下",
+      "geometry": {
+        "location": {
+          "lat": 36.2296706,
+          "lng": 137.9673101
         },
-        "southwest": {
-          "lat": 36.2282830697085,
-          "lng": 137.9661012197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23098187989272,
+            "lng": 137.9688000298927
+          },
+          "southwest": {
+            "lat": 36.22828222010727,
+            "lng": 137.9661003701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "丸善 松本店",
+      "photos": [
+        {
+          "height": 2936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109672651295182507609\">shoji yoshi</a>"
+          ],
+          "photo_reference": "Aap_uEAa76DqtFkSAmzw8UYbY54WQfgBdno13ZXDCaqWw1jjBX3eizjXqU6vDIqsv23WpXgdKzGzX1uq6nwF8neGQqiiK10homA60-32dT6iUey3FcgLuB-LWETJKapG7tcCkdkrazcy65Bi6wGh6T9NcJn5Bxtxqmparpgs126t42dJ54-D",
+          "width": 3916
+        }
+      ],
+      "place_id": "ChIJP-8ejIwOHWARgg-122wy_AM",
+      "plus_code": {
+        "compound_code": "6XH8+VW 松本市、長野県",
+        "global_code": "8Q8V6XH8+VW"
+      },
+      "types": [
+        "book_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJP-8ejIwOHWARgg-122wy_AM",
-    "plus_code": {
-      "compound_code": "6XH8+VW 長野県松本市",
-      "global_code": "8Q8V6XH8+VW"
-    },
-    "types": [
-      "book_store",
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目３−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.229843,
+          "lng": 137.9671548
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23122867989272,
+            "lng": 137.9685825298927
+          },
+          "southwest": {
+            "lat": 36.22852902010728,
+            "lng": 137.9658828701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "クワトロクオーレ",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102278510087255059026\">LANA KICHI</a>"
+          ],
+          "photo_reference": "Aap_uEBv-cJaLTBkDW-Od462wfXxDKeiWn6_qHRbum_z0SE0sfxoO6blTD77vX7dRUn241I_pyCN--rb-EM6ZdVgyeqcSnZjLG8ZDYJ69wGc77qlInC7DQx-sR-VsdDpSDJUUnx36tDnY-5feZ8O6IG03M3uTYlqeImRyY2rS71CFEvUs0U",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJw6urtgIPHWARR5uSIv3LpjY",
+      "plus_code": {
+        "compound_code": "6XH8+WV 松本市、長野県",
+        "global_code": "8Q8V6XH8+WV"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

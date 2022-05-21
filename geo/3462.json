@@ -1,108 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "羽田内科医院",
-        "short_name": "羽田内科医院",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り２丁目４−１４ 羽田内科医院",
-    "geometry": {
-      "location": {
-        "lat": 36.053628,
-        "lng": 138.113948
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0549935302915,
-          "lng": 138.1153575302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り２丁目４−１４ 羽田内科医院",
+      "geometry": {
+        "location": {
+          "lat": 36.0536367,
+          "lng": 138.1139801
         },
-        "southwest": {
-          "lat": 36.0522955697085,
-          "lng": 138.1126595697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05499437989272,
+            "lng": 138.1153583798927
+          },
+          "southwest": {
+            "lat": 36.05229472010728,
+            "lng": 138.1126587201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtxKiaqlVHGARBNZTEt3QpvE",
-    "plus_code": {
-      "compound_code": "3437+FH 長野県諏訪市",
-      "global_code": "8Q8W3437+FH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "大和屋湖魚店",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113041106508936600165\">M Yazawa</a>"
+          ],
+          "photo_reference": "Aap_uEAZOWQLd2_W3io1yeIvT1E5xQMxMFX0OBiuZ611TJ1wDVuIZYyPUu-DbEtS4ZBC5_COd12SAssabX2c3flom-sTkYh9shyr6EHESOxOvM77xuzlLDJrJUppLopxiJx3XhQ7GFED91xos7Eab9Xd7oFeuS2PgBaBcFQ9wrxWR4qi-m4s",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJtxKiaqlVHGARBNZTEt3QpvE",
+      "plus_code": {
+        "compound_code": "3437+FH 諏訪市、長野県",
+        "global_code": "8Q8W3437+FH"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

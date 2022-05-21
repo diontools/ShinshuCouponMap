@@ -1,74 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "篠ノ井西寺尾",
-        "short_name": "篠ノ井西寺尾",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "388-8018",
-        "short_name": "388-8018",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒388-8018 長野県長野市篠ノ井西寺尾",
-    "geometry": {
-      "location": {
-        "lat": 36.585771,
-        "lng": 138.1887809
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5871228802915,
-          "lng": 138.1901030302915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒388-8018 長野県長野市篠ノ井西寺尾 赤川２３２８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.585351,
+          "lng": 138.189842
         },
-        "southwest": {
-          "lat": 36.5844249197085,
-          "lng": 138.1874050697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.58654777989271,
+            "lng": 138.1911628298927
+          },
+          "southwest": {
+            "lat": 36.58384812010727,
+            "lng": 138.1884631701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_WDxlvCEHWARVk4wlMjxcE8",
-    "plus_code": {
-      "compound_code": "H5PQ+8G 長野県長野市",
-      "global_code": "8Q8WH5PQ+8G"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "おぎのや 長野店",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100605135157980126339\">おぎのや長野店</a>"
+          ],
+          "photo_reference": "Aap_uEBn6KhMwImaXCYSAq97RaHW7W7fQHRkv2qp12cjazMdUB6iqqN24oL-PCTqSbqCKlgE5ftq2MQ5ggU97-iaK-FlDEuTwrpd0J3dvP5GetXcS4UVw6or2RBsyvQKLXF6DHn-EOtHT5kdWlDws-5EH4OqYuLYSw72ZTt2TTHUnIG4kYUb",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJNTA0fvqEHWAR1G3Wxh76548",
+      "plus_code": {
+        "compound_code": "H5PQ+4W 長野市、長野県",
+        "global_code": "8Q8WH5PQ+4W"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

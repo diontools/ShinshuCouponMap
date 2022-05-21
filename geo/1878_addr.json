@@ -1,154 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "柿沢",
-        "short_name": "柿沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0722",
-        "short_name": "399-0722",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0722 長野県塩尻市柿沢",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1076505,
-          "lng": 138.029676
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0722 長野県塩尻市柿沢字永井坂９２１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0969171,
+          "lng": 137.99717
         },
-        "southwest": {
-          "lat": 36.0917966,
-          "lng": 137.9786993
+        "viewport": {
+          "northeast": {
+            "lat": 36.09824912989272,
+            "lng": 137.9984916798927
+          },
+          "southwest": {
+            "lat": 36.09554947010727,
+            "lng": 137.9957920201072
+          }
         }
       },
-      "location": {
-        "lat": 36.1003928,
-        "lng": 137.9973127
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1076505,
-          "lng": 138.029676
-        },
-        "southwest": {
-          "lat": 36.0917966,
-          "lng": 137.9786993
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "みどり湖PA (下り)",
+      "photos": [
+        {
+          "height": 809,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101754607174985896916\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB7j7RcPCVMUEmezUi-RKL86NTr3s4L6GYHyGlVnXy91WWatrYwzC4O9LFC1BCL46LsJJSIFk9aGsDl3nB9SB57DEtnpn3Tt0AbZGEOvvN5ikf_xqtcTiI9Xp5ZI9G-S7oz4xWivQRjwY_k3qwQD2y4asdRK1rZLrpRrtyVHATj_yai",
+          "width": 1440
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4SebOl4BHWARMaimb-A2-qs",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "一番町",
-        "short_name": "一番町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
+      ],
+      "place_id": "ChIJ143zHd4DHWARJBFsKcDOcYg",
+      "plus_code": {
+        "compound_code": "3XWW+QV 塩尻市、長野県",
+        "global_code": "8Q8V3XWW+QV"
       },
-      {
-        "long_name": "千代田区",
-        "short_name": "千代田区",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東京都",
-        "short_name": "東京都",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "102-0082",
-        "short_name": "102-0082",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒102-0082 東京都千代田区一番町",
-    "geometry": {
-      "location": {
-        "lat": 35.6863985,
-        "lng": 139.7416523
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6877441802915,
-          "lng": 139.7430403802915
-        },
-        "southwest": {
-          "lat": 35.6850462197085,
-          "lng": 139.7403424197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJr38YXWWMGGAR-m5mqTPXdMI",
-    "plus_code": {
-      "compound_code": "MPPR+HM 東京都千代田区",
-      "global_code": "8Q7XMPPR+HM"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

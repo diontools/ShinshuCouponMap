@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪郡富士見町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9711369,
-          "lng": 138.3702632
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0214 長野県諏訪郡富士見町落合９９８４−１０２５",
+      "geometry": {
+        "location": {
+          "lat": 35.9183017,
+          "lng": 138.237958
         },
-        "southwest": {
-          "lat": 35.7808892,
-          "lng": 138.1685621
+        "viewport": {
+          "northeast": {
+            "lat": 35.91972852989272,
+            "lng": 138.2389984298927
+          },
+          "southwest": {
+            "lat": 35.91702887010727,
+            "lng": 138.2362987701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9146598,
-        "lng": 138.2406687
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9711369,
-          "lng": 138.3702632
-        },
-        "southwest": {
-          "lat": 35.7808892,
-          "lng": 138.1685621
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ぴあーのカフェ＆レストラン",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112581788175522874837\">原田玲子</a>"
+          ],
+          "photo_reference": "Aap_uEBFNrTfqXaLC471CsDC8_yFfmJ2iI--bYeez3uYS5-t3hkI2fGhVSZJjvMWcMXACe_EdBs3y_fHWbmWrCCchDlBrM3joY-S1LQgVvLI5XbNxi2HffM6_2_81E3yH0bFNqSYgbg_lY-oEQKJh0BTxK0HcK4QVMQLRQSXg_HFYdlcVuPk",
+          "width": 3264
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJh09QsYRCHGARPRbZU3mErpA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJjzeB4LJcHGARPU8pPJOrJ9U",
+      "plus_code": {
+        "compound_code": "W69Q+85 富士見町、長野県",
+        "global_code": "8Q7WW69Q+85"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

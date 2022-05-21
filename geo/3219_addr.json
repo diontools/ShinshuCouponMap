@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０３５",
-        "short_name": "４０３５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0395",
-        "short_name": "391-0395",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0395 長野県茅野市北山４０３５",
-    "geometry": {
-      "location": {
-        "lat": 36.0525407,
-        "lng": 138.2613589
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0542886802915,
-          "lng": 138.2625943302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0395 長野県茅野市北山４０３５",
+      "geometry": {
+        "location": {
+          "lat": 36.0525407,
+          "lng": 138.2613589
         },
-        "southwest": {
-          "lat": 36.0515907197085,
-          "lng": 138.2598963697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05428952989272,
+            "lng": 138.2625951798927
+          },
+          "southwest": {
+            "lat": 36.05158987010728,
+            "lng": 138.2598955201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhaEbwAFPHGARJR8-DnHQs_s",
-    "plus_code": {
-      "compound_code": "3736+2G 長野県茅野市",
-      "global_code": "8Q8W3736+2G"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "リゾートホテル蓼科",
+      "photos": [
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111643772714948721872\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAAyF0JpeAavw_xHWXIJGb7R5vCYTKVnmWXWK4DorjBNM3Ok-kBj2UPbF6-M21IjkYHGy15g95Svby1HTEFPvf9DCX3PaG1FqNGrkXD8YSYnkXcJnrS1ZtmwLhZeCgA16Z8tJyKwCS8SY7tNaX3wHo4iN1eL4OLuontENf_cDt_tAP3",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJhaEbwAFPHGARJR8-DnHQs_s",
+      "plus_code": {
+        "compound_code": "3736+2G 茅野市、長野県",
+        "global_code": "8Q8W3736+2G"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

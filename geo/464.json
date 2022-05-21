@@ -1,98 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "字",
-        "short_name": "字",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "３１５３−５０",
-        "short_name": "３１５３−５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "峰の原",
-        "short_name": "峰の原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2211",
-        "short_name": "386-2211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−５０ 字",
-    "geometry": {
-      "location": {
-        "lat": 36.5568229,
-        "lng": 138.3509773
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5582033802915,
-          "lng": 138.3525211302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−５０ 字",
+      "geometry": {
+        "location": {
+          "lat": 36.5568229,
+          "lng": 138.3509773
         },
-        "southwest": {
-          "lat": 36.5555054197085,
-          "lng": 138.3498231697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.55820422989272,
+            "lng": 138.3525219798927
+          },
+          "southwest": {
+            "lat": 36.55550457010728,
+            "lng": 138.3498223201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEfrV1qqTHWARDEc7vWf578k",
-    "plus_code": {
-      "compound_code": "H942+P9 日本、長野県須坂市",
-      "global_code": "8Q8WH942+P9"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "リワイルドニンジャスノーハイランド",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105243845225970921703\">ぼた</a>"
+          ],
+          "photo_reference": "Aap_uEDMTBWwPYScWIr_GePjHGP149zJQ9P7Wik7U6YaBFTnN6-ssJZz2XLYNtx1RCiEp68Uniz7xqkizXhKEuzwhURRUkes0qPTQ5AE_Ud0dwM7x7DJNEKQMpyi08ht8zV-6Z3UwEXmjCGVOae9EQpAnjYCkLkLhwEnN54O47C42LtzQ9Il",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJEfrV1qqTHWARDEc7vWf578k",
+      "plus_code": {
+        "compound_code": "H942+P9 須坂市、長野県",
+        "global_code": "8Q8WH942+P9"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

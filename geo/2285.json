@@ -1,123 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1F",
-        "short_name": "1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "イオンモール松本",
-        "short_name": "イオンモール松本",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "風庭",
-        "short_name": "風庭",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５１",
-        "short_name": "５１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央４丁目９−５１ 風庭 1F イオンモール松本",
-    "geometry": {
-      "location": {
-        "lat": 36.2329117,
-        "lng": 137.9785553
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2341142302915,
-          "lng": 137.9798269302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央４丁目９−５１ 風庭 1F イオンモール松本",
+      "geometry": {
+        "location": {
+          "lat": 36.2329117,
+          "lng": 137.9785553
         },
-        "southwest": {
-          "lat": 36.2314162697085,
-          "lng": 137.9771289697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23411507989272,
+            "lng": 137.9798277798927
+          },
+          "southwest": {
+            "lat": 36.23141542010728,
+            "lng": 137.9771281201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJZaM1pQOHWARgzhWEdPaOwc",
-    "plus_code": {
-      "compound_code": "6XMH+5C 日本、長野県松本市",
-      "global_code": "8Q8V6XMH+5C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "富寿し",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114021205590868468500\">nakagawa1974</a>"
+          ],
+          "photo_reference": "Aap_uED1K4-nLCpU4_4QLIf2pgNnsCyGr12BbJn3sjAh0PdSiPoOGikn4HiIYTLc1Fusgd2rG2F4vg5DGoJkTNfl31wztgPjsBCYstLWCRCkb815SNxX-xGgDk4FzemnOyFVXP9i2_3iL-S3yEWlTTfybksvMUGc9JnwxFn5EXq-satuCbqf",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJZaM1pQOHWARgzhWEdPaOwc",
+      "plus_code": {
+        "compound_code": "6XMH+5C 松本市、長野県",
+        "global_code": "8Q8V6XMH+5C"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県東御市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4345909,
-          "lng": 138.4581017
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0505 長野県東御市和３８７５",
+      "geometry": {
+        "location": {
+          "lat": 36.3868498,
+          "lng": 138.3184786
         },
-        "southwest": {
-          "lat": 36.2857541,
-          "lng": 138.2941063
+        "viewport": {
+          "northeast": {
+            "lat": 36.38827892989272,
+            "lng": 138.3196301798927
+          },
+          "southwest": {
+            "lat": 36.38557927010728,
+            "lng": 138.3169305201072
+          }
         }
       },
-      "location": {
-        "lat": 36.35952100000001,
-        "lng": 138.3305851
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4345909,
-          "lng": 138.4581017
-        },
-        "southwest": {
-          "lat": 36.2857541,
-          "lng": 138.2941063
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "みづほ温泉 湯楽里館 (ゆらりかん)",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113260628040328577035\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBOdifewicOFsc3QIfMxfo-EmVg0GcCZQHYpaUm4lQqgwedVIHOqBj8kYtKx8xHTInpobogO3UNI498hIG9cGQbWYg3c-GnT6ddpzW8e7xOtEKDwpIF3dBA6_2i6LQnb891fhWGkcV0D65bZdwf8dYH90rtnbFFPjBVUvNy9b2naYXg",
+          "width": 4608
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJW3JXUjy4HWAR1t5pWVJIdMc",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJyUOcTf27HWARePmhTIpiHHU",
+      "plus_code": {
+        "compound_code": "98P9+P9 東御市、長野県",
+        "global_code": "8Q8W98P9+P9"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

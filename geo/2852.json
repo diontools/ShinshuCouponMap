@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡木曽町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島２０１２−８",
+      "geometry": {
+        "location": {
+          "lat": 35.8440472,
+          "lng": 137.6929167
         },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+        "viewport": {
+          "northeast": {
+            "lat": 35.84541932989271,
+            "lng": 137.6941953298928
+          },
+          "southwest": {
+            "lat": 35.84271967010727,
+            "lng": 137.6914956701073
+          }
         }
       },
-      "location": {
-        "lat": 35.8424988,
-        "lng": 137.6915171
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
-        },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "川合商店",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100720340229845423993\">川合商店</a>"
+          ],
+          "photo_reference": "Aap_uECEP3uE3pUzmrxqzaM4SBzmgu29hZP9ekPixfy5ILGzPZgO_JHbOKnXGzpUWXLXu8a_cDcogSqdSP8qOgr0VRdPRo5RZ8EOVmQNK_RlrUsanJVHk23D4voJ9bsJWIDG4mNdI-eYKSnpfNAVPo7ZMN6a2vjvc6Nvdjx_4bZjKE6cc2Do",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGb9UfHEnHWARFYfp0VxZPjs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJufcyxajeHGARoUkzau48yyY",
+      "plus_code": {
+        "compound_code": "RMVV+J5 木曽町、長野県",
+        "global_code": "8Q7VRMVV+J5"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

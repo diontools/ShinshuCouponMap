@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "3518‐2451",
-        "short_name": "3518‐2451",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大門",
-        "short_name": "大門",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長和町",
-        "short_name": "長和町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0601",
-        "short_name": "386-0601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0601 長野県小県郡長和町大門3518‐2451",
-    "geometry": {
-      "location": {
-        "lat": 36.1199992,
-        "lng": 138.2158594
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.12129048029149,
-          "lng": 138.2171468302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0601 長野県小県郡長和町大門3518‐2451",
+      "geometry": {
+        "location": {
+          "lat": 36.1199992,
+          "lng": 138.2158594
         },
-        "southwest": {
-          "lat": 36.1185925197085,
-          "lng": 138.2144488697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12129132989272,
+            "lng": 138.2171476798927
+          },
+          "southwest": {
+            "lat": 36.11859167010727,
+            "lng": 138.2144480201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJm9BaDL9SHGARJQC-itFlGG8",
-    "plus_code": {
-      "compound_code": "4698+X8 日本、長野県長和町",
-      "global_code": "8Q8W4698+X8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション レンガ家",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113792841314789133856\">よういち</a>"
+          ],
+          "photo_reference": "Aap_uEDrCx6OHyfq4UPGSGEvZt8BIg39ef4mOwQUozmbCD3rIBQejomDYEquIIPYP8xTYw_YGoUsH4skzrRA7-DrvI4EpvJ4xNcZTx2S_nltrUCvRJctY_crI7gipl_asd16nzwtIB9_lQV1uWLMeOGtuvReH9MGrtF9X3-E4CYGLtUmIBNQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJm9BaDL9SHGARJQC-itFlGG8",
+      "plus_code": {
+        "compound_code": "4698+X8 長和町、長野県",
+        "global_code": "8Q8W4698+X8"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

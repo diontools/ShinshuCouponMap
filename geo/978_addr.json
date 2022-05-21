@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７５６",
-        "short_name": "７５６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北尾張部",
-        "short_name": "北尾張部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0014",
-        "short_name": "381-0014",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0014 長野県長野市北尾張部７５６",
-    "geometry": {
-      "location": {
-        "lat": 36.6553223,
-        "lng": 138.2333398
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6566715302915,
-          "lng": 138.2345202302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0014 長野県長野市北尾張部７５６",
+      "geometry": {
+        "location": {
+          "lat": 36.6553223,
+          "lng": 138.2333398
         },
-        "southwest": {
-          "lat": 36.6539735697085,
-          "lng": 138.2318222697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65667237989273,
+            "lng": 138.2345210798927
+          },
+          "southwest": {
+            "lat": 36.65397272010728,
+            "lng": 138.2318214201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJkRUzSxuGHWAR5DHTY_Z09do",
-    "plus_code": {
-      "compound_code": "M64M+48 長野県長野市",
-      "global_code": "8Q8WM64M+48"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0014 長野県長野市北尾張部７５６",
+      "place_id": "ChIJkRUzSxuGHWAR5DHTY_Z09do",
+      "plus_code": {
+        "compound_code": "M64M+48 長野市、長野県",
+        "global_code": "8Q8WM64M+48"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

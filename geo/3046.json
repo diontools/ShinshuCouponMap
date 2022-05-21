@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５６０−５",
-        "short_name": "１５６０−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元大島",
-        "short_name": "元大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3303",
-        "short_name": "399-3303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島１５６０−５",
-    "geometry": {
-      "location": {
-        "lat": 35.5957948,
-        "lng": 137.917067
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5970559302915,
-          "lng": 137.9183703802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島１５６０−５",
+      "geometry": {
+        "location": {
+          "lat": 35.595702,
+          "lng": 137.9170188
         },
-        "southwest": {
-          "lat": 35.5943579697085,
-          "lng": 137.9156724197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.59705677989272,
+            "lng": 137.9183712298927
+          },
+          "southwest": {
+            "lat": 35.59435712010728,
+            "lng": 137.9156715701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ41TwjiGQHGARdooD_VOI2kc",
-    "plus_code": {
-      "compound_code": "HWW8+8R 長野県松川町",
-      "global_code": "8Q7VHWW8+8R"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ペニーレーン",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116998071010015950389\">松下宏</a>"
+          ],
+          "photo_reference": "Aap_uED4jOhk0ks7caHjGh9OyDgDyr0tq7w4sD-2fpS8mEswje19lMC_tPcMZ5pcWeoLACtoTmZqzGxuJqd5G1T7VfNcV_HPMka11GEHMYp6LPYolmVsNsrXyOQJIn51LB7RIIis1oS2TaJ6fwM2MaWuGphzbBM037JGn7tkMya82wSChWuZ",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ41TwjiGQHGARdooD_VOI2kc",
+      "plus_code": {
+        "compound_code": "HWW8+8R 松川町、長野県",
+        "global_code": "8Q7VHWW8+8R"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

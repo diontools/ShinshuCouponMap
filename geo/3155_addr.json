@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５９３２−５",
-        "short_name": "５９３２−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平５９３２−５",
-    "geometry": {
-      "location": {
-        "lat": 36.0122953,
-        "lng": 138.200699
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0136080802915,
-          "lng": 138.2020487802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平５９３２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.0122953,
+          "lng": 138.200699
         },
-        "southwest": {
-          "lat": 36.0109101197085,
-          "lng": 138.1993508197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01360892989272,
+            "lng": 138.2020496298927
+          },
+          "southwest": {
+            "lat": 36.01090927010728,
+            "lng": 138.1993499701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJKzmOF1hQHGARZXaa_aOhMlw",
-    "plus_code": {
-      "compound_code": "2662+W7 長野県茅野市",
-      "global_code": "8Q8W2662+W7"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0213 長野県茅野市豊平５９３２−５",
+      "place_id": "ChIJKzmOF1hQHGARZXaa_aOhMlw",
+      "plus_code": {
+        "compound_code": "2662+W7 茅野市、長野県",
+        "global_code": "8Q8W2662+W7"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

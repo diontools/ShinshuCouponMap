@@ -1,85 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８７５",
-        "short_name": "３８７５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "和",
-        "short_name": "和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0505",
-        "short_name": "389-0505",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0505 長野県東御市和３８７５",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3871185,
-          "lng": 138.3188303
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0505 長野県東御市和３８７５",
+      "geometry": {
+        "location": {
+          "lat": 36.3868143,
+          "lng": 138.3185993
         },
-        "southwest": {
-          "lat": 36.386365,
-          "lng": 138.3181429
+        "viewport": {
+          "northeast": {
+            "lat": 36.38826117989272,
+            "lng": 138.3196905298927
+          },
+          "southwest": {
+            "lat": 36.38556152010728,
+            "lng": 138.3169908701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3868143,
-        "lng": 138.3185993
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.38809073029149,
-          "lng": 138.3198051802915
-        },
-        "southwest": {
-          "lat": 36.3853927697085,
-          "lng": 138.3171072197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0505 長野県東御市和３８７５",
+      "photos": [
+        {
+          "height": 5908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107851308955103583588\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAz0inZ5P7XkrCDKuLniGJPs9wguE1pCuBIuieLP-yjh5YimVP5guY1f-D4d0-B1QuEg4dRYMEMuZ81RzKbouw8F_ZD2ZVlIg0vPt_SLscwH8emZVG457RqZJJELNqVROZ0X0xENUYdx0merUzQAgpV4tAylvEnWoszoDLSUrrFHOUn",
+          "width": 10502
         }
-      }
-    },
-    "place_id": "ChIJyUOcTf27HWAR4GX8OcWZ2nQ",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJyUOcTf27HWAR4GX8OcWZ2nQ",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

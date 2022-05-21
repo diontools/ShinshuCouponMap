@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "岩村田北",
-        "short_name": "岩村田北",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0023",
-        "short_name": "385-0023",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0023 長野県佐久市岩村田北１丁目",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2899651,
-          "lng": 138.4864503
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒385-0023 長野県佐久市岩村田北１丁目",
+      "geometry": {
+        "location": {
+          "lat": 36.2858326,
+          "lng": 138.4793506
         },
-        "southwest": {
-          "lat": 36.2824543,
-          "lng": 138.4776711
+        "viewport": {
+          "northeast": {
+            "lat": 36.2899651,
+            "lng": 138.4864503
+          },
+          "southwest": {
+            "lat": 36.2824543,
+            "lng": 138.4776711
+          }
         }
       },
-      "location": {
-        "lat": 36.2858326,
-        "lng": 138.4793506
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2899651,
-          "lng": 138.4864503
-        },
-        "southwest": {
-          "lat": 36.2824543,
-          "lng": 138.4776711
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒385-0023 長野県佐久市岩村田北１丁目",
+      "photos": [
+        {
+          "height": 5332,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109445317718149178471\">須賀井みゆき</a>"
+          ],
+          "photo_reference": "Aap_uEBw2GCnaO5sLDLAOA0XPkQevR4zjAJ2oxu6wHscRWoZXFPhWNCD1WW_ohgOE0PGWGhUhXp0x1JkPbgTuWQFGvsRYmTJkXGJvLX_55uGxyKmpuyXyNCgfdHTkThIQc1FO3DeBCrTnCfqEdnsh9NDdk4ZjpD7AvgKy2_OQslLvumEWaw7",
+          "width": 3000
         }
-      }
-    },
-    "place_id": "ChIJ0f9qOX7MHWARA5ZEJA5sQdE",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ0f9qOX7MHWARA5ZEJA5sQdE",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

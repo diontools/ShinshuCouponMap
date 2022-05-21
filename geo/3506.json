@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８２９−１",
-        "short_name": "１８２９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤沼",
-        "short_name": "赤沼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0012",
-        "short_name": "392-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0012 長野県諏訪市四賀赤沼１８２９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.016755,
-        "lng": 138.1253321
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.01803863029149,
-          "lng": 138.1267436802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0012 長野県諏訪市四賀赤沼１８２９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.016755,
+          "lng": 138.1253321
         },
-        "southwest": {
-          "lat": 36.0153406697085,
-          "lng": 138.1240457197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01803947989271,
+            "lng": 138.1267445298927
+          },
+          "southwest": {
+            "lat": 36.01533982010727,
+            "lng": 138.1240448701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR3fZuhFXHGARgU0o_dkuwt8",
-    "plus_code": {
-      "compound_code": "248G+P4 長野県諏訪市",
-      "global_code": "8Q8W248G+P4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "蔵出し味噌 麺場 田所商店 諏訪IC店",
+      "photos": [
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101636074109338353124\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB1GR-TQUI3GqpnEtK-fyStd4kLiOmJBJR-p0cSm3Gr-n8ockYpLQtdhul0eVlaOU7wfytW8sa41BIwBOfgUQhnZ1oSpgfEgfFOt2gXoy-27blNgjUR88jYlfMmJdcLOGNDbnVIIQ7gkxuCgMO_6C0qDMcls2vzQ0ceide90heTYPMu",
+          "width": 2992
+        }
+      ],
+      "place_id": "ChIJR3fZuhFXHGARgU0o_dkuwt8",
+      "plus_code": {
+        "compound_code": "248G+P4 諏訪市、長野県",
+        "global_code": "8Q8W248G+P4"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

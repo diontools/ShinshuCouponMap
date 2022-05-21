@@ -1,88 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５",
-        "short_name": "２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２５",
-    "geometry": {
-      "location": {
-        "lat": 36.6443204,
-        "lng": 138.188676
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6457110302915,
-          "lng": 138.1899809802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２５",
+      "geometry": {
+        "location": {
+          "lat": 36.6443204,
+          "lng": 138.188676
         },
-        "southwest": {
-          "lat": 36.6430130697085,
-          "lng": 138.1872830197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64571187989272,
+            "lng": 138.1899818298927
+          },
+          "southwest": {
+            "lat": 36.64301222010728,
+            "lng": 138.1872821701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ94L6u5KGHWARC5pVTjNq1zo",
-    "plus_code": {
-      "compound_code": "J5VQ+PF 長野県長野市",
-      "global_code": "8Q8WJ5VQ+PF"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0823 長野県長野市南千歳１丁目２５",
+      "place_id": "ChIJ94L6u5KGHWARC5pVTjNq1zo",
+      "plus_code": {
+        "compound_code": "J5VQ+PF 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+PF"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

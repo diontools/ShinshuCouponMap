@@ -1,64 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県飯田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-2431 長野県飯田市川路４９４２−２",
+      "geometry": {
+        "location": {
+          "lat": 35.43933910000001,
+          "lng": 137.8194459
         },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+        "viewport": {
+          "northeast": {
+            "lat": 35.44071967989272,
+            "lng": 137.8206783798927
+          },
+          "southwest": {
+            "lat": 35.43802002010728,
+            "lng": 137.8179787201072
+          }
         }
       },
-      "location": {
-        "lat": 35.51487,
-        "lng": 137.8217006
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
-        },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNeX_xjSdHGARxqitnTSMRU4",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-2431 長野県飯田市川路４９４２−２",
+      "place_id": "ChIJdd-IdOyeHGARI_71xRRsdXw",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

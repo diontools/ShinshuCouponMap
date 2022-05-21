@@ -1,97 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "県",
-        "short_name": "県",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0812",
-        "short_name": "390-0812",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0812 長野県松本市県２丁目７−２２",
-    "geometry": {
-      "location": {
-        "lat": 36.2348716,
-        "lng": 137.9854684
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23633253029149,
-          "lng": 137.9867796302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0812 長野県松本市県２丁目７−２２",
+      "geometry": {
+        "location": {
+          "lat": 36.2348716,
+          "lng": 137.9854684
         },
-        "southwest": {
-          "lat": 36.2336345697085,
-          "lng": 137.9840816697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23633337989272,
+            "lng": 137.9867804798927
+          },
+          "southwest": {
+            "lat": 36.23363372010727,
+            "lng": 137.9840808201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJyQs0t8AOHWAR3rnIPx8zQco",
-    "plus_code": {
-      "compound_code": "6XMP+W5 長野県松本市",
-      "global_code": "8Q8V6XMP+W5"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0812 長野県松本市県２丁目７−２２",
+      "place_id": "ChIJyQs0t8AOHWAR3rnIPx8zQco",
+      "plus_code": {
+        "compound_code": "6XMP+W5 松本市、長野県",
+        "global_code": "8Q8V6XMP+W5"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

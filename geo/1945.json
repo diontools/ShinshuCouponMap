@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３９３−３",
-        "short_name": "２３９３−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "贄川",
-        "short_name": "贄川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6301",
-        "short_name": "399-6301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6301 長野県塩尻市贄川２３９３−３",
-    "geometry": {
-      "location": {
-        "lat": 35.992599,
-        "lng": 137.851183
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9939867302915,
-          "lng": 137.8526208802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6301 長野県塩尻市贄川２３９３−３",
+      "geometry": {
+        "location": {
+          "lat": 35.9925544,
+          "lng": 137.8512582
         },
-        "southwest": {
-          "lat": 35.9912887697085,
-          "lng": 137.8499229197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99398757989272,
+            "lng": 137.8526217298927
+          },
+          "southwest": {
+            "lat": 35.99128792010728,
+            "lng": 137.8499220701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-zYFv-UdHWARW29dDs7yWdE",
-    "plus_code": {
-      "compound_code": "XVV2+2F 日本、長野県塩尻市",
-      "global_code": "8Q7VXVV2+2F"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処ながせ",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115842121635468622966\">ひろとなかやま</a>"
+          ],
+          "photo_reference": "Aap_uEC12kRcCEGI9v_SSibTAow-F2HIoTwklSlGbFwlL1yVXrZHpFUcDrdapHqqrk3ZautrZDRh2TEDJwVuwa2XiqBxY3UjakYJB5eU2Wr7Hm-hoD-nIw3J_4xaktuRNKTL5kVzk46moLo7YIPnyjxJI_e4FHUaQqI77Y57PP5LIzbN00dH",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJ-zYFv-UdHWARW29dDs7yWdE",
+      "plus_code": {
+        "compound_code": "XVV2+2F 塩尻市、長野県",
+        "global_code": "8Q7VXVV2+2F"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

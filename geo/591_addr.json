@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３７０−１",
-        "short_name": "１３７０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "江部",
-        "short_name": "江部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中野市",
-        "short_name": "中野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "383-0045",
-        "short_name": "383-0045",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒383-0045 長野県中野市江部１３７０−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7435324,
-          "lng": 138.3506926
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒383-0045 長野県中野市江部１３７０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7434866,
+          "lng": 138.3506301
         },
-        "southwest": {
-          "lat": 36.7434462,
-          "lng": 138.3505393
+        "viewport": {
+          "northeast": {
+            "lat": 36.74488537989273,
+            "lng": 138.3519812298927
+          },
+          "southwest": {
+            "lat": 36.74218572010729,
+            "lng": 138.3492815701073
+          }
         }
       },
-      "location": {
-        "lat": 36.7434866,
-        "lng": 138.3506301
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7448643302915,
-          "lng": 138.3519649302915
-        },
-        "southwest": {
-          "lat": 36.74216636970851,
-          "lng": 138.3492669697085
-        }
-      }
-    },
-    "place_id": "ChIJMUubHVuKHWARmqRw9Xad50c",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒383-0045 長野県中野市江部１３７０−１",
+      "place_id": "ChIJMUubHVuKHWARmqRw9Xad50c",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

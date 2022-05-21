@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３１",
-        "short_name": "６３１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿塩",
-        "short_name": "鹿塩",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大鹿村",
-        "short_name": "大鹿村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3501",
-        "short_name": "399-3501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3501 長野県下伊那郡大鹿村鹿塩６３１",
-    "geometry": {
-      "location": {
-        "lat": 35.5867374,
-        "lng": 138.0564602
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5879944302915,
-          "lng": 138.0577249802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3501 長野県下伊那郡大鹿村鹿塩６３１",
+      "geometry": {
+        "location": {
+          "lat": 35.5867374,
+          "lng": 138.0564602
         },
-        "southwest": {
-          "lat": 35.5852964697085,
-          "lng": 138.0550270197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.58799527989272,
+            "lng": 138.0577258298927
+          },
+          "southwest": {
+            "lat": 35.58529562010728,
+            "lng": 138.0550261701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQQUi6ROHHGARJ3qE9eB4Rj0",
-    "plus_code": {
-      "compound_code": "H3P4+MH 長野県大鹿村",
-      "global_code": "8Q7WH3P4+MH"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "湯元 山塩館",
+      "photos": [
+        {
+          "height": 294,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108103010207002743798\">鹿塩温泉</a>"
+          ],
+          "photo_reference": "Aap_uECfv9lQJrRDusfFzk8_Zk1JglEER0GwqSLmrr_9vug5Lu5rz3JigFfx79gge64EI5oyBsqFtK-A6YFIKr1pP3vkOMJe_bZn7ujaE0cFGAsPrAXoafr13nYAmYM-A8MoO4Ladtjc1ZYNKPtiHm621c5Nj_9Z6lMHewSqxPsb_-0Sy-mI",
+          "width": 400
+        }
+      ],
+      "place_id": "ChIJQQUi6ROHHGARJ3qE9eB4Rj0",
+      "plus_code": {
+        "compound_code": "H3P4+MH 大鹿村、長野県",
+        "global_code": "8Q7WH3P4+MH"
+      },
+      "types": [
+        "tourist_attraction",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

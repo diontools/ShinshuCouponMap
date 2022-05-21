@@ -1,104 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "信州中野駅",
-        "short_name": "信州中野駅",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "train_station",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "西",
-        "short_name": "西",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中野市",
-        "short_name": "中野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "383-0021",
-        "short_name": "383-0021",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒383-0021 長野県中野市西１丁目１ 信州中野駅",
-    "geometry": {
-      "location": {
-        "lat": 36.7447717,
-        "lng": 138.3649019
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7461697302915,
-          "lng": 138.3663199802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒383-0021 長野県中野市西１丁目１",
+      "geometry": {
+        "location": {
+          "lat": 36.7447717,
+          "lng": 138.3649019
         },
-        "southwest": {
-          "lat": 36.7434717697085,
-          "lng": 138.3636220197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74617057989272,
+            "lng": 138.3663208298927
+          },
+          "southwest": {
+            "lat": 36.74347092010727,
+            "lng": 138.3636211701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRxu8yPuKHWARa65Q_FhaMRo",
-    "plus_code": {
-      "compound_code": "P9V7+WX 日本、長野県中野市",
-      "global_code": "8Q8WP9V7+WX"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "train_station",
-      "transit_station"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "name": "信州中野駅",
+      "photos": [
+        {
+          "height": 3712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103028085410534773423\">Tsukasa</a>"
+          ],
+          "photo_reference": "Aap_uECCGayb2f9QvWq5KJ9jy-Va8W_8zAJnlNk2btIncdavW1lgW_3hK2KQvVS0jmDqbNy2xlWQnj4QVB12lv4eMFsuNTOFHzFo-qouPTIZshrWm0HVkrNBvjzor_KicG2wNeosAhyVrIg0EVZY0r3RcL-_CAVSGFrda_L8VAsuJfJ3Ao4B",
+          "width": 5568
+        }
+      ],
+      "place_id": "ChIJRxu8yPuKHWARa65Q_FhaMRo",
+      "plus_code": {
+        "compound_code": "P9V7+WX 中野市、長野県",
+        "global_code": "8Q8WP9V7+WX"
+      },
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

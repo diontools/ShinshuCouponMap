@@ -1,89 +1,88 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５１３５",
-        "short_name": "５１３５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島５１３５",
-    "geometry": {
-      "location": {
-        "lat": 35.8502062,
-        "lng": 137.6979134
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8515901802915,
-          "lng": 137.6992673302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島５１３５",
+      "geometry": {
+        "location": {
+          "lat": 35.8502029,
+          "lng": 137.6979127
         },
-        "southwest": {
-          "lat": 35.8488922197085,
-          "lng": 137.6965693697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.85159102989272,
+            "lng": 137.6992681798928
+          },
+          "southwest": {
+            "lat": 35.84889137010727,
+            "lng": 137.6965685201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "七笑酒造㈱",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104770077086952657048\">SADAHIRO KITAGAWA</a>"
+          ],
+          "photo_reference": "Aap_uEBlhTA3quKX9eBBucopYDxXJcYoZeguIGPl-4CdjTjh6RhwhORX8MP6KmPvV8eD0lbuH_bGPz-Rjw2_3uU7AuSNchgDIm3ilk5DXqYWedcf5yNU4M2zfj1TQgmF8eNqxs58oP6xXc7mcP8vOYIhRpl7lueB4WufUQYJLg-KRiUghiM_",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJD-SI6KTeHGARzQOZ_Y8cCCQ",
+      "plus_code": {
+        "compound_code": "VM2X+35 木曽町、長野県",
+        "global_code": "8Q7VVM2X+35"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJD-SI6KTeHGARzQOZ_Y8cCCQ",
-    "plus_code": {
-      "compound_code": "VM2X+35 長野県木曽町",
-      "global_code": "8Q7VVM2X+35"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島",
+      "geometry": {
+        "location": {
+          "lat": 35.8501715,
+          "lng": 137.6974545
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.85159457989273,
+            "lng": 137.6988147298927
+          },
+          "southwest": {
+            "lat": 35.84889492010728,
+            "lng": 137.6961150701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "七笑酒造 倉庫",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107343870786152708142\">Yoshiyasu Sugita</a>"
+          ],
+          "photo_reference": "Aap_uEB5xjFhND6yuxyQkmlQr-D7h-pfU3JOcN-bcu9znA3AhvBybmkBBSKzpQS4WTYkbjzUBncifxvg2DyX1RxuxkNsBSbOvK-MbgKJRTAwIrqalMjhThn30pY0UwRd_vchAEO-BdQ8NCv4Vte9hgSo-L-3K7C66smg60VKfZVuAV9Zc0-R",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJp7Rn3qTeHGARtyI367Y4zZs",
+      "plus_code": {
+        "compound_code": "VM2W+3X 木曽町、長野県",
+        "global_code": "8Q7VVM2W+3X"
+      },
+      "types": [
+        "storage",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３６",
-        "short_name": "３３６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神稲",
-        "short_name": "神稲",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "豊丘村",
-        "short_name": "豊丘村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3202",
-        "short_name": "399-3202",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3202 長野県下伊那郡豊丘村神稲３３６",
-    "geometry": {
-      "location": {
-        "lat": 35.55011590000001,
-        "lng": 137.8972466
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5514974302915,
-          "lng": 137.8986140302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3202 長野県下伊那郡豊丘村神稲３３６",
+      "geometry": {
+        "location": {
+          "lat": 35.5501236,
+          "lng": 137.8972581
         },
-        "southwest": {
-          "lat": 35.54879946970851,
-          "lng": 137.8959160697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.55149827989272,
+            "lng": 137.8986148798927
+          },
+          "southwest": {
+            "lat": 35.54879862010728,
+            "lng": 137.8959152201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc2L_qJSaHGARQzT_YTD-nBw",
-    "plus_code": {
-      "compound_code": "HV2W+2V 長野県豊丘村",
-      "global_code": "8Q7VHV2W+2V"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "北部タクシー 豊丘営業所",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115195850566688123093\">UNCHANGED ALICE</a>"
+          ],
+          "photo_reference": "Aap_uECQ5STzXVG18PHGAJvVJAFt2278qFs7qiOw4upGQRx19Clap2n6xwIO6S0Kw4hKCLY5dj_X3iH3-9uKV6R85H_NptsZXwrPhdtBBHjFHInvPvMDvzdeINoXN1997cY8dzok1YVoUtreU01yXwOr05Qb9BWMIHPdLJWM4bxW3cmUmW5D",
+          "width": 1152
+        }
+      ],
+      "place_id": "ChIJc2L_qJSaHGARQzT_YTD-nBw",
+      "plus_code": {
+        "compound_code": "HV2W+2V 豊丘村、長野県",
+        "global_code": "8Q7VHV2W+2V"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

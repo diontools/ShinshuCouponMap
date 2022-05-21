@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９７９２−４",
-        "short_name": "９７９２−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南原",
-        "short_name": "南原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南箕輪村",
-        "short_name": "南箕輪村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4511",
-        "short_name": "399-4511",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村南原９７９２−４",
-    "geometry": {
-      "location": {
-        "lat": 35.8625625,
-        "lng": 137.9286298
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8639511302915,
-          "lng": 137.9298504802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村南原９７９２−４",
+      "geometry": {
+        "location": {
+          "lat": 35.8625625,
+          "lng": 137.9286298
         },
-        "southwest": {
-          "lat": 35.8612531697085,
-          "lng": 137.9271525197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.86395197989272,
+            "lng": 137.9298513298927
+          },
+          "southwest": {
+            "lat": 35.86125232010728,
+            "lng": 137.9271516701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk2XfWwPwHGARdyS3QvW8R0M",
-    "plus_code": {
-      "compound_code": "VW7H+2F 長野県南箕輪村",
-      "global_code": "8Q7VVW7H+2F"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "呉竹鮨",
+      "photos": [
+        {
+          "height": 2184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110062865372127616176\">Daisuke Kato</a>"
+          ],
+          "photo_reference": "Aap_uEBU_EsjkW5gy5xJsRLMnJrD4bv-AIsA1pfNlCxUH1mMN7X7q_2kK_Ln_LYoAgHFj0TdzunBmCB1E3SFcjRPXM-_-jUurOELz-aD13uIX-e-QzBvkI18lblOQ6RKS3a2_HiJO9zqZP5u2lkG6iUrHFtlODfscOiu77DOY2prdALm-bBd",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJk2XfWwPwHGARdyS3QvW8R0M",
+      "plus_code": {
+        "compound_code": "VW7H+2F 南箕輪村、長野県",
+        "global_code": "8Q7VVW7H+2F"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,93 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢ホテル パイプのけむり",
-        "short_name": "軽井沢ホテル パイプのけむり",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉 軽井沢ホテル パイプのけむり",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3362059,
-          "lng": 138.5933316
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉１８７６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3356531,
+          "lng": 138.5929833
         },
-        "southwest": {
-          "lat": 36.3352409,
-          "lng": 138.5927091
+        "viewport": {
+          "northeast": {
+            "lat": 36.33675302989273,
+            "lng": 138.5943334798928
+          },
+          "southwest": {
+            "lat": 36.33405337010728,
+            "lng": 138.5916338201073
+          }
         }
       },
-      "location": {
-        "lat": 36.335746,
-        "lng": 138.5929738
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3370285802915,
-          "lng": 138.5943693302915
-        },
-        "southwest": {
-          "lat": 36.3343306197085,
-          "lng": 138.5916713697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "軽井沢 ホテルパイプのけむり",
+      "photos": [
+        {
+          "height": 1401,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109000024904344762713\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDvn5qQrZ6TRei-H-wHsCOH-bDNAZBB2rJnxxsUHcIn9a5cWXgC--lBP_GYPraLKGgIebOeTNNakGom8oVi12p-hBVc9EZ7BRnRJV6hA1fIaqLXfmISy5B1wZt-Fn0jBJu2cRSIz-Kj1NS3dDOtXpdxvP2d0baK8JrrWoVOvPUl6WYO",
+          "width": 2102
         }
-      }
-    },
-    "place_id": "ChIJMz4kvFbSHWARwiBA78_aJHc",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJAV-yvlbSHWARRoZDUoxgvk4",
+      "plus_code": {
+        "compound_code": "8HPV+75 軽井沢町、長野県",
+        "global_code": "8Q8W8HPV+75"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９４９−２５０",
-        "short_name": "９４９−２５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "板橋",
-        "short_name": "板橋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1304",
-        "short_name": "384-1304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1304 長野県南佐久郡南牧村板橋９４９−２５０",
-    "geometry": {
-      "location": {
-        "lat": 35.9673247,
-        "lng": 138.4954434
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.96866108029149,
-          "lng": 138.4967177802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1304 長野県南佐久郡南牧村板橋９４９−２５０",
+      "geometry": {
+        "location": {
+          "lat": 35.9673247,
+          "lng": 138.4954434
         },
-        "southwest": {
-          "lat": 35.9659631197085,
-          "lng": 138.4940198197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96866192989273,
+            "lng": 138.4967186298927
+          },
+          "southwest": {
+            "lat": 35.96596227010728,
+            "lng": 138.4940189701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQd4kv_U9HGARYMoUo8f2w6I",
-    "plus_code": {
-      "compound_code": "XF8W+W5 日本、長野県南牧村",
-      "global_code": "8Q7WXF8W+W5"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "name": "陶芸体験たわん",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102518088681004346680\">Gakurio K.</a>"
+          ],
+          "photo_reference": "Aap_uEClVSiCyjLvqu_KPb2nKQb7924_3Jf6zK3HXIvJkIKAe_e39o_UvBkCTTwiqmYYIxykIwn1vW13_wvfhn7Ztn-99AQTjnZzTC9BKqJ-B47Zp3sJ53xAtDmPbcGQD_qy0Z-YB_9e2wMZmP9Lh85kdZoZv-1FzELFYIauWk0IfOzJobEe",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJQd4kv_U9HGARYMoUo8f2w6I",
+      "plus_code": {
+        "compound_code": "XF8W+W5 南牧村、長野県",
+        "global_code": "8Q7WXF8W+W5"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

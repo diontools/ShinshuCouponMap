@@ -1,85 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１００２４",
-        "short_name": "１００２４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明１００２４",
-    "geometry": {
-      "location": {
-        "lat": 36.3441597,
-        "lng": 137.8593198
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3454559802915,
-          "lng": 137.8607774802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明１００２４",
+      "geometry": {
+        "location": {
+          "lat": 36.3441343,
+          "lng": 137.8594032
         },
-        "southwest": {
-          "lat": 36.3427580197085,
-          "lng": 137.8580795197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34545682989271,
+            "lng": 137.8607783298927
+          },
+          "southwest": {
+            "lat": 36.34275717010727,
+            "lng": 137.8580786701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ1-gj38ZuHWAR2kljUQw5n_Q",
-    "plus_code": {
-      "compound_code": "8VV5+MP 日本、長野県安曇野市",
-      "global_code": "8Q8V8VV5+MP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ままそば",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100775686548103400929\">久保寺昌幸</a>"
+          ],
+          "photo_reference": "Aap_uEBAkWpSpFLw43X2KeLq56WBYKdd6y3c3L6Jle-AB1N32JluP2xydROrmXKN3M9hAKlRRe6H9U39XaNIIz0uS5QMWmikwQoh50PsuZYIsNib9p7_Bq5F5CFz6C-EsI6y5i1ZCYPPXtKHQsPpLKgiZ9193-wK2UGiNUjt4QTGC82NcxVg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ1-gj38ZuHWAR2kljUQw5n_Q",
+      "plus_code": {
+        "compound_code": "8VV5+MP 安曇野市、長野県",
+        "global_code": "8Q8V8VV5+MP"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

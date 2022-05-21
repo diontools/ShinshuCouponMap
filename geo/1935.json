@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "片丘",
-        "short_name": "片丘",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0001",
-        "short_name": "394-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0001 長野県塩尻市片丘",
-    "geometry": {
-      "location": {
-        "lat": 36.1345764,
-        "lng": 138.0369962
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1358578302915,
-          "lng": 138.0383852802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0001 長野県塩尻市",
+      "geometry": {
+        "location": {
+          "lat": 36.1345764,
+          "lng": 138.0369962
         },
-        "southwest": {
-          "lat": 36.1331598697085,
-          "lng": 138.0356873197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13585867989272,
+            "lng": 138.0383861298928
+          },
+          "southwest": {
+            "lat": 36.13315902010728,
+            "lng": 138.0356864701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJvz7LWdkBHWARwXOFivX4Pfo",
-    "plus_code": {
-      "compound_code": "42MP+RQ 日本、長野県塩尻市",
-      "global_code": "8Q8W42MP+RQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "高ボッチ高原",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110773290322869407978\">陶山孝</a>"
+          ],
+          "photo_reference": "Aap_uEA85wraa5uBaIO6PsE7bUS399CimG4ATNCADXbZcCMUPjCAZZv1z8LnlSQ8eWNhVK18gMY0_Q2yPPLS8OnAclP83Lx99EO6F87nu5S3TfCgPgLPFpFqKni0ZQ9f_kkuCeOazv25rLEzsIdopoBX9fM54xpxzphMhBb5GanxqtlqVB_x",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJvz7LWdkBHWARwXOFivX4Pfo",
+      "plus_code": {
+        "compound_code": "42MP+RQ 塩尻市、長野県",
+        "global_code": "8Q8W42MP+RQ"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

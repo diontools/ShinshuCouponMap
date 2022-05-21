@@ -1,166 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５７６",
-        "short_name": "５７６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "県町",
-        "short_name": "県町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野県町",
-        "short_name": "大字南長野県町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0838",
-        "short_name": "380-0838",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0838 長野県長野市大字南長野県町県町５７６",
-    "geometry": {
-      "location": {
-        "lat": 36.6520796,
-        "lng": 138.1825247
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.65348668029149,
-          "lng": 138.1837838802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0838 長野県長野市大字南長野県町５７６",
+      "geometry": {
+        "location": {
+          "lat": 36.6520796,
+          "lng": 138.1825247
         },
-        "southwest": {
-          "lat": 36.6507887197085,
-          "lng": 138.1810859197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65348752989272,
+            "lng": 138.1837847298927
+          },
+          "southwest": {
+            "lat": 36.65078787010727,
+            "lng": 138.1810850701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgadwLuaGHWARJerrbK94KCk",
-    "plus_code": {
-      "compound_code": "M52M+R2 日本、長野県長野市",
-      "global_code": "8Q8WM52M+R2"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "新横町",
-        "short_name": "新横町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
       },
-      {
-        "long_name": "高岡市",
-        "short_name": "高岡市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "富山県",
-        "short_name": "富山県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "933-0035",
-        "short_name": "933-0035",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒933-0035 富山県高岡市新横町",
-    "geometry": {
-      "location": {
-        "lat": 36.7445258,
-        "lng": 137.0165708
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7459230302915,
-          "lng": 137.0180084302915
-        },
-        "southwest": {
-          "lat": 36.7432250697085,
-          "lng": 137.0153104697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル国際21",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109881956146516681187\">雅之荻間</a>"
+          ],
+          "photo_reference": "Aap_uEB0iKpezcNw9wctln35dpPOOyyfIiUFSTST6Ap4GxQYGvXrBwKeCjITzYrpdi_YqE5vflch2EOW1thphRfRF2RXEMF2_nU6LQiIaE6-uwfaU_vcQKNjcfEz8WhuJd_v2_-pM6T3CK1Bcn1BjGzjYxRGRz2nvWGDXN8pL9E9TpFKAbTP",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJw0vK67eC918Re1AHqnmteD8",
-    "plus_code": {
-      "compound_code": "P2V8+RJ 日本、富山県高岡市",
-      "global_code": "8Q8VP2V8+RJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJgadwLuaGHWARJerrbK94KCk",
+      "plus_code": {
+        "compound_code": "M52M+R2 長野市、長野県",
+        "global_code": "8Q8WM52M+R2"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

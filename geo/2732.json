@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６７０６−３",
-        "short_name": "６７０６−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城６７０６−３",
-    "geometry": {
-      "location": {
-        "lat": 36.704685,
-        "lng": 137.8441842
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7058622802915,
-          "lng": 137.8454291302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城６７０６−３",
+      "geometry": {
+        "location": {
+          "lat": 36.704685,
+          "lng": 137.8441842
         },
-        "southwest": {
-          "lat": 36.7031643197085,
-          "lng": 137.8427311697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70586312989272,
+            "lng": 137.8454299798927
+          },
+          "southwest": {
+            "lat": 36.70316347010727,
+            "lng": 137.8427303201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJb4C_5rN918RHZM-nQA8gX4",
-    "plus_code": {
-      "compound_code": "PR3V+VM 長野県白馬村",
-      "global_code": "8Q8VPR3V+VM"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Wadano Gateway",
+      "photos": [
+        {
+          "height": 2352,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111040556726333430828\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECpBknpuFyHE_oEhtt-kYC5zFoNE0lziU5Hly3vbjVSN-jtpMpLfNh3Dp8OWkll8EDK-pIYhM01fjW0wPxycPybHYhUKaKcK25r0aaZIaLWOhT5loelYVwFY-6Df7AEYBZfjzqyhz_pmsPMxMcGzlYIf3aeYKIq_MYJTGxSrVYaffeE",
+          "width": 3730
+        }
+      ],
+      "place_id": "ChIJJb4C_5rN918RHZM-nQA8gX4",
+      "plus_code": {
+        "compound_code": "PR3V+VM 白馬村、長野県",
+        "global_code": "8Q8VPR3V+VM"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

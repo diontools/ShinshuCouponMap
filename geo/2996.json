@@ -1,108 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３３２",
-        "short_name": "３３２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "昼神",
-        "short_name": "昼神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里昼神３３２−４",
-    "geometry": {
-      "location": {
-        "lat": 35.455758,
-        "lng": 137.7148067
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4571069802915,
-          "lng": 137.7161556802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里昼神３３２−４",
+      "geometry": {
+        "location": {
+          "lat": 35.455758,
+          "lng": 137.7148067
         },
-        "southwest": {
-          "lat": 35.4544090197085,
-          "lng": 137.7134577197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.45710782989272,
+            "lng": 137.7161565298927
+          },
+          "southwest": {
+            "lat": 35.45440817010727,
+            "lng": 137.7134568701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4R_ILAajHGARyh12EEPkLpU",
-    "plus_code": {
-      "compound_code": "FP47+8W 長野県阿智村",
-      "global_code": "8Q7VFP47+8W"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "鶴巻荘",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114216956770529258778\">chun nanane</a>"
+          ],
+          "photo_reference": "Aap_uEDdIrRho7w9uyRhyAMDiveRnSuEpkpwWlCRndP1mEM-dqw-iRVI_DgskI4B1omdn0wDVZoJfwqhLqPMI-BXN91FJp8Xq24RVtJnK59X071Z2FJmPCVDCtiFy4GVdS_95XxX4gi6UpE6kf39zALhLnLJ_CeM31VnrrC4r1G7RuRbiozp",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ4R_ILAajHGARyh12EEPkLpU",
+      "plus_code": {
+        "compound_code": "FP47+8W 阿智村、長野県",
+        "global_code": "8Q7VFP47+8W"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

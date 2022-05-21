@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０９０",
-        "short_name": "２０９０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "馬瀬口",
-        "short_name": "馬瀬口",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "御代田町",
-        "short_name": "御代田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0207",
-        "short_name": "389-0207",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0207 長野県北佐久郡御代田町馬瀬口２０９０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.32269760000001,
-          "lng": 138.4981095
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0207 長野県北佐久郡御代田町馬瀬口２０９０",
+      "geometry": {
+        "location": {
+          "lat": 36.3225114,
+          "lng": 138.4979786
         },
-        "southwest": {
-          "lat": 36.3224455,
-          "lng": 138.4978476
+        "viewport": {
+          "northeast": {
+            "lat": 36.32380032989271,
+            "lng": 138.4993618298927
+          },
+          "southwest": {
+            "lat": 36.32110067010727,
+            "lng": 138.4966621701072
+          }
         }
       },
-      "location": {
-        "lat": 36.3225114,
-        "lng": 138.4979786
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3238925802915,
-          "lng": 138.4993275302915
-        },
-        "southwest": {
-          "lat": 36.32119461970851,
-          "lng": 138.4966295697085
-        }
-      }
-    },
-    "place_id": "ChIJGU37vBjMHWAR8Jybyb-kjPw",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0207 長野県北佐久郡御代田町馬瀬口２０９０",
+      "place_id": "ChIJGU37vBjMHWAR8Jybyb-kjPw",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

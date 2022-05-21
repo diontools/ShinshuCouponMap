@@ -1,101 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５０６４",
-        "short_name": "５０６４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上町",
-        "short_name": "上町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島上町５０６４",
-    "geometry": {
-      "location": {
-        "lat": 35.8502191,
-        "lng": 137.6996564
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.85161233029149,
-          "lng": 137.7009999302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島上町５０６４",
+      "geometry": {
+        "location": {
+          "lat": 35.8502191,
+          "lng": 137.6996564
         },
-        "southwest": {
-          "lat": 35.8489143697085,
-          "lng": 137.6983019697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.85161317989272,
+            "lng": 137.7010007798927
+          },
+          "southwest": {
+            "lat": 35.84891352010727,
+            "lng": 137.6983011201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO1FxpKPeHGARB2lnBhLvsJ0",
-    "plus_code": {
-      "compound_code": "VM2X+3V 長野県木曽町",
-      "global_code": "8Q7VVM2X+3V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "鳥鍵",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104020799016285557425\">鬼頭真由美</a>"
+          ],
+          "photo_reference": "Aap_uEDecoCU3XfymMNFcoDd0glCOT3wYrwudKHV9y7SkJ6YeGqX-zhIuvSj0CJInQ0Dw6vxBC8RQN8-NwSJxdPnkE27Fa6_kJEkaX9_DzmWlCwQXMb78CqqhGMpLk9KLDzC2AkaVd9_2NQQyfY8I7-aDKXuigCcvoiBO0l_mHCLdfleA8iD",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJO1FxpKPeHGARB2lnBhLvsJ0",
+      "plus_code": {
+        "compound_code": "VM2X+3V 木曽町、長野県",
+        "global_code": "8Q7VVM2X+3V"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

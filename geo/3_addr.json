@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡山ノ内町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４９−１６",
+      "geometry": {
+        "location": {
+          "lat": 36.7350491,
+          "lng": 138.5114049
         },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+        "viewport": {
+          "northeast": {
+            "lat": 36.73631907989272,
+            "lng": 138.5128388298927
+          },
+          "southwest": {
+            "lat": 36.73361942010728,
+            "lng": 138.5101391701073
+          }
         }
       },
-      "location": {
-        "lat": 36.7446479,
-        "lng": 138.4128175
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
-        },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "志賀グランドホテル",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113468578911862921495\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDkoo4na6hz_NrzSneCv7FhTwuaZGQS5BhvTkzJ1wkKTPJHzeg8m-f7QAQo-hEl9wsRAxGX4M2WYDy_CwlgcxyaNblF7VyET0aUmhJphzEENLxK7YIldsJLsNK4iBln-o1FIKzE1AICtnge8K60Z2qjJNDEHzMDfLtUQIZ5nSuUnuaH",
+          "width": 4928
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp5BF3xjxHWARfQ5Kg1VjUng",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ6yBeCMbxHWARMmdbJR5qp6o",
+      "plus_code": {
+        "compound_code": "PGP6+2H 山ノ内町、長野県",
+        "global_code": "8Q8WPGP6+2H"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

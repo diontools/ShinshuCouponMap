@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "佐野",
-        "short_name": "佐野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0402",
-        "short_name": "381-0402",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町佐野 穂波2580−22",
-    "geometry": {
-      "location": {
-        "lat": 36.7375856,
-        "lng": 138.4155128
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7389370802915,
-          "lng": 138.4168565302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町 穂波2580−22",
+      "geometry": {
+        "location": {
+          "lat": 36.7375856,
+          "lng": 138.4155128
         },
-        "southwest": {
-          "lat": 36.7362391197085,
-          "lng": 138.4141585697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73893792989272,
+            "lng": 138.4168573798927
+          },
+          "southwest": {
+            "lat": 36.73623827010728,
+            "lng": 138.4141577201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJSVGrnb70HWARQBXVQvktMY0",
-    "plus_code": {
-      "compound_code": "PCQ8+26 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCQ8+26"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "松美食堂",
+      "photos": [
+        {
+          "height": 12000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117852512859756693034\">水谷勇希</a>"
+          ],
+          "photo_reference": "Aap_uEBpVvFC9tYJFn16xzKvkVb5Rlx54bV4bmRsONrFBaMPr5yxptXotCWFP_jsA5NKEB5KLsc4na4dZzFrYFMnJuXEQMOl6M9p55Hq8YryN487oi0uFHFU_bo7qqtnU1yTAZ1IHicEA1HakfnscTgk7RHRyUjLw-0xwaf-pO5jO3ZkE6nF",
+          "width": 9000
+        }
+      ],
+      "place_id": "ChIJSVGrnb70HWARQBXVQvktMY0",
+      "plus_code": {
+        "compound_code": "PCQ8+26 山ノ内町、長野県",
+        "global_code": "8Q8WPCQ8+26"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

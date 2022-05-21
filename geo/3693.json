@@ -1,83 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "知久町",
-        "short_name": "知久町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0045",
-        "short_name": "395-0045",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0045 長野県飯田市知久町２丁目 知久町２丁目１ 熊谷ビル",
-    "geometry": {
-      "location": {
-        "lat": 35.514696,
-        "lng": 137.824474
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5160257802915,
-          "lng": 137.8258585802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0045 長野県飯田市 知久町２丁目１ 熊谷ビル",
+      "geometry": {
+        "location": {
+          "lat": 35.514696,
+          "lng": 137.824474
         },
-        "southwest": {
-          "lat": 35.51332781970851,
-          "lng": 137.8231606197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51602662989272,
+            "lng": 137.8258594298927
+          },
+          "southwest": {
+            "lat": 35.51332697010728,
+            "lng": 137.8231597701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZcaJw5WZHGARkGV6yDJbcnE",
-    "plus_code": {
-      "compound_code": "GR7F+VQ 長野県飯田市",
-      "global_code": "8Q7VGR7F+VQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "カラオケシティ メトロポリス",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113133883791492850909\">One Mark</a>"
+          ],
+          "photo_reference": "Aap_uEDG_NPSDIvOThjKba5DrOVZv4mA3Yif003syvxNGBGdK4LuoZyolHgOpEbE-jG6tMVAka_AmCtX2D4_FCGz4aTg-SMq3ltSXb9oK1_9HiAcOmm18Kflvvo6YT0Nu_HPwQS7klMe9PR20Th9ko5oRkb1ZTNGAAi6SiM7CjBhBxzb6z11",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJZcaJw5WZHGARkGV6yDJbcnE",
+      "plus_code": {
+        "compound_code": "GR7F+VQ 飯田市、長野県",
+        "global_code": "8Q7VGR7F+VQ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

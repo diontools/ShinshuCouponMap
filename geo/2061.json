@@ -1,107 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１ 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.231097,
-        "lng": 137.9646553
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2323770302915,
-          "lng": 137.9662327302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１ 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.231097,
+          "lng": 137.9646553
         },
-        "southwest": {
-          "lat": 36.2296790697085,
-          "lng": 137.9635347697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23237787989272,
+            "lng": 137.9662335798927
+          },
+          "southwest": {
+            "lat": 36.22967822010727,
+            "lng": 137.9635339201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpw6O14sOHWARVmZjVqvRDHI",
-    "plus_code": {
-      "compound_code": "6XJ7+CV 日本、長野県松本市",
-      "global_code": "8Q8V6XJ7+CV"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "信州アルプス市場",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112603271260827956104\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDIgQIPxLa65QCjyB4KmwtXh0fvfvcL4Jyzge-WmJmAczLBwIa1JJMXERC3_lWZhrCxAZBSG2oMAqA5dWNIW-WzYYKxl72KeSUGY8cj28IE0jTTDzqzs_LRGlhY0bgrH4tv692C-zc6VFc3QwkPOSxzGQCRYFOjdrVTrrO8OyOIOTGw",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJpw6O14sOHWARVmZjVqvRDHI",
+      "plus_code": {
+        "compound_code": "6XJ7+CV 松本市、長野県",
+        "global_code": "8Q8V6XJ7+CV"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

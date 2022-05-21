@@ -1,92 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "490",
-        "short_name": "490",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里490",
-    "geometry": {
-      "location": {
-        "lat": 35.4567037,
-        "lng": 137.7146577
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4580317302915,
-          "lng": 137.7160860302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里490",
+      "geometry": {
+        "location": {
+          "lat": 35.4567039,
+          "lng": 137.7146567
         },
-        "southwest": {
-          "lat": 35.4553337697085,
-          "lng": 137.7133880697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.45803257989272,
+            "lng": 137.7160868798927
+          },
+          "southwest": {
+            "lat": 35.45533292010727,
+            "lng": 137.7133872201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJIZjLnwijHGAR6D6qHjp3eio",
-    "plus_code": {
-      "compound_code": "FP47+MV 長野県阿智村",
-      "global_code": "8Q7VFP47+MV"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "おとぎ亭光風",
+      "photos": [
+        {
+          "height": 5304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117908382607664505265\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED-93b9U4o3P0-uU_tCJf3AGwTkyjXorEvED6q3bxi7kosWhrkzAYRq4YWVvViiFhDY7YmpTuJuxXf0BJgY4v0QoV8A5xbujb3TzfGTyA_9wfTKkqqPlbD_Oul8mri8PI6NaQIfYs7-zCBUbTWvjnWAMgoPR68MpmGe5XP4hQa1b3Qc",
+          "width": 7952
+        }
+      ],
+      "place_id": "ChIJIZjLnwijHGAR6D6qHjp3eio",
+      "plus_code": {
+        "compound_code": "FP47+MV 阿智村、長野県",
+        "global_code": "8Q7VFP47+MV"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８７０−４",
-        "short_name": "２８７０−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町温泉郷",
-        "short_name": "大町温泉郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平大町温泉郷２８７０−４",
-    "geometry": {
-      "location": {
-        "lat": 36.5297037,
-        "lng": 137.8060917
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5310253302915,
-          "lng": 137.8073040302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平大町温泉郷２８７０−４",
+      "geometry": {
+        "location": {
+          "lat": 36.5297037,
+          "lng": 137.8060917
         },
-        "southwest": {
-          "lat": 36.5283273697085,
-          "lng": 137.8046060697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53102617989272,
+            "lng": 137.8073048798927
+          },
+          "southwest": {
+            "lat": 36.52832652010728,
+            "lng": 137.8046052201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJS1fDe9RhHWARY5s8pFaRMDU",
-    "plus_code": {
-      "compound_code": "GRH4+VC 日本、長野県大町市",
-      "global_code": "8Q8VGRH4+VC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "旅館叶家",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114526292530667897\">関本嘉之</a>"
+          ],
+          "photo_reference": "Aap_uECQ5t8a13HDUlWqQO5Zcyc-3ObpT8KSNzWPbkylz90toM8PasJhpLXEGZl5_CgYaWHSOFMMUwjb66pXBf9G_72_fNithXk15vH6O9bHIK_tpvxyJswWOQgDqhnmZGtnQwuXTYyzS_XUc2VlgwQ5IilM5wM-zBvAcwIjRnFYstCn30Es",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJS1fDe9RhHWARY5s8pFaRMDU",
+      "plus_code": {
+        "compound_code": "GRH4+VC 大町市、長野県",
+        "global_code": "8Q8VGRH4+VC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

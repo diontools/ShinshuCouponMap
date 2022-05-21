@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７８",
-        "short_name": "１１７８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８ 軽井沢・ショッピングプラザ 味の街",
-    "geometry": {
-      "location": {
-        "lat": 36.3422251,
-        "lng": 138.6332677
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3436519802915,
-          "lng": 138.6346246302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８ 軽井沢・ショッピングプラザ 味の街",
+      "geometry": {
+        "location": {
+          "lat": 36.3422251,
+          "lng": 138.6332677
         },
-        "southwest": {
-          "lat": 36.34095401970851,
-          "lng": 138.6319266697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34365282989272,
+            "lng": 138.6346254798927
+          },
+          "southwest": {
+            "lat": 36.34095317010727,
+            "lng": 138.6319258201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJaddmfnvTHWAREme1TIvRHc8",
-    "plus_code": {
-      "compound_code": "8JRM+V8 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JRM+V8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "門前洋食 藤屋（軽井沢アウトレット内）",
+      "photos": [
+        {
+          "height": 1104,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107083292979777461833\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECN1TtkYhVREX_A3L9X9NqFCeXePeVpuQ0XbrstOB3YJ6dIum4PCxIwfzVCCbmlF_4t5GhsqOLuT8bTLaKTCDBloYrYqbfGwX-iRhBDMBQmKw49yGieDItucWeNVl4qv7eG2pG-JKyKwzlH1E8k5eF9zu9SjG4LeQ0dYb5ADl194bHG",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJaddmfnvTHWAREme1TIvRHc8",
+      "plus_code": {
+        "compound_code": "8JRM+V8 軽井沢町、長野県",
+        "global_code": "8Q8W8JRM+V8"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

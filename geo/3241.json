@@ -1,76 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山",
-    "geometry": {
-      "location": {
-        "lat": 36.0683079,
-        "lng": 138.2539672
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0694477802915,
-          "lng": 138.2557245802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山",
+      "geometry": {
+        "location": {
+          "lat": 36.0683079,
+          "lng": 138.2539672
         },
-        "southwest": {
-          "lat": 36.06674981970851,
-          "lng": 138.2530266197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06944862989272,
+            "lng": 138.2557254298927
+          },
+          "southwest": {
+            "lat": 36.06674897010728,
+            "lng": 138.2530257701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJvbUg4RNOHGARa1EJpqdj9qk",
-    "plus_code": {
-      "compound_code": "3793+8H 長野県茅野市",
-      "global_code": "8Q8W3793+8H"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "グラマラスダイニング 蓼科",
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117643405123976173913\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAK3oKhywhsyBy_EOc_HtGGJsksMmboyYtYtjoz29bSmcKVOzlBZomn2JzNxltHgLeTSYRuFdAzekeXMlwrIxY05yqMrnVrX38Kh6ZCZzjtGpm6F62ItI9K4sqC8tmHaify0khlFykpMBvGUX_EYGpGH5JuAuEanGEsQRGrmQN7KRSy",
+          "width": 4464
+        }
+      ],
+      "place_id": "ChIJvbUg4RNOHGARa1EJpqdj9qk",
+      "plus_code": {
+        "compound_code": "3793+8H 茅野市、長野県",
+        "global_code": "8Q8W3793+8H"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

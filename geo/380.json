@@ -1,72 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小川村",
-        "short_name": "小川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上水内郡小川村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6726574,
-          "lng": 138.0130992
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-3302 長野県高府１２５５１",
+      "geometry": {
+        "location": {
+          "lat": 36.6115646,
+          "lng": 137.9640475
         },
-        "southwest": {
-          "lat": 36.5947611,
-          "lng": 137.9052475
+        "viewport": {
+          "northeast": {
+            "lat": 36.61292107989273,
+            "lng": 137.9654315298928
+          },
+          "southwest": {
+            "lat": 36.61022142010728,
+            "lng": 137.9627318701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6172441,
-        "lng": 137.9747017
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "麦ダンス農園",
+      "place_id": "ChIJs-x8n2zX918ReGWY46RZhmE",
+      "plus_code": {
+        "compound_code": "JX67+JJ 小川村、長野県",
+        "global_code": "8Q8VJX67+JJ"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6726574,
-          "lng": 138.0130992
-        },
-        "southwest": {
-          "lat": 36.5947611,
-          "lng": 137.9052475
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR4yhVHzW918R3c5JYSeb0IA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

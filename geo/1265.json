@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２６−２",
-        "short_name": "２２６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神畑",
-        "short_name": "神畑",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1103",
-        "short_name": "386-1103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1103 長野県上田市神畑２２６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.3895892,
-        "lng": 138.2116221
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3908726302915,
-          "lng": 138.2130138802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1103 長野県上田市神畑２２６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3895107,
+          "lng": 138.2116375
         },
-        "southwest": {
-          "lat": 36.3881746697085,
-          "lng": 138.2103159197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39087347989273,
+            "lng": 138.2130147298927
+          },
+          "southwest": {
+            "lat": 36.38817382010728,
+            "lng": 138.2103150701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO2u4DOOiHWARxHFfK1d196Q",
-    "plus_code": {
-      "compound_code": "96Q6+RJ 日本、長野県上田市",
-      "global_code": "8Q8W96Q6+RJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ちゃーしゅうや武蔵 上田原店",
+      "photos": [
+        {
+          "height": 1924,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101998772542728284034\">Kazuhiko Kurosawa</a>"
+          ],
+          "photo_reference": "Aap_uEB6vQ0hn2oLqIJebiUxd7iQ3R6msaqmVh8GbLil4nuMKfaELAuriL2jd4VlF-WAfAhJA81UTRqYYVGDe1Ys_ah8_GT206t4x8c6TTahdEMaAnjC4iT-owYPg4mROjuufSyaThCeb7dwqFmFHP8tScS580YhQRhWr6DsqkNMhmAR5gdt",
+          "width": 2565
+        }
+      ],
+      "place_id": "ChIJO2u4DOOiHWARxHFfK1d196Q",
+      "plus_code": {
+        "compound_code": "96Q6+RJ 上田市、長野県",
+        "global_code": "8Q8W96Q6+RJ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

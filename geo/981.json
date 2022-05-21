@@ -1,106 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "一階",
-        "short_name": "一階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "ウェストプラザ長野",
-        "short_name": "ウェストプラザ長野",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３５５−５",
-        "short_name": "１３５５−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町１３５５−５ ウェストプラザ長野 一階",
-    "geometry": {
-      "location": {
-        "lat": 36.6437415,
-        "lng": 138.1871896
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64515338029149,
-          "lng": 138.1886716302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0825 長野県長野市末広町１３５５−５ ウェストプラザ長野 一階",
+      "geometry": {
+        "location": {
+          "lat": 36.6437415,
+          "lng": 138.1871896
         },
-        "southwest": {
-          "lat": 36.6424554197085,
-          "lng": 138.1859736697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64515422989272,
+            "lng": 138.1886724798927
+          },
+          "southwest": {
+            "lat": 36.64245457010728,
+            "lng": 138.1859728201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhQgFJ5OGHWARFb0ptD-lgxI",
-    "plus_code": {
-      "compound_code": "J5VP+FV 日本、長野県長野市",
-      "global_code": "8Q8WJ5VP+FV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば亭 油や",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112507698486857536958\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC3r1m4jaukRLAj3S1E0K1riIbeF98691qKrU_QZIRrxmTYZcDIMO8NMto5AO1oRFviC4zO5P-ws8vumPKGoaeiFVEXVZ6JlbMJgECSuXDdXTM1XYZ-i4sHjc-arfhl60L6PImd9-CJSQq83BcLGKvOg4vryibFjy_vOJ3JpyFBJhZR",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJhQgFJ5OGHWARFb0ptD-lgxI",
+      "plus_code": {
+        "compound_code": "J5VP+FV 長野市、長野県",
+        "global_code": "8Q8WJ5VP+FV"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "鎌原",
-        "short_name": "鎌原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "吾妻郡",
-        "short_name": "吾妻郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0000",
-        "short_name": "384-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0000 長野県吾妻郡小諸市鎌原 高峰高原",
-    "geometry": {
-      "location": {
-        "lat": 36.4091621,
-        "lng": 138.4691703
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4104375302915,
-          "lng": 138.4704674802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0000 長野県吾妻郡小諸市 高峰高原",
+      "geometry": {
+        "location": {
+          "lat": 36.4091621,
+          "lng": 138.4691703
         },
-        "southwest": {
-          "lat": 36.4077395697085,
-          "lng": 138.4677695197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.41043837989272,
+            "lng": 138.4704683298927
+          },
+          "southwest": {
+            "lat": 36.40773872010728,
+            "lng": 138.4677686701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJg-QNGmzGHWARS1eVfJrRew4",
-    "plus_code": {
-      "compound_code": "CF59+MM 日本、長野県小諸市",
-      "global_code": "8Q8WCF59+MM"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アサマ2000パーク",
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108746026434972044990\">史人</a>"
+          ],
+          "photo_reference": "Aap_uEC0324ijCGshRycSl7fsloR-4Oo6yhT_M9a9ePWlB2Yj11_P-J2m-D7sjoDLe2A60n2xxtNdHaCVpKZslcfJjaZjHEo5KoJAt24ZbN_ctZyzM0DnvIhe9suXsJCz4_rFjklWhKsmRT_mTYFDh8XYqflHo3F_aHdLmISzK0bvm_GjmZk",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJg-QNGmzGHWARS1eVfJrRew4",
+      "plus_code": {
+        "compound_code": "CF59+MM 小諸市、長野県",
+        "global_code": "8Q8WCF59+MM"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

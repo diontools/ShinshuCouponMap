@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４５２４−４",
-        "short_name": "４５２４−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高柏原",
-        "short_name": "穂高柏原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8304",
-        "short_name": "399-8304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8304 長野県安曇野市穂高柏原４５２４−４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.315454,
-          "lng": 137.8713573
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-8304 長野県安曇野市穂高柏原４５２４−４",
+      "geometry": {
+        "location": {
+          "lat": 36.31537420000001,
+          "lng": 137.8711009
         },
-        "southwest": {
-          "lat": 36.3152647,
-          "lng": 137.8709644
+        "viewport": {
+          "northeast": {
+            "lat": 36.31673747989272,
+            "lng": 137.8726416798927
+          },
+          "southwest": {
+            "lat": 36.31403782010728,
+            "lng": 137.8699420201072
+          }
         }
       },
-      "location": {
-        "lat": 36.31537420000001,
-        "lng": 137.8711009
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.31670833029149,
-          "lng": 137.8725725802915
-        },
-        "southwest": {
-          "lat": 36.31401036970849,
-          "lng": 137.8698746197085
-        }
-      }
-    },
-    "place_id": "ChIJ2ZPslFlsHWART03VQjC9Gic",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-8304 長野県安曇野市穂高柏原４５２４−４",
+      "place_id": "ChIJ2ZPslFlsHWART03VQjC9Gic",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

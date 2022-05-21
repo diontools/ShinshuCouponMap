@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７８４",
-        "short_name": "１７８４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘高出",
-        "short_name": "広丘高出",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0703",
-        "short_name": "399-0703",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0703 長野県塩尻市広丘高出１７８４",
-    "geometry": {
-      "location": {
-        "lat": 36.1284013,
-        "lng": 137.9562507
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1296910302915,
-          "lng": 137.9575220302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0703 長野県塩尻市広丘高出１７８４",
+      "geometry": {
+        "location": {
+          "lat": 36.1283644,
+          "lng": 137.9561525
         },
-        "southwest": {
-          "lat": 36.1269930697085,
-          "lng": 137.9548240697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12969187989272,
+            "lng": 137.9575228798927
+          },
+          "southwest": {
+            "lat": 36.12699222010728,
+            "lng": 137.9548232201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxeZb_PsEHWARHCNWSYMzW-8",
-    "plus_code": {
-      "compound_code": "4XH4+9G 日本、長野県塩尻市",
-      "global_code": "8Q8V4XH4+9G"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ココス 塩尻広丘店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104915055683291703885\">Kenichi Ishii</a>"
+          ],
+          "photo_reference": "Aap_uEB2NaFvEJc-x6ycBurKEV4o2OOKWHKyTVPQfk_p_jCV28qNusmw8bSF7ZqNGo7qSmoGGtUPperFZ66bPWAiMInth_xVGDHsm30QiGc2AdMXQIsXGzEW3yHjDssBiqA_-BjdZimwtujd2cKgUYleqeczfn8NDJtAlJNpHMROa8hxW9Sk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJxeZb_PsEHWARHCNWSYMzW-8",
+      "plus_code": {
+        "compound_code": "4XH4+9G 塩尻市、長野県",
+        "global_code": "8Q8V4XH4+9G"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

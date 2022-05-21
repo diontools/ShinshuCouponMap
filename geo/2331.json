@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "平田東",
-        "short_name": "平田東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0014",
-        "short_name": "399-0014",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0014 長野県松本市平田東３丁目１５−６",
-    "geometry": {
-      "location": {
-        "lat": 36.1920217,
-        "lng": 137.9651339
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1934667302915,
-          "lng": 137.9665282802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0014 長野県松本市平田東３丁目１５−６",
+      "geometry": {
+        "location": {
+          "lat": 36.1920217,
+          "lng": 137.9651339
         },
-        "southwest": {
-          "lat": 36.1907687697085,
-          "lng": 137.9638303197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.19346757989273,
+            "lng": 137.9665291298927
+          },
+          "southwest": {
+            "lat": 36.19076792010728,
+            "lng": 137.9638294701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpckLQAsPHWARoae6gT8xD9s",
-    "plus_code": {
-      "compound_code": "5XR8+R3 日本、長野県松本市",
-      "global_code": "8Q8V5XR8+R3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "くら寿司 松本平田店",
+      "photos": [
+        {
+          "height": 1096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">toro mochi</a>"
+          ],
+          "photo_reference": "Aap_uEAIoelDnZYFsQtuI3lGAyaQFkycd0C8ktZPZ6CkKWX-uHU0h3ni0FPGx1H7qxH_7rZojZdxJ_w9Imq_c-CLKIeG169YICWAOkufJT-9RrI2iBWj1x5D4NGKh2PZmGRlQlyxlX1J6ZfH7dB-zmzvbWevJE8XkMIUKLtrs4APusVxjZen",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJpckLQAsPHWARoae6gT8xD9s",
+      "plus_code": {
+        "compound_code": "5XR8+R3 松本市、長野県",
+        "global_code": "8Q8V5XR8+R3"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

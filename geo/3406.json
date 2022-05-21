@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３５０−７",
-        "short_name": "４３５０−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西赤砂",
-        "short_name": "西赤砂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0047",
-        "short_name": "393-0047",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0047 長野県諏訪郡下諏訪町西赤砂４３５０−７",
-    "geometry": {
-      "location": {
-        "lat": 36.069968,
-        "lng": 138.075207
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0713180802915,
-          "lng": 138.0765227302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0047 長野県諏訪郡下諏訪町西赤砂４３５０−７",
+      "geometry": {
+        "location": {
+          "lat": 36.0699676,
+          "lng": 138.0752422
         },
-        "southwest": {
-          "lat": 36.0686201197085,
-          "lng": 138.0738247697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07131892989271,
+            "lng": 138.0765235798927
+          },
+          "southwest": {
+            "lat": 36.06861927010727,
+            "lng": 138.0738239201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJI8ydBPr_HGARX9v8YxAMNlc",
-    "plus_code": {
-      "compound_code": "339G+X3 長野県下諏訪町",
-      "global_code": "8Q8W339G+X3"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "笑間",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105961984812495683307\">居酒屋笑間</a>"
+          ],
+          "photo_reference": "Aap_uEDIHFF0Yhbr8KNxt_o85ydTblf7E5pNdj0sG54lnv3PGzymfvjFmIan-mykgqmIE4Xo6m-PtiKMwmGvcIqaNERfUFjtjYdWO4BoQOqX1wYMZqopXA1HQkrq1ag2Ogz3kxG771Ym-h8eiqaLr3JgnJGYWRdP3opBLYhYocOwdHoUJhD8",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJI8ydBPr_HGARX9v8YxAMNlc",
+      "plus_code": {
+        "compound_code": "339G+X3 下諏訪町、長野県",
+        "global_code": "8Q8W339G+X3"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

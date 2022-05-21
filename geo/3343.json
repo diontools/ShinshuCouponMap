@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４４５−１",
-        "short_name": "２４４５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "田切",
-        "short_name": "田切",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯島町",
-        "short_name": "飯島町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3701",
-        "short_name": "399-3701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3701 長野県上伊那郡飯島町田切２４４５−１",
-    "geometry": {
-      "location": {
-        "lat": 35.6866903,
-        "lng": 137.9433051
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6879603302915,
-          "lng": 137.9447822302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3701 長野県上伊那郡飯島町田切２４４５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.6866578,
+          "lng": 137.9433579
         },
-        "southwest": {
-          "lat": 35.6852623697085,
-          "lng": 137.9420842697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.68796117989272,
+            "lng": 137.9447830798927
+          },
+          "southwest": {
+            "lat": 35.68526152010728,
+            "lng": 137.9420834201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdVC0admNHGAR9ZFFZmbg4zg",
-    "plus_code": {
-      "compound_code": "MWPV+M8 長野県飯島町",
-      "global_code": "8Q7VMWPV+M8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "一棟貸し古民家宿 「nagare」",
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100675874690225360870\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECA2P6ifzZtl-kpMRMBTLrD_HgQbQQZqzF_qIt610Vgaep820Z-exdeBe6Kcj3s6GpltY6ajsx-CRBd1BOa68AUF2ou5LiqTvg4qKBHHHvHVKVCJEve0ID5eieKjmqDsGJvjJISCHf3UoEpUiphc5u-bJOtrTMvkObUuWorxRPBkq2K",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJdVC0admNHGAR9ZFFZmbg4zg",
+      "plus_code": {
+        "compound_code": "MWPV+M8 飯島町、長野県",
+        "global_code": "8Q7VMWPV+M8"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

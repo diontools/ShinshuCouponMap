@@ -1,79 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "宮田村",
-        "short_name": "宮田村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4301",
-        "short_name": "399-4301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4301 長野県上伊那郡宮田村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.8078667,
-          "lng": 137.9640344
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4301 長野県上伊那郡宮田村１９３４−５",
+      "geometry": {
+        "location": {
+          "lat": 35.7512125,
+          "lng": 137.9110523
         },
-        "southwest": {
-          "lat": 35.7447303,
-          "lng": 137.8044459
+        "viewport": {
+          "northeast": {
+            "lat": 35.75254902989272,
+            "lng": 137.9123134298927
+          },
+          "southwest": {
+            "lat": 35.74984937010728,
+            "lng": 137.9096137701073
+          }
         }
       },
-      "location": {
-        "lat": 35.7689509,
-        "lng": 137.9443451
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8078667,
-          "lng": 137.9640344
-        },
-        "southwest": {
-          "lat": 35.7447303,
-          "lng": 137.8044459
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "北川製菓 駒ケ岳工場",
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110066587000539849505\">将軍桜ん坊</a>"
+          ],
+          "photo_reference": "Aap_uECzs8YDsF9uLwFoRlFmFA2F77novTKpiGUtS2HmjaSMPqw-HFxv2B05capkfGbDmcwpWVMDiFY-g9AWds6okVEFlAlLLZKJK4ky6vJO89vzIdJ6uEfI2coDBObauu-jqb5o_VyouAEZCD_JJ2EhXaNGlnkW5_tCg0pZ_FIcDnXrV3xt",
+          "width": 2592
         }
-      }
+      ],
+      "place_id": "ChIJfchfbXftHGAR_18CalUYXBQ",
+      "plus_code": {
+        "compound_code": "QW26+FC 宮田村、長野県",
+        "global_code": "8Q7VQW26+FC"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJWda4_dTtHGARhdMxvXWEJJc",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4301 長野県上伊那郡宮田村１９３４−５",
+      "geometry": {
+        "location": {
+          "lat": 35.7512125,
+          "lng": 137.9111494
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.75261357989272,
+            "lng": 137.9125702798927
+          },
+          "southwest": {
+            "lat": 35.74991392010728,
+            "lng": 137.9098706201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ル・ノール・リヴィエール",
+      "photos": [
+        {
+          "height": 2740,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115083595430316586488\">伊藤雅一</a>"
+          ],
+          "photo_reference": "Aap_uEBDYdICXpnCgcDVNv1e-tmwUOUlW72gJ6mKkM4LRfLAWCm331zMJWHfJFn11nXfpttI5mAHV5N61CNv5aknUYXp3Envx_gHgM9i3zyIkl2BF-IMZmBUc81NkBw6ADAKUeCHYyb4aFCX_7-ZScUId2kSmbf87c3Ja9gtKgxHjOoTLyUq",
+          "width": 5480
+        }
+      ],
+      "place_id": "ChIJ74D_bnftHGARXSJ3CgfPb8c",
+      "plus_code": {
+        "compound_code": "QW26+FF 宮田村、長野県",
+        "global_code": "8Q7VQW26+FF"
+      },
+      "types": [
+        "cafe",
+        "bakery",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

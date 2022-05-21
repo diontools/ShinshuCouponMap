@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１５２",
-        "short_name": "１１５２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0016",
-        "short_name": "392-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0016 長野県諏訪市豊田１１５２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0247345,
-          "lng": 138.1028891
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0016 長野県諏訪市豊田１１５２",
+      "geometry": {
+        "location": {
+          "lat": 36.0246412,
+          "lng": 138.1027035
         },
-        "southwest": {
-          "lat": 36.0245105,
-          "lng": 138.1024957
+        "viewport": {
+          "northeast": {
+            "lat": 36.02581252989272,
+            "lng": 138.1041916298927
+          },
+          "southwest": {
+            "lat": 36.02311287010728,
+            "lng": 138.1014919701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0246412,
-        "lng": 138.1027035
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0258583302915,
-          "lng": 138.1040868802915
-        },
-        "southwest": {
-          "lat": 36.02316036970851,
-          "lng": 138.1013889197085
-        }
-      }
-    },
-    "place_id": "ChIJG28CKN1VHGARwBYVkcGh59E",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0016 長野県諏訪市豊田１１５２",
+      "place_id": "ChIJG28CKN1VHGARwBYVkcGh59E",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

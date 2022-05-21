@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "橘倉酒造内",
-        "short_name": "橘倉酒造内",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "６２３−２",
-        "short_name": "６２３−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "臼田",
-        "short_name": "臼田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0301",
-        "short_name": "384-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0301 長野県佐久市臼田６２３−２ 橘倉酒造内",
-    "geometry": {
-      "location": {
-        "lat": 36.2010256,
-        "lng": 138.4774109
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2022851802915,
-          "lng": 138.4786304302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0301 長野県佐久市臼田６２３−２ 橘倉酒造内",
+      "geometry": {
+        "location": {
+          "lat": 36.2010309,
+          "lng": 138.4774186
         },
-        "southwest": {
-          "lat": 36.1995872197085,
-          "lng": 138.4759324697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.20228602989273,
+            "lng": 138.4786312798927
+          },
+          "southwest": {
+            "lat": 36.19958637010728,
+            "lng": 138.4759316201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpyCeYR81HGARWhd2n8wRok8",
-    "plus_code": {
-      "compound_code": "6F2G+CX 日本、長野県佐久市",
-      "global_code": "8Q8W6F2G+CX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "酒蔵ホテル KURABITO STAY",
+      "photos": [
+        {
+          "height": 1281,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102569735578359876505\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC8t7YE50TjrsgPp49ju-QEn7r8CyF5yc01FcA7emkIMHOR8mRo7MwByezOGWRSmP31i1I6RqaHFrPCj36wj14U0pZ0dVH2GxqX9MgWEuEsDj2ZewJxGYb0SkHxuBMoAjf3ls6Z2xxTHbPX_umPUl5Y46EQ6sQeNzp_IbSavixPF6uy",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJpyCeYR81HGARWhd2n8wRok8",
+      "plus_code": {
+        "compound_code": "6F2G+CX 佐久市、長野県",
+        "global_code": "8Q8W6F2G+CX"
+      },
+      "types": [
+        "travel_agency",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

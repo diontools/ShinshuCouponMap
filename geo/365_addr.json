@@ -1,93 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９６−１",
-        "short_name": "４９６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中松",
-        "short_name": "中松",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0209",
-        "short_name": "381-0209",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0209 長野県上高井郡小布施町中松４９６−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6956936,
-          "lng": 138.3276833
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0209 長野県上高井郡小布施町中松４９６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6954809,
+          "lng": 138.3275154
         },
-        "southwest": {
-          "lat": 36.6953188,
-          "lng": 138.3272086
+        "viewport": {
+          "northeast": {
+            "lat": 36.69693947989272,
+            "lng": 138.3285435798927
+          },
+          "southwest": {
+            "lat": 36.69423982010728,
+            "lng": 138.3258439201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6954809,
-        "lng": 138.3275154
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69685758029149,
-          "lng": 138.3286266802915
-        },
-        "southwest": {
-          "lat": 36.69415961970849,
-          "lng": 138.3259287197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0209 長野県上高井郡小布施町中松４９６−１",
+      "photos": [
+        {
+          "height": 1273,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102109710485315470733\">菊地康</a>"
+          ],
+          "photo_reference": "Aap_uEAXkbqeDAPp34mBvu0gWjQgl8Y175QXFgefziKW5d_rlO36jR-2zIQbnCyuaEXp8sYLF11q9BXIsuCjmr3kzRdkgPpmCiD05iRIHvdea1OD_WZVXD7xTiZg3Lkb9J9mGYNinTIxKH_Nx7rpMRNfU8y8ELyxnO_f43OflrNtmAPU-Dls",
+          "width": 1922
         }
-      }
-    },
-    "place_id": "ChIJUc5Qy_qLHWAR3wYhfukOxS8",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJUc5Qy_qLHWAR3wYhfukOxS8",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５５４",
-        "short_name": "２５５４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "柏原",
-        "short_name": "柏原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1305",
-        "short_name": "389-1305",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1305 長野県上水内郡信濃町柏原２５５４",
-    "geometry": {
-      "location": {
-        "lat": 36.8080736,
-        "lng": 138.1991279
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8094631802915,
-          "lng": 138.2004803802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-1305 長野県上水内郡信濃町柏原２５５４",
+      "geometry": {
+        "location": {
+          "lat": 36.8080736,
+          "lng": 138.1991279
         },
-        "southwest": {
-          "lat": 36.8067652197085,
-          "lng": 138.1977824197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.80946402989272,
+            "lng": 138.2004812298927
+          },
+          "southwest": {
+            "lat": 36.80676437010728,
+            "lng": 138.1977815701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJgQTKIWMk9l8RuGLzUdONSn4",
-    "plus_code": {
-      "compound_code": "R55X+6M 長野県信濃町",
-      "global_code": "8Q8WR55X+6M"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-1305 長野県上水内郡信濃町柏原２５５４",
+      "place_id": "ChIJgQTKIWMk9l8RuGLzUdONSn4",
+      "plus_code": {
+        "compound_code": "R55X+6M 信濃町、長野県",
+        "global_code": "8Q8WR55X+6M"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

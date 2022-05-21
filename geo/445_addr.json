@@ -1,155 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "仁礼町",
-        "short_name": "仁礼町",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0034",
-        "short_name": "382-0034",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0034 長野県須坂市仁礼 仁礼町",
-    "geometry": {
-      "location": {
-        "lat": 36.6116845,
-        "lng": 138.3355455
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.61303348029149,
-          "lng": 138.3368944802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−８８５",
+      "geometry": {
+        "location": {
+          "lat": 36.55045200000001,
+          "lng": 138.3496861
         },
-        "southwest": {
-          "lat": 36.61033551970849,
-          "lng": 138.3341965197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJY8muTAySHWAR730zlZqRj2E",
-    "types": [
-      "intersection"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0034",
-        "short_name": "382-0034",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0034 長野県須坂市仁礼",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6173339,
-          "lng": 138.3916701
-        },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.3048007
+        "viewport": {
+          "northeast": {
+            "lat": 36.55174822989272,
+            "lng": 138.3511502798927
+          },
+          "southwest": {
+            "lat": 36.54904857010727,
+            "lng": 138.3484506201073
+          }
         }
       },
-      "location": {
-        "lat": 36.5792862,
-        "lng": 138.3489356
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6173339,
-          "lng": 138.3916701
-        },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.3048007
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンションスタートライン",
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110473414510178083824\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBYK-tKQVLMeByx_5dpgcGe_EFPR3WvFvJSsE9HupYUlc4bVhVzReFjc61i4upFxO6QMOT5IWsf0tziG8igay5BaJG0kBZPcJCGtJvSbNqh86HU_QbDIWYWGkaXBsFrCI0v2TbAV3ysR2SKucokbX__6Q-CNf9Msn1t5_-KZBdUxoXz",
+          "width": 4752
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJebHDKaWTHWAR9XKssTTYOXw",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJn5LczHmUHWARQOVdKUZ9zi8",
+      "plus_code": {
+        "compound_code": "H82X+5V 須坂市、長野県",
+        "global_code": "8Q8WH82X+5V"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

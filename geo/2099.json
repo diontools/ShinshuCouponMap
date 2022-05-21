@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志２丁目２−１０ 広津屋ビル1F",
+      "geometry": {
+        "location": {
+          "lat": 36.2300599,
+          "lng": 137.9692284
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23135747989273,
+            "lng": 137.9705800298927
+          },
+          "southwest": {
+            "lat": 36.22865782010729,
+            "lng": 137.9678803701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "BEER HALL season ビアホールシーズン",
+      "photos": [
+        {
+          "height": 2269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114422352150036383506\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED-3bP1vzmeJ36EEESGK4Pm4arJu_BdM2SA2sKPo2W0dgd4EcXUsfKXI-XKXu6mMxYjSe-rxF8l5IoRw8kdhCA21MphcJ2NNM4Jxje4jdVFH8jrLulPhAeE-wrFJ8H_MIJlqBWb-tTqWokXU2A71gvJeuLdboBcAAZfTmZmhoB9TTZs",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJNUvAG40OHWARlKJ09ouVWgg",
+      "plus_code": {
+        "compound_code": "6XJ9+2M 松本市、長野県",
+        "global_code": "8Q8V6XJ9+2M"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

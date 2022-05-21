@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１０９−１",
-        "short_name": "３１０９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "開田高原西野",
-        "short_name": "開田高原西野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0302",
-        "short_name": "397-0302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野３１０９−１",
-    "geometry": {
-      "location": {
-        "lat": 35.958407,
-        "lng": 137.5842251
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9596626802915,
-          "lng": 137.5854877802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野３１０９−１",
+      "geometry": {
+        "location": {
+          "lat": 35.958407,
+          "lng": 137.5842251
         },
-        "southwest": {
-          "lat": 35.9569647197085,
-          "lng": 137.5827898197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.95966352989272,
+            "lng": 137.5854886298927
+          },
+          "southwest": {
+            "lat": 35.95696387010728,
+            "lng": 137.5827889701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJdcaxiRQvHWARSwOpWKkYjfs",
-    "plus_code": {
-      "compound_code": "XH5M+9M 長野県木曽町",
-      "global_code": "8Q7VXH5M+9M"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒397-0302 長野県木曽郡木曽町開田高原西野３１０９−１",
+      "place_id": "ChIJdcaxiRQvHWARSwOpWKkYjfs",
+      "plus_code": {
+        "compound_code": "XH5M+9M 木曽町、長野県",
+        "global_code": "8Q7VXH5M+9M"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

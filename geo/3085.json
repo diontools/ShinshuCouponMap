@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３４１−１",
-        "short_name": "１３４１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元大島",
-        "short_name": "元大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3303",
-        "short_name": "399-3303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島１３４１−１",
-    "geometry": {
-      "location": {
-        "lat": 35.5922816,
-        "lng": 137.9157523
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5937091802915,
-          "lng": 137.9169965802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島１３４１−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5923553,
+          "lng": 137.9155539
         },
-        "southwest": {
-          "lat": 35.59101121970851,
-          "lng": 137.9142986197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.59371002989272,
+            "lng": 137.9169974298927
+          },
+          "southwest": {
+            "lat": 35.59101037010727,
+            "lng": 137.9142977701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJqbZ76hiQHGARr-z1Tqfl1ME",
-    "plus_code": {
-      "compound_code": "HWR8+W8 長野県松川町",
-      "global_code": "8Q7VHWR8+W8"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "パティスリー アンサンブル",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107639665273732841103\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED3xlpUkLP5M71cGmlRD-cXRGsFMvLyF3Txupg1sv970Vag6LMBb6HHeBzPQm9AIvPYUtPJytBJHDOlje51klnw_iKmrq_bomgQLXxB24AF7p8FPn3ULz0QE2lE_2_Yms2T2DgYu6TrvD-62wtwg8JVDElPJcNoo8f8g2HeHLF9kqQi",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJqbZ76hiQHGARr-z1Tqfl1ME",
+      "plus_code": {
+        "compound_code": "HWR8+W8 松川町、長野県",
+        "global_code": "8Q7VHWR8+W8"
+      },
+      "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５５９",
-        "short_name": "３５５９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上一",
-        "short_name": "上一",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "常盤",
-        "short_name": "常盤",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0004",
-        "short_name": "398-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0004 長野県大町市常盤上一３５５９",
-    "geometry": {
-      "location": {
-        "lat": 36.4689852,
-        "lng": 137.8490876
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4703264802915,
-          "lng": 137.8503817302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0004 長野県大町市常盤上一３５５９",
+      "geometry": {
+        "location": {
+          "lat": 36.4689852,
+          "lng": 137.8490876
         },
-        "southwest": {
-          "lat": 36.4676285197085,
-          "lng": 137.8476837697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.47032732989272,
+            "lng": 137.8503825798927
+          },
+          "southwest": {
+            "lat": 36.46762767010728,
+            "lng": 137.8476829201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJiSqd0AVkHWARBNfLvoPx1w8",
-    "plus_code": {
-      "compound_code": "FR9X+HJ 日本、長野県大町市",
-      "global_code": "8Q8VFR9X+HJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "焼肉ソウル",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115659190490614120051\">金哲寿</a>"
+          ],
+          "photo_reference": "Aap_uEBIOJ9gTvpKAZnkbuwwxIRV8ihtpTmov4PMzBfgu7hCmxwD5R0ZHLmJ1RxNPeNZYWpA9tnUAtQARCUIcu_6p57buLdMCwoeQ8_4jkkZBiP29eMfAJ7CTc-uMJXuX69BMDW7nXfdApY6Fp8PcchA7Ft3zdYtlAcoZbHYQGavZg2MVybG",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJiSqd0AVkHWARBNfLvoPx1w8",
+      "plus_code": {
+        "compound_code": "FR9X+HJ 大町市、長野県",
+        "global_code": "8Q8VFR9X+HJ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

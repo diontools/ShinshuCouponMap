@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "箕輪町",
-        "short_name": "箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "中箕輪",
-        "short_name": "中箕輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4601",
-        "short_name": "399-4601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪 大字中箕輪木下12490",
-    "geometry": {
-      "location": {
-        "lat": 35.9016315,
-        "lng": 137.9861359
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.90298878029149,
-          "lng": 137.9873489802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町 大字中箕輪木下12490",
+      "geometry": {
+        "location": {
+          "lat": 35.9016354,
+          "lng": 137.9860719
         },
-        "southwest": {
-          "lat": 35.90029081970849,
-          "lng": 137.9846510197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.90298962989272,
+            "lng": 137.9873498298927
+          },
+          "southwest": {
+            "lat": 35.90028997010727,
+            "lng": 137.9846501701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJIytT2A36HGARcXl13g8Fi-A",
-    "plus_code": {
-      "compound_code": "WX2P+MF 長野県箕輪町",
-      "global_code": "8Q7VWX2P+MF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "味房 桔梗屋",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101626748948257486473\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAL2ISBoxvL3VyepNCy4qGJ4LaU-9m1v9bEArG5-z6HVN7J6XcpwBx3Hyve3VeVyY0_8lXINiQNQegLrZ0Z0AUc3IaXcj61CSgDcH-fJXEovkq-PNTnkjrD9uvxtaa_OFFwskXP52xf9DX2BwJb_BvSoRUtuJ_ImA3ZLgZL3TMzarAs",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJIytT2A36HGARcXl13g8Fi-A",
+      "plus_code": {
+        "compound_code": "WX2P+MF 箕輪町、長野県",
+        "global_code": "8Q7VWX2P+MF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

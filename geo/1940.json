@@ -1,81 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１９０５−１３",
-        "short_name": "１９０５−１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "木曽平沢",
-        "short_name": "木曽平沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6302",
-        "short_name": "399-6302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6302 長野県塩尻市木曽平沢１９０５−１３",
-    "geometry": {
-      "location": {
-        "lat": 35.977239,
-        "lng": 137.826935
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9785867302915,
-          "lng": 137.8282476802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6302 長野県塩尻市木曽平沢１９０５−１３",
+      "geometry": {
+        "location": {
+          "lat": 35.9772435,
+          "lng": 137.8269727
         },
-        "southwest": {
-          "lat": 35.9758887697085,
-          "lng": 137.8255497197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.97858757989272,
+            "lng": 137.8282485298927
+          },
+          "southwest": {
+            "lat": 35.97588792010728,
+            "lng": 137.8255488701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNdNVlxkeHWARgsNJNUYsCWo",
-    "plus_code": {
-      "compound_code": "XRGG+VQ 日本、長野県塩尻市",
-      "global_code": "8Q7VXRGG+VQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "木曽漆器協同卸売センター",
+      "place_id": "ChIJNdNVlxkeHWARgsNJNUYsCWo",
+      "plus_code": {
+        "compound_code": "XRGG+VQ 塩尻市、長野県",
+        "global_code": "8Q7VXRGG+VQ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,117 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "トドリキビル",
-        "short_name": "トドリキビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２０",
-        "short_name": "２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目３−２０ トドリキビル 1f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2334824,
-          "lng": 137.9691901
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目３−２０ トドリキビル 1f",
+      "geometry": {
+        "location": {
+          "lat": 36.2334456,
+          "lng": 137.9688939
         },
-        "southwest": {
-          "lat": 36.2334029,
-          "lng": 137.9687992
+        "viewport": {
+          "northeast": {
+            "lat": 36.23479842989272,
+            "lng": 137.9701687298927
+          },
+          "southwest": {
+            "lat": 36.23209877010728,
+            "lng": 137.9674690701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2334456,
-        "lng": 137.9688939
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2347916302915,
-          "lng": 137.9703159802915
-        },
-        "southwest": {
-          "lat": 36.2320936697085,
-          "lng": 137.9676180197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "トドリキビル 1f",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111007393963071883234\">Kenji Ka</a>"
+          ],
+          "photo_reference": "Aap_uEAc_wJILuB1-XHIkfBQ6nTRebEszt01SpTu05MPduF-ihAwZvhperoSekWFWtP-qcypNp4hrepinAE2-ZN8ndE8MDPknnJf-oblR-6cFE-cI3QhFyV0luUzYp2EsikYnW-9VPcwyBMno5S0n7nKlR6FKrdKxU3RHWN-7rpXYkhdgldZ",
+          "width": 1616
         }
-      }
-    },
-    "place_id": "EllKYXBhbiwg44CSMzkwLTA4MTEgTmFnYW5vLCBNYXRzdW1vdG8sIENoxavFjSwgMi1jaMWNbWXiiJIz4oiS77yS77yQIOODiOODieODquOCreODk-ODqyAxZiIeGhwKFgoUChIJXTwDfY4OHWARC3moDuJZrvoSAjFm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "Eljml6XmnKzjgIHjgJIzOTAtMDgxMSDplbfph47nnIzmnb7mnKzluILkuK3lpK7vvJLkuIHnm67vvJPiiJLvvJLvvJAg44OI44OJ44Oq44Kt44OT44OrIDFmIh4aHAoWChQKEgldPAN9jg4dYBELeagO4lmu-hICMWY",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

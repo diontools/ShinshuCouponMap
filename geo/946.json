@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５−７",
-        "short_name": "１５−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳２丁目１５−７",
-    "geometry": {
-      "location": {
-        "lat": 36.64656009999999,
-        "lng": 138.1911184
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64785888029149,
-          "lng": 138.1924115302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳２丁目１５−７",
+      "geometry": {
+        "location": {
+          "lat": 36.64656009999999,
+          "lng": 138.1911184
         },
-        "southwest": {
-          "lat": 36.6451609197085,
-          "lng": 138.1897135697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64785972989272,
+            "lng": 138.1924123798927
+          },
+          "southwest": {
+            "lat": 36.64516007010727,
+            "lng": 138.1897127201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJE2YVlN-HHWAReUrpo-jd5-4",
-    "plus_code": {
-      "compound_code": "J5WR+JC 日本、長野県長野市",
-      "global_code": "8Q8WJ5WR+JC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "浅草らーめん きび太郎",
+      "photos": [
+        {
+          "height": 992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114937680215331151106\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDw_eupjCXcsKvCYnhAdMYAmb7wZDJWThFIplLMY__5wapx-TugcuamyFcmHNJQPI13BnHeDjHc6adt_lBDdCSriX86XGCJSXp278GsGRiHjjWkJQ386eh7sT3p768YsiiFb8eG2IRhXbFq6IhazhPuXVNtOYBnbdideOfUsi3Bt4go",
+          "width": 992
+        }
+      ],
+      "place_id": "ChIJE2YVlN-HHWAReUrpo-jd5-4",
+      "plus_code": {
+        "compound_code": "J5WR+JC 長野市、長野県",
+        "global_code": "8Q8WJ5WR+JC"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５２−１",
-        "short_name": "５５２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "会染",
-        "short_name": "会染",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "池田町",
-        "short_name": "池田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8602",
-        "short_name": "399-8602",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8602 長野県北安曇郡池田町会染５５２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.431456,
-        "lng": 137.887796
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4329615302915,
-          "lng": 137.8893340302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-8602 長野県北安曇郡池田町会染５５２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.431456,
+          "lng": 137.887796
         },
-        "southwest": {
-          "lat": 36.4302635697085,
-          "lng": 137.8866360697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.43296237989272,
+            "lng": 137.8893348798927
+          },
+          "southwest": {
+            "lat": 36.43026272010728,
+            "lng": 137.8866352201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJxelk5XtlHWARlPKniCgzVYI",
-    "plus_code": {
-      "compound_code": "CVJQ+H4 長野県池田町",
-      "global_code": "8Q8VCVJQ+H4"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-8602 長野県北安曇郡池田町会染５５２−１",
+      "place_id": "ChIJxelk5XtlHWARlPKniCgzVYI",
+      "plus_code": {
+        "compound_code": "CVJQ+H4 池田町、長野県",
+        "global_code": "8Q8VCVJQ+H4"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

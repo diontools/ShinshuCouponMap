@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目８−２２",
-    "geometry": {
-      "location": {
-        "lat": 36.2354579,
-        "lng": 137.9718648
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2367685802915,
-          "lng": 137.9731973302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目８−２２",
+      "geometry": {
+        "location": {
+          "lat": 36.2354579,
+          "lng": 137.9718648
         },
-        "southwest": {
-          "lat": 36.2340706197085,
-          "lng": 137.9704993697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23676942989272,
+            "lng": 137.9731981798927
+          },
+          "southwest": {
+            "lat": 36.23406977010728,
+            "lng": 137.9704985201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2dcj3ZEOHWARJ2_xhlmE0BQ",
-    "plus_code": {
-      "compound_code": "6XPC+5P 日本、長野県松本市",
-      "global_code": "8Q8V6XPC+5P"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ピッツァ ヴェルデ マツモト",
+      "photos": [
+        {
+          "height": 2193,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102231350882351628223\">Pizza Verde Matsumoto</a>"
+          ],
+          "photo_reference": "Aap_uECpJDFOR_NCzmUb-CPJdBCISIJPbDXVl6WrDYjpphXxa7c9t3w5P6yA2BXH69GPxRwrz6jV4YT1lfp2sLTBwqk6mi44ykpMHvms0bUp_Zzfii8pwKO9TdQxT9gYdEyG0DIJrEpC4iLOwZEhZVQ6_yjhubPfDCg5n3YLFuh-4I68P9rN",
+          "width": 3896
+        }
+      ],
+      "place_id": "ChIJ2dcj3ZEOHWARJ2_xhlmE0BQ",
+      "plus_code": {
+        "compound_code": "6XPC+5P 松本市、長野県",
+        "global_code": "8Q8V6XPC+5P"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

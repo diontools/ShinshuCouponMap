@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１７９",
-        "short_name": "２１７９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "宝光社",
-        "short_name": "宝光社",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠宝光社２１７９",
-    "geometry": {
-      "location": {
-        "lat": 36.7287953,
-        "lng": 138.0769977
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7301002802915,
-          "lng": 138.0784072802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠宝光社２１７９",
+      "geometry": {
+        "location": {
+          "lat": 36.728744,
+          "lng": 138.0770104
         },
-        "southwest": {
-          "lat": 36.7274023197085,
-          "lng": 138.0757093197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73010112989272,
+            "lng": 138.0784081298927
+          },
+          "southwest": {
+            "lat": 36.72740147010728,
+            "lng": 138.0757084701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0a-IUAIs9l8R5vaS3qLoZQ4",
-    "plus_code": {
-      "compound_code": "P3HG+GQ 日本、長野県長野市",
-      "global_code": "8Q8WP3HG+GQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処 よつかど",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104802738531009829598\">Mamoru Ohsawa</a>"
+          ],
+          "photo_reference": "Aap_uEAUbdp8U4Xzipo1m-OQOZCh08Z7s4vflDQKst6v-Olx74x5Hp60ottGqWIr2DsQ1VAtUDLFvSWJr9v5Rvht_URsWCQXve8BE6rK5naIRcp6WeCNcnP7jLuCIXNYmFiqZNMkGGKK5bBZ_CD9P_hjPW7nB_iCbbCxcyrzBftokSH6ndpI",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ0a-IUAIs9l8R5vaS3qLoZQ4",
+      "plus_code": {
+        "compound_code": "P3HG+GQ 長野市、長野県",
+        "global_code": "8Q8WP3HG+GQ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

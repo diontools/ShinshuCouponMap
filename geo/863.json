@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "焼肉きんぐ長野東和田店",
-        "short_name": "焼肉きんぐ長野東和田店",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "８００−１",
-        "short_name": "８００−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "東和田",
-        "short_name": "東和田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0038",
-        "short_name": "381-0038",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0038 長野県長野市東和田８００−１ 焼肉きんぐ長野東和田店",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6542584,
-          "lng": 138.2269517
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0038 長野県長野市東和田 字諏訪宮南沖８００−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6541489,
+          "lng": 138.2268389
         },
-        "southwest": {
-          "lat": 36.6540324,
-          "lng": 138.2266783
+        "viewport": {
+          "northeast": {
+            "lat": 36.65542302989272,
+            "lng": 138.2282444798927
+          },
+          "southwest": {
+            "lat": 36.65272337010727,
+            "lng": 138.2255448201073
+          }
         }
       },
-      "location": {
-        "lat": 36.654172,
-        "lng": 138.2267976
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6554726302915,
-          "lng": 138.2281639802915
-        },
-        "southwest": {
-          "lat": 36.6527746697085,
-          "lng": 138.2254660197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "焼肉きんぐ 長野東和田店",
+      "photos": [
+        {
+          "height": 2793,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111517862480209150928\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAS5TpF5HS2FzF_dMY29vXTy3bikZRyAi8kjCtEXYvPxzNSVbJ_Gs0rhvrj0xO14rpChKVQ3BOAQg7T4qLxQrQDlJB708HhGO9276QrEVjWgsHuqHcRmxCxI7Ja-QJU76pDPK-Ex0DKwFi1eksGYvaPMBYiCb5VKsczARyBTkMBvtFK",
+          "width": 4190
         }
-      }
-    },
-    "place_id": "ChIJNVKTshGGHWARwtCUoAnGaHs",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ28PtshGGHWAR8NTXnaxwwew",
+      "plus_code": {
+        "compound_code": "M63G+MP 長野市、長野県",
+        "global_code": "8Q8WM63G+MP"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

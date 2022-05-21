@@ -1,100 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目８−９",
-    "geometry": {
-      "location": {
-        "lat": 36.23603,
-        "lng": 137.972431
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2375020802915,
-          "lng": 137.9738182302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目８−９",
+      "geometry": {
+        "location": {
+          "lat": 36.23603,
+          "lng": 137.972431
         },
-        "southwest": {
-          "lat": 36.2348041197085,
-          "lng": 137.9711202697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23750292989272,
+            "lng": 137.9738190798927
+          },
+          "southwest": {
+            "lat": 36.23480327010728,
+            "lng": 137.9711194201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "松本ホテル花月",
+      "photos": [
+        {
+          "height": 3577,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113683399620032676938\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDcyWVPNv8txD3VhSpIYc1VkkWikm2pkPdePNZzzRhWDb81nCQ514ZXk4tw4-W8zcyMEdGc8bff_GAvP8H2YTzceGoP_HLfJaecB2QllSzETi7s0dNbCht1LbEMs3ZRrLKxXBXYWGDOGXnFEidpMVGFHvZwm-miTWVU9oBGrcUBT6KC",
+          "width": 4472
+        }
+      ],
+      "place_id": "ChIJV2ISx5EOHWAR-ftu9zlN0f0",
+      "plus_code": {
+        "compound_code": "6XPC+CX 松本市、長野県",
+        "global_code": "8Q8V6XPC+CX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJV2ISx5EOHWAR-ftu9zlN0f0",
-    "plus_code": {
-      "compound_code": "6XPC+CX 日本、長野県松本市",
-      "global_code": "8Q8V6XPC+CX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目８−９ 松本ホテル花月 2F",
+      "geometry": {
+        "location": {
+          "lat": 36.2361787,
+          "lng": 137.9722786
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23752852989272,
+            "lng": 137.9736284298927
+          },
+          "southwest": {
+            "lat": 36.23482887010727,
+            "lng": 137.9709287701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "I;caza【ikaza】／松本ホテル花月",
+      "photos": [
+        {
+          "height": 574,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101520830046622510653\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDKB01K_M3GipNrMKuHHkBbhmvRSYbc-R8l4z7WEYZ-U1U73hwH1KJ0i-SvGrMqNLK_GNzh4hFbDxs3efHyntq-ilzvLtHXoACRe9hVRN8HH8DLK9Q_LfwE2RUNJ6QNt5_f4vfSXUZ_Q2Ygh_E4VXEyZ93GvOIEN7zqVdjuXxqjIzIJ",
+          "width": 765
+        }
+      ],
+      "place_id": "ChIJywoqyZEOHWARYQd3FmRjEfM",
+      "plus_code": {
+        "compound_code": "6XPC+FW 松本市、長野県",
+        "global_code": "8Q8V6XPC+FW"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

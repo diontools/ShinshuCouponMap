@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９４９−１",
-        "short_name": "９４９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "開田高原西野",
-        "short_name": "開田高原西野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0302",
-        "short_name": "397-0302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野９４９−１",
-    "geometry": {
-      "location": {
-        "lat": 35.931465,
-        "lng": 137.592356
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9328765302915,
-          "lng": 137.5938071302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野９４９−１",
+      "geometry": {
+        "location": {
+          "lat": 35.931465,
+          "lng": 137.592356
         },
-        "southwest": {
-          "lat": 35.9301785697085,
-          "lng": 137.5911091697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.93287737989273,
+            "lng": 137.5938079798927
+          },
+          "southwest": {
+            "lat": 35.93017772010728,
+            "lng": 137.5911083201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJOTzUnrAoHWARMMQiYuqjADU",
-    "plus_code": {
-      "compound_code": "WHJR+HW 長野県木曽町",
-      "global_code": "8Q7VWHJR+HW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ビューおんたけ",
+      "photos": [
+        {
+          "height": 3780,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103785740042708075810\">JRX</a>"
+          ],
+          "photo_reference": "Aap_uEDam0TcBLCYIu6sydd5r304oZzR8yfuB7HBWkVHXRPQfnvfyljF3NMBAnKyoFOhrufTqDp5I00xvEo_LqR1nWdXalOMIW15_QOnplhoCDocCnPo7jsI_KxJoKMZrlV3kf1jmAGWwQ_N-anJJkZsbuoeSHXtqCkhbs8Y5CtsSrqk8Nlp",
+          "width": 5680
+        }
+      ],
+      "place_id": "ChIJOTzUnrAoHWARMMQiYuqjADU",
+      "plus_code": {
+        "compound_code": "WHJR+HW 木曽町、長野県",
+        "global_code": "8Q7VWHJR+HW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

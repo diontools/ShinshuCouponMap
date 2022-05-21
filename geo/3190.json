@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１９−１",
-        "short_name": "３４１９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.1035657,
-        "lng": 138.2388921
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1049627802915,
-          "lng": 138.2402403802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.1035657,
+          "lng": 138.2388921
         },
-        "southwest": {
-          "lat": 36.1022648197085,
-          "lng": 138.2375424197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10496362989272,
+            "lng": 138.2402412298927
+          },
+          "southwest": {
+            "lat": 36.10226397010727,
+            "lng": 138.2375415701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYexCgXJTHGARPJI71sMiL6c",
-    "plus_code": {
-      "compound_code": "463Q+CH 長野県茅野市",
-      "global_code": "8Q8W463Q+CH"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "珈琲＆ＢＥＡＮＳ カリオモン",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103183557977545521529\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEClsmiN8gw8uzSRO2puWr4NZLA-94wTva5X-rcL27hhi75-78ZpqF-g5aY_k0A0LvL2qHb5ZNEgxOvNbaeMs_aVHwBlFy4fND83HHuPQAYp7z-XNNOo46kM8ehOmqZC3TodM_RF_qYliHIhjIzaKNYKt9C4monwZEQ9yKUdrTwWAr0",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJYexCgXJTHGARPJI71sMiL6c",
+      "plus_code": {
+        "compound_code": "463Q+CH 茅野市、長野県",
+        "global_code": "8Q8W463Q+CH"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

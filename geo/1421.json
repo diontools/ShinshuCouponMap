@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６６６７",
-        "short_name": "６６６７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "和",
-        "short_name": "和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0505",
-        "short_name": "389-0505",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0505 長野県東御市和６６６７",
-    "geometry": {
-      "location": {
-        "lat": 36.3969883,
-        "lng": 138.346906
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3982556302915,
-          "lng": 138.3485164802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0505 長野県東御市和６６６７",
+      "geometry": {
+        "location": {
+          "lat": 36.3969883,
+          "lng": 138.346906
         },
-        "southwest": {
-          "lat": 36.3955576697085,
-          "lng": 138.3458185197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39825647989272,
+            "lng": 138.3485173298927
+          },
+          "southwest": {
+            "lat": 36.39555682010727,
+            "lng": 138.3458176701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMxKJ_zq5HWAR1Y8KSPctpdU",
-    "plus_code": {
-      "compound_code": "98WW+QQ 日本、長野県東御市",
-      "global_code": "8Q8W98WW+QQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "storage"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アルカンヴィーニュ",
+      "photos": [
+        {
+          "height": 1377,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100432387068123146299\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAziF8skJzL39ZG2q3pCNdbRY9mvP41R_dec7ESgQZE9ZB0nvgJOZTriIgkX7ELuv7yQRiKNurIPRJ9pnSqi3iIv5_9irtpidXyqL1sCtinDDKcM8hSkNERQAMQKqYlulbscNRc4BK72UzspkX19yY85IH3miYVkQBzXL0AInNhjttp",
+          "width": 2756
+        }
+      ],
+      "place_id": "ChIJMxKJ_zq5HWAR1Y8KSPctpdU",
+      "plus_code": {
+        "compound_code": "98WW+QQ 東御市、長野県",
+        "global_code": "8Q8W98WW+QQ"
+      },
+      "types": [
+        "storage",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

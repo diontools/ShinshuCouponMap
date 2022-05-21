@@ -1,76 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "四賀武津",
-        "short_name": "四賀武津",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0012",
-        "short_name": "392-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0012 長野県諏訪市四賀 四賀武津",
-    "geometry": {
-      "location": {
-        "lat": 36.0296028,
-        "lng": 138.1255938
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0309517802915,
-          "lng": 138.1269427802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0012 長野県諏訪市四賀１０２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0288663,
+          "lng": 138.1260846
         },
-        "southwest": {
-          "lat": 36.0282538197085,
-          "lng": 138.1242448197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03020552989273,
+            "lng": 138.1274297798927
+          },
+          "southwest": {
+            "lat": 36.02750587010728,
+            "lng": 138.1247301201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdaZfWylUHGAReIfzkUDeb0o",
-    "types": [
-      "intersection"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "串処竜じん｡",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102110330425819086303\">EPARK メディアパートナーズ</a>"
+          ],
+          "photo_reference": "Aap_uEAPqP7Y0JLimTlj_Emo38R6_nwMNgRVpfXd2a9dKFUJv_RPDDUe8Gz_45bXfusVPDboCApNN8GNGEb4CNow74rpDvxFg7YvHzbvTAJX8tY70IdaQh65qXyf0q3K1g2587pJXTWnA0lmLjn2m8psknQ6Ptl11uBgifhBarpyNt68Rm3Z",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJidFpcilUHGAR7tGzl7fac0M",
+      "plus_code": {
+        "compound_code": "24HG+HC 諏訪市、長野県",
+        "global_code": "8Q8W24HG+HC"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

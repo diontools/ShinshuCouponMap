@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８１１−４１",
-        "short_name": "２８１１−４１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平２８１１−４１",
-    "geometry": {
-      "location": {
-        "lat": 36.526847,
-        "lng": 137.8100166
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5283584302915,
-          "lng": 137.8114107302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平２８１１−４１",
+      "geometry": {
+        "location": {
+          "lat": 36.526847,
+          "lng": 137.8100166
         },
-        "southwest": {
-          "lat": 36.5256604697085,
-          "lng": 137.8087127697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.52835927989273,
+            "lng": 137.8114115798927
+          },
+          "southwest": {
+            "lat": 36.52565962010728,
+            "lng": 137.8087119201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-1P73dFhHWARJxHIgPdLQlU",
-    "plus_code": {
-      "compound_code": "GRG6+P2 日本、長野県大町市",
-      "global_code": "8Q8VGRG6+P2"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "湯けむり屋敷 薬師の湯",
+      "photos": [
+        {
+          "height": 487,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104390246311136307151\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED5Gj0zcGxAjhDkNT6cN7dRXjBsEt82TVeynVUMT2WGL9QdxnhUeiToNuPyZlKJfQgAhtgFNfIWX5sX824jV-2kGCKDwnqd6KdJE_LHqJiCQsS9BLaL5E2rQtvE8-0CewDXWyAe5ThWcm8OoBm7XQYhqWMcPkdrgDpgNHsNs1haS3As",
+          "width": 650
+        }
+      ],
+      "place_id": "ChIJ-1P73dFhHWARJxHIgPdLQlU",
+      "plus_code": {
+        "compound_code": "GRG6+P2 大町市、長野県",
+        "global_code": "8Q8VGRG6+P2"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

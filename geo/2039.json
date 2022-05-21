@@ -1,116 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "南松本駅店舗",
-        "short_name": "南松本駅店舗",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "出川町",
-        "short_name": "出川町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0826",
-        "short_name": "399-0826",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0826 長野県松本市出川町１丁目１−２ 南松本駅店舗 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.2098422,
-        "lng": 137.9689776
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2111926302915,
-          "lng": 137.9701568802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0826 長野県松本市出川町１丁目１−２ 南松本駅店舗 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.2098628,
+          "lng": 137.9689052
         },
-        "southwest": {
-          "lat": 36.2084946697085,
-          "lng": 137.9674589197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.21120322989272,
+            "lng": 137.9701248798928
+          },
+          "southwest": {
+            "lat": 36.20850357010728,
+            "lng": 137.9674252201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6pqVZMOHWARWmhvdrsliPw",
-    "plus_code": {
-      "compound_code": "6X59+WH 日本、長野県松本市",
-      "global_code": "8Q8V6X59+WH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "魚民 南松本駅前店",
+      "photos": [
+        {
+          "height": 3368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109504733329880675101\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAgZkABRxGxmCYnT3ZbQjglCUIdIjDHUkwOIdOjWN6ad8Qr9nkgw87jDSogLCFpFiDpyOe6vRochBKIFSDADgD53r_kmiSbJDXl5h6dRg3DKAmlaN2cbg-HfqM8wQAVnOeeHF_uXGYPPNVT9B2GrbchhgLvXvIJexfro4DH0HEiaT9b",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJq6pqVZMOHWARWmhvdrsliPw",
+      "plus_code": {
+        "compound_code": "6X59+WH 松本市、長野県",
+        "global_code": "8Q8V6X59+WH"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

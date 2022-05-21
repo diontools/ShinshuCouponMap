@@ -1,92 +1,80 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６",
-        "short_name": "３６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "大門八番町",
-        "short_name": "大門八番町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0737",
-        "short_name": "399-0737",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0737 長野県塩尻市大門八番町９−３６",
-    "geometry": {
-      "location": {
-        "lat": 36.113581,
-        "lng": 137.948569
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1149273302915,
-          "lng": 137.9498849802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0737 長野県塩尻市大門八番町９−３６",
+      "geometry": {
+        "location": {
+          "lat": 36.113581,
+          "lng": 137.948569
         },
-        "southwest": {
-          "lat": 36.1122293697085,
-          "lng": 137.9471870197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.11492817989272,
+            "lng": 137.9498858298927
+          },
+          "southwest": {
+            "lat": 36.11222852010728,
+            "lng": 137.9471861701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ベリービーズワイナリー",
+      "place_id": "ChIJ0wUA5ewEHWARo2scGsWONpM",
+      "plus_code": {
+        "compound_code": "4W7X+CC 塩尻市、長野県",
+        "global_code": "8Q8V4W7X+CC"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ0wUA5ewEHWARo2scGsWONpM",
-    "plus_code": {
-      "compound_code": "4W7X+CC 日本、長野県塩尻市",
-      "global_code": "8Q8V4W7X+CC"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6461 長野県塩尻市宗賀２３７２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0903102,
+          "lng": 137.9218784
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.09169297989273,
+            "lng": 137.9231680298927
+          },
+          "southwest": {
+            "lat": 36.08899332010729,
+            "lng": 137.9204683701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Belly Beads Winery",
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111588484076047827480\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECaL0DevF_YTM9UrpgDRWlGTIvP1VsVE0fQrwT6snYoEbPfJip2aCYn43o6EMCYMFG-POw-rantjgz4VME4W9KiMp5j6AEXbrmyZPxMZ69WtNc9Zd4Ys_FZkZ4ahgpfE03SGT3iWSWEwNl86xBc0MnWClbYmgKzsSu1lf348RO39tg1",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJlc47wWQFHWARH3u6FWS-Wko",
+      "plus_code": {
+        "compound_code": "3WRC+4Q 塩尻市、長野県",
+        "global_code": "8Q8V3WRC+4Q"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

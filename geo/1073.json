@@ -1,85 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７６０−１",
-        "short_name": "７６０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "岩村田",
-        "short_name": "岩村田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0022",
-        "short_name": "385-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0022 長野県佐久市岩村田７６０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2729512,
-        "lng": 138.4781725
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2743212302915,
-          "lng": 138.4796151302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田７６０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2729512,
+          "lng": 138.4781725
         },
-        "southwest": {
-          "lat": 36.2716232697085,
-          "lng": 138.4769171697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27432207989272,
+            "lng": 138.4796159798927
+          },
+          "southwest": {
+            "lat": 36.27162242010728,
+            "lng": 138.4769163201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQy-7mmLLHWAROUoQFpjLuBk",
-    "plus_code": {
-      "compound_code": "7FFH+57 日本、長野県佐久市",
-      "global_code": "8Q8W7FFH+57"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "本町・おかず市場",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112557137117083343704\">ハートランド</a>"
+          ],
+          "photo_reference": "Aap_uECPfCibBzR9CLnSvr94M2waU74-N5YSDrna6va6ryWiswHFBVgPwI1SFl01_fLHnZO_YCk499xZptjaQqSTEXo9ff3zEf-dK2Mbgeo0W2kQS7kNlcVPP81LluWYOjyEWG205nrKLHUFgfiwkU3alXWF7P7-F4gw0CHRGc5mbG4hCnbZ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQy-7mmLLHWAROUoQFpjLuBk",
+      "plus_code": {
+        "compound_code": "7FFH+57 佐久市、長野県",
+        "global_code": "8Q8W7FFH+57"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

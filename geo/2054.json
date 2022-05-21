@@ -1,99 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "新橋屋飴店",
-        "short_name": "新橋屋飴店",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２１",
-        "short_name": "２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "新橋",
-        "short_name": "新橋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0865",
-        "short_name": "390-0865",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0865 長野県松本市新橋３−２１ 新橋屋飴店",
-    "geometry": {
-      "location": {
-        "lat": 36.246286,
-        "lng": 137.952183
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2476609802915,
-          "lng": 137.9536063802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0865 長野県松本市新橋３−２１ 新橋屋飴店",
+      "geometry": {
+        "location": {
+          "lat": 36.2463059,
+          "lng": 137.9522532
         },
-        "southwest": {
-          "lat": 36.2449630197085,
-          "lng": 137.9509084197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24766182989272,
+            "lng": 137.9536072298927
+          },
+          "southwest": {
+            "lat": 36.24496217010728,
+            "lng": 137.9509075701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJB201e9ANHWARyseIapk_JK8",
-    "plus_code": {
-      "compound_code": "6XW2+GV 日本、長野県松本市",
-      "global_code": "8Q8V6XW2+GV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "新橋屋飴店",
+      "photos": [
+        {
+          "height": 5333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118362476608928872368\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA1_dV8lQyqIjll2v1NH3y_LGNyu8umUxkfzvp4GI9iGhwQ42j-M2_tESA9iPuLGD81Dvaailq7tBLbFpWhQe6QaUqVTlXiaGEyhBJJUrrYx6_3kW6y99I9BZpIN_LysT3Q9WO1F4NUh4tg6VccPZnc6pcQMx5ay5SsX7WMzDGnUlLm",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJB201e9ANHWARyseIapk_JK8",
+      "plus_code": {
+        "compound_code": "6XW2+GV 松本市、長野県",
+        "global_code": "8Q8V6XW2+GV"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

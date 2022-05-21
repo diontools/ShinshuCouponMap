@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央３丁目２−１５",
-    "geometry": {
-      "location": {
-        "lat": 36.23370800000001,
-        "lng": 137.972231
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2350555802915,
-          "lng": 137.9735282302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央３丁目２−１５",
+      "geometry": {
+        "location": {
+          "lat": 36.2337077,
+          "lng": 137.9722064
         },
-        "southwest": {
-          "lat": 36.2323576197085,
-          "lng": 137.9708302697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23505642989272,
+            "lng": 137.9735290798927
+          },
+          "southwest": {
+            "lat": 36.23235677010727,
+            "lng": 137.9708294201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-a0jF5IOHWAR72Vhi_wiyNc",
-    "plus_code": {
-      "compound_code": "6XMC+FV 日本、長野県松本市",
-      "global_code": "8Q8V6XMC+FV"
-    },
-    "types": [
-      "establishment",
-      "home_goods_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "工藝マエストロ",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105982490649147103922\">nok tn</a>"
+          ],
+          "photo_reference": "Aap_uEBG36UTBYA94pl4J7_7NSU9Wa9dkSxV2LlkBxqow7n24WVQE8-oHTOgycBsNOwQ9OceDogzXEMeTqUElAdp_HZrNOOaPDl8h-bYToK9YJnXkTz2-vwcfWehd3ZyHsh4IaVHl6tzZt5Y9nTaUj14e3KNKqVbFDw8MGortvREIAPgM0YX",
+          "width": 1508
+        }
+      ],
+      "place_id": "ChIJ-a0jF5IOHWAR72Vhi_wiyNc",
+      "plus_code": {
+        "compound_code": "6XMC+FV 松本市、長野県",
+        "global_code": "8Q8V6XMC+FV"
+      },
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

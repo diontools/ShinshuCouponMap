@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "堺",
-        "short_name": "堺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "栄村",
-        "short_name": "栄村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下水内郡",
-        "short_name": "下水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "949-8321",
-        "short_name": "949-8321",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒949-8321 長野県下水内郡栄村堺",
-    "geometry": {
-      "location": {
-        "lat": 36.8102054,
-        "lng": 138.6200789
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8113645802915,
-          "lng": 138.6213715802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒949-8321 長野県下水内郡栄村堺",
+      "geometry": {
+        "location": {
+          "lat": 36.8102054,
+          "lng": 138.6200789
         },
-        "southwest": {
-          "lat": 36.8086666197085,
-          "lng": 138.6186736197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.81136542989272,
+            "lng": 138.6213724298927
+          },
+          "southwest": {
+            "lat": 36.80866577010728,
+            "lng": 138.6186727701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJPTRO91_5HWARsdHk2qMyvFs",
-    "plus_code": {
-      "compound_code": "RJ6C+32 日本、長野県栄村",
-      "global_code": "8Q8WRJ6C+32"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "切明リバーサイドハウス",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108278224532568265744\">石川彩子</a>"
+          ],
+          "photo_reference": "Aap_uEDspa3nIZIEc76TQxrvGxLSs2CjtQIVxtB5kIWSUoMKqw2EKyuN0qo0q_-RCJlh2aKdoIh8r8ZSFu57bFpd2EHtNyzqWQdGoHlhbaK28obmGWWycDu5qhBMiX5dchENovvxAX5QPsNWwd1YYPzVGd8YWFontgSkTQ5UVk623XiSXax1",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJPTRO91_5HWARsdHk2qMyvFs",
+      "plus_code": {
+        "compound_code": "RJ6C+32 栄村、長野県",
+        "global_code": "8Q8WRJ6C+32"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１６−３",
-        "short_name": "１１６−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "岡田松岡",
-        "short_name": "岡田松岡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0312",
-        "short_name": "390-0312",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0312 長野県松本市岡田松岡１１６−３",
-    "geometry": {
-      "location": {
-        "lat": 36.2587299,
-        "lng": 137.9750662
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2600618802915,
-          "lng": 137.9765020802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0312 長野県松本市岡田松岡１１６−３",
+      "geometry": {
+        "location": {
+          "lat": 36.2587223,
+          "lng": 137.9751158
         },
-        "southwest": {
-          "lat": 36.2573639197085,
-          "lng": 137.9738041197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26006272989272,
+            "lng": 137.9765029298927
+          },
+          "southwest": {
+            "lat": 36.25736307010728,
+            "lng": 137.9738032701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJqaJwRzsMHWAR8NfOQSQ9hiE",
-    "plus_code": {
-      "compound_code": "7X5G+F2 日本、長野県松本市",
-      "global_code": "8Q8V7X5G+F2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "食事珈房はしら",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109969666230540733926\">てらしまさやか</a>"
+          ],
+          "photo_reference": "Aap_uEC4l_WAbItbVYiNsgspWMcR2iAeAKF_TRSzQHTXZUVbwPwk8J4X7-VQeiYmbM44Gg4LJClKC1MlK55VMlFhglh797sfOxSjq71EMM8-6MyE7g8RdKbyRThT7egoO5-xbHQNsBFEe2F2ZGYVDwxz757zE2zSoQhONDdsZHMDkSz6El_c",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJqaJwRzsMHWAR8NfOQSQ9hiE",
+      "plus_code": {
+        "compound_code": "7X5G+F2 松本市、長野県",
+        "global_code": "8Q8V7X5G+F2"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

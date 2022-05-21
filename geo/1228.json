@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３３３−２",
-        "short_name": "１３３３−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿教湯温泉",
-        "short_name": "鹿教湯温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0323",
-        "short_name": "386-0323",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１３３３−２",
-    "geometry": {
-      "location": {
-        "lat": 36.302285,
-        "lng": 138.137039
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.30360373029151,
-          "lng": 138.1383557302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１３３３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.302285,
+          "lng": 138.137039
         },
-        "southwest": {
-          "lat": 36.30090576970851,
-          "lng": 138.1356577697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30360457989273,
+            "lng": 138.1383565798927
+          },
+          "southwest": {
+            "lat": 36.30090492010728,
+            "lng": 138.1356569201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAexArsGmHWARHFanm0GxsR4",
-    "plus_code": {
-      "compound_code": "842P+WR 日本、長野県上田市",
-      "global_code": "8Q8W842P+WR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "塩川菓子舗",
+      "photos": [
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102650640949609945506\">齋藤芳孝</a>"
+          ],
+          "photo_reference": "Aap_uED97W03MkGgElqNnfy64OxhhGZ8AEFYd94L_eMwjgpgnL8mppos4NoKCfxvHcnlpWDRe9RQVPVKaH99AIrqvFlN0erid_573-ZiBQYTqOQ80rX4IiPwX1rNCMaZvrip6gkfr4tFhT3X895SySk3aEpoWzKL_8nFPYh8618zrPobvpne",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJAexArsGmHWARHFanm0GxsR4",
+      "plus_code": {
+        "compound_code": "842P+WR 上田市、長野県",
+        "global_code": "8Q8W842P+WR"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

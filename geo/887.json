@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１−１",
-        "short_name": "１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6453615,
-        "lng": 138.1885188
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6464021802915,
-          "lng": 138.1900832802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6453615,
+          "lng": 138.1885188
         },
-        "southwest": {
-          "lat": 36.6437042197085,
-          "lng": 138.1873853197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64640302989272,
+            "lng": 138.1900841298927
+          },
+          "southwest": {
+            "lat": 36.64370337010727,
+            "lng": 138.1873844701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq5pgtJKGHWARVfXkbOGUm5k",
-    "plus_code": {
-      "compound_code": "J5WQ+4C 日本、長野県長野市",
-      "global_code": "8Q8WJ5WQ+4C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "金龍飯店 ながの東急店",
+      "photos": [
+        {
+          "height": 360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102952576046311988265\">もりげんさん</a>"
+          ],
+          "photo_reference": "Aap_uEBVVDSHLdN0_mC4J_Yrot1byb7F1wkEMU4Hzfit-RIEXPROrmdzUUUVdbFGqMzz-B7dQXRXHvAeTzfIhHLgCGkA9Td0328Xz9IuJ152TiIyU2DbaiYWxqrCDfvFpxk5QFzTNParjRPJNXct_XGDKNlqD3B0nwGJveAUyZhr6nmHyukP",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJq5pgtJKGHWARVfXkbOGUm5k",
+      "plus_code": {
+        "compound_code": "J5WQ+4C 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+4C"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,77 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "霧ヶ峰車山肩",
-        "short_name": "霧ヶ峰車山肩",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0008",
-        "short_name": "392-0008",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0008 長野県諏訪市霧ヶ峰車山肩",
-    "geometry": {
-      "location": {
-        "lat": 36.1048126,
-        "lng": 138.1880018
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.10606998029149,
-          "lng": 138.1893736302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0008 長野県諏訪市霧ヶ峰車山肩",
+      "geometry": {
+        "location": {
+          "lat": 36.1048126,
+          "lng": 138.1880018
         },
-        "southwest": {
-          "lat": 36.10337201970849,
-          "lng": 138.1866756697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10607082989272,
+            "lng": 138.1893744798927
+          },
+          "southwest": {
+            "lat": 36.10337117010728,
+            "lng": 138.1866748201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJiW8ktbNVHGARSyeN-uu-eQM",
-    "plus_code": {
-      "compound_code": "453Q+W6 長野県諏訪市",
-      "global_code": "8Q8W453Q+W6"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ころぼっくるひゅって",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113792759601200310686\">Ohno Motohisa</a>"
+          ],
+          "photo_reference": "Aap_uECvDXpvNWVSxazJ_camYC-Zo9rY8447vMm4_GkYdNoubVkgXttoCU3VEZKChpuVt_BGQcFLzNB2iyYcoYFkjZXqLomXRmvYuXHv5v805GE5LK23nKqujwrHMi-EnEGdxXZAibdPr7qPYDN3AniyyMF1A5HXKbMXR-QagRgKsZStb6Q0",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJiW8ktbNVHGARSyeN-uu-eQM",
+      "plus_code": {
+        "compound_code": "453Q+W6 諏訪市、長野県",
+        "global_code": "8Q8W453Q+W6"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

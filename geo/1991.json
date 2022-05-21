@@ -1,105 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1F",
-        "short_name": "1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "ホテル白樺荘",
-        "short_name": "ホテル白樺荘",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４４６８",
-        "short_name": "４４６８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上高地",
-        "short_name": "上高地",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1516",
-        "short_name": "390-1516",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1516 長野県松本市安曇上高地４４６８ ホテル白樺荘 1F",
-    "geometry": {
-      "location": {
-        "lat": 36.2491199,
-        "lng": 137.6374871
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2504688802915,
-          "lng": 137.6388360802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1516 長野県松本市安曇上高地４４６８ ホテル白樺荘 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.2491199,
+          "lng": 137.6374871
         },
-        "southwest": {
-          "lat": 36.2477709197085,
-          "lng": 137.6361381197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.25046972989272,
+            "lng": 137.6388369298927
+          },
+          "southwest": {
+            "lat": 36.24777007010728,
+            "lng": 137.6361372701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJrQS24NZFHWAR4i1gC7EHw6s",
-    "plus_code": {
-      "compound_code": "6JXP+JX 日本、長野県松本市",
-      "global_code": "8Q8V6JXP+JX"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ショップ白樺",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111806916034231164293\">n-oya</a>"
+          ],
+          "photo_reference": "Aap_uECjOuDJDf_5GZUA_waI3bTxCy345vv8pjP_KAEWY4aWgHq1sTL97Ba6Pvo8hlB8EcGdGN_PZBxWWRYZnfjZS-B5jT4Zd_6Lojm_DMsGO7GxRgbDEwifemZJ4W1CWhfT4rG0P9-cc-xTKzRN1A2RNsKvypfWKtV8rNKsQ0pPnXddn1yG",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJrQS24NZFHWAR4i1gC7EHw6s",
+      "plus_code": {
+        "compound_code": "6JXP+JX 松本市、長野県",
+        "global_code": "8Q8V6JXP+JX"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

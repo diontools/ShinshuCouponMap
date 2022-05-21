@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "志賀高原サンバレ",
-        "short_name": "志賀高原サンバレ",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏 志賀高原サンバレ",
-    "geometry": {
-      "location": {
-        "lat": 36.7169973,
-        "lng": 138.4826849
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.71831853029149,
-          "lng": 138.4840863802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町 志賀高原サンバレ",
+      "geometry": {
+        "location": {
+          "lat": 36.7169973,
+          "lng": 138.4826849
         },
-        "southwest": {
-          "lat": 36.71562056970849,
-          "lng": 138.4813884197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71831937989272,
+            "lng": 138.4840872298927
+          },
+          "southwest": {
+            "lat": 36.71561972010728,
+            "lng": 138.4813875701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJA6Im4oHxHWAR5mB3O-MpMtg",
-    "plus_code": {
-      "compound_code": "PF8M+Q3 日本、長野県山ノ内町",
-      "global_code": "8Q8WPF8M+Q3"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "志賀高原の家 グリーン",
+      "photos": [
+        {
+          "height": 4024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115856150365511475709\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDrZOOBZL5i89CSrFIV-v1ckc6zepdbU3i89Ay9mxdlTMk9NmhKFObQ82fhsRy5ls0eMyaVx3SG8J0Pl1jLrPX4z-UvMY7gSIzKER7ZAXIgdPWQrqLFenipxQkmv8bUnsiiKpFS4FFlFSHRXoUzh00K_KJOisODdCur6CbsMqF_dTai",
+          "width": 6048
+        }
+      ],
+      "place_id": "ChIJA6Im4oHxHWAR5mB3O-MpMtg",
+      "plus_code": {
+        "compound_code": "PF8M+Q3 山ノ内町、長野県",
+        "global_code": "8Q8WPF8M+Q3"
+      },
+      "types": [
+        "cafe",
+        "lodging",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

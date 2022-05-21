@@ -1,182 +1,37 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "乗鞍高原",
-        "short_name": "乗鞍高原",
-        "types": [
-          "establishment",
-          "natural_feature"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1513",
-        "short_name": "390-1513",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1513 長野県松本市安曇 乗鞍高原",
-    "geometry": {
-      "location": {
-        "lat": 36.110725,
-        "lng": 137.5623013
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1120739802915,
-          "lng": 137.5636502802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0831 長野県松本市井川城２丁目１−１ アルピコ交通",
+      "geometry": {
+        "location": {
+          "lat": 36.2228637,
+          "lng": 137.9690993
         },
-        "southwest": {
-          "lat": 36.1093760197085,
-          "lng": 137.5609523197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.22424817989272,
+            "lng": 137.9705589798927
+          },
+          "southwest": {
+            "lat": 36.22154852010727,
+            "lng": 137.9678593201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVWg-B1Q2HWARjCFV9YxTa3Q",
-    "types": [
-      "establishment",
-      "natural_feature"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "アルピコ交通",
-        "short_name": "アルピコ交通",
-        "types": [
-          "premise"
-        ]
       },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アルピコ交通 高速バス予約センター",
+      "place_id": "ChIJCy6UzhIPHWARNtbnLJ6KAco",
+      "plus_code": {
+        "compound_code": "6XF9+4J 松本市、長野県",
+        "global_code": "8Q8V6XF9+4J"
       },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "井川城",
-        "short_name": "井川城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0831",
-        "short_name": "390-0831",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0831 長野県松本市井川城２丁目１−１ アルピコ交通",
-    "geometry": {
-      "location": {
-        "lat": 36.222263,
-        "lng": 137.9695708
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.22365638029149,
-          "lng": 137.9711039802915
-        },
-        "southwest": {
-          "lat": 36.2209584197085,
-          "lng": 137.9684060197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJU3AtsvEOHWARN74xj-wbdGM",
-    "plus_code": {
-      "compound_code": "6XC9+WR 日本、長野県松本市",
-      "global_code": "8Q8V6XC9+WR"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

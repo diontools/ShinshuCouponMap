@@ -1,94 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５９６",
-        "short_name": "１５９６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0321",
-        "short_name": "391-0321",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0321 長野県北佐久郡立科町芦田八ケ野１５９６",
-    "geometry": {
-      "location": {
-        "lat": 36.1088421,
-        "lng": 138.2421756
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1102805802915,
-          "lng": 138.2437263802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0321 長野県立科町芦田八ケ野１５９６",
+      "geometry": {
+        "location": {
+          "lat": 36.1088421,
+          "lng": 138.2421756
         },
-        "southwest": {
-          "lat": 36.1075826197085,
-          "lng": 138.2410284197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.11028142989272,
+            "lng": 138.2437272298927
+          },
+          "southwest": {
+            "lat": 36.10758177010727,
+            "lng": 138.2410275701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHVdkWy1XHGARPLtDW8lQ5J4",
-    "plus_code": {
-      "compound_code": "465R+GV 日本、長野県立科町",
-      "global_code": "8Q8W465R+GV"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白樺リゾート池の平 レイクサイドプラザ",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115148834115819958533\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA712JdhSDKhTXz8mna05IsXutyUPX_qK-_ScpoJUFCnrBy9reNxDGu2ii_jgVfY-7P7TdIKQ3UMu5VOgHsnpKmIOjMymGo2ReylRaNQ98-kyf8q6KYN02pp7yOzZqvaMgy4Ja_a09zIET8EKO6n9-7goPgO3k9Rq6ctQ06UTJiGhkN",
+          "width": 718
+        }
+      ],
+      "place_id": "ChIJHVdkWy1XHGARPLtDW8lQ5J4",
+      "plus_code": {
+        "compound_code": "465R+GV 立科町、長野県",
+        "global_code": "8Q8W465R+GV"
+      },
+      "types": [
+        "cafe",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

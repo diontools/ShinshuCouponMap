@@ -1,92 +1,38 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５７６",
-        "short_name": "５７６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "県町",
-        "short_name": "県町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0838",
-        "short_name": "380-0838",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0838 長野県長野市南長野県町５７６",
-    "geometry": {
-      "location": {
-        "lat": 36.6532473,
-        "lng": 138.1827799
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6545956302915,
-          "lng": 138.1841164802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、長野県長野市県町５７６",
+      "geometry": {
+        "location": {
+          "lat": 36.6532473,
+          "lng": 138.1827799
         },
-        "southwest": {
-          "lat": 36.6518976697085,
-          "lng": 138.1814185197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65459647989272,
+            "lng": 138.1841173298927
+          },
+          "southwest": {
+            "lat": 36.65189682010728,
+            "lng": 138.1814176701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgROMRleHHWARbAP-UuvVspo",
-    "plus_code": {
-      "compound_code": "M53M+74 日本、長野県長野市",
-      "global_code": "8Q8WM53M+74"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "カフェラウンジ ベイベリー",
+      "place_id": "ChIJgROMRleHHWARbAP-UuvVspo",
+      "plus_code": {
+        "compound_code": "M53M+74 長野市、長野県",
+        "global_code": "8Q8WM53M+74"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５０",
-        "short_name": "５５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "松代町松代",
-        "short_name": "松代町松代",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-1231",
-        "short_name": "381-1231",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-1231 長野県長野市松代町松代５５０",
-    "geometry": {
-      "location": {
-        "lat": 36.5621848,
-        "lng": 138.2023681
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5635413802915,
-          "lng": 138.2036749802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-1231 長野県長野市松代町松代５５０",
+      "geometry": {
+        "location": {
+          "lat": 36.5621905,
+          "lng": 138.2024082
         },
-        "southwest": {
-          "lat": 36.5608434197085,
-          "lng": 138.2009770197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.56354222989271,
+            "lng": 138.2036758298927
+          },
+          "southwest": {
+            "lat": 36.56084257010727,
+            "lng": 138.2009761701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc1P4JSuFHWAR2G4w-xiHfLw",
-    "plus_code": {
-      "compound_code": "H662+VW 日本、長野県長野市",
-      "global_code": "8Q8WH662+VW"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "のもと酒店",
+      "photos": [
+        {
+          "height": 608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103852208656447128056\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBPuu9fXmcMBGlzuJLF7GzRNLEs3JDPpuY5qYLsHrnOS2eV1tvJVqG3uphhl9TWLzgM6uUGUXjEffoRgjne5ugXE_qycXV1DklL-Tg5R3vAwamjRInwRZQvAA-90HW0KfJM83-zrvCRq_1XOi7fk2h3JIFag2z3j1u3Wrck3ToG3GZW",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJc1P4JSuFHWAR2G4w-xiHfLw",
+      "plus_code": {
+        "compound_code": "H662+VW 長野市、長野県",
+        "global_code": "8Q8WH662+VW"
+      },
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

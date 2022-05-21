@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "波田",
-        "short_name": "波田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1401",
-        "short_name": "390-1401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1401 長野県松本市波田",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.22222840000001,
-          "lng": 137.8948818
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-1401 長野県松本市波田",
+      "geometry": {
+        "location": {
+          "lat": 36.1703072,
+          "lng": 137.813101
         },
-        "southwest": {
-          "lat": 36.086651,
-          "lng": 137.7480357
+        "viewport": {
+          "northeast": {
+            "lat": 36.22222840000001,
+            "lng": 137.8948818
+          },
+          "southwest": {
+            "lat": 36.086651,
+            "lng": 137.7480357
+          }
         }
       },
-      "location": {
-        "lat": 36.1703072,
-        "lng": 137.813101
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.22222840000001,
-          "lng": 137.8948818
-        },
-        "southwest": {
-          "lat": 36.086651,
-          "lng": 137.7480357
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "波田",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103025051088596640633\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBEeSQEqRLVvXUXw049x_2OQKkar2FFXWZWJJaRKlYejCH5Ixd2cOQ3xyokvP0khhFhaOu6aRVCwSWR_HtCXkfZMdMU2m5bSxaidwmsSW0q4gVv5GAHCCZG7bNd0PCpZC5CzwjSFnj9RWbctqEnfHPvevKZilsdyRTjcboY1Kkhn-1o",
+          "width": 5504
         }
-      }
-    },
-    "place_id": "ChIJTZuFu-cWHWARRw1XAyYarOs",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJTZuFu-cWHWARRw1XAyYarOs",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

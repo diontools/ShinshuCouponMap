@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３１−５",
-        "short_name": "３３１−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３３１−５",
-    "geometry": {
-      "location": {
-        "lat": 35.455347,
-        "lng": 137.714526
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4567087802915,
-          "lng": 137.7155163802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３３１−５",
+      "geometry": {
+        "location": {
+          "lat": 35.455347,
+          "lng": 137.714526
         },
-        "southwest": {
-          "lat": 35.4540108197085,
-          "lng": 137.7128184197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.45670962989272,
+            "lng": 137.7155172298928
+          },
+          "southwest": {
+            "lat": 35.45400997010728,
+            "lng": 137.7128175701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbfzq1QejHGARd2CRrbesM_M",
-    "plus_code": {
-      "compound_code": "FP47+4R 長野県阿智村",
-      "global_code": "8Q7VFP47+4R"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "昼神グランドホテル天心",
+      "photos": [
+        {
+          "height": 1669,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109229606596022091372\">昼神グランドホテル天心</a>"
+          ],
+          "photo_reference": "Aap_uEB6j2dHOgnDEWBXUlvAAw0D2mWp4HAFdWFEx5QdBONN71y6nqndB5nNYYVTfquNpH-uUzdhL1D9PW5E0gbaTd8JeyatSRKQ-zOrfpncWHk87utTqSfxHBaDb5mThI5V2Dhldzi1eW0tcPVE4ayqxy3JSeWa6mCUT543wYDIx4IfLADx",
+          "width": 2168
+        }
+      ],
+      "place_id": "ChIJbfzq1QejHGARd2CRrbesM_M",
+      "plus_code": {
+        "compound_code": "FP47+4R 阿智村、長野県",
+        "global_code": "8Q7VFP47+4R"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

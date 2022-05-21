@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１９",
-        "short_name": "１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目３−１９",
-    "geometry": {
-      "location": {
-        "lat": 36.2346666,
-        "lng": 137.9720076
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2360030802915,
-          "lng": 137.9733603802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目３−１９",
+      "geometry": {
+        "location": {
+          "lat": 36.2346666,
+          "lng": 137.9720076
         },
-        "southwest": {
-          "lat": 36.2333051197085,
-          "lng": 137.9706624197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23600392989272,
+            "lng": 137.9733612298927
+          },
+          "southwest": {
+            "lat": 36.23330427010728,
+            "lng": 137.9706615701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFYHiK4cOHWARi6tE3m1RYYE",
-    "plus_code": {
-      "compound_code": "6XMC+VR 日本、長野県松本市",
-      "global_code": "8Q8V6XMC+VR"
-    },
-    "types": [
-      "bar",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Storyhouse Cafe & Bar",
+      "photos": [
+        {
+          "height": 1224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110753562609152967794\">The Storyhouse Cafe</a>"
+          ],
+          "photo_reference": "Aap_uEBDAk1NP5am24rky3jzdK57_EpqwOHGHbF8tYZKxwO0TpiWUikOXEcMVqk3afZYW4dhCsWu97hV6zQdCwIagM9xO5987Yh7K8iuy9ZwJWgkBiRKBHbakLtXhlHKgwFAYGYx7xgh0amXBiwdgVCjXD6Mmv5jgxGqbjOvG3a3uiGagp9S",
+          "width": 1632
+        }
+      ],
+      "place_id": "ChIJFYHiK4cOHWARi6tE3m1RYYE",
+      "plus_code": {
+        "compound_code": "6XMC+VR 松本市、長野県",
+        "global_code": "8Q8V6XMC+VR"
+      },
+      "types": [
+        "cafe",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2253 長野県飯山市飯山",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8798219,
-          "lng": 138.3961121
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山",
+      "geometry": {
+        "location": {
+          "lat": 36.85601520000001,
+          "lng": 138.336425
         },
-        "southwest": {
-          "lat": 36.8392628,
-          "lng": 138.274568
+        "viewport": {
+          "northeast": {
+            "lat": 36.8798219,
+            "lng": 138.3961121
+          },
+          "southwest": {
+            "lat": 36.8392628,
+            "lng": 138.274568
+          }
         }
       },
-      "location": {
-        "lat": 36.85601520000001,
-        "lng": 138.336425
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8798219,
-          "lng": 138.3961121
-        },
-        "southwest": {
-          "lat": 36.8392628,
-          "lng": 138.274568
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "飯山",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112539544170991903581\">Wai Ar</a>"
+          ],
+          "photo_reference": "Aap_uECEiFYzFnQBj1GQWeqPv15jvFa1k59ZzSQrOzCW8-Ozrai0qxd75xRe22FVPon-aQj_YJcapHuAvPNY1ryjsquy8qrBaXPC3quBLXHTeUoQ0KRU34DAsueVhXUGpaXPdKhxb8DLqVeL7GgcEglkhlBlOuW13wmbUXqX7nR0aGdUdkSl",
+          "width": 4608
         }
-      }
-    },
-    "place_id": "ChIJyWCvCB0Z9l8RRYu6YJ7q8hs",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJyWCvCB0Z9l8RRYu6YJ7q8hs",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

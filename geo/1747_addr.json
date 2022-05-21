@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５９６",
-        "short_name": "１５９６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１５９６",
-    "geometry": {
-      "location": {
-        "lat": 36.1104514,
-        "lng": 138.2404646
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1121018802915,
-          "lng": 138.2415519302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１５９６",
+      "geometry": {
+        "location": {
+          "lat": 36.1104514,
+          "lng": 138.2404646
         },
-        "southwest": {
-          "lat": 36.1094039197085,
-          "lng": 138.2388539697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.11210272989273,
+            "lng": 138.2415527798927
+          },
+          "southwest": {
+            "lat": 36.10940307010728,
+            "lng": 138.2388531201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJSRmyHoBNHGARW667Y0gIW2w",
-    "plus_code": {
-      "compound_code": "466R+55 長野県立科町",
-      "global_code": "8Q8W466R+55"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-2309 長野県北佐久郡立科町芦田八ケ野１５９６",
+      "place_id": "ChIJSRmyHoBNHGARW667Y0gIW2w",
+      "plus_code": {
+        "compound_code": "466R+55 立科町、長野県",
+        "global_code": "8Q8W466R+55"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

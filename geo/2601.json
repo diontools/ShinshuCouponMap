@@ -1,169 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城６３０５",
+      "geometry": {
+        "location": {
+          "lat": 36.696784,
+          "lng": 137.8637962
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.69801947989272,
+            "lng": 137.8651015798927
+          },
+          "southwest": {
+            "lat": 36.69531982010728,
+            "lng": 137.8624019201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "グラヴィティー・ワークス",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102643300004277134027\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDg2IerBGvoTiy-c9ntLfSn042MtZ5d5Pv0jXWfTRqpCrmGLwCEUaogpT1TshiOrp03YGr10WDllOARkgBTiJbI_yVP1c_5LaUWYw_YQibps0ntFmC-1VMDxV4MbPWal1r8OpTJ4QbZARoyccqXuf7-AWlmacJVkZhiGjbAsLcyo4r2",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "Mビル",
-        "short_name": "Mビル",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJrTtVFgTS918RnXsEHIu4vas",
+      "plus_code": {
+        "compound_code": "MVW7+PG 白馬村、長野県",
+        "global_code": "8Q8VMVW7+PG"
       },
-      {
-        "long_name": "８−４４５",
-        "short_name": "８−４４５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "緑",
-        "short_name": "緑",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "那須塩原市",
-        "short_name": "那須塩原市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "栃木県",
-        "short_name": "栃木県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "329-2713",
-        "short_name": "329-2713",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒329-2713 栃木県那須塩原市緑１丁目８−４４５ Mビル",
-    "geometry": {
-      "location": {
-        "lat": 36.8693173,
-        "lng": 140.0077282
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8705584302915,
-          "lng": 140.0091113302915
-        },
-        "southwest": {
-          "lat": 36.8678604697085,
-          "lng": 140.0064133697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGQqF4u9_H2AR1zVvkrCvH9M",
-    "plus_code": {
-      "compound_code": "V295+P3 栃木県那須塩原市",
-      "global_code": "8R82V295+P3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

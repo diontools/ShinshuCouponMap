@@ -1,89 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４７３０−３",
-        "short_name": "４７３０−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "日義",
-        "short_name": "日義",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6101",
-        "short_name": "399-6101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6101 長野県木曽郡木曽町日義４７３０−３",
-    "geometry": {
-      "location": {
-        "lat": 35.8667517,
-        "lng": 137.7396394
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8680820302915,
-          "lng": 137.7410045302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6101 長野県木曽郡木曽町日義４７７３−３",
+      "geometry": {
+        "location": {
+          "lat": 35.866152,
+          "lng": 137.737769
         },
-        "southwest": {
-          "lat": 35.8653840697085,
-          "lng": 137.7383065697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.86746032989272,
+            "lng": 137.7391106298927
+          },
+          "southwest": {
+            "lat": 35.86476067010727,
+            "lng": 137.7364109701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJj51ZwXPeHGARae0YRR5n8XI",
-    "plus_code": {
-      "compound_code": "VP8Q+PV 長野県木曽町",
-      "global_code": "8Q7VVP8Q+PV"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "こまみ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118415646578581802525\">zongu phoogy</a>"
+          ],
+          "photo_reference": "Aap_uEDsjWXiiiuQo05dgSuWbjeg9inl4d55sRKlgeiTgQkP9Ajwc3lRgbxGmR6aIDM7sfM_Hxcmiv2RIgYN4LMRG91xQXIZ2cwUAl8grFK1MQJ7dp7OYyB3JA_b_HHyCte24ILlekbrvknvFkT_iOSurex_OwEzPZJgrRRKG_K9boUTmK8S",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJT4quC3HeHGARFFTmRotu8hI",
+      "plus_code": {
+        "compound_code": "VP8Q+F3 木曽町、長野県",
+        "global_code": "8Q7VVP8Q+F3"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

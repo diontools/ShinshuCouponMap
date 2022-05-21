@@ -1,93 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６０１",
-        "short_name": "６０１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大島",
-        "short_name": "大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0203",
-        "short_name": "381-0203",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0203 長野県上高井郡小布施町大島６０１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6896288,
-          "lng": 138.2949054
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0203 長野県上高井郡小布施町大島６０１",
+      "geometry": {
+        "location": {
+          "lat": 36.68930599999999,
+          "lng": 138.2947783
         },
-        "southwest": {
-          "lat": 36.6890157,
-          "lng": 138.2946529
+        "viewport": {
+          "northeast": {
+            "lat": 36.69049742989272,
+            "lng": 138.2959286298927
+          },
+          "southwest": {
+            "lat": 36.68779777010728,
+            "lng": 138.2932289701073
+          }
         }
       },
-      "location": {
-        "lat": 36.68930599999999,
-        "lng": 138.2947783
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6906579802915,
-          "lng": 138.2959913302915
-        },
-        "southwest": {
-          "lat": 36.6879600197085,
-          "lng": 138.2932933697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0203 長野県上高井郡小布施町大島６０１",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111469914337628732704\">Masa Naka</a>"
+          ],
+          "photo_reference": "Aap_uEDRXZKrM1QyqQmgRmszHNccjZzlRMCCJj3AkM5pRFDpItXksZORfIR7RnNVc0eVldhC2hdS5hP7-9C7MzvxaMpI8fux724p9rwuHbB2Aa84s80F5DVbJXlS-pQSjLiNief1dTCn5d_C6KHR8Ds8dAPizzhd2THfTG5hxm0XKWt-ocFw",
+          "width": 5333
         }
-      }
-    },
-    "place_id": "ChIJsVNrbT6JHWAR3BbK41mO-KM",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJsVNrbT6JHWAR3BbK41mO-KM",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

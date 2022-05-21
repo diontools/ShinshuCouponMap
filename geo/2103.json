@@ -1,115 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "松本ツーリストホテル",
-        "short_name": "松本ツーリストホテル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２４",
-        "short_name": "２４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志２丁目４−２４ 松本ツーリストホテル 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.2292312,
-        "lng": 137.969602
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2305790802915,
-          "lng": 137.9708471802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志２丁目４−２４ 松本ツーリストホテル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.2292313,
+          "lng": 137.9696121
         },
-        "southwest": {
-          "lat": 36.2278811197085,
-          "lng": 137.9681492197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23057992989271,
+            "lng": 137.9708480298927
+          },
+          "southwest": {
+            "lat": 36.22788027010727,
+            "lng": 137.9681483701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRyjqMI0OHWAReZREPRFmMs8",
-    "plus_code": {
-      "compound_code": "6XH9+MR 日本、長野県松本市",
-      "global_code": "8Q8V6XH9+MR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "手づくり食堂 ぱんぷきん",
+      "photos": [
+        {
+          "height": 1359,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106317839203766622191\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDLA86luCHW68KxygKR23mXra7GTdTuxuQ9sHkoyU-8_mtSmkX-MowCDjbJwcmbJzo32LSb1eu-t_Fi3lS5aiHwiBcYApVX_eHmJGD4afHQccnk22Ql5uVq4zH97LteJYemuc3ryIiPHhlnl5_J86rjxqmiLtuG3pl_nhA8mORZYAk",
+          "width": 2414
+        }
+      ],
+      "place_id": "ChIJRyjqMI0OHWAReZREPRFmMs8",
+      "plus_code": {
+        "compound_code": "6XH9+MR 松本市、長野県",
+        "global_code": "8Q8V6XH9+MR"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

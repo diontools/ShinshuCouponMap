@@ -1,84 +1,80 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "愛宕町",
-        "short_name": "愛宕町",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2253 長野県飯山市飯山 愛宕町",
-    "geometry": {
-      "location": {
-        "lat": 36.8563234,
-        "lng": 138.3621861
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8576697302915,
-          "lng": 138.3635476802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山愛宕町３０５２",
+      "geometry": {
+        "location": {
+          "lat": 36.8556872,
+          "lng": 138.3620768
         },
-        "southwest": {
-          "lat": 36.8549717697085,
-          "lng": 138.3608497197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85703972989272,
+            "lng": 138.3634177298927
+          },
+          "southwest": {
+            "lat": 36.85434007010728,
+            "lng": 138.3607180701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "GOOD MOUNTAINS グッドマウンテンズ",
+      "photos": [
+        {
+          "height": 745,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115598766628593109711\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA9rEKbIofYcqzbhlDkQ6x5XlcPNPh0TSspR2x0Llf6M6hZ5zV-6wEP0ApLmGauZlcLbK0ajlOMW34cNvs6NZOGXUv3CXxreEjWH1yGoc_waTQ9YoWwcoYI-PQWDi6oXixleglhBOEI6YZ-HBrJbrVsv8L0uItMAr_qaxY6ORw0epqs",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJhWNlyjYZ9l8RAzxJPnfJMus",
+      "plus_code": {
+        "compound_code": "V946+7R 飯山市、長野県",
+        "global_code": "8Q8WV946+7R"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ3zkb0iQZ9l8R8DCr7mNQZOM",
-    "plus_code": {
-      "compound_code": "V946+GV 長野県飯山市",
-      "global_code": "8Q8WV946+GV"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "transit_station"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山",
+      "geometry": {
+        "location": {
+          "lat": 36.8563234,
+          "lng": 138.3621861
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.85767057989272,
+            "lng": 138.3635485298927
+          },
+          "southwest": {
+            "lat": 36.85497092010728,
+            "lng": 138.3608488701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "愛宕町",
+      "place_id": "ChIJ3zkb0iQZ9l8R8DCr7mNQZOM",
+      "plus_code": {
+        "compound_code": "V946+GV 飯山市、長野県",
+        "global_code": "8Q8WV946+GV"
+      },
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

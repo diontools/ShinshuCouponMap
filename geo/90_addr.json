@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２３７７−１７",
-        "short_name": "１２３７７−１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "夜間瀬",
-        "short_name": "夜間瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１２３７７−１７",
-    "geometry": {
-      "location": {
-        "lat": 36.7792299,
-        "lng": 138.5291937
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7803302302915,
-          "lng": 138.5303817302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１２３７７−１７",
+      "geometry": {
+        "location": {
+          "lat": 36.7792299,
+          "lng": 138.5291937
         },
-        "southwest": {
-          "lat": 36.7776322697085,
-          "lng": 138.5276837697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.78033107989273,
+            "lng": 138.5303825798927
+          },
+          "southwest": {
+            "lat": 36.77763142010728,
+            "lng": 138.5276829201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ1wkx0jH3HWAR5tJIqjhUKtc",
-    "plus_code": {
-      "compound_code": "QGHH+MM 長野県山ノ内町",
-      "global_code": "8Q8WQGHH+MM"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0405 長野県下高井郡山ノ内町夜間瀬１２３７７−１７",
+      "place_id": "ChIJ1wkx0jH3HWAR5tJIqjhUKtc",
+      "plus_code": {
+        "compound_code": "QGHH+MM 山ノ内町、長野県",
+        "global_code": "8Q8WQGHH+MM"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

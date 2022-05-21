@@ -1,84 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町 長野県長野市末広町１３５６Nac末広 １F",
-    "geometry": {
-      "location": {
-        "lat": 36.643958,
-        "lng": 138.186847
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64537173029149,
-          "lng": 138.1882098802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0825 長野県長野市 長野県長野市末広町１３５６Nac末広 １F",
+      "geometry": {
+        "location": {
+          "lat": 36.643958,
+          "lng": 138.186847
         },
-        "southwest": {
-          "lat": 36.64267376970849,
-          "lng": 138.1855119197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64537257989272,
+            "lng": 138.1882107298927
+          },
+          "southwest": {
+            "lat": 36.64267292010728,
+            "lng": 138.1855110701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO9qWLpOGHWARf2cX1Ks8g0o",
-    "plus_code": {
-      "compound_code": "J5VP+HP 日本、長野県長野市",
-      "global_code": "8Q8WJ5VP+HP"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "kaku.uchi",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104969254961373867152\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDao7-i-spWLDj2GYEWsFH9Sxxk1Yi-XpSyxVkMn2XZY1maGh8yO6wdWgp9UyO_ijSgo-Ir4hrHWEQ8UNCBBnuARTx7EhcoieL1Mo_A-QYYJ7WdsDeWArj4tV02dsTmiBUu5RmqkIoTfskw3JTesRsZOLHnTkycfTOFsDWlEX38OrZs",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJO9qWLpOGHWARf2cX1Ks8g0o",
+      "plus_code": {
+        "compound_code": "J5VP+HP 長野市、長野県",
+        "global_code": "8Q8WJ5VP+HP"
+      },
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

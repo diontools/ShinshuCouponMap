@@ -1,79 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0100",
-        "short_name": "391-0100",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0100 長野県諏訪郡原村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0111 長野県諏訪郡諏訪郡原村上里18101−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9686477,
+          "lng": 138.2414743
         },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+        "viewport": {
+          "northeast": {
+            "lat": 35.96999462989272,
+            "lng": 138.2429106798928
+          },
+          "southwest": {
+            "lat": 35.96729497010728,
+            "lng": 138.2402110201073
+          }
         }
       },
-      "location": {
-        "lat": 35.9644513,
-        "lng": 138.2174935
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
-        },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "たてしな自由農園 原村店",
+      "photos": [
+        {
+          "height": 2999,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107149993884936690501\">Jun Tezuka</a>"
+          ],
+          "photo_reference": "Aap_uED98KpEDlOXiuX0tkOzOPjMZt055J1p1TIowoxjY88Jw_Y6tFKr3r59ydayJIVDAzw54EseT8EyOawZRCCSNWFumA8-Jw0xA94E2NGqT37WACV2EE75VrTSq1oD5hSZQMZHTyCSi6JjOM-TsX_f-gvRfXO1fc0VHApJjdnx-AAkg8Ad",
+          "width": 5334
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMxZWzI1EHGARFpP8Ubkhhpw",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJOcu24dVEHGAR3DEYhTbBz1U",
+      "plus_code": {
+        "compound_code": "X69R+FH 原村、長野県",
+        "global_code": "8Q7WX69R+FH"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

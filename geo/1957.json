@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０９−１",
-        "short_name": "２０９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇２０９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.1836067,
-        "lng": 137.8043174
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1851489302915,
-          "lng": 137.8056884302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1520 長野県松本市安曇２０９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.1836067,
+          "lng": 137.8043174
         },
-        "southwest": {
-          "lat": 36.1824509697085,
-          "lng": 137.8029904697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.18514977989272,
+            "lng": 137.8056892798928
+          },
+          "southwest": {
+            "lat": 36.18245012010728,
+            "lng": 137.8029896201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmQB5Qy0UHWARoq_FroGWW_4",
-    "plus_code": {
-      "compound_code": "5RM3+CP 日本、長野県松本市",
-      "global_code": "8Q8V5RM3+CP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "小木曽屋玄治郎 アルプスの郷店",
+      "photos": [
+        {
+          "height": 1044,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104897647049147464945\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAucoFd7rVSSXlry7kJLCyXFjVPQf8xzRryhxFwccR4tjQVggiSwMlVzg0zz0NE68SEK58CvJRXf5Rx0EKqbds48p2_Q6VlmNSb6_rnTbvmSWEIAQC48ISRXGxJt55nVhCUetK9PoOyYKaK31REvfVGPC4XxbyeorzGR4vzEOQaGTlo",
+          "width": 1568
+        }
+      ],
+      "place_id": "ChIJmQB5Qy0UHWARoq_FroGWW_4",
+      "plus_code": {
+        "compound_code": "5RM3+CP 松本市、長野県",
+        "global_code": "8Q8V5RM3+CP"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

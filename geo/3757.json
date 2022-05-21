@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県飯田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2221 長野県飯田市龍江",
+      "geometry": {
+        "location": {
+          "lat": 35.4423346,
+          "lng": 137.8179907
         },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+        "viewport": {
+          "northeast": {
+            "lat": 35.44373217989272,
+            "lng": 137.8196202298927
+          },
+          "southwest": {
+            "lat": 35.44103252010728,
+            "lng": 137.8169205701073
+          }
         }
       },
-      "location": {
-        "lat": 35.51487,
-        "lng": 137.8217006
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
-        },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "天竜ライン下り 天龍峡温泉港",
+      "photos": [
+        {
+          "height": 3864,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112770476062629159083\">中村一信</a>"
+          ],
+          "photo_reference": "Aap_uEAf1eSqSNS9kV9BLc9PGnu8RYdUZlz3GTT8oezLura04RS7l5GmeNpXbT75YyXXQ52m3vznmJssInSjdPfBrptaEK_vjvpBTpYlJqWSPZkGPVGXuK_AfCr0f77UB9AU3aSacW8vlXNQbZbN_QuVQJ9WrhfIwlnG_MUYa4gbsGWvoKCC",
+          "width": 5152
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNeX_xjSdHGARxqitnTSMRU4",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJcwyOq8yfHGARGtPGJfsiynA",
+      "plus_code": {
+        "compound_code": "CRR9+W5 飯田市、長野県",
+        "global_code": "8Q7VCRR9+W5"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

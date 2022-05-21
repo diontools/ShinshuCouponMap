@@ -1,88 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０４８",
-        "short_name": "１０４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西町",
-        "short_name": "西町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0842",
-        "short_name": "380-0842",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0842 長野県長野市長野西町１０４８",
-    "geometry": {
-      "location": {
-        "lat": 36.6553867,
-        "lng": 138.1863138
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6567319302915,
-          "lng": 138.1877204302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0842 長野県長野市長野西町１０４８",
+      "geometry": {
+        "location": {
+          "lat": 36.6553867,
+          "lng": 138.1863138
         },
-        "southwest": {
-          "lat": 36.6540339697085,
-          "lng": 138.1850224697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65673277989272,
+            "lng": 138.1877212798927
+          },
+          "southwest": {
+            "lat": 36.65403312010728,
+            "lng": 138.1850216201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJpbTCTOSGHWARo3qNHgM9PmM",
-    "plus_code": {
-      "compound_code": "M54P+5G 長野県長野市",
-      "global_code": "8Q8WM54P+5G"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0842 長野県長野市長野西町１０４８",
+      "place_id": "ChIJpbTCTOSGHWARo3qNHgM9PmM",
+      "plus_code": {
+        "compound_code": "M54P+5G 長野市、長野県",
+        "global_code": "8Q8WM54P+5G"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

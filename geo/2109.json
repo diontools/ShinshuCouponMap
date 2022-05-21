@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志３丁目２−５",
-    "geometry": {
-      "location": {
-        "lat": 36.2298803,
-        "lng": 137.9723366
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2312186302915,
-          "lng": 137.9737385302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志３丁目２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.2298803,
+          "lng": 137.9723366
         },
-        "southwest": {
-          "lat": 36.2285206697085,
-          "lng": 137.9710405697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23121947989272,
+            "lng": 137.9737393798927
+          },
+          "southwest": {
+            "lat": 36.22851982010728,
+            "lng": 137.9710397201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJd_aVVOsOHWARzt1lGuydDX0",
-    "plus_code": {
-      "compound_code": "6XHC+XW 日本、長野県松本市",
-      "global_code": "8Q8V6XHC+XW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "parking",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ビストロサンチーム",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110636360512073009113\">ビストロサンチーム</a>"
+          ],
+          "photo_reference": "Aap_uEBIZE_RvXOI4Gjctnj6bFff8KJGo2apDot_KX4jtB9eKxyAV3et2pwZtSC35QqnNBuRHsGDpc1dHUqEJ4ATUpu22zQjmIaH8oVuIS4BHueUci8tSWseAM73Td56lsJW4koZa5SDVFwe90soYjeuwOWJOc-ZV_WQEdjyLyS_9W_y0bcn",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJd_aVVOsOHWARzt1lGuydDX0",
+      "plus_code": {
+        "compound_code": "6XHC+XW 松本市、長野県",
+        "global_code": "8Q8V6XHC+XW"
+      },
+      "types": [
+        "parking",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

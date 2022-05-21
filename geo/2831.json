@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５５２−８",
-        "short_name": "５５５２−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "開田高原末川",
-        "short_name": "開田高原末川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0301",
-        "short_name": "397-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0301 長野県木曽郡木曽町開田高原末川５５５２−８",
-    "geometry": {
-      "location": {
-        "lat": 35.93406179999999,
-        "lng": 137.6324487
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9355387302915,
-          "lng": 137.6336593802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0301 長野県木曽郡木曽町開田高原末川５５５２−８",
+      "geometry": {
+        "location": {
+          "lat": 35.93406179999999,
+          "lng": 137.6324487
         },
-        "southwest": {
-          "lat": 35.9328407697085,
-          "lng": 137.6309614197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.93553957989273,
+            "lng": 137.6336602298927
+          },
+          "southwest": {
+            "lat": 35.93283992010728,
+            "lng": 137.6309605701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2figekMmHWARoy52_YJ4Z3E",
-    "plus_code": {
-      "compound_code": "WJMJ+JX 長野県木曽町",
-      "global_code": "8Q7VWJMJ+JX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "木曽馬の里おみやげお食事センター",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112207345433059124795\">勝已 森岡</a>"
+          ],
+          "photo_reference": "Aap_uECjKITx6zd317E8YxNi7SF3szg1eM6sBSUomaB0fKMl9tsdopTxdV38jjGFnsXhgjZ1fJ75Kb7FHRTgRRg3ZHQXI2iP8HAdGf9jqdAjFOpB0GECDHenJWu4YMFcZtOwCxfMlwQTUJ5MaPZI-1PSUsiZTODCDpt8tfpsjxAIU_3tRfv8",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ2figekMmHWARoy52_YJ4Z3E",
+      "plus_code": {
+        "compound_code": "WJMJ+JX 木曽町、長野県",
+        "global_code": "8Q7VWJMJ+JX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

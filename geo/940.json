@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１９−８",
-        "short_name": "１９−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目１９−８",
-    "geometry": {
-      "location": {
-        "lat": 36.6444999,
-        "lng": 138.1893104
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6458164302915,
-          "lng": 138.1906918802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目１９−８",
+      "geometry": {
+        "location": {
+          "lat": 36.644467,
+          "lng": 138.1893438
         },
-        "southwest": {
-          "lat": 36.6431184697085,
-          "lng": 138.1879939197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64581727989273,
+            "lng": 138.1906927298927
+          },
+          "southwest": {
+            "lat": 36.64311762010728,
+            "lng": 138.1879930701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJff5TvpKGHWARJeEgB7NVmwM",
-    "plus_code": {
-      "compound_code": "J5VQ+QP 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+QP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "大久保西の茶屋 長野駅前店",
+      "photos": [
+        {
+          "height": 2472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106283235197622154433\">重藤正之</a>"
+          ],
+          "photo_reference": "Aap_uEDFnAeW4Q0Ve-4Ir8TeXwE1oT2b5ZC_HQgMVEwY6IOmhA2i1Z9ZOtlb3ji2skY42uYlhM8__UHui-zQ95uMbLIZMubOTFyCVejneuvRumSSNFYupfxd9op1X2PGyvCqe6397DfBV4qshYSwZp0Qlsj1Z2fpHEIucHaDVwE5Lls5l2OM",
+          "width": 3296
+        }
+      ],
+      "place_id": "ChIJff5TvpKGHWARJeEgB7NVmwM",
+      "plus_code": {
+        "compound_code": "J5VQ+QP 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+QP"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

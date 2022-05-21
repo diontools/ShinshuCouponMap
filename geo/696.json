@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５０６",
-        "short_name": "３５０６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠３５０６",
-    "geometry": {
-      "location": {
-        "lat": 36.755959,
-        "lng": 138.0791461
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7572642802915,
-          "lng": 138.0805787802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠３５０６",
+      "geometry": {
+        "location": {
+          "lat": 36.7559731,
+          "lng": 138.079135
         },
-        "southwest": {
-          "lat": 36.7545663197085,
-          "lng": 138.0778808197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.75726512989272,
+            "lng": 138.0805796298927
+          },
+          "southwest": {
+            "lat": 36.75456547010727,
+            "lng": 138.0778799701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpQk9Rr4u9l8Rbix2l5W4zwM",
-    "plus_code": {
-      "compound_code": "Q34H+9M 日本、長野県長野市",
-      "global_code": "8Q8WQ34H+9M"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処 奥社の茶屋",
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108652351353273732968\">Takeshi Watanabe</a>"
+          ],
+          "photo_reference": "Aap_uEDcHHe6E-5TF4MwLS4xj7t1boMQlBmf1OmlgN1ACsHeHWfWA_0F_73b8YTw7bNauimBXplM_1YwjPGKd7nt6anZAY6rvLGIqFIR6hqdHkz1OgC0Ra6krGhYRu1AcVY_MjvDyBziiLV2g46OliABjSAk_dIqGvuzOB0xi8uC6kOtHOCt",
+          "width": 4898
+        }
+      ],
+      "place_id": "ChIJpQk9Rr4u9l8Rbix2l5W4zwM",
+      "plus_code": {
+        "compound_code": "Q34H+9M 長野市、長野県",
+        "global_code": "8Q8WQ34H+9M"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

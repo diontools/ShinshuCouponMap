@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "上穂北",
-        "short_name": "上穂北",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4116",
-        "short_name": "399-4116",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4116 長野県駒ヶ根市上穂北３−１３",
-    "geometry": {
-      "location": {
-        "lat": 35.741381,
-        "lng": 137.9335511
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.74273523029149,
-          "lng": 137.9348316802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4116 長野県駒ヶ根市上穂北３−１３",
+      "geometry": {
+        "location": {
+          "lat": 35.7413814,
+          "lng": 137.9335282
         },
-        "southwest": {
-          "lat": 35.74003726970849,
-          "lng": 137.9321337197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74273607989272,
+            "lng": 137.9348325298927
+          },
+          "southwest": {
+            "lat": 35.74003642010728,
+            "lng": 137.9321328701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJN8Q0g7zyHGARTeMNDWOL8vk",
-    "plus_code": {
-      "compound_code": "PWRM+HC 長野県駒ヶ根市",
-      "global_code": "8Q7VPWRM+HC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "手打ち蕎麦処 なごみ",
+      "photos": [
+        {
+          "height": 1102,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100507661267174016416\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA2YCOedcKkBoSvgHFw6NQx-spZ0VPTS1aiYbZ8DpsregQOJc7l2-2Xr53wdMM1CzJtFW31XQO20nHR8DYCx9Koq_qcV1EmRMfEkudpSl394mQcyLFDWUrPCoQpUdRcfW95VFvmq-WkTInp2KGH5PsZp6_NK4cY20DHa-5FbLojeVpp",
+          "width": 722
+        }
+      ],
+      "place_id": "ChIJN8Q0g7zyHGARTeMNDWOL8vk",
+      "plus_code": {
+        "compound_code": "PWRM+HC 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWRM+HC"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

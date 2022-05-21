@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3964925,
-          "lng": 137.8829953
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明",
+      "geometry": {
+        "location": {
+          "lat": 36.3664174,
+          "lng": 137.8526097
         },
-        "southwest": {
-          "lat": 36.3344046,
-          "lng": 137.7412573
+        "viewport": {
+          "northeast": {
+            "lat": 36.3964925,
+            "lng": 137.8829953
+          },
+          "southwest": {
+            "lat": 36.3344046,
+            "lng": 137.7412573
+          }
         }
       },
-      "location": {
-        "lat": 36.3664174,
-        "lng": 137.8526097
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3964925,
-          "lng": 137.8829953
-        },
-        "southwest": {
-          "lat": 36.3344046,
-          "lng": 137.7412573
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "穂高有明",
+      "photos": [
+        {
+          "height": 1616,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111456671248475647786\">tatsuya Igarashi</a>"
+          ],
+          "photo_reference": "Aap_uEA-WQX7HE2t_BLKByi1DRBcsMkmApgZlnMgZKuo7JmaSKmJHSgwg6QI_znaYm-o3dIV3Hr30-n1mwNyPV0PGiO48P6AqEsOo8uDgrfxoM2AoIL8oR7sTMf8PfguGJwOkNYWXxFf7cJk3pw5vceRvp-hmHjLRV1G7ReYP-7SW-RC1WtG",
+          "width": 1080
         }
-      }
-    },
-    "place_id": "ChIJD0PpyHBoHWARBp2SfSyokPc",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJD0PpyHBoHWARBp2SfSyokPc",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

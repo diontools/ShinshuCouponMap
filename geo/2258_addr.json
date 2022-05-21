@@ -1,111 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目５−１５ 1階",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2336489,
-          "lng": 137.9704467
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目５−１５ クリヴィ レ 増田 ビル 2F",
+      "geometry": {
+        "location": {
+          "lat": 36.233623,
+          "lng": 137.970226
         },
-        "southwest": {
-          "lat": 36.2335204,
-          "lng": 137.9699857
+        "viewport": {
+          "northeast": {
+            "lat": 36.23504117989272,
+            "lng": 137.9715716298927
+          },
+          "southwest": {
+            "lat": 36.23234152010728,
+            "lng": 137.9688719701073
+          }
         }
       },
-      "location": {
-        "lat": 36.233596,
-        "lng": 137.9703445
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23493363029149,
-          "lng": 137.9716077802915
-        },
-        "southwest": {
-          "lat": 36.23223566970849,
-          "lng": 137.9689098197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "エステティックサロンAILE（エール）松本店",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112653176379450946054\">エステティックサロンAILE（エール）松本店</a>"
+          ],
+          "photo_reference": "Aap_uEDgczfggLBmYV4t1ISAKctemoRS0LC5Gb8DtEEe7MXqkKtKzpm7VqT2AljxpmEe5dgckrBRCbALYGfeqHyFWB8Aifao_cfWSGlw7DOr-L9V3Ry5CIK2m2m-ZbQkUNqsodQU6Zi3hWbOkTI0ev2N2ToA6VrGKGHV_6Bi0Dpv8ewjHIYt",
+          "width": 720
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "Ej0x6ZqOLCAyLWNoxY1tZS01LTE1IENoxavFjSwgTWF0c3Vtb3RvLCBOYWdhbm8gMzkwLTA4MTEsIEphcGFuIiAaHgoWChQKEgnnKPkKjg4dYBHNZp-xzVdtIxIEMemajg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJTWP4Co4OHWARJLVGLWL0RQQ",
+      "plus_code": {
+        "compound_code": "6XMC+C3 松本市、長野県",
+        "global_code": "8Q8V6XMC+C3"
+      },
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

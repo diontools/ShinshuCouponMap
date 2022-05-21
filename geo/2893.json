@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６９６",
-        "short_name": "１６９６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "高遠町西高遠",
-        "short_name": "高遠町西高遠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "396-0211",
-        "short_name": "396-0211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒396-0211 長野県伊那市高遠町西高遠１６９６",
-    "geometry": {
-      "location": {
-        "lat": 35.837242,
-        "lng": 138.054851
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8386327802915,
-          "lng": 138.0562326302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0211 長野県伊那市高遠町西高遠１６９６",
+      "geometry": {
+        "location": {
+          "lat": 35.8372424,
+          "lng": 138.0548513
         },
-        "southwest": {
-          "lat": 35.8359348197085,
-          "lng": 138.0535346697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.83863362989271,
+            "lng": 138.0562334798927
+          },
+          "southwest": {
+            "lat": 35.83593397010727,
+            "lng": 138.0535338201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ63jBucb1HGARILyV1y0zHQE",
-    "plus_code": {
-      "compound_code": "R3P3+VW 長野県伊那市",
-      "global_code": "8Q7WR3P3+VW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "壱刻",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101600775031209819095\">浅野朗</a>"
+          ],
+          "photo_reference": "Aap_uEB2GpKbPH4118briarQQXopqnqEvs8um7b4ljikLHMKaulegIXDtqsOl8QO16bV03NDnKar613zzf5Nj96EAMkBnqIUHbeTxbCtaa3Y6JkauQwSRkYwMbxTInbiIP52vYIs5A0X-xAEIhsKwEUW8F_HyxglEYRZ81bCJ-e-d-y5zqg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ63jBucb1HGARILyV1y0zHQE",
+      "plus_code": {
+        "compound_code": "R3P3+VW 伊那市、長野県",
+        "global_code": "8Q7WR3P3+VW"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

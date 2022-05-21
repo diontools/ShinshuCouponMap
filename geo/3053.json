@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４７６３−２",
-        "short_name": "４７６３−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元大島",
-        "short_name": "元大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3303",
-        "short_name": "399-3303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島４７６３−２",
-    "geometry": {
-      "location": {
-        "lat": 35.5966579,
-        "lng": 137.8920318
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5980511802915,
-          "lng": 137.8934262802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島４７６３−２",
+      "geometry": {
+        "location": {
+          "lat": 35.5966579,
+          "lng": 137.8920318
         },
-        "southwest": {
-          "lat": 35.5953532197085,
-          "lng": 137.8907283197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.59805202989272,
+            "lng": 137.8934271298927
+          },
+          "southwest": {
+            "lat": 35.59535237010727,
+            "lng": 137.8907274701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ__8P_VGQHGARtgTEzaQpoG4",
-    "plus_code": {
-      "compound_code": "HVWR+MR 長野県松川町",
-      "global_code": "8Q7VHVWR+MR"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "奥村農園",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108972813960932685946\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBnc7DfP_NqmRpcVWm2wzf-nc0ttrGLapd6o6brRA9LjxWlplFffGOn_EkxfnfeIlq6IzNVJU8Op4MQ4-q2CtWSa-JD3CPyAmTMOc6PpEpmJjOOPwQRN7x8W7XVUPjRtKWCfzQu63henJo4jwGzVU_QjhYwf7yIEz2RJYBPDNmU9VWp",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ__8P_VGQHGARtgTEzaQpoG4",
+      "plus_code": {
+        "compound_code": "HVWR+MR 松川町、長野県",
+        "global_code": "8Q7VHVWR+MR"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

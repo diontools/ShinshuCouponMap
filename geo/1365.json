@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３−５",
-        "short_name": "４３−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "福田",
-        "short_name": "福田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1104",
-        "short_name": "386-1104",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1104 長野県上田市福田４３−５",
-    "geometry": {
-      "location": {
-        "lat": 36.388282,
-        "lng": 138.202804
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3896678802915,
-          "lng": 138.2041461302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1104 長野県上田市福田４３−５",
+      "geometry": {
+        "location": {
+          "lat": 36.3882847,
+          "lng": 138.2028038
         },
-        "southwest": {
-          "lat": 36.3869699197085,
-          "lng": 138.2014481697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.38966872989272,
+            "lng": 138.2041469798928
+          },
+          "southwest": {
+            "lat": 36.38696907010728,
+            "lng": 138.2014473201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVaceF_miHWARyXqfk-7yMuc",
-    "plus_code": {
-      "compound_code": "96Q3+84 日本、長野県上田市",
-      "global_code": "8Q8W96Q3+84"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "浅間観光タクシー 上田営業所",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104634298060345868071\">白岩一馬</a>"
+          ],
+          "photo_reference": "Aap_uEAbNwxDOaE1g1rkY8Dub-k1hzW1qTfmOIOF2IpFXt8wox98rGJJYqkMynlA7aucpp8QhIEQW21ihJ9kFEMkfa9SZ_5p0BD60T_mSO_dfEWffXGam_PqbhM0OdFMm2xoXX7ij8fxbRk0nufBin2JGTJzmHHs-2dgY1kshyRmGdKSSqw5",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJVaceF_miHWARyXqfk-7yMuc",
+      "plus_code": {
+        "compound_code": "96Q3+84 上田市、長野県",
+        "global_code": "8Q8W96Q3+84"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

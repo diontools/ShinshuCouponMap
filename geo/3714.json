@@ -1,91 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６４１−１０",
-        "short_name": "６４１−１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "追手町",
-        "short_name": "追手町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0034",
-        "short_name": "395-0034",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0034 長野県飯田市追手町２丁目６４１−１０",
-    "geometry": {
-      "location": {
-        "lat": 35.5116401,
-        "lng": 137.8330081
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.51297368029149,
-          "lng": 137.8343059802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0034 長野県飯田市追手町２丁目６４１−１０",
+      "geometry": {
+        "location": {
+          "lat": 35.5116401,
+          "lng": 137.8330081
         },
-        "southwest": {
-          "lat": 35.5102757197085,
-          "lng": 137.8316080197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51297452989272,
+            "lng": 137.8343068298927
+          },
+          "southwest": {
+            "lat": 35.51027487010727,
+            "lng": 137.8316071701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "天空の城 三宜亭本館",
+      "photos": [
+        {
+          "height": 1584,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117552155648624346520\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEActfYCcP1IeCdDwZ9y8X6aEjVJDxwr08dVGpcZtUBKYdxwTHOvBbsrIrOv91bAcHrUeSFBKFER_QRRxnBznkzzduB4urJCI2HyVVDH0LBUDco9HRXElEIA85UYsk-o21Aco8yTQfwvwPVlIC6KhHiprNbT2kiC-32g3cRT0GuX-hB-",
+          "width": 2816
+        }
+      ],
+      "place_id": "ChIJRUotMoWZHGAR6WaQdN5fauo",
+      "plus_code": {
+        "compound_code": "GR6M+M6 飯田市、長野県",
+        "global_code": "8Q7VGR6M+M6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJRUotMoWZHGAR6WaQdN5fauo",
-    "plus_code": {
-      "compound_code": "GR6M+M6 長野県飯田市",
-      "global_code": "8Q7VGR6M+M6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0034 長野県飯田市追手町２丁目６４１−１０",
+      "geometry": {
+        "location": {
+          "lat": 35.5118589,
+          "lng": 137.8330926
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.51321652989272,
+            "lng": 137.8343722798927
+          },
+          "southwest": {
+            "lat": 35.51051687010727,
+            "lng": 137.8316726201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "飯田城温泉(日帰り入浴)",
+      "photos": [
+        {
+          "height": 1465,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116218816325002476638\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAlZNuQnoXVoPu9mas8YpxV1X7MqrCaEE5JEgU7SJbp7y36MCnv-_rPEhI_CdNflfoGScxM-jcj5XwMo4mijqkbipgnwDSqoYb5o7eaEW_BZo1Yjo2TAhhw7lZacLb4wOPd8y1n184fXHMrC3QiTUoMTkPgi9Vn9KA9gdvuRBEUAbFr",
+          "width": 2070
+        }
+      ],
+      "place_id": "ChIJSdp2MYWZHGARyDW7o4dc7mg",
+      "plus_code": {
+        "compound_code": "GR6M+P6 飯田市、長野県",
+        "global_code": "8Q7VGR6M+P6"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

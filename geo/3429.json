@@ -1,81 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７２１７−１６３４",
-        "short_name": "１７２１７−１６３４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0114",
-        "short_name": "391-0114",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0114 長野県諏訪郡原村１７２１７−１６３４",
-    "geometry": {
-      "location": {
-        "lat": 35.970766,
-        "lng": 138.2669245
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.97214143029149,
-          "lng": 138.2683362302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0114 長野県諏訪郡原村１７２１７−１６３４",
+      "geometry": {
+        "location": {
+          "lat": 35.9707654,
+          "lng": 138.2669235
         },
-        "southwest": {
-          "lat": 35.96944346970849,
-          "lng": 138.2656382697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.97214227989272,
+            "lng": 138.2683370798927
+          },
+          "southwest": {
+            "lat": 35.96944262010728,
+            "lng": 138.2656374201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJPUJGlS5FHGAR-30dWOnJcy0",
-    "plus_code": {
-      "compound_code": "X7C8+8Q 長野県原村",
-      "global_code": "8Q7WX7C8+8Q"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンションわれもこう",
+      "photos": [
+        {
+          "height": 1496,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102381462589191891971\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDvXewjAKEQ3rKIXp92VLnZAHn4agK0OprTCHMH_L9AQebORnDSkVn387w-4NuTHBNrFOIG9UJRfMzhSAuHrim2ZfKqN6bVHLo179SrkwJRcKxkP-JnhXYrKeTp80vQMH32WZ3i4ZvSlNhOxptBR9CpJJWtCfIWHO4Zwn8qMEcp4u-y",
+          "width": 2256
+        }
+      ],
+      "place_id": "ChIJPUJGlS5FHGAR-30dWOnJcy0",
+      "plus_code": {
+        "compound_code": "X7C8+8Q 原村、長野県",
+        "global_code": "8Q7WX7C8+8Q"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

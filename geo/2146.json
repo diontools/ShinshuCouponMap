@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０５４−１",
-        "short_name": "１０５４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "島立",
-        "short_name": "島立",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0852",
-        "short_name": "390-0852",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0852 長野県松本市島立１０５４−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2363698,
-        "lng": 137.9440436
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2377268802915,
-          "lng": 137.9454999802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0852 長野県松本市島立１０５４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2363698,
+          "lng": 137.9440436
         },
-        "southwest": {
-          "lat": 36.2350289197085,
-          "lng": 137.9428020197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23772772989272,
+            "lng": 137.9455008298927
+          },
+          "southwest": {
+            "lat": 36.23502807010728,
+            "lng": 137.9428011701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNXGjnd8NHWARKe9Qp3plYEg",
-    "plus_code": {
-      "compound_code": "6WPV+GJ 日本、長野県松本市",
-      "global_code": "8Q8V6WPV+GJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カレーハウスCoCo壱番屋 松本合庁前店",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110005501748734909592\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAA2-gsFgHEXyN0QJQvS8sFty91zJaCc0UakHoRAlxeaMnEGU8u1ku20aI0G01By5DmYbPApiM0Bl4cRlbsYT-REQW-jlpBYvIep_26p6-80R7adQ9w9ySvVUi-BWo1t_6FPDZqEZmxQ_u1jn6DPhWlUSJFyCZX7fA1ptYUxgMnuloh",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJNXGjnd8NHWARKe9Qp3plYEg",
+      "plus_code": {
+        "compound_code": "6WPV+GJ 松本市、長野県",
+        "global_code": "8Q8V6WPV+GJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,93 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2f",
-        "short_name": "2f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "２３４４−３",
-        "short_name": "２３４４−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0012",
-        "short_name": "392-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0012 長野県諏訪市四賀２３４４−３ 2f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0138881,
-          "lng": 138.1266066
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0012 長野県諏訪市四賀２３４４−３",
+      "geometry": {
+        "location": {
+          "lat": 36.0138445,
+          "lng": 138.1265851
         },
-        "southwest": {
-          "lat": 36.0137951,
-          "lng": 138.1264851
+        "viewport": {
+          "northeast": {
+            "lat": 36.01521432989271,
+            "lng": 138.1279786298927
+          },
+          "southwest": {
+            "lat": 36.01251467010727,
+            "lng": 138.1252789701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0138414,
-        "lng": 138.1265472
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.01520413029149,
-          "lng": 138.1279507802915
-        },
-        "southwest": {
-          "lat": 36.0125061697085,
-          "lng": 138.1252528197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "たつじん",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100840461038043361644\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAADApdiDNDNvVmcMZxpl710YU9qQbTTz_E_SFEbdi5CPJMiMp5guG6n2ELRe-_rs2zKuECYTP6nzLc0FIU3V3Oskj59JQ8R4sSPtd5CnWC_VQTFfRQhE6ukPbSYP1mVsltccqUqwwhklnAhVNUiP-rqCvPLwlBgx_hf6IT-NjM936B",
+          "width": 1477
         }
-      }
+      ],
+      "place_id": "ChIJny1jlI5WHGAREF_9G8ovRjE",
+      "plus_code": {
+        "compound_code": "247G+GJ 諏訪市、長野県",
+        "global_code": "8Q8W247G+GJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "Ei4yZiwgMjM0NC0zIFNoaWdhLCBTdXdhLCBOYWdhbm8gMzkyLTAwMTIsIEphcGFuIh4aHAoWChQKEgnrwH2UjlYcYBF4vf4ikv1DdhICMmY",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0012 長野県諏訪市大字四賀２３４４−３ フジモリビル2階",
+      "geometry": {
+        "location": {
+          "lat": 36.0138985,
+          "lng": 138.1265253
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.01528002989272,
+            "lng": 138.1279579798927
+          },
+          "southwest": {
+            "lat": 36.01258037010728,
+            "lng": 138.1252583201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "信州みそホルモンNIKAI",
+      "photos": [
+        {
+          "height": 700,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110631204946218758197\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAOEl51YmG2LKvq-k5cWmPqYhcKIyRsdGbblUkg4cwYD4KQm3XvxckTjtiMo5G2PkgGeOHA09PcfjUnij3tI5T0pyYnMkbjJ1S7SYLFHjxRRXk2zW_789K4FE-kMrgAvhbubSGETENvArrL9kQavlk22XZz7_HEHe1BicbrX2kupmSg",
+          "width": 1242
+        }
+      ],
+      "place_id": "ChIJ7a3SqUNXHGARcWX_H9v3ig4",
+      "plus_code": {
+        "compound_code": "247G+HJ 諏訪市、長野県",
+        "global_code": "8Q8W247G+HJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

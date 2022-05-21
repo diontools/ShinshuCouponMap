@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３０１１",
-        "short_name": "２３０１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平２３０１１",
-    "geometry": {
-      "location": {
-        "lat": 36.5937121,
-        "lng": 137.8504183
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5950968802915,
-          "lng": 137.8516974302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒398-0001 長野県大町市平２３０１１",
+      "geometry": {
+        "location": {
+          "lat": 36.5937121,
+          "lng": 137.8504183
         },
-        "southwest": {
-          "lat": 36.5923989197085,
-          "lng": 137.8489994697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.59509772989271,
+            "lng": 137.8516982798927
+          },
+          "southwest": {
+            "lat": 36.59239807010727,
+            "lng": 137.8489986201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ_5QW8LHZ918RsafclsrTJ7g",
-    "plus_code": {
-      "compound_code": "HVV2+F5 長野県大町市",
-      "global_code": "8Q8VHVV2+F5"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒398-0001 長野県大町市平２３０１１",
+      "place_id": "ChIJ_5QW8LHZ918RsafclsrTJ7g",
+      "plus_code": {
+        "compound_code": "HVV2+F5 大町市、長野県",
+        "global_code": "8Q8VHVV2+F5"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

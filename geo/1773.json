@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７４５",
-        "short_name": "７４５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野７４５",
-    "geometry": {
-      "location": {
-        "lat": 36.1293866,
-        "lng": 138.2727375
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1308040802915,
-          "lng": 138.2738816302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野７４５",
+      "geometry": {
+        "location": {
+          "lat": 36.1294167,
+          "lng": 138.2726604
         },
-        "southwest": {
-          "lat": 36.12810611970851,
-          "lng": 138.2711836697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13080492989273,
+            "lng": 138.2738824798927
+          },
+          "southwest": {
+            "lat": 36.12810527010728,
+            "lng": 138.2711828201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYbwkcslNHGARj-8-0eN4C3c",
-    "plus_code": {
-      "compound_code": "47HF+Q3 日本、長野県立科町",
-      "global_code": "8Q8W47HF+Q3"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "(一社)信州たてしな観光協会",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108079254078833695133\">運転太郎</a>"
+          ],
+          "photo_reference": "Aap_uEA1EIrZ6uWI7nNyiS9U7VBEoyOdF0ca6o4nvMKmocjQs3gRnJqjs_WtnQNYUlbCuz5NxkzUTheSbhE9Jh2nqe9T1zrNIcBiQnotqdaONMYUZBmRFobWNLQrdmr9fuxneaYpTkYcvvqQkJMO4Bz_Ih2deUL_woZ1Nseecp3dl2jD7fQs",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJYbwkcslNHGARj-8-0eN4C3c",
+      "plus_code": {
+        "compound_code": "47HF+Q3 立科町、長野県",
+        "global_code": "8Q8W47HF+Q3"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

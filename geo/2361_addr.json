@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３６７",
-        "short_name": "６３６７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "常盤",
-        "short_name": "常盤",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0004",
-        "short_name": "398-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0004 長野県大町市常盤６３６７",
-    "geometry": {
-      "location": {
-        "lat": 36.4611447,
-        "lng": 137.8609891
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4624560802915,
-          "lng": 137.8625815802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒398-0004 長野県大町市常盤６３６７",
+      "geometry": {
+        "location": {
+          "lat": 36.4611447,
+          "lng": 137.8609891
         },
-        "southwest": {
-          "lat": 36.4597581197085,
-          "lng": 137.8598836197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.46245692989272,
+            "lng": 137.8625824298927
+          },
+          "southwest": {
+            "lat": 36.45975727010728,
+            "lng": 137.8598827701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ0Xk0VjhkHWAR3rnoX5WAUoQ",
-    "plus_code": {
-      "compound_code": "FV66+F9 長野県大町市",
-      "global_code": "8Q8VFV66+F9"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒398-0004 長野県大町市常盤６３６７",
+      "place_id": "ChIJ0Xk0VjhkHWAR3rnoX5WAUoQ",
+      "plus_code": {
+        "compound_code": "FV66+F9 大町市、長野県",
+        "global_code": "8Q8VFV66+F9"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

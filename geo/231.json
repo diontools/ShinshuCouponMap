@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９３０４",
-        "short_name": "９３０４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９３０４",
-    "geometry": {
-      "location": {
-        "lat": 36.9244533,
-        "lng": 138.4486527
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.92583508029149,
-          "lng": 138.4500008802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９３０４",
+      "geometry": {
+        "location": {
+          "lat": 36.9244533,
+          "lng": 138.4486527
         },
-        "southwest": {
-          "lat": 36.92313711970849,
-          "lng": 138.4473029197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92583592989271,
+            "lng": 138.4500017298927
+          },
+          "southwest": {
+            "lat": 36.92313627010727,
+            "lng": 138.4473020701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGdeCoy8F9l8RbLJ5BHFPxYM",
-    "plus_code": {
-      "compound_code": "WCFX+QF 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCFX+QF"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "黄金屋物産店",
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113791831584067002038\">三橋練一</a>"
+          ],
+          "photo_reference": "Aap_uEAjWUB2BFnoD8CwDbO24n7tUEAsgl_pLR2JnJCryqlHQoq-AkeoKQ7Na_YQCgGemGS8sOgi-D3QGhnEjta_jc1fx1PgTdn3FEVQycTh_xc32yI5Up6i9RoRjvTIccmNr9Y1n4hwUPBUhMwFOSg-JYC4rhriClLsjKNBg-aiJU1dee56",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJGdeCoy8F9l8RbLJ5BHFPxYM",
+      "plus_code": {
+        "compound_code": "WCFX+QF 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+QF"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南箕輪村",
-        "short_name": "南箕輪村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4511",
-        "short_name": "399-4511",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.925569,
-          "lng": 137.9937315
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村２３５８−５",
+      "geometry": {
+        "location": {
+          "lat": 35.88490480000001,
+          "lng": 137.9425711
         },
-        "southwest": {
-          "lat": 35.8500548,
-          "lng": 137.8472306
+        "viewport": {
+          "northeast": {
+            "lat": 35.8963802,
+            "lng": 137.95417815
+          },
+          "southwest": {
+            "lat": 35.8735178,
+            "lng": 137.92991355
+          }
         }
       },
-      "location": {
-        "lat": 35.8729101,
-        "lng": 137.9750145
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.925569,
-          "lng": 137.9937315
-        },
-        "southwest": {
-          "lat": 35.8500548,
-          "lng": 137.8472306
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "信州大芝高原",
+      "photos": [
+        {
+          "height": 4640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104467632841524788936\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBobN1MoMczHSI16bTwzI_yThlvKL5Vnt6xsGa7EuHLyj6X6YZD6j9dxeRQVP7AXPTtjgHKjxRppbsW6aCNpL3jEvW6ZfILOjzV5hBB_0BIfLwiZoV_5g6UMPdvnFskpNEYDQgBbnNIztHQd_6l8fGtPXjtjc9rnyXaDEmAOhNrnBsD",
+          "width": 3472
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYfUVlDTlHGARJBzLkQf_xZo",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ7W0aw5f6HGARF_a7K3q7_fM",
+      "plus_code": {
+        "compound_code": "VWMV+X2 南箕輪村、長野県",
+        "global_code": "8Q7VVWMV+X2"
+      },
+      "types": [
+        "park",
+        "rv_park",
+        "tourist_attraction",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

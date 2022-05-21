@@ -1,103 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "スタカ湖キャンプ場",
-        "short_name": "スタカ湖キャンプ場",
-        "types": [
-          "campground",
-          "establishment",
-          "lodging",
-          "park",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "８３６６",
-        "short_name": "８３６６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷８３６６ スタカ湖キャンプ場",
-    "geometry": {
-      "location": {
-        "lat": 36.9169163,
-        "lng": 138.4894607
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9182540302915,
-          "lng": 138.4908110802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷８３６６",
+      "geometry": {
+        "location": {
+          "lat": 36.9169163,
+          "lng": 138.4894607
         },
-        "southwest": {
-          "lat": 36.9155560697085,
-          "lng": 138.4881131197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.91825487989273,
+            "lng": 138.4908119298927
+          },
+          "southwest": {
+            "lat": 36.91555522010729,
+            "lng": 138.4881122701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJN0bRNesE9l8RBmKVuympKoI",
-    "plus_code": {
-      "compound_code": "WF8Q+QQ 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWF8Q+QQ"
-    },
-    "types": [
-      "campground",
-      "establishment",
-      "lodging",
-      "park",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "スタカ湖キャンプ場",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100969849923671628744\">Hiromichi Tsutsumi</a>"
+          ],
+          "photo_reference": "Aap_uEDgN9JJL20JNwHTKtDsl4WkIePkMDDufRtPv0gFFPaq1lQOMO7tE3gKx-GT5wMYq2QFxC1m7oHWfXzjl85eVL3c4jMfj1S22J4N7eEV2FknFNIchVQod6W7Q1ddM2Fqyw2isCqcEIHqn6KHPY4DLI-FkzjtH5gj7hUWe7NWLlgCZXMW",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJN0bRNesE9l8RBmKVuympKoI",
+      "plus_code": {
+        "compound_code": "WF8Q+QQ 野沢温泉村、長野県",
+        "global_code": "8Q8WWF8Q+QQ"
+      },
+      "types": [
+        "campground",
+        "park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

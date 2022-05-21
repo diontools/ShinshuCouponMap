@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "末広",
-        "short_name": "末広",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0025",
-        "short_name": "392-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0025 長野県諏訪市末広１−１０ 末広1-10 1F",
-    "geometry": {
-      "location": {
-        "lat": 36.043947,
-        "lng": 138.117755
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04531688029149,
-          "lng": 138.1191167302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0025 長野県諏訪市末広１−１０ 末広1-10 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.0439427,
+          "lng": 138.1177484
         },
-        "southwest": {
-          "lat": 36.0426189197085,
-          "lng": 138.1164187697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04531772989272,
+            "lng": 138.1191175798928
+          },
+          "southwest": {
+            "lat": 36.04261807010727,
+            "lng": 138.1164179201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmQDVaLVVHGAR0xpW143Vt-A",
-    "plus_code": {
-      "compound_code": "24V9+H4 長野県諏訪市",
-      "global_code": "8Q8W24V9+H4"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "night_club",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "JERRY",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">nori baba</a>"
+          ],
+          "photo_reference": "Aap_uEAbeN-F2IVapFRdxdPB7qG9-Hy4_w5aX4rjLOaw72TE-u5hUNR5OIpw9LP5a2q9x60eQJoQpWemqmedlfNXJY1jndtbCbCCWesTTsor8SdK_Nxbi-8G1WIEJEnoeANduyBxeubNypimrYXmV8hxF-mHJSkegL5j-CyYrAAtxX3cN5eq",
+          "width": 1365
+        }
+      ],
+      "place_id": "ChIJmQDVaLVVHGAR0xpW143Vt-A",
+      "plus_code": {
+        "compound_code": "24V9+H4 諏訪市、長野県",
+        "global_code": "8Q8W24V9+H4"
+      },
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

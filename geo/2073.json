@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４６",
-        "short_name": "２４６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "保福寺町",
-        "short_name": "保福寺町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-7412",
-        "short_name": "399-7412",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-7412 長野県松本市保福寺町２４６",
-    "geometry": {
-      "location": {
-        "lat": 36.3127053,
-        "lng": 138.0294614
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3141016302915,
-          "lng": 138.0306338302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-7412 長野県松本市保福寺町２４６",
+      "geometry": {
+        "location": {
+          "lat": 36.3127053,
+          "lng": 138.0294614
         },
-        "southwest": {
-          "lat": 36.3114036697085,
-          "lng": 138.0279358697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31410247989271,
+            "lng": 138.0306346798927
+          },
+          "southwest": {
+            "lat": 36.31140282010727,
+            "lng": 138.0279350201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJDekHuqkLHWAR5lFGz8hu7Bs",
-    "plus_code": {
-      "compound_code": "827H+3Q 日本、長野県松本市",
-      "global_code": "8Q8W827H+3Q"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Satoyama villa 本陣",
+      "photos": [
+        {
+          "height": 3078,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107663147696818963496\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAwdm_bnJTOcmosTH-W0gCKhPHMHPts3O2Nyt_zRRHF_Jxyf6ZOSjs-unmnLIdahT1CCf4-f7NvaXkYwdjtTCl-ml9olPULSbt_vH0JzEmHrxDcCHhYul7hWhTYxLXPEZ7UI0j1cqkZLl9S_kkyaFkou4VU9M7Uo_xWGrariqpdphz_",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJDekHuqkLHWAR5lFGz8hu7Bs",
+      "plus_code": {
+        "compound_code": "827H+3Q 松本市、長野県",
+        "global_code": "8Q8W827H+3Q"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

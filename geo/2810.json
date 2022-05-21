@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡南木曽町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.6906197,
-          "lng": 137.7295974
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5303 長野県木曽郡南木曽町郡 町田立222",
+      "geometry": {
+        "location": {
+          "lat": 35.5916646,
+          "lng": 137.557047
         },
-        "southwest": {
-          "lat": 35.5087583,
-          "lng": 137.5093811
+        "viewport": {
+          "northeast": {
+            "lat": 35.59297147989273,
+            "lng": 137.5583896798927
+          },
+          "southwest": {
+            "lat": 35.59027182010728,
+            "lng": 137.5556900201072
+          }
         }
       },
-      "location": {
-        "lat": 35.6038071,
-        "lng": 137.6089611
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6906197,
-          "lng": 137.7295974
-        },
-        "southwest": {
-          "lat": 35.5087583,
-          "lng": 137.5093811
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "まるさんかくしかく",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103944389920291141711\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAc7_tEB3UGlQu4sDjtJvN5GJ6kInfoUFDaVVFMFMCLkpH5x7lKkhxlKQqzQ56Op2-WO9Rk5NdIncFtRTtGdf2yArwWvgHWAvOT9R0hNf5ce69Q_3BJao7tz9wRj5P6ZsMMJ9g2E5eVK3x3Xn0MfY8Cj3CrWNNYe7gnbj1McCcaMBcL",
+          "width": 5140
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoUSzovHHHGARZ3_HfsiFTSo",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJV5b5LFXJHGAR3k2ueIigsBQ",
+      "plus_code": {
+        "compound_code": "HHR4+MR 南木曽町、長野県",
+        "global_code": "8Q7VHHR4+MR"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

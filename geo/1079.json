@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４７−１",
-        "short_name": "１４７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "協和",
-        "short_name": "協和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2204",
-        "short_name": "384-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2204 長野県佐久市協和１４７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2640113,
-        "lng": 138.3542985
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2654173802915,
-          "lng": 138.3557533802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2204 長野県佐久市協和１４７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2640316,
+          "lng": 138.3543389
         },
-        "southwest": {
-          "lat": 36.2627194197085,
-          "lng": 138.3530554197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26541822989272,
+            "lng": 138.3557542298927
+          },
+          "southwest": {
+            "lat": 36.26271857010727,
+            "lng": 138.3530545701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJP1UX6Cu0HWARtQ7RCvLGGFQ",
-    "plus_code": {
-      "compound_code": "7973+JP 日本、長野県佐久市",
-      "global_code": "8Q8W7973+JP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "天船",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107236827147540460109\">高橋正己</a>"
+          ],
+          "photo_reference": "Aap_uEC_4MVmUmHxtSpErU9OTvYCa4IexVF95HYb7G3snHDYs0OaAW7NeYSUE1K9n6LDjzP8y22YFFu9wR-o1X0nmJiu-grrSH3F9_XQuAaHWV9tih_fQ7mOswaqm9cRGGEN33CHnMFywOPDZjVjcRWXP3-t8LBHuZi0VaJVGKjTRm5pd1e6",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJP1UX6Cu0HWARtQ7RCvLGGFQ",
+      "plus_code": {
+        "compound_code": "7973+JP 佐久市、長野県",
+        "global_code": "8Q8W7973+JP"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

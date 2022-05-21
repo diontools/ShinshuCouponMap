@@ -1,72 +1,88 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城",
+      "geometry": {
+        "location": {
+          "lat": 36.7019841,
+          "lng": 137.8369446
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.70342907989272,
+            "lng": 137.8384018298927
+          },
+          "southwest": {
+            "lat": 36.70072942010727,
+            "lng": 137.8357021701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "白馬八方尾根スキー場",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114619460991909255701\">Tree Frog</a>"
+          ],
+          "photo_reference": "Aap_uED8M-7h-0UurgPSYE9ABOEbjOo8yG20la3WGUMOtRGuXigOSksAyxRswQ3wXWUTHckhUz6UuwRtwWPSB9lOzV4PTfAcqAvryUKD44uM9sfe2Atl4GsVgj9K5i8zmya30WL87sS7phcSRRGdCWKYLt87tULLEhErfSKLEroKeo9nDd1b",
+          "width": 5472
         }
-      }
+      ],
+      "place_id": "ChIJnSNvHAnO918RR59j-Pg3h7o",
+      "plus_code": {
+        "compound_code": "PR2P+QQ 白馬村、長野県",
+        "global_code": "8Q8VPR2P+QQ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４２５８",
+      "geometry": {
+        "location": {
+          "lat": 36.701868,
+          "lng": 137.8373089
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.70327362989273,
+            "lng": 137.8387257298927
+          },
+          "southwest": {
+            "lat": 36.70057397010729,
+            "lng": 137.8360260701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "白馬観光開発 八方営業所",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110760982771349245042\">長崎金道</a>"
+          ],
+          "photo_reference": "Aap_uECulDNYm4gyI3IyLvBq8EiX5qyB069I2Esn7j0x5vZELeanV1vUhinTRY7Jgy0e7iD8-4v0bzgoXlwVoRp6sA49E_eRIxfw4O-YIvv-Or9fh-3SG3LVuGikZgE_ZbAGmvLm4dPKJTzK5urxXnR03IeZFZ7gVx6f62v0g2C7UJL3M4zp",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJlw1hHAnO918RnN2zD1aUNhY",
+      "plus_code": {
+        "compound_code": "PR2P+PW 白馬村、長野県",
+        "global_code": "8Q8VPR2P+PW"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

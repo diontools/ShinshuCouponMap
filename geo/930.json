@@ -1,115 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１Ｆ",
-        "short_name": "１Ｆ",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "梅豊ビル",
-        "short_name": "梅豊ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目６−１ 梅豊ビル １Ｆ",
-    "geometry": {
-      "location": {
-        "lat": 36.6461868,
-        "lng": 138.189392
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6475827302915,
-          "lng": 138.1907481302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目６−１ 梅豊ビル １Ｆ",
+      "geometry": {
+        "location": {
+          "lat": 36.6461918,
+          "lng": 138.1893931
         },
-        "southwest": {
-          "lat": 36.6448847697085,
-          "lng": 138.1880501697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64758357989272,
+            "lng": 138.1907489798928
+          },
+          "southwest": {
+            "lat": 36.64488392010728,
+            "lng": 138.1880493201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJg7mGW-2GHWARsUrd26zLnS8",
-    "plus_code": {
-      "compound_code": "J5WQ+FQ 日本、長野県長野市",
-      "global_code": "8Q8WJ5WQ+FQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ふく八",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101360989494738338011\">furi chan</a>"
+          ],
+          "photo_reference": "Aap_uED5AUMlHNoqA-bLR4KuJiq3K9vHWxLYa0Hznykf_HOBybImEMLG28ntQu9x5bOqpINQAg7rgYAStoCOD51jQG3Puvy_ETELgMcvwDC3ZwIFdtyMVK7qAqGRTz1XXnXxIM1uUNwRU44ibHT2WEaxOa5ICOAnNhV-z6j6z_WfjQst9X6p",
+          "width": 1616
+        }
+      ],
+      "place_id": "ChIJg7mGW-2GHWARsUrd26zLnS8",
+      "plus_code": {
+        "compound_code": "J5WQ+FQ 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+FQ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

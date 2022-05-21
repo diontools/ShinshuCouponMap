@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４−８",
-        "short_name": "３４−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中町",
-        "short_name": "中町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町中町３４−８",
-    "geometry": {
-      "location": {
-        "lat": 36.6957674,
-        "lng": 138.3194228
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69710028029151,
-          "lng": 138.3207282302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町中町３４−８",
+      "geometry": {
+        "location": {
+          "lat": 36.6957738,
+          "lng": 138.3193738
         },
-        "southwest": {
-          "lat": 36.69440231970851,
-          "lng": 138.3180302697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69710112989273,
+            "lng": 138.3207290798927
+          },
+          "southwest": {
+            "lat": 36.69440147010729,
+            "lng": 138.3180294201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJh1MEDOKLHWARqngm2vbOZps",
-    "plus_code": {
-      "compound_code": "M8W9+8Q 日本、長野県小布施町",
-      "global_code": "8Q8WM8W9+8Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "小布施の宿 フランス食堂 ヴァンヴェール",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100900026295184638073\">小布施の宿 ヴァンヴェール</a>"
+          ],
+          "photo_reference": "Aap_uEBJpcxCDz8nFx8HuD5HtLxf3vc4W8w_Sb5oDu5JEcjuEvfsSJr83pxLDledmzrxx0oakJBbqXfkAl9tb4BxAFzb3x0AQYEgDTHiclY1iB9Hnaf-JH3TDqZ1TwL385I5U8isLkiBolQeI8INYfILh32lZWrurcTIUA1lHGAj6mA3kFbO",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJh1MEDOKLHWARqngm2vbOZps",
+      "plus_code": {
+        "compound_code": "M8W9+8Q 小布施町、長野県",
+        "global_code": "8Q8WM8W9+8Q"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

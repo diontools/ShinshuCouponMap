@@ -1,99 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１９４番地",
-        "short_name": "１１９４番地",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "雁田",
-        "short_name": "雁田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0211",
-        "short_name": "381-0211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0211 長野県上高井郡小布施町雁田１１９４番地",
-    "geometry": {
-      "location": {
-        "lat": 36.6878631,
-        "lng": 138.3276608
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6891726802915,
-          "lng": 138.3288298802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0211 長野県上高井郡小布施町雁田１１９４番地",
+      "geometry": {
+        "location": {
+          "lat": 36.687846,
+          "lng": 138.3276259
         },
-        "southwest": {
-          "lat": 36.6864747197085,
-          "lng": 138.3261319197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.68917352989273,
+            "lng": 138.3288307298928
+          },
+          "southwest": {
+            "lat": 36.68647387010729,
+            "lng": 138.3261310701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJXx2NRviLHWARWe8H8Qkg2eE",
-    "plus_code": {
-      "compound_code": "M8QH+43 日本、長野県小布施町",
-      "global_code": "8Q8WM8QH+43"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "おぶせ温泉 穴観音の湯",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104387899239826790223\">毅彦内山</a>"
+          ],
+          "photo_reference": "Aap_uEBJCNc5Hsx6P5AxmLGnzabKdlSIE7qW2nkDSvBubvo1PNGmgOJrbsyUrK_I7dgRUlOD8VIyoSp3hOVSCLzOkOcv1ehYpKp3VH8rB4PfEuscDa8JNH1loGR-cj3NMjBCmlsso8C9dXAE72LJqZxdBqV7YElBp9g5iuDXTRBq9xOaPuK7",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJXx2NRviLHWARWe8H8Qkg2eE",
+      "plus_code": {
+        "compound_code": "M8QH+43 小布施町、長野県",
+        "global_code": "8Q8WM8QH+43"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

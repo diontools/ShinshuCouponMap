@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "霧ケ峰高原車山肩",
-        "short_name": "霧ケ峰高原車山肩",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0003",
-        "short_name": "392-0003",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0003 長野県諏訪市四賀 霧ケ峰高原車山肩",
-    "geometry": {
-      "location": {
-        "lat": 36.10423,
-        "lng": 138.187387
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1056259302915,
-          "lng": 138.1886788802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0003 長野県諏訪市 霧ケ峰高原車山肩",
+      "geometry": {
+        "location": {
+          "lat": 36.10423,
+          "lng": 138.187387
         },
-        "southwest": {
-          "lat": 36.1029279697085,
-          "lng": 138.1859809197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10562677989272,
+            "lng": 138.1886797298928
+          },
+          "southwest": {
+            "lat": 36.10292712010728,
+            "lng": 138.1859800701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJcbTFqxdTHGARJwRID39qBcA",
-    "plus_code": {
-      "compound_code": "453P+MX 長野県諏訪市",
-      "global_code": "8Q8W453P+MX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "チャプリン",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115505742261339526252\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAWHOt9hhDYPlTeDtBFE_R6wH5Do26Yn4grchu12MN-ooVrFavHgOuc0IhIuZXaQ-BklqEbMUf0L-bb5_wfOxzyEDYOstaBN-QKtnsUu8NdzZspD-fPbJuJPYJBZUTIqMHSCQxD1cFQ42ROBQUx-pLZITa5e4iMckMeX9CbbKiqzjoh",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJcbTFqxdTHGARJwRID39qBcA",
+      "plus_code": {
+        "compound_code": "453P+MX 諏訪市、長野県",
+        "global_code": "8Q8W453P+MX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

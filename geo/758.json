@@ -1,92 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "昌栄高速運輸",
-        "short_name": "昌栄高速運輸",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２５",
-        "short_name": "２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神明",
-        "short_name": "神明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "388-8020",
-        "short_name": "388-8020",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒388-8020 長野県長野市神明２５ 昌栄高速運輸",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5901506,
-          "lng": 138.1803679
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒388-8020 長野県長野市神明２５ 昌栄高速運輸",
+      "geometry": {
+        "location": {
+          "lat": 36.5900856,
+          "lng": 138.1803139
         },
-        "southwest": {
-          "lat": 36.5900298,
-          "lng": 138.1802758
+        "viewport": {
+          "northeast": {
+            "lat": 36.59143357989272,
+            "lng": 138.1815567798928
+          },
+          "southwest": {
+            "lat": 36.58873392010728,
+            "lng": 138.1788571201073
+          }
         }
       },
-      "location": {
-        "lat": 36.5900856,
-        "lng": 138.1803139
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.59143918029149,
-          "lng": 138.1815829302915
-        },
-        "southwest": {
-          "lat": 36.5887412197085,
-          "lng": 138.1788849697085
-        }
-      }
-    },
-    "place_id": "ChIJ4Ut8zV-EHWARepquATBYoA0",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "昌栄高速運輸",
+      "place_id": "ChIJ4Ut8zV-EHWARepquATBYoA0",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

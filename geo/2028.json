@@ -1,64 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0812 長野県松本市県１丁目１６−５",
+      "geometry": {
+        "location": {
+          "lat": 36.2349971,
+          "lng": 137.9800718
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23634727989273,
+            "lng": 137.9813859798927
+          },
+          "southwest": {
+            "lat": 36.23364762010728,
+            "lng": 137.9786863201072
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "レストラン マンマミーア 松本店",
+      "photos": [
+        {
+          "height": 382,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103751755458142234731\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECYT1VE4G_pVrA85rFNLO2SRwGkwiO2M4-_bDALjVLE2MfgawR9uM6JRzflI03OSBn8NKHzKFQ7yJj403Yt5c5Rz4Y0KDfW6apyWg6ALILHt0hd7eGkCRpcge1gVymTASQETxZsAK2DG4uh4Rn_xemPPMv2koyXQEvats4Uxwgp1-ri",
+          "width": 1400
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJWbaAcpUOHWAR1DKHI4AyKiE",
+      "plus_code": {
+        "compound_code": "6XMJ+X3 松本市、長野県",
+        "global_code": "8Q8V6XMJ+X3"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

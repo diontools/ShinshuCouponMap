@@ -1,72 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡木島平村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8948837,
-          "lng": 138.5555357
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.8522566,
+          "lng": 138.3885353
         },
-        "southwest": {
-          "lat": 36.7934872,
-          "lng": 138.3841393
+        "viewport": {
+          "northeast": {
+            "lat": 36.85348142989272,
+            "lng": 138.3899209798927
+          },
+          "southwest": {
+            "lat": 36.85078177010728,
+            "lng": 138.3872213201073
+          }
         }
       },
-      "location": {
-        "lat": 36.8585206,
-        "lng": 138.4066807
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8948837,
-          "lng": 138.5555357
-        },
-        "southwest": {
-          "lat": 36.7934872,
-          "lng": 138.3841393
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2303 長野県下高井郡木島平村上木島３８−１",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111469914337628732704\">Masa Naka</a>"
+          ],
+          "photo_reference": "Aap_uEAT5FB7XSTIJQhx5TrxtVxD_0OCh_2a-_O-K7jooYlcuS0MxUIpAJzAhxKWFBGoP97wzRi3VFcvCCLsj5c9jZvzl56uRNJ75S9K1l5sM1ERfUnidx31pqSOnMX8BIENl7hw93hxgD4yhhkql_h4U8XZXp5vm6d5PzuQa-D3JLUs8xJ8",
+          "width": 5333
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc3eDrccd9l8RkOQoasAe-GM",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJvw4p9LUe9l8RGBEDRIxIqCo",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

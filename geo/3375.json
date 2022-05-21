@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０６１６−２４６",
-        "short_name": "１０６１６−２４６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西高木",
-        "short_name": "西高木",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0033",
-        "short_name": "393-0033",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0033 長野県諏訪郡下諏訪町西高木１０６１６−２４６",
-    "geometry": {
-      "location": {
-        "lat": 36.063724,
-        "lng": 138.1049571
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0649354802915,
-          "lng": 138.1062698302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0033 長野県諏訪郡下諏訪町西高木１０６１６−２４６",
+      "geometry": {
+        "location": {
+          "lat": 36.063695,
+          "lng": 138.1049192
         },
-        "southwest": {
-          "lat": 36.0622375197085,
-          "lng": 138.1035718697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06493632989272,
+            "lng": 138.1062706798927
+          },
+          "southwest": {
+            "lat": 36.06223667010727,
+            "lng": 138.1035710201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq8Sq8xNVHGARN6KznMkpPKY",
-    "plus_code": {
-      "compound_code": "3473+FX 長野県下諏訪町",
-      "global_code": "8Q8W3473+FX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "うなぎ松倉",
+      "photos": [
+        {
+          "height": 809,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109649151748020062476\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDgWlhgBcTLHkJJgzHnlM1T-dpBGN7_sl1Sqk-xHocLWmJsNF24Qs_3yaOSyKOwC63hpG1lIvHi1LLo7mT2ux5HJ6MgkgGKjF7CvCdbX6KRsow5jNpdemC-imNibZbPmdHdwB05MRgShfKtVpLvH4prAiT3pIpq1jy8S43WXYkY8yEC",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJq8Sq8xNVHGARN6KznMkpPKY",
+      "plus_code": {
+        "compound_code": "3473+FX 下諏訪町、長野県",
+        "global_code": "8Q8W3473+FX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

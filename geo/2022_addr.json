@@ -1,88 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６",
-        "short_name": "１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "宮田",
-        "short_name": "宮田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0001",
-        "short_name": "399-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0001 長野県松本市宮田１−１６",
-    "geometry": {
-      "location": {
-        "lat": 36.2081695,
-        "lng": 137.9616615
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2095254802915,
-          "lng": 137.9629401302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0001 長野県松本市宮田１−１６",
+      "geometry": {
+        "location": {
+          "lat": 36.2081695,
+          "lng": 137.9616615
         },
-        "southwest": {
-          "lat": 36.2068275197085,
-          "lng": 137.9602421697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.20952632989272,
+            "lng": 137.9629409798927
+          },
+          "southwest": {
+            "lat": 36.20682667010728,
+            "lng": 137.9602413201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJfZW09v8OHWAR4sDUHn8yW6c",
-    "plus_code": {
-      "compound_code": "6X56+7M 長野県松本市",
-      "global_code": "8Q8V6X56+7M"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-0001 長野県松本市宮田１−１６",
+      "place_id": "ChIJfZW09v8OHWAR4sDUHn8yW6c",
+      "plus_code": {
+        "compound_code": "6X56+7M 松本市、長野県",
+        "global_code": "8Q8V6X56+7M"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

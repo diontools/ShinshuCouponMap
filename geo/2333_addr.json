@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "並柳",
-        "short_name": "並柳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0825",
-        "short_name": "390-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0825 長野県松本市並柳２丁目３−２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2155422,
-          "lng": 137.9806697
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0825 長野県松本市並柳２丁目３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.2154291,
+          "lng": 137.9805382
         },
-        "southwest": {
-          "lat": 36.2153066,
-          "lng": 137.9804727
+        "viewport": {
+          "northeast": {
+            "lat": 36.21678402989272,
+            "lng": 137.9819729798927
+          },
+          "southwest": {
+            "lat": 36.21408437010728,
+            "lng": 137.9792733201072
+          }
         }
       },
-      "location": {
-        "lat": 36.2154291,
-        "lng": 137.9805382
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2167733802915,
-          "lng": 137.9819393802915
-        },
-        "southwest": {
-          "lat": 36.2140754197085,
-          "lng": 137.9792414197085
-        }
-      }
-    },
-    "place_id": "ChIJt6ky_R8PHWARjfbS4KleBYM",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0825 長野県松本市並柳２丁目３−２",
+      "place_id": "ChIJt6ky_R8PHWARjfbS4KleBYM",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

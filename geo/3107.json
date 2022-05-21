@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県茅野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.112594,
-          "lng": 138.3743063
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0013 長野県茅野市宮川４２７４",
+      "geometry": {
+        "location": {
+          "lat": 35.9895368,
+          "lng": 138.1530231
         },
-        "southwest": {
-          "lat": 35.9166535,
-          "lng": 138.111896
+        "viewport": {
+          "northeast": {
+            "lat": 35.99089482989272,
+            "lng": 138.1544314298927
+          },
+          "southwest": {
+            "lat": 35.98819517010728,
+            "lng": 138.1517317701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9949904,
-        "lng": 138.1576589
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.112594,
-          "lng": 138.3743063
-        },
-        "southwest": {
-          "lat": 35.9166535,
-          "lng": 138.111896
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "梅月",
+      "photos": [
+        {
+          "height": 1500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116868639922661916186\">小田切至</a>"
+          ],
+          "photo_reference": "Aap_uEBlMK9tVsVmYJ9G1QsR1gb-qQsEYJrZJ2FPcQja-MqN5dnlgkV-3GahmSJdQIiFRYQaIXN_gk1ZLfU39YwLXq9PJBLr3YLwPl7HdOYxejF1JLx6_sTZDmhWLzQbirXIM_ZWyDvo_-r-AT2me0F7tC8cI6msJUsl_B7Y0b9u1U4hpD4L",
+          "width": 1500
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ10NcouNPHGARSOAmcG2ylTs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJuz63EDFXHGARMdFiYp8AqJ8",
+      "plus_code": {
+        "compound_code": "X5Q3+R5 茅野市、長野県",
+        "global_code": "8Q7WX5Q3+R5"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

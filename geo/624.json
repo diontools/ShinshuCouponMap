@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０１５−２０２",
-        "short_name": "１０１５−２０２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "栗田",
-        "short_name": "栗田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0921",
-        "short_name": "380-0921",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0921 長野県長野市栗田１０１５−２０２",
-    "geometry": {
-      "location": {
-        "lat": 36.641573,
-        "lng": 138.190238
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6429675802915,
-          "lng": 138.1916571802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0921 長野県長野市栗田１０１５−２０２",
+      "geometry": {
+        "location": {
+          "lat": 36.641573,
+          "lng": 138.190238
         },
-        "southwest": {
-          "lat": 36.6402696197085,
-          "lng": 138.1889592197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64296842989273,
+            "lng": 138.1916580298927
+          },
+          "southwest": {
+            "lat": 36.64026877010728,
+            "lng": 138.1889583701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8TFL442GHWARw6RROhpRZJg",
-    "plus_code": {
-      "compound_code": "J5RR+J3 日本、長野県長野市",
-      "global_code": "8Q8WJ5RR+J3"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "（株）まちノベイト",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108109990204229763238\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAgFa7thoZwFgOnsdIj_882K5xPfjhD4SjK9LufYSoJPjpGDBh7TnesA2dBtk9xhndvSI_X4aUQ5GQyLUrmhSjjyj1tOBhtkvpt235S4PlNUFxT4gvwGNyyxVX93O0G5ohYjhtI_emTsq7pYf9P6G6Gl890ramIIYS9UL8tLiYi94E",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ8TFL442GHWARw6RROhpRZJg",
+      "plus_code": {
+        "compound_code": "J5RR+J3 長野市、長野県",
+        "global_code": "8Q8WJ5RR+J3"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

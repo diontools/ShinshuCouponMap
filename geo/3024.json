@@ -1,72 +1,88 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下伊那郡阿智村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7703721
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0501 長野県下伊那郡阿智村浪合１１９２",
+      "geometry": {
+        "location": {
+          "lat": 35.3545234,
+          "lng": 137.6716411
         },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.5930079
+        "viewport": {
+          "northeast": {
+            "lat": 35.35627557989272,
+            "lng": 137.6725311798927
+          },
+          "southwest": {
+            "lat": 35.35357592010728,
+            "lng": 137.6698315201073
+          }
         }
       },
-      "location": {
-        "lat": 35.4440944,
-        "lng": 137.7479129
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7703721
-        },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.5930079
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "治部坂高原スキー場",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113817873943739031285\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECIbrYUr9Myfb0BSE52LJBDB9eTjX1l7yYfpZcPeT1yocIcTLzbOE44rz3kRlzPiPYDagUlt9QeWXmnEUL933ckS5zj5zS4sX_FGA-bb5Ie0xTLW6slJ4KbvWyOgMUexm9Rmg-Z9iVSviClPFT1Z3xp9i6PXoe53N0GVDxONyIdmp4H",
+          "width": 4000
         }
-      }
+      ],
+      "place_id": "ChIJBTaXjSSnHGARS98WECyDMKI",
+      "plus_code": {
+        "compound_code": "9M3C+RM 阿智村、長野県",
+        "global_code": "8Q7V9M3C+RM"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ_6rBnHakHGARKet4IBZfp3c",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒395-0501 長野県下伊那郡阿智村浪合１１９２−３５６",
+      "geometry": {
+        "location": {
+          "lat": 35.3546554,
+          "lng": 137.6708401
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.35614532989273,
+            "lng": 137.6719643798927
+          },
+          "southwest": {
+            "lat": 35.35344567010728,
+            "lng": 137.6692647201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "治部坂高原 コスモスガーデン",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118226509154995258689\">中村一樹</a>"
+          ],
+          "photo_reference": "Aap_uEA6JzqhiPaqPkv6gLFS0MAfpzbm9R6TgDttiaTPC-GWb2WC6OsTVxx-DFVxl3BqHcSHcEeNAAzfp0nrlUnG_Bs9eSQXROI_fFzYmPh4NS9HaHF25DyZZ9wvQUqY11AUtudz5MO290AU8IYCTLOPXZneM1RbcaH988Z5ouP-FPoXEpnB",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJGx6-sSSnHGARUBlYFGBeJKw",
+      "plus_code": {
+        "compound_code": "9M3C+V8 阿智村、長野県",
+        "global_code": "8Q7V9M3C+V8"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

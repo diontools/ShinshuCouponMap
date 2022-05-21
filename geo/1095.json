@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "佐久平駅東",
-        "short_name": "佐久平駅東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0028",
-        "short_name": "385-0028",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0028 長野県佐久市佐久平駅東２−６ 佐久プラザ21 1F",
-    "geometry": {
-      "location": {
-        "lat": 36.277345,
-        "lng": 138.4666965
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2785804802915,
-          "lng": 138.4681299302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0028 長野県佐久市佐久平駅東２−６ 佐久プラザ21 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.277345,
+          "lng": 138.4666965
         },
-        "southwest": {
-          "lat": 36.2758825197085,
-          "lng": 138.4654319697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27858132989273,
+            "lng": 138.4681307798927
+          },
+          "southwest": {
+            "lat": 36.27588167010729,
+            "lng": 138.4654311201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJwSNMAXrLHWAR4W2tctEl5O0",
-    "plus_code": {
-      "compound_code": "7FG8+WM 日本、長野県佐久市",
-      "global_code": "8Q8W7FG8+WM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "寝ずの甚八 佐久平店",
+      "photos": [
+        {
+          "height": 1374,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115708352045993088585\">T S</a>"
+          ],
+          "photo_reference": "Aap_uEBQoZexE-uSw77B9GrrVWmC9G3IlUDtwfwegd4qRmefPUJs1PPspYs5CqwuOuSs89rr0fkXcsJkiqnsgjc5PW4XkuLWRfA9QWLvpcm1LNMlDPoZyAPMjdNhzh4ufhgkYefY6_0pl4uFdx_lw88AvW5fr4iHpIM-cAYqmmofHWLBvAiy",
+          "width": 1833
+        }
+      ],
+      "place_id": "ChIJwSNMAXrLHWAR4W2tctEl5O0",
+      "plus_code": {
+        "compound_code": "7FG8+WM 佐久市、長野県",
+        "global_code": "8Q8W7FG8+WM"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

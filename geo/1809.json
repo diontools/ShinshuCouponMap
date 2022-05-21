@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１８６−２０１",
-        "short_name": "２１８６−２０１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明２１８６−２０１",
-    "geometry": {
-      "location": {
-        "lat": 36.3647081,
-        "lng": 137.8330422
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.36595518029151,
-          "lng": 137.8344111802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明２１８６−２０１",
+      "geometry": {
+        "location": {
+          "lat": 36.3647081,
+          "lng": 137.8330422
         },
-        "southwest": {
-          "lat": 36.36325721970851,
-          "lng": 137.8317132197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36595602989272,
+            "lng": 137.8344120298927
+          },
+          "southwest": {
+            "lat": 36.36325637010728,
+            "lng": 137.8317123701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJU3swfihpHWARRFE9FkJ5rCo",
-    "plus_code": {
-      "compound_code": "9R7M+V6 日本、長野県安曇野市",
-      "global_code": "8Q8V9R7M+V6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "常念坊",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102119000143886832913\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED0FDRMzmBcrrzLj8w2sFWa2Z588BYwxo9TM3lGLPI573HAc4P5J8RnqwUiS70Mp1xWXgdrkB5ocQZ46QqTLeUze7O_lJhs0hfLByuW0pyVFlh2XE0crOSJfAhAxPT_3n9K834PGXJ0dE70534yt_tULh1uHLt1Ep-Q0n-OqWAQldIc",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJU3swfihpHWARRFE9FkJ5rCo",
+      "plus_code": {
+        "compound_code": "9R7M+V6 安曇野市、長野県",
+        "global_code": "8Q8V9R7M+V6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

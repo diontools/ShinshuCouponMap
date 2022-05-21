@@ -1,84 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "大町温泉郷（バス）",
-        "short_name": "大町温泉郷（バス）",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平 大町温泉郷（バス）",
-    "geometry": {
-      "location": {
-        "lat": 36.5274857,
-        "lng": 137.8116407
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.52880938029151,
-          "lng": 137.8130033302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市 平大町温泉郷2889−4",
+      "geometry": {
+        "location": {
+          "lat": 36.53056,
+          "lng": 137.806464
         },
-        "southwest": {
-          "lat": 36.52611141970851,
-          "lng": 137.8103053697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53193182989272,
+            "lng": 137.8080059298927
+          },
+          "southwest": {
+            "lat": 36.52923217010728,
+            "lng": 137.8053062701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ02eDH9BhHWARwK_0aejbDhc",
-    "plus_code": {
-      "compound_code": "GRG6+XM 長野県大町市",
-      "global_code": "8Q8VGRG6+XM"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "transit_station"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル夢の湯",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114872114403189474814\">sat1 kat</a>"
+          ],
+          "photo_reference": "Aap_uEAewYPniGZlV9u1WWJWjTPo0v-XSWvpppaYBQ0NwIx8ntnwSE0zH6Bn8Vrv899-ZBPbXiCkK0poHNzGqRXUPJLkqcHSshfjqgNYlFw41gzeZbmvIfdH9KjFZgX1TC6Q8gALrPiPCvHnHgGM8FqNV-1g23O73dtD1vI96xi3LEog1WIv",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJgzxTaNRhHWARYW56s_IMN9s",
+      "plus_code": {
+        "compound_code": "GRJ4+6H 大町市、長野県",
+        "global_code": "8Q8VGRJ4+6H"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

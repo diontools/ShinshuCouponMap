@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０８５−５６",
-        "short_name": "４０８５−５６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1512",
-        "short_name": "390-1512",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1512 長野県松本市安曇４０８５−５６",
-    "geometry": {
-      "location": {
-        "lat": 36.1221418,
-        "lng": 137.6367802
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1235483302915,
-          "lng": 137.6380704302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1512 長野県松本市安曇４０８５−５６",
+      "geometry": {
+        "location": {
+          "lat": 36.1221798,
+          "lng": 137.6367414
         },
-        "southwest": {
-          "lat": 36.1208503697085,
-          "lng": 137.6353724697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12354917989272,
+            "lng": 137.6380712798927
+          },
+          "southwest": {
+            "lat": 36.12084952010728,
+            "lng": 137.6353716201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJDY2vwaI5HWAR_VpR3vDpk30",
-    "plus_code": {
-      "compound_code": "4JCP+VP 日本、長野県松本市",
-      "global_code": "8Q8V4JCP+VP"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "佐の屋",
+      "photos": [
+        {
+          "height": 883,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115325721555154831081\">丸屋空撮</a>"
+          ],
+          "photo_reference": "Aap_uEAAQg1Y1Zb5HZ4DjgQG0VpNfeoD3nqxfgzaT4rmm-5iyRLYUfeZ8_Ee_0A7hJOO1zHVSp74CLIhDYI3t8I7slhmh9tzouhXZnFb6qQSByAboDRCRLEhpZ6yQOfxQYR-GRhuTNgVUO6j_TtvpI0FOG8nSXsgwqj8KmXz61txneBAHo8i",
+          "width": 1234
+        }
+      ],
+      "place_id": "ChIJDY2vwaI5HWAR_VpR3vDpk30",
+      "plus_code": {
+        "compound_code": "4JCP+VP 松本市、長野県",
+        "global_code": "8Q8V4JCP+VP"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

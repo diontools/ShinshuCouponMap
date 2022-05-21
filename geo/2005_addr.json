@@ -1,158 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1516",
-        "short_name": "390-1516",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1516 長野県松本市安曇",
-    "geometry": {
-      "location": {
-        "lat": 36.2513203,
-        "lng": 137.653235
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2513203,
-          "lng": 137.6607766
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1520 長野県松本市安曇上高地",
+      "geometry": {
+        "location": {
+          "lat": 36.2511743,
+          "lng": 137.6405697
         },
-        "southwest": {
-          "lat": 36.164478,
-          "lng": 137.5590825
+        "viewport": {
+          "northeast": {
+            "lat": 36.25252412989271,
+            "lng": 137.6419195298927
+          },
+          "southwest": {
+            "lat": 36.24982447010726,
+            "lng": 137.6392198701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC8XxEJAOHWARBzhcrx9Cbpo",
-    "plus_code": {
-      "compound_code": "7M23+G7 長野県松本市",
-      "global_code": "8Q8V7M23+G7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "4468",
-        "short_name": "4468",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
       },
-      {
-        "long_name": "安曇上高地",
-        "short_name": "安曇上高地",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇上高地4468",
-    "geometry": {
-      "location": {
-        "lat": 36.2517119,
-        "lng": 137.6414108
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.25306088029151,
-          "lng": 137.6427597802915
-        },
-        "southwest": {
-          "lat": 36.25036291970851,
-          "lng": 137.6400618197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "上高地森のリゾート小梨",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110919575160044429614\">t h</a>"
+          ],
+          "photo_reference": "Aap_uEApJs7isfFJ3Th_iB73soicb33Jiw-QSD590AZr78fzL_UsQBMEUID4atXBMqwFRQlGABKkwwXSPkwDlmPhEARrHJzGET5vzQRGgMsAeGA2gGodY2hHcadF4e9HBlwhZqP5DKR02d_RVk7k-xzAgTlUH4BXL9hcynMPCsW8FalrAIEJ",
+          "width": 4608
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3YCOUNRFHWARaoPuRyE763Q",
-    "plus_code": {
-      "compound_code": "7J2R+MH 長野県松本市",
-      "global_code": "8Q8V7J2R+MH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJdyIC69ZFHWAREkNbS2jegrE",
+      "plus_code": {
+        "compound_code": "7J2R+F6 松本市、長野県",
+        "global_code": "8Q8V7J2R+F6"
+      },
+      "types": [
+        "campground",
+        "lodging",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

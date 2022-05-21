@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０７",
-        "short_name": "４０７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里４０７",
-    "geometry": {
-      "location": {
-        "lat": 35.457311,
-        "lng": 137.7141348
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4586497802915,
-          "lng": 137.7155222302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里４０７",
+      "geometry": {
+        "location": {
+          "lat": 35.457311,
+          "lng": 137.7141348
         },
-        "southwest": {
-          "lat": 35.4559518197085,
-          "lng": 137.7128242697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.45865062989272,
+            "lng": 137.7155230798927
+          },
+          "southwest": {
+            "lat": 35.45595097010727,
+            "lng": 137.7128234201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJk6EzsgijHGARlbByhU7oZ2o",
-    "plus_code": {
-      "compound_code": "FP47+WM 長野県阿智村",
-      "global_code": "8Q7VFP47+WM"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒395-0304 長野県下伊那郡阿智村智里４０７",
+      "place_id": "ChIJk6EzsgijHGARlbByhU7oZ2o",
+      "plus_code": {
+        "compound_code": "FP47+WM 阿智村、長野県",
+        "global_code": "8Q7VFP47+WM"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

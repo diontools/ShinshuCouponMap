@@ -1,90 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３１３",
-        "short_name": "１３１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "木下",
-        "short_name": "木下",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南箕輪村",
-        "short_name": "南箕輪村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4511",
-        "short_name": "399-4511",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村木下１３１３ 長野 県 上伊那 郡 南箕輪 村 その他 ）１３１３、 日本",
-    "geometry": {
-      "location": {
-        "lat": 35.8939522,
-        "lng": 137.9798732
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8951352802915,
-          "lng": 137.9810572802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村久保３１０−１",
+      "geometry": {
+        "location": {
+          "lat": 35.891417,
+          "lng": 137.9842552
         },
-        "southwest": {
-          "lat": 35.8924373197085,
-          "lng": 137.9783593197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.89276997989273,
+            "lng": 137.9855897798927
+          },
+          "southwest": {
+            "lat": 35.89007032010728,
+            "lng": 137.9828901201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHy474HT6HGARuln-6_64brA",
-    "plus_code": {
-      "compound_code": "VXVH+HW 長野県南箕輪村",
-      "global_code": "8Q7VVXVH+HW"
-    },
-    "types": [
-      "cemetery",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "あづまや",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103076807326386685201\">原幸裕</a>"
+          ],
+          "photo_reference": "Aap_uEDDdvluzdJajItd_n_6je0juz6q0CaZ8ROhEPI7zVKweojgbb5XhIh4IpTvKldNwTbG1D4M2-ZOeqpTCejwpuel583gxjJdjHtVthlufcgCY2Z3t9-FlfQeaoSK9o_arpNQnjx89RLWd7nqLzMSTQb6XvzPJxDkBnn0wNjAlpvyPG9r",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJaSJV_KDwHGAR9Tn8H0Dwvuw",
+      "plus_code": {
+        "compound_code": "VXRM+GM 南箕輪村、長野県",
+        "global_code": "8Q7VVXRM+GM"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

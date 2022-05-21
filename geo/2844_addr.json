@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９５０",
-        "short_name": "４９５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "新開福",
-        "short_name": "新開福",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0003",
-        "short_name": "397-0003",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0003 長野県木曽郡木曽町新開福４９５０",
-    "geometry": {
-      "location": {
-        "lat": 35.8560629,
-        "lng": 137.7114442
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8572908302915,
-          "lng": 137.7127011802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒397-0003 長野県木曽郡木曽町新開福４９５０",
+      "geometry": {
+        "location": {
+          "lat": 35.8560629,
+          "lng": 137.7114442
         },
-        "southwest": {
-          "lat": 35.8545928697085,
-          "lng": 137.7100032197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.85729167989271,
+            "lng": 137.7127020298927
+          },
+          "southwest": {
+            "lat": 35.85459202010727,
+            "lng": 137.7100023701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJP7NKXJreHGARoE_ndWDfTE8",
-    "plus_code": {
-      "compound_code": "VP46+CH 長野県木曽町",
-      "global_code": "8Q7VVP46+CH"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒397-0003 長野県木曽郡木曽町新開福４９５０",
+      "place_id": "ChIJP7NKXJreHGARoE_ndWDfTE8",
+      "plus_code": {
+        "compound_code": "VP46+CH 木曽町、長野県",
+        "global_code": "8Q7VVP46+CH"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

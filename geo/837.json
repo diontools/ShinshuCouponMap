@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0936 長野県長野市岡田町岡田町１７３−８ 三井住友海上長野ビル5階",
+      "geometry": {
+        "location": {
+          "lat": 36.6448228,
+          "lng": 138.182275
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.64617262989272,
+            "lng": 138.1836248298928
+          },
+          "southwest": {
+            "lat": 36.64347297010728,
+            "lng": 138.1809251701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "近畿日本ツーリスト 長野支店",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101881960972082670157\">のら猫</a>"
+          ],
+          "photo_reference": "Aap_uEB1QP2sN1_ESSee-8OQfKUwts7EDTTMzJPur_iLP2z8zvH5OzbpqQPq_QSfH9vZafQTVnif2XYU7-FqBLsWxOKm8sSPT53dvY0h_HOjA2bDP8aPgyP2LobbqEb5adMiZ9tdsnnslo3_-ENkit1VUDz7Ay83JosVtVg__VSFx7k05A6t",
+          "width": 4864
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJq6quwuyGHWARdKY8EWEWbf4",
+      "plus_code": {
+        "compound_code": "J5VJ+WW 長野市、長野県",
+        "global_code": "8Q8WJ5VJ+WW"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

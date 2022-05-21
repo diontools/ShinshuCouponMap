@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０８２−４",
-        "short_name": "１０８２−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大村",
-        "short_name": "大村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0304",
-        "short_name": "390-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0304 長野県松本市大村１０８２−４",
-    "geometry": {
-      "location": {
-        "lat": 36.24828650000001,
-        "lng": 137.9893411
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.24965063029149,
-          "lng": 137.9906633802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0304 長野県松本市大村１０８２−４",
+      "geometry": {
+        "location": {
+          "lat": 36.2482967,
+          "lng": 137.989324
         },
-        "southwest": {
-          "lat": 36.2469526697085,
-          "lng": 137.9879654197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24965147989273,
+            "lng": 137.9906642298927
+          },
+          "southwest": {
+            "lat": 36.24695182010728,
+            "lng": 137.9879645701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJkcXxCKUOHWAREiTxt3jdsyQ",
-    "plus_code": {
-      "compound_code": "6XXQ+8P 日本、長野県松本市",
-      "global_code": "8Q8V6XXQ+8P"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "信州まつもと山岳ガイド協会やまたみ（ＮＰＯ法人）",
+      "photos": [
+        {
+          "height": 572,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108151192459814928158\">信州まつもと山岳ガイド協会やまたみ（ＮＰＯ法人）</a>"
+          ],
+          "photo_reference": "Aap_uEApSVojtquz_2AnNymVrbtI36wKxMMPDtpMhPM1QUqTo2ySolFB3UYG_G1j_jeOerZPknYbwj-zGJN4e0X5rWsadGU_zr3-8_oItgsLCLdLrr7JN0FEEfId05UNgHBsqB9SnsEobfZ-4NqCP-amsFx9furZJdFYz0yGMRU2SGmD43e7",
+          "width": 1015
+        }
+      ],
+      "place_id": "ChIJkcXxCKUOHWAREiTxt3jdsyQ",
+      "plus_code": {
+        "compound_code": "6XXQ+8P 松本市、長野県",
+        "global_code": "8Q8V6XXQ+8P"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

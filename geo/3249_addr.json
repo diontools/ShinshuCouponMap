@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０１９−１４００",
-        "short_name": "１０１９−１４００",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４０３５",
-        "short_name": "４０３５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山４０３５−１０１９−１４００",
-    "geometry": {
-      "location": {
-        "lat": 36.0522847,
-        "lng": 138.2683226
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0537231802915,
-          "lng": 138.2695950302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山４０３５−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0641685,
+          "lng": 138.2863501
         },
-        "southwest": {
-          "lat": 36.05102521970851,
-          "lng": 138.2668970697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06565272989273,
+            "lng": 138.2873197298927
+          },
+          "southwest": {
+            "lat": 36.06295307010728,
+            "lng": 138.2846200701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq2bhbU1OHGARM7ZLYCQImWU",
-    "plus_code": {
-      "compound_code": "3729+W8 長野県茅野市",
-      "global_code": "8Q8W3729+W8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ロッジすみや",
+      "photos": [
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107264845028038021579\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDV3WWIHUlkaJH2acwIBXV_ZoFTeVsIxwDWl5_wt5iJ3Z-nWeB-qaja_Tmov3hWkqdYKbIlYemDw2S-ryhoYCuVXAyWWCM3Ui33hRyGI6ZFnShOoR3iKccriDgpUApsVT8NJa97a-LwjS7pqvTjd--gDaKSiZwtXKzDSQfUzBWBuZ0s",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJIx1VoftOHGARrtZe2a7WCWU",
+      "plus_code": {
+        "compound_code": "377P+MG 茅野市、長野県",
+        "global_code": "8Q8W377P+MG"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

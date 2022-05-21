@@ -1,94 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "すや亀本店",
-        "short_name": "すや亀本店",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西後町",
-        "short_name": "西後町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0845",
-        "short_name": "380-0845",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0845 長野県長野市南長野西後町 すや亀本店",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.65107649999999,
-          "lng": 138.1858595
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0845 長野県長野市大字南長野西後町６２５",
+      "geometry": {
+        "location": {
+          "lat": 36.651207,
+          "lng": 138.185779
         },
-        "southwest": {
-          "lat": 36.6509063,
-          "lng": 138.1855648
+        "viewport": {
+          "northeast": {
+            "lat": 36.65259137989273,
+            "lng": 138.1871203298927
+          },
+          "southwest": {
+            "lat": 36.64989172010728,
+            "lng": 138.1844206701072
+          }
         }
       },
-      "location": {
-        "lat": 36.6510008,
-        "lng": 138.1857703
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6524403302915,
-          "lng": 138.1870611302915
-        },
-        "southwest": {
-          "lat": 36.64974236970851,
-          "lng": 138.1843631697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "善光寺門前みそ すや亀 本店",
+      "photos": [
+        {
+          "height": 558,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105919562682040226858\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBg_vzGPtUJUqjkYMs5XIVmMFW8uDQ9Ff2_I7r-WABCfjKYNE2VIwpqOF29VOBsqVwt7J2t7PQznuhfcffGG3GN3QMg3rpa5oT45AgUDv7lSlc4H5v6lNT1XHCa12kWEp53AKuvOREF7MIh4jmsSCV4lRwRkW1QJ9isY-nhNu4Xt8zP",
+          "width": 788
         }
-      }
-    },
-    "place_id": "ChIJxeHSIu-GHWARAtIQO3ypV3A",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ-2LRPO-GHWARltSA66BJSwY",
+      "plus_code": {
+        "compound_code": "M52P+F8 長野市、長野県",
+        "global_code": "8Q8WM52P+F8"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

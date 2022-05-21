@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６７７−３",
-        "short_name": "６７７−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "市",
-        "short_name": "市",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0083",
-        "short_name": "384-0083",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0083 長野県小諸市市６７７−３",
-    "geometry": {
-      "location": {
-        "lat": 36.2920673,
-        "lng": 138.4437048
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2932923302915,
-          "lng": 138.4449395802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0083 長野県小諸市市６７７−３",
+      "geometry": {
+        "location": {
+          "lat": 36.2920681,
+          "lng": 138.4436594
         },
-        "southwest": {
-          "lat": 36.2905943697085,
-          "lng": 138.4422416197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.29329317989273,
+            "lng": 138.4449404298927
+          },
+          "southwest": {
+            "lat": 36.29059352010728,
+            "lng": 138.4422407701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJvdYlqs7LHWAR4cNbBjovsgM",
-    "plus_code": {
-      "compound_code": "7CRV+RF 日本、長野県小諸市",
-      "global_code": "8Q8W7CRV+RF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "クレッセント",
+      "photos": [
+        {
+          "height": 2400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104928723098130163220\">Hossein Izadi Rad</a>"
+          ],
+          "photo_reference": "Aap_uEDUKljwHXhd4-7fzAo83WwaFDd7ERQzqLqKDn8PWneeqBOUV8gaTm-TSpFhJPmNwN_InUGYqGRX_qbDrEfD-6tjAqZNpvfzhpZJXOXmiMxO7y598EnkCk3ldQp9Ar65GfRnAZm87gRuuolseYyqn9nQQdq0V3VfmCeGP9dRi5Efq_jH",
+          "width": 3200
+        }
+      ],
+      "place_id": "ChIJvdYlqs7LHWAR4cNbBjovsgM",
+      "plus_code": {
+        "compound_code": "7CRV+RF 小諸市、長野県",
+        "global_code": "8Q8W7CRV+RF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

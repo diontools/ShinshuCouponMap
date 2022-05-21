@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "末広",
-        "short_name": "末広",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0025",
-        "short_name": "392-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0025 長野県諏訪市末広８−３",
-    "geometry": {
-      "location": {
-        "lat": 36.04263,
-        "lng": 138.118967
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0440235302915,
-          "lng": 138.1203002802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0025 長野県諏訪市末広８−３",
+      "geometry": {
+        "location": {
+          "lat": 36.0426786,
+          "lng": 138.1189582
         },
-        "southwest": {
-          "lat": 36.0413255697085,
-          "lng": 138.1176023197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04402437989273,
+            "lng": 138.1203011298927
+          },
+          "southwest": {
+            "lat": 36.04132472010728,
+            "lng": 138.1176014701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGx6zPbVVHGAR0gpeHqPshPQ",
-    "plus_code": {
-      "compound_code": "24V9+3H 長野県諏訪市",
-      "global_code": "8Q8W24V9+3H"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "徳八",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105386782164654843924\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDY0olC2AlehjOoWNrMtBhQoTi6yDRx_SxBN0odfP1O4BtKHacP3XYxKNNqSSlTTO1Qd0eQPlOW44K1GLATaD1ZtG5g2doGS9w_4tE7m7KeQSTBILEYRuJik5KzOHoiB_B2UPTttvyj_9n1u2WYVJ5A0NBfGTs-4c83xaS2Pmw1E8kW",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJGx6zPbVVHGAR0gpeHqPshPQ",
+      "plus_code": {
+        "compound_code": "24V9+3H 諏訪市、長野県",
+        "global_code": "8Q8W24V9+3H"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

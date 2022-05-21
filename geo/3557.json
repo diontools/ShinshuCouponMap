@@ -1,78 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0016",
-        "short_name": "392-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0016 長野県諏訪市豊田",
-    "geometry": {
-      "location": {
-        "lat": 36.0270154,
-        "lng": 138.0779438
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0282386302915,
-          "lng": 138.0791375802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0016 長野県諏訪市豊田 所久保４１１−７",
+      "geometry": {
+        "location": {
+          "lat": 36.0267014,
+          "lng": 138.0774286
         },
-        "southwest": {
-          "lat": 36.0255406697085,
-          "lng": 138.0764396197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.02803592989272,
+            "lng": 138.0787601298927
+          },
+          "southwest": {
+            "lat": 36.02533627010728,
+            "lng": 138.0760604701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNVQUoWH_HGARBKwW5AmlZ6s",
-    "plus_code": {
-      "compound_code": "23GH+R5 長野県諏訪市",
-      "global_code": "8Q8W23GH+R5"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "parking",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "諏訪湖SA (上り)",
+      "photos": [
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114313735503500412916\">中央自動車道・諏訪湖ＳＡ上り</a>"
+          ],
+          "photo_reference": "Aap_uEBNjhitAt1himtiSOv3KMsgzugJ8lAZmRs1JlKqevR6cx3SG1afaGgsZ_76C29z_KJB8B5aKeVerPQspgX08PgGdzlXUG7f1wVD9EPnjfF8HQE_pAeYFIynEw1R3nVi7OuA8oC1TjiF_dS4m8mqq_Rgv4gL14dVbXV0w7nM6IE01lXf",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ6-3nCmH_HGARXUcbEn9ptUA",
+      "plus_code": {
+        "compound_code": "23GG+MX 諏訪市、長野県",
+        "global_code": "8Q8W23GG+MX"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

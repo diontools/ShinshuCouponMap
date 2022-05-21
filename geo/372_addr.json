@@ -1,84 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "中町",
-        "short_name": "中町",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 中町",
-    "geometry": {
-      "location": {
-        "lat": 36.69671280000001,
-        "lng": 138.3163401
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69806178029151,
-          "lng": 138.3176890802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町中町１１１７",
+      "geometry": {
+        "location": {
+          "lat": 36.6969453,
+          "lng": 138.3161752
         },
-        "southwest": {
-          "lat": 36.69536381970851,
-          "lng": 138.3149911197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69825482989272,
+            "lng": 138.3176282798927
+          },
+          "southwest": {
+            "lat": 36.69555517010728,
+            "lng": 138.3149286201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5wjH416JHWARoCPjoykMocs",
-    "types": [
-      "intersection"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "かんてんぱぱショップ 小布施店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111873637658048929518\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEABOgPm5fnBgXHb-5Clw3g42007rqI8DoobRL6LHI85lU7ymR33Pkaw3UN5BeVougyj1Nj3uyJxT5vhYSjr8hMn_7sK-qQ62NkqPZaUaRF5QFZhpSwq3a2HJCn2W-NYWpsTuMYfDuyRXifnE4EVjAu2G8H4OHvHTasOOWhO4jju1TAc",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJmUliEF-JHWARMryTPiqkUQc",
+      "plus_code": {
+        "compound_code": "M8W8+QF 小布施町、長野県",
+        "global_code": "8Q8WM8W8+QF"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

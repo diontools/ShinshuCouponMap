@@ -1,81 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５４８−１",
-        "short_name": "１５４８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "須坂",
-        "short_name": "須坂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0000",
-        "short_name": "382-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0000 長野県須坂市須坂１５４８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.65158,
-        "lng": 138.30565
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6529012302915,
-          "lng": 138.3070496302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0052 長野県須坂市塩川 字神田500",
+      "geometry": {
+        "location": {
+          "lat": 36.65422179999999,
+          "lng": 138.3004934
         },
-        "southwest": {
-          "lat": 36.6502032697085,
-          "lng": 138.3043516697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65539352989272,
+            "lng": 138.3018265298927
+          },
+          "southwest": {
+            "lat": 36.65269387010727,
+            "lng": 138.2991268701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhzc3v5GOHWARlzsiI454B0E",
-    "plus_code": {
-      "compound_code": "M824+J7 日本、長野県須坂市",
-      "global_code": "8Q8WM824+J7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 須坂店",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">toro mochi</a>"
+          ],
+          "photo_reference": "Aap_uEDuSey3hsOodKjDt466hKtaHfC1NzQLAaZJ3OrmegWB-LlQQLVdEGEb62YycoGW3XTNUSgpZy7IvNz6DpJ_iAn6MvvtDDD-yNbO-pqbJZzBkWjYFsx-_9OHeM-3O0or02XrTPaA6wtTRKyrWKayc5mY8LV2vOTaeBEdSLa65VXzXdNP",
+          "width": 1366
+        }
+      ],
+      "place_id": "ChIJXy-fsrKPHWARPZ3YXwVLrJ4",
+      "plus_code": {
+        "compound_code": "M832+M5 須坂市、長野県",
+        "global_code": "8Q8WM832+M5"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

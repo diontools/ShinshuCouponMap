@@ -1,64 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2302457,
+          "lng": 137.9652371
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23159552989273,
+            "lng": 137.9665869298927
+          },
+          "southwest": {
+            "lat": 36.22889587010728,
+            "lng": 137.9638872701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "HOT SAND green",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104915055683291703885\">Kenichi Ishii</a>"
+          ],
+          "photo_reference": "Aap_uEBLLWTxI11tl0Jbb0hv7yT_FE6Pad2DJ0I2057A4tZZMi0YL3R7d7jbiT6nsa1wtxadoU_Yw-rrW3eNHSxu_Rd1hBFpSfvm7A8cmjqMoJDtBLzRkSpd6iiSsXlbcHC6UkVmdVFzpzG8sF19V7HE_qF4EvbPxFwdhsz4jkn2k6UVIaum",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJMdpSj9gPHWAR79fYLlrVBw4",
+      "plus_code": {
+        "compound_code": "6XJ8+33 松本市、長野県",
+        "global_code": "8Q8V6XJ8+33"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中込",
-        "short_name": "中込",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0051",
-        "short_name": "385-0051",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0051 長野県佐久市中込２丁目１４−１０",
-    "geometry": {
-      "location": {
-        "lat": 36.2290032,
-        "lng": 138.4768872
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2303839802915,
-          "lng": 138.4783259302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0051 長野県佐久市中込２丁目１４−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.2290167,
+          "lng": 138.4769198
         },
-        "southwest": {
-          "lat": 36.2276860197085,
-          "lng": 138.4756279697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23038482989272,
+            "lng": 138.4783267798927
+          },
+          "southwest": {
+            "lat": 36.22768517010728,
+            "lng": 138.4756271201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVaIFiJ80HGARrWYb22WSkoc",
-    "plus_code": {
-      "compound_code": "6FHG+JQ 日本、長野県佐久市",
-      "global_code": "8Q8W6FHG+JQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "魚魚や 中込店",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103723718492055807104\">丸山貴史</a>"
+          ],
+          "photo_reference": "Aap_uECSRujpVAdBr4DHtkayY34RCo6XdDmyWrIwO64r9DKLYulyNO8pgOX5UgleplwlsXwEimYoH1EmncTiGM3xA26V2q2sSFS7fJvIq-j1QKgU_ciflT_RO38bdwVBGOFhoJZEUKkfhu2cmRTfzgSpvvJzcUFLxPhzu21KoEGDotOOX5vC",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJVaIFiJ80HGARrWYb22WSkoc",
+      "plus_code": {
+        "compound_code": "6FHG+JQ 佐久市、長野県",
+        "global_code": "8Q8W6FHG+JQ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

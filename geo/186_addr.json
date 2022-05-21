@@ -1,72 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡木島平村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8948837,
-          "lng": 138.5555357
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３２７８−２７１",
+      "geometry": {
+        "location": {
+          "lat": 36.8146596,
+          "lng": 138.4020744
         },
-        "southwest": {
-          "lat": 36.7934872,
-          "lng": 138.3841393
+        "viewport": {
+          "northeast": {
+            "lat": 36.81591497989272,
+            "lng": 138.4034294298928
+          },
+          "southwest": {
+            "lat": 36.81321532010728,
+            "lng": 138.4007297701073
+          }
         }
       },
-      "location": {
-        "lat": 36.8585206,
-        "lng": 138.4066807
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2303 長野県下高井郡木島平村上木島３２７８−２７１",
+      "place_id": "ChIJE6sHhbof9l8RJ0mEU22dujE",
+      "plus_code": {
+        "compound_code": "RC72+VR 木島平村、長野県",
+        "global_code": "8Q8WRC72+VR"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8948837,
-          "lng": 138.5555357
-        },
-        "southwest": {
-          "lat": 36.7934872,
-          "lng": 138.3841393
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc3eDrccd9l8RkOQoasAe-GM",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

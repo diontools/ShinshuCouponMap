@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６３−２",
-        "short_name": "３６３−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "山部",
-        "short_name": "山部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2307",
-        "short_name": "384-2307",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2307 長野県北佐久郡立科町山部３６３−２",
-    "geometry": {
-      "location": {
-        "lat": 36.28006600000001,
-        "lng": 138.310942
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.28150353029151,
-          "lng": 138.3120027802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2307 長野県北佐久郡立科町山部３６３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.2802282,
+          "lng": 138.3106917
         },
-        "southwest": {
-          "lat": 36.27880556970851,
-          "lng": 138.3093048197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.28150437989272,
+            "lng": 138.3120036298927
+          },
+          "southwest": {
+            "lat": 36.27880472010728,
+            "lng": 138.3093039701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJSXr3LS-xHWARPRhMa4cD_Fg",
-    "plus_code": {
-      "compound_code": "78J6+29 日本、長野県立科町",
-      "global_code": "8Q8W78J6+29"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "立科温泉 権現の湯",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114140113888256691467\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDI1aI_ejIybjDZ6-eGTbz9RxiHvAfrPAi0IZ9woAi9AprBJ18IrTYw-PrCTTfTSNrZ-WAtSwhJMVEGP-m4a4PK8SG6xQd_YLlo2vXPtS40cGkP1TOxji9O2DRIdzrFL_7rZ7FNFPiJ0FhIBM7nfsUN5Tb1MoXajklWAHys3Bhv7CDD",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJSXr3LS-xHWARPRhMa4cD_Fg",
+      "plus_code": {
+        "compound_code": "78J6+29 立科町、長野県",
+        "global_code": "8Q8W78J6+29"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

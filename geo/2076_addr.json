@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０",
-        "short_name": "３０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目２−３０",
-    "geometry": {
-      "location": {
-        "lat": 36.230302,
-        "lng": 137.9665576
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23155588029149,
-          "lng": 137.9676277802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目２−３０",
+      "geometry": {
+        "location": {
+          "lat": 36.230302,
+          "lng": 137.9665576
         },
-        "southwest": {
-          "lat": 36.2288579197085,
-          "lng": 137.9649298197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23155672989272,
+            "lng": 137.9676286298927
+          },
+          "southwest": {
+            "lat": 36.22885707010727,
+            "lng": 137.9649289701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJo8xVd4wOHWARTpvQ65_z8BI",
-    "plus_code": {
-      "compound_code": "6XJ8+4J 長野県松本市",
-      "global_code": "8Q8V6XJ8+4J"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "shopping_mall"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "アルピコプラザ",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109777411558902698565\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDs9xryFnGbzPG6w1OQAnE7Qi_mYI_Vh3jLQCcyCLsKLaOrOXj03dQbXLdWHGYZbTKwJ9yyR-vpMEOjHHm4MgjwAOzy7Sp_lUyto5JL95hYGWYOI9uDDXLDHBn9OwmMNvfPY1obQdUmX8E7FPWRytca4JJZTUJSeTBnpgRh-tbuPf5E",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJo8xVd4wOHWARTpvQ65_z8BI",
+      "plus_code": {
+        "compound_code": "6XJ8+4J 松本市、長野県",
+        "global_code": "8Q8V6XJ8+4J"
+      },
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

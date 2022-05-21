@@ -1,85 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３−４",
-        "short_name": "６３−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "田中",
-        "short_name": "田中",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0516",
-        "short_name": "389-0516",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0516 長野県東御市田中６３−４",
-    "geometry": {
-      "location": {
-        "lat": 36.3572811,
-        "lng": 138.3314133
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3586312302915,
-          "lng": 138.3326915802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0516 長野県東御市田中６３−４",
+      "geometry": {
+        "location": {
+          "lat": 36.3572811,
+          "lng": 138.3314133
         },
-        "southwest": {
-          "lat": 36.3559332697085,
-          "lng": 138.3299936197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35863207989272,
+            "lng": 138.3326924298927
+          },
+          "southwest": {
+            "lat": 36.35593242010728,
+            "lng": 138.3299927701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3ampZJq5HWARJ5t0yHUvrAs",
-    "plus_code": {
-      "compound_code": "984J+WH 日本、長野県東御市",
-      "global_code": "8Q8W984J+WH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "liquor_store",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "東御ワインチャペル",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111089964489968394494\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBeBLcgHbyYNMLrtX5gXCPxGdCfTBGB8kK6AoApgUTjfstqojlQ3B7lAbrtOBOqbcdBMjcziYvq0V8JxtEoZvpmlaE40EDqauCM7bDGHZKv8YdFZLSVrla2jPCnqaO43gbBL4WvORr6xB8p0FqmJejXE6glgptkfhIAAgAccvWsT8fG",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ3ampZJq5HWARJ5t0yHUvrAs",
+      "plus_code": {
+        "compound_code": "984J+WH 東御市、長野県",
+        "global_code": "8Q8W984J+WH"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

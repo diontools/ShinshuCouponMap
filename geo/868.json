@@ -1,81 +1,87 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南石堂町",
-        "short_name": "南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0824",
-        "short_name": "380-0824",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0824 長野県長野市南長野南石堂町 長野県 長野県長野市南石堂町1346 ホテルメトロポリタン長野 2F",
-    "geometry": {
-      "location": {
-        "lat": 36.6428887,
-        "lng": 138.1869742
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6443755802915,
-          "lng": 138.1881123802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0824 長野県長野市大字南長野南石堂町１３４６",
+      "geometry": {
+        "location": {
+          "lat": 36.6427631,
+          "lng": 138.1869656
         },
-        "southwest": {
-          "lat": 36.6416776197085,
-          "lng": 138.1854144197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64418922989272,
+            "lng": 138.1880721298927
+          },
+          "southwest": {
+            "lat": 36.64148957010728,
+            "lng": 138.1853724701072
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "しなの",
+      "photos": [
+        {
+          "height": 1798,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103967715092750645766\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDwawHu0UnMtV0CIl90bfg6k9tm6A3J5Tn0VOj8VkhG4Fh9HYLacXD2tuSjxD3a-cpACrVj_Y_ziBG4YGIlJSJ4tHw-3UccUX6cESAEo5eEVEz9Sju3h9Yq7CYrgdbXNFjt0pQZq4om4YACNLmwdMpa7ymbnYmSDmSUU8HWgeJSNrmi",
+          "width": 2696
+        }
+      ],
+      "place_id": "ChIJSS39HJOGHWARLPGkfDi5niI",
+      "plus_code": {
+        "compound_code": "J5VP+4Q 長野市、長野県",
+        "global_code": "8Q8WJ5VP+4Q"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ____HJOGHWARHXKDFkMKR7A",
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0824 長野県長野市 長野県 長野県長野市南石堂町1346 ホテルメトロポリタン長野 2F",
+      "geometry": {
+        "location": {
+          "lat": 36.6428887,
+          "lng": 138.1869742
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.64437642989272,
+            "lng": 138.1881132298927
+          },
+          "southwest": {
+            "lat": 36.64167677010727,
+            "lng": 138.1854135701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "日本料理 しなの／ホテルメトロポリタン長野",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108796135852914791530\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAukqeNBwgNAQrw6SD31Ounl2QM0y6nvl3xkFFwBGhG9_J8vUruGM_vBFRZ3U1p15gNYBIF7_OTKIEgp-KTSGeJxyDfFWGK8QrcCQ1FsmGfCM2fdxftRw_Gt9lscnzB-lYgQYddjlqlafOqn6z1yB8nEc-zGyNJPZyaVOAc0KX_8Qz7",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ____HJOGHWARHXKDFkMKR7A",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

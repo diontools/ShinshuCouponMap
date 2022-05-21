@@ -1,81 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５００−７",
-        "short_name": "３５００−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町３５００−７",
-    "geometry": {
-      "location": {
-        "lat": 36.4987673,
-        "lng": 137.8566351
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5001101302915,
-          "lng": 137.8580803802915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町３５００−７",
+      "geometry": {
+        "location": {
+          "lat": 36.4987664,
+          "lng": 137.8566482
         },
-        "southwest": {
-          "lat": 36.4974121697085,
-          "lng": 137.8553824197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.50011097989272,
+            "lng": 137.8580812298927
+          },
+          "southwest": {
+            "lat": 36.49741132010728,
+            "lng": 137.8553815701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoYyqYMhjHWARhOWcfxhRurs",
-    "plus_code": {
-      "compound_code": "FVX4+GM 日本、長野県大町市",
-      "global_code": "8Q8VFVX4+GM"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "北アルプス国際芸術祭 セントラルショップ",
+      "place_id": "ChIJoYyqYMhjHWARhOWcfxhRurs",
+      "plus_code": {
+        "compound_code": "FVX4+GM 大町市、長野県",
+        "global_code": "8Q8VFVX4+GM"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

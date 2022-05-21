@@ -1,79 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松川村",
-        "short_name": "松川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8501",
-        "short_name": "399-8501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8501 長野県北安曇郡松川村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4541973,
-          "lng": 137.8753882
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8501 長野県北安曇郡松川村西原3363−１０８２",
+      "geometry": {
+        "location": {
+          "lat": 36.4111695,
+          "lng": 137.8454831
         },
-        "southwest": {
-          "lat": 36.3782166,
-          "lng": 137.7528087
+        "viewport": {
+          "northeast": {
+            "lat": 36.41247162989271,
+            "lng": 137.8465941798927
+          },
+          "southwest": {
+            "lat": 36.40977197010727,
+            "lng": 137.8438945201073
+          }
         }
       },
-      "location": {
-        "lat": 36.4240441,
-        "lng": 137.8545079
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4541973,
-          "lng": 137.8753882
-        },
-        "southwest": {
-          "lat": 36.3782166,
-          "lng": 137.7528087
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "すずむし荘",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105378112352444928389\">Kazuhide Watanabe</a>"
+          ],
+          "photo_reference": "Aap_uEAS22SwEfy0Xm9nK2zSdC1aAqb_d7XXOvdS9rl-3JNL6wDxxLDjbkIc153mhorDWTALn83v3mLDEZ6B2IwFNqyy6sTtO2dRsVDnHIh9pnRidEB4Ieps1xojeHSK24rumWblbN-ZJSbjjBcNH7o_oYrjfx6aVZ2-qLoFFd1_TTn9Zbap",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRWEYE0ZmHWAR84JpyBgO_PA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJhygM9P5lHWARB0FBSg9N9j8",
+      "plus_code": {
+        "compound_code": "CR6W+F5 松川村、長野県",
+        "global_code": "8Q8VCR6W+F5"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

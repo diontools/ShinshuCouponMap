@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７４１８",
-        "short_name": "７４１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平７４１８",
-    "geometry": {
-      "location": {
-        "lat": 36.5311802,
-        "lng": 137.8473221
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.53241223029151,
-          "lng": 137.8486905302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平７４１８",
+      "geometry": {
+        "location": {
+          "lat": 36.5310912,
+          "lng": 137.84736
         },
-        "southwest": {
-          "lat": 36.52971426970851,
-          "lng": 137.8459925697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53241307989272,
+            "lng": 137.8486913798927
+          },
+          "southwest": {
+            "lat": 36.52971342010728,
+            "lng": 137.8459917201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp1hveyFiHWARcmeWpl3nN4I",
-    "plus_code": {
-      "compound_code": "GRJW+FW 日本、長野県大町市",
-      "global_code": "8Q8VGRJW+FW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "花の木",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110150028385642449980\">成澤啓</a>"
+          ],
+          "photo_reference": "Aap_uECXGTJe0oToa4eJBGtKSb5le1waC9xokjKF4q_HxEj0DWSk9jw2yJ4PFWPyMeRBVmX91zQKnPHkQ3eAWUlTRJSXx5V7BLPGfWyZ3XHY_Tpx9yz257oAnwdFXGWE6oRfZXvlnd4a-xGFY0NztCWQ-toUhShGv4OhUiA0SKdpCniqA_aW",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJp1hveyFiHWARcmeWpl3nN4I",
+      "plus_code": {
+        "compound_code": "GRJW+FW 大町市、長野県",
+        "global_code": "8Q8VGRJW+FW"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

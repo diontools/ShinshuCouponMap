@@ -1,103 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１８",
-        "short_name": "１８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉２丁目１８−８",
-    "geometry": {
-      "location": {
-        "lat": 36.4795767,
-        "lng": 138.1429007
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4808622802915,
-          "lng": 138.1444539302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉２丁目１８−８",
+      "geometry": {
+        "location": {
+          "lat": 36.4795773,
+          "lng": 138.1428999
         },
-        "southwest": {
-          "lat": 36.4781643197085,
-          "lng": 138.1417559697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48086312989272,
+            "lng": 138.1444547798927
+          },
+          "southwest": {
+            "lat": 36.47816347010728,
+            "lng": 138.1417551201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJY_TRVhScHWARfL7VoukGNXY",
-    "plus_code": {
-      "compound_code": "F4HV+R5 日本、長野県千曲市",
-      "global_code": "8Q8WF4HV+R5"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "health",
-      "point_of_interest",
-      "restaurant",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "湯の華銭湯 瑞祥 上山田本館",
+      "photos": [
+        {
+          "height": 1667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118142616041017683511\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECGzhPz-_WMQM3rCbcMATXjsQz1BALkZOmP1XL0saQ0c_RyjGA6XagSx4uk7-7Tg8sIm-8_MWD-xArpwxG2_KOELnM5AVHtjz0HLJX0i-Fc8s--PGtF0Fk6vKHoIB72TU3iUNRqou2ONicvzzD-JokBG1nXGDDSovWhGeqFfuO4X1e5",
+          "width": 2500
+        }
+      ],
+      "place_id": "ChIJY_TRVhScHWARfL7VoukGNXY",
+      "plus_code": {
+        "compound_code": "F4HV+R5 千曲市、長野県",
+        "global_code": "8Q8WF4HV+R5"
+      },
+      "types": [
+        "spa",
+        "health",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

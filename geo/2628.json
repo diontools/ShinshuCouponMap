@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 岩岳１２０２４",
-    "geometry": {
-      "location": {
-        "lat": 36.718113,
-        "lng": 137.8612
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7196016802915,
-          "lng": 137.8625739802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 岩岳１２０２４",
+      "geometry": {
+        "location": {
+          "lat": 36.718113,
+          "lng": 137.8612001
         },
-        "southwest": {
-          "lat": 36.7169037197085,
-          "lng": 137.8598760197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71960252989272,
+            "lng": 137.8625748798927
+          },
+          "southwest": {
+            "lat": 36.71690287010727,
+            "lng": 137.8598752201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAy_dO5bN918R-KaPyvWPWLI",
-    "plus_code": {
-      "compound_code": "PV96+6F 長野県白馬村",
-      "global_code": "8Q8VPV96+6F"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "スコーレ白馬",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102537796871284691528\">赤羅蓮次</a>"
+          ],
+          "photo_reference": "Aap_uEBny8tv_u9SehxlFnqPg_zlFM08hgRFVf4bIA13geK6Hlfut7E0JpXhZ0WNksAcoyrkANva7xBPYFC3R6LOxdCKGL5x6dak0LPMh33Lwa-6_LHmhllVhptVsg-YKLqYMhRlobG-_zGRNULTYZVsiDlf854bBE88rl8YQOimR2V7mNp7",
+          "width": 5332
+        }
+      ],
+      "place_id": "ChIJAy_dO5bN918R-KaPyvWPWLI",
+      "plus_code": {
+        "compound_code": "PV96+6F 白馬村、長野県",
+        "global_code": "8Q8VPV96+6F"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

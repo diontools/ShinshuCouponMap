@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小黒川",
-        "short_name": "小黒川",
-        "types": [
-          "establishment",
-          "natural_feature"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県伊那市 小黒川",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.8445523,
-          "lng": 137.9515096
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0026 長野県伊那市西町２６９",
+      "geometry": {
+        "location": {
+          "lat": 35.8413638,
+          "lng": 137.9319891
         },
-        "southwest": {
-          "lat": 35.8106097,
-          "lng": 137.8328517
+        "viewport": {
+          "northeast": {
+            "lat": 35.84273442989272,
+            "lng": 137.9332983798927
+          },
+          "southwest": {
+            "lat": 35.84003477010727,
+            "lng": 137.9305987201073
+          }
         }
       },
-      "location": {
-        "lat": 35.82758101120385,
-        "lng": 137.8921806348525
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8445523,
-          "lng": 137.9515096
-        },
-        "southwest": {
-          "lat": 35.8106097,
-          "lng": 137.8328517
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "スナックコーナー 小黒川PA 上り",
+      "photos": [
+        {
+          "height": 3104,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113695358441234347587\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECO7BfRGAAYUMd3gfKgX961i1MYFJCNWVTwaJyC5RtV4-0ElX-CFeyYwT4AXEVVeShDhk_nU7zPAUTaZRNic2y2r39IVeRw3PV6Oi93XhdrYAWD7bxYIGEWQgfBJI18uPxf4loxEIn-rvCAoNRRc9XPN7wmH9XPumOT7u-QqWhME4CN",
+          "width": 5520
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJv-TMDcTvHGARnkP7GG75vfw",
-    "types": [
-      "establishment",
-      "natural_feature"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ___PQufvHGARuynOE5-KJG4",
+      "plus_code": {
+        "compound_code": "RWRJ+GQ 伊那市、長野県",
+        "global_code": "8Q7VRWRJ+GQ"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

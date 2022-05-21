@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３２７８−２７１",
-        "short_name": "３２７８−２７１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上木島",
-        "short_name": "上木島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2303",
-        "short_name": "389-2303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３２７８−２７１",
-    "geometry": {
-      "location": {
-        "lat": 36.8148795,
-        "lng": 138.4022759
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8163075802915,
-          "lng": 138.4034941302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３２７８−２７１",
+      "geometry": {
+        "location": {
+          "lat": 36.8148795,
+          "lng": 138.402276
         },
-        "southwest": {
-          "lat": 36.8136096197085,
-          "lng": 138.4007961697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.81630842989272,
+            "lng": 138.4034950298927
+          },
+          "southwest": {
+            "lat": 36.81360877010728,
+            "lng": 138.4007953701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNeMDhbof9l8RiAxmmKnGYhI",
-    "plus_code": {
-      "compound_code": "RC72+XW 日本、長野県木島平村",
-      "global_code": "8Q8WRC72+XW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "オーベルジュグルービー",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110356079328849654600\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBF2rIN_ouOJ3SmlO9isoJkQEMOmkRVVRac4mWvaY0JcvR9c-n3tJqIYLXO12X9xIeNvgTbnr955o7H6B_OleKlPn7GoQXYXoJWqEMvt4-IV5uUmCIFVeOYndgWZ3SpeHNvqzDsYg-4S9zbtcFBFypSQpLO4PIQnBkadz7wElvP8kak",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJNeMDhbof9l8RiAxmmKnGYhI",
+      "plus_code": {
+        "compound_code": "RC72+XW 木島平村、長野県",
+        "global_code": "8Q8WRC72+XW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

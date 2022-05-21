@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷 大字豊郷麻釜8713−ロ",
-    "geometry": {
-      "location": {
-        "lat": 36.9248281,
-        "lng": 138.4488256
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9261810802915,
-          "lng": 138.4501860802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村 大字豊郷麻釜8713−ロ",
+      "geometry": {
+        "location": {
+          "lat": 36.9248281,
+          "lng": 138.4488256
         },
-        "southwest": {
-          "lat": 36.9234831197085,
-          "lng": 138.4474881197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92618192989271,
+            "lng": 138.4501869298927
+          },
+          "southwest": {
+            "lat": 36.92348227010727,
+            "lng": 138.4474872701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJITx56i8F9l8RvWXmms7mABA",
-    "plus_code": {
-      "compound_code": "WCFX+WG 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCFX+WG"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "湯元",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107915700173012938592\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA2eYaOLU529cqY7AJklQwaZapQQsZUfZ-bjFqatZurAoLSfxTvn8h0icUj4BAVx7taU0ZBk7PQxbL8p40Hqge7s8MsQjKE0C9jvy-zqlM5_hOWKfTMvoyvgsev8jC1KoqPzQno5jbhgLrpQ5DbMu483YTQjcdkcCT8XVNTDIPP-lNK",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJITx56i8F9l8RvWXmms7mABA",
+      "plus_code": {
+        "compound_code": "WCFX+WG 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+WG"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

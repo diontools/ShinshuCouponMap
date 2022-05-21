@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木の下",
-        "short_name": "木の下",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0000",
-        "short_name": "393-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0000 長野県諏訪郡下諏訪町木の下",
-    "geometry": {
-      "location": {
-        "lat": 36.0760667,
-        "lng": 138.0907857
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0772928302915,
-          "lng": 138.0918444302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0000 長野県諏訪郡下諏訪町木の下",
+      "geometry": {
+        "location": {
+          "lat": 36.0761038,
+          "lng": 138.0907676
         },
-        "southwest": {
-          "lat": 36.0745948697085,
-          "lng": 138.0891464697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07729367989272,
+            "lng": 138.0918452798927
+          },
+          "southwest": {
+            "lat": 36.07459402010728,
+            "lng": 138.0891456201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJI43Z1E9VHGARjPspBwZpVg4",
-    "plus_code": {
-      "compound_code": "33GR+C8 長野県下諏訪町",
-      "global_code": "8Q8W33GR+C8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "下諏訪温泉 聴泉閣かめや",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100325021030300984905\">聴泉閣かめや</a>"
+          ],
+          "photo_reference": "Aap_uECtcIin7GyQoszwwfmNqLMOiC4iaduih5oYuJgKJQoKkaMb7I051IPR5RsyI8uYsxQYexvQh-hDVmN_ZH6Cb4mOXtxty98q1naSQCgWNZEiNlnsVlJ1ET1wx38-C9dlNfInLngm42LCbTkl3AflKwsEgIY2jUPlVk534R-6rjv1_mjF",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJI43Z1E9VHGARjPspBwZpVg4",
+      "plus_code": {
+        "compound_code": "33GR+C8 下諏訪町、長野県",
+        "global_code": "8Q8W33GR+C8"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,111 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0012",
-        "short_name": "386-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0012 長野県上田市中央１丁目１−２２ 1階",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3980042,
-          "lng": 138.2501599
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0012 長野県上田市中央１丁目１−２２ 桝林ビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.3978196,
+          "lng": 138.2500446
         },
-        "southwest": {
-          "lat": 36.3977453,
-          "lng": 138.2498164
+        "viewport": {
+          "northeast": {
+            "lat": 36.39917217989272,
+            "lng": 138.2514853298927
+          },
+          "southwest": {
+            "lat": 36.39647252010727,
+            "lng": 138.2487856701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3978196,
-        "lng": 138.2500446
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3992237302915,
-          "lng": 138.2513703802915
-        },
-        "southwest": {
-          "lat": 36.3965257697085,
-          "lng": 138.2486724197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "魚民 上田お城口駅前店",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109683042220147190138\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECVZVraiTiuMWbartyVSK6NJ_mGzuSUqjiortbOKIRRRbPVVYwAXUpihHJm_BglJhcvmtEpIPnF67cylNXxjTTYVR-GRlw9bzX0I7rni8-VvgcQ1F-gOQGfQKIwUaJxMZKTGjq9HS_5Z6t9OPTZ9U6KhCAo8tu-hfPwIuCH0SHJYJG6",
+          "width": 3120
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "Ejgx6ZqOLCAxLWNoxY1tZS0xLTIyIENoxavFjSwgVWVkYSwgTmFnYW5vIDM4Ni0wMDEyLCBKYXBhbiIgGh4KFgoUChIJ1bLGHNq8HWAR7lMItvkyLR0SBDHpmo4",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJq6omUie9HWAR9Fc5aRlEziE",
+      "plus_code": {
+        "compound_code": "97X2+42 上田市、長野県",
+        "global_code": "8Q8W97X2+42"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

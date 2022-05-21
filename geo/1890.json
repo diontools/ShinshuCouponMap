@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６１０−４",
-        "short_name": "１６１０−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘野村",
-        "short_name": "広丘野村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0702",
-        "short_name": "399-0702",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村１６１０−４",
-    "geometry": {
-      "location": {
-        "lat": 36.1451155,
-        "lng": 137.9500209
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1465111802915,
-          "lng": 137.9514289302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村１６１０−４",
+      "geometry": {
+        "location": {
+          "lat": 36.1451155,
+          "lng": 137.9500209
         },
-        "southwest": {
-          "lat": 36.1438132197085,
-          "lng": 137.9487309697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.14651202989272,
+            "lng": 137.9514297798927
+          },
+          "southwest": {
+            "lat": 36.14381237010728,
+            "lng": 137.9487301201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJIQtBPxIFHWARi70ZXRmg-e4",
-    "plus_code": {
-      "compound_code": "4XW2+22 日本、長野県塩尻市",
-      "global_code": "8Q8V4XW2+22"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "朝日観光自動車 朝日観光バス",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106443013322511732857\">朝日観光バス（株）</a>"
+          ],
+          "photo_reference": "Aap_uEA2YfkHxePYEBYFmRGot1nT-ZFMP8xI4ZMAswshOs4VzjDPQfYy1RIDLQpc-BFeXxmKMSQIXMmOk97-i8iBAs4u9_NmobjX7dB0dDZ0bYdS-_mEaTyHlS-7qE9kpbk2aiyye6ddc3VyVEHMmrsawSwRz4hrkIqxztQZEbFZ9ceOwHox",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJIQtBPxIFHWARi70ZXRmg-e4",
+      "plus_code": {
+        "compound_code": "4XW2+22 塩尻市、長野県",
+        "global_code": "8Q8V4XW2+22"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,106 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白蓮坊",
-        "short_name": "白蓮坊",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４６５",
-        "short_name": "４６５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元善町",
-        "short_name": "元善町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大字",
-        "short_name": "大字",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0851",
-        "short_name": "380-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0851 長野県長野市大字長野元善町４６５ 白蓮坊",
-    "geometry": {
-      "location": {
-        "lat": 36.65807,
-        "lng": 138.187688
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.65941898029149,
-          "lng": 138.1890369802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0851 長野県長野市大字長野４６５ 白蓮坊",
+      "geometry": {
+        "location": {
+          "lat": 36.65807,
+          "lng": 138.187688
         },
-        "southwest": {
-          "lat": 36.65672101970849,
-          "lng": 138.1863390197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65941982989271,
+            "lng": 138.1890378298927
+          },
+          "southwest": {
+            "lat": 36.65672017010727,
+            "lng": 138.1863381701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ60fUnOSGHWARuMBO4INoGxg",
-    "plus_code": {
-      "compound_code": "M55Q+63 日本、長野県長野市",
-      "global_code": "8Q8WM55Q+63"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "galerie蓮(ギャルリ･れん)",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110118060224168013667\">石山亜矢子</a>"
+          ],
+          "photo_reference": "Aap_uEAo-puvziAM3Xip2E1dkiLJd5NdV2MEgG3M4be7L43MBR2V8o9IjxyTLPfM1diVuoxC6wRLbTLvx9lecNoSagznbrmCcaPxY2k3p7Br-_Njod8Q6m0Nsfu9LzCRQY8lT86B9Fz--aFeFRxQ7-DfQ6bzBNHiccdxx3Eh-r7zBNUzQlH0",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJ60fUnOSGHWARuMBO4INoGxg",
+      "plus_code": {
+        "compound_code": "M55Q+63 長野市、長野県",
+        "global_code": "8Q8WM55Q+63"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

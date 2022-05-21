@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "東後町",
-        "short_name": "東後町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0832",
-        "short_name": "380-0832",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0832 長野県長野市長野東後町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6545907,
-          "lng": 138.1881158
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0832 長野県長野市長野東後町",
+      "geometry": {
+        "location": {
+          "lat": 36.6540532,
+          "lng": 138.1875956
         },
-        "southwest": {
-          "lat": 36.6527664,
-          "lng": 138.1872845
+        "viewport": {
+          "northeast": {
+            "lat": 36.65502837989272,
+            "lng": 138.1890499798928
+          },
+          "southwest": {
+            "lat": 36.65232872010728,
+            "lng": 138.1863503201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6540532,
-        "lng": 138.1875956
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6550275302915,
-          "lng": 138.1890491302915
-        },
-        "southwest": {
-          "lat": 36.6523295697085,
-          "lng": 138.1863511697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0832 長野県長野市長野東後町",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112748588451942556039\">derek hill</a>"
+          ],
+          "photo_reference": "Aap_uED_rj0XPPk1-VpCmquccGw8xetkaElyORLea0TPlKMgzsABE7Q-MpR19LGpFxqpfVD2eS1t8_lgutLbo29KiTGYgRoMwquGgb_Ny-oObH3fSdQphRexXtKijZc5AlJuIxF4c3ggKHACcuKHijUA39UWHaOAmDCxbLCYMCULmwwB131V",
+          "width": 4096
         }
-      }
-    },
-    "place_id": "ChIJbSj2h--GHWARxxKvqU2_0gY",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJbSj2h--GHWARxxKvqU2_0gY",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

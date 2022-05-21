@@ -1,107 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "旅館菊之湯",
-        "short_name": "旅館菊之湯",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２９",
-        "short_name": "２９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "浅間温泉",
-        "short_name": "浅間温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0303",
-        "short_name": "390-0303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉１丁目２９−７ 旅館菊之湯",
-    "geometry": {
-      "location": {
-        "lat": 36.2609976,
-        "lng": 137.9866412
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.26233233029149,
-          "lng": 137.9878869302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉１丁目２９−７ 旅館菊之湯",
+      "geometry": {
+        "location": {
+          "lat": 36.2609816,
+          "lng": 137.9865245
         },
-        "southwest": {
-          "lat": 36.25963436970849,
-          "lng": 137.9851889697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26233317989271,
+            "lng": 137.9878877798927
+          },
+          "southwest": {
+            "lat": 36.25963352010727,
+            "lng": 137.9851881201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdbdMJ5MOHWARggr3Hwy6iPI",
-    "plus_code": {
-      "compound_code": "7X6P+9M 日本、長野県松本市",
-      "global_code": "8Q8V7X6P+9M"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "菊之湯",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113946896170271691475\">tommy tommy</a>"
+          ],
+          "photo_reference": "Aap_uEDabG2v4HOVQsK-5zIKiOGfUA1sjKp2mJ82iumhT3-V17xLP-dRWFFwvYscJryCTZMnCeMYGdE9BerMPXQe7JbMNx1RNFafNheBOYmL8t_Az1l-CkDsSvUWEPxVi0sU_USS1AvKRtQD7T46ZuheH6db6xuthwn_9tNvAjZ_VudcQ4TO",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJdbdMJ5MOHWARggr3Hwy6iPI",
+      "plus_code": {
+        "compound_code": "7X6P+9M 松本市、長野県",
+        "global_code": "8Q8V7X6P+9M"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

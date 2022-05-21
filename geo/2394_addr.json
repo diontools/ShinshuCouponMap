@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０８４",
-        "short_name": "４０８４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町４０８４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5050312,
-          "lng": 137.8585883
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒398-0002 長野県大町市大町４０８４",
+      "geometry": {
+        "location": {
+          "lat": 36.5049372,
+          "lng": 137.8583609
         },
-        "southwest": {
-          "lat": 36.5048536,
-          "lng": 137.8582865
+        "viewport": {
+          "northeast": {
+            "lat": 36.50636222989272,
+            "lng": 137.8596893298927
+          },
+          "southwest": {
+            "lat": 36.50366257010727,
+            "lng": 137.8569896701073
+          }
         }
       },
-      "location": {
-        "lat": 36.5049372,
-        "lng": 137.8583609
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5063195802915,
-          "lng": 137.8597863802915
-        },
-        "southwest": {
-          "lat": 36.5036216197085,
-          "lng": 137.8570884197085
-        }
-      }
-    },
-    "place_id": "ChIJd58AnMFjHWAR2zQQ7KyG8f4",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒398-0002 長野県大町市大町４０８４",
+      "place_id": "ChIJd58AnMFjHWAR2zQQ7KyG8f4",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

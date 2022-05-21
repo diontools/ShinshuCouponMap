@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９７−１４９７",
-        "short_name": "４９７−１４９７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂４９７−１４９７",
-    "geometry": {
-      "location": {
-        "lat": 35.7402784,
-        "lng": 137.9000904
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.74142953029151,
-          "lng": 137.9014925802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂４９７−１４９７",
+      "geometry": {
+        "location": {
+          "lat": 35.7402784,
+          "lng": 137.9000904
         },
-        "southwest": {
-          "lat": 35.73873156970851,
-          "lng": 137.8987946197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74143037989272,
+            "lng": 137.9014934298928
+          },
+          "southwest": {
+            "lat": 35.73873072010728,
+            "lng": 137.8987937701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxdnjghLtHGAR-0KdIjLV3tc",
-    "plus_code": {
-      "compound_code": "PWR2+42 長野県駒ヶ根市",
-      "global_code": "8Q7VPWR2+42"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル やまぶき",
+      "photos": [
+        {
+          "height": 1124,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105420254515140911868\">ホテルやまぶき</a>"
+          ],
+          "photo_reference": "Aap_uEBLHkNXvHVvDhlgaQCZt-mKX-8YA9fzqGnBM5zFpdKMCF1yH5b_zEXwAIJzpUS6BCw4kJLMefK3yZPO1TqxLWQr-MyLE8N4T_UsPJiR7hpfIjAd1vNCAt_vvLTV9kLzYdvRU9ViEovDCuFX7qReIZhQuXpAfRdAGUIUL3vWNvqfWTm3",
+          "width": 1685
+        }
+      ],
+      "place_id": "ChIJxdnjghLtHGAR-0KdIjLV3tc",
+      "plus_code": {
+        "compound_code": "PWR2+42 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWR2+42"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

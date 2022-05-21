@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北安曇郡白馬村",
-        "short_name": "北安曇郡白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡北安曇郡白馬村神城 神城22548JR神城駅構内",
-    "geometry": {
-      "location": {
-        "lat": 36.6579986,
-        "lng": 137.846648
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6592932302915,
-          "lng": 137.8481045302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡北安曇郡白馬村 神城22548JR神城駅構内",
+      "geometry": {
+        "location": {
+          "lat": 36.6579446,
+          "lng": 137.8466517
         },
-        "southwest": {
-          "lat": 36.6565952697085,
-          "lng": 137.8454065697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65929407989272,
+            "lng": 137.8481053798927
+          },
+          "southwest": {
+            "lat": 36.65659442010728,
+            "lng": 137.8454057201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJOzaoCFLQ918RSRa9z75AVIA",
-    "plus_code": {
-      "compound_code": "MR5W+5M 長野県白馬村",
-      "global_code": "8Q8VMR5W+5M"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "白馬五竜観光協会",
+      "photos": [
+        {
+          "height": 1700,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106889869776847980008\">Laxic Hsiao</a>"
+          ],
+          "photo_reference": "Aap_uEAxeVw8m2qIm1cNlF8lyzQ89FB5Soz6X26Ce1LOxHWsSIsruZHgGlKkAS9b3zFVdjBUgQ8US5qOSv1mvoE5k4KZHccev6v0zQuVgwSB779KCLTs9Rczd-HK9sDre8TgAvxB7wU7xAWcZK4dhbjfgmL9Q7UeTReeTtDi-F8qUMPlVclJ",
+          "width": 2550
+        }
+      ],
+      "place_id": "ChIJOzaoCFLQ918RSRa9z75AVIA",
+      "plus_code": {
+        "compound_code": "MR5W+5M 白馬村、長野県",
+        "global_code": "8Q8VMR5W+5M"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

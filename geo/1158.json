@@ -1,153 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長和町",
-        "short_name": "長和町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県小県郡長和町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2967821,
-          "lng": 138.2995141
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒379-2311 群馬県みどり市笠懸町阿左美３３９８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3859638,
+          "lng": 139.3091724
         },
-        "southwest": {
-          "lat": 36.105244,
-          "lng": 138.1198082
+        "viewport": {
+          "northeast": {
+            "lat": 36.38735607989272,
+            "lng": 139.3104656298927
+          },
+          "southwest": {
+            "lat": 36.38465642010728,
+            "lng": 139.3077659701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2698987,
-        "lng": 138.2580282
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2967821,
-          "lng": 138.2995141
-        },
-        "southwest": {
-          "lat": 36.105244,
-          "lng": 138.1198082
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ラ・ポルト",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115201753979158690883\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDGHOwkRCu05OA-kYDIczPZ6C_fbQVtZmVvcDXpropU3HwB-RT5UcwyEQGqnx1Kqmj9mDs-EQby_8J8iNhlF8qQcGx1cXXB36J5VUHdpmMIeUyZvlmlt6cCbm75rR_MGARBSwNcaqiM9wrG99oz1r7nGBQmboEgRUpnVlgVRN0QdVQw",
+          "width": 3840
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL2VwANqtHWAR1BY_Fc2ub4g",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "３３９８−１",
-        "short_name": "３３９８−１",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJ65r5V8PjHmAR52rFUHAYzNw",
+      "plus_code": {
+        "compound_code": "98P5+CM みどり市、群馬県",
+        "global_code": "8Q8X98P5+CM"
       },
-      {
-        "long_name": "笠懸町阿左美",
-        "short_name": "笠懸町阿左美",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "みどり市",
-        "short_name": "みどり市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "群馬県",
-        "short_name": "群馬県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "379-2311",
-        "short_name": "379-2311",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒379-2311 群馬県みどり市笠懸町阿左美３３９８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3860197,
-        "lng": 139.3092256
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3873552302915,
-          "lng": 139.3104647802915
-        },
-        "southwest": {
-          "lat": 36.3846572697085,
-          "lng": 139.3077668197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ65r5V8PjHmAR52rFUHAYzNw",
-    "plus_code": {
-      "compound_code": "98P5+CM 日本、群馬県みどり市",
-      "global_code": "8Q8X98P5+CM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

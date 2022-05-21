@@ -1,85 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "6845",
-        "short_name": "6845",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "米沢",
-        "short_name": "米沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0216",
-        "short_name": "391-0216",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0216 長野県茅野市米沢6845",
-    "geometry": {
-      "location": {
-        "lat": 36.034525,
-        "lng": 138.195222
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0359849802915,
-          "lng": 138.1965856802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0216 長野県茅野市米沢6845",
+      "geometry": {
+        "location": {
+          "lat": 36.0346197,
+          "lng": 138.1951861
         },
-        "southwest": {
-          "lat": 36.0332870197085,
-          "lng": 138.1938877197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03598582989272,
+            "lng": 138.1965865298927
+          },
+          "southwest": {
+            "lat": 36.03328617010728,
+            "lng": 138.1938868701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO6_7kQtRHGARYkttdar28Yw",
-    "plus_code": {
-      "compound_code": "25MW+R3 長野県茅野市",
-      "global_code": "8Q8W25MW+R3"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "米沢温泉 塩壺の湯",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105406712302911354678\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAg-AcUs33_T-U3fcaVDx3UgHk1WFfKWniahuUsuIeVnx8XBkXrSCYcT9I2NanN93knrDMgUB6fuAVUw6ZhORJRlXXLlv7_9iqboYYepinux9iGAbZxTJWdkLw8dLO5ToxErVzglQUMK195sK6474nZYxop4pbE3GLDTjO2oGk3x0fH",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJO6_7kQtRHGARYkttdar28Yw",
+      "plus_code": {
+        "compound_code": "25MW+R3 茅野市、長野県",
+        "global_code": "8Q8W25MW+R3"
+      },
+      "types": [
+        "tourist_attraction",
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

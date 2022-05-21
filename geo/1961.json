@@ -1,64 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1611 長野県松本市奈川29ｰ1",
+      "geometry": {
+        "location": {
+          "lat": 36.0426467,
+          "lng": 137.63792
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.04393877989272,
+            "lng": 137.6392772298927
+          },
+          "southwest": {
+            "lat": 36.04123912010728,
+            "lng": 137.6365775701072
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "野麦峠オートキャンプ場",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103491739742722192005\">近藤雄一</a>"
+          ],
+          "photo_reference": "Aap_uEA44SzUN0-exsRiYY8PIWdkIHTDruPSQdWeK033ut39LksDGVZ7BYopkbbi9Vbdpx_-Q4KkRvb0MojzJ5T_PXmMA8Oxbm7BpCASEcE9c-mgBQCDhPh1O1VPsMpJkZMK5SkxebOWfUbFZjskyWb7smST4DCE8d3b_bp8T7gPHpu7Fwyj",
+          "width": 3840
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJnek5-do6HWARTTrbbXsEcW4",
+      "plus_code": {
+        "compound_code": "2JVQ+35 松本市、長野県",
+        "global_code": "8Q8V2JVQ+35"
+      },
+      "types": [
+        "campground",
+        "park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

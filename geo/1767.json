@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６５２",
-        "short_name": "３６５２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田",
-        "short_name": "芦田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2305",
-        "short_name": "384-2305",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2305 長野県北佐久郡立科町芦田３６５２",
-    "geometry": {
-      "location": {
-        "lat": 36.2874311,
-        "lng": 138.3128413
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2885095802915,
-          "lng": 138.3142955302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１５２６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.1093381,
+          "lng": 138.2359779
         },
-        "southwest": {
-          "lat": 36.2858116197085,
-          "lng": 138.3115975697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.11057502989272,
+            "lng": 138.2374186298927
+          },
+          "southwest": {
+            "lat": 36.10787537010727,
+            "lng": 138.2347189701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs_9QQ9awHWARFZpucdG5UbQ",
-    "plus_code": {
-      "compound_code": "78P7+X4 日本、長野県立科町",
-      "global_code": "8Q8W78P7+X4"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "school"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "楽しい食品館 白樺湖店",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107178126097223510280\">かがやとしゆき</a>"
+          ],
+          "photo_reference": "Aap_uEBOBDw1hE7i3dYcUpGXwAa_v3PSL9-FtGp89OGiiAqmr-oJIQw3qHAaj22_rYZER4ZVJbyKio2ojQ2d6yxN9RCIujuZwcTz2O1uAoP6tPJmgHshZeoUkTmRjLyl8ukNXNTAjzNR0WH-lUXDdy2g-U4BfWWDlXZXMr4cya44omWNNJml",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ60LegHlTHGAR5oyJnViaYfQ",
+      "plus_code": {
+        "compound_code": "465P+Q9 立科町、長野県",
+        "global_code": "8Q8W465P+Q9"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

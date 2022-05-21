@@ -1,72 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下伊那郡阿智村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7703721
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３７３１−４",
+      "geometry": {
+        "location": {
+          "lat": 35.4552465,
+          "lng": 137.66843
         },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.5930079
+        "viewport": {
+          "northeast": {
+            "lat": 35.45623432989272,
+            "lng": 137.6695542298927
+          },
+          "southwest": {
+            "lat": 35.45353467010728,
+            "lng": 137.6668545701073
+          }
         }
       },
-      "location": {
-        "lat": 35.4440944,
-        "lng": 137.7479129
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7703721
-        },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.5930079
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "天空の楽園 日本一の星空ツアー",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111210919417403826039\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED4JXao_HbOTMMjIilCu-RY-kmTrU5hJ1aezmVESycq8p5lbdKBe77Ikj1zGqa-pfBv8uuLa25QsQ1xVpb57DTM66v3VVrQ0EDuOhCOoZnsnLfSKAMYKDEUErZgnlKoglrR_tZDnYlqnp7l_mUJguA0plkw9y-EKH74FZCXOvHVrKx_",
+          "width": 3000
         }
-      }
+      ],
+      "place_id": "ChIJPVTmgjylHGARSmFo-FdBbHs",
+      "plus_code": {
+        "compound_code": "FM49+39 阿智村、長野県",
+        "global_code": "8Q7VFM49+39"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ_6rBnHakHGARKet4IBZfp3c",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３０７",
+      "geometry": {
+        "location": {
+          "lat": 35.45380919999999,
+          "lng": 137.7156883
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.45541282989272,
+            "lng": 137.7171618798927
+          },
+          "southwest": {
+            "lat": 35.45271317010728,
+            "lng": 137.7144622201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "昼神温泉 足湯 ふれあいの湯",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107559302950044660404\">tayu8800az</a>"
+          ],
+          "photo_reference": "Aap_uEAc78urQJODyYAxXHuOdAMpFm2UXqthV01JZobUns64urW-Nvcg8KGA-QqABeQ35d64BLAjGAZGjr1r-W8nSL0hYn5ciulosPuKXLlgQm2pX4bclIDt3PAGPOmKzlsysJYUPzCi5QeWUiYrEgAeO8nY8q64WxPHlVgU1NFfsCOxVreY",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJHx7g9AejHGARjNxZmKhRcPQ",
+      "plus_code": {
+        "compound_code": "FP38+G7 阿智村、長野県",
+        "global_code": "8Q7VFP38+G7"
+      },
+      "types": [
+        "tourist_attraction",
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

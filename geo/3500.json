@@ -1,64 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0022 長野県諏訪市高島２丁目１２４９",
+      "geometry": {
+        "location": {
+          "lat": 36.0402665,
+          "lng": 138.1103276
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 36.04156102989272,
+            "lng": 138.1116554298927
+          },
+          "southwest": {
+            "lat": 36.03886137010727,
+            "lng": 138.1089557701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "第一交通（株） 配車センター",
+      "photos": [
+        {
+          "height": 3166,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113177172218939808584\">Taro Kikuchi</a>"
+          ],
+          "photo_reference": "Aap_uEBgXJIWOv9sa5eKD5-MtyavqFVdMP5CZrpj6d0O9SOo_KQjTeGUPUKly0dYWG7InocHFh5xzGAdJ8UD3sWQeQpRPB0PPgLzNzDCsCJbJwFxFKy-nJruvUbqYiOzlFumHj_0Okbhxgm_vZWZkIoHNKGU3NHoar-GEVWhrsxaHyXXTpTE",
+          "width": 3166
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ39IoY7dVHGARj6uBLzwAEqs",
+      "plus_code": {
+        "compound_code": "24R6+44 諏訪市、長野県",
+        "global_code": "8Q8W24R6+44"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

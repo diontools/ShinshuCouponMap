@@ -1,83 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７２−１",
-        "short_name": "１１７２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平原",
-        "short_name": "平原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0092",
-        "short_name": "384-0092",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0092 長野県小諸市平原１１７２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.314236,
-        "lng": 138.461631
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3154651802915,
-          "lng": 138.4629852802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0092 長野県小諸市平原１１７２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.314236,
+          "lng": 138.461631
         },
-        "southwest": {
-          "lat": 36.3127672197085,
-          "lng": 138.4602873197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31546657989272,
+            "lng": 138.4630058798927
+          },
+          "southwest": {
+            "lat": 36.31276692010728,
+            "lng": 138.4603062201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "お食事処 やまへい 小諸店",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101586819367631302344\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDolXOWVsINgs0w7r4oazXRrDLZReqbRSegI_hVS00_LVeuMh9iq7C0Zv1AI9TSHkkryCrMgZghs5W6QR8ourCJFAYtOO4MCXErkObANEIm5moTh5QyZ0Ia2DYHI5IajhuWW_EGFmOLJEVyiebtnHcYVpBQ-0AqfPs-mfldaXVLZBiw",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJMaYfD1_JHWARAQNkMYbtwJw",
+      "plus_code": {
+        "compound_code": "8F76+MM 小諸市、長野県",
+        "global_code": "8Q8W8F76+MM"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJMaYfD1_JHWARAQNkMYbtwJw",
-    "plus_code": {
-      "compound_code": "8F76+MM 日本、長野県小諸市",
-      "global_code": "8Q8W8F76+MM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0801 長野県小諸市甲１１９９",
+      "geometry": {
+        "location": {
+          "lat": 36.308153,
+          "lng": 138.4287703
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.30950012989273,
+            "lng": 138.4301981298927
+          },
+          "southwest": {
+            "lat": 36.30680047010728,
+            "lng": 138.4274984701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "やまへい 本社",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111656508565842515826\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA6usrmGMIhZzjU8lI6GibQ9ylTtiTJ5WC4feDCgpu-TqVgyYAmMu1kL1cotPpecUKNV5YBzE3ObFxxcrtYIM4nUSTHVAB9e6DRYn8IHKwjFnrhr8RutsKSdDb1NL9_jPJVMERK13Qhp9LBOUVKZ1AaBJmUP6K9nsAoUovQVD63nmvT",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJC34nr5rJHWAR0wcOtWYE1t0",
+      "plus_code": {
+        "compound_code": "8C5H+7H 小諸市、長野県",
+        "global_code": "8Q8W8C5H+7H"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

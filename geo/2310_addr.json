@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５５６",
-        "short_name": "２５５６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈川",
-        "short_name": "奈川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1611",
-        "short_name": "390-1611",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1611 長野県松本市奈川２５５６",
-    "geometry": {
-      "location": {
-        "lat": 36.0882941,
-        "lng": 137.6771463
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0895893802915,
-          "lng": 137.6784209302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-1611 長野県松本市奈川２５５６",
+      "geometry": {
+        "location": {
+          "lat": 36.0882941,
+          "lng": 137.6771463
         },
-        "southwest": {
-          "lat": 36.0868914197085,
-          "lng": 137.6757229697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.08959022989272,
+            "lng": 137.6784217798927
+          },
+          "southwest": {
+            "lat": 36.08689057010728,
+            "lng": 137.6757221201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJU8RJdIM7HWARcwFvoHlffDk",
-    "plus_code": {
-      "compound_code": "3MQG+8V 長野県松本市",
-      "global_code": "8Q8V3MQG+8V"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-1611 長野県松本市奈川２５５６",
+      "place_id": "ChIJU8RJdIM7HWARcwFvoHlffDk",
+      "plus_code": {
+        "compound_code": "3MQG+8V 松本市、長野県",
+        "global_code": "8Q8V3MQG+8V"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

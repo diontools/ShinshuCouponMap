@@ -1,156 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡小谷村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８４０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.748171,
+          "lng": 137.8706726
         },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+        "viewport": {
+          "northeast": {
+            "lat": 36.74956247989272,
+            "lng": 137.8720772298927
+          },
+          "southwest": {
+            "lat": 36.74686282010728,
+            "lng": 137.8693775701072
+          }
         }
       },
-      "location": {
-        "lat": 36.779238,
-        "lng": 137.9083847
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
-        },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Melt by UNPLAN",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114515959450537874851\">KAZU OKA</a>"
+          ],
+          "photo_reference": "Aap_uEBBsiJP0o0_4yKZ162cgpHPgik0IV8ck6hE_IbWOHk5INSTtyl-90u6_VsiwTBBoRtwkqPXGE6xL5vNyryyyYWEGRvSKywtNQ0jQUyds0PrXqQtN2VA6CTOnN-uBXUlUTgj02NUvlG8A37OsjsOrCDccQTBVoleYmoH6hxErpGzDhlW",
+          "width": 3000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEbXKV9U19l8R_PGKt2EWtyI",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "太田窪",
-        "short_name": "太田窪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
+      ],
+      "place_id": "ChIJoUotrcPN918RIqkX39L8Lio",
+      "plus_code": {
+        "compound_code": "PVXC+77 小谷村、長野県",
+        "global_code": "8Q8VPVXC+77"
       },
-      {
-        "long_name": "南区",
-        "short_name": "南区",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "さいたま市",
-        "short_name": "さいたま市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "埼玉県",
-        "short_name": "埼玉県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "336-0015",
-        "short_name": "336-0015",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒336-0015 埼玉県さいたま市南区太田窪",
-    "geometry": {
-      "location": {
-        "lat": 35.857244,
-        "lng": 139.67821
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8585651302915,
-          "lng": 139.6794967302915
-        },
-        "southwest": {
-          "lat": 35.8558671697085,
-          "lng": 139.6767987697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZ8d91LvqGGARhYQb7k5PW4w",
-    "plus_code": {
-      "compound_code": "VM4H+V7 日本、埼玉県さいたま市",
-      "global_code": "8Q7XVM4H+V7"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      "types": [
+        "restaurant",
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

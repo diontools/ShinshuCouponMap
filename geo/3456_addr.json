@@ -1,94 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "元町",
-        "short_name": "元町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0006",
-        "short_name": "392-0006",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0006 長野県諏訪市元町３−２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0390644,
-          "lng": 138.1238614
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0006 長野県諏訪市元町３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.038971,
+          "lng": 138.1237637
         },
-        "southwest": {
-          "lat": 36.0388432,
-          "lng": 138.1235185
+        "viewport": {
+          "northeast": {
+            "lat": 36.04035707989272,
+            "lng": 138.1251635798927
+          },
+          "southwest": {
+            "lat": 36.03765742010728,
+            "lng": 138.1224639201072
+          }
         }
       },
-      "location": {
-        "lat": 36.038971,
-        "lng": 138.1237637
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0403027802915,
-          "lng": 138.1250401302915
-        },
-        "southwest": {
-          "lat": 36.0376048197085,
-          "lng": 138.1223421697085
-        }
-      }
-    },
-    "place_id": "ChIJGxpmczRUHGARA8-4-1RVoec",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0006 長野県諏訪市元町３−２",
+      "place_id": "ChIJGxpmczRUHGARA8-4-1RVoec",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

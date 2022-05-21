@@ -1,169 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "八幡",
-        "short_name": "八幡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0023",
-        "short_name": "387-0023",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0023 長野県千曲市八幡",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5289825,
-          "lng": 138.1169095
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0023 長野県千曲市八幡大池７３４０",
+      "geometry": {
+        "location": {
+          "lat": 36.4968286,
+          "lng": 138.0975055
         },
-        "southwest": {
-          "lat": 36.4781067,
-          "lng": 138.0505424
+        "viewport": {
+          "northeast": {
+            "lat": 36.49817972989272,
+            "lng": 138.0988599298927
+          },
+          "southwest": {
+            "lat": 36.49548007010728,
+            "lng": 138.0961602701073
+          }
         }
       },
-      "location": {
-        "lat": 36.504558,
-        "lng": 138.0902768
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5289825,
-          "lng": 138.1169095
-        },
-        "southwest": {
-          "lat": 36.4781067,
-          "lng": 138.0505424
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "姨捨SA (上り)",
+      "photos": [
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101765789135094692493\">だんなだよ</a>"
+          ],
+          "photo_reference": "Aap_uECw-fceQFW8E3PCkkCjQWnbQIMeWK2IBP2zoXi7nFAdHjm1IClcZ9p05A2gHbr_yIyg491QGtYfJiQL5KUj9KimgNgokbuioRSECudC327HhbM4p8qHBzyxD05xFziMOpI1inG1mmzAIgpp189B6sqL8JFSIQ08Yv1eCehuLUN2tC_C",
+          "width": 4656
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhQkkPVedHWARj6BccdnzHzk",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "柳田",
-        "short_name": "柳田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
+      ],
+      "place_id": "ChIJnxkGXGqdHWARtA1lx0Y3i-g",
+      "plus_code": {
+        "compound_code": "F3WX+P2 千曲市、長野県",
+        "global_code": "8Q8WF3WX+P2"
       },
-      {
-        "long_name": "増田",
-        "short_name": "増田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "名取市",
-        "short_name": "名取市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "宮城県",
-        "short_name": "宮城県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "981-1224",
-        "short_name": "981-1224",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒981-1224 宮城県名取市増田柳田",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 38.1728169,
-          "lng": 140.8968665
-        },
-        "southwest": {
-          "lat": 38.166112,
-          "lng": 140.8897992
-        }
-      },
-      "location": {
-        "lat": 38.170701,
-        "lng": 140.8939297
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 38.1728169,
-          "lng": 140.8968665
-        },
-        "southwest": {
-          "lat": 38.166112,
-          "lng": 140.8897992
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJi0AW1Psjil8RbleCoht0FYo",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

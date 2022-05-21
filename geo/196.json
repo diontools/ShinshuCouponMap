@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木島平やまびこの丘公園",
-        "short_name": "木島平やまびこの丘公園",
-        "types": [
-          "establishment",
-          "park",
-          "point_of_interest",
-          "tourist_attraction"
-        ]
-      },
-      {
-        "long_name": "３２７８−８０",
-        "short_name": "３２７８−８０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "村上木島",
-        "short_name": "村上木島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2303",
-        "short_name": "389-2303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村村上木島３２７８−８０ 木島平やまびこの丘公園",
-    "geometry": {
-      "location": {
-        "lat": 36.814242,
-        "lng": 138.412568
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8151552802915,
-          "lng": 138.4142237802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村村上木島３２７８−８０",
+      "geometry": {
+        "location": {
+          "lat": 36.814242,
+          "lng": 138.412568
         },
-        "southwest": {
-          "lat": 36.8124573197085,
-          "lng": 138.4115258197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.81515612989272,
+            "lng": 138.4142246298927
+          },
+          "southwest": {
+            "lat": 36.81245647010728,
+            "lng": 138.4115249701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJU6ekZLYf9l8R1DzQ0Nj6GyQ",
-    "plus_code": {
-      "compound_code": "RC77+M2 日本、長野県木島平村",
-      "global_code": "8Q8WRC77+M2"
-    },
-    "types": [
-      "establishment",
-      "park",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "木島平やまびこの丘公園",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115578685035686397094\">s50n2011</a>"
+          ],
+          "photo_reference": "Aap_uED2U3LpUsOv50jkl8o6QuTDD-FvpQG6npOQGyEXJswar7HkTBWpvqX9jvt9cOqwKWMjfAUy1dMMLpJ-2ypHQq14bUGXQvfjzjN2m6t-Xl3ZHWRhEBG4Inpkiwhj63RH8CXdEz_qdQXeJ5rWRWrj3VQOn1YCAuAcZ10-NY0ap62FCRjF",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJU6ekZLYf9l8R1DzQ0Nj6GyQ",
+      "plus_code": {
+        "compound_code": "RC77+M2 木島平村、長野県",
+        "global_code": "8Q8WRC77+M2"
+      },
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

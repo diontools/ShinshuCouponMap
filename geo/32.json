@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１７１",
-        "short_name": "２１７１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２１７１",
-    "geometry": {
-      "location": {
-        "lat": 36.7346556,
-        "lng": 138.4315292
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.73596603029149,
-          "lng": 138.4328561802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２１７１",
+      "geometry": {
+        "location": {
+          "lat": 36.73462300000001,
+          "lng": 138.4315196
         },
-        "southwest": {
-          "lat": 36.7332680697085,
-          "lng": 138.4301582197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73596687989272,
+            "lng": 138.4328570298927
+          },
+          "southwest": {
+            "lat": 36.73326722010727,
+            "lng": 138.4301573701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9T2UnIP0HWAR-ryNvbyd6Yw",
-    "plus_code": {
-      "compound_code": "PCMJ+VJ 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCMJ+VJ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "和の心を愉しむ 渋温泉 春蘭の宿 さかえや",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114680720608367091958\">渋温泉 春蘭の宿さかえや</a>"
+          ],
+          "photo_reference": "Aap_uEAzBOfj9oMquhpnWUwiizh_Hpdx3NFz-uBcZrQokWN1kW3MoeVZuFln_vSHiWoVpKUVOb2UFlLPVvY4R5ZSV_8I_Hz40D3knyHD2edrG0Irxuat5ObiWJ8kwo-SM0xfDJs_BcKWBo2SMXyZ-1eK3lO3B7V3fy_nlTFPy4u0njIwNJRh",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJ9T2UnIP0HWAR-ryNvbyd6Yw",
+      "plus_code": {
+        "compound_code": "PCMJ+VJ 山ノ内町、長野県",
+        "global_code": "8Q8WPCMJ+VJ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

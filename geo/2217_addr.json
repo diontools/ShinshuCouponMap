@@ -1,97 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目３−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2313421,
-        "lng": 137.965917
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2327216802915,
-          "lng": 137.9672543302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目３−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2313421,
+          "lng": 137.965917
         },
-        "southwest": {
-          "lat": 36.23002371970851,
-          "lng": 137.9645563697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23272252989272,
+            "lng": 137.9672551798927
+          },
+          "southwest": {
+            "lat": 36.23002287010727,
+            "lng": 137.9645555201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJJ1px-4sOHWAR-HtJ35eGUf0",
-    "plus_code": {
-      "compound_code": "6XJ8+G9 長野県松本市",
-      "global_code": "8Q8V6XJ8+G9"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0811 長野県松本市中央１丁目３−１",
+      "place_id": "ChIJJ1px-4sOHWAR-HtJ35eGUf0",
+      "plus_code": {
+        "compound_code": "6XJ8+G9 松本市、長野県",
+        "global_code": "8Q8V6XJ8+G9"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１０６",
-        "short_name": "２１０６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "平高瀬入",
-        "short_name": "平高瀬入",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平高瀬入２１０６",
-    "geometry": {
-      "location": {
-        "lat": 36.4924731,
-        "lng": 137.7480976
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.49389538029151,
-          "lng": 137.7494167302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平高瀬入２１０６",
+      "geometry": {
+        "location": {
+          "lat": 36.4924731,
+          "lng": 137.7480976
         },
-        "southwest": {
-          "lat": 36.49119741970851,
-          "lng": 137.7467187697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.49389622989272,
+            "lng": 137.7494175798927
+          },
+          "southwest": {
+            "lat": 36.49119657010728,
+            "lng": 137.7467179201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "葛温泉 温宿かじか",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116372937088328205232\">Satoshi Momose</a>"
+          ],
+          "photo_reference": "Aap_uEB2kj-wvGwIbeQwH8c7GeYxsSVce_v-oApjObkAoAReSxgo3YZGieWgcatjmN1o2GVgUZRROmYpsXQ7PAaVKtJmP7StB7GGZaJf_jwa4Ihbw9lGHCJxjEwTegtcWU-UeWSMlel9VAwdoYehoeLp5PS03ukWHkshswI0fglk_RYjJOgs",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJMfZoTOpfHWAREjKLB5mdbLs",
+      "plus_code": {
+        "compound_code": "FPRX+X6 大町市、長野県",
+        "global_code": "8Q8VFPRX+X6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJMfZoTOpfHWAREjKLB5mdbLs",
-    "plus_code": {
-      "compound_code": "FPRX+X6 日本、長野県大町市",
-      "global_code": "8Q8VFPRX+X6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平 高瀬入2118-13",
+      "geometry": {
+        "location": {
+          "lat": 36.4909591,
+          "lng": 137.7436523
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.49221372989271,
+            "lng": 137.7450353298927
+          },
+          "southwest": {
+            "lat": 36.48951407010727,
+            "lng": 137.7423356701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "葛温泉 高瀬館",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101611933368934966178\">miho</a>"
+          ],
+          "photo_reference": "Aap_uEDRZmrcRREGYk51jIAsvG8SU2XGPozxxkDNiSy04xZ4DkxwPWoIBcYUOPqN7oNnIhqC6XxLdNvBW8Qni8W2hFsZXZsPcqtHvtdICJU5-qeyDAH9PhwuSowwrEhgOsWwv6lPO__nbj5WnwHBNRDPQd_TTdQwKloJtEVnRGlpCbDlamml",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJBxHIFztgHWAR6WhigVjRZxI",
+      "plus_code": {
+        "compound_code": "FPRV+9F 大町市、長野県",
+        "global_code": "8Q8VFPRV+9F"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

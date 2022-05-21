@@ -1,82 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３８−４",
-        "short_name": "２３８−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎",
-        "short_name": "鼎",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0805",
-        "short_name": "395-0805",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0805 長野県飯田市鼎２３８−４",
-    "geometry": {
-      "location": {
-        "lat": 35.50343640000001,
-        "lng": 137.8142305
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.50476183029151,
-          "lng": 137.8156468302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0805 長野県飯田市鼎一色",
+      "geometry": {
+        "location": {
+          "lat": 35.5017791,
+          "lng": 137.8143352
         },
-        "southwest": {
-          "lat": 35.50206386970851,
-          "lng": 137.8129488697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.5051898,
+            "lng": 137.819485
+          },
+          "southwest": {
+            "lat": 35.4991272,
+            "lng": 137.8086277
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpaxjbaWZHGARe5cMQ2mLd_c",
-    "plus_code": {
-      "compound_code": "GR37+9M 長野県飯田市",
-      "global_code": "8Q7VGR37+9M"
-    },
-    "types": [
-      "establishment",
-      "health",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "鼎一色",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102110330425819086303\">EPARK メディアパートナーズ</a>"
+          ],
+          "photo_reference": "Aap_uEAqMxl8WQhJQL_vpyYF0-Mk2-dD8W_9bn24R_9815VQSyOMHU2jiJ4rwFxyXAcCQ9uc7ruKrwOlucz9eliC2FVHAWU4wsycB6_EywWXP8FJ0IxrlLm29lyBfr5Pur_x-ieUejh9hEsDXAO2rDFYDrn53QC3TxzbvEaPTtOHIBZiaJzq",
+          "width": 5760
+        }
+      ],
+      "place_id": "ChIJtUtIl6WZHGARCIBGJPqx_5Y",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

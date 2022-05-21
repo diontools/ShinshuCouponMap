@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０６１",
-        "short_name": "３０６１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "仁科町",
-        "short_name": "仁科町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町仁科町３０６１",
-    "geometry": {
-      "location": {
-        "lat": 36.4989815,
-        "lng": 137.8597412
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.50035778029149,
-          "lng": 137.8610956302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町仁科町３０６１",
+      "geometry": {
+        "location": {
+          "lat": 36.49901,
+          "lng": 137.8597294
         },
-        "southwest": {
-          "lat": 36.4976598197085,
-          "lng": 137.8583976697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.50035862989272,
+            "lng": 137.8610964798927
+          },
+          "southwest": {
+            "lat": 36.49765897010727,
+            "lng": 137.8583968201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJV1neQOtjHWAREKKxCXyyGvI",
-    "plus_code": {
-      "compound_code": "FVX5+HV 日本、長野県大町市",
-      "global_code": "8Q8VFVX5+HV"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "七倉荘",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113534630747759516319\">遠藤泰史</a>"
+          ],
+          "photo_reference": "Aap_uEDP_yEHxGXFXgzfkLjyEDuoBxMWcojmoh0HEc3BvfuJB8LMIMx5Nw9V1d7ZZg6Ir-uKjAGc3B_xyRzky13YoEtyAannGFqRfzenXteTQBVFUPIm8dEgFfvuXCstNQwH7jSR-4usT13c7Iyhk-u0hibkSKSbID4OdY-WOcIYOyWOrZE",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJV1neQOtjHWAREKKxCXyyGvI",
+      "plus_code": {
+        "compound_code": "FVX5+HV 大町市、長野県",
+        "global_code": "8Q8VFVX5+HV"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

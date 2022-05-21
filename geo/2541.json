@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２２００−３１",
-        "short_name": "２２２００−３１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２２００−３１",
-    "geometry": {
-      "location": {
-        "lat": 36.6580173,
-        "lng": 137.8417487
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6591803302915,
-          "lng": 137.8429651302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２２００−３１",
+      "geometry": {
+        "location": {
+          "lat": 36.6580173,
+          "lng": 137.8417487
         },
-        "southwest": {
-          "lat": 36.6564823697085,
-          "lng": 137.8402671697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65918117989272,
+            "lng": 137.8429659798927
+          },
+          "southwest": {
+            "lat": 36.65648152010728,
+            "lng": 137.8402663201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQ81l9VbQ918RG8fkkDkg_bU",
-    "plus_code": {
-      "compound_code": "MR5R+6M 長野県白馬村",
-      "global_code": "8Q8VMR5R+6M"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "カナディアンヴィレッジ・五竜",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113550711246697162648\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAkthlms_Umxt9bLh8AFUv_vuqPmuZHNHYCI60FUwFfVpx-Tf0Gq2vpQuA56JzgDINOxdPaOSFrigDaxMJB1V8MON-C4JnnhSQQtCrKvfsI2ONXA9qXlufOb-3DmrYcsLGRSq-sOEVpEQ8BcGvAyX12V9yBkOSFLHG6ArdSIY6GcsxK",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQ81l9VbQ918RG8fkkDkg_bU",
+      "plus_code": {
+        "compound_code": "MR5R+6M 白馬村、長野県",
+        "global_code": "8Q8VMR5R+6M"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

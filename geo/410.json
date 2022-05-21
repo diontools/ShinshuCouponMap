@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８８４−２８１",
-        "short_name": "３８８４−２８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "野尻",
-        "short_name": "野尻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1303",
-        "short_name": "389-1303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３８８４−２８１",
-    "geometry": {
-      "location": {
-        "lat": 36.8264703,
-        "lng": 138.1769215
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8278607302915,
-          "lng": 138.1781956302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３８８４−２８１",
+      "geometry": {
+        "location": {
+          "lat": 36.8264703,
+          "lng": 138.1769215
         },
-        "southwest": {
-          "lat": 36.8251627697085,
-          "lng": 138.1754976697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.82786157989272,
+            "lng": 138.1781964798927
+          },
+          "southwest": {
+            "lat": 36.82516192010728,
+            "lng": 138.1754968201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFaKVcKYk9l8RCn4zlBsrjJ0",
-    "plus_code": {
-      "compound_code": "R5GG+HQ 日本、長野県信濃町",
-      "global_code": "8Q8WR5GG+HQ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンションシータス",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108172459068549568051\">織原政代</a>"
+          ],
+          "photo_reference": "Aap_uECsoPPcxSIW9-ylE5_GzLivBErfVr6_raidEalk4ZkEwQrjTJoRODKn5AvFYUlaur8QsucarzKyeRvcPiTmsKYBtlYVXhy2GngMWILU4c1sjfX4iQRd1NGaaTzvIAogf4tLO5Mmn7yHa1K5xqDPxWa1UaWyJKW-wJG6ej07tpPnug5J",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJFaKVcKYk9l8RCn4zlBsrjJ0",
+      "plus_code": {
+        "compound_code": "R5GG+HQ 信濃町、長野県",
+        "global_code": "8Q8WR5GG+HQ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

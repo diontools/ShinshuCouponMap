@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0012",
-        "short_name": "386-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0012 長野県上田市中央３丁目１−１３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4018074,
-          "lng": 138.2526605
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0012 長野県上田市中央３丁目１−１３",
+      "geometry": {
+        "location": {
+          "lat": 36.4017372,
+          "lng": 138.2525518
         },
-        "southwest": {
-          "lat": 36.40167539999999,
-          "lng": 138.2524536
+        "viewport": {
+          "northeast": {
+            "lat": 36.40305532989272,
+            "lng": 138.2540145298927
+          },
+          "southwest": {
+            "lat": 36.40035567010728,
+            "lng": 138.2513148701073
+          }
         }
       },
-      "location": {
-        "lat": 36.4017372,
-        "lng": 138.2525518
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4030895802915,
-          "lng": 138.2539645802915
-        },
-        "southwest": {
-          "lat": 36.4003916197085,
-          "lng": 138.2512666197085
-        }
-      }
-    },
-    "place_id": "ChIJXdV949i8HWARwB425mzClfs",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0012 長野県上田市中央３丁目１−１３",
+      "place_id": "ChIJXdV949i8HWARwB425mzClfs",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

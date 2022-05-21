@@ -1,92 +1,81 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６８８",
-        "short_name": "４６８８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４６８８",
-    "geometry": {
-      "location": {
-        "lat": 36.70607380000001,
-        "lng": 137.8394165
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.70766183029151,
-          "lng": 137.8410062802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４６８８",
+      "geometry": {
+        "location": {
+          "lat": 36.70607380000001,
+          "lng": 137.8394165
         },
-        "southwest": {
-          "lat": 36.70496386970851,
-          "lng": 137.8383083197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70766267989273,
+            "lng": 137.8410071298927
+          },
+          "southwest": {
+            "lat": 36.70496302010729,
+            "lng": 137.8383074701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白馬東急ホテル",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113035378181804204282\">白馬東急ホテル</a>"
+          ],
+          "photo_reference": "Aap_uEAM323AIqUZjaLQhylQmkGrHvlrYN9cjh7lFiHIMgZUxnCeXnIJRpSDA3gZz926WtYJGOOk8XDAzDz2EyKZFjheKg4v1Hq6Ok7gaa8Pk4bmWVAc7yvhoQbkvTpS1DbONIIDxRLzsfLAWYVKRjGaM8oTJUOFsF4Qe2acGnWHwud5OkXU",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJFWDVoOHN918RKa1BgiBeCTE",
+      "plus_code": {
+        "compound_code": "PR4Q+CQ 白馬村、長野県",
+        "global_code": "8Q8VPR4Q+CQ"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJFWDVoOHN918RKa1BgiBeCTE",
-    "plus_code": {
-      "compound_code": "PR4Q+CQ 長野県白馬村",
-      "global_code": "8Q8VPR4Q+CQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８５１ 白馬アルプスホテル",
+      "geometry": {
+        "location": {
+          "lat": 36.7647136,
+          "lng": 137.876705
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.76579617989272,
+            "lng": 137.8785443798927
+          },
+          "southwest": {
+            "lat": 36.76309652010728,
+            "lng": 137.8758447201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "白馬アルプスホテル・レンタルコーナー",
+      "place_id": "ChIJR_DAwksz9l8RE_Rml7QqqfU",
+      "plus_code": {
+        "compound_code": "QV7G+VM 小谷村、長野県",
+        "global_code": "8Q8VQV7G+VM"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

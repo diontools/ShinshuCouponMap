@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡軽井沢町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２４５０−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3450105,
+          "lng": 138.6010373
         },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+        "viewport": {
+          "northeast": {
+            "lat": 36.34629457989272,
+            "lng": 138.6023737298927
+          },
+          "southwest": {
+            "lat": 36.34359492010728,
+            "lng": 138.5996740701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3483927,
-        "lng": 138.5970297
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
-        },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "エホンゴホン堂",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100812583085535108283\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED23o1S_NrnhXBhPy-qkXAt6P-e_cnTCLpHhRm28T4stPk8z063iEdpgfWOeynIoR0BzO_3_rRmHT2F1Q-3pvBx_RXM6JKHbW3i6ZgqyYYdCSZN-50TcdqkdhaUAH4eljPozy9nR_SRAQtLW4XlutvkUpKm39wijgpmwJKH78Ia14MR",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk6PBPzzSHWAR-XHag0iPEZk",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJByxQSInTHWARCo1mbgaA7Wg",
+      "plus_code": {
+        "compound_code": "8JW2+2C 軽井沢町、長野県",
+        "global_code": "8Q8W8JW2+2C"
+      },
+      "types": [
+        "book_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

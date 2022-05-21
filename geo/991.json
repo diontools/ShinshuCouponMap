@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２１",
-        "short_name": "１２２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "問御所町",
-        "short_name": "問御所町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0834",
-        "short_name": "380-0834",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0834 長野県長野市鶴賀問御所町１２２１",
-    "geometry": {
-      "location": {
-        "lat": 36.64858100000001,
-        "lng": 138.187783
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6497853802915,
-          "lng": 138.1892047802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0834 長野県長野市鶴賀１２２１",
+      "geometry": {
+        "location": {
+          "lat": 36.64858100000001,
+          "lng": 138.187783
         },
-        "southwest": {
-          "lat": 36.6470874197085,
-          "lng": 138.1865068197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64978622989273,
+            "lng": 138.1892056298927
+          },
+          "southwest": {
+            "lat": 36.64708657010728,
+            "lng": 138.1865059701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL7Unn7vSBmARPgEoBxN7X3c",
-    "plus_code": {
-      "compound_code": "J5XQ+C4 日本、長野県長野市",
-      "global_code": "8Q8WJ5XQ+C4"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルJALシティ長野",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101960847496698201600\">南見謙二</a>"
+          ],
+          "photo_reference": "Aap_uECbMjpm_a7qiade7U15uapgygbj0Su2epWkVi0lqrsUXqXI0ux4Uhus2NkvRTKGAIeuLzcXIbONZSEGDVqezaDYPbLZpXwieBoM7lzfJvo6hCZuxvCzMPfbdpDRMb6yE9G8J4cJagfEne4vE7Ag14DKycLQqywdjfPI-OQn1hpZAF9G",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJL7Unn7vSBmARPgEoBxN7X3c",
+      "plus_code": {
+        "compound_code": "J5XQ+C4 長野市、長野県",
+        "global_code": "8Q8WJ5XQ+C4"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2230",
-        "short_name": "2230",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "穂高牧",
-        "short_name": "穂高牧",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8305",
-        "short_name": "399-8305",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8305 長野県安曇野市穂高牧2230",
-    "geometry": {
-      "location": {
-        "lat": 36.3156402,
-        "lng": 137.8077796
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3172147802915,
-          "lng": 137.8093844302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8305 長野県安曇野市穂高牧2230",
+      "geometry": {
+        "location": {
+          "lat": 36.3156402,
+          "lng": 137.8077796
         },
-        "southwest": {
-          "lat": 36.3145168197085,
-          "lng": 137.8066864697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31721562989273,
+            "lng": 137.8093852798928
+          },
+          "southwest": {
+            "lat": 36.31451597010729,
+            "lng": 137.8066856201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJBcAHsNBrHWARbgAj5y_BcOM",
-    "plus_code": {
-      "compound_code": "8R85+74 日本、長野県安曇野市",
-      "global_code": "8Q8V8R85+74"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル アンビエント安曇野",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105060145748661196618\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED7zmU_izQxri6T58AHGoGuBLxLRzeDKOcz_hqthubAeDKFtsnM5JAyodakpchWiiI_JQJpPEsMWglHrIK9Me66h_i4_bUrz-9yR0h0Iap8TOyqf6gf7h8SiMEdATJE7BdOEpkH5r6A-cYWS80ZkT32U6PeydO5DSEAgOTrwJma4njl",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJBcAHsNBrHWARbgAj5y_BcOM",
+      "plus_code": {
+        "compound_code": "8R85+74 安曇野市、長野県",
+        "global_code": "8Q8V8R85+74"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

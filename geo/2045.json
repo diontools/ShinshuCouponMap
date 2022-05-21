@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "女鳥羽",
-        "short_name": "女鳥羽",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0806",
-        "short_name": "390-0806",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0806 長野県松本市女鳥羽１丁目７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.238677,
-        "lng": 137.9770012
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.24006513029151,
-          "lng": 137.9785640302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0806 長野県松本市女鳥羽１丁目７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.238677,
+          "lng": 137.9770012
         },
-        "southwest": {
-          "lat": 36.23736716970851,
-          "lng": 137.9758660697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24006597989272,
+            "lng": 137.9785648798927
+          },
+          "southwest": {
+            "lat": 36.23736632010728,
+            "lng": 137.9758652201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJM7AxJpcOHWARwgKYOboo_n0",
-    "plus_code": {
-      "compound_code": "6XQG+FR 日本、長野県松本市",
-      "global_code": "8Q8V6XQG+FR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ビッグボーイ 松本女鳥羽店",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102061990635098837469\">山口康臣</a>"
+          ],
+          "photo_reference": "Aap_uEDN4P2l9VIV_OWnE0JD9FlsTysFuNqCfwMnPqz0mgiKtAGrIfce7iXmvTepWy8ywPTDpz5rVguprgaO-2N8nbPQZuwaUPRwrpY53KB7zzAVk_L2H0Yvsi4bJRWGaYu4r4087jWJI7NivT9Xm4A6QggKBIHB9zg3UWgqsGysbJO6dlr-",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJM7AxJpcOHWARwgKYOboo_n0",
+      "plus_code": {
+        "compound_code": "6XQG+FR 松本市、長野県",
+        "global_code": "8Q8V6XQG+FR"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

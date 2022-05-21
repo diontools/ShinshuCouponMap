@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３２７８−８０",
-        "short_name": "３２７８−８０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上木島",
-        "short_name": "上木島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2303",
-        "short_name": "389-2303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３２７８−８０",
-    "geometry": {
-      "location": {
-        "lat": 36.8131944,
-        "lng": 138.4120832
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8145433802915,
-          "lng": 138.4134321802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３２７８−８０",
+      "geometry": {
+        "location": {
+          "lat": 36.8131944,
+          "lng": 138.4120833
         },
-        "southwest": {
-          "lat": 36.8118454197085,
-          "lng": 138.4107342197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.81454422989273,
+            "lng": 138.4134331298927
+          },
+          "southwest": {
+            "lat": 36.81184457010728,
+            "lng": 138.4107334701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJY6m0zLcf9l8RcACA01Sv-2U",
-    "plus_code": {
-      "compound_code": "RC76+7R 長野県木島平村",
-      "global_code": "8Q8WRC76+7R"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2303 長野県下高井郡木島平村上木島３２７８−８０",
+      "place_id": "ChIJY6m0zLcf9l8RcACA01Sv-2U",
+      "plus_code": {
+        "compound_code": "RC76+7R 木島平村、長野県",
+        "global_code": "8Q8WRC76+7R"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

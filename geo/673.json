@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０１８",
-        "short_name": "３０１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠３０１８",
-    "geometry": {
-      "location": {
-        "lat": 36.7267716,
-        "lng": 138.0867596
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7281253302915,
-          "lng": 138.0880640302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠３０１８",
+      "geometry": {
+        "location": {
+          "lat": 36.7267716,
+          "lng": 138.0867596
         },
-        "southwest": {
-          "lat": 36.7254273697085,
-          "lng": 138.0853660697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.72812617989273,
+            "lng": 138.0880648798927
+          },
+          "southwest": {
+            "lat": 36.72542652010728,
+            "lng": 138.0853652201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk5oxS1Up9l8Rzg0TgTHDgFE",
-    "plus_code": {
-      "compound_code": "P3GP+PP 日本、長野県長野市",
-      "global_code": "8Q8WP3GP+PP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "戸隠そば博物館 とんくるりん",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115618981478230135712\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDImET8XsP2Zsuu_X0mt1GaRAlWpNIs626ovW1y10wizcJCIcjsxH2iEBDQ-NXz5h6lBOoZ-PLfZEPyVntSDRgXgFDvEzJLEgPbzj1OD0rGLjJ30Q4S82dKIk00kigargoZVAMIcGxLgVpc8e826NSE-vrmzzOe2OpmQZ9FaYw8zmqB",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJk5oxS1Up9l8Rzg0TgTHDgFE",
+      "plus_code": {
+        "compound_code": "P3GP+PP 長野市、長野県",
+        "global_code": "8Q8WP3GP+PP"
+      },
+      "types": [
+        "tourist_attraction",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

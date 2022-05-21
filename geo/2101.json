@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５",
-        "short_name": "２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志２丁目３−２５",
-    "geometry": {
-      "location": {
-        "lat": 36.228962,
-        "lng": 137.967794
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2303079802915,
-          "lng": 137.9690868302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志２丁目３−２５",
+      "geometry": {
+        "location": {
+          "lat": 36.2289605,
+          "lng": 137.9677464
         },
-        "southwest": {
-          "lat": 36.2276100197085,
-          "lng": 137.9663888697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23030882989272,
+            "lng": 137.9690876798927
+          },
+          "southwest": {
+            "lat": 36.22760917010728,
+            "lng": 137.9663880201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ12FFwowOHWARzRzvoHm9aVQ",
-    "plus_code": {
-      "compound_code": "6XH9+H4 日本、長野県松本市",
-      "global_code": "8Q8V6XH9+H4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "海鮮丼どん八 松本駅前本店",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114522107296731592912\">どん八 松本駅前本店</a>"
+          ],
+          "photo_reference": "Aap_uEAhbJfghZ1sYWYvW5mAbFR6etp1gf44shPJWcJye_Z8rM9FV4rViR2MVnduF0CHqcdf6CPlck1stH0W8R8XNt4v3IKlNJY43FkLL6CpzIyCwwGrNNMeWD5QCHQhLecd3n08ynr_k6VCsSAOAlmyYljgMnKJIVOvDF7r4x8WuORcw_cJ",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ12FFwowOHWARzRzvoHm9aVQ",
+      "plus_code": {
+        "compound_code": "6XH9+H4 松本市、長野県",
+        "global_code": "8Q8V6XH9+H4"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

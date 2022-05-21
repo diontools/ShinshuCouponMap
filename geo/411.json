@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８８４−５４６",
-        "short_name": "３８８４−５４６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "野尻",
-        "short_name": "野尻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1303",
-        "short_name": "389-1303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３８８４−５４６",
-    "geometry": {
-      "location": {
-        "lat": 36.820904,
-        "lng": 138.174513
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8221381302915,
-          "lng": 138.1758024802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３８８４−５４６",
+      "geometry": {
+        "location": {
+          "lat": 36.820904,
+          "lng": 138.174513
         },
-        "southwest": {
-          "lat": 36.8194401697085,
-          "lng": 138.1731045197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.82213897989271,
+            "lng": 138.1758033298927
+          },
+          "southwest": {
+            "lat": 36.81943932010727,
+            "lng": 138.1731036701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3SSB77wk9l8RcLpErbQMygw",
-    "plus_code": {
-      "compound_code": "R5CF+9R 日本、長野県信濃町",
-      "global_code": "8Q8WR5CF+9R"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "風のうた",
+      "photos": [
+        {
+          "height": 2775,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107738808212466615536\">Hiromi Ishimori</a>"
+          ],
+          "photo_reference": "Aap_uEDrXcale21meujFY_YsJrcqYFkM-VIJOZoNJzakEOefnml5u7_D5CmjWztt26GPbpdymQPMkhaQubnGVU58EC73nB9XNuRfaSWWZCKV0sRXCTvdy_jQ1gVvpym8_mUJFzJLxcie90D_zPzK-61dgRtlB1sRLdxdSFnUHETPNHJThObh",
+          "width": 3700
+        }
+      ],
+      "place_id": "ChIJ3SSB77wk9l8RcLpErbQMygw",
+      "plus_code": {
+        "compound_code": "R5CF+9R 信濃町、長野県",
+        "global_code": "8Q8WR5CF+9R"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

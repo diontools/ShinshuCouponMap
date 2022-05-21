@@ -1,111 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上田駅",
-        "short_name": "上田駅",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "train_station",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目１−１ 上田駅",
-    "geometry": {
-      "location": {
-        "lat": 36.396606,
-        "lng": 138.2492805
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3978485302915,
-          "lng": 138.2509832802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.396606,
+          "lng": 138.2492805
         },
-        "southwest": {
-          "lat": 36.3951505697085,
-          "lng": 138.2482853197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39784937989273,
+            "lng": 138.2509841298927
+          },
+          "southwest": {
+            "lat": 36.39514972010728,
+            "lng": 138.2482844701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC_APcdq8HWARX4wpE6MU8jQ",
-    "plus_code": {
-      "compound_code": "96WX+JP 長野県上田市",
-      "global_code": "8Q8W96WX+JP"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "train_station",
-      "transit_station"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "name": "上田駅",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107515925831550241068\">hira yu</a>"
+          ],
+          "photo_reference": "Aap_uEDWNLpBOyzjWtiiWcdiYbp3T66abzMHEgCl0jg-1DQ1qR6LseTRUPmB1UMHVZb4CCCs3V-tSzMSJt-oUojDzq0-rvgZSjB3bC3CtW3YYo8uDNS0HOCvipKotJzEw6kwWPILCMuqw0MvN4hchkcbJhUQ5Bosc7JHKxmfPbyhodIDO8te",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJC_APcdq8HWARX4wpE6MU8jQ",
+      "plus_code": {
+        "compound_code": "96WX+JP 上田市、長野県",
+        "global_code": "8Q8W96WX+JP"
+      },
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

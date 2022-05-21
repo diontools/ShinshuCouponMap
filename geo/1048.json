@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６８４",
-        "short_name": "４６８４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2411",
-        "short_name": "389-2411",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2411 長野県飯山市豊田４６８４",
-    "geometry": {
-      "location": {
-        "lat": 36.921081,
-        "lng": 138.382014
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9225077802915,
-          "lng": 138.3834090802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2411 長野県飯山市豊田４６８４",
+      "geometry": {
+        "location": {
+          "lat": 36.921081,
+          "lng": 138.3820139
         },
-        "southwest": {
-          "lat": 36.9198098197085,
-          "lng": 138.3807111197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92250862989273,
+            "lng": 138.3834098798927
+          },
+          "southwest": {
+            "lat": 36.91980897010728,
+            "lng": 138.3807102201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJme2ud4Ma9l8RjZhrkuMIzRE",
-    "plus_code": {
-      "compound_code": "W9CJ+CR 日本、長野県飯山市",
-      "global_code": "8Q8WW9CJ+CR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "グリーントップＢＡＮＢＡ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116388413470339362625\">Mohammed Hossain Doula</a>"
+          ],
+          "photo_reference": "Aap_uEAe55_xNqwHytLROu6BdS5mODsGFn51LMCOJzNgSo7Nuo256Ymsrtsy6QOfcfrBAKbUgO1LuBvmdSupcO10EaRUOOTSPiK3TiGESmMvcxT2dk--wAs3oPVmVk3N4GtyfOh5LKO-FreKVFMgfTCcYqCJELYHTLS6geMx24E8qKfgneVL",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJme2ud4Ma9l8RjZhrkuMIzRE",
+      "plus_code": {
+        "compound_code": "W9CJ+CR 飯山市、長野県",
+        "global_code": "8Q8WW9CJ+CR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

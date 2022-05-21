@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８−２",
-        "short_name": "８−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目８−２",
-    "geometry": {
-      "location": {
-        "lat": 36.646236,
-        "lng": 138.189871
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6476030302915,
-          "lng": 138.1911476802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.646236,
+          "lng": 138.189871
         },
-        "southwest": {
-          "lat": 36.6449050697085,
-          "lng": 138.1884497197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64760387989272,
+            "lng": 138.1911485298927
+          },
+          "southwest": {
+            "lat": 36.64490422010728,
+            "lng": 138.1884488701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgcilqPKGHWARPI78Gi011eA",
-    "plus_code": {
-      "compound_code": "J5WQ+FW 日本、長野県長野市",
-      "global_code": "8Q8WJ5WQ+FW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "鶴翔",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108448558082557165761\">根岸真由美</a>"
+          ],
+          "photo_reference": "Aap_uEAMwJLiBlgT1PNtyBVA2LfsVcztnDIUXFAkvLfmr2B8wpNMHpUI2zT1FjrgNxAkmuvZLkTQpIKgroLQ4IZNZLfKUyH7n0B88b7hRlijPxNZyaLp2VCDj_FwW9iIx09ZfPIXfHBI9brPgI4CqtW9YzMDaeRVWQFe1x_7IO_zEhoYxzJx",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJgcilqPKGHWARPI78Gi011eA",
+      "plus_code": {
+        "compound_code": "J5WQ+FW 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+FW"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

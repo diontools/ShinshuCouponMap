@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８４６−４",
-        "short_name": "３８４６−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "米沢",
-        "short_name": "米沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0216",
-        "short_name": "391-0216",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0216 長野県茅野市米沢３８４６−４",
-    "geometry": {
-      "location": {
-        "lat": 36.0309347,
-        "lng": 138.1917096
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0323504802915,
-          "lng": 138.1930388302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0216 長野県茅野市米沢３８４６−４",
+      "geometry": {
+        "location": {
+          "lat": 36.0309639,
+          "lng": 138.1917039
         },
-        "southwest": {
-          "lat": 36.0296525197085,
-          "lng": 138.1903408697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03235132989273,
+            "lng": 138.1930396798927
+          },
+          "southwest": {
+            "lat": 36.02965167010728,
+            "lng": 138.1903400201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk1rDZA5RHGARw-29aa2WBOc",
-    "plus_code": {
-      "compound_code": "25JR+9M 長野県茅野市",
-      "global_code": "8Q8W25JR+9M"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "京風 しなの料理 きよみず",
+      "photos": [
+        {
+          "height": 2016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100314549845608065021\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAnGftMCsSCWU-hF2oHUxOhs0D8bstfJ9bQwUei5gNFmwveYH5z7gLwv1AMYEC_BosDpf573JFo1BC9kt18k94ol8-wWMgB9mNNwDKDrRH0yNAJC0jJdYlH_n0TXpEfoWMfsGQNStjv5Fb97-GJzacDMa5nzCd-6hZt0VzAMeIdioSn",
+          "width": 2688
+        }
+      ],
+      "place_id": "ChIJk1rDZA5RHGARw-29aa2WBOc",
+      "plus_code": {
+        "compound_code": "25JR+9M 茅野市、長野県",
+        "global_code": "8Q8W25JR+9M"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

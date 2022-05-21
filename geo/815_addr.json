@@ -1,102 +1,93 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2階",
-        "short_name": "2階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "１３８１",
-        "short_name": "１３８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北石堂町",
-        "short_name": "北石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0826",
-        "short_name": "380-0826",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0826 長野県長野市南長野北石堂町１３８１ 2階",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6455774,
-          "lng": 138.1874774
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0837 長野県長野市南長野北石堂町１３８１ パティオビル 2階",
+      "geometry": {
+        "location": {
+          "lat": 36.645488,
+          "lng": 138.1873268
         },
-        "southwest": {
-          "lat": 36.6454526,
-          "lng": 138.1873184
+        "viewport": {
+          "northeast": {
+            "lat": 36.64679262989273,
+            "lng": 138.1886230298927
+          },
+          "southwest": {
+            "lat": 36.64409297010728,
+            "lng": 138.1859233701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6455215,
-        "lng": 138.1873917
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6468639802915,
-          "lng": 138.1887468802915
-        },
-        "southwest": {
-          "lat": 36.6441660197085,
-          "lng": 138.1860489197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "丹波黒どり農場 長野駅前店",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107716461852785708460\">hiroshi kato</a>"
+          ],
+          "photo_reference": "Aap_uECsXEldw00HKKYDIMtZH6zW1Q3PIyXlnkjbpl-w1Z1VcXBROxhFbvgWtFpnwaUtq8fKjzmTAgsLPoHg04MJsqGdQkMb4YxDETQa7LcAy_q0qSDbyGMhZPZnFLH47Sqnnqd9VoRAvY_XEg755KMn-0na66voOKYlZA3xjJ_a-itfmDL-",
+          "width": 3264
         }
-      }
+      ],
+      "place_id": "ChIJq6prTuyGHWARlk-0mRU5rpc",
+      "plus_code": {
+        "compound_code": "J5WP+5W 長野市、長野県",
+        "global_code": "8Q8WJ5WP+5W"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "EkAy6ZqOLCBLaXRhaXNoaWTFjWNoxY0tMTM4MSBNaW5hbWluYWdhbm8sIE5hZ2FubywgMzgwLTA4MjYsIEphcGFuIiAaHgoWChQKEgmvqV0h7YYdYBEwObLNzqm0_BIEMumajg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0826 長野県長野市大字南長野北石堂町１３８１ パティオ二線路 2階",
+      "geometry": {
+        "location": {
+          "lat": 36.6454259,
+          "lng": 138.1872929
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.64675942989272,
+            "lng": 138.1886144798927
+          },
+          "southwest": {
+            "lat": 36.64405977010728,
+            "lng": 138.1859148201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ダイニングバークルー",
+      "photos": [
+        {
+          "height": 1773,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112388419958243993502\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBf5VgV36w7znZfC0dA0wwOp-Aq9PNWLC69GdYa-E-FqNalXirbDpg42dvyJh8zc6yrpnHtoHQ1GRE4q5bMAHs7ccYD6ctGWOVKY_7bkqnHqMgdqPlxoHcYwq3xbTzQwwZV1s3M664g-_ozt71RptTGbz5kQpzv65TRgXZtXQydgnWB",
+          "width": 2364
+        }
+      ],
+      "place_id": "ChIJjQ-JDyuHHWARjWRSXTIzHUw",
+      "plus_code": {
+        "compound_code": "J5WP+5W 長野市、長野県",
+        "global_code": "8Q8WJ5WP+5W"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

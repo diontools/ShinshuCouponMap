@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５０７−１",
-        "short_name": "２５０７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎名古熊",
-        "short_name": "鼎名古熊",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0804",
-        "short_name": "395-0804",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0804 長野県飯田市鼎名古熊２５０７−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.4986399,
-          "lng": 137.8313052
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0804 長野県飯田市鼎名古熊２５０７−１",
+      "geometry": {
+        "location": {
+          "lat": 35.4985481,
+          "lng": 137.8312119
         },
-        "southwest": {
-          "lat": 35.4984807,
-          "lng": 137.8311064
+        "viewport": {
+          "northeast": {
+            "lat": 35.49990037989272,
+            "lng": 137.8326314798927
+          },
+          "southwest": {
+            "lat": 35.49720072010727,
+            "lng": 137.8299318201072
+          }
         }
       },
-      "location": {
-        "lat": 35.4985481,
-        "lng": 137.8312119
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4999092802915,
-          "lng": 137.8325778802915
-        },
-        "southwest": {
-          "lat": 35.49721131970851,
-          "lng": 137.8298799197085
-        }
-      }
-    },
-    "place_id": "ChIJj3CcznCZHGARIXWB9JJQ_RM",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒395-0804 長野県飯田市鼎名古熊２５０７−１",
+      "place_id": "ChIJj3CcznCZHGARIXWB9JJQ_RM",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

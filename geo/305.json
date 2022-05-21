@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７８７９−１",
-        "short_name": "１７８７９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "堺",
-        "short_name": "堺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "栄村",
-        "short_name": "栄村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下水内郡",
-        "short_name": "下水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2703",
-        "short_name": "389-2703",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2703 長野県下水内郡栄村堺１７８７９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.8072661,
-        "lng": 138.6213718
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8092714302915,
-          "lng": 138.6230840802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2703 長野県下水内郡栄村堺１７８７９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.8072661,
+          "lng": 138.6213718
         },
-        "southwest": {
-          "lat": 36.8065734697085,
-          "lng": 138.6203861197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.80927227989272,
+            "lng": 138.6230849298927
+          },
+          "southwest": {
+            "lat": 36.80657262010727,
+            "lng": 138.6203852701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJcxNU5uD7HWARiwYLs1CPs24",
-    "plus_code": {
-      "compound_code": "RJ4C+WG 日本、長野県栄村",
-      "global_code": "8Q8WRJ4C+WG"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "切明温泉 雪あかり",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117039044129334795046\">齊木哲史</a>"
+          ],
+          "photo_reference": "Aap_uEBuFj8PPkW1DwCoNpXnRQss5NkSugO0Xme7Dbb5Wec6t5Y7zeresa0rUqZPZhQtPGRMo2Yovp2xTlxHc4UFlOnHh5ZZXFqyxOOUV9DZDHrkt1-ZR0KgZpyCuPA4QSmckbp2xLCUXP1p27wSkwtbkw792fTwDqaTEgCfnwlfTDlXRXxv",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJcxNU5uD7HWARiwYLs1CPs24",
+      "plus_code": {
+        "compound_code": "RJ4C+WG 栄村、長野県",
+        "global_code": "8Q8WRJ4C+WG"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

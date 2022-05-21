@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４４７−２",
-        "short_name": "３４４７−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "羽広",
-        "short_name": "羽広",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "西箕輪",
-        "short_name": "西箕輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4501",
-        "short_name": "399-4501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4501 長野県伊那市西箕輪羽広３４４７−２",
-    "geometry": {
-      "location": {
-        "lat": 35.8830013,
-        "lng": 137.9204484
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8842956302915,
-          "lng": 137.9217826302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4501 長野県伊那市西箕輪３４１６−１",
+      "geometry": {
+        "location": {
+          "lat": 35.8825934,
+          "lng": 137.9196829
         },
-        "southwest": {
-          "lat": 35.8815976697085,
-          "lng": 137.9190846697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.88390852989272,
+            "lng": 137.9210230298927
+          },
+          "southwest": {
+            "lat": 35.88120887010728,
+            "lng": 137.9183233701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ24T_kErlHGARoJTsta9zHj4",
-    "plus_code": {
-      "compound_code": "VWMC+65 長野県伊那市",
-      "global_code": "8Q7VVWMC+65"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "はびろ農業公園 みはらしファーム",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114135796055600564146\">金澤実佐樹</a>"
+          ],
+          "photo_reference": "Aap_uEDGbMr4noZReD3UdZeR5CEuxdXtPb2oajasN3nI8VdHEDC-Bts9ZModoGiZynfAH2nCjrtL333q9ZiGvBAsvoPVdCfc7hMuyyByre8jq1BZbV1kaIbCZ3z1ddtkWPrZPPUTbTZtCJMU4U8w4K58bdJ6JFSWioAHiPxpza6JygDrvyzy",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJE2u2CErlHGARewIKpyOlcVo",
+      "plus_code": {
+        "compound_code": "VWM9+2V 伊那市、長野県",
+        "global_code": "8Q7VVWM9+2V"
+      },
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

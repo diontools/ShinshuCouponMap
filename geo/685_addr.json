@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５０７−８０",
-        "short_name": "３５０７−８０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠３５０７−８０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7521583,
-          "lng": 138.0914499
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠３５０７−８０",
+      "geometry": {
+        "location": {
+          "lat": 36.7520695,
+          "lng": 138.0913685
         },
-        "southwest": {
-          "lat": 36.7519858,
-          "lng": 138.0912749
+        "viewport": {
+          "northeast": {
+            "lat": 36.75339627989272,
+            "lng": 138.0926310798927
+          },
+          "southwest": {
+            "lat": 36.75069662010728,
+            "lng": 138.0899314201072
+          }
         }
       },
-      "location": {
-        "lat": 36.7520695,
-        "lng": 138.0913685
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7534210302915,
-          "lng": 138.0926709302915
-        },
-        "southwest": {
-          "lat": 36.75072306970851,
-          "lng": 138.0899729697085
-        }
-      }
-    },
-    "place_id": "ChIJN3RU8-Uu9l8R1lbkyXrp8bY",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-4101 長野県長野市戸隠３５０７−８０",
+      "place_id": "ChIJN3RU8-Uu9l8R1lbkyXrp8bY",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "浅間温泉",
-        "short_name": "浅間温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0303",
-        "short_name": "390-0303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉３丁目１４−６",
-    "geometry": {
-      "location": {
-        "lat": 36.2638867,
-        "lng": 137.9904978
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2651675802915,
-          "lng": 137.9916995302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉３丁目１４−６",
+      "geometry": {
+        "location": {
+          "lat": 36.2638867,
+          "lng": 137.9904978
         },
-        "southwest": {
-          "lat": 36.2624696197085,
-          "lng": 137.9890015697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26516842989272,
+            "lng": 137.9917003798927
+          },
+          "southwest": {
+            "lat": 36.26246877010728,
+            "lng": 137.9890007201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4fI1uhoMHWARqq8Z6l38Xvs",
-    "plus_code": {
-      "compound_code": "7X7R+H5 日本、長野県松本市",
-      "global_code": "8Q8V7X7R+H5"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "錦の湯地本屋",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104984931547567998627\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAttj5Brt45ZHsRTXHgkcjbIjLx9fKwk0pqFpsk-NuUhJjPRSApEJXSkTC3cwFSrp8RNXyKjCOp8zLO-AVvsi0rp0auIdy-z-sXNRiuIbJ7UWuWmYf3zqXJRRejHxkl1x8t6mNhlmDuW4SU08Fc8gCgDOj4RERq-6XOJQ8EC0Fd7fs5",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJ4fI1uhoMHWARqq8Z6l38Xvs",
+      "plus_code": {
+        "compound_code": "7X7R+H5 松本市、長野県",
+        "global_code": "8Q8V7X7R+H5"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６１−１",
-        "short_name": "２６１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中洲",
-        "short_name": "中洲",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0015",
-        "short_name": "392-0015",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0015 長野県諏訪市中洲２６１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.0019116,
-        "lng": 138.1169325
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0033280302915,
-          "lng": 138.1182453802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0015 長野県諏訪市中洲２６１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0019116,
+          "lng": 138.1169325
         },
-        "southwest": {
-          "lat": 36.0006300697085,
-          "lng": 138.1155474197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00332887989272,
+            "lng": 138.1182462298927
+          },
+          "southwest": {
+            "lat": 36.00062922010728,
+            "lng": 138.1155465701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ46mR915WHGARaqC4ccwV0Ig",
-    "plus_code": {
-      "compound_code": "2428+QQ 長野県諏訪市",
-      "global_code": "8Q8W2428+QQ"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0015 長野県諏訪市中洲２６１−１",
+      "place_id": "ChIJ46mR915WHGARaqC4ccwV0Ig",
+      "plus_code": {
+        "compound_code": "2428+QQ 諏訪市、長野県",
+        "global_code": "8Q8W2428+QQ"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

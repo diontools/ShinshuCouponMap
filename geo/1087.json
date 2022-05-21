@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１７７−１",
-        "short_name": "２１７７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "甲",
-        "short_name": "甲",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2104",
-        "short_name": "384-2104",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2104 長野県佐久市甲２１７７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2575639,
-        "lng": 138.4042687
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2588313802915,
-          "lng": 138.4055263802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2104 長野県佐久市甲２１７７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2575446,
+          "lng": 138.4042465
         },
-        "southwest": {
-          "lat": 36.2561334197085,
-          "lng": 138.4028284197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.25883222989272,
+            "lng": 138.4055272298928
+          },
+          "southwest": {
+            "lat": 36.25613257010728,
+            "lng": 138.4028275701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR0rZ5HvKHWARG2FJ6CSs_qU",
-    "plus_code": {
-      "compound_code": "7C53+2P 日本、長野県佐久市",
-      "global_code": "8Q8W7C53+2P"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 ほっとぱ～く浅科",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111734403424225002301\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECOSj2S5y9lpP9yPuerhqHuw0Cv54f1w8luvx11FpNim2Ygs0DJLMa2AjXUv0XpFRKprWlcYIMSUpIQ7nPwcx_2HqtJ8HEVysCXXF827-9lQ8JsXA8RDErZwHiIDxZqJWVo9B0Pu4uK7_1xHUdUZY2fRx1FS4Ec_VsrVxo4NN_IpcYw",
+          "width": 1477
+        }
+      ],
+      "place_id": "ChIJR0rZ5HvKHWARG2FJ6CSs_qU",
+      "plus_code": {
+        "compound_code": "7C53+2P 佐久市、長野県",
+        "global_code": "8Q8W7C53+2P"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

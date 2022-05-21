@@ -1,96 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４",
-    "geometry": {
-      "location": {
-        "lat": 36.2316334,
-        "lng": 137.9669553
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2329823302915,
-          "lng": 137.9682923302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４",
+      "geometry": {
+        "location": {
+          "lat": 36.2316334,
+          "lng": 137.9669553
         },
-        "southwest": {
-          "lat": 36.2302843697085,
-          "lng": 137.9655943697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23298317989273,
+            "lng": 137.9682931798927
+          },
+          "southwest": {
+            "lat": 36.23028352010729,
+            "lng": 137.9655935201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAQA0BYwOHWARldClT2vEOxI",
-    "plus_code": {
-      "compound_code": "6XJ8+MQ 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+MQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "炭火ひもの食堂 塩之屋",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116624872049999189493\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBtO2ud65aPRSndU-wFd6EjByU2uvZ_xzyEwgxzcnvH313xLfo-lbRNZ2CLmi8FwLGnQ6hfeFaZxDVwspy-WCAv0iz9PaiAbPZTk-A9KE_WJbe72vE6M0X4NHs7PgYWjY-ALASE_EKM7pBcldOidRB0za7sXEOs_hoaJRIElcBjD2yY",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJAQA0BYwOHWARldClT2vEOxI",
+      "plus_code": {
+        "compound_code": "6XJ8+MQ 松本市、長野県",
+        "global_code": "8Q8V6XJ8+MQ"
+      },
+      "types": [
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

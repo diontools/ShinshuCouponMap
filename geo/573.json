@@ -1,64 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県千曲市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0812 長野県千曲市羽尾",
+      "geometry": {
+        "location": {
+          "lat": 36.4942,
+          "lng": 138.1084611
         },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+        "viewport": {
+          "northeast": {
+            "lat": 36.49556157989272,
+            "lng": 138.1098225298927
+          },
+          "southwest": {
+            "lat": 36.49286192010727,
+            "lng": 138.1071228701072
+          }
         }
       },
-      "location": {
-        "lat": 36.5338864,
-        "lng": 138.119971
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
-        },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "高村商店",
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101170822812601057725\">Ｈ metro</a>"
+          ],
+          "photo_reference": "Aap_uED0yBOiNcLA6vzwS4Syv614x3t0Rvz_DKKouD3JUydClYxLiScbyWfbh5p6u8eBxcpc1aZzQYq3T_c-cdBboDiHLnFYeswUsigG8cGDhDAsqsmubBvwQ-pljzkMfk3_TPXdMsFFAed35JJOyDRVXVMkq0q41qIvwEhiRuhmT_7KLf2S",
+          "width": 4160
         }
-      }
+      ],
+      "place_id": "ChIJb74P3A-dHWARqSqQQFjAU8Q",
+      "plus_code": {
+        "compound_code": "F4V5+M9 千曲市、長野県",
+        "global_code": "8Q8WF4V5+M9"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJQfuLuhydHWARe_teCWFmml0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0812 長野県千曲市羽尾１３２０",
+      "geometry": {
+        "location": {
+          "lat": 36.494206,
+          "lng": 138.108611
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.49551817989272,
+            "lng": 138.1099235798927
+          },
+          "southwest": {
+            "lat": 36.49281852010728,
+            "lng": 138.1072239201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "高村味噌醤油醸造場",
+      "photos": [
+        {
+          "height": 5632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112726182693852008565\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDAlpnA_0gTQDFDEE7dHI2ke9WF1-dgsNSLEP_ZEFafv8ERdiZZ13PUMUDTcIYuyy1wREKcitCOJJI3SfSGTopfOuWDtS3_7KH-Qs_60VMCKTBVGuy5so6P8dJbpH_QwIDqp7fuUKjuPxMegyzFtmQcCw9dcJIVEN1yCq79ll03Ao04",
+          "width": 3168
+        }
+      ],
+      "place_id": "ChIJb74P3A-dHWARbZNg8znCwlo",
+      "plus_code": {
+        "compound_code": "F4V5+MC 千曲市、長野県",
+        "global_code": "8Q8WF4V5+MC"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２０８−７",
-        "short_name": "１２０８−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿塩",
-        "short_name": "鹿塩",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大鹿村",
-        "short_name": "大鹿村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3501",
-        "short_name": "399-3501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3501 長野県下伊那郡大鹿村鹿塩１２０８−７",
-    "geometry": {
-      "location": {
-        "lat": 35.589455,
-        "lng": 138.060608
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5908210802915,
-          "lng": 138.0618722302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3501 長野県下伊那郡大鹿村鹿塩１２０８−７",
+      "geometry": {
+        "location": {
+          "lat": 35.589455,
+          "lng": 138.060608
         },
-        "southwest": {
-          "lat": 35.5881231197085,
-          "lng": 138.0591742697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.59082192989272,
+            "lng": 138.0618730798927
+          },
+          "southwest": {
+            "lat": 35.58812227010728,
+            "lng": 138.0591734201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJOWOT0myHHGAR0fdmGX8f8fM",
-    "plus_code": {
-      "compound_code": "H3Q6+Q6 長野県大鹿村",
-      "global_code": "8Q7WH3Q6+Q6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "するぎ農園 Soba and Dutch Coffee",
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105389964823160047625\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBac29qnEaiW-UVJQ9Xq2czmUy-2pllHWEHskpLWj5QV1sOon5FduSE0H6hgdP6aQmEnJI0oIXxLbXWK6eyIljrdU7PuZj56l6zlzffuezta7IpOoPK-YqmWzOAudIdBkqaU1GuCLhrT437426sAfvKhbXow6tmVlLHLqCxkgkggh1i",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJOWOT0myHHGAR0fdmGX8f8fM",
+      "plus_code": {
+        "compound_code": "H3Q6+Q6 大鹿村、長野県",
+        "global_code": "8Q7WH3Q6+Q6"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

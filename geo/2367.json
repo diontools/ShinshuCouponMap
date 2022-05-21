@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２２７−１",
-        "short_name": "２２２７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町２２２７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.510433,
-        "lng": 137.857303
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5117903302915,
-          "lng": 137.8587475802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町２２２７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.5104358,
+          "lng": 137.8573347
         },
-        "southwest": {
-          "lat": 36.5090923697085,
-          "lng": 137.8560496197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.51179117989272,
+            "lng": 137.8587484298927
+          },
+          "southwest": {
+            "lat": 36.50909152010728,
+            "lng": 137.8560487701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMS3M5sVjHWARsAHmNi7niE4",
-    "plus_code": {
-      "compound_code": "GV64+5W 日本、長野県大町市",
-      "global_code": "8Q8VGV64+5W"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "藤長菓子舗",
+      "photos": [
+        {
+          "height": 2391,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104878068294754901000\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAtoifdm1PcKaQw0g4zYpIPQYOWpaTcq6f8QaT5Kkjg-4tRCvvMANDQ5d3cXSdebuGlPXhPFT_5sPoVsq3KnslYHuMa2-Ghp0uPkgkcKZSuJdoqpQEYxfrSasoOGm0dz9HjC7AH29_O1bi3YgdjJZ36g5jFeLWtkWHbCUOlXfCNtI0x",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJMS3M5sVjHWARsAHmNi7niE4",
+      "plus_code": {
+        "compound_code": "GV64+5W 大町市、長野県",
+        "global_code": "8Q8VGV64+5W"
+      },
+      "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

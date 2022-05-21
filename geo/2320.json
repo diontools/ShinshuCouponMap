@@ -1,76 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "入山辺",
-        "short_name": "入山辺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0222",
-        "short_name": "390-0222",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0222 長野県松本市入山辺 石切場8961 長野県松本市",
-    "geometry": {
-      "location": {
-        "lat": 36.2158,
-        "lng": 138.088617
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2172127302915,
-          "lng": 138.0899222302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0222 長野県松本市入山辺 石切場8961 長野県松本市",
+      "geometry": {
+        "location": {
+          "lat": 36.2158,
+          "lng": 138.088617
         },
-        "southwest": {
-          "lat": 36.2145147697085,
-          "lng": 138.0872242697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.21721357989272,
+            "lng": 138.0899230798927
+          },
+          "southwest": {
+            "lat": 36.21451392010728,
+            "lng": 138.0872234201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHbjF6RqoHWAR9ZjrhVRni4Y",
-    "plus_code": {
-      "compound_code": "638Q+8C 日本、長野県松本市",
-      "global_code": "8Q8W638Q+8C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "桜清水茶屋",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116980144403851796839\">佐野志穂</a>"
+          ],
+          "photo_reference": "Aap_uEDsQJrtAMlgOT5i3EWj1hAiNy5ajzTUUrMzEn7_5GncRtYgcRzES_ztvdZB-Sp2etRBOoO0fmzhM40XlRHxk60qzvvqSKCbPxwob0bK2YhZHrE17QkhqAa4d0wf9XKoVatZ9ncGF2yGJLJ8-0l92SLMs315zQFO_s4bOhNohvt7C_Df",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJHbjF6RqoHWAR9ZjrhVRni4Y",
+      "plus_code": {
+        "compound_code": "638Q+8C 松本市、長野県",
+        "global_code": "8Q8W638Q+8C"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

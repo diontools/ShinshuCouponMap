@@ -1,94 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２−１",
-        "short_name": "２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "青木島",
-        "short_name": "青木島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2247",
-        "short_name": "381-2247",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2247 長野県長野市青木島４丁目２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6157526,
-        "lng": 138.1792789
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6171746802915,
-          "lng": 138.1805764802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-2247 長野県長野市青木島４丁目２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6158047,
+          "lng": 138.1792499
         },
-        "southwest": {
-          "lat": 36.61447671970851,
-          "lng": 138.1778785197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.61717552989272,
+            "lng": 138.1805773298927
+          },
+          "southwest": {
+            "lat": 36.61447587010728,
+            "lng": 138.1778776701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO8RycRiEHWARZspjFI2oUvg",
-    "plus_code": {
-      "compound_code": "J58H+8P 日本、長野県長野市",
-      "global_code": "8Q8WJ58H+8P"
-    },
-    "types": [
-      "bakery",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "La mereりんごの木 （青木島店)",
+      "photos": [
+        {
+          "height": 1300,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112199861353581470980\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECMiSOscU6sQL9TGsS0oFyquzHrhJs3K9e71AnvPlqIUiDBg-jJrC4WZDkEELZiozjKgbiGHqQu4ch13M3Bo5TZ2m6fq-XcqM-8X2Mq8rCfzcV8g67d5tk_ecCVG0-v6g8lE__gxgNfnjjybrpQSjvZjE-_ddEYMsUBhtVvYt8M0Nze",
+          "width": 1955
+        }
+      ],
+      "place_id": "ChIJO8RycRiEHWARZspjFI2oUvg",
+      "plus_code": {
+        "compound_code": "J58H+8P 長野市、長野県",
+        "global_code": "8Q8WJ58H+8P"
+      },
+      "types": [
+        "bakery",
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

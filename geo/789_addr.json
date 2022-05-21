@@ -1,84 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野駅東口",
-        "short_name": "長野駅東口",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "栗田",
-        "short_name": "栗田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0921",
-        "short_name": "380-0921",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0921 長野県長野市栗田 長野駅東口",
-    "geometry": {
-      "location": {
-        "lat": 36.6428938,
-        "lng": 138.1896947
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6442377302915,
-          "lng": 138.1910735302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0921 長野県長野市栗田 源田窪９９２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.6423991,
+          "lng": 138.1886828
         },
-        "southwest": {
-          "lat": 36.6415397697085,
-          "lng": 138.1883755697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64442172989273,
+            "lng": 138.1897926798927
+          },
+          "southwest": {
+            "lat": 36.64172207010728,
+            "lng": 138.1870930201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5Stct42GHWARoXBntvk9iKE",
-    "plus_code": {
-      "compound_code": "J5VQ+5V 長野県長野市",
-      "global_code": "8Q8WJ5VQ+5V"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "transit_station"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "東日本旅客鉄道株式会社 長野支社",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106856021182305741285\">新野大輔</a>"
+          ],
+          "photo_reference": "Aap_uECKzi4T_1pqXWP0Y1f9FBOudRZo0rsDRtTMLP5k_2KE2kHOo8pdyM4KttqjjlGb7zGgunksL6rSJ2M08WKJz0BWjT1iRW_e-xO7msz4r7PJEK0IbGTbKKzDHgYu0JJ6zbu1Bfc1mztLdGJetX7c5-2RPvXKL49x1GXFIFIGnKFR0mUf",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJA9zQZZKGHWARp8BjRgGCto8",
+      "plus_code": {
+        "compound_code": "J5RQ+XF 長野市、長野県",
+        "global_code": "8Q8WJ5RQ+XF"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "坂城町",
-        "short_name": "坂城町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "埴科郡",
-        "short_name": "埴科郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県埴科郡坂城町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5010705,
-          "lng": 138.2504816
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0603 長野県埴科郡坂城町南条７１１２",
+      "geometry": {
+        "location": {
+          "lat": 36.4253717,
+          "lng": 138.1929167
         },
-        "southwest": {
-          "lat": 36.4152338,
-          "lng": 138.1285226
+        "viewport": {
+          "northeast": {
+            "lat": 36.42679192989273,
+            "lng": 138.1945086798927
+          },
+          "southwest": {
+            "lat": 36.42409227010729,
+            "lng": 138.1918090201073
+          }
         }
       },
-      "location": {
-        "lat": 36.4616691,
-        "lng": 138.1803458
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5010705,
-          "lng": 138.2504816
-        },
-        "southwest": {
-          "lat": 36.4152338,
-          "lng": 138.1285226
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJU-RWHBCZHWARuXjbuucyikk",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0603 長野県埴科郡坂城町南条７１１２",
+      "place_id": "ChIJAeRl4o6YHWARw50O7HFALbk",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

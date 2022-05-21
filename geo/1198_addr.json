@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１０１",
-        "short_name": "１１０１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "滝原",
-        "short_name": "滝原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0045",
-        "short_name": "384-0045",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0045 長野県小諸市滝原１１０１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3675264,
-          "lng": 138.42429
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0045 長野県小諸市滝原１１０１",
+      "geometry": {
+        "location": {
+          "lat": 36.3672659,
+          "lng": 138.4240112
         },
-        "southwest": {
-          "lat": 36.3671122,
-          "lng": 138.4238498
+        "viewport": {
+          "northeast": {
+            "lat": 36.36859132989272,
+            "lng": 138.4254399298927
+          },
+          "southwest": {
+            "lat": 36.36589167010728,
+            "lng": 138.4227402701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3672659,
-        "lng": 138.4240112
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3686682802915,
-          "lng": 138.4254188802915
-        },
-        "southwest": {
-          "lat": 36.3659703197085,
-          "lng": 138.4227209197085
-        }
-      }
-    },
-    "place_id": "ChIJCSiydnbIHWARKGLD_imZF-s",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0045 長野県小諸市滝原１１０１",
+      "place_id": "ChIJCSiydnbIHWARKGLD_imZF-s",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

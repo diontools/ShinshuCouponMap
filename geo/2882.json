@@ -1,64 +1,93 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県伊那市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9748294,
-          "lng": 138.2369216
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0025 長野県伊那市荒井１１",
+      "geometry": {
+        "location": {
+          "lat": 35.840197,
+          "lng": 137.95958
         },
-        "southwest": {
-          "lat": 35.5707672,
-          "lng": 137.8240581
+        "viewport": {
+          "northeast": {
+            "lat": 35.84158777989273,
+            "lng": 137.9609196298927
+          },
+          "southwest": {
+            "lat": 35.83888812010728,
+            "lng": 137.9582199701073
+          }
         }
       },
-      "location": {
-        "lat": 35.8274657,
-        "lng": 137.9540692
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9748294,
-          "lng": 138.2369216
-        },
-        "southwest": {
-          "lat": 35.5707672,
-          "lng": 137.8240581
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "菓子庵 石川 通り町本店",
+      "photos": [
+        {
+          "height": 938,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106223895585009031869\">Yamakiya Shouzaemon</a>"
+          ],
+          "photo_reference": "Aap_uECT87WuPiAKXzjP6apbun4xTXUb24VMV0YVTCnf4WUc89Gv4t07WP0xTLypVWJ2HlfBDFGUSLTC9zbapfJuQAwBaklDxOKmsp5K9r07QG_5OSoE_cjfzFYkJruTyzFrKpCGAKo-wqEg7SKK7bdqoPgjKZWzDF68ojrNZ8hSkjCXP0UU",
+          "width": 1253
         }
-      }
+      ],
+      "place_id": "ChIJrxkoAK3xHGARg9aw0QLbUJ0",
+      "plus_code": {
+        "compound_code": "RXR5+3R 伊那市、長野県",
+        "global_code": "8Q7VRXR5+3R"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJwUO1ANL0HGARHwZp4eUdL-o",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0009 長野県伊那市日影４３５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.837649,
+          "lng": 137.973403
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.83868477989272,
+            "lng": 137.9748228798927
+          },
+          "southwest": {
+            "lat": 35.83598512010728,
+            "lng": 137.9721232201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "菓子庵石川ベルシャイン伊那直営店",
+      "photos": [
+        {
+          "height": 1991,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109471019529905664996\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAHM5Cx_5qIS5ioGtiuL4bcvpALbZLGebOsDhknFCLUnG_v885VdDmTNKsWHqyLHgXwCtsRIKvq-emziT0BkECYK9n6wMjTKqnyVzlbsab4-kn6pd_XlB_3lPMtV2i0S3BQWDtiD8BrwNTqU5kowiJAVJ8UDCeKDoGRxYencQpuon4R",
+          "width": 2646
+        }
+      ],
+      "place_id": "ChIJnekbUhLxHGARBr8q_Rfm14M",
+      "plus_code": {
+        "compound_code": "RXQF+39 伊那市、長野県",
+        "global_code": "8Q7VRXQF+39"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

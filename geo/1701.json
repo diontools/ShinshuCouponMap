@@ -1,83 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "発地",
-        "short_name": "発地",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0113",
-        "short_name": "389-0113",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地 南軽井沢",
-    "geometry": {
-      "location": {
-        "lat": 36.301803,
-        "lng": 138.644227
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.30257973029149,
-          "lng": 138.6456206802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0193 長野県北佐久郡軽井沢町軽井沢",
+      "geometry": {
+        "location": {
+          "lat": 36.3369277,
+          "lng": 138.6333696
         },
-        "southwest": {
-          "lat": 36.29988176970849,
-          "lng": 138.6429227197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33832827989272,
+            "lng": 138.6346640298927
+          },
+          "southwest": {
+            "lat": 36.33562862010728,
+            "lng": 138.6319643701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyzhX010rHGARo_huBJ5Ze9Q",
-    "plus_code": {
-      "compound_code": "8J2V+PM 日本、長野県軽井沢町",
-      "global_code": "8Q8W8J2V+PM"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ファミリーマート 軽井沢プリンスホテルウエスト店",
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108152209224021071369\">松木聡</a>"
+          ],
+          "photo_reference": "Aap_uEC4tVkphgYU-0mk7RcxQTZMJsnEMuFs6yUeb7tJE5c8Tale5MxLQsGyc3PFe9WW9XHKdtM6hxCSBTMMNpuU6CN6ojwfWKvQr53-DhaUuFX0OqkGTeWrUgM_gg8MZcaJuZLK1qd954ScOsOKrX7XqU0-N-F86tAZ2a69w6aZHHhMagg",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJr-ce5ATTHWAR4ayDg3aQ-wg",
+      "plus_code": {
+        "compound_code": "8JPM+Q8 軽井沢町、長野県",
+        "global_code": "8Q8W8JPM+Q8"
+      },
+      "types": [
+        "convenience_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６９３−１５０",
-        "short_name": "６９３−１５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "野辺山",
-        "short_name": "野辺山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1305",
-        "short_name": "384-1305",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1305 長野県南佐久郡南牧村野辺山６９３−１５０",
-    "geometry": {
-      "location": {
-        "lat": 35.9560385,
-        "lng": 138.4742368
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9573156802915,
-          "lng": 138.4755588302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1305 長野県南佐久郡南牧村野辺山６９３−１５０",
+      "geometry": {
+        "location": {
+          "lat": 35.9560385,
+          "lng": 138.4742368
         },
-        "southwest": {
-          "lat": 35.9546177197085,
-          "lng": 138.4728608697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.95731652989272,
+            "lng": 138.4755596798927
+          },
+          "southwest": {
+            "lat": 35.95461687010727,
+            "lng": 138.4728600201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFdjeRf8VHGARpcUS_JCwIow",
-    "plus_code": {
-      "compound_code": "XF4F+CM 日本、長野県南牧村",
-      "global_code": "8Q7WXF4F+CM"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ホワイトラビット",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103827245877152819294\">イニシャル J</a>"
+          ],
+          "photo_reference": "Aap_uEDWSXvsjuq4TDdvHzYpgD0uGODg9NENwuVnXQapbKlSqgFBbk4G4Rp1zsvaoTlkZqdBtpy8p-YR8wj6dFDj984FHnDKQZWRnWuLrtqCHZBhb89gyY4jsMqNLoeiPzH7EpG12lFH4huzW41A80sxlsg54bzoBV70WZTlHZcGE9pYcqpe",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJFdjeRf8VHGARpcUS_JCwIow",
+      "plus_code": {
+        "compound_code": "XF4F+CM 南牧村、長野県",
+        "global_code": "8Q7WXF4F+CM"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

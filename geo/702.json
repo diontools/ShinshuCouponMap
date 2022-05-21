@@ -1,64 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0034 長野県高田１４６２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.6415018,
+          "lng": 138.2147157
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.64295967989272,
+            "lng": 138.2160535298927
+          },
+          "southwest": {
+            "lat": 36.64026002010728,
+            "lng": 138.2133538701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "長野観光自動車（株）",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111616703420280772190\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC36a7csP545zEYKjeFvkzbJdLMwF8XniSNHNp4GPRM9oafrP8h5WCU3WfncMXpJDUuphhM-0BeByny6CsASQJ8oCh1h05Ea4nO-zgEeZEbeV1rYEz9ml4ZQH7hr2i-Zlhh9gytUWeEQZ-tCjYoadkvYdLOoh0VdYHYqW5_8S6n-onI",
+          "width": 4912
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJedqzJnSGHWARr-6yAbl_elQ",
+      "plus_code": {
+        "compound_code": "J6R7+JV 長野市、長野県",
+        "global_code": "8Q8WJ6R7+JV"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

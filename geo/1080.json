@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県佐久市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.316,
-          "lng": 138.6370677
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2204 長野県佐久市協和２３４４",
+      "geometry": {
+        "location": {
+          "lat": 36.2604751,
+          "lng": 138.358481
         },
-        "southwest": {
-          "lat": 36.1083353,
-          "lng": 138.2799026
+        "viewport": {
+          "northeast": {
+            "lat": 36.26192212989272,
+            "lng": 138.3599981298927
+          },
+          "southwest": {
+            "lat": 36.25922247010727,
+            "lng": 138.3572984701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2487978,
-        "lng": 138.47685
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.316,
-          "lng": 138.6370677
-        },
-        "southwest": {
-          "lat": 36.1083353,
-          "lng": 138.2799026
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "酒のディスカウントショップ わかや",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102548108670872257596\">小林隆志</a>"
+          ],
+          "photo_reference": "Aap_uEAm7v5tlX-lhLiwZYHt355-f9R0rmrLdu5llKHbF55FuvRL3OqTGFqjOT6iHvZbSluodLtIwisWjILFKpgZ2Ap4t1YgaV26CJPNwn8dB00UhbEhye8QKLVza0usvFFZdAnytP1uaTqz2GZLuE5e4JN1n1XM610n0aiXR0dpyitQjdhe",
+          "width": 1920
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq4kaq_I0HGARPt0mcrpk7i8",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJk7RtUC20HWARnIeltCt8k2k",
+      "plus_code": {
+        "compound_code": "7965+59 佐久市、長野県",
+        "global_code": "8Q8W7965+59"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

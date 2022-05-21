@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８８４−６９７",
-        "short_name": "３８８４−６９７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "野尻",
-        "short_name": "野尻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1303",
-        "short_name": "389-1303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３８８４−６９７",
-    "geometry": {
-      "location": {
-        "lat": 36.826612,
-        "lng": 138.170797
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.82791443029149,
-          "lng": 138.1722175302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３８８４−６９７",
+      "geometry": {
+        "location": {
+          "lat": 36.826612,
+          "lng": 138.170797
         },
-        "southwest": {
-          "lat": 36.82521646970849,
-          "lng": 138.1695195697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.82791527989272,
+            "lng": 138.1722183798927
+          },
+          "southwest": {
+            "lat": 36.82521562010728,
+            "lng": 138.1695187201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmZ0Ooq8k9l8RJ1XWCRMixwo",
-    "plus_code": {
-      "compound_code": "R5GC+J8 日本、長野県信濃町",
-      "global_code": "8Q8WR5GC+J8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "カントリーペンション森のシンフォニー",
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102415981720634344279\">史彦</a>"
+          ],
+          "photo_reference": "Aap_uEB_2X1WjCDXxEb6k4y3QXmlwq0U_ZM11ebesqjhVS4kOv_u-kZR5iTpjSyabMeH1BOmiNjSvKuiT0lm39Z_WsCFVLAHyLd2qB2-BQLTN3D8SPyuAC8Ly1JmRVcgFovTM8NP1-HtlmJWxh4pPqZQMhiQ07S3gkBxABLSqkXg6x9hR1ut",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJmZ0Ooq8k9l8RJ1XWCRMixwo",
+      "plus_code": {
+        "compound_code": "R5GC+J8 信濃町、長野県",
+        "global_code": "8Q8WR5GC+J8"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

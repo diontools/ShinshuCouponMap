@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県飯山市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 37.0296895,
-          "lng": 138.5230847
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2413 長野県飯山市照里１２８４",
+      "geometry": {
+        "location": {
+          "lat": 36.9167132,
+          "lng": 138.393735
         },
-        "southwest": {
-          "lat": 36.8036089,
-          "lng": 138.2742644
+        "viewport": {
+          "northeast": {
+            "lat": 36.91808627989272,
+            "lng": 138.3950392798928
+          },
+          "southwest": {
+            "lat": 36.91538662010728,
+            "lng": 138.3923396201073
+          }
         }
       },
-      "location": {
-        "lat": 36.8517344,
-        "lng": 138.3654889
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 37.0296895,
-          "lng": 138.5230847
-        },
-        "southwest": {
-          "lat": 36.8036089,
-          "lng": 138.2742644
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "おみやげミネムラ",
+      "photos": [
+        {
+          "height": 5376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105312800392479215512\">橋本隆太</a>"
+          ],
+          "photo_reference": "Aap_uEAbwpcb1iz2MtCGITCwFXfjpT5otxYgKceLGle4HqXZHWIp_K4E-NKhRgnKyvqvgpM7hJ4jswRuPl__kIrAAieW-m_9rBi4Qg-1BQDQQwvi7MiV5fcAR2sXrMzn-h9kfP0ySeEvQj1WGu53RNT1lfOIHybT3Dfn4PMg-QK85pwnntcM",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWRwQY5Ma9l8R4BO4Q1o2g2Y",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJg1EwfWsb9l8Rkmhc_4dr2ao",
+      "plus_code": {
+        "compound_code": "W98V+MF 飯山市、長野県",
+        "global_code": "8Q8WW98V+MF"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

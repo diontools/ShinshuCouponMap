@@ -1,81 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４７５２−９３",
-        "short_name": "４７５２−９３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "宮田村",
-        "short_name": "宮田村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4301",
-        "short_name": "399-4301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4301 長野県上伊那郡宮田村４７５２−９３",
-    "geometry": {
-      "location": {
-        "lat": 35.7471162,
-        "lng": 137.8973344
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7485143802915,
-          "lng": 137.8986877802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4301 長野県上伊那郡宮田村４７５２−９３",
+      "geometry": {
+        "location": {
+          "lat": 35.7471162,
+          "lng": 137.8973344
         },
-        "southwest": {
-          "lat": 35.7458164197085,
-          "lng": 137.8959898197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74851522989272,
+            "lng": 137.8986886298927
+          },
+          "southwest": {
+            "lat": 35.74581557010728,
+            "lng": 137.8959889701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ1fD0MwjtHGARsAhQgAmw_oI",
-    "plus_code": {
-      "compound_code": "PVWW+RW 長野県宮田村",
-      "global_code": "8Q7VPVWW+RW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "山荘息吹館",
+      "photos": [
+        {
+          "height": 2416,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110909932818751056072\">Yoshiko Kato</a>"
+          ],
+          "photo_reference": "Aap_uED_son-jKbLJeaN6q4HQEtCNWNG0oO8-CJVatgpWixAHYUN3B3nHMtJDG4SDEcg1sQiHVa71atInpkSLs_K4gD0p4DZ9A0ZakaMsCJIPs-ajWnmleWqy6LnZ0UpZRd0apoMIhsLnA10BRrWTMA1XrkQ9JrIq3dei3gcsXukS-14ids",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ1fD0MwjtHGARsAhQgAmw_oI",
+      "plus_code": {
+        "compound_code": "PVWW+RW 宮田村、長野県",
+        "global_code": "8Q7VPVWW+RW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

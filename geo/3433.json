@@ -1,106 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "本館",
-        "short_name": "本館",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "マナスル山荘",
-        "short_name": "マナスル山荘",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１１４０４−２００",
-        "short_name": "１１４０４−２００",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "富士見",
-        "short_name": "富士見",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0211",
-        "short_name": "399-0211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0211 長野県諏訪郡富士見町富士見１１４０４−２００ マナスル山荘 本館",
-    "geometry": {
-      "location": {
-        "lat": 35.9019471,
-        "lng": 138.1720628
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9032096802915,
-          "lng": 138.1735632802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0211 長野県諏訪郡富士見町富士見１１４０４−２００ マナスル山荘 本館",
+      "geometry": {
+        "location": {
+          "lat": 35.9019471,
+          "lng": 138.1720628
         },
-        "southwest": {
-          "lat": 35.9005117197085,
-          "lng": 138.1708653197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.90321052989272,
+            "lng": 138.1735641298927
+          },
+          "southwest": {
+            "lat": 35.90051087010728,
+            "lng": 138.1708644701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJn6WQ0_dbHGARbR_K0-BM8ZE",
-    "plus_code": {
-      "compound_code": "W52C+QR 長野県富士見町",
-      "global_code": "8Q7WW52C+QR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "マナスル山荘 本館",
+      "photos": [
+        {
+          "height": 2400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106005000985097605508\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECHNGPwMMGqBdGzu4wpLrt6VKE_HtcpKRbL0jO1ZdEq2tSRZ5l5qRa7BVba34Oe63szOoWTFItr7BeEXDp2433s1JJKQvhlNwe3FAoZGxx5db1UgnLM1QStTGREPDNrDkp7h8je0-9mkAUzqDe-rMhoLzbn0F-AbL3tXtlv69UxSG0p",
+          "width": 3200
+        }
+      ],
+      "place_id": "ChIJn6WQ0_dbHGARbR_K0-BM8ZE",
+      "plus_code": {
+        "compound_code": "W52C+QR 富士見町、長野県",
+        "global_code": "8Q7WW52C+QR"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

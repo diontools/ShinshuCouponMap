@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３３１",
-        "short_name": "４３３１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "睦沢",
-        "short_name": "睦沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下條村",
-        "short_name": "下條村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2101",
-        "short_name": "399-2101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2101 長野県下伊那郡下條村睦沢４３３１",
-    "geometry": {
-      "location": {
-        "lat": 35.4171941,
-        "lng": 137.7948187
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.41870533029149,
-          "lng": 137.7961624302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-2101 長野県下伊那郡下條村睦沢４３３１",
+      "geometry": {
+        "location": {
+          "lat": 35.4171941,
+          "lng": 137.7948187
         },
-        "southwest": {
-          "lat": 35.4160073697085,
-          "lng": 137.7934644697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.41870617989272,
+            "lng": 137.7961632798928
+          },
+          "southwest": {
+            "lat": 35.41600652010728,
+            "lng": 137.7934636201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJI_cEsAefHGARf7LNEOq-Fr0",
-    "plus_code": {
-      "compound_code": "CQ8V+VW 長野県下條村",
-      "global_code": "8Q7VCQ8V+VW"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-2101 長野県下伊那郡下條村睦沢４３３１",
+      "place_id": "ChIJI_cEsAefHGARf7LNEOq-Fr0",
+      "plus_code": {
+        "compound_code": "CQ8V+VW 下條村、長野県",
+        "global_code": "8Q7VCQ8V+VW"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

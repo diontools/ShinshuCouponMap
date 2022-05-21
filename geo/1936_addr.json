@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５３０",
-        "short_name": "１５３０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "木曽平沢",
-        "short_name": "木曽平沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6302",
-        "short_name": "399-6302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6302 長野県塩尻市木曽平沢１５３０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9781051,
-          "lng": 137.82712
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-6302 長野県塩尻市木曽平沢１５３０",
+      "geometry": {
+        "location": {
+          "lat": 35.9779571,
+          "lng": 137.8269489
         },
-        "southwest": {
-          "lat": 35.9778775,
-          "lng": 137.8267998
+        "viewport": {
+          "northeast": {
+            "lat": 35.97923047989271,
+            "lng": 137.8283704298927
+          },
+          "southwest": {
+            "lat": 35.97653082010727,
+            "lng": 137.8256707701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9779571,
-        "lng": 137.8269489
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9793036302915,
-          "lng": 137.8283088802915
-        },
-        "southwest": {
-          "lat": 35.9766056697085,
-          "lng": 137.8256109197085
-        }
-      }
-    },
-    "place_id": "ChIJpcmM6xkeHWARDjGq3R0jb4c",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-6302 長野県塩尻市木曽平沢１５３０",
+      "place_id": "ChIJpcmM6xkeHWARDjGq3R0jb4c",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

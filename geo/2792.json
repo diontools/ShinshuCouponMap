@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１９６−１",
-        "short_name": "２１９６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻２１９６−１",
-    "geometry": {
-      "location": {
-        "lat": 35.5769978,
-        "lng": 137.5951584
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5783261302915,
-          "lng": 137.5965914302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻２１９６−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5769978,
+          "lng": 137.5951584
         },
-        "southwest": {
-          "lat": 35.5756281697085,
-          "lng": 137.5938934697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.57832697989272,
+            "lng": 137.5965922798927
+          },
+          "southwest": {
+            "lat": 35.57562732010727,
+            "lng": 137.5938926201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpyZLAuHHHGARj8aKoA_f_OU",
-    "plus_code": {
-      "compound_code": "HHGW+Q3 長野県南木曽町",
-      "global_code": "8Q7VHHGW+Q3"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "（一社）南木曽町観光協会",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112602295521593790426\">勝也大谷</a>"
+          ],
+          "photo_reference": "Aap_uEA93HAGZ0djqp3wV_Oywykr5PzQjyDb2geheIfl1LjmJAk1jC0AJpyHgMilvqaNaQ6ErzplmDFGMCTBFmanHfG38YWMFdz-UW3jR9vApdgovhD_0edmAYA8-Koi9o_Hm8b6CGyRYWctE3T7STKu6_22yeUIkLEeMQWQJnPoe_uMKTNH",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJpyZLAuHHHGARj8aKoA_f_OU",
+      "plus_code": {
+        "compound_code": "HHGW+Q3 南木曽町、長野県",
+        "global_code": "8Q7VHHGW+Q3"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

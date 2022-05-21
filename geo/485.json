@@ -1,64 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県須坂市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0087 長野県須坂東横町１４１６ ENEOS (株)キタモリ 須坂SS",
+      "geometry": {
+        "location": {
+          "lat": 36.6531943,
+          "lng": 138.3086237
         },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
+        "viewport": {
+          "northeast": {
+            "lat": 36.65448592989272,
+            "lng": 138.3099173298928
+          },
+          "southwest": {
+            "lat": 36.65178627010727,
+            "lng": 138.3072176701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6510879,
-        "lng": 138.3072807
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
-        },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "犬処ケンケン須坂本店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104684988952598025048\">Shinobu Tago</a>"
+          ],
+          "photo_reference": "Aap_uED5iwBWwiPXANtvTB57VmHLmEWfOw4559h70CJzBd3UUAyqOQyu3Pl-Xv3_ko_1cnAWRrDz9wjkr_CFlLyiEl6dMVLpnVwo7QZmcRPuv9V8Co96YVvDDw5gH8CnNarQeolcZUJ1d2UScxOZZ5MkpiBejd2osWkn1PR9gLHf9wqy8QY5",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEfGghGWSHWARb4zc9I-lG7Q",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJO4Y0QpCOHWARkjQfRUJBL-k",
+      "plus_code": {
+        "compound_code": "M835+7F 須坂市、長野県",
+        "global_code": "8Q8WM835+7F"
+      },
+      "types": [
+        "pet_store",
+        "cemetery",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

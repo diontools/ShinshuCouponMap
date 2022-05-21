@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３−５",
-        "short_name": "４３−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "福田",
-        "short_name": "福田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1104",
-        "short_name": "386-1104",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1104 長野県上田市福田４３−５",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3883077,
-          "lng": 138.2028337
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-1104 長野県上田市福田４３−５",
+      "geometry": {
+        "location": {
+          "lat": 36.3882701,
+          "lng": 138.2027252
         },
-        "southwest": {
-          "lat": 36.3881961,
-          "lng": 138.2026179
+        "viewport": {
+          "northeast": {
+            "lat": 36.38965577989273,
+            "lng": 138.2040716298928
+          },
+          "southwest": {
+            "lat": 36.38695612010728,
+            "lng": 138.2013719701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3882701,
-        "lng": 138.2027252
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3896179302915,
-          "lng": 138.2040747802915
-        },
-        "southwest": {
-          "lat": 36.3869199697085,
-          "lng": 138.2013768197085
-        }
-      }
-    },
-    "place_id": "ChIJO8ZdF_miHWARSOnUdgQqMCc",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-1104 長野県上田市福田４３−５",
+      "place_id": "ChIJO8ZdF_miHWARSOnUdgQqMCc",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

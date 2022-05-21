@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４８２",
-        "short_name": "４４８２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４４８２",
-    "geometry": {
-      "location": {
-        "lat": 36.7008567,
-        "lng": 137.8098993
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7022720802915,
-          "lng": 137.8112283802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４４８２",
+      "geometry": {
+        "location": {
+          "lat": 36.7008567,
+          "lng": 137.8098993
         },
-        "southwest": {
-          "lat": 36.6995741197085,
-          "lng": 137.8085304197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70227292989272,
+            "lng": 137.8112292298927
+          },
+          "southwest": {
+            "lat": 36.69957327010727,
+            "lng": 137.8085295701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMwvX_mnO918R7bNhxbIe5RU",
-    "plus_code": {
-      "compound_code": "PR25+8X 長野県白馬村",
-      "global_code": "8Q8VPR25+8X"
-    },
-    "types": [
-      "establishment",
-      "parking",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "name": "黒菱駐車場",
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101670403953707153879\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB9pdhqehlPSxkF8oYrUIG7Hq0ZUQqaKIJ_ATxchrQikVg0xo25JLkYobeJUV4K_3h0B7Cp4pyPDXu1ZALXtUdP0FUnn4q2tC3sNPqaNlAjT8GTb4UEP9ypE-JXj0x4WPLJtOfaMLEehAsQJHFsN5A6sKir0Bo9uCRz3dTBNEXLf4Gx",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJMwvX_mnO918R7bNhxbIe5RU",
+      "plus_code": {
+        "compound_code": "PR25+8X 白馬村、長野県",
+        "global_code": "8Q8VPR25+8X"
+      },
+      "types": [
+        "tourist_attraction",
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

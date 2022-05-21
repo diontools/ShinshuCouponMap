@@ -1,160 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４３２−３",
-        "short_name": "１４３２−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "川中島町",
-        "short_name": "川中島町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2233",
-        "short_name": "381-2233",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2233 長野県長野市川中島町１４３２−３",
-    "geometry": {
-      "location": {
-        "lat": 36.6147294,
-        "lng": 138.1612703
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.61604268029151,
-          "lng": 138.1626044302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0921 長野県長野市栗田 北河原１０３８－４",
+      "geometry": {
+        "location": {
+          "lat": 36.6427999,
+          "lng": 138.1885802
         },
-        "southwest": {
-          "lat": 36.61334471970851,
-          "lng": 138.1599064697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJXY4K0baFHWARfKpjMFz5TyI",
-    "plus_code": {
-      "compound_code": "J576+VG 長野県長野市",
-      "global_code": "8Q8WJ576+VG"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "栗田",
-        "short_name": "栗田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0921",
-        "short_name": "380-0921",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0921 長野県長野市栗田",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6452332,
-          "lng": 138.2021807
-        },
-        "southwest": {
-          "lat": 36.6326752,
-          "lng": 138.1861029
+        "viewport": {
+          "northeast": {
+            "lat": 36.64462212989272,
+            "lng": 138.1898016798927
+          },
+          "southwest": {
+            "lat": 36.64192247010727,
+            "lng": 138.1871020201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6381573,
-        "lng": 138.19583
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6452332,
-          "lng": 138.2021807
-        },
-        "southwest": {
-          "lat": 36.6326752,
-          "lng": 138.1861029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "長野市観光情報センター",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113100502663240311757\">須藤遼</a>"
+          ],
+          "photo_reference": "Aap_uED6Oj0NH_koUJJGIeG32UwlRz1zF9I20jIS9r-LMcE4wuvzQhvi4JfOeO8KuBtD1-C2LlIY0qBL1k_GeljarkSzIk6ec13i3dTwM0k4euiFgiKAUUesHGp0DyFf-Jaq81MRFhZuXgsuuZvQv_CW_5KVwvnfi8VAB-2uURDcmjNcsXZ_",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJDX6xUY-GHWAREQFoHBQ9Zog",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJpcDAiZKGHWARbkvetjHzGl8",
+      "plus_code": {
+        "compound_code": "J5VQ+4C 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+4C"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

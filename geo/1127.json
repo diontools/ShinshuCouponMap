@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７番地１",
-        "short_name": "７番地１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "伴野",
-        "short_name": "伴野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0061",
-        "short_name": "385-0061",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0061 長野県佐久市伴野７番地１",
-    "geometry": {
-      "location": {
-        "lat": 36.2364674,
-        "lng": 138.4398358
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2379443302915,
-          "lng": 138.4412781302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0061 長野県佐久市伴野７番地１",
+      "geometry": {
+        "location": {
+          "lat": 36.2364674,
+          "lng": 138.4398358
         },
-        "southwest": {
-          "lat": 36.2352463697085,
-          "lng": 138.4385801697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23794517989273,
+            "lng": 138.4412789798928
+          },
+          "southwest": {
+            "lat": 36.23524552010728,
+            "lng": 138.4385793201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2U5T7SnLHWAR9E1SERYl7bE",
-    "plus_code": {
-      "compound_code": "6CPQ+HW 日本、長野県佐久市",
-      "global_code": "8Q8W6CPQ+HW"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 ヘルシーテラス佐久南",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109410852421139671886\">doyama junji</a>"
+          ],
+          "photo_reference": "Aap_uEBPTtt5J1xpL6TECSRvq6LUMvd2BuiqtnTgfGmgYrDQzy3kzf2esZmFYGbjpIjgGuD0oV3h4h-bjP1oIG3mOoE_UD_upt50K59H37dzxAxjR4-7PxTSxBwBmIaaRi4n94yb8uvD-VnEohTWKourEiguRqtQzWHlD6ks592mwajCHQVH",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJ2U5T7SnLHWAR9E1SERYl7bE",
+      "plus_code": {
+        "compound_code": "6CPQ+HW 佐久市、長野県",
+        "global_code": "8Q8W6CPQ+HW"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

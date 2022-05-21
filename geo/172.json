@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "夜間瀬",
-        "short_name": "夜間瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬 奥志賀高原",
-    "geometry": {
-      "location": {
-        "lat": 36.780884,
-        "lng": 138.526553
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7824402302915,
-          "lng": 138.5279293802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町 奥志賀高原",
+      "geometry": {
+        "location": {
+          "lat": 36.780884,
+          "lng": 138.526553
         },
-        "southwest": {
-          "lat": 36.7797422697085,
-          "lng": 138.5252314197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.78244107989272,
+            "lng": 138.5279302298927
+          },
+          "southwest": {
+            "lat": 36.77974142010728,
+            "lng": 138.5252305701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbUcqcSX3HWAR7gapubI6LGo",
-    "plus_code": {
-      "compound_code": "QGJG+9J 日本、長野県山ノ内町",
-      "global_code": "8Q8WQGJG+9J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "シャレークリスチャニア",
+      "photos": [
+        {
+          "height": 1880,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113304379956708438835\">シャレークリスチャニア</a>"
+          ],
+          "photo_reference": "Aap_uEAH2uFBgk6IQBkSRh2a8xlaQrOO5OXCsZGWjL9Yz7QEIpbySn78OvJ1Hu7cTvqeD9Yih_gEHvRu0Wq5SYeUV8DK6F4aF56ACVbsHnfa2Q_ztH_HMrJ1cgwWPnm3uAU_EXwJM87_iiMJn4a30jk1qi26zrc3LU66HVMsSe1BC0esTtJj",
+          "width": 2816
+        }
+      ],
+      "place_id": "ChIJbUcqcSX3HWAR7gapubI6LGo",
+      "plus_code": {
+        "compound_code": "QGJG+9J 山ノ内町、長野県",
+        "global_code": "8Q8WQGJG+9J"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

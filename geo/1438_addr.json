@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "川上村",
-        "short_name": "川上村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県南佐久郡川上村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9950717,
-          "lng": 138.739236
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1408 長野県南佐久郡川上村 大字樋澤１４１７",
+      "geometry": {
+        "location": {
+          "lat": 35.9431234,
+          "lng": 138.4888777
         },
-        "southwest": {
-          "lat": 35.8698463,
-          "lng": 138.4829608
+        "viewport": {
+          "northeast": {
+            "lat": 35.94440747989272,
+            "lng": 138.4901376298927
+          },
+          "southwest": {
+            "lat": 35.94170782010728,
+            "lng": 138.4874379701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9754884,
-        "lng": 138.5784482
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9950717,
-          "lng": 138.739236
-        },
-        "southwest": {
-          "lat": 35.8698463,
-          "lng": 138.4829608
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "五光牧場オートキャンプ場",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117976073219263495016\">kamikawara tooru</a>"
+          ],
+          "photo_reference": "Aap_uEDOts9UlFmp0fmEmatD9k_CovE9x6pqUbTHYbWFxC5q8-jpdKvRjKJIDARK6qp3lfLHOhQjFO4XtXUYojHF8KhqDzsf_CGm-XP63tDgJm5XAjJrRRuMZ4DkiI1qsut_J61qhBPkJeLbaatVU5onvwb-c7j7BOunCwyHsrMhPdrYAo6U",
+          "width": 6000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9UiuKMUbHGARsOT64x7jkUs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJM-JCgXIWHGARkznm-dzCEuo",
+      "plus_code": {
+        "compound_code": "WFVQ+6H 川上村、長野県",
+        "global_code": "8Q7WWFVQ+6H"
+      },
+      "types": [
+        "campground",
+        "park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

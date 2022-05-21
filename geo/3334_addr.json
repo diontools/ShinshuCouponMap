@@ -1,79 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南箕輪村",
-        "short_name": "南箕輪村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4511",
-        "short_name": "399-4511",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.925569,
-          "lng": 137.9937315
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村北殿４３４０−４",
+      "geometry": {
+        "location": {
+          "lat": 35.8770756,
+          "lng": 137.9849506
         },
-        "southwest": {
-          "lat": 35.8500548,
-          "lng": 137.8472306
+        "viewport": {
+          "northeast": {
+            "lat": 35.87845227989272,
+            "lng": 137.9862511298927
+          },
+          "southwest": {
+            "lat": 35.87575262010727,
+            "lng": 137.9835514701073
+          }
         }
       },
-      "location": {
-        "lat": 35.8729101,
-        "lng": 137.9750145
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.925569,
-          "lng": 137.9937315
-        },
-        "southwest": {
-          "lat": 35.8500548,
-          "lng": 137.8472306
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "桂山",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111419469099002178454\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAx8fxIBKaTTuFYW9qMGtPCpznWUQoW_xFZFTXVPAHhZlD2qAgy7cKLTjsAo73geIFmwmUXRTF2uyQeCI6i8t43wTDodlumhTua_jhISE4uxb8omSokH7wKgWUESRxR3gb4zj4O_5_6S60OjdUB6aleTqv9UfW8dvDI9UdzcNQTN2oI",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYfUVlDTlHGARJBzLkQf_xZo",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJj4_IP7_wHGARllnRvvS3WW0",
+      "plus_code": {
+        "compound_code": "VXGM+RX 南箕輪村、長野県",
+        "global_code": "8Q7VVXGM+RX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８６３−１",
-        "short_name": "８６３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "島立",
-        "short_name": "島立",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0852",
-        "short_name": "390-0852",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0852 長野県松本市島立８６３−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2315377,
-        "lng": 137.9454742
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2328993802915,
-          "lng": 137.9469011802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0852 長野県松本市島立８６３−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2315532,
+          "lng": 137.9455806
         },
-        "southwest": {
-          "lat": 36.2302014197085,
-          "lng": 137.9442032197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23290022989271,
+            "lng": 137.9469020298928
+          },
+          "southwest": {
+            "lat": 36.23020057010727,
+            "lng": 137.9442023701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJW39F8HMOHWARerWuqjaWN8I",
-    "plus_code": {
-      "compound_code": "6WJW+J5 日本、長野県松本市",
-      "global_code": "8Q8V6WJW+J5"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "逸品舎",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116898081806015793153\">橋本崇</a>"
+          ],
+          "photo_reference": "Aap_uEAzaS603mGbnMSjTAndM-2aDANwg2srzbvpsuOcIwgz5qr1W_Q65of2qLgYTBMYuDEvfp6Qqo1XHpU-9YVXc_V71KP7PcvcLsohPBgejtoiA17Q8j05EDGJGTEm2u3DxJsdgi1jO2LhGXZlkCFSnwtXFHVHQY8fsWaJ78_AZIwZl7Kp",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJW39F8HMOHWARerWuqjaWN8I",
+      "plus_code": {
+        "compound_code": "6WJW+J5 松本市、長野県",
+        "global_code": "8Q8V6WJW+J5"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

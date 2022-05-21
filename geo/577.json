@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０５５",
-        "short_name": "３０５５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸倉温泉",
-        "short_name": "戸倉温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0807",
-        "short_name": "389-0807",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５",
-    "geometry": {
-      "location": {
-        "lat": 36.4839408,
-        "lng": 138.1422321
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4853290302915,
-          "lng": 138.1436588302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５",
+      "geometry": {
+        "location": {
+          "lat": 36.4839773,
+          "lng": 138.1423292
         },
-        "southwest": {
-          "lat": 36.4826310697085,
-          "lng": 138.1409608697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48532987989272,
+            "lng": 138.1436596798927
+          },
+          "southwest": {
+            "lat": 36.48263022010727,
+            "lng": 138.1409600201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq1k__GqcHWARm6R0oY7XM0I",
-    "plus_code": {
-      "compound_code": "F4MR+HV 日本、長野県千曲市",
-      "global_code": "8Q8WF4MR+HV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "（有）久保青果店",
+      "photos": [
+        {
+          "height": 3014,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116589627425776154821\">Masami Iida</a>"
+          ],
+          "photo_reference": "Aap_uECH0j_CRjVt6G4sT4T5Z1pwDoUOxfw9icnpqmfCq2lpRw0PrcBGTe-YKBE86VLi9tS0UcAMTvr-Bj6ORzheyygqz4bz603mX7xYjm1DNrg2SE8P_0r7INPyktKze5GslarpFEuJBxxV-tWDCAyX4cT3yyuGh_X8kQlC5TaFp6fi8to5",
+          "width": 4521
+        }
+      ],
+      "place_id": "ChIJq1k__GqcHWARm6R0oY7XM0I",
+      "plus_code": {
+        "compound_code": "F4MR+HV 千曲市、長野県",
+        "global_code": "8Q8WF4MR+HV"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

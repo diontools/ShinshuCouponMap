@@ -1,107 +1,92 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1F",
-        "short_name": "1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "ワシザワビル",
-        "short_name": "ワシザワビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６−２",
-        "short_name": "６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0826",
-        "short_name": "380-0826",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0826 長野県長野市南千歳１丁目６−２ ワシザワビル 1F",
-    "geometry": {
-      "location": {
-        "lat": 36.6461086,
-        "lng": 138.1894831
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64743998029149,
-          "lng": 138.1908762802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0826 長野県長野市南千歳１丁目６−２ ワシザワビル 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.6461086,
+          "lng": 138.1894831
         },
-        "southwest": {
-          "lat": 36.6447420197085,
-          "lng": 138.1881783197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64744082989273,
+            "lng": 138.1908771298928
+          },
+          "southwest": {
+            "lat": 36.64474117010728,
+            "lng": 138.1881774701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ラーメンとハイボールのうまい店 豚のさんぽ 長野駅前店",
+      "photos": [
+        {
+          "height": 2861,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114371796135712015338\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBT8ID2EFaFJrcWxsNepaPLxDrId5d8bhMyoLqt3-mQdd6x0uNcZV45FTnRGDzSXR8SmqB6UeeD-ICJC0zXG2kJLFDv9dhYQZF8y1j_vR9DCjSQH1YsttMObJ_lcJr-vb0eeY9_EAxVRT5u9e-kSwsPuIR9Ke0JZoBTW2b23Id5ZzWH",
+          "width": 4298
+        }
+      ],
+      "place_id": "ChIJXah4KO2GHWARD_CmQ3WJywA",
+      "plus_code": {
+        "compound_code": "J5WQ+CQ 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+CQ"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJXah4KO2GHWARD_CmQ3WJywA",
-    "plus_code": {
-      "compound_code": "J5WQ+CQ 日本、長野県長野市",
-      "global_code": "8Q8WJ5WQ+CQ"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市仁科町3168−８",
+      "geometry": {
+        "location": {
+          "lat": 36.5003657,
+          "lng": 137.8607892
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.50168857989272,
+            "lng": 137.8622083798928
+          },
+          "southwest": {
+            "lat": 36.49898892010727,
+            "lng": 137.8595087201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "豚のさんぽ 大町駅前店",
+      "photos": [
+        {
+          "height": 360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108524862161058210286\">豚のさんぽ</a>"
+          ],
+          "photo_reference": "Aap_uECX5sm0SgLCXJQBvKzVtIElMiLt3nXui2DQpNIfa9RFzaCzHnqDuafsfKH_8YNhFRc5Ih7EWbW2_x9fX5dfss6QkAVVUEW6BZlyTXcS-K_IR_O57KaVNH-zD_vCtGaK5Q0ZtlwXg0V5cqwCP0D6_5F2D5QCZs5ovVlgDnnbNghlMMjw",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJQU8rbOtjHWAR0ctY1xHYljU",
+      "plus_code": {
+        "compound_code": "GV26+58 大町市、長野県",
+        "global_code": "8Q8VGV26+58"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

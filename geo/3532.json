@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "諏訪",
-        "short_name": "諏訪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0004",
-        "short_name": "392-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0004 長野県諏訪市諏訪１丁目２−３",
-    "geometry": {
-      "location": {
-        "lat": 36.0460095,
-        "lng": 138.1169481
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0473403802915,
-          "lng": 138.1181792302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0004 長野県諏訪市諏訪１丁目２−３",
+      "geometry": {
+        "location": {
+          "lat": 36.0460125,
+          "lng": 138.1169616
         },
-        "southwest": {
-          "lat": 36.0446424197085,
-          "lng": 138.1154812697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04734122989273,
+            "lng": 138.1181800798927
+          },
+          "southwest": {
+            "lat": 36.04464157010729,
+            "lng": 138.1154804201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJidMuo7NVHGARQnJ8_3VA5o8",
-    "plus_code": {
-      "compound_code": "24W8+CQ 長野県諏訪市",
-      "global_code": "8Q8W24W8+CQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "麺屋宮坂商店",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109397226528983633412\">植松洋一</a>"
+          ],
+          "photo_reference": "Aap_uEBNdg9XfxZ3w0k5GL3Ghc_EIdmK0wIMl-gsg45YhAnWYFocoOEdfTnCBPt1TgUVvUgUBVWQ_nEd8g90QDULM6mI9X1rNrdLokU3o0lOWupP3wuzMC9WdwspEw2-zUJWtFfMFIRS_rWjfrndlODH0Jr3RYHCQ5wc9vCz5E0Obmx-e6ic",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJidMuo7NVHGARQnJ8_3VA5o8",
+      "plus_code": {
+        "compound_code": "24W8+CQ 諏訪市、長野県",
+        "global_code": "8Q8W24W8+CQ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

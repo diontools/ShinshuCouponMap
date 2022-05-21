@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０５５−４",
-        "short_name": "２０５５−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘野村",
-        "short_name": "広丘野村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0772",
-        "short_name": "399-0772",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0772 長野県塩尻市広丘野村２０５５−４",
-    "geometry": {
-      "location": {
-        "lat": 36.1505235,
-        "lng": 137.9507475
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1518575802915,
-          "lng": 137.9519629302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0772 長野県塩尻市広丘野村２０５５−４",
+      "geometry": {
+        "location": {
+          "lat": 36.1505235,
+          "lng": 137.9507475
         },
-        "southwest": {
-          "lat": 36.14915961970851,
-          "lng": 137.9492649697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.15185842989272,
+            "lng": 137.9519637798927
+          },
+          "southwest": {
+            "lat": 36.14915877010727,
+            "lng": 137.9492641201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKZ8ybm0FHWARFwlY3OKVVds",
-    "plus_code": {
-      "compound_code": "5X22+67 日本、長野県塩尻市",
-      "global_code": "8Q8V5X22+67"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ハルピンラーメン塩尻広丘駅前店",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114880309376716088470\">横山大</a>"
+          ],
+          "photo_reference": "Aap_uECBozAwO8XFpFkTO5GRNFc5Hjc25eg4T5j4BYIL3PuMbyf7nax-129EeZb2niJoPvTdyVqOv5J1XqrZHOxJVyW3FTnjh7ZnrIP1P0pEUqBYQ8jgHENXGxn2WbrpLeOJHgIwDMCM53J6bE4_KIQm0ptKmit3FwQ4bXtWuu3jGOwA_39q",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJKZ8ybm0FHWARFwlY3OKVVds",
+      "plus_code": {
+        "compound_code": "5X22+67 塩尻市、長野県",
+        "global_code": "8Q8V5X22+67"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

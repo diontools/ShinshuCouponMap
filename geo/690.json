@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６６１−２",
-        "short_name": "３６６１−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠３６６１−２",
-    "geometry": {
-      "location": {
-        "lat": 36.7523089,
-        "lng": 138.0845394
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7536603302915,
-          "lng": 138.0858117802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠３６６１−２",
+      "geometry": {
+        "location": {
+          "lat": 36.7523188,
+          "lng": 138.0844481
         },
-        "southwest": {
-          "lat": 36.7509623697085,
-          "lng": 138.0831138197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.75366117989272,
+            "lng": 138.0858126798927
+          },
+          "southwest": {
+            "lat": 36.75096152010727,
+            "lng": 138.0831130201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEeGwAvIu9l8R7fQ8qtH3A3Q",
-    "plus_code": {
-      "compound_code": "Q32M+WR 日本、長野県長野市",
-      "global_code": "8Q8WQ32M+WR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "山宿 戸隠小舎",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105341629937351447444\">戸隠小舎</a>"
+          ],
+          "photo_reference": "Aap_uEAgKI-oHN9OVEr4FIFyrnz-DlPsOjJ2WN6Sw-k7ETNgOyktGVRAjaZccciySQryUZ2rh9NA8lsw3r6C6cyEMANci9b1JzJ4CgpcxrsnJsZluYKclhKQvIrMLYJFmH3LfTNLtETIVi5O7TkhmuIKrFHH5W8dlTT4OrQT4vAnNwmEqFNM",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJEeGwAvIu9l8R7fQ8qtH3A3Q",
+      "plus_code": {
+        "compound_code": "Q32M+WR 長野市、長野県",
+        "global_code": "8Q8WQ32M+WR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

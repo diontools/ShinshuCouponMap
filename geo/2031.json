@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６−１",
-        "short_name": "１６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "原",
-        "short_name": "原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0316",
-        "short_name": "390-0316",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0316 長野県松本市原１６−１",
-    "geometry": {
-      "location": {
-        "lat": 36.265171,
-        "lng": 137.98314
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2665665802915,
-          "lng": 137.9844897302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0316 長野県松本市原１６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2651905,
+          "lng": 137.9831403
         },
-        "southwest": {
-          "lat": 36.2638686197085,
-          "lng": 137.9817917697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26656742989272,
+            "lng": 137.9844905798927
+          },
+          "southwest": {
+            "lat": 36.26386777010728,
+            "lng": 137.9817909201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtwzrZRYMHWAR7vOLJLxzxOw",
-    "plus_code": {
-      "compound_code": "7X8M+37 日本、長野県松本市",
-      "global_code": "8Q8V7X8M+37"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "浅間園",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117536309538980779359\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBqOQoqK16G-_Kyxb4GkPysv3bWzk1F2okV64l-h3sQ-9dmbzwJCENtQrZRuJtGEMCek2tLd-fpOEpFK4yY_RO5ygefikkssY30fwt-wdoIYtCZlqymq56o5BCFHOQg7X_wK5Zo0CjdxghQZdmVc-AaXl_3DOiz4E48GOugSSclBuNT",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJtwzrZRYMHWAR7vOLJLxzxOw",
+      "plus_code": {
+        "compound_code": "7X8M+37 松本市、長野県",
+        "global_code": "8Q8V7X8M+37"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

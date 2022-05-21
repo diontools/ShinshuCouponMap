@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０４４−１２４",
-        "short_name": "１０４４−１２４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈川",
-        "short_name": "奈川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1611",
-        "short_name": "390-1611",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1611 長野県松本市奈川１０４４−１２４",
-    "geometry": {
-      "location": {
-        "lat": 36.0418133,
-        "lng": 137.7005433
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0432337302915,
-          "lng": 137.7019871302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1611 長野県松本市奈川１０４４−１２４",
+      "geometry": {
+        "location": {
+          "lat": 36.0418133,
+          "lng": 137.7005433
         },
-        "southwest": {
-          "lat": 36.04053576970851,
-          "lng": 137.6992891697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04323457989273,
+            "lng": 137.7019879798927
+          },
+          "southwest": {
+            "lat": 36.04053492010728,
+            "lng": 137.6992883201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJeRUD7EEjHWARZVBPNGc_uLg",
-    "plus_code": {
-      "compound_code": "2PR2+P6 日本、長野県松本市",
-      "global_code": "8Q8V2PR2+P6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "旅館 仙洛",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113886530275802130282\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB32jEYKaR5yqZgDzHXnGQpWJ18lt82vOASH6ib_HACWSPzXF08TW3jJfqsGsQxHCjhfA-b6BGxTCjn4ue-wXeF5GYGVlSr-yrfA72QCSDud-tuhC90D60uCPVIkjDhxoD8-YLzm9tMuqEk_w-U5A4AwAeFx-eNxPguO3cVw6FUcyAB",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJeRUD7EEjHWARZVBPNGc_uLg",
+      "plus_code": {
+        "compound_code": "2PR2+P6 松本市、長野県",
+        "global_code": "8Q8V2PR2+P6"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

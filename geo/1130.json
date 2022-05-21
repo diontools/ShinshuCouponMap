@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０４９−１８３",
-        "short_name": "２０４９−１８３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "八郡",
-        "short_name": "八郡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久穂町",
-        "short_name": "佐久穂町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0704",
-        "short_name": "384-0704",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0704 長野県南佐久郡佐久穂町八郡２０４９−１８３",
-    "geometry": {
-      "location": {
-        "lat": 36.076751,
-        "lng": 138.384536
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0782261302915,
-          "lng": 138.3859418802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0704 長野県南佐久郡佐久穂町八郡２０４９−１８３",
+      "geometry": {
+        "location": {
+          "lat": 36.076751,
+          "lng": 138.384536
         },
-        "southwest": {
-          "lat": 36.07552816970851,
-          "lng": 138.3832439197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07822697989273,
+            "lng": 138.3859427298927
+          },
+          "southwest": {
+            "lat": 36.07552732010728,
+            "lng": 138.3832430701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJD62GRRFIHGARaDwLRPnRSV4",
-    "plus_code": {
-      "compound_code": "39GM+PR 日本、長野県佐久穂町",
-      "global_code": "8Q8W39GM+PR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ロッヂ 八ヶ嶺",
+      "photos": [
+        {
+          "height": 2269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109092885564481803794\">ロッヂ八ケ嶺</a>"
+          ],
+          "photo_reference": "Aap_uEAxZRbEMnZkvmQiouKRvSWGBi9l8LYIDk4Va0vigmnij6pEbFcKQYcvjxFUO_sNR8jDFZvCop-3sKiUYi1T9G3xIeJlm6c1giCE1B7dc7kpoS4j4b2VqgSkBjHQZloVaLgnJPinfyghRgtpKukv1fH6nzEAeGUYor45hp4GTtFBot1C",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJD62GRRFIHGARaDwLRPnRSV4",
+      "plus_code": {
+        "compound_code": "39GM+PR 佐久穂町、長野県",
+        "global_code": "8Q8W39GM+PR"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

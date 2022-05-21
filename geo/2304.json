@@ -1,77 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "島立",
-        "short_name": "島立",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0852",
-        "short_name": "390-0852",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0852 長野県松本市島立 荒井323-1",
-    "geometry": {
-      "location": {
-        "lat": 36.2320494,
-        "lng": 137.9489422
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2335806302915,
-          "lng": 137.9502798802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0852 長野県松本市島立 荒井323-1",
+      "geometry": {
+        "location": {
+          "lat": 36.2320494,
+          "lng": 137.9489422
         },
-        "southwest": {
-          "lat": 36.2308826697085,
-          "lng": 137.9475819197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23358147989272,
+            "lng": 137.9502807298927
+          },
+          "southwest": {
+            "lat": 36.23088182010727,
+            "lng": 137.9475810701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJG0V1268PHWAReXfHHtCGLNM",
-    "plus_code": {
-      "compound_code": "6WJX+RH 日本、長野県松本市",
-      "global_code": "8Q8V6WJX+RH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 北松本店",
+      "photos": [
+        {
+          "height": 1248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108732091388779397477\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECcn9ftibkozyNKkLUfVSTU6tfA7mCfZXCrtlVlSLrlMzTeTWdNfD6O47J-6UW_QFJYeJMVb9ExeTX_NAImK1lpXFuXHImc_bcrDqWdHsdKJW7zlriJcq7V0ZGCXKaVnj_WLaLKP4EbgPkH4hjjitdK3CZ3p8mWCqExHADd8IiOTICv",
+          "width": 1776
+        }
+      ],
+      "place_id": "ChIJG0V1268PHWAReXfHHtCGLNM",
+      "plus_code": {
+        "compound_code": "6WJX+RH 松本市、長野県",
+        "global_code": "8Q8V6WJX+RH"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

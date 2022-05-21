@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0015 長野県諏訪市中洲２６１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0018821,
+          "lng": 138.1169173
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 36.00330957989272,
+            "lng": 138.1182255798927
+          },
+          "southwest": {
+            "lat": 36.00060992010728,
+            "lng": 138.1155259201073
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "山佐屋",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106467303951992922843\">billionaire</a>"
+          ],
+          "photo_reference": "Aap_uEDVmELujeWlyEjbWp8_OPwEabFSKBB65I0wWbXjl3KtORbuKQ8YQo4OC-DB15rYMvCNnQNxBqJw68u4b0RoXGSUwXMDtrlwoBmd8ck0gQpomPrC9_9Elth9cKgSx0oCiQX9dJfModOt4wTCI9zB-ywS0qfreNyC_947JEwUa-6ibHjO",
+          "width": 1080
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJr_RCR_pXHGARHt4aSeuyBBk",
+      "plus_code": {
+        "compound_code": "2428+QQ 諏訪市、長野県",
+        "global_code": "8Q8W2428+QQ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

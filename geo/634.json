@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５２８−１",
-        "short_name": "５２８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "県町",
-        "short_name": "県町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0838",
-        "short_name": "380-0838",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0838 長野県長野市南長野県町５２８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6528734,
-        "lng": 138.1838915
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.65429553029151,
-          "lng": 138.1853633802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0838 長野県長野市南長野５２８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6528734,
+          "lng": 138.1838915
         },
-        "southwest": {
-          "lat": 36.65159756970851,
-          "lng": 138.1826654197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65429637989273,
+            "lng": 138.1853642298927
+          },
+          "southwest": {
+            "lat": 36.65159672010729,
+            "lng": 138.1826645701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJaWP1P-aGHWARb_La6AOtOmQ",
-    "plus_code": {
-      "compound_code": "M53M+4H 日本、長野県長野市",
-      "global_code": "8Q8WM53M+4H"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "日本料理 紀元茶寮",
+      "photos": [
+        {
+          "height": 936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106769620320562882787\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBzme2w9CwOhKtEOhtBImpBFQSS-foVtrsJKKsANOiPJHVKBGDc58oVWa4F3nsqqFmmU76lwVL5BJ8r7tfGHRJVM_nArX-0QvWtoz7aWFQOKvhPcbg1-rpVPAGp-TAdGGMoJqRUC1J7hTRWB82d0mnWMME5TcYy-KY7e-NuNUQBiv9f",
+          "width": 1404
+        }
+      ],
+      "place_id": "ChIJaWP1P-aGHWARb_La6AOtOmQ",
+      "plus_code": {
+        "compound_code": "M53M+4H 長野市、長野県",
+        "global_code": "8Q8WM53M+4H"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

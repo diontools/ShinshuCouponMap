@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県茅野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.112594,
-          "lng": 138.3743063
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山白樺湖３４１９−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.1038297,
+          "lng": 138.2394184
         },
-        "southwest": {
-          "lat": 35.9166535,
-          "lng": 138.111896
+        "viewport": {
+          "northeast": {
+            "lat": 36.10523022989271,
+            "lng": 138.2406887798927
+          },
+          "southwest": {
+            "lat": 36.10253057010727,
+            "lng": 138.2379891201073
+          }
         }
       },
-      "location": {
-        "lat": 35.9949904,
-        "lng": 138.1576589
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.112594,
-          "lng": 138.3743063
-        },
-        "southwest": {
-          "lat": 35.9166535,
-          "lng": 138.111896
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Moro Park Entertainment",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102736209151044993012\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAVjbyDoXkhJWWXOjc_yRMZafsSfM9F6eTfRDgaOR46o0P4KXDgputvAY1jXhpRDoLIgL99zvW_nUGyJYYHW1AaVybSaWf0D05R_3Jp5kCbRX1-FGpyFnNKv655qldmobdrxXqOQtcXEwUgsDodnM093F_n5H3IQd3oguFERekj4wnm",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ10NcouNPHGARSOAmcG2ylTs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJX4Xvq79NHGARk1VeT_zICzw",
+      "plus_code": {
+        "compound_code": "463Q+GQ 茅野市、長野県",
+        "global_code": "8Q8W463Q+GQ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

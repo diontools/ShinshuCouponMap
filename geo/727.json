@@ -1,64 +1,81 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-1231 長野県長野市松代町５８３",
+      "geometry": {
+        "location": {
+          "lat": 36.5629012,
+          "lng": 138.2018137
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.56418637989271,
+            "lng": 138.2031794798927
+          },
+          "southwest": {
+            "lat": 36.56148672010727,
+            "lng": 138.2004798201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "（有）カネマツ物産 カネマツ倶楽部",
+      "photos": [
+        {
+          "height": 351,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110859789486711441348\">（有）カネマツ物産 カネマツ倶楽部</a>"
+          ],
+          "photo_reference": "Aap_uEDpXVbjT7DDQTald7c818PPEB54pnIDQnmT_h1BH8GzTIVckWpF3hbKvFdqIeLBiZjlAJcBW1tyjcpLHIvZhcUB4PdIjowhONJOxsOVg3TM892sIEga1aYhsHUAoZ6Um2GpLSPl25tOCOIILWl61512ZQ1GsQWhFpGaTl5MUJ7YdQHT",
+          "width": 851
         }
-      }
+      ],
+      "place_id": "ChIJ10ey5CqFHWARrJUEYyQBcT4",
+      "plus_code": {
+        "compound_code": "H672+5P 長野市、長野県",
+        "global_code": "8Q8WH672+5P"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目１−１ ながの東急百貨店 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.6453658,
+          "lng": 138.1885952
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.64640517989272,
+            "lng": 138.1901223298927
+          },
+          "southwest": {
+            "lat": 36.64370552010728,
+            "lng": 138.1874226701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "銀座かねまつ ながの東急店",
+      "place_id": "ChIJq5pgtJKGHWAR7jZeBPnua8Y",
+      "plus_code": {
+        "compound_code": "J5WQ+4C 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+4C"
+      },
+      "types": [
+        "shoe_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２２−６",
-    "geometry": {
-      "location": {
-        "lat": 36.6430859,
-        "lng": 138.1883042
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6447499302915,
-          "lng": 138.1896343802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.6430859,
+          "lng": 138.1883042
         },
-        "southwest": {
-          "lat": 36.6420519697085,
-          "lng": 138.1869364197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64475077989272,
+            "lng": 138.1896352298927
+          },
+          "southwest": {
+            "lat": 36.64205112010728,
+            "lng": 138.1869355701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJecErkZKGHWARQHzuSTZUAWk",
-    "plus_code": {
-      "compound_code": "J5VQ+68 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+68"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "平五郎 MIDORI長野店",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104098988171848575131\">猫師</a>"
+          ],
+          "photo_reference": "Aap_uEBA8jkbNgpGnPXSL7YTk9S4qLJdP1PrhM343sdC-wJ4o26kOmKdOXIUZFZNORInHNLgf4deC5dcSLB4Sq0L6-tlNSkPtAByY8TGjqqyfPo8XyuAXezUNzFJZg3PzdNctiuZW9j7vzcCchw-NLtpotpo1wOY0PMhgc6QR6YUxCJCgsXR",
+          "width": 1616
+        }
+      ],
+      "place_id": "ChIJecErkZKGHWARQHzuSTZUAWk",
+      "plus_code": {
+        "compound_code": "J5VQ+68 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+68"
+      },
+      "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

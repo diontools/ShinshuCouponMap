@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７６３",
-        "short_name": "１７６３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "岩村田",
-        "short_name": "岩村田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0022",
-        "short_name": "385-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0022 長野県佐久市岩村田１７６３",
-    "geometry": {
-      "location": {
-        "lat": 36.2669436,
-        "lng": 138.4646925
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.26827118029149,
-          "lng": 138.4659205802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田１７６３",
+      "geometry": {
+        "location": {
+          "lat": 36.2669436,
+          "lng": 138.4646925
         },
-        "southwest": {
-          "lat": 36.2655732197085,
-          "lng": 138.4632226197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26827202989273,
+            "lng": 138.4659214298927
+          },
+          "southwest": {
+            "lat": 36.26557237010728,
+            "lng": 138.4632217701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6qqqnfLHWARWgAu26mABWk",
-    "plus_code": {
-      "compound_code": "7F87+QV 日本、長野県佐久市",
-      "global_code": "8Q8W7F87+QV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "南山亭 佐久平店",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101576638949163783192\">長谷川忍</a>"
+          ],
+          "photo_reference": "Aap_uEBXSPNic7y_aJafUS8S_n_VvvwvV2V-41Ru9wZK0IxoBLjbIUMa6wwjDzrsify_-kwuV0NR7BeUUJPqjY0pCq1xQuquoP3BtkTy5zkUpxFzxba2ybkwp9pJqAtjBnIQYV0EwRFh6TLBTZncL1_9Ug2PVaOJlhOURl9YdCmA-edSk3Qr",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJq6qqqnfLHWARWgAu26mABWk",
+      "plus_code": {
+        "compound_code": "7F87+QV 佐久市、長野県",
+        "global_code": "8Q8W7F87+QV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

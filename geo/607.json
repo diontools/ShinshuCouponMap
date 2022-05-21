@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５９７",
-        "short_name": "１５９７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中野",
-        "short_name": "中野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中野市",
-        "short_name": "中野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "383-0013",
-        "short_name": "383-0013",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒383-0013 長野県中野市中野１５９７",
-    "geometry": {
-      "location": {
-        "lat": 36.7471171,
-        "lng": 138.3733237
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.74842273029149,
-          "lng": 138.3746403302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒383-0013 長野県中野市中野１５９７",
+      "geometry": {
+        "location": {
+          "lat": 36.74709199999999,
+          "lng": 138.3733085
         },
-        "southwest": {
-          "lat": 36.7457247697085,
-          "lng": 138.3719423697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74842357989272,
+            "lng": 138.3746411798927
+          },
+          "southwest": {
+            "lat": 36.74572392010727,
+            "lng": 138.3719415201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJ8lYGuSKHWAR_b1UL6cNblY",
-    "plus_code": {
-      "compound_code": "P9WF+R8 日本、長野県中野市",
-      "global_code": "8Q8WP9WF+R8"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "井賀屋酒造場",
+      "photos": [
+        {
+          "height": 499,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103566528200838348578\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBnXmNUfx7l6q_k_JVHC4MGMC7Y4jtm0pELZGB96E4ejzy_g0p8S_gxY6ItZ7iALL2d0PQDwaFrG_WjxbtpIFreqZW9S3vF_m1dw7MK4uRjC0GC7i_JVhNqvXhVBZHgsDQrGgcPRxIcyVf2iNbGPMI40pgXlsBLYBtlt5nhZCZBxXSP",
+          "width": 888
+        }
+      ],
+      "place_id": "ChIJJ8lYGuSKHWAR_b1UL6cNblY",
+      "plus_code": {
+        "compound_code": "P9WF+R8 中野市、長野県",
+        "global_code": "8Q8WP9WF+R8"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

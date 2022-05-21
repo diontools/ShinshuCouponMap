@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６８４５",
-        "short_name": "６８４５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏６８４５",
-    "geometry": {
-      "location": {
-        "lat": 36.7326856,
-        "lng": 138.4621364
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7344635802915,
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏６８４５",
+      "geometry": {
+        "location": {
+          "lat": 36.7326856,
           "lng": 138.4621364
         },
-        "southwest": {
-          "lat": 36.7317656197085,
-          "lng": 138.458514
+        "viewport": {
+          "northeast": {
+            "lat": 36.73446442989272,
+            "lng": 138.4639476
+          },
+          "southwest": {
+            "lat": 36.73176477010728,
+            "lng": 138.4567028
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzyCiTOzzHWARH9aN73OLTfY",
-    "plus_code": {
-      "compound_code": "PFM6+3V 日本、長野県山ノ内町",
-      "global_code": "8Q8WPFM6+3V"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction",
-      "zoo"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "地獄谷野猿公苑",
+      "photos": [
+        {
+          "height": 3816,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110949592668920420395\">Pedro Mariez</a>"
+          ],
+          "photo_reference": "Aap_uEAUV2NvOSCzHS9zf2iwssApaxLHlMPp5OHXZ9E1dj5voAiupyTbwF_LUzzMkZ8p0DjJmdBUI3AMeRO68-jjeQKfw6Ve3gSPO1n5A9A4wOTGbWRC29vFHhyDUEJTPc3uFuAW8QrqXZ1e4DraUs7NT2plgq3lV0OR8zWIolgUDEoXyAtI",
+          "width": 5724
+        }
+      ],
+      "place_id": "ChIJzyCiTOzzHWARH9aN73OLTfY",
+      "plus_code": {
+        "compound_code": "PFM6+3V 山ノ内町、長野県",
+        "global_code": "8Q8WPFM6+3V"
+      },
+      "types": [
+        "tourist_attraction",
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

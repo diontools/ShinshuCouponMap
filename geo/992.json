@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５２９９",
-        "short_name": "５２９９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "門沢",
-        "short_name": "門沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0881",
-        "short_name": "380-0881",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0881 長野県長野市門沢５２９９",
-    "geometry": {
-      "location": {
-        "lat": 36.716983,
-        "lng": 138.142975
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7183022302915,
-          "lng": 138.1442414802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0881 長野県長野市門沢５２９９",
+      "geometry": {
+        "location": {
+          "lat": 36.7169662,
+          "lng": 138.1429295
         },
-        "southwest": {
-          "lat": 36.7156042697085,
-          "lng": 138.1415435197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71830307989271,
+            "lng": 138.1442423298927
+          },
+          "southwest": {
+            "lat": 36.71560342010727,
+            "lng": 138.1415426701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJP2FVIqAp9l8RyG-MjVfwWBA",
-    "plus_code": {
-      "compound_code": "P48V+Q5 日本、長野県長野市",
-      "global_code": "8Q8WP48V+Q5"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ＡＲＣＡＤＩＡ・ふたつとない景色",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116920904160831225022\">Norikazu Sekiguchi</a>"
+          ],
+          "photo_reference": "Aap_uECwrWlJik-1BwfXHagmXTm73TuUxnpUq9B6d5VhEJkIDv8gg8nHURvKKBp76Y-oTriHSU7Igla2fXn-qCw5O2LtuG2e8o6H9pjTVcD1S9jGmm9PA6Gj6GrJnHNz7ch-noTk76ZELk058UZGrDXvce0lwoF_IGRbz181g589eyOF4sl0",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJP2FVIqAp9l8RyG-MjVfwWBA",
+      "plus_code": {
+        "compound_code": "P48V+Q5 長野市、長野県",
+        "global_code": "8Q8WP48V+Q5"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

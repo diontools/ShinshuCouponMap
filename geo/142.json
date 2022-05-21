@@ -1,105 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "志賀高原自然保護センター（志賀高原ガイド組合）",
-        "short_name": "志賀高原自然保護センター（志賀高原ガイド組合）",
-        "types": [
-          "establishment",
-          "museum",
-          "park",
-          "point_of_interest",
-          "travel_agency",
-          "zoo"
-        ]
-      },
-      {
-        "long_name": "７１４８",
-        "short_name": "７１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８ 志賀高原自然保護センター（志賀高原ガイド組合）",
-    "geometry": {
-      "location": {
-        "lat": 36.7197596,
-        "lng": 138.490657
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7209447802915,
-          "lng": 138.4919985802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
+      "geometry": {
+        "location": {
+          "lat": 36.7197596,
+          "lng": 138.490657
         },
-        "southwest": {
-          "lat": 36.7182468197085,
-          "lng": 138.4893006197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.72094562989272,
+            "lng": 138.4919994298927
+          },
+          "southwest": {
+            "lat": 36.71824597010728,
+            "lng": 138.4892997701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpWzeep3xHWARiGGrxe8vcpg",
-    "plus_code": {
-      "compound_code": "PF9R+W7 日本、長野県山ノ内町",
-      "global_code": "8Q8WPF9R+W7"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "park",
-      "point_of_interest",
-      "travel_agency",
-      "zoo"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "志賀高原自然保護センター（志賀高原ガイド組合）",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104902367947741526079\">S M</a>"
+          ],
+          "photo_reference": "Aap_uEDJIJ4eBp-MsYfkg0iEel612C1yymsCMO_QczAfRPlEfC_6q5ZvbVXA5u4YdzWp8UMhclUBanlulFz9JUjKjVlMUaqk2afViILsmZWxMv8zVlm0E2BQ0mfWMoe7H7WLDoQIIB-_v43H_P0uez8Ew3itMuU8EW66uSQJJpp12siTnzY7",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJpWzeep3xHWARiGGrxe8vcpg",
+      "plus_code": {
+        "compound_code": "PF9R+W7 山ノ内町、長野県",
+        "global_code": "8Q8WPF9R+W7"
+      },
+      "types": [
+        "travel_agency",
+        "park",
+        "museum",
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

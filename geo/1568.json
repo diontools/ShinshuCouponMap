@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７８−２３２外",
-        "short_name": "１１７８−２３２外",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８−２３２外",
-    "geometry": {
-      "location": {
-        "lat": 36.3422083,
-        "lng": 138.6340013
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3436289302915,
-          "lng": 138.6353542302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８−２３２外",
+      "geometry": {
+        "location": {
+          "lat": 36.3422083,
+          "lng": 138.6340013
         },
-        "southwest": {
-          "lat": 36.3409309697085,
-          "lng": 138.6326562697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34362977989272,
+            "lng": 138.6353550798927
+          },
+          "southwest": {
+            "lat": 36.34093012010727,
+            "lng": 138.6326554201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVVWVxmTTHWARRiDkhVlwFS4",
-    "plus_code": {
-      "compound_code": "8JRM+VJ 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JRM+VJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "御曹司 きよやす庵",
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117705249206258189996\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBCu-IiR7g92esXIJsJ4kCZ6S0xS0MYrdb3dPAz-MGGVS6-DR6e1KIz1PmckncjmlxDlj55hZrA39VgjXngye60qqnV9JlLUVeDIYG4xGKQZcyshKvj7_dQ6OU9yd8IOaKyD-IJzD_j3BlIowmkqz_7ceNFLx5dFmDxj7zMQi6VFkiN",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJVVWVxmTTHWARRiDkhVlwFS4",
+      "plus_code": {
+        "compound_code": "8JRM+VJ 軽井沢町、長野県",
+        "global_code": "8Q8W8JRM+VJ"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

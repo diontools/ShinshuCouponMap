@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８１７７",
-        "short_name": "８１７７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "小根山",
-        "short_name": "小根山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小川村",
-        "short_name": "小川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-3303",
-        "short_name": "381-3303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-3303 長野県上水内郡小川村小根山８１７７",
-    "geometry": {
-      "location": {
-        "lat": 36.6027309,
-        "lng": 137.9583506
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6040988802915,
-          "lng": 137.9597441302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-3303 長野県上水内郡小川村小根山８１７７",
+      "geometry": {
+        "location": {
+          "lat": 36.6027309,
+          "lng": 137.9583506
         },
-        "southwest": {
-          "lat": 36.6014009197085,
-          "lng": 137.9570461697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.60409972989272,
+            "lng": 137.9597449798927
+          },
+          "southwest": {
+            "lat": 36.60140007010728,
+            "lng": 137.9570453201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ3a1AMyvW918RLb2NgNHzKvs",
-    "plus_code": {
-      "compound_code": "JX35+38 長野県小川村",
-      "global_code": "8Q8VJX35+38"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-3303 長野県上水内郡小川村小根山８１７７",
+      "place_id": "ChIJ3a1AMyvW918RLb2NgNHzKvs",
+      "plus_code": {
+        "compound_code": "JX35+38 小川村、長野県",
+        "global_code": "8Q8VJX35+38"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

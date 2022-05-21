@@ -1,93 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４７−２",
-        "short_name": "４７−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島４７−２",
-    "geometry": {
-      "location": {
-        "lat": 35.838025,
-        "lng": 137.74248
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.83944058029149,
-          "lng": 137.7438189302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島４７−２",
+      "geometry": {
+        "location": {
+          "lat": 35.838025,
+          "lng": 137.74248
         },
-        "southwest": {
-          "lat": 35.8367426197085,
-          "lng": 137.7411209697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.83944142989272,
+            "lng": 137.7438197798927
+          },
+          "southwest": {
+            "lat": 35.83674177010727,
+            "lng": 137.7411201201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoYyruL3dHGARHZxoOnPHf18",
-    "plus_code": {
-      "compound_code": "RPQR+6X 長野県木曽町",
-      "global_code": "8Q7VRPQR+6X"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ぬくもりの宿 駒の湯",
+      "photos": [
+        {
+          "height": 2120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104300093431000974518\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECqw_A6q2gC9oouB_bv9fdQSdjNuGvGYIaJ9v7NMIMdlEWjYO6dmbz_OCJPUtwSLWHara1P0rGdKY0Q7KF8EHT8O5iSKcy7oMWfdaSAL7I6ujXhsT7QVPUT1BkJUsvlH8gvMob3-1NmIy2dPImphARAtXjLxYiKEbIH6NppCnTNgktL",
+          "width": 3184
+        }
+      ],
+      "place_id": "ChIJoYyruL3dHGARHZxoOnPHf18",
+      "plus_code": {
+        "compound_code": "RPQR+6X 木曽町、長野県",
+        "global_code": "8Q7VRPQR+6X"
+      },
+      "types": [
+        "lodging",
+        "spa",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

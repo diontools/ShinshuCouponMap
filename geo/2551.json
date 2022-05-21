@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城 北安曇郡北安曇郡 白馬 村神城 飯田 22404-1 神城駅",
-    "geometry": {
-      "location": {
-        "lat": 36.6560652,
-        "lng": 137.8457563
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.65742058029149,
-          "lng": 137.8471074302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県 北安曇郡北安曇郡 白馬 村神城 飯田 22404-1 神城駅",
+      "geometry": {
+        "location": {
+          "lat": 36.6560652,
+          "lng": 137.8457563
         },
-        "southwest": {
-          "lat": 36.65472261970849,
-          "lng": 137.8444094697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65742142989271,
+            "lng": 137.8471082798927
+          },
+          "southwest": {
+            "lat": 36.65472177010727,
+            "lng": 137.8444086201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFffE9FPQ918R3J1FVmtF12s",
-    "plus_code": {
-      "compound_code": "MR4W+C8 長野県白馬村",
-      "global_code": "8Q8VMR4W+C8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Pizzakaya country road ぴざかや陶芸くらぶ",
+      "photos": [
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103407084596612077715\">Kolton Smith</a>"
+          ],
+          "photo_reference": "Aap_uEBM26WBhRoEOB72wKFqg6s05wnmBON8bNf8hwM9__ELWgpYzvN-pfxnHpDZNyp4wGFk7hgQhIiYSpCvkl4YMKBvle8Qalr78yOCRiI4B1XrVYI2cMYPBcE6Rh5mJt6XoWxJ1jfuxonpEo9QaQgiUdeX9nKnFYUqcGG6-hTOA0i4eK-M",
+          "width": 4048
+        }
+      ],
+      "place_id": "ChIJFffE9FPQ918R3J1FVmtF12s",
+      "plus_code": {
+        "compound_code": "MR4W+C8 白馬村、長野県",
+        "global_code": "8Q8VMR4W+C8"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

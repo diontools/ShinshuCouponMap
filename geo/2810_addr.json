@@ -1,71 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡南木曽町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.6906197,
-          "lng": 137.7295974
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-5303 長野県木曽郡南木曽町田立２２２",
+      "geometry": {
+        "location": {
+          "lat": 35.5914087,
+          "lng": 137.5579292
         },
-        "southwest": {
-          "lat": 35.5087583,
-          "lng": 137.5093811
+        "viewport": {
+          "northeast": {
+            "lat": 35.59274697989273,
+            "lng": 137.5592704798927
+          },
+          "southwest": {
+            "lat": 35.59004732010728,
+            "lng": 137.5565708201073
+          }
         }
       },
-      "location": {
-        "lat": 35.6038071,
-        "lng": 137.6089611
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-5303 長野県木曽郡南木曽町田立２２２",
+      "place_id": "ChIJnxQ7b7DJHGARse07ghUiaTY",
+      "plus_code": {
+        "compound_code": "HHR5+H5 南木曽町、長野県",
+        "global_code": "8Q7VHHR5+H5"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6906197,
-          "lng": 137.7295974
-        },
-        "southwest": {
-          "lat": 35.5087583,
-          "lng": 137.5093811
-        }
-      }
-    },
-    "place_id": "ChIJoUSzovHHHGARZ3_HfsiFTSo",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

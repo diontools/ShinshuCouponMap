@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "常盤",
-        "short_name": "常盤",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0004",
-        "short_name": "398-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0004 長野県大町市常盤",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.507597,
-          "lng": 137.8671216
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒398-0004 長野県大町市常盤",
+      "geometry": {
+        "location": {
+          "lat": 36.4744243,
+          "lng": 137.813101
         },
-        "southwest": {
-          "lat": 36.4106754,
-          "lng": 137.7278656
+        "viewport": {
+          "northeast": {
+            "lat": 36.507597,
+            "lng": 137.8671216
+          },
+          "southwest": {
+            "lat": 36.4106754,
+            "lng": 137.7278656
+          }
         }
       },
-      "location": {
-        "lat": 36.4744243,
-        "lng": 137.813101
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.507597,
-          "lng": 137.8671216
-        },
-        "southwest": {
-          "lat": 36.4106754,
-          "lng": 137.7278656
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "常盤",
+      "photos": [
+        {
+          "height": 1824,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106419125287469923043\">江川雄大</a>"
+          ],
+          "photo_reference": "Aap_uEAr7_x06A8baiYJju5-1g7sfpELfKfjeQRwhL473abQVmTJJVi9op9wqS9UxjxTtOvmv7JlRYypTClAoutVWrKD95GfMzpNGQugIlO61FVTfXd73FjAKgmG3u_POH0vOPeN5wTaihapUj-4GEST_IL-BsYgKXQzG5HIsQ91Ops4Qlix",
+          "width": 2736
         }
-      }
-    },
-    "place_id": "ChIJK-nOONNgHWARSF7iWNhV0Rg",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJK-nOONNgHWARSF7iWNhV0Rg",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

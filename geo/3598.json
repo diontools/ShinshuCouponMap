@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５２１−４",
-        "short_name": "１５２１−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0016",
-        "short_name": "392-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0016 長野県諏訪市豊田１５２１−４",
-    "geometry": {
-      "location": {
-        "lat": 36.0202382,
-        "lng": 138.104836
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.02163863029149,
-          "lng": 138.1062631802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0016 長野県諏訪市豊田１５２１−４",
+      "geometry": {
+        "location": {
+          "lat": 36.0202621,
+          "lng": 138.1049089
         },
-        "southwest": {
-          "lat": 36.0189406697085,
-          "lng": 138.1035652197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.02163947989272,
+            "lng": 138.1062640298927
+          },
+          "southwest": {
+            "lat": 36.01893982010727,
+            "lng": 138.1035643701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJF-Jbyd5VHGARqFf9_5UfUPY",
-    "plus_code": {
-      "compound_code": "24C3+3W 長野県諏訪市",
-      "global_code": "8Q8W24C3+3W"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ぱおず屋 陽太",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113041106508936600165\">M Yazawa</a>"
+          ],
+          "photo_reference": "Aap_uECqzWmLJot1c7hmYHbzgXqs3bvtqFGnj-nwKBtPAtmuBLyapp3WzoyiPGpxmH5AA4zU2e0_WdhhXYsPUNLNjHMjeFuOEoWLGXx9ZUkI6ExJ04jip8GBamRbcKALrqksc-N7pRloIF1H9kEmrWtAobJbMEtdFW_lrxSlp-YqXd9PTlog",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJF-Jbyd5VHGARqFf9_5UfUPY",
+      "plus_code": {
+        "compound_code": "24C3+3W 諏訪市、長野県",
+        "global_code": "8Q8W24C3+3W"
+      },
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０３７９−１",
-        "short_name": "１０３７９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "玉川",
-        "short_name": "玉川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0011",
-        "short_name": "391-0011",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0011 長野県茅野市玉川１０３７９−１",
-    "geometry": {
-      "location": {
-        "lat": 35.9947991,
-        "lng": 138.2085315
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9961111802915,
-          "lng": 138.2099207802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0011 長野県茅野市玉川１０３７９−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9947991,
+          "lng": 138.2085315
         },
-        "southwest": {
-          "lat": 35.9934132197085,
-          "lng": 138.2072228197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99611202989272,
+            "lng": 138.2099216298927
+          },
+          "southwest": {
+            "lat": 35.99341237010728,
+            "lng": 138.2072219701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJX16gr-BRHGARCJ9IYmKbvz4",
-    "plus_code": {
-      "compound_code": "X6V5+WC 長野県茅野市",
-      "global_code": "8Q7WX6V5+WC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "古民家 日向家(民泊)",
+      "photos": [
+        {
+          "height": 1746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112563786614035233018\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBh5sEHBeiqq6D_oHOPpyPbX6t_t6XBgnaB5ylaTrdQ1LKg0wLNdUFV5XlH3Uvpv6V_azFUEbVKgl0rd09SLYQ-An9f0CP65_vlOWfIwZt47PYbkoCJPvaT6UZGXIUBiZCPQE2R7saUbD6IzsIHKNzKEcAMo47ht9ErsYWlE_Cq8eY6",
+          "width": 2908
+        }
+      ],
+      "place_id": "ChIJX16gr-BRHGARCJ9IYmKbvz4",
+      "plus_code": {
+        "compound_code": "X6V5+WC 茅野市、長野県",
+        "global_code": "8Q7WX6V5+WC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

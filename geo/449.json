@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "Minenoharakogen",
-        "short_name": "Minenoharakogen",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "３１５３−７２０",
-        "short_name": "３１５３−７２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-2211",
-        "short_name": "382-2211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "Minenoharakogen, 3153-720 仁礼 須坂市 長野県 382-2211 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.5524095,
-        "lng": 138.3513475
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5537892802915,
-          "lng": 138.3526476302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Minenoharakogen, ３１５３−７２０ 仁礼 須坂市 長野県 382-2211 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.5524095,
+          "lng": 138.3513475
         },
-        "southwest": {
-          "lat": 36.5510913197085,
-          "lng": 138.3499496697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.55379012989273,
+            "lng": 138.3526484798927
+          },
+          "southwest": {
+            "lat": 36.55109047010728,
+            "lng": 138.3499488201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMacIXniUHWARiKOOZFGg6-4",
-    "plus_code": {
-      "compound_code": "H922+XG 日本、長野県須坂市",
-      "global_code": "8Q8WH922+XG"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション マウンテンパパ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106197665643659524666\">ゆんか</a>"
+          ],
+          "photo_reference": "Aap_uEDpCsdiR-pO0SvlQU_A2pJbfCYPCqc1aOL7qQj-41jJqHoKoRPlRI20CtNBgHR4cBd4CKbhrYKGqM5memkCS2SOdubkbzgbyTCNu-PpB5qlEKZbELklhdpSxbVGwC8Jka56UAjhBah7pOoupBOBECVlg0DAkLn01PR2smhl9_jb9s6C",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJMacIXniUHWARiKOOZFGg6-4",
+      "plus_code": {
+        "compound_code": "H922+XG 須坂市、長野県",
+        "global_code": "8Q8WH922+XG"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

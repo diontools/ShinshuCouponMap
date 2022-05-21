@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７０",
-        "short_name": "７０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目７０−７",
-    "geometry": {
-      "location": {
-        "lat": 36.481303,
-        "lng": 138.143007
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4826257802915,
-          "lng": 138.1443019802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目７０−７",
+      "geometry": {
+        "location": {
+          "lat": 36.4812847,
+          "lng": 138.1429835
         },
-        "southwest": {
-          "lat": 36.4799278197085,
-          "lng": 138.1416040197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48262662989271,
+            "lng": 138.1443028298927
+          },
+          "southwest": {
+            "lat": 36.47992697010727,
+            "lng": 138.1416031701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0fZW3RScHWARy1zWi02LI9s",
-    "plus_code": {
-      "compound_code": "F4JV+G6 日本、長野県千曲市",
-      "global_code": "8Q8WF4JV+G6"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "塩川菓子舗",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116589627425776154821\">Masami Iida</a>"
+          ],
+          "photo_reference": "Aap_uEA9PrArobUgYBUo9Ofefru9yuwDqMgNJk0n3rCnBDiD-yaCyDrPF8YJU2lVmMq9G3XLl9xJZ3wWEX0I2lnvHWs-3R9nAlk5-898eIHB1UBOLRjZsDD-ZpbukDEhiQvjkgKXwdYGDcyufWsrUJ85lXoGe6Wwi_ByQwUahJUnDs4jz7Ut",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJ0fZW3RScHWARy1zWi02LI9s",
+      "plus_code": {
+        "compound_code": "F4JV+G6 千曲市、長野県",
+        "global_code": "8Q8WF4JV+G6"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

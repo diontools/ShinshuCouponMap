@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８９",
-        "short_name": "４８９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙４８９",
-    "geometry": {
-      "location": {
-        "lat": 36.7453136,
-        "lng": 137.8728962
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.74680893029151,
-          "lng": 137.8742185302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙４８９",
+      "geometry": {
+        "location": {
+          "lat": 36.7453136,
+          "lng": 137.8728962
         },
-        "southwest": {
-          "lat": 36.74411096970851,
-          "lng": 137.8715205697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74680977989272,
+            "lng": 137.8742193798927
+          },
+          "southwest": {
+            "lat": 36.74411012010728,
+            "lng": 137.8715197201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJl-soZt7M918RWfAghLfMBnA",
-    "plus_code": {
-      "compound_code": "PVWF+45 長野県小谷村",
-      "global_code": "8Q8VPVWF+45"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-9422 長野県北安曇郡小谷村千国乙４８９",
+      "place_id": "ChIJl-soZt7M918RWfAghLfMBnA",
+      "plus_code": {
+        "compound_code": "PVWF+45 小谷村、長野県",
+        "global_code": "8Q8VPVWF+45"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7757217,
-          "lng": 137.9091214
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙",
+      "geometry": {
+        "location": {
+          "lat": 36.7702957,
+          "lng": 137.8764522
         },
-        "southwest": {
-          "lat": 36.7582606,
-          "lng": 137.8741737
+        "viewport": {
+          "northeast": {
+            "lat": 36.7757217,
+            "lng": 137.9091214
+          },
+          "southwest": {
+            "lat": 36.7582606,
+            "lng": 137.8741737
+          }
         }
       },
-      "location": {
-        "lat": 36.7702957,
-        "lng": 137.8764522
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7757217,
-          "lng": 137.9091214
-        },
-        "southwest": {
-          "lat": 36.7582606,
-          "lng": 137.8741737
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "千国乙",
+      "photos": [
+        {
+          "height": 470,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115348551340047492204\">Alex Marks</a>"
+          ],
+          "photo_reference": "Aap_uEBMZxzDRAPsM5TdM-h313yqqGWHemb4VWBHk84g5D4Ww2yTu7c7OIvzd7xjypNTj4WCiKAF5-aoGjaHwAJuQtitiPSdH2k4k3pJjcqw0s_Au97QyGENg8ZfdRcZvemsDui5c_AVF8DAIfMjHTD3yhqG8kKAfO1W3VEUedKL1mICSOWV",
+          "width": 730
         }
-      }
-    },
-    "place_id": "ChIJXxGVvLbM918Rv_7wLOSRt-o",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJXxGVvLbM918Rv_7wLOSRt-o",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

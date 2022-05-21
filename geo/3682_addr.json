@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４７５７",
-        "short_name": "４７５７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "川路",
-        "short_name": "川路",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2431",
-        "short_name": "399-2431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2431 長野県飯田市川路４７５７",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.4407934,
-          "lng": 137.8171758
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-2431 長野県飯田市川路４７５７",
+      "geometry": {
+        "location": {
+          "lat": 35.4407322,
+          "lng": 137.817093
         },
-        "southwest": {
-          "lat": 35.4406769,
-          "lng": 137.8169995
+        "viewport": {
+          "northeast": {
+            "lat": 35.44209917989271,
+            "lng": 137.8184983298927
+          },
+          "southwest": {
+            "lat": 35.43939952010727,
+            "lng": 137.8157986701073
+          }
         }
       },
-      "location": {
-        "lat": 35.4407322,
-        "lng": 137.817093
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4420841302915,
-          "lng": 137.8184507302915
-        },
-        "southwest": {
-          "lat": 35.4393861697085,
-          "lng": 137.8157527697085
-        }
-      }
-    },
-    "place_id": "ChIJxQJ4dumeHGAR-7Kgcx5HUuk",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-2431 長野県飯田市川路４７５７",
+      "place_id": "ChIJxQJ4dumeHGAR-7Kgcx5HUuk",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

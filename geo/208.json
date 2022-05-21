@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７６５３",
-        "short_name": "７６５３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷７６５３",
-    "geometry": {
-      "location": {
-        "lat": 36.9200588,
-        "lng": 138.4523719
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9214702302915,
-          "lng": 138.4534259802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷７６５３",
+      "geometry": {
+        "location": {
+          "lat": 36.9200588,
+          "lng": 138.4523719
         },
-        "southwest": {
-          "lat": 36.9187722697085,
-          "lng": 138.4507280197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92147107989273,
+            "lng": 138.4534268298927
+          },
+          "southwest": {
+            "lat": 36.91877142010728,
+            "lng": 138.4507271701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHX5RkikF9l8Rq2P_6ENE5XE",
-    "plus_code": {
-      "compound_code": "WFC2+2W 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWFC2+2W"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "野沢温泉スキー場長坂ゴンドラリフト長坂駅",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106419125287469923043\">江川雄大</a>"
+          ],
+          "photo_reference": "Aap_uEC16aYvmXnSY-c2Ee46enW-z0AmcbckPgCVoPT5ClnuhJaM1vfmagOSQjeW1og9R0VgfY8nwGiAdlxbZIH8-5A3EWInsnTO8iI7sB_CqNIW1OEBAyOip2r_idKJoUiGVGqG0x3V3TJYdTKIt5__zfUpVImOWZS5k_rlsXP6VThaKTbp",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHX5RkikF9l8Rq2P_6ENE5XE",
+      "plus_code": {
+        "compound_code": "WFC2+2W 野沢温泉村、長野県",
+        "global_code": "8Q8WWFC2+2W"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

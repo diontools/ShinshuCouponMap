@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湊",
-        "short_name": "湊",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0044",
-        "short_name": "394-0044",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0044 長野県岡谷市湊５丁目１４−７",
-    "geometry": {
-      "location": {
-        "lat": 36.030569,
-        "lng": 138.076099
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0318998302915,
-          "lng": 138.0774053802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0044 長野県岡谷市湊５丁目１４−７",
+      "geometry": {
+        "location": {
+          "lat": 36.0305516,
+          "lng": 138.0760463
         },
-        "southwest": {
-          "lat": 36.0292018697085,
-          "lng": 138.0747074197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03190067989272,
+            "lng": 138.0774062298927
+          },
+          "southwest": {
+            "lat": 36.02920102010727,
+            "lng": 138.0747065701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGYL1aGP_HGARNQ9VIMG73kQ",
-    "plus_code": {
-      "compound_code": "23JG+6C 長野県岡谷市",
-      "global_code": "8Q8W23JG+6C"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "民宿みなと",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113462493804366156337\">西尾誠</a>"
+          ],
+          "photo_reference": "Aap_uEDSnhBO-jO8hxGb8aSCc_T1Q7w76_zfJBwNtGCmXhjZuzjbC5g3kFzj6zqde4gUASo0-1ApCKDYRhNynCrpL8vMmWyC9-zEpY89ezWUvNkj_6o49HM7LO8_RK2jyEw3-iGWhAGDppS1RL2U_13hRPGUEAN8F9MZ9_LD_t-Oosl1PcGH",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJGYL1aGP_HGARNQ9VIMG73kQ",
+      "plus_code": {
+        "compound_code": "23JG+6C 岡谷市、長野県",
+        "global_code": "8Q8W23JG+6C"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

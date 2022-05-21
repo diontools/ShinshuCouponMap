@@ -1,97 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３１",
-        "short_name": "３１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "浅間温泉",
-        "short_name": "浅間温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0303",
-        "short_name": "390-0303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉１丁目３１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2617023,
-        "lng": 137.9887101
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.26305128029149,
-          "lng": 137.9900590802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉１丁目３１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2617023,
+          "lng": 137.9887101
         },
-        "southwest": {
-          "lat": 36.2603533197085,
-          "lng": 137.9873611197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26305212989271,
+            "lng": 137.9900599298927
+          },
+          "southwest": {
+            "lat": 36.26035247010726,
+            "lng": 137.9873602701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJed-C_xoMHWAREdmvw7e4tRo",
-    "plus_code": {
-      "compound_code": "7X6Q+MF 長野県松本市",
-      "global_code": "8Q8V7X6Q+MF"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0303 長野県松本市浅間温泉１丁目３１−１",
+      "place_id": "ChIJed-C_xoMHWAREdmvw7e4tRo",
+      "plus_code": {
+        "compound_code": "7X6Q+MF 松本市、長野県",
+        "global_code": "8Q8V7X6Q+MF"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９５１",
-        "short_name": "９５１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "山本",
-        "short_name": "山本",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0244",
-        "short_name": "395-0244",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0244 長野県飯田市山本９５１",
-    "geometry": {
-      "location": {
-        "lat": 35.4812564,
-        "lng": 137.7630605
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.48266218029151,
-          "lng": 137.7643626302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0244 長野県飯田市山本９５１",
+      "geometry": {
+        "location": {
+          "lat": 35.4812564,
+          "lng": 137.7630605
         },
-        "southwest": {
-          "lat": 35.47996421970851,
-          "lng": 137.7616646697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.48266302989272,
+            "lng": 137.7643634798927
+          },
+          "southwest": {
+            "lat": 35.47996337010728,
+            "lng": 137.7616638201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGRUohIKiHGARt6YDy_uWh-o",
-    "plus_code": {
-      "compound_code": "FQJ7+G6 長野県飯田市",
-      "global_code": "8Q7VFQJ7+G6"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "たかどやファーム",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104514944676478078079\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBj7QWnmV9PV-BaFoaOT22MjbIaKAlrttKyftCL6KDyW1DkPdFT3mAPyNd7RBRG9_xjFRo5hpyI0J0N0ph_FF3I2dxS-4gE4IavfI9WFTualX73lEe8DJO7UzGd1I1CAN85O9zNQzJI25OLLcHp7S2zGnokiKLt1xfA9Mcw9nGiJYyA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJGRUohIKiHGARt6YDy_uWh-o",
+      "plus_code": {
+        "compound_code": "FQJ7+G6 飯田市、長野県",
+        "global_code": "8Q7VFQJ7+G6"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

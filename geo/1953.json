@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "梓川倭",
-        "short_name": "梓川倭",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1701",
-        "short_name": "390-1701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1701 長野県松本市梓川倭１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2429101,
-        "lng": 137.89027
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.24430388029149,
-          "lng": 137.8916161802915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒390-1701 長野県松本市梓川倭１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2429101,
+          "lng": 137.89027
         },
-        "southwest": {
-          "lat": 36.24160591970849,
-          "lng": 137.8889182197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24430472989272,
+            "lng": 137.8916170298927
+          },
+          "southwest": {
+            "lat": 36.24160507010728,
+            "lng": 137.8889173701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAQAc3VASHWARvDZwjlU0shI",
-    "plus_code": {
-      "compound_code": "6VVR+54 日本、長野県松本市",
-      "global_code": "8Q8V6VVR+54"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ちゃあしゅう屋あづみ野店(チャーシュー麺)",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100731778507651711366\">Hori Hirotaka</a>"
+          ],
+          "photo_reference": "Aap_uEAzJAC3JldLVOhWeP4A9Y3XMTaVATQC-OSqJBIW8MlOoIy2-zLIV8XyYqO--Dar5Si35du1sSu7xgaS-Oa0xaU5pr9MCapExV7j7TtZzpP3gg7YH08U8dZK0eCSvxtMAX_-Kv2VVqZjHS6YaGAxS9D6V-K1lzkBmag2Ni49v9tAaiby",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJAQAc3VASHWARvDZwjlU0shI",
+      "plus_code": {
+        "compound_code": "6VVR+54 松本市、長野県",
+        "global_code": "8Q8V6VVR+54"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

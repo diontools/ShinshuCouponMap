@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-8539",
-        "short_name": "380-8539",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-8539 長野県長野市南千歳１丁目１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6448104,
-        "lng": 138.188519
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6461285802915,
-          "lng": 138.1900833802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-8539 長野県長野市南千歳１丁目１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6448104,
+          "lng": 138.188519
         },
-        "southwest": {
-          "lat": 36.6434306197085,
-          "lng": 138.1873854197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64612942989272,
+            "lng": 138.1900842298927
+          },
+          "southwest": {
+            "lat": 36.64342977010728,
+            "lng": 138.1873845701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0YSrVO2GHWARMrmOosPmTnA",
-    "plus_code": {
-      "compound_code": "J5VQ+WC 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+WC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "やぶ ながの東急",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117651429026687219581\">Wataru Shigemitsu</a>"
+          ],
+          "photo_reference": "Aap_uECGYc3eQj9sCmEvswdT6rrcct6HEQZiZErpabSEnsbdwaiL_pPLCscYwtsT0K7H6pTuwb0ER09QqQl2GRTimH1fPhYq815p495ca9dNcFDjF-ymjBYK2xbJ7039m5K8JqsKOJZ96rPikKGnofXVdzYJaBHVbj630RW2h8URvEn6sP-Z",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ0YSrVO2GHWARMrmOosPmTnA",
+      "plus_code": {
+        "compound_code": "J5VQ+WC 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+WC"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

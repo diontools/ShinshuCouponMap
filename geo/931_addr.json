@@ -1,108 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "ワシザワビル",
-        "short_name": "ワシザワビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６−２",
-        "short_name": "６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目６−２ ワシザワビル 1f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6462358,
-          "lng": 138.1896223
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目６−２ ワシザワビル 1f",
+      "geometry": {
+        "location": {
+          "lat": 36.6461708,
+          "lng": 138.1894987
         },
-        "southwest": {
-          "lat": 36.6460616,
-          "lng": 138.1894283
+        "viewport": {
+          "northeast": {
+            "lat": 36.64747712989272,
+            "lng": 138.1908926298927
+          },
+          "southwest": {
+            "lat": 36.64477747010728,
+            "lng": 138.1881929701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6461708,
-        "lng": 138.1894987
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64749768029149,
-          "lng": 138.1908742802915
-        },
-        "southwest": {
-          "lat": 36.64479971970849,
-          "lng": 138.1881763197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "ワシザワビル 1f",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108124267673297295726\">Wu Daisuke</a>"
+          ],
+          "photo_reference": "Aap_uEBROhFC49AwoRsCWT1MTlHK9AbNQxosF1kzyucdfkgtdKPLSKo3SLmDVPvaLiLTI7EUrMpEzygBorh0xotRPGkaL0S67XuBs9BKbRB5wgyJG0mkn-3al2-tzwBTTxiO_4LmuhI9jHyoxrx-USIfEGZKPtSmlvunv9xbEksJTMVTPbh1",
+          "width": 3024
         }
-      }
-    },
-    "place_id": "ElRKYXBhbiwg44CSMzgwLTA4MjMgTmFnYW5vLCBNaW5hbWljaGl0b3NlLCAxLWNoxY1tZeKIku-8luKIku-8kiDjg6_jgrfjgrbjg6_jg5Pjg6sgMWYiHhocChYKFAoSCd9zRljthh1gEQ_BUvNCefw7EgIxZg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "Eljml6XmnKzjgIHjgJIzODAtMDgyMyDplbfph47nnIzplbfph47luILljZfljYPmrbPvvJHkuIHnm67vvJbiiJLvvJIg44Ov44K344K244Ov44OT44OrIDFmIh4aHAoWChQKEgnfc0ZY7YYdYBEPwVLzQnn8OxICMWY",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

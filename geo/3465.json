@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１",
-        "short_name": "２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り２丁目７−２１",
-    "geometry": {
-      "location": {
-        "lat": 36.0513613,
-        "lng": 138.1124054
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0527153802915,
-          "lng": 138.1139402302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り２丁目７−２１",
+      "geometry": {
+        "location": {
+          "lat": 36.0513605,
+          "lng": 138.1123954
         },
-        "southwest": {
-          "lat": 36.0500174197085,
-          "lng": 138.1112422697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05271622989272,
+            "lng": 138.1139410798927
+          },
+          "southwest": {
+            "lat": 36.05001657010728,
+            "lng": 138.1112414201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJkSWQHdBVHGART-ZpGnZI8kw",
-    "plus_code": {
-      "compound_code": "3426+GX 長野県諏訪市",
-      "global_code": "8Q8W3426+GX"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "諏訪湖カヤック",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102299405608059349502\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDwc-wm4n92ii8lYu7jLs-U98junEt_AtFiM9j-PtrCL6kUisAivfSU0-4uTxMi3P88u6NAS18xXgXma9o99QT5H50BPu_Rft_M0EI6CpOz8kgw59gm6EnDzC0oL0o79qqJHfBN9XLJcm1hQXOYvHZtafLozKHB7qp9EHcQ4iqzqRiq",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJkSWQHdBVHGART-ZpGnZI8kw",
+      "plus_code": {
+        "compound_code": "3426+GX 諏訪市、長野県",
+        "global_code": "8Q8W3426+GX"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

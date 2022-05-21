@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６４４",
-        "short_name": "６４４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "旭",
-        "short_name": "旭",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2251",
-        "short_name": "389-2251",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2251 長野県飯山市旭６４４",
-    "geometry": {
-      "location": {
-        "lat": 36.868081,
-        "lng": 138.350405
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8693571302915,
-          "lng": 138.3517634802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2251 長野県飯山市旭６４４",
+      "geometry": {
+        "location": {
+          "lat": 36.868081,
+          "lng": 138.3504051
         },
-        "southwest": {
-          "lat": 36.8666591697085,
-          "lng": 138.3490655197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.86935797989272,
+            "lng": 138.3517643798928
+          },
+          "southwest": {
+            "lat": 36.86665832010728,
+            "lng": 138.3490647201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhS6L2Q0Z9l8R9vCDFSlJslQ",
-    "plus_code": {
-      "compound_code": "V992+65 日本、長野県飯山市",
-      "global_code": "8Q8WV992+65"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "旬菜料理はたの",
+      "photos": [
+        {
+          "height": 2825,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110402483791510191889\">旬菜料理 はたの</a>"
+          ],
+          "photo_reference": "Aap_uEAnW1l8g4e8QR0EKopkV6AkoYlLJRpc4aTBjPPvDATamsX1VqgsQY9ubMGYasZua-ZqyNXIMnk6kWQYWEWw6NOeLqeDs9KoE8R9HVApNToEbR9cJwtnrqaBGznyhnNAaS1x8h30dc35U6krJG_Mh4zK-uZA0t8kQXcgPTNVHjVDRTIU",
+          "width": 3035
+        }
+      ],
+      "place_id": "ChIJhS6L2Q0Z9l8R9vCDFSlJslQ",
+      "plus_code": {
+        "compound_code": "V992+65 飯山市、長野県",
+        "global_code": "8Q8WV992+65"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

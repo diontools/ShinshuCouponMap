@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２９３７",
-        "short_name": "２９３７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "下市田",
-        "short_name": "下市田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "高森町",
-        "short_name": "高森町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3103",
-        "short_name": "399-3103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3103 長野県下伊那郡高森町下市田２９３７",
-    "geometry": {
-      "location": {
-        "lat": 35.549731,
-        "lng": 137.88567
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5511052302915,
-          "lng": 137.8869811302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3103 長野県下伊那郡高森町下市田２９３７",
+      "geometry": {
+        "location": {
+          "lat": 35.5497466,
+          "lng": 137.8856312
         },
-        "southwest": {
-          "lat": 35.5484072697085,
-          "lng": 137.8842831697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.55110607989273,
+            "lng": 137.8869819798927
+          },
+          "southwest": {
+            "lat": 35.54840642010728,
+            "lng": 137.8842823201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ36V2ZomaHGARLOlU-GME8GA",
-    "plus_code": {
-      "compound_code": "GVXP+V7 長野県高森町",
-      "global_code": "8Q7VGVXP+V7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "北部タクシー 本社",
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101189047594971006843\">伊藤浩之</a>"
+          ],
+          "photo_reference": "Aap_uEDatni1gciOE7i2bdbOtZe84gW-DKphT3UlC2TDHonmq1hMwoW1HfoGR6NWvlw75tpLvaVmVnp1xso-_hW0Hc8S5q0EVAi-XF6Mqu12PrZx1RazRRriDE8WdIopyRJIuYHdgo_LO8qeWQhHHQ78KjWg3ZRe-La8NUUFIP5EPCrxOnZw",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJ36V2ZomaHGARLOlU-GME8GA",
+      "plus_code": {
+        "compound_code": "GVXP+V7 高森町、長野県",
+        "global_code": "8Q7VGVXP+V7"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

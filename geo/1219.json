@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２４８−５",
-        "short_name": "１２４８−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "国分",
-        "short_name": "国分",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0016",
-        "short_name": "386-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0016 長野県上田市国分１２４８−５",
-    "geometry": {
-      "location": {
-        "lat": 36.378786,
-        "lng": 138.27349
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3801626302915,
-          "lng": 138.2749483302915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒386-0016 長野県上田市国分１２４８−５",
+      "geometry": {
+        "location": {
+          "lat": 36.378786,
+          "lng": 138.27349
         },
-        "southwest": {
-          "lat": 36.3774646697085,
-          "lng": 138.2722503697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.38016347989272,
+            "lng": 138.2749491798927
+          },
+          "southwest": {
+            "lat": 36.37746382010727,
+            "lng": 138.2722495201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyTZFMoK8HWARY9C2Rsl2ZWQ",
-    "plus_code": {
-      "compound_code": "97HF+G9 日本、長野県上田市",
-      "global_code": "8Q8W97HF+G9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "牛角 国分店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112573162400219130774\">rose a</a>"
+          ],
+          "photo_reference": "Aap_uEDr5iDeBeFMpA3lVIA7l8nQNziGOsvcfwUz1E2DEHCd_5_qtM-tiWuFmcmDyNUtRbKd9v28HPgvW6QmJ1GFrMWyEU29_gC7_qhDgE_6_i_mnFtp1oYUqoUO2Dyj4nuD4YmCq6RQ-Dz1WW3ObdtgPygEWVeacHgJ_1Tq_Ueg1UzFFav4",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJyTZFMoK8HWARY9C2Rsl2ZWQ",
+      "plus_code": {
+        "compound_code": "97HF+G9 上田市、長野県",
+        "global_code": "8Q8W97HF+G9"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

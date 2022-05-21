@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８３７−１０１",
-        "short_name": "８３７−１０１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈良井",
-        "short_name": "奈良井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6303",
-        "short_name": "399-6303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井８３７−１０１",
-    "geometry": {
-      "location": {
-        "lat": 35.9678525,
-        "lng": 137.8151821
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9692617302915,
-          "lng": 137.8164886802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井８３７−１０１",
+      "geometry": {
+        "location": {
+          "lat": 35.9678827,
+          "lng": 137.8151355
         },
-        "southwest": {
-          "lat": 35.9665637697085,
-          "lng": 137.8137907197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96926257989273,
+            "lng": 137.8164895298927
+          },
+          "southwest": {
+            "lat": 35.96656292010729,
+            "lng": 137.8137898701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJz03pWSYeHWARdjO6fNf0J3E",
-    "plus_code": {
-      "compound_code": "XR98+43 日本、長野県塩尻市",
-      "global_code": "8Q7VXR98+43"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "カフェ 深山",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111325592660381554274\">カフェ 深山</a>"
+          ],
+          "photo_reference": "Aap_uEAZ25koVtkFCfbR6HnHtbWrexzyd6iuoly75F1saLZk60I0uYVtLbpWblF87Mi52vlAT-fvMbd-CTnZS-5JD80fnOSaopJ8TLjZDBuPtZNdpkouJXJ2maGLkhQFU1f2phUoxpb9wbDuUhvOhxSLDquijpoKDEVEZ6fXzdymEeHzaFsr",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJz03pWSYeHWARdjO6fNf0J3E",
+      "plus_code": {
+        "compound_code": "XR98+43 塩尻市、長野県",
+        "global_code": "8Q7VXR98+43"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

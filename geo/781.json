@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６０２−１",
-        "short_name": "６０２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "川中島町上氷鉋",
-        "short_name": "川中島町上氷鉋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2233",
-        "short_name": "381-2233",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2233 長野県長野市川中島町上氷鉋６０２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6050767,
-        "lng": 138.1618015
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6063843802915,
-          "lng": 138.1631422302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-2233 長野県長野市川中島町上氷鉋６０２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6050832,
+          "lng": 138.1618028
         },
-        "southwest": {
-          "lat": 36.6036864197085,
-          "lng": 138.1604442697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.60638522989272,
+            "lng": 138.1631430798927
+          },
+          "southwest": {
+            "lat": 36.60368557010727,
+            "lng": 138.1604434201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4-Tj0nXBj18R7kb6LPpsfwQ",
-    "plus_code": {
-      "compound_code": "J546+2P 日本、長野県長野市",
-      "global_code": "8Q8WJ546+2P"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 川中島店",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103670135962416694263\">kazuyuki k</a>"
+          ],
+          "photo_reference": "Aap_uEDD7KlS8FoReZxMTuSGtLs4n9ivGAWr9OBbJIBsNMyYi7Ol9edjzoyYwg5zcyE0eaYLcvMhjpGxxhmlYemuvRrzkLYADA-R2zuSno8Z28iiusCAAZVoHg6Ocev2NBTe-wQbaInRXKSaHUXoZkZ0aZq7FBSKg6wJA9vLAVFtmZZuBIAD",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ4-Tj0nXBj18R7kb6LPpsfwQ",
+      "plus_code": {
+        "compound_code": "J546+2P 長野市、長野県",
+        "global_code": "8Q8WJ546+2P"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

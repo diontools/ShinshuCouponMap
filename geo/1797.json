@@ -1,83 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５９５２−３",
-        "short_name": "５９５２−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高",
-        "short_name": "穂高",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8303",
-        "short_name": "399-8303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8303 長野県安曇野市穂高５９５２−３",
-    "geometry": {
-      "location": {
-        "lat": 36.340082,
-        "lng": 137.882438
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3414454302915,
-          "lng": 137.8836754802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8303 長野県安曇野市穂高５９５２−３",
+      "geometry": {
+        "location": {
+          "lat": 36.340082,
+          "lng": 137.882438
         },
-        "southwest": {
-          "lat": 36.3387474697085,
-          "lng": 137.8809775197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34144627989272,
+            "lng": 137.8836763298928
+          },
+          "southwest": {
+            "lat": 36.33874662010728,
+            "lng": 137.8809766701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "安曇野市観光情報センター",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106798154577165817893\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBl79EJflOcYPptlwIWiOuUtCfJWgyY66-5s3765a9i0xyydv8TyADVknpfwX4QbHjiYG3laPaRtF9HXlakFPnAeElGAOidDyLGCAG9rvuMbE8eSAY1HE8BB_GpeEv2mZL4J6OMQEDkK5_4aALA9f4GV34OS2KJxtzJWC7yOuTaTIuG",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJbz6etcxtHWARN3Nx8mrZzKw",
+      "plus_code": {
+        "compound_code": "8VRJ+2X 安曇野市、長野県",
+        "global_code": "8Q8V8VRJ+2X"
+      },
+      "types": [
+        "travel_agency",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJbz6etcxtHWARN3Nx8mrZzKw",
-    "plus_code": {
-      "compound_code": "8VRJ+2X 日本、長野県安曇野市",
-      "global_code": "8Q8V8VRJ+2X"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store",
-      "travel_agency"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8303 長野県安曇野市穂高５９５２−３",
+      "geometry": {
+        "location": {
+          "lat": 36.340082,
+          "lng": 137.882438
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.34140877989272,
+            "lng": 137.8836844298927
+          },
+          "southwest": {
+            "lat": 36.33870912010727,
+            "lng": 137.8809847701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "安曇野市観光協会",
+      "photos": [
+        {
+          "height": 1368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103392632316935223899\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBYjC88sM8m6U5G5J8xxqiHkN_bja517CVv2lT3Tn1WVmsnVbYeky5ehLZqXuVcJxitdz3RiTZL9uEkRG3GGd1s1eyMIdl8yd0OG2xorOuwToUgmZ--YyrUuIzrOajeXjupoJI6IKP-_yvwK2LDQMWI-l2XwV8W3loSIvpyLdnp7XOb",
+          "width": 1824
+        }
+      ],
+      "place_id": "ChIJlxypMcptHWARBqrMtLSJfg0",
+      "plus_code": {
+        "compound_code": "8VRJ+2X 安曇野市、長野県",
+        "global_code": "8Q8V8VRJ+2X"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

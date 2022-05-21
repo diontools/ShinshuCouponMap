@@ -1,173 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野駅前",
-        "short_name": "長野駅前",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町 長野駅前",
-    "geometry": {
-      "location": {
-        "lat": 36.6437435,
-        "lng": 138.1876043
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6450924802915,
-          "lng": 138.1889532802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目７−３",
+      "geometry": {
+        "location": {
+          "lat": 36.6466134,
+          "lng": 138.1887683
         },
-        "southwest": {
-          "lat": 36.6423945197085,
-          "lng": 138.1862553197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64800807989272,
+            "lng": 138.1901261298927
+          },
+          "southwest": {
+            "lat": 36.64530842010728,
+            "lng": 138.1874264701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJTfNg3JKGHWARnQCa982Hkf0",
-    "types": [
-      "intersection"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "７−３",
-        "short_name": "７−３",
-        "types": [
-          "premise"
-        ]
       },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目７−３",
-    "geometry": {
-      "location": {
-        "lat": 36.6466134,
-        "lng": 138.1887683
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6480072302915,
-          "lng": 138.1901252802915
-        },
-        "southwest": {
-          "lat": 36.6453092697085,
-          "lng": 138.1874273197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Relaxation salon Lovin長野駅前店",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116137980781603769272\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAm3XglBj8L7PxdcuX1yCJQb_Od9_tmmxeMkKoUi0Xf16TfwDYYCiathGVxTPI1t4l6zwL20MO5erazdxrsjZ1x49PdQyHxzfWeNFq86d7pBPnQZrECqmlJBru6A6mocsPxVpMLJtCm_INUArMcn-UM2uzCtV9b5sEIoJoL4uVxU5ub",
+          "width": 4608
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO0TMbuGHHWARE3T0hL97Bfw",
-    "plus_code": {
-      "compound_code": "J5WQ+JG 日本、長野県長野市",
-      "global_code": "8Q8WJ5WQ+JG"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJO0TMbuGHHWARE3T0hL97Bfw",
+      "plus_code": {
+        "compound_code": "J5WQ+JG 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+JG"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

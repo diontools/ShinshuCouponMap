@@ -1,100 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０３３",
-        "short_name": "１０３３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "通り",
-        "short_name": "通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2300",
-        "short_name": "384-2300",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2300 長野県北佐久郡立科町芦田八ケ野通り−１０３３",
-    "geometry": {
-      "location": {
-        "lat": 36.1316072,
-        "lng": 138.270289
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1329525302915,
-          "lng": 138.2715700302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2300 長野県北佐久郡立科町芦田八ケ野通り１０３３",
+      "geometry": {
+        "location": {
+          "lat": 36.1316072,
+          "lng": 138.270289
         },
-        "southwest": {
-          "lat": 36.1302545697085,
-          "lng": 138.2688720697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13295337989273,
+            "lng": 138.2715708798927
+          },
+          "southwest": {
+            "lat": 36.13025372010728,
+            "lng": 138.2688712201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJy4ejXDSxHWARmcbv9mSVMno",
-    "plus_code": {
-      "compound_code": "47JC+J4 日本、長野県立科町",
-      "global_code": "8Q8W47JC+J4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "水車茶屋",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108192239124596861882\">狼離羊卯</a>"
+          ],
+          "photo_reference": "Aap_uEBnRqYcRGo75N3v49MtEq7icecj4Lf_R4aAxjHAM_lBR5Mqe7ru_vcaF_JfHlAH0R7PtLF76pPOX0QnWKFa4iV8KqkeAj2ghPwp9shIjB_ITMONyRcDu-DtTbTYoPv6yVICKnP0_Z1HOJEtjwe3cSLGM6I5gMO4mrvX5Aoxi1NUYKCi",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJy4ejXDSxHWARmcbv9mSVMno",
+      "plus_code": {
+        "compound_code": "47JC+J4 立科町、長野県",
+        "global_code": "8Q8W47JC+J4"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

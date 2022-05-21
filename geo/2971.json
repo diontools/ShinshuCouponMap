@@ -1,116 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "シロンビル",
-        "short_name": "シロンビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本町",
-        "short_name": "本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0028",
-        "short_name": "394-0028",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0028 長野県岡谷市本町３丁目１−３ シロンビル 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.0614149,
-        "lng": 138.0447764
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.06276803029149,
-          "lng": 138.0460385802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0028 長野県岡谷市本町３丁目１−３ シロンビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.0614131,
+          "lng": 138.0447163
         },
-        "southwest": {
-          "lat": 36.06007006970849,
-          "lng": 138.0433406197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06276887989272,
+            "lng": 138.0460394298927
+          },
+          "southwest": {
+            "lat": 36.06006922010727,
+            "lng": 138.0433397701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVVUFEioAHWARBBgOHezfgbQ",
-    "plus_code": {
-      "compound_code": "326V+HW 長野県岡谷市",
-      "global_code": "8Q8W326V+HW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "魚民 岡谷本町３丁目店",
+      "photos": [
+        {
+          "height": 1492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">nori baba</a>"
+          ],
+          "photo_reference": "Aap_uEDY59GptoSyy--FSTSlDgJQO25L2uHgwWSMQdY-Y568zITeWTwDYHEx0oMXhs20HiJ4-pbR1C9qzcSYINrnweqcuKQfyUyptQ3sv0nqZXcxyDDv5VCHbWK72V2y3IHiUMy4cKRagVnoMGiIF8cMo3pDldw7PV9sWWLbEaUKP3yoNcye",
+          "width": 2016
+        }
+      ],
+      "place_id": "ChIJVVUFEioAHWARBBgOHezfgbQ",
+      "plus_code": {
+        "compound_code": "326V+HW 岡谷市、長野県",
+        "global_code": "8Q8W326V+HW"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

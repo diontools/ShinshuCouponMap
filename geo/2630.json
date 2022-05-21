@@ -1,82 +1,82 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "切久保",
-        "short_name": "切久保",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "12109, 切久保 白馬村 北安曇郡 長野県 399-9301 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.7170051,
-        "lng": 137.858574
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7184066302915,
-          "lng": 137.8601202302915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１２１０５−３",
+      "geometry": {
+        "location": {
+          "lat": 36.716744,
+          "lng": 137.85819
         },
-        "southwest": {
-          "lat": 36.7157086697085,
-          "lng": 137.8574222697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71834842989272,
+            "lng": 137.8596625298927
+          },
+          "southwest": {
+            "lat": 36.71564877010728,
+            "lng": 137.8569628701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "アライスポーツ 岩岳ゴンドラ店",
+      "place_id": "ChIJd5T37JXN918Rw_2DkpCpIzM",
+      "plus_code": {
+        "compound_code": "PV85+M7 白馬村、長野県",
+        "global_code": "8Q8VPV85+M7"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ_x6KXojN918REfFHPZ7j5hQ",
-    "plus_code": {
-      "compound_code": "PV85+RC 長野県白馬村",
-      "global_code": "8Q8VPV85+RC"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１１４２０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.71547899999999,
+          "lng": 137.85408
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.71682882989272,
+            "lng": 137.8554298298927
+          },
+          "southwest": {
+            "lat": 36.71412917010728,
+            "lng": 137.8527301701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "白馬岩岳スノーフィールド",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106034954409974577680\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBNaeEd_bhz8-15vbaKWK5wSsc5Zm7rc2CLPmkL3tKTWpbvDpDC3u2xzpTnce4jJCwIwARl0NNbxBN1_-ledNP7i4ZnlRMzt71WRXB24csLcdEVkjNegRT6xsu24D8_nSkLpMKSKpuheQali6m13GzafZn69-N0Hi2rbz21gbUF0CkG",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJba7_IZXN918R4VIbHkNj89Q",
+      "plus_code": {
+        "compound_code": "PV83+5J 白馬村、長野県",
+        "global_code": "8Q8VPV83+5J"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "park",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

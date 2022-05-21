@@ -1,99 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１",
-        "short_name": "２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "諏訪",
-        "short_name": "諏訪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0004",
-        "short_name": "392-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0004 長野県諏訪市諏訪２丁目８−２１",
-    "geometry": {
-      "location": {
-        "lat": 36.04184559999999,
-        "lng": 138.12112
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0431459802915,
-          "lng": 138.1224585302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0004 長野県諏訪市諏訪２丁目８−２１",
+      "geometry": {
+        "location": {
+          "lat": 36.0418252,
+          "lng": 138.121084
         },
-        "southwest": {
-          "lat": 36.0404480197085,
-          "lng": 138.1197605697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04314682989272,
+            "lng": 138.1224593798927
+          },
+          "southwest": {
+            "lat": 36.04044717010728,
+            "lng": 138.1197597201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgf3eXTVUHGARx_xR_56ypCA",
-    "plus_code": {
-      "compound_code": "24RC+PC 長野県諏訪市",
-      "global_code": "8Q8W24RC+PC"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "酒ぬのや本金酒造",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105262338317402220709\">矢口忠史</a>"
+          ],
+          "photo_reference": "Aap_uECq4oAv5ZM9q1NJY8ryuQh2cb41FIWYL73GFUq2tOUkJL3nTuas8R5ntbm7nfRFBQVJ7S9t5cSqt1nBezDmvaWQ495tGVEMXQkwNQmYvMdY3a1Pu-GvR3sQ25Y6r2GrZFHJraCatwJPVD-c1MYKiLR5Z1kB2KZhdGGkz7FtYbpqnYtP",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJgf3eXTVUHGARx_xR_56ypCA",
+      "plus_code": {
+        "compound_code": "24RC+PC 諏訪市、長野県",
+        "global_code": "8Q8W24RC+PC"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

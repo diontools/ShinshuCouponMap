@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６４６９−１",
-        "short_name": "６４６９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中尾",
-        "short_name": "中尾",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村中尾６４６９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.9169345,
-        "lng": 138.4415733
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.91831508029149,
-          "lng": 138.4428977302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村中尾６４６９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.9169345,
+          "lng": 138.4415733
         },
-        "southwest": {
-          "lat": 36.91561711970849,
-          "lng": 138.4401997697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.91831592989271,
+            "lng": 138.4428985798928
+          },
+          "southwest": {
+            "lat": 36.91561627010727,
+            "lng": 138.4401989201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx79HfNYa9l8RT1i7XmAj9j4",
-    "plus_code": {
-      "compound_code": "WC8R+QJ 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWC8R+QJ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "みさとみやげ店",
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111615095643800764478\">Suntorn Srimuean</a>"
+          ],
+          "photo_reference": "Aap_uEA-Bjv0G4KD_QM7S-LYmSfmYYF5s1P3gAsyeo82dJXIGQ1RVOqkL8EvthReHm2OW04dpDboaUOS-aDG5VsNPD0YZhKVYLThHkWekrbGoGxefAWCLDh5IFkTcHbnAEgcRUmPDGzvXW-2aiTasI5MK_0j1rWVHXfmLjblTLJQUCRVDcYe",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJx79HfNYa9l8RT1i7XmAj9j4",
+      "plus_code": {
+        "compound_code": "WC8R+QJ 野沢温泉村、長野県",
+        "global_code": "8Q8WWC8R+QJ"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

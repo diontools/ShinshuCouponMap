@@ -1,84 +1,78 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "堀米南",
-        "short_name": "堀米南",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "島立",
-        "short_name": "島立",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0852",
-        "short_name": "390-0852",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0852 長野県松本市島立 堀米南",
-    "geometry": {
-      "location": {
-        "lat": 36.2305422,
-        "lng": 137.9455463
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2318886302915,
-          "lng": 137.9468755302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0852 長野県松本市島立 堀米834-1",
+      "geometry": {
+        "location": {
+          "lat": 36.2329116,
+          "lng": 137.9447457
         },
-        "southwest": {
-          "lat": 36.2291906697085,
-          "lng": 137.9441775697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23425497989272,
+            "lng": 137.9460997298927
+          },
+          "southwest": {
+            "lat": 36.23155532010728,
+            "lng": 137.9434000701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルルートインコート松本インター",
+      "photos": [
+        {
+          "height": 1504,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116392573584241001563\">ホテルルートインコート松本インター</a>"
+          ],
+          "photo_reference": "Aap_uEBX9DK8wUDH8WwhBmDxLWOjufuirpJNX4yaY4O6jp9odfn1B4Rxfou2D-Xl35fWOv_YLYcFC2R6KCz_SxX_mP6M-Sw2e8r0XXFQtHZJkAOjJ3xlRPkQEzAK9JaxqF2BiUFYY2usyAmQHH__ad7TWQc-5iNp-9B1UAIvW67jz8eQrOC5",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJ7yonQ3QOHWARGHgzlfqR2pA",
+      "plus_code": {
+        "compound_code": "6WMV+4W 松本市、長野県",
+        "global_code": "8Q8V6WMV+4W"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJxQgVwXMOHWARw6TlgFBp4R8",
-    "plus_code": {
-      "compound_code": "6WJW+66 長野県松本市",
-      "global_code": "8Q8V6WJW+66"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "transit_station"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0852 長野県松本市 長野県松本市島立堀米834-1 松本市 JP",
+      "geometry": {
+        "location": {
+          "lat": 36.2330351,
+          "lng": 137.9449152
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23435767989272,
+            "lng": 137.9462660298927
+          },
+          "southwest": {
+            "lat": 36.23165802010728,
+            "lng": 137.9435663701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "EV充電スタンド",
+      "place_id": "ChIJf1zoQnQOHWARydpKvjQkp-E",
+      "plus_code": {
+        "compound_code": "6WMV+6X 松本市、長野県",
+        "global_code": "8Q8V6WMV+6X"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

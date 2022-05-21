@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５０",
-        "short_name": "５５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "松代町松代",
-        "short_name": "松代町松代",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-1231",
-        "short_name": "381-1231",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-1231 長野県長野市松代町松代５５０",
-    "geometry": {
-      "location": {
-        "lat": 36.562133,
-        "lng": 138.2023798
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.56351548029149,
-          "lng": 138.2036808302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-1231 長野県長野市松代町松代５５０",
+      "geometry": {
+        "location": {
+          "lat": 36.562133,
+          "lng": 138.2023798
         },
-        "southwest": {
-          "lat": 36.56081751970849,
-          "lng": 138.2009828697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.56351632989271,
+            "lng": 138.2036816798927
+          },
+          "southwest": {
+            "lat": 36.56081667010727,
+            "lng": 138.2009820201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJqQnjJSuFHWARbtdDtop7e8U",
-    "plus_code": {
-      "compound_code": "H662+VX 長野県長野市",
-      "global_code": "8Q8WH662+VX"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-1231 長野県長野市松代町松代５５０",
+      "place_id": "ChIJqQnjJSuFHWARbtdDtop7e8U",
+      "plus_code": {
+        "compound_code": "H662+VX 長野市、長野県",
+        "global_code": "8Q8WH662+VX"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

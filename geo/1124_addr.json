@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１６９−７",
-        "short_name": "１１６９−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長土呂",
-        "short_name": "長土呂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0021",
-        "short_name": "385-0021",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0021 長野県佐久市長土呂１１６９−７",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2861299,
-          "lng": 138.4612
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒385-0021 長野県佐久市長土呂１１６９−７",
+      "geometry": {
+        "location": {
+          "lat": 36.2860126,
+          "lng": 138.4610411
         },
-        "southwest": {
-          "lat": 36.2856721,
-          "lng": 138.4607241
+        "viewport": {
+          "northeast": {
+            "lat": 36.28737642989272,
+            "lng": 138.4625051298927
+          },
+          "southwest": {
+            "lat": 36.28467677010727,
+            "lng": 138.4598054701072
+          }
         }
       },
-      "location": {
-        "lat": 36.2860126,
-        "lng": 138.4610411
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.28724998029149,
-          "lng": 138.4623457802915
-        },
-        "southwest": {
-          "lat": 36.2845520197085,
-          "lng": 138.4596478197085
-        }
-      }
-    },
-    "place_id": "ChIJh5tgg5fLHWARgcBVQp7bbbo",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒385-0021 長野県佐久市長土呂１１６９−７",
+      "place_id": "ChIJh5tgg5fLHWARgcBVQp7bbbo",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

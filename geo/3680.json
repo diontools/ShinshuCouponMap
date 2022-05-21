@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０",
-        "short_name": "４０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "常盤町",
-        "short_name": "常盤町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0033",
-        "short_name": "395-0033",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0033 長野県飯田市常盤町４０",
-    "geometry": {
-      "location": {
-        "lat": 35.513342,
-        "lng": 137.827565
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5146264802915,
-          "lng": 137.8288707302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0033 長野県飯田市常盤町４０",
+      "geometry": {
+        "location": {
+          "lat": 35.51330859999999,
+          "lng": 137.8275426
         },
-        "southwest": {
-          "lat": 35.5119285197085,
-          "lng": 137.8261727697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51462732989273,
+            "lng": 137.8288715798927
+          },
+          "southwest": {
+            "lat": 35.51192767010728,
+            "lng": 137.8261719201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJl6MB1JaZHGARNxErqCaKDsE",
-    "plus_code": {
-      "compound_code": "GR7H+82 長野県飯田市",
-      "global_code": "8Q7VGR7H+82"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "春月売店",
+      "photos": [
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112165389452223382636\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC328fForpRq-ZxBlJcEkQxIYK4gr04HHdGITVzHPtt-altUad44M9Wbz9vkgRfXtHELbh0HjPRINdqi51UY7bhJYhBoKJxxazKqBsMgk6c6Sxpu7bSJGkXfyKwIi2V1C9n1OIFNrfdfR0RySBkaykS1Ll9hCzWfHAZZVUJqw5nIR0Y",
+          "width": 5616
+        }
+      ],
+      "place_id": "ChIJl6MB1JaZHGARNxErqCaKDsE",
+      "plus_code": {
+        "compound_code": "GR7H+82 飯田市、長野県",
+        "global_code": "8Q7VGR7H+82"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

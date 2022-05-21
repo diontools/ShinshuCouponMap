@@ -1,101 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "六方はちべい",
-        "short_name": "六方はちべい",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３６８",
-        "short_name": "１３６８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野末広町",
-        "short_name": "大字南長野末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市大字南長野末広町末広町１３６８ 六方はちべい",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6447597,
-          "lng": 138.1869637
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0825 長野県長野市大字南長野末広町末広町１３６８ 六方はちべい",
+      "geometry": {
+        "location": {
+          "lat": 36.644716,
+          "lng": 138.1868771
         },
-        "southwest": {
-          "lat": 36.6446584,
-          "lng": 138.186817
+        "viewport": {
+          "northeast": {
+            "lat": 36.64602462989271,
+            "lng": 138.1882459298927
+          },
+          "southwest": {
+            "lat": 36.64332497010727,
+            "lng": 138.1855462701073
+          }
         }
       },
-      "location": {
-        "lat": 36.644716,
-        "lng": 138.1868771
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6460456302915,
-          "lng": 138.1882393302915
-        },
-        "southwest": {
-          "lat": 36.6433476697085,
-          "lng": 138.1855413697085
-        }
-      }
-    },
-    "place_id": "ChIJVY-71uyGHWAR4FNVosU2h5A",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "六方はちべい",
+      "place_id": "ChIJVY-71uyGHWAR4FNVosU2h5A",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

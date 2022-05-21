@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2f",
-        "short_name": "2f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−７ 2f",
-    "geometry": {
-      "location": {
-        "lat": 36.2319159,
-        "lng": 137.9668308
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2332017802915,
-          "lng": 137.9681907302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−７",
+      "geometry": {
+        "location": {
+          "lat": 36.2319611,
+          "lng": 137.9667498
         },
-        "southwest": {
-          "lat": 36.2305038197085,
-          "lng": 137.9654927697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23334082989273,
+            "lng": 137.9680854798927
+          },
+          "southwest": {
+            "lat": 36.23064117010728,
+            "lng": 137.9653858201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "EjoyZiwgMS1jaMWNbWUtNC03IENoxavFjSwgTWF0c3Vtb3RvLCBOYWdhbm8gMzkwLTA4MTEsIEphcGFuIh4aHAoWChQKEgnPqP8CjA4dYBFueYZL_cSWDxICMmY",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "食彩酒房 ぼんさんて 松本公園通り店",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101360989494738338011\">furi chan</a>"
+          ],
+          "photo_reference": "Aap_uECs7X8Ql4uGQqwpcBswVpmGVtnkliSx2uKmsefJg5CrKxKSJxRMGAKDk-YbB7lzlsOggPMKneM0tfLv5mV2fxI5zzJOx4WxL67xeORsGM0rsk4lRuyq37atuRHLzF7sV1Hqsip-txxu93G0IUhTLSoKbdn1K_S19hqwc0OkCiP-RyVg",
+          "width": 1616
+        }
+      ],
+      "place_id": "ChIJz6j_AowOHWARc8lFQGepUhI",
+      "plus_code": {
+        "compound_code": "6XJ8+QM 松本市、長野県",
+        "global_code": "8Q8V6XJ8+QM"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,77 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0012",
-        "short_name": "392-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0012 長野県諏訪市四賀 字塚田通り2328",
-    "geometry": {
-      "location": {
-        "lat": 36.0133457,
-        "lng": 138.1278813
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0145937302915,
-          "lng": 138.1288861802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0012 長野県諏訪市四賀 字塚田通り2328",
+      "geometry": {
+        "location": {
+          "lat": 36.0133457,
+          "lng": 138.1278813
         },
-        "southwest": {
-          "lat": 36.01189576970851,
-          "lng": 138.1261882197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01459457989273,
+            "lng": 138.1288870298927
+          },
+          "southwest": {
+            "lat": 36.01189492010728,
+            "lng": 138.1261873701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxX-RXyRXHGARhURhbtJ0rys",
-    "plus_code": {
-      "compound_code": "247H+85 長野県諏訪市",
-      "global_code": "8Q8W247H+85"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 諏訪インター店",
+      "photos": [
+        {
+          "height": 1343,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">toro mochi</a>"
+          ],
+          "photo_reference": "Aap_uEDgXojsm6JuzNdkOov_qN77MYNqYFavr4cY0GHGhe3aTK01cSeEUdsbUWp22v1_aU-Oittk05ORs79Lo9nPM3rf601ODOsBMeL5vaPW2n0pGQSuzxXl8h9D2VHkTgqE4b3TELaA4vF-K1s9NBh1YPH6mlUDxp1xWXKvbyTGPstHWAZP",
+          "width": 1797
+        }
+      ],
+      "place_id": "ChIJxX-RXyRXHGARhURhbtJ0rys",
+      "plus_code": {
+        "compound_code": "247H+85 諏訪市、長野県",
+        "global_code": "8Q8W247H+85"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

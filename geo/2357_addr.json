@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３７０−３",
-        "short_name": "１３７０−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "社",
-        "short_name": "社",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0003",
-        "short_name": "398-0003",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0003 長野県大町市社１３７０−３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4554069,
-          "lng": 137.875536
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒398-0003 長野県大町市社１３７０−３",
+      "geometry": {
+        "location": {
+          "lat": 36.4553286,
+          "lng": 137.8754447
         },
-        "southwest": {
-          "lat": 36.4552662,
-          "lng": 137.8753862
+        "viewport": {
+          "northeast": {
+            "lat": 36.45664472989272,
+            "lng": 137.8765464298927
+          },
+          "southwest": {
+            "lat": 36.45394507010727,
+            "lng": 137.8738467701073
+          }
         }
       },
-      "location": {
-        "lat": 36.4553286,
-        "lng": 137.8754447
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.45668303029149,
-          "lng": 137.8765912302915
-        },
-        "southwest": {
-          "lat": 36.45398506970849,
-          "lng": 137.8738932697085
-        }
-      }
-    },
-    "place_id": "ChIJdxgb76xlHWARmj99zDEbKGs",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒398-0003 長野県大町市社１３７０−３",
+      "place_id": "ChIJdxgb76xlHWARmj99zDEbKGs",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

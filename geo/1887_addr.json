@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７８４",
-        "short_name": "１７８４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘高出",
-        "short_name": "広丘高出",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0703",
-        "short_name": "399-0703",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0703 長野県塩尻市広丘高出１７８４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1285088,
-          "lng": 137.9562771
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0703 長野県塩尻市広丘高出１７８４",
+      "geometry": {
+        "location": {
+          "lat": 36.1284352,
+          "lng": 137.9561693
         },
-        "southwest": {
-          "lat": 36.1283454,
-          "lng": 137.956077
+        "viewport": {
+          "northeast": {
+            "lat": 36.12970882989272,
+            "lng": 137.9574957798927
+          },
+          "southwest": {
+            "lat": 36.12700917010728,
+            "lng": 137.9547961201073
+          }
         }
       },
-      "location": {
-        "lat": 36.1284352,
-        "lng": 137.9561693
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1297447802915,
-          "lng": 137.9575260302915
-        },
-        "southwest": {
-          "lat": 36.1270468197085,
-          "lng": 137.9548280697085
-        }
-      }
-    },
-    "place_id": "ChIJc3Nb_PsEHWARIPfYGaQqf48",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-0703 長野県塩尻市広丘高出１７８４",
+      "place_id": "ChIJc3Nb_PsEHWARIPfYGaQqf48",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

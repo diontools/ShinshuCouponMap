@@ -1,116 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "ステーションMIDORI",
-        "short_name": "ステーションMIDORI",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１ ステーションMIDORI 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.2311722,
-        "lng": 137.9647698
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2327378802915,
-          "lng": 137.9660903302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１ ステーションMIDORI 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.2311722,
+          "lng": 137.9647698
         },
-        "southwest": {
-          "lat": 36.2300399197085,
-          "lng": 137.9633923697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23273872989272,
+            "lng": 137.9660911798927
+          },
+          "southwest": {
+            "lat": 36.23003907010727,
+            "lng": 137.9633915201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ___DvowOHWAR3Kd8UDWDD48",
-    "plus_code": {
-      "compound_code": "6XJ7+FW 日本、長野県松本市",
-      "global_code": "8Q8V6XJ7+FW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "白木屋 松本東口駅店",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">nori baba</a>"
+          ],
+          "photo_reference": "Aap_uEDdWVrOLJQD3HVGILqP4zhMEvF33Lzjp_ga3aQD4DOZieMkHZ8qj9QSUJsdXbK02xObvE1aATZXifF8q2aG_LlOCnHdCi4XZ_A_y78S39Ox5ID-dkGkWza4U2sQUU217g7DMXlzyjWdzNw8bjXHgb3x27uGxUqz5k-k1lEKFmfmRt6J",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ___DvowOHWAR3Kd8UDWDD48",
+      "plus_code": {
+        "compound_code": "6XJ7+FW 松本市、長野県",
+        "global_code": "8Q8V6XJ7+FW"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６１５",
-        "short_name": "６１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "雁田",
-        "short_name": "雁田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0211",
-        "short_name": "381-0211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0211 長野県上高井郡小布施町雁田６１５",
-    "geometry": {
-      "location": {
-        "lat": 36.6984105,
-        "lng": 138.3340574
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6999110802915,
-          "lng": 138.3354502302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0211 長野県上高井郡小布施町雁田６１５",
+      "geometry": {
+        "location": {
+          "lat": 36.6985237,
+          "lng": 138.3341181
         },
-        "southwest": {
-          "lat": 36.6972131197085,
-          "lng": 138.3327522697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69991192989272,
+            "lng": 138.3354510798927
+          },
+          "southwest": {
+            "lat": 36.69721227010728,
+            "lng": 138.3327514201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq2vd_-2LHWAR3WIZGxt5KTg",
-    "plus_code": {
-      "compound_code": "M8XM+9J 日本、長野県小布施町",
-      "global_code": "8Q8WM8XM+9J"
-    },
-    "types": [
-      "establishment",
-      "place_of_worship",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+      "name": "岩松院",
+      "photos": [
+        {
+          "height": 1180,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110567407609253890809\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECBxuHhmvatPB-kdeHs-usUPh98oHmXZIO3TtiheIEF777bqRNSXIyO7VWy-mXV9efbRqtulnxa4xcjya0wYqyzL-JBPzVYlW0Sx-uId4sWyBj46K_CSjYYhB2cqQGe_GEEtU9S83R32d5x0XTlJ1i4yhzhVG5-vU-GuiPK7UTPNfhT",
+          "width": 1671
+        }
+      ],
+      "place_id": "ChIJq2vd_-2LHWAR3WIZGxt5KTg",
+      "plus_code": {
+        "compound_code": "M8XM+9J 小布施町、長野県",
+        "global_code": "8Q8WM8XM+9J"
+      },
+      "types": [
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６０９１",
-        "short_name": "２６０９１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "飯森",
-        "short_name": "飯森",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村飯森２６０９１",
-    "geometry": {
-      "location": {
-        "lat": 36.6693902,
-        "lng": 137.8367135
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6707622802915,
-          "lng": 137.8381012302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村飯森２６０９１",
+      "geometry": {
+        "location": {
+          "lat": 36.6693902,
+          "lng": 137.8367135
         },
-        "southwest": {
-          "lat": 36.6680643197085,
-          "lng": 137.8354032697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.67076312989273,
+            "lng": 137.8381020798927
+          },
+          "southwest": {
+            "lat": 36.66806347010728,
+            "lng": 137.8354024201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRZGronXR918RRohmkRV6TfQ",
-    "plus_code": {
-      "compound_code": "MR9P+QM 長野県白馬村",
-      "global_code": "8Q8VMR9P+QM"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "RIKE HAKUBA MTB TOUR(マウンテンバイクガイドツアー)",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111237202214212957436\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDhuc_7_JW-CxTCRvoF2J56xiqnna2jAJzJjJp30Xt5lkiRviksSZGgdfrGcyCFb1pRZHr7rmsz9HEvc2X9pDz-vrLV6iGD3UTuzt2Zql9z9UwVKDZPxyYlRLx5s_7YdMfdtbQecITnI_VzZ6LtYw3_6PQUjxd9_9t1neCcQ_Ut2QTF",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJRZGronXR918RRohmkRV6TfQ",
+      "plus_code": {
+        "compound_code": "MR9P+QM 白馬村、長野県",
+        "global_code": "8Q8VMR9P+QM"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

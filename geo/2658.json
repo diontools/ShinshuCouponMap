@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２９２０番地１",
-        "short_name": "２９２０番地１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城２９２０番地１",
-    "geometry": {
-      "location": {
-        "lat": 36.6954701,
-        "lng": 137.8524073
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6967614802915,
-          "lng": 137.8537975802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城２９２０番地１",
+      "geometry": {
+        "location": {
+          "lat": 36.6954701,
+          "lng": 137.8524073
         },
-        "southwest": {
-          "lat": 36.6940635197085,
-          "lng": 137.8510996197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69676232989273,
+            "lng": 137.8537984298927
+          },
+          "southwest": {
+            "lat": 36.69406267010728,
+            "lng": 137.8510987701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4Rg5bH3N918RvRaWXMBz2F4",
-    "plus_code": {
-      "compound_code": "MVW2+5X 長野県白馬村",
-      "global_code": "8Q8VMVW2+5X"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "kirakira glass. 体験工房",
+      "photos": [
+        {
+          "height": 461,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104860453667677909039\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBpHLP2ewErh1aItb9cApX2EUBAKCNY-_2eGF5sSEfdreQf4aqvzR3NMyd2D7sClqkBLrZGbJKpyadbrh321xBGHs0a4s8emjPVAG_YDMJExd48AftDmCvgIwXEPftrnM6voeTHEMbTZa4HCCGTBf5U1NVJ6maVN8L5qZqhxYVntj0C",
+          "width": 820
+        }
+      ],
+      "place_id": "ChIJ4Rg5bH3N918RvRaWXMBz2F4",
+      "plus_code": {
+        "compound_code": "MVW2+5X 白馬村、長野県",
+        "global_code": "8Q8VMVW2+5X"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

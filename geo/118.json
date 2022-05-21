@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２９９７−４",
-        "short_name": "２９９７−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２９９７−４",
-    "geometry": {
-      "location": {
-        "lat": 36.7411907,
-        "lng": 138.4159959
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7425733802915,
-          "lng": 138.4173632802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２９９７−４",
+      "geometry": {
+        "location": {
+          "lat": 36.7412272,
+          "lng": 138.4160152
         },
-        "southwest": {
-          "lat": 36.7398754197085,
-          "lng": 138.4146653197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74257422989272,
+            "lng": 138.4173641298927
+          },
+          "southwest": {
+            "lat": 36.73987457010728,
+            "lng": 138.4146644701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJkcc81BH1HWARwxoEEITi79c",
-    "plus_code": {
-      "compound_code": "PCR8+F9 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCR8+F9"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "HAKKO BEER STAND",
+      "photos": [
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114156480287936073547\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBchLt0Iz2v8jEzN0fGo8FEgizgTN9mjzoYM5q53oy0o-DVEA56y3PhCVWLifP6coQGm9EOCq-QnSSMBBE4s_xcaRvY6WvSgr2BvY1SsAKV85S74Mw-kccnc5_qlzQrcTMblTqx3ZuN5Ogjw95pE0n5-S_skPiYAu2930-rAPjUR5g",
+          "width": 6016
+        }
+      ],
+      "place_id": "ChIJkcc81BH1HWARwxoEEITi79c",
+      "plus_code": {
+        "compound_code": "PCR8+F9 山ノ内町、長野県",
+        "global_code": "8Q8WPCR8+F9"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

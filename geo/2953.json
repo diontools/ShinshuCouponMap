@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央町",
-        "short_name": "中央町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0027",
-        "short_name": "394-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0027 長野県岡谷市中央町１丁目１０−１４",
-    "geometry": {
-      "location": {
-        "lat": 36.059412,
-        "lng": 138.048131
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0608229302915,
-          "lng": 138.0494645802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0027 長野県岡谷市中央町１丁目１０−１４",
+      "geometry": {
+        "location": {
+          "lat": 36.0594146,
+          "lng": 138.0481304
         },
-        "southwest": {
-          "lat": 36.0581249697085,
-          "lng": 138.0467666197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06082377989272,
+            "lng": 138.0494654298927
+          },
+          "southwest": {
+            "lat": 36.05812412010727,
+            "lng": 138.0467657701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHQZ339D_HGAR9AcudomIrSU",
-    "plus_code": {
-      "compound_code": "325X+Q7 長野県岡谷市",
-      "global_code": "8Q8W325X+Q7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "串おか屋",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">nori baba</a>"
+          ],
+          "photo_reference": "Aap_uECuyzY_cvnE4GnFpR2cUfnzhxbMfyLyHrM4zReFT0zI-IhZXv0pNpwse74ypiZ1m67uIZUxnU23IacEgVHJHO19fyMBrlV5m9DNSeldNZyKxXC26rGN7izTChwONoDxJjt5LCCi_5Eaolx19Ly79gGK8P0EzPccrgkxvYwWvPjhiBVS",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJHQZ339D_HGAR9AcudomIrSU",
+      "plus_code": {
+        "compound_code": "325X+Q7 岡谷市、長野県",
+        "global_code": "8Q8W325X+Q7"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "材木町",
-        "short_name": "材木町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0014",
-        "short_name": "386-0014",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0014 長野県上田市材木町２丁目",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4022392,
-          "lng": 138.2732616
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0014 長野県上田市材木町２丁目",
+      "geometry": {
+        "location": {
+          "lat": 36.3976872,
+          "lng": 138.2661056
         },
-        "southwest": {
-          "lat": 36.3928347,
-          "lng": 138.2629152
+        "viewport": {
+          "northeast": {
+            "lat": 36.4022392,
+            "lng": 138.2732616
+          },
+          "southwest": {
+            "lat": 36.3928347,
+            "lng": 138.2629152
+          }
         }
       },
-      "location": {
-        "lat": 36.3976872,
-        "lng": 138.2661056
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4022392,
-          "lng": 138.2732616
-        },
-        "southwest": {
-          "lat": 36.3928347,
-          "lng": 138.2629152
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0014 長野県上田市材木町２丁目",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109599610394061099536\">劉智偉</a>"
+          ],
+          "photo_reference": "Aap_uEDyXW-6bXcuRnooJt9UhPkQU-hj9Pyad7oqhHlqGwHQ_eoMbsKorebd4zRHAx4no1Vr4Lg_tT92sm86ieiXDEJhyPTYATKaWwTlA6ePwY3IzI9flJEwTvWnTS2AUTo87AUKNBQI6U_9Rti8bZ_VMTpDczaHsEE4-KuYb_qCwjthJlZp",
+          "width": 4032
         }
-      }
-    },
-    "place_id": "ChIJt56YZ-68HWARYE_rAVD3fDM",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJt56YZ-68HWARYE_rAVD3fDM",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

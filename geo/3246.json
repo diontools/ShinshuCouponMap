@@ -1,64 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県茅野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.112594,
-          "lng": 138.3743063
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山白樺湖３４１９−７５",
+      "geometry": {
+        "location": {
+          "lat": 36.104352,
+          "lng": 138.240888
         },
-        "southwest": {
-          "lat": 35.9166535,
-          "lng": 138.111896
+        "viewport": {
+          "northeast": {
+            "lat": 36.10573867989272,
+            "lng": 138.2422356298927
+          },
+          "southwest": {
+            "lat": 36.10303902010728,
+            "lng": 138.2395359701072
+          }
         }
       },
-      "location": {
-        "lat": 35.9949904,
-        "lng": 138.1576589
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.112594,
-          "lng": 138.3743063
-        },
-        "southwest": {
-          "lat": 35.9166535,
-          "lng": 138.111896
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "焚き火ハット",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106105209555081787930\">村上篤</a>"
+          ],
+          "photo_reference": "Aap_uEDsegymKCdgLtnUbCjokXAMVgLHjaQgIyfczzTVqg0CV0_92r5MDNxmMuvn2ZJZGlQPxAGJAQ6t-xYGdxysOrFEQSHg8eG7oMvPdimriTsQG7bdKwYMH9mSVmoIe-lt6_7XIPu38n9Tv2Oh-FHBMTpTM5-GKerPi2IKQPUwKhgl9xle",
+          "width": 1440
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ10NcouNPHGARSOAmcG2ylTs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJY1MZCodNHGARwl9H7pc5MZI",
+      "plus_code": {
+        "compound_code": "463R+P9 茅野市、長野県",
+        "global_code": "8Q8W463R+P9"
+      },
+      "types": [
+        "campground",
+        "park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

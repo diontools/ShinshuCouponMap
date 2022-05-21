@@ -1,64 +1,87 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒388-8002 長野県長野市篠ノ井東福寺狐塚3466",
+      "geometry": {
+        "location": {
+          "lat": 36.564046,
+          "lng": 138.1848646
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.56542947989271,
+            "lng": 138.1861939798927
+          },
+          "southwest": {
+            "lat": 36.56272982010727,
+            "lng": 138.1834943201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "松代PA (下り)",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100500053348934685100\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA60AsCyyhKCnY7136g4B7HHAbD_7kc6a5J1Fxz9yuz0U5p1UBYuL4upUwvhnbcNo2w9voo0xI7ExerjT9MSQQa24pXVRNWIkhLrROdful6xXyfnjCbGoc3jJskkysfpXJjae3FxpEDIr0rrUzFIp4QhbH99TLXfzs0JU48l-_E4UTR",
+          "width": 3840
         }
-      }
+      ],
+      "place_id": "ChIJlXPx48WEHWARtfIzJcirHHA",
+      "plus_code": {
+        "compound_code": "H57M+JW 長野市、長野県",
+        "global_code": "8Q8WH57M+JW"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒388-8002 長野県長野市篠ノ井東福寺猫島西３３９０",
+      "geometry": {
+        "location": {
+          "lat": 36.5635257,
+          "lng": 138.1821808
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.56489847989273,
+            "lng": 138.1835242298927
+          },
+          "southwest": {
+            "lat": 36.56219882010728,
+            "lng": 138.1808245701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "松代PA (上り)",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107325808170269813166\">加藤良泰</a>"
+          ],
+          "photo_reference": "Aap_uEBFSC28aavaaxezm6ifjPPH8JhoBPI5zUjGLAjdvVAaWe4Q1ni7PmriqGU0HRdtEG1L8vuhiKoowXOAG21SdWipsR4qc_EOEPgU98fitFRZCoMLVYK8vvmfs3-rwmoSZmITjPdj1lm7_GrpT-7FXfAinv2zblLjhpgH3lN5Ne8udK8S",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ6dhKs8eEHWARrF-YG_JW_NA",
+      "plus_code": {
+        "compound_code": "H57J+CV 長野市、長野県",
+        "global_code": "8Q8WH57J+CV"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,115 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "4F",
-        "short_name": "4F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "松本駅ビル MIDORI",
-        "short_name": "松本駅ビル MIDORI",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１ 松本駅ビル MIDORI 4F",
-    "geometry": {
-      "location": {
-        "lat": 36.2311189,
-        "lng": 137.9647201
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2323879802915,
-          "lng": 137.9662651302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目１−１ 松本駅ビル MIDORI 4F",
+      "geometry": {
+        "location": {
+          "lat": 36.2311189,
+          "lng": 137.9647201
         },
-        "southwest": {
-          "lat": 36.2296900197085,
-          "lng": 137.9635671697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23238882989273,
+            "lng": 137.9662659798927
+          },
+          "southwest": {
+            "lat": 36.22968917010728,
+            "lng": 137.9635663201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ25LHw4sOHWARlEoDlApTnVU",
-    "plus_code": {
-      "compound_code": "6XJ7+CV 日本、長野県松本市",
-      "global_code": "8Q8V6XJ7+CV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "信州松本手打そば・天ぷら いいだや",
+      "photos": [
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117346608174983897336\">信州手打そば いいだや</a>"
+          ],
+          "photo_reference": "Aap_uEDhovY_uKYzPUn1uCNscfmSubWV2pfC-44rSopEiY3Das5JuBRy6aeIVWHg9IifLP0Gfl4Qspp46LrNhm3CKDt3nEnUy5oLJyb_Mczp_3NXvwk3ytinwm5IJH0WeEj5eDiVtQkK_rvO4ZTXmyfzP6A9dpW0OL-BoSNpdq0WAfHnpRax",
+          "width": 6016
+        }
+      ],
+      "place_id": "ChIJ25LHw4sOHWARlEoDlApTnVU",
+      "plus_code": {
+        "compound_code": "6XJ7+CV 松本市、長野県",
+        "global_code": "8Q8V6XJ7+CV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

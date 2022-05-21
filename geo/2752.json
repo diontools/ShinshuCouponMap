@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０２０−９０",
-        "short_name": "３０２０−９０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "瑞穂",
-        "short_name": "瑞穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村瑞穂３０２０−９０",
-    "geometry": {
-      "location": {
-        "lat": 36.6945387,
-        "lng": 137.8482538
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6958538802915,
-          "lng": 137.8495218302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村瑞穂３０２０−９０",
+      "geometry": {
+        "location": {
+          "lat": 36.6945387,
+          "lng": 137.8482538
         },
-        "southwest": {
-          "lat": 36.6931559197085,
-          "lng": 137.8468238697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69585472989272,
+            "lng": 137.8495226798927
+          },
+          "southwest": {
+            "lat": 36.69315507010727,
+            "lng": 137.8468230201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVz5RCP7R918RYn5Vy2TcyzM",
-    "plus_code": {
-      "compound_code": "MRVX+R8 長野県白馬村",
-      "global_code": "8Q8VMRVX+R8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "蕎麦処りき",
+      "photos": [
+        {
+          "height": 2339,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103437528649881368411\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBwd-e3BL-50BG1rT7eQftRz2EjeA19saHTVmIMc95iLCfsH9emptOicTZpLmXK-FXkJVtC8Fx7ykkPYWQeABYTOU6s_pGu6M3rZ7LLdSFpu8g4e4BFLCIz640qUrZvibew_up65NLJpSxMhT7A4p--PIni8DfI-5Kn-i3gHwirl4BG",
+          "width": 3508
+        }
+      ],
+      "place_id": "ChIJVz5RCP7R918RYn5Vy2TcyzM",
+      "plus_code": {
+        "compound_code": "MRVX+R8 白馬村、長野県",
+        "global_code": "8Q8VMRVX+R8"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

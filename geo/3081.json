@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２４１０",
-        "short_name": "１２４１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神稲",
-        "short_name": "神稲",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "豊丘村",
-        "short_name": "豊丘村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3202",
-        "short_name": "399-3202",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3202 長野県下伊那郡豊丘村神稲１２４１０",
-    "geometry": {
-      "location": {
-        "lat": 35.5442618,
-        "lng": 137.8909493
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5455802802915,
-          "lng": 137.8923938302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3202 長野県下伊那郡豊丘村神稲１２４１０",
+      "geometry": {
+        "location": {
+          "lat": 35.5442375,
+          "lng": 137.8910254
         },
-        "southwest": {
-          "lat": 35.5428823197085,
-          "lng": 137.8896958697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.54558112989272,
+            "lng": 137.8923946798927
+          },
+          "southwest": {
+            "lat": 35.54288147010728,
+            "lng": 137.8896950201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFcoN4-abHGARZ40OK04O0GA",
-    "plus_code": {
-      "compound_code": "GVVR+P9 長野県豊丘村",
-      "global_code": "8Q7VGVVR+P9"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "四季彩市場",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107742594619271961511\">Takashi Maeshima</a>"
+          ],
+          "photo_reference": "Aap_uEAcSPL0uXPG05NyeyhvkGQenBzfuscsgvxSCyKb566-6lZfPwKr-MDTqQiW_lKD6rN4PMn9m4i-7SGNqpOFD5TTGBUU8EarvVtCRqjxz_B0r_gCViPMkBmqSkg7U64uXs_Yc4inxd8E1aqDga1BIqmuR-HH-jyOmP9z9VaSJaJcWBkE",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJFcoN4-abHGARZ40OK04O0GA",
+      "plus_code": {
+        "compound_code": "GVVR+P9 豊丘村、長野県",
+        "global_code": "8Q7VGVVR+P9"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

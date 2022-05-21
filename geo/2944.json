@@ -1,164 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７１",
-        "short_name": "１７１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "日影",
-        "short_name": "日影",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "396-0009",
-        "short_name": "396-0009",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒396-0009 長野県伊那市日影１７１",
-    "geometry": {
-      "location": {
-        "lat": 35.8379515,
-        "lng": 137.9809685
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8393686302915,
-          "lng": 137.9823196802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0009 長野県伊那市日影１７１",
+      "geometry": {
+        "location": {
+          "lat": 35.83793319999999,
+          "lng": 137.9809677
         },
-        "southwest": {
-          "lat": 35.8366706697085,
-          "lng": 137.9796217197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.83936947989272,
+            "lng": 137.9823205298927
+          },
+          "southwest": {
+            "lat": 35.83666982010728,
+            "lng": 137.9796208701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJPbyfq2rxHGARYClNxR8Vcnc",
-    "plus_code": {
-      "compound_code": "RXQJ+59 長野県伊那市",
-      "global_code": "8Q7VRXQJ+59"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "４８７１−３",
-        "short_name": "４８７１−３",
-        "types": [
-          "premise"
-        ]
       },
-      {
-        "long_name": "西町",
-        "short_name": "西町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "396-0026",
-        "short_name": "396-0026",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒396-0026 長野県伊那市西町４８７１−３",
-    "geometry": {
-      "location": {
-        "lat": 35.8383569,
-        "lng": 137.9582652
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8397264302915,
-          "lng": 137.9596301302915
-        },
-        "southwest": {
-          "lat": 35.8370284697085,
-          "lng": 137.9569321697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "井田屋酒店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109134086892748426600\">yoshihiro kitazawa</a>"
+          ],
+          "photo_reference": "Aap_uEDdYLAtkYHzbzfnRE0grY0aM0IAaOAYFDz1cHF4LwGWZY00-qDWsLQXANWEUieVAqpyo2HIY7Z7Q4gDzC4ygUCmiA7JY4R7_VHZilGOCWe8rtAJ-G8dUXE6huek3Ver6-tJbRD5esWp8eNVGXvVYEBuilOBAjQeXg4Gtto4JCt2aT0w",
+          "width": 3840
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpZnDk6jxHGARW_iwrWXSQYM",
-    "plus_code": {
-      "compound_code": "RXQ5+88 長野県伊那市",
-      "global_code": "8Q7VRXQ5+88"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJPbyfq2rxHGARYClNxR8Vcnc",
+      "plus_code": {
+        "compound_code": "RXQJ+59 伊那市、長野県",
+        "global_code": "8Q7VRXQJ+59"
+      },
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

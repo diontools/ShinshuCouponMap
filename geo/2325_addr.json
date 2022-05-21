@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上赤松",
-        "short_name": "上赤松",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "波田",
-        "short_name": "波田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1401",
-        "short_name": "390-1401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1401 長野県松本市波田上赤松",
-    "geometry": {
-      "location": {
-        "lat": 36.1897966,
-        "lng": 137.8184177
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1910669302915,
-          "lng": 137.8197495302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1401 長野県松本市波田３０９５",
+      "geometry": {
+        "location": {
+          "lat": 36.1893588,
+          "lng": 137.8194728
         },
-        "southwest": {
-          "lat": 36.1883689697085,
-          "lng": 137.8170515697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.19070422989272,
+            "lng": 137.8208068298927
+          },
+          "southwest": {
+            "lat": 36.18800457010728,
+            "lng": 137.8181071701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJo8RNTREVHWAR7NWxeU0gQtA",
-    "plus_code": {
-      "compound_code": "5RQ9+W9 長野県松本市",
-      "global_code": "8Q8V5RQ9+W9"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "赤松ドライブイン",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113484001379412681389\">Shige SHIMOYAMA</a>"
+          ],
+          "photo_reference": "Aap_uEBJ2HmXASYt4y_WJW3jlH9loFCdUjz6G4dnLdDTQ9Ig0Gw4BYjzojDUwwOU54LkkcWOiy7ZlnrtYP8tgKBM97lQO_7umv6e7A7eXEi-VV7AJDlI169x-50HhSPWBfb9VGO4WNHYsmrQHlyxnAj5EOSHb2Vm_Q4GXvPf2nhdyRk0tvcc",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJO_poEiMUHWARToBxT8f6Z5Q",
+      "plus_code": {
+        "compound_code": "5RQ9+PQ 松本市、長野県",
+        "global_code": "8Q8V5RQ9+PQ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

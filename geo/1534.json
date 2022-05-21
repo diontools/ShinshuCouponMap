@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５９３",
-        "short_name": "５９３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢５９３",
-    "geometry": {
-      "location": {
-        "lat": 36.3584327,
-        "lng": 138.6351483
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3597408802915,
-          "lng": 138.6365596302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢５９３",
+      "geometry": {
+        "location": {
+          "lat": 36.358386,
+          "lng": 138.6352225
         },
-        "southwest": {
-          "lat": 36.3570429197085,
-          "lng": 138.6338616697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35974172989273,
+            "lng": 138.6365604798927
+          },
+          "southwest": {
+            "lat": 36.35704207010728,
+            "lng": 138.6338608201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAQB0IobTHWARSmCZGJZPwO0",
-    "plus_code": {
-      "compound_code": "9J5P+93 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J5P+93"
-    },
-    "types": [
-      "establishment",
-      "furniture_store",
-      "home_goods_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "大坂屋家具店 下の店（したのみせ）",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116503413648047481203\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECahwyXa7fl29urBoVBbGN2hH-UAo32mkIqYNhY8pV_o9EtjE0QFFyyUR-Ftq22GfJz5XwQBr1sX1rrPq-WZI1nMPQWf17VW70x2-Zi_N22QTwtUAPCeHvVWBmuyUmxaDJsWea8FSXPYVwJBrZ7_oF3U2jssWdRYIRZbU5b8Mbs8zI4",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJAQB0IobTHWARSmCZGJZPwO0",
+      "plus_code": {
+        "compound_code": "9J5P+93 軽井沢町、長野県",
+        "global_code": "8Q8W9J5P+93"
+      },
+      "types": [
+        "furniture_store",
+        "home_goods_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

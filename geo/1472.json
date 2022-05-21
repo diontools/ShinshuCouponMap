@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０１６",
-        "short_name": "１０１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１０１６",
-    "geometry": {
-      "location": {
-        "lat": 36.33606150000001,
-        "lng": 138.6329801
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.33734213029151,
-          "lng": 138.6341671802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１０１６",
+      "geometry": {
+        "location": {
+          "lat": 36.33606150000001,
+          "lng": 138.6329801
         },
-        "southwest": {
-          "lat": 36.33464416970851,
-          "lng": 138.6314692197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33734297989272,
+            "lng": 138.6341680298927
+          },
+          "southwest": {
+            "lat": 36.33464332010728,
+            "lng": 138.6314683701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMXZcH2TTHWARUCK-AftRH58",
-    "plus_code": {
-      "compound_code": "8JPM+C5 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JPM+C5"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "軽井沢プリンスホテルゴルフコース",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117816791179784938317\">平野充康</a>"
+          ],
+          "photo_reference": "Aap_uEBtrHTERV2K2V0Br27NK_9mQDqAoEztyoaTopCvzOkZM5npm7X2ArgfnMM7wvjSbVFNSGms2YuXuBkdgVkDH8MpLtdu5F8JbE0oAOqEy22qE1JSk7TiMTx9ZogoVTTotUdOFHe6sHecmRrROP34kbvPHKUW_GkV-icsFHiPODE8I_Ki",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJMXZcH2TTHWARUCK-AftRH58",
+      "plus_code": {
+        "compound_code": "8JPM+C5 軽井沢町、長野県",
+        "global_code": "8Q8W8JPM+C5"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

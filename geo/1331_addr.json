@@ -1,94 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "中央東",
-        "short_name": "中央東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0001",
-        "short_name": "386-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0001 長野県上田市中央東２−１０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4036298,
-          "lng": 138.2621661
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0001 長野県上田市中央東２−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.403563,
+          "lng": 138.2620802
         },
-        "southwest": {
-          "lat": 36.4034829,
-          "lng": 138.2620252
+        "viewport": {
+          "northeast": {
+            "lat": 36.40488387989272,
+            "lng": 138.2632813798927
+          },
+          "southwest": {
+            "lat": 36.40218422010727,
+            "lng": 138.2605817201073
+          }
         }
       },
-      "location": {
-        "lat": 36.403563,
-        "lng": 138.2620802
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4049053302915,
-          "lng": 138.2633234802915
-        },
-        "southwest": {
-          "lat": 36.4022073697085,
-          "lng": 138.2606255197085
-        }
-      }
-    },
-    "place_id": "ChIJ5RGqLuG8HWAR5BxdgICypwg",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0001 長野県上田市中央東２−１０",
+      "place_id": "ChIJ5RGqLuG8HWAR5BxdgICypwg",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

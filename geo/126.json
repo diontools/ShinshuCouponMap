@@ -1,82 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏",
-    "geometry": {
-      "location": {
-        "lat": 36.7415168,
-        "lng": 138.4144452
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7428845302915,
-          "lng": 138.4158414302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏",
+      "geometry": {
+        "location": {
+          "lat": 36.741523,
+          "lng": 138.4144626
         },
-        "southwest": {
-          "lat": 36.7401865697085,
-          "lng": 138.4131434697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74288537989272,
+            "lng": 138.4158422798927
+          },
+          "southwest": {
+            "lat": 36.74018572010728,
+            "lng": 138.4131426201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7ysCqcD0HWARmRmXFer3Y0U",
-    "plus_code": {
-      "compound_code": "PCR7+JQ 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCR7+JQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "長電タクシー（株）湯田中営業所",
+      "photos": [
+        {
+          "height": 715,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115050091742955952813\">丹波鉄道</a>"
+          ],
+          "photo_reference": "Aap_uEAzXkAEYo-7DAxV35cr0aBjNRcIQ2e11AI-kyIWZ4kUJXd8ZrfuOwvdcSimA4D__F9BaimgZXvNeQm1Zt8xG7_QmS77xOXAsQXCy3684owQmjwhT_ySm-heT35cIZAoYo6dNxoqadkrCtsi-M0NqaKapA_KRrjUKVvsEBR6SxoScQgz",
+          "width": 1272
+        }
+      ],
+      "place_id": "ChIJ7ysCqcD0HWARmRmXFer3Y0U",
+      "plus_code": {
+        "compound_code": "PCR7+JQ 山ノ内町、長野県",
+        "global_code": "8Q8WPCR7+JQ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

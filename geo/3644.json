@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３３８−１",
-        "short_name": "３３３８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "山本",
-        "short_name": "山本",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0244",
-        "short_name": "395-0244",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0244 長野県飯田市山本３３３８−１",
-    "geometry": {
-      "location": {
-        "lat": 35.471399,
-        "lng": 137.761904
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4727311302915,
-          "lng": 137.7633085302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0244 長野県飯田市山本３３３８−１",
+      "geometry": {
+        "location": {
+          "lat": 35.471391,
+          "lng": 137.761936
         },
-        "southwest": {
-          "lat": 35.4700331697085,
-          "lng": 137.7606105697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.47273197989271,
+            "lng": 137.7633093798927
+          },
+          "southwest": {
+            "lat": 35.47003232010727,
+            "lng": 137.7606097201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJIQABCH-iHGARD4s_gB_Khd0",
-    "plus_code": {
-      "compound_code": "FQC6+HQ 長野県飯田市",
-      "global_code": "8Q7VFQC6+HQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "船橋屋本店",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107492942011727483188\">船橋屋本店</a>"
+          ],
+          "photo_reference": "Aap_uEDL1-Du2DiH3MkhOSi3SCJHiDljGxPLOHE2GfagtElVyPHuNaZdYcvJfW6NnQqWC7NdD_sASDCfRpjq3HU00tq2QvuZ7PyCmIhBUnRkn-wZcrCsRJrr2ce2X4gte0vZnAV8jVIVulpDU0jOC8un61WvHk8splxrrjp8ewX70g3cIGci",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJIQABCH-iHGARD4s_gB_Khd0",
+      "plus_code": {
+        "compound_code": "FQC6+HQ 飯田市、長野県",
+        "global_code": "8Q7VFQC6+HQ"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

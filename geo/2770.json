@@ -1,73 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "王滝村",
-        "short_name": "王滝村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0201",
-        "short_name": "397-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村",
-    "geometry": {
-      "location": {
-        "lat": 35.7991667,
-        "lng": 137.5422222
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8005882802915,
-          "lng": 137.5434310302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村",
+      "geometry": {
+        "location": {
+          "lat": 35.7991667,
+          "lng": 137.5422222
         },
-        "southwest": {
-          "lat": 35.7978903197085,
-          "lng": 137.5407330697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.80058912989271,
+            "lng": 137.5434318798928
+          },
+          "southwest": {
+            "lat": 35.79788947010727,
+            "lng": 137.5407322201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJV7noYpHWHGARIPdzIU4lE3M",
-    "plus_code": {
-      "compound_code": "QGXR+MV 長野県王滝村",
-      "global_code": "8Q7VQGXR+MV"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "松原スポーツ公園",
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116110369713016857386\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED3Y7EHVe0uCNfdXBm5sks1an-8RX4I-VbVnA7b86Tzx65XlyL4ooNYi3HnExW0KEo0n2GHX9pagGoE3B4I1NIeazfzI8bgvWYHMQP7-oV3B2qP_UbTqn-LnsxKNiCaWicSCNnncB0mhs3QA2BAvbj7V4l9Ukq0c1NJpFjWgjtriYzr",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJV7noYpHWHGARIPdzIU4lE3M",
+      "plus_code": {
+        "compound_code": "QGXR+MV 王滝村、長野県",
+        "global_code": "8Q7VQGXR+MV"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

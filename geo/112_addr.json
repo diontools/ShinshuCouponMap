@@ -1,94 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８４８",
-        "short_name": "２８４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２８４８",
-    "geometry": {
-      "location": {
-        "lat": 36.7368349,
-        "lng": 138.4221234
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7382478302915,
-          "lng": 138.4235255802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２８４８",
+      "geometry": {
+        "location": {
+          "lat": 36.7368349,
+          "lng": 138.4221234
         },
-        "southwest": {
-          "lat": 36.7355498697085,
-          "lng": 138.4208276197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73824867989273,
+            "lng": 138.4235264298927
+          },
+          "southwest": {
+            "lat": 36.73554902010729,
+            "lng": 138.4208267701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ63eLbJf0HWAR5pnujFKjynw",
-    "plus_code": {
-      "compound_code": "PCPC+PR 長野県山ノ内町",
-      "global_code": "8Q8WPCPC+PR"
-    },
-    "types": [
-      "bar",
-      "cafe",
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "HOTEL&RESORT KIYOMIZU 望山荘（CAFE&BAR BZS）",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117569388854498533639\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA88l0JGOEhgdjYU9kmYxnKx6oiV7YQnhw3LgDDYmqQo5l8AAUG0IY8lkZym9SmD0NxxeziGDNH4VsJhkOxJMSiFIFHmPeQi5-x96kJ4hzU_jicGynMzUGldluedN4N9AM5w0SrngavZVtwlfafLR7Rh4fIy8AgQ9JN821zT5dmEYi3",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ63eLbJf0HWAR5pnujFKjynw",
+      "plus_code": {
+        "compound_code": "PCPC+PR 山ノ内町、長野県",
+        "global_code": "8Q8WPCPC+PR"
+      },
+      "types": [
+        "cafe",
+        "bar",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

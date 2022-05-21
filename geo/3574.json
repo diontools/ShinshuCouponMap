@@ -1,163 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0026 長野県諏訪市大手２丁目３−４ AKビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.0433789,
+          "lng": 138.1167039
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 36.04470362989272,
+            "lng": 138.1180918798927
+          },
+          "southwest": {
+            "lat": 36.04200397010728,
+            "lng": 138.1153922201073
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "大衆モツ串専門店 焼モッつん",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112820990301543705062\">Pradi Hargianto</a>"
+          ],
+          "photo_reference": "Aap_uEBVVdgf691ZZoSLaDDtkNLTJYpzmfAgKY-CTez79abBkrrYhkq5Nw2qfHgSKMHTOr8qJ88PpGDfe4N0C0UGZbgM8i_rEKrvCcwdfQ7oA7eZdjvg9BFoBixxugwI2jBPV96N1AIUylR7YAxiWvVsULiIrNAyrewijFDMVrno7gx309KY",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "１６",
-        "short_name": "１６",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJo5TE-_dVHGARAAbBnAOSAFQ",
+      "plus_code": {
+        "compound_code": "24V8+9M 諏訪市、長野県",
+        "global_code": "8Q8W24V8+9M"
       },
-      {
-        "long_name": "６８",
-        "short_name": "６８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中野",
-        "short_name": "中野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中野区",
-        "short_name": "中野区",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東京都",
-        "short_name": "東京都",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "164-0001",
-        "short_name": "164-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒164-0001 東京都中野区中野５丁目６８−１６",
-    "geometry": {
-      "location": {
-        "lat": 35.709584,
-        "lng": 139.665346
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7109329802915,
-          "lng": 139.6666949802915
-        },
-        "southwest": {
-          "lat": 35.7082350197085,
-          "lng": 139.6639970197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJe8bQq5DyGGARw_kUTdUWviY",
-    "plus_code": {
-      "compound_code": "PM58+R4 東京都中野区",
-      "global_code": "8Q7XPM58+R4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

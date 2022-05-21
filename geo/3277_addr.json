@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９７−１４９７",
-        "short_name": "４９７−１４９７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂４９７−１４９７",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.7404323,
-          "lng": 137.9002475
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂４９７−１４９７",
+      "geometry": {
+        "location": {
+          "lat": 35.7403385,
+          "lng": 137.9000665
         },
-        "southwest": {
-          "lat": 35.7402568,
-          "lng": 137.8999827
+        "viewport": {
+          "northeast": {
+            "lat": 35.74167202989272,
+            "lng": 137.9015984798927
+          },
+          "southwest": {
+            "lat": 35.73897237010727,
+            "lng": 137.8988988201073
+          }
         }
       },
-      "location": {
-        "lat": 35.7403385,
-        "lng": 137.9000665
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7416935302915,
-          "lng": 137.9015557302915
-        },
-        "southwest": {
-          "lat": 35.73899556970851,
-          "lng": 137.8988577697085
-        }
-      }
-    },
-    "place_id": "ChIJGTO8ghLtHGARfiq7GWOBAXw",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-4117 長野県駒ヶ根市赤穂４９７−１４９７",
+      "place_id": "ChIJGTO8ghLtHGARfiq7GWOBAXw",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

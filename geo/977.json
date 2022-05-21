@@ -1,92 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野タクシー",
-        "short_name": "長野タクシー",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１９６２",
-        "short_name": "１９６２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北長池",
-        "short_name": "北長池",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0025",
-        "short_name": "381-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0025 長野県長野市北長池１９６２ 長野タクシー",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.645264,
-          "lng": 138.2381104
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0025 長野県長野市北長池４６７−１２",
+      "geometry": {
+        "location": {
+          "lat": 36.64496,
+          "lng": 138.238049
         },
-        "southwest": {
-          "lat": 36.645155,
-          "lng": 138.2377946
+        "viewport": {
+          "northeast": {
+            "lat": 36.64630457989272,
+            "lng": 138.2396024798927
+          },
+          "southwest": {
+            "lat": 36.64360492010727,
+            "lng": 138.2369028201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6452191,
-        "lng": 138.2379339
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6466163802915,
-          "lng": 138.2393014802915
-        },
-        "southwest": {
-          "lat": 36.64391841970851,
-          "lng": 138.2366035197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "長野タクシー 本社",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101881960972082670157\">のら猫</a>"
+          ],
+          "photo_reference": "Aap_uEDQR5b63yG7zOhQknLfo8GPwJJMX8dGkT_xcHKqa5Qy4ZxF98_2L4JjuG31A1PRPZRFylmBMsdvJ97F0iTcqTPFadqRWKTRrvk4wsHGCgDTzqlkM5tT0WI5GSP2iANcSfw4SHW2YcTX8qcMK3BQ3UY8DpjeCSjP1iXa5xKr-PekDpv1",
+          "width": 2048
         }
-      }
-    },
-    "place_id": "ChIJ9Xv-P_-FHWARe6HBiZfg4jo",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJgcJAx1GPHWARXe51DlDhEa4",
+      "plus_code": {
+        "compound_code": "J6VQ+X6 長野市、長野県",
+        "global_code": "8Q8WJ6VQ+X6"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

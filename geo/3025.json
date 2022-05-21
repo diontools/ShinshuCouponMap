@@ -1,89 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "浪合",
-        "short_name": "浪合",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0501",
-        "short_name": "395-0501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0501 長野県下伊那郡阿智村浪合",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.42638350000001,
-          "lng": 137.7437735
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0501 長野県下伊那郡阿智村浪合１１９２−３５６",
+      "geometry": {
+        "location": {
+          "lat": 35.3535201,
+          "lng": 137.6707273
         },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.6336634
+        "viewport": {
+          "northeast": {
+            "lat": 35.35486812989272,
+            "lng": 137.6720477298927
+          },
+          "southwest": {
+            "lat": 35.35216847010728,
+            "lng": 137.6693480701073
+          }
         }
       },
-      "location": {
-        "lat": 35.3816109,
-        "lng": 137.6947512
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.42638350000001,
-          "lng": 137.7437735
-        },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.6336634
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "日本一の星空 浪合パーク",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118264013243576468452\">村松英男</a>"
+          ],
+          "photo_reference": "Aap_uEB3_Hm7RiZ86Snv_ji__-ouUzbgjCB3RTbofTU8G3-cnHQCnoILLQ6mg9gx9oIJCnjGec85b3xSB3cMXxdsyVtcyyWL1AOxSwZRmcvIAGVqxhVi1OOdRh6klE3TjW3qw3LuQS-czYuvK5ITrVPd-JaBgKqq1gmWvYMOhp2Xc2zTYYwi",
+          "width": 4864
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJCfnECjShHGARvRFGnG75u80",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJDR_goN-nHGARK2GaD2lkqSQ",
+      "plus_code": {
+        "compound_code": "9M3C+C7 阿智村、長野県",
+        "global_code": "8Q7V9M3C+C7"
+      },
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

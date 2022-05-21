@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４８７",
-        "short_name": "１４８７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "静間",
-        "short_name": "静間",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2255",
-        "short_name": "389-2255",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2255 長野県飯山市静間１４８７",
-    "geometry": {
-      "location": {
-        "lat": 36.8330617,
-        "lng": 138.3570925
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8344743302915,
-          "lng": 138.3583050802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2255 長野県飯山市静間１４８７",
+      "geometry": {
+        "location": {
+          "lat": 36.8331184,
+          "lng": 138.3569642
         },
-        "southwest": {
-          "lat": 36.8317763697085,
-          "lng": 138.3556071197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.83447517989272,
+            "lng": 138.3583059298927
+          },
+          "southwest": {
+            "lat": 36.83177552010728,
+            "lng": 138.3556062701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-VSlVIMf9l8RlfFg8AAwMH4",
-    "plus_code": {
-      "compound_code": "R9M4+6R 日本、長野県飯山市",
-      "global_code": "8Q8WR9M4+6R"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "いいやまぶなの駅",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114021332597368301738\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECEXwhrFZLmvwuwXqTIVNnUE1XgdSFBujGqoV3_BdYJaOo89lRV0zNXs-d3ntK17wzq5M25e8OGsWuWuCigmbL3yT_nD8aUkH5OcpuqTH8W77wPgZ6F2VzmUdZtD8CRpk9lNhRTqmZuTuPly1O6eumdf0nlertbKkv5LUWXk9cZjuyp",
+          "width": 2712
+        }
+      ],
+      "place_id": "ChIJ-VSlVIMf9l8RlfFg8AAwMH4",
+      "plus_code": {
+        "compound_code": "R9M4+6R 飯山市、長野県",
+        "global_code": "8Q8WR9M4+6R"
+      },
+      "types": [
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

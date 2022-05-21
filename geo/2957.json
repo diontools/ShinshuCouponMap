@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央町",
-        "short_name": "中央町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0027",
-        "short_name": "394-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0027 長野県岡谷市中央町２丁目２−１ イルフアミューズメントプラザ1F",
-    "geometry": {
-      "location": {
-        "lat": 36.05989,
-        "lng": 138.048514
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.06122653029149,
-          "lng": 138.0497263802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0027 長野県岡谷市中央町２丁目２−１ イルフアミューズメントプラザ1F",
+      "geometry": {
+        "location": {
+          "lat": 36.05989,
+          "lng": 138.048514
         },
-        "southwest": {
-          "lat": 36.05852856970849,
-          "lng": 138.0470284197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06122737989271,
+            "lng": 138.0497272298927
+          },
+          "southwest": {
+            "lat": 36.05852772010727,
+            "lng": 138.0470275701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjeo_0ND_HGARkNH_yyUVRDs",
-    "plus_code": {
-      "compound_code": "325X+XC 長野県岡谷市",
-      "global_code": "8Q8W325X+XC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "おかやっこ酒場 ぶる",
+      "photos": [
+        {
+          "height": 1378,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">nori baba</a>"
+          ],
+          "photo_reference": "Aap_uECwRKMNwm5bQqpFCtTeq6gQRZnx3pJj2XqVaJNyaASqKvxq49Vxoo21dyCwgIy7mprV89C6LPh-UeHpxuNg-LqpqaOR1zlkZ2A5qx6IzdY9QUTdMFMtXoc6MwIPdYi7vwPNHRMFmrnrDzb7KWr9D0-j_GMJESit672lnvb4TTH8Fr9G",
+          "width": 1843
+        }
+      ],
+      "place_id": "ChIJjeo_0ND_HGARkNH_yyUVRDs",
+      "plus_code": {
+        "compound_code": "325X+XC 岡谷市、長野県",
+        "global_code": "8Q8W325X+XC"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

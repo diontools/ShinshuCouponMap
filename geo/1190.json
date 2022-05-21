@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "相生町",
-        "short_name": "相生町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0025",
-        "short_name": "384-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0025 長野県小諸市相生町２丁目２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.32743,
-        "lng": 138.423523
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3288534302915,
-          "lng": 138.4248896302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0025 長野県小諸市相生町２丁目２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.32743,
+          "lng": 138.423523
         },
-        "southwest": {
-          "lat": 36.3261554697085,
-          "lng": 138.4221916697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32885427989272,
+            "lng": 138.4248904798928
+          },
+          "southwest": {
+            "lat": 36.32615462010728,
+            "lng": 138.4221908201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJA9A4srbJHWARKpt9q_G-d8c",
-    "plus_code": {
-      "compound_code": "8CGF+XC 日本、長野県小諸市",
-      "global_code": "8Q8W8CGF+XC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば・パスタ はらだ",
+      "photos": [
+        {
+          "height": 2266,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100508684064910020608\">Shigeru SATO</a>"
+          ],
+          "photo_reference": "Aap_uEBP4C8H50tAQmRb7hOUd1aoM43VJSRwLIM_WIG5u1X9Df8mBYx9nNHcJyXvES3EdH1cciSg4_jQWeYa2hne0GFvjXghaACxnJ2ukyn7TM1np_EsFlYZuWStcehXDuS2PmOxz-iE88NmiDt2HPtFYNjEj68mTig2BUc691yDNwM04-Sv",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJA9A4srbJHWARKpt9q_G-d8c",
+      "plus_code": {
+        "compound_code": "8CGF+XC 小諸市、長野県",
+        "global_code": "8Q8W8CGF+XC"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

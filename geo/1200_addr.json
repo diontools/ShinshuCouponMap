@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１１",
-        "short_name": "３１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "丁",
-        "short_name": "丁",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0804",
-        "short_name": "384-0804",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0804 長野県小諸市丁３１１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3274353,
-          "lng": 138.4203946
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0804 長野県小諸市丁３１１",
+      "geometry": {
+        "location": {
+          "lat": 36.3272784,
+          "lng": 138.4202203
         },
-        "southwest": {
-          "lat": 36.327182,
-          "lng": 138.4200629
+        "viewport": {
+          "northeast": {
+            "lat": 36.32862822989272,
+            "lng": 138.4215701298927
+          },
+          "southwest": {
+            "lat": 36.32592857010728,
+            "lng": 138.4188704701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3272784,
-        "lng": 138.4202203
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3286576302915,
-          "lng": 138.4215777302915
-        },
-        "southwest": {
-          "lat": 36.3259596697085,
-          "lng": 138.4188797697085
-        }
-      }
-    },
-    "place_id": "ChIJZWfP-7XJHWAR5BIWbYj0-o0",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0804 長野県小諸市丁３１１",
+      "place_id": "ChIJZWfP-7XJHWAR5BIWbYj0-o0",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,93 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７６２０",
-        "short_name": "７６２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "川路",
-        "short_name": "川路",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2431",
-        "short_name": "399-2431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2431 長野県飯田市川路７６２０",
-    "geometry": {
-      "location": {
-        "lat": 35.4466017,
-        "lng": 137.8151058
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.44794083029149,
-          "lng": 137.8163638302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2431 長野県飯田市川路７６２０",
+      "geometry": {
+        "location": {
+          "lat": 35.4465991,
+          "lng": 137.8150607
         },
-        "southwest": {
-          "lat": 35.4452428697085,
-          "lng": 137.8136658697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.44794167989272,
+            "lng": 137.8163646798928
+          },
+          "southwest": {
+            "lat": 35.44524202010728,
+            "lng": 137.8136650201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ファームカフェココロ",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118264013243576468452\">hide</a>"
+          ],
+          "photo_reference": "Aap_uEAcdLtbxEPkNowC8P_uB0HVPVPQA7VFiwxMaEG5hY4brjtRLqzZElHpRKf5GWZQiewHxaf9Vp1mRwhyZr9j_WYNgUP8mC-SDyx8YXJhLWTXlm6okwTnP32487pY2ul97s1DJrk55e2LL9Q6gDrfoi-4De0-ec1_ByvcbBwYRV-wzYmX",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJK9LumaqfHGARSlvn9OZH-1E",
+      "plus_code": {
+        "compound_code": "CRW8+J2 飯田市、長野県",
+        "global_code": "8Q7VCRW8+J2"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJK9LumaqfHGARSlvn9OZH-1E",
-    "plus_code": {
-      "compound_code": "CRW8+J2 長野県飯田市",
-      "global_code": "8Q7VCRW8+J2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2431 長野県飯田市川路７６２０",
+      "geometry": {
+        "location": {
+          "lat": 35.446594,
+          "lng": 137.8150616
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.44793487989272,
+            "lng": 137.8163631798927
+          },
+          "southwest": {
+            "lat": 35.44523522010727,
+            "lng": 137.8136635201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ココロファームビレッジ",
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115441846133578989000\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB4AwSoP-gVQAYmd4EGNwqRG9J0HE7XL1k4H6UM5gKsjtxoj6GDMB5gGkwME0bMbzS470Fy6k4oVeQZ9R2gGqVkc59pg6hGrkl6w6-pTJjVvwifOGbltC1l4yhOruAJHJlFw9mZipl8FtBU2FFz-NomzzRUbMQpOEohvhg2MSpTm2BQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJK2fWeMOeHGARa-1CU6QtiK4",
+      "plus_code": {
+        "compound_code": "CRW8+J2 飯田市、長野県",
+        "global_code": "8Q7VCRW8+J2"
+      },
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

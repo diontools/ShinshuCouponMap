@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７８７８−２",
-        "short_name": "１７８７８−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "堺",
-        "short_name": "堺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "栄村",
-        "short_name": "栄村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下水内郡",
-        "short_name": "下水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "949-8321",
-        "short_name": "949-8321",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒949-8321 長野県下水内郡栄村堺１７８７８−２",
-    "geometry": {
-      "location": {
-        "lat": 36.8102172,
-        "lng": 138.6201214
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8113669802915,
-          "lng": 138.6214112802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒949-8321 長野県下水内郡栄村堺１７８７８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.8102172,
+          "lng": 138.6201214
         },
-        "southwest": {
-          "lat": 36.8086690197085,
-          "lng": 138.6187133197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.81136782989272,
+            "lng": 138.6214121298927
+          },
+          "southwest": {
+            "lat": 36.80866817010727,
+            "lng": 138.6187124701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJVxGoJOD7HWARc4wZDBzY690",
-    "plus_code": {
-      "compound_code": "RJ6C+32 長野県栄村",
-      "global_code": "8Q8WRJ6C+32"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒949-8321 長野県下水内郡栄村堺１７８７８−２",
+      "place_id": "ChIJVxGoJOD7HWARc4wZDBzY690",
+      "plus_code": {
+        "compound_code": "RJ6C+32 栄村、長野県",
+        "global_code": "8Q8WRJ6C+32"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

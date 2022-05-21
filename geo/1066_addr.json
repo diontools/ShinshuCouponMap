@@ -1,86 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６１−１",
-        "short_name": "１６１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "岩村田",
-        "short_name": "岩村田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0022",
-        "short_name": "385-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0022 長野県佐久市岩村田１６１−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2822991,
-          "lng": 138.4811254
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田住吉町１６１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2821908,
+          "lng": 138.481061
         },
-        "southwest": {
-          "lat": 36.2820888,
-          "lng": 138.4808584
+        "viewport": {
+          "northeast": {
+            "lat": 36.28346192989272,
+            "lng": 138.4823484298927
+          },
+          "southwest": {
+            "lat": 36.28076227010727,
+            "lng": 138.4796487701072
+          }
         }
       },
-      "location": {
-        "lat": 36.2821809,
-        "lng": 138.4809515
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2835087302915,
-          "lng": 138.4824247802915
-        },
-        "southwest": {
-          "lat": 36.2808107697085,
-          "lng": 138.4797268197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ほのBuonoのタルト屋さんBambina～バンビーナ～",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100071363710160950602\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB-CFyV-JGYNbf5sCCsXGxdSE-WxxA3pzCr3tFV1NgvB2X5fKgYih8E1uOTHPA62X1ykw1CuW5TXB--zd26Xx--ZakNLMV6ImH2EGOkTmGmP7zGK-12xZd36lnLB-wj4ux-faMs6U1oO4jQgnN06F0NtA0pgxCqmQReohS-k8sXPySq",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8xHmqIHMHWARScZLuz8zcKc",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJJXbxw_TNHWARHtxmqPCJ21s",
+      "plus_code": {
+        "compound_code": "7FJJ+VC 佐久市、長野県",
+        "global_code": "8Q8W7FJJ+VC"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

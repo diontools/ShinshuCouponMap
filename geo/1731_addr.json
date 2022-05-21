@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1795487,
-          "lng": 138.302096
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野",
+      "geometry": {
+        "location": {
+          "lat": 36.1140828,
+          "lng": 138.2692172
         },
-        "southwest": {
-          "lat": 36.0862461,
-          "lng": 138.2337213
+        "viewport": {
+          "northeast": {
+            "lat": 36.1795487,
+            "lng": 138.302096
+          },
+          "southwest": {
+            "lat": 36.0862461,
+            "lng": 138.2337213
+          }
         }
       },
-      "location": {
-        "lat": 36.1140828,
-        "lng": 138.2692172
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1795487,
-          "lng": 138.302096
-        },
-        "southwest": {
-          "lat": 36.0862461,
-          "lng": 138.2337213
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "芦田八ケ野",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105764457881802873360\">一渡邊</a>"
+          ],
+          "photo_reference": "Aap_uEB5sPekxmda704zkj1_jCkopW7IolvO_E9Pcghj1h9Ouq3Qw4eayDUbwkv8ufQ1aLPBZ2j9-kDu1JylELp1TJ2rupfrXcKJcDrKDq2b3G_0Ak5GOinfxsAd_NGGn2qd0TFP9pmy7BoxNWi6l4QciAwVN3LQAH44skfhZqLo4Px-PYKu",
+          "width": 4618
         }
-      }
-    },
-    "place_id": "ChIJsyh8QhBNHGARKaWBg5i-an8",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJsyh8QhBNHGARKaWBg5i-an8",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

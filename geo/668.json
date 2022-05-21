@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２８５",
-        "short_name": "２２８５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠２２８５",
-    "geometry": {
-      "location": {
-        "lat": 36.7287741,
-        "lng": 138.077512
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7302070802915,
-          "lng": 138.0788073802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠２２８５",
+      "geometry": {
+        "location": {
+          "lat": 36.7288426,
+          "lng": 138.0774913
         },
-        "southwest": {
-          "lat": 36.7275091197085,
-          "lng": 138.0761094197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73020792989272,
+            "lng": 138.0788082298927
+          },
+          "southwest": {
+            "lat": 36.72750827010728,
+            "lng": 138.0761085701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlUq4RAIs9l8ReHTbv6pA4j4",
-    "plus_code": {
-      "compound_code": "P3HH+G2 日本、長野県長野市",
-      "global_code": "8Q8WP3HH+G2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処たからや",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114756918378238092094\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB5mD1u97SC76g972_5qv3lNM2_EpxQx4BvF5g14xJ2tCEuLrGPMEmoij5RHWdwJXtJ_DIUhOauNuAYxGvr5nxcqgJCIVDiOrABdglwUyObWJWx9CXjCZtRuOL1Mv1VxOV__xyg7NA1eWQQeQCFFE1xh_8UalGaqIWpXcnbHvaPTKaD",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJlUq4RAIs9l8ReHTbv6pA4j4",
+      "plus_code": {
+        "compound_code": "P3HH+G2 長野市、長野県",
+        "global_code": "8Q8WP3HH+G2"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1515",
-        "short_name": "390-1515",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1515 長野県松本市安曇",
-    "geometry": {
-      "location": {
-        "lat": 36.1519177,
-        "lng": 137.6276281
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1532900302915,
-          "lng": 137.6289582302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1515 長野県松本市安曇４１８１",
+      "geometry": {
+        "location": {
+          "lat": 36.14566629999999,
+          "lng": 137.6241201
         },
-        "southwest": {
-          "lat": 36.1505920697085,
-          "lng": 137.6262602697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.14715202989272,
+            "lng": 137.6256922298927
+          },
+          "southwest": {
+            "lat": 36.14445237010727,
+            "lng": 137.6229925701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRWOCsRQ4HWARvmbtsk9A8Ig",
-    "plus_code": {
-      "compound_code": "5J2H+Q3 長野県松本市",
-      "global_code": "8Q8V5J2H+Q3"
-    },
-    "types": [
-      "establishment",
-      "health",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "泡の湯",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103759545079232416901\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAo7AO5SV_pT0pMkNX_ATcv4S25BfnwTkZ9QgPRtDyJDrQoFN4W2GgX2AAtCiWRKr0hqdWVBGgQC5QhInRleCnbuQ74E2K8WzNzVCOYIQOKWq7ghEmh1Z3E8DFmCRHp4Ea7KBolbvtTbIP2NbLegsDeI4FnvsgHrEsWLttFI6qGyQyc",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ_XCCsRQ4HWARwcq6XX3VfOw",
+      "plus_code": {
+        "compound_code": "4JWF+7J 松本市、長野県",
+        "global_code": "8Q8V4JWF+7J"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

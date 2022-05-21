@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７６２０",
-        "short_name": "７６２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "川路",
-        "short_name": "川路",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2431",
-        "short_name": "399-2431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2431 長野県飯田市川路７６２０ 川路7619",
-    "geometry": {
-      "location": {
-        "lat": 35.44660289999999,
-        "lng": 137.8155287
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4479612302915,
-          "lng": 137.8169573802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2431 長野県飯田市川路７６２０ 川路7619",
+      "geometry": {
+        "location": {
+          "lat": 35.4466105,
+          "lng": 137.8155938
         },
-        "southwest": {
-          "lat": 35.4452632697085,
-          "lng": 137.8142594197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.44796207989272,
+            "lng": 137.8169582298927
+          },
+          "southwest": {
+            "lat": 35.44526242010728,
+            "lng": 137.8142585701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFR1ufcOeHGARjgQiE4ASnGE",
-    "plus_code": {
-      "compound_code": "CRW8+J6 長野県飯田市",
-      "global_code": "8Q7VCRW8+J6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "grocery_or_supermarket",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ココロマルシェ",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106334527396701837144\">Hidenori Maezawa</a>"
+          ],
+          "photo_reference": "Aap_uEDytTtv4pA9Ko41q8UHPVohrz_RPNOrgLLxyB_o8BFAFLrbOGQtHgBlTFSoFMR7gWedKaidP_QVNDPIn5JIXPNQQrmuuRXVlw7L4WynPnDRCz3Qp8a5tcudeLIqaxuShsyeip4MssALCNTuh74sjhj4YpMB4_TFrMl4VMqDdThOWQCt",
+          "width": 1616
+        }
+      ],
+      "place_id": "ChIJFR1ufcOeHGARjgQiE4ASnGE",
+      "plus_code": {
+        "compound_code": "CRW8+J6 飯田市、長野県",
+        "global_code": "8Q7VCRW8+J6"
+      },
+      "types": [
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

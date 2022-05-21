@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４２２",
-        "short_name": "４２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野４２２",
-    "geometry": {
-      "location": {
-        "lat": 36.131,
-        "lng": 138.272089
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1323132302915,
-          "lng": 138.2730735802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野４２２",
+      "geometry": {
+        "location": {
+          "lat": 36.131,
+          "lng": 138.272089
         },
-        "southwest": {
-          "lat": 36.1296152697085,
-          "lng": 138.2703756197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13231407989272,
+            "lng": 138.2730744298927
+          },
+          "southwest": {
+            "lat": 36.12961442010728,
+            "lng": 138.2703747701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoQ8VVgRNHGARNAY4kWUjPHA",
-    "plus_code": {
-      "compound_code": "47JC+CR 日本、長野県立科町",
-      "global_code": "8Q8W47JC+CR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション る・ぐらん",
+      "photos": [
+        {
+          "height": 4112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107315392834587265488\">Mireille</a>"
+          ],
+          "photo_reference": "Aap_uEA1xWU7mhEr5MsItEkKOhExzIpPp9dAkS065gWB1Ce6sqw2ZkVfqyLPwmVYWwXTEUZUnCoCvpFATkLt4EP6dE8dt_AO0BFkPf3SIhL09hnbYAnT7xA789oO880hiBeUeDz4z7HGtjvzs6OZtZC9DWYQ2vMSTx_1LRfcy8-msu11-MVM",
+          "width": 5488
+        }
+      ],
+      "place_id": "ChIJoQ8VVgRNHGARNAY4kWUjPHA",
+      "plus_code": {
+        "compound_code": "47JC+CR 立科町、長野県",
+        "global_code": "8Q8W47JC+CR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

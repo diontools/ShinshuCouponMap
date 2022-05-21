@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長和町",
-        "short_name": "長和町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県小県郡長和町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2967821,
-          "lng": 138.2995141
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0603 長野県小県郡長和町古町4247 番地１",
+      "geometry": {
+        "location": {
+          "lat": 36.2698968,
+          "lng": 138.2581715
         },
-        "southwest": {
-          "lat": 36.105244,
-          "lng": 138.1198082
+        "viewport": {
+          "northeast": {
+            "lat": 36.27143047989272,
+            "lng": 138.2596256298927
+          },
+          "southwest": {
+            "lat": 36.26873082010728,
+            "lng": 138.2569259701072
+          }
         }
       },
-      "location": {
-        "lat": 36.2698987,
-        "lng": 138.2580282
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2967821,
-          "lng": 138.2995141
-        },
-        "southwest": {
-          "lat": 36.105244,
-          "lng": 138.1198082
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "name": "長和町役場",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117477996901992983559\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBkmHoseaQAge_mDF2C1-vuPi8Y4zQkaYhhi6-aog1c6EE0AfHT58MOt-DNBiiFa5pr_xvLXSTkpFeEllAsA76bTK3ADKUTY607_YCgPEZA7OmXGszQtMYzvhk6MxpMtWCbDE0OcoAqLBrL6chV5Movr00yjYlC5eHCIrFYDnGtYCWK",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL2VwANqtHWAR1BY_Fc2ub4g",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJV1Cn6bqxHWARGIQbnq3XjpQ",
+      "plus_code": {
+        "compound_code": "7795+X7 長和町、長野県",
+        "global_code": "8Q8W7795+X7"
+      },
+      "types": [
+        "city_hall",
+        "point_of_interest",
+        "local_government_office",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

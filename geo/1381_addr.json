@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６８３−６",
-        "short_name": "１６８３−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "別所温泉",
-        "short_name": "別所温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1431",
-        "short_name": "386-1431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６８３−６",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.349811,
-          "lng": 138.1576327
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６８３−６",
+      "geometry": {
+        "location": {
+          "lat": 36.3497353,
+          "lng": 138.1575625
         },
-        "southwest": {
-          "lat": 36.3496607,
-          "lng": 138.1574651
+        "viewport": {
+          "northeast": {
+            "lat": 36.35110832989272,
+            "lng": 138.1588606798927
+          },
+          "southwest": {
+            "lat": 36.34840867010728,
+            "lng": 138.1561610201072
+          }
         }
       },
-      "location": {
-        "lat": 36.3497353,
-        "lng": 138.1575625
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.35108483029149,
-          "lng": 138.1588949302915
-        },
-        "southwest": {
-          "lat": 36.34838686970849,
-          "lng": 138.1561969697085
-        }
-      }
-    },
-    "place_id": "ChIJb71ZKmKhHWARDVJN9Zo5ORA",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-1431 長野県上田市別所温泉１６８３−６",
+      "place_id": "ChIJb71ZKmKhHWARDVJN9Zo5ORA",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

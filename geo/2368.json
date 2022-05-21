@@ -1,129 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５３２−４",
-        "short_name": "２５３２−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町２５３２−４",
-    "geometry": {
-      "location": {
-        "lat": 36.5061445,
-        "lng": 137.8602777
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5074509802915,
-          "lng": 137.8616462302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町２５３２−４",
+      "geometry": {
+        "location": {
+          "lat": 36.5061795,
+          "lng": 137.8602656
         },
-        "southwest": {
-          "lat": 36.5047530197085,
-          "lng": 137.8589482697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_YvR-MBjHWARmRXxa8zO35g",
-    "plus_code": {
-      "compound_code": "GV46+F4 日本、長野県大町市",
-      "global_code": "8Q8VGV46+F4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "ネパール",
-        "short_name": "NP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "ネパール",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 30.4473898,
-          "lng": 88.20182969999999
-        },
-        "southwest": {
-          "lat": 26.3473741,
-          "lng": 80.05846980000001
+        "viewport": {
+          "northeast": {
+            "lat": 36.50745182989272,
+            "lng": 137.8616470798927
+          },
+          "southwest": {
+            "lat": 36.50475217010727,
+            "lng": 137.8589474201072
+          }
         }
       },
-      "location": {
-        "lat": 28.394857,
-        "lng": 84.12400799999999
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 30.4473898,
-          "lng": 88.20182969999999
-        },
-        "southwest": {
-          "lat": 26.3473741,
-          "lng": 80.05846980000001
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ヒマラヤン シェルパ 大町店",
+      "photos": [
+        {
+          "height": 367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115226365449716050820\">ヒマラヤン シェルパ 大町店</a>"
+          ],
+          "photo_reference": "Aap_uEDSnZV3qkPLFSHSqS27aaXLGmX2egz3wJpTIbPEqei7w3t9OKGrXWm2sn6dZX_s6EAu8opPc2Cd35hJlJeaZDiOtHvK0daEjrmWHkjum-nyckhpCrCkPzDiV8AK3qqEjTQRdlOL_WPHxK9rre6icnphaimeVhTF5vvw6nlEmnI56YyB",
+          "width": 512
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJz2gufcfolTkR3obM0LyaojQ",
-    "types": [
-      "country",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ_YvR-MBjHWARmRXxa8zO35g",
+      "plus_code": {
+        "compound_code": "GV46+F4 大町市、長野県",
+        "global_code": "8Q8VGV46+F4"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

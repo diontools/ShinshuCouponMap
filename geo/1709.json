@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４２３−５",
-        "short_name": "１４２３−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "発地",
-        "short_name": "発地",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0113",
-        "short_name": "389-0113",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地１４２３−５",
-    "geometry": {
-      "location": {
-        "lat": 36.3015529,
-        "lng": 138.6350038
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3029626302915,
-          "lng": 138.6363524302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地１４２３−５",
+      "geometry": {
+        "location": {
+          "lat": 36.3016317,
+          "lng": 138.6350021
         },
-        "southwest": {
-          "lat": 36.3002646697085,
-          "lng": 138.6336544697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30296347989272,
+            "lng": 138.6363532798927
+          },
+          "southwest": {
+            "lat": 36.30026382010728,
+            "lng": 138.6336536201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9UjF5oYtHGARkCC4gs713-k",
-    "plus_code": {
-      "compound_code": "8J2P+J2 日本、長野県軽井沢町",
-      "global_code": "8Q8W8J2P+J2"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "軽井沢ゴルフ練習場",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101681164755352778011\">Masahiro YAMATO</a>"
+          ],
+          "photo_reference": "Aap_uEAXOJ51ZXlq1LKyeZkR6u2jiQ8RgwOtCFMEMGiHOLmSEh0_ePJHcxVvXBZvKOwmj6tAg7SnMkV2VmJj-18Ci_thJPaZZSpUNlOSuLDi50gjtVU-XeLejnvRZUB2LG37Jos-5WwRjEk_uoT4kHOjSue3CysyrtSXHVcFvJEuKDNsTlq7",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ9UjF5oYtHGARkCC4gs713-k",
+      "plus_code": {
+        "compound_code": "8J2P+J2 軽井沢町、長野県",
+        "global_code": "8Q8W8J2P+J2"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

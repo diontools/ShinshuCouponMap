@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７３４−６",
-        "short_name": "１７３４−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "岩村田",
-        "short_name": "岩村田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0022",
-        "short_name": "385-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0022 長野県佐久市岩村田１７３４−６",
-    "geometry": {
-      "location": {
-        "lat": 36.2692763,
-        "lng": 138.4649448
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2705931302915,
-          "lng": 138.4663956802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田１７３４−６",
+      "geometry": {
+        "location": {
+          "lat": 36.2692748,
+          "lng": 138.4649887
         },
-        "southwest": {
-          "lat": 36.2678951697085,
-          "lng": 138.4636977197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27059397989272,
+            "lng": 138.4663965298927
+          },
+          "southwest": {
+            "lat": 36.26789432010727,
+            "lng": 138.4636968701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpQ0X3nHLHWARZjMve5kgCa0",
-    "plus_code": {
-      "compound_code": "7F97+PX 日本、長野県佐久市",
-      "global_code": "8Q8W7F97+PX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "くつろぎイタリアン ほのBuono",
+      "photos": [
+        {
+          "height": 2838,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112389454638462926946\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAyW_IUihmGYxS5d7GGf4mq3kO0qfbon46YzZqFNgVw8RTJBbDYy4bGiBrCRJnRUdjx9Yoja1dcj4DIFkIMjmEti3t10UY99oVpbqELE3lEZoXSKeyf1nhJZRFuSN5FpfvPiFdpsoHj6m0Hut2okLrXKIKGNvaa5YS696cg_3s33Fkr",
+          "width": 2838
+        }
+      ],
+      "place_id": "ChIJpQ0X3nHLHWARZjMve5kgCa0",
+      "plus_code": {
+        "compound_code": "7F97+PX 佐久市、長野県",
+        "global_code": "8Q8W7F97+PX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

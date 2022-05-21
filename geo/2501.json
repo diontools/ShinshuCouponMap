@@ -1,166 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙",
-    "geometry": {
-      "location": {
-        "lat": 36.7544727,
-        "lng": 137.8615871
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.75579173029149,
-          "lng": 137.8629825802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙",
+      "geometry": {
+        "location": {
+          "lat": 36.7544727,
+          "lng": 137.8615872
         },
-        "southwest": {
-          "lat": 36.7530937697085,
-          "lng": 137.8602846197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.75579257989272,
+            "lng": 137.8629834798927
+          },
+          "southwest": {
+            "lat": 36.75309292010727,
+            "lng": 137.8602838201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJidm3U8fM918RKsv479SPr-A",
-    "plus_code": {
-      "compound_code": "QV36+QJ 長野県小谷村",
-      "global_code": "8Q8VQV36+QJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "千国",
-        "short_name": "千国",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
       },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国 乙12840-1",
-    "geometry": {
-      "location": {
-        "lat": 36.7547946,
-        "lng": 137.8613389
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7561568802915,
-          "lng": 137.8626973302915
-        },
-        "southwest": {
-          "lat": 36.7534589197085,
-          "lng": 137.8599993697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "雪の広場 YETI(イエティ)",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106419125287469923043\">Yu E</a>"
+          ],
+          "photo_reference": "Aap_uECjd0LpFztmVhIjboo8rrjRB21fqYNVd9Vw0rmzoxFt526a5KW_5kCxp36o8FSGxSB-CgqF6ZdcEjgV_MP3MWcpTSXaDP0-hj3I0GLwgUpxiDkJvHKcJ2o2VsA85CQvbdM8NDHjJ4kFpZsX5tqWo9clEolpvVrC9Z3glEEnRPU4i_Wz",
+          "width": 4608
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJnUHzf8bM918RfQG2Ldv13Og",
-    "plus_code": {
-      "compound_code": "QV36+WG 長野県小谷村",
-      "global_code": "8Q8VQV36+WG"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJidm3U8fM918RKsv479SPr-A",
+      "plus_code": {
+        "compound_code": "QV36+QJ 小谷村、長野県",
+        "global_code": "8Q8VQV36+QJ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,81 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松代温泉",
-        "short_name": "松代温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-1226",
-        "short_name": "381-1226",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-1226 長野県長野市松代温泉",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5767586,
-          "lng": 138.2122621
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-1221 長野県長野市松代町東条３５４１ 国民宿舎松代荘",
+      "geometry": {
+        "location": {
+          "lat": 36.56840890000001,
+          "lng": 138.2109075
         },
-        "southwest": {
-          "lat": 36.5716114,
-          "lng": 138.2075719
+        "viewport": {
+          "northeast": {
+            "lat": 36.56975147989272,
+            "lng": 138.2120933298928
+          },
+          "southwest": {
+            "lat": 36.56705182010728,
+            "lng": 138.2093936701073
+          }
         }
       },
-      "location": {
-        "lat": 36.57436819999999,
-        "lng": 138.2101265
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5767586,
-          "lng": 138.2122621
-        },
-        "southwest": {
-          "lat": 36.5716114,
-          "lng": 138.2075719
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "国民宿舎 松代荘",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112189895642775834709\">MASAO OKADA</a>"
+          ],
+          "photo_reference": "Aap_uEA5VIPTljyw_nHYXi9kpXRaQCKWvwG-aHmSwmSZIrk4ojmlQJUjJF1eJiTAsPfbZ_1ujQeu6utC-W04VO9uM8CbQ9r_swHyup2B3PFiRbWt_8EUcUeLp8mVeVHHdgCmCwL8bmZNbBk9m4awx5HYgUZUjmMWBlkpPf2PDlorIsrVmx6_",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJkXBFrjqFHWARpgqCL3R1sfM",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ-9aHRjKFHWARhr9UyAbCNOg",
+      "plus_code": {
+        "compound_code": "H696+99 長野市、長野県",
+        "global_code": "8Q8WH696+99"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

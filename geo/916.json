@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２−６",
-        "short_name": "２２−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "南石堂町",
-        "short_name": "南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳南石堂町１−２２−６",
-    "geometry": {
-      "location": {
-        "lat": 36.6431545,
-        "lng": 138.1879543
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64479858029149,
-          "lng": 138.1895100802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１−２２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.6431545,
+          "lng": 138.1879543
         },
-        "southwest": {
-          "lat": 36.6421006197085,
-          "lng": 138.1868121197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64479942989272,
+            "lng": 138.1895109298927
+          },
+          "southwest": {
+            "lat": 36.64209977010727,
+            "lng": 138.1868112701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJecErkZKGHWAR7EmfFfbsjNA",
-    "plus_code": {
-      "compound_code": "J5VQ+75 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+75"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "桜井甘精堂 MIDORI長野店",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100295970300152896008\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAT2bPGcArkE3h90RL-B0LiYTJag59amODffVC6ajrJxiwzePbjWyEprhwGVs3kJ8Ory1uu1NjqcPZy2m7B6xgFabiwHktzIguGbrFcr1gYT-cFw4hr_Hv1TUG2tIh6jP3JLmn0jEbSe2QXc8QK_vrtLRQVKH0haCeog6IFMw1RK_dC",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJecErkZKGHWAR7EmfFfbsjNA",
+      "plus_code": {
+        "compound_code": "J5VQ+75 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+75"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

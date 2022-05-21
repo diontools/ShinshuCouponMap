@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１５３−５７５",
-        "short_name": "３１５３−５７５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "峰の原",
-        "short_name": "峰の原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2211",
-        "short_name": "386-2211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−５７５",
-    "geometry": {
-      "location": {
-        "lat": 36.5532349,
-        "lng": 138.3588973
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5545409802915,
-          "lng": 138.3601681802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−５７５",
+      "geometry": {
+        "location": {
+          "lat": 36.5532349,
+          "lng": 138.3588973
         },
-        "southwest": {
-          "lat": 36.5518430197085,
-          "lng": 138.3574702197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.55454182989272,
+            "lng": 138.3601690298927
+          },
+          "southwest": {
+            "lat": 36.55184217010728,
+            "lng": 138.3574693701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyQUIb4qVHWARsMefDEMkMoU",
-    "plus_code": {
-      "compound_code": "H935+7H 日本、長野県須坂市",
-      "global_code": "8Q8WH935+7H"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "ムツラの家",
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106413744325320166675\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAvF5GJwfXX8PuMAoe37o3Rjpz1iCYJ-dumn0sWgghM5zrQt2gR8e_Rf33rmgxgbTnnZeK_H63y4ar-E10t1u4XoCClC3XfVqKllbk4WFKzNBzWsTQipNw7BbU3T9zILbrmicNcEJkadDCi5FTgzuvr_WAXkc9mjpoGpKo0xQBdNpSZ",
+          "width": 4752
+        }
+      ],
+      "place_id": "ChIJyQUIb4qVHWARsMefDEMkMoU",
+      "plus_code": {
+        "compound_code": "H935+7H 須坂市、長野県",
+        "global_code": "8Q8WH935+7H"
+      },
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

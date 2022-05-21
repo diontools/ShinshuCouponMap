@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１２",
-        "short_name": "１１２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "秋和",
-        "short_name": "秋和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0041",
-        "short_name": "386-0041",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0041 長野県上田市秋和１１２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4120486,
-          "lng": 138.2242445
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0041 長野県上田市秋和１１２",
+      "geometry": {
+        "location": {
+          "lat": 36.4120045,
+          "lng": 138.2241742
         },
-        "southwest": {
-          "lat": 36.411947,
-          "lng": 138.2241279
+        "viewport": {
+          "northeast": {
+            "lat": 36.41353892989272,
+            "lng": 138.2258200798927
+          },
+          "southwest": {
+            "lat": 36.41083927010727,
+            "lng": 138.2231204201073
+          }
         }
       },
-      "location": {
-        "lat": 36.4120045,
-        "lng": 138.2241742
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4135093302915,
-          "lng": 138.2257960802915
-        },
-        "southwest": {
-          "lat": 36.4108113697085,
-          "lng": 138.2230981197085
-        }
-      }
-    },
-    "place_id": "ChIJyfRq1L6iHWARso-VeIDq6BA",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0041 長野県上田市秋和１１２",
+      "place_id": "ChIJyfRq1L6iHWARso-VeIDq6BA",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

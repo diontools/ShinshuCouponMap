@@ -1,187 +1,77 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "1",
-        "short_name": "1",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "知久町",
-        "short_name": "知久町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0045",
-        "short_name": "395-0045",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "３丁目-1-1 知久町 飯田市 長野県 395-0045 日本",
-    "geometry": {
-      "location": {
-        "lat": 35.5155127,
-        "lng": 137.8230912
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5168258802915,
-          "lng": 137.8245031302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "３丁目-1-１ 知久町 飯田市 長野県 395-0045 日本",
+      "geometry": {
+        "location": {
+          "lat": 35.515482,
+          "lng": 137.8231482
         },
-        "southwest": {
-          "lat": 35.5141279197085,
-          "lng": 137.8218051697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51682672989271,
+            "lng": 137.8245039798927
+          },
+          "southwest": {
+            "lat": 35.51412707010727,
+            "lng": 137.8218043201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "朝日交通",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113177172218939808584\">Taro Kikuchi</a>"
+          ],
+          "photo_reference": "Aap_uEB92P6fNM_vnk1frKN_PsyOe8RKr0xG5ekUlQxO11cMWfQCuGv365HcTzHoG5pb1esctDz3MlniplLDq7g3p6K09PD97_8yo2n_04v8yAMP1lk0XQxjbBYRw5P5pSw07dcXqT7BHObUCPvQWlUjE6t9LkvkKfNAnRAeBC98wTXDiXKK",
+          "width": 3463
+        }
+      ],
+      "place_id": "ChIJG87vgJWZHGARC2gjUzLhO4s",
+      "plus_code": {
+        "compound_code": "GR8F+66 飯田市、長野県",
+        "global_code": "8Q7VGR8F+66"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJG87vgJWZHGARC2gjUzLhO4s",
-    "plus_code": {
-      "compound_code": "GR8F+66 長野県飯田市",
-      "global_code": "8Q7VGR8F+66"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "知久町",
-        "short_name": "知久町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0045",
-        "short_name": "395-0045",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0045 長野県飯田市知久町３丁目１",
-    "geometry": {
-      "location": {
-        "lat": 35.5155332,
-        "lng": 137.8230991
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5168445302915,
-          "lng": 137.8245142802915
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0045 長野県飯田市知久町３丁目１",
+      "geometry": {
+        "location": {
+          "lat": 35.5154989,
+          "lng": 137.8231626
         },
-        "southwest": {
-          "lat": 35.5141465697085,
-          "lng": 137.8218163197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51684537989272,
+            "lng": 137.8245151298927
+          },
+          "southwest": {
+            "lat": 35.51414572010727,
+            "lng": 137.8218154701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJByn6gJWZHGARJ00AB5hhErI",
-    "plus_code": {
-      "compound_code": "GR8F+66 長野県飯田市",
-      "global_code": "8Q7VGR8F+66"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アイタクシーグループ共同配車センター",
+      "place_id": "ChIJByn6gJWZHGARJ00AB5hhErI",
+      "plus_code": {
+        "compound_code": "GR8F+66 飯田市、長野県",
+        "global_code": "8Q7VGR8F+66"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

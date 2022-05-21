@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８９８−１",
-        "short_name": "１８９８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "一山",
-        "short_name": "一山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2602",
-        "short_name": "389-2602",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2602 長野県飯山市一山１８９８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.9354111,
-        "lng": 138.4185989
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9367948302915,
-          "lng": 138.4199263302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2602 長野県飯山市一山１８９８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.9354111,
+          "lng": 138.4185989
         },
-        "southwest": {
-          "lat": 36.9340968697085,
-          "lng": 138.4172283697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.93679567989272,
+            "lng": 138.4199271798927
+          },
+          "southwest": {
+            "lat": 36.93409602010728,
+            "lng": 138.4172275201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJjfYqhVMF9l8R1Hb8tBh0BGQ",
-    "plus_code": {
-      "compound_code": "WCP9+5C 長野県飯山市",
-      "global_code": "8Q8WWCP9+5C"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2602 長野県飯山市一山１８９８−１",
+      "place_id": "ChIJjfYqhVMF9l8R1Hb8tBh0BGQ",
+      "plus_code": {
+        "compound_code": "WCP9+5C 飯山市、長野県",
+        "global_code": "8Q8WWCP9+5C"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

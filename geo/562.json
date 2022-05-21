@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１９",
-        "short_name": "１９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉３丁目１９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.47557,
-        "lng": 138.143518
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4768974802915,
-          "lng": 138.1448249802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉３丁目１９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.4755458,
+          "lng": 138.1434727
         },
-        "southwest": {
-          "lat": 36.47419951970851,
-          "lng": 138.1421270197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.47689832989272,
+            "lng": 138.1448258298927
+          },
+          "southwest": {
+            "lat": 36.47419867010727,
+            "lng": 138.1421261701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJB23cGBecHWARzpaFexARuv0",
-    "plus_code": {
-      "compound_code": "F4GV+6C 日本、長野県千曲市",
-      "global_code": "8Q8WF4GV+6C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "料理倶楽部六花亭",
+      "photos": [
+        {
+          "height": 3025,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114349765775655113611\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECPzy7-XMle1NhHezYnyZzt9SO5ecMhToLQdiEa4Un1SRyBAM5XmDiQfKDz9ry8T1KxJ8mn0hS-l1nliInkYPTTeXtW9X5-1SjJZ6RTRjyklNf1JQBMA7HUYwQ0rNfNHKopNx-4vZExJGWDfUT7XXVJ8wFZpa7hDe5c1aruj-rF-kB6",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJB23cGBecHWARzpaFexARuv0",
+      "plus_code": {
+        "compound_code": "F4GV+6C 千曲市、長野県",
+        "global_code": "8Q8WF4GV+6C"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

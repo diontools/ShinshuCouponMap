@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７６３",
-        "short_name": "２７６３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠豊岡",
-        "short_name": "戸隠豊岡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4102",
-        "short_name": "381-4102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4102 長野県長野市戸隠豊岡２７６３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7159785,
-          "lng": 138.114966
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-4102 長野県長野市戸隠豊岡２７６３",
+      "geometry": {
+        "location": {
+          "lat": 36.7158909,
+          "lng": 138.1148113
         },
-        "southwest": {
-          "lat": 36.7158222,
-          "lng": 138.1147197
+        "viewport": {
+          "northeast": {
+            "lat": 36.71712767989272,
+            "lng": 138.1161104798927
+          },
+          "southwest": {
+            "lat": 36.71442802010728,
+            "lng": 138.1134108201073
+          }
         }
       },
-      "location": {
-        "lat": 36.7158909,
-        "lng": 138.1148113
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7171706302915,
-          "lng": 138.1161869802915
-        },
-        "southwest": {
-          "lat": 36.7144726697085,
-          "lng": 138.1134890197085
-        }
-      }
-    },
-    "place_id": "ChIJz04TG2Qp9l8RtPOwtvMM6vM",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-4102 長野県長野市戸隠豊岡２７６３",
+      "place_id": "ChIJz04TG2Qp9l8RtPOwtvMM6vM",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

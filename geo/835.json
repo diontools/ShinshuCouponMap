@@ -1,110 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "カレーハウスＣｏＣｏ壱番屋長野中御所店",
-        "short_name": "カレーハウスＣｏＣｏ壱番屋長野中御所店",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中御所",
-        "short_name": "中御所",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0935",
-        "short_name": "380-0935",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0935 長野県長野市中御所５丁目９−７ カレーハウスＣｏＣｏ壱番屋長野中御所店",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6296363,
-          "lng": 138.1829608
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0935 長野県長野市中御所５丁目９−７",
+      "geometry": {
+        "location": {
+          "lat": 36.6295521,
+          "lng": 138.1829372
         },
-        "southwest": {
-          "lat": 36.6295393,
-          "lng": 138.1827363
+        "viewport": {
+          "northeast": {
+            "lat": 36.63090442989272,
+            "lng": 138.1843114298927
+          },
+          "southwest": {
+            "lat": 36.62820477010727,
+            "lng": 138.1816117701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6295711,
-        "lng": 138.1828381
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6309367802915,
-          "lng": 138.1842682802915
-        },
-        "southwest": {
-          "lat": 36.62823881970851,
-          "lng": 138.1815703197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カレーハウスCoCo壱番屋 長野中御所店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112087789470108246729\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECVCsKdRFk2zRTuLrWZM2MaDq98X259bcSdrrN_dIckIxgKnX5rdxmnVwJYVa6N64ui_XeN4v9PNtS64afO4iEIQH_-i1inDDDwwUI2sahtLw6HADsOf_j9XPez3C0uZv1p3UlCQGYMoMtcvAQvFeosMkb0HZ8DtdmkzHgpRRNm1jqf",
+          "width": 4032
         }
-      }
-    },
-    "place_id": "ChIJ17PrMZmGHWARIp_jEYkPgTQ",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJsWzjMZmGHWARM09SQK1veCw",
+      "plus_code": {
+        "compound_code": "J5HM+R4 長野市、長野県",
+        "global_code": "8Q8WJ5HM+R4"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

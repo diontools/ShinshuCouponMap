@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７２４",
-        "short_name": "７２４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈良井",
-        "short_name": "奈良井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6303",
-        "short_name": "399-6303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井７２４",
-    "geometry": {
-      "location": {
-        "lat": 35.9673487,
-        "lng": 137.8131007
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.96865238029149,
-          "lng": 137.8144941802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井７２４",
+      "geometry": {
+        "location": {
+          "lat": 35.9673487,
+          "lng": 137.8131007
         },
-        "southwest": {
-          "lat": 35.9659544197085,
-          "lng": 137.8117962197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96865322989272,
+            "lng": 137.8144950298927
+          },
+          "southwest": {
+            "lat": 35.96595357010727,
+            "lng": 137.8117953701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJIbcbd1MfHWARd7gNV5TraXU",
-    "plus_code": {
-      "compound_code": "XR87+W6 日本、長野県塩尻市",
-      "global_code": "8Q7VXR87+W6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "家具雑貨古民具 湖月堂",
+      "photos": [
+        {
+          "height": 4110,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106288562430933977367\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAAUs97yhUsvYHBByG3eUM3W_Gai6wZY1TF9gOSJKNp0iW-JvBEEfFJYL4uffbxtWgnPOW3MX8NkvNRdVcb5Bdqqfh6hifBOHEjKI6bDccBl1hXXBLSrArBPEVt1ebJU-6ET1WHp0_VhqLxGbwiHv2zJQAuh6Mt4VYe5vTnjkDHNV63",
+          "width": 3510
+        }
+      ],
+      "place_id": "ChIJIbcbd1MfHWARd7gNV5TraXU",
+      "plus_code": {
+        "compound_code": "XR87+W6 塩尻市、長野県",
+        "global_code": "8Q7VXR87+W6"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

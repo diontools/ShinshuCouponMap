@@ -1,82 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６５４",
-        "short_name": "１６５４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "別所温泉",
-        "short_name": "別所温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1431",
-        "short_name": "386-1431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６５４",
-    "geometry": {
-      "location": {
-        "lat": 36.3501491,
-        "lng": 138.1558383
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.35148513029149,
-          "lng": 138.1571604802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６５４",
+      "geometry": {
+        "location": {
+          "lat": 36.3501491,
+          "lng": 138.1558383
         },
-        "southwest": {
-          "lat": 36.3487871697085,
-          "lng": 138.1544625197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35148597989272,
+            "lng": 138.1571613298927
+          },
+          "southwest": {
+            "lat": 36.34878632010727,
+            "lng": 138.1544616701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "信州別所温泉 かしわや本店",
+      "photos": [
+        {
+          "height": 922,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112088053473816590197\">別所温泉 かしわや本店</a>"
+          ],
+          "photo_reference": "Aap_uECficuNQRxhne0UWOi73FJbHq3IobbkMHHyTykMGeyJmcikbUBilEgdFdj--YxWmhlFjB-g9FPzcdzSUUoarCCqZh2odI_zBGwVIBNC1uIeLgfeZxTeCv0XQFCaXBN3Iw4hpft83wAm_po4d-7c4xRkiF7rPp9c5GQcyql6LktEtNJ5",
+          "width": 1383
+        }
+      ],
+      "place_id": "ChIJK5Uw7WOhHWARB4MmGXw0DCs",
+      "plus_code": {
+        "compound_code": "9524+38 上田市、長野県",
+        "global_code": "8Q8W9524+38"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJK5Uw7WOhHWARB4MmGXw0DCs",
-    "plus_code": {
-      "compound_code": "9524+38 日本、長野県上田市",
-      "global_code": "8Q8W9524+38"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0024 長野県上田市大手２丁目８−４ 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.4029867,
+          "lng": 138.2472001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.40433757989273,
+            "lng": 138.2485483298927
+          },
+          "southwest": {
+            "lat": 36.40163792010728,
+            "lng": 138.2458486701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "上田市観光会館 売店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101105941314713249257\">こ～た ☆</a>"
+          ],
+          "photo_reference": "Aap_uEDrzveDw0BQHxs4FTU11zLUXdRvh5gWstZhitIYWlEX3WnfbipxuAjprPEMqbzbBdr1BVKsTzeGPWNQaa0meg-9pXgzqUO8Gmmok-FvznsjYmghdvnPQWzuqOTQ5_KYKWkjuRsGNjAIAV6-W-UtgpuG8xF8hjtTjfI5Ql91eDV6Sa-L",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ1cBXTii9HWARTS7qC3Pkb1c",
+      "plus_code": {
+        "compound_code": "C63W+5W 上田市、長野県",
+        "global_code": "8Q8WC63W+5W"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

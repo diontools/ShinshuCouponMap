@@ -1,94 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５２３−３",
-        "short_name": "２５２３−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "城南",
-        "short_name": "城南",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0017",
-        "short_name": "392-0017",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0017 長野県諏訪市城南２丁目２５２３−３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0342628,
-          "lng": 138.1179027
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0017 長野県諏訪市城南２丁目２５２３−３",
+      "geometry": {
+        "location": {
+          "lat": 36.034189,
+          "lng": 138.1178288
         },
-        "southwest": {
-          "lat": 36.0341202,
-          "lng": 138.1177177
+        "viewport": {
+          "northeast": {
+            "lat": 36.03558872989272,
+            "lng": 138.1192062298927
+          },
+          "southwest": {
+            "lat": 36.03288907010728,
+            "lng": 138.1165065701072
+          }
         }
       },
-      "location": {
-        "lat": 36.034189,
-        "lng": 138.1178288
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0355534802915,
-          "lng": 138.1191591802915
-        },
-        "southwest": {
-          "lat": 36.03285551970851,
-          "lng": 138.1164612197085
-        }
-      }
-    },
-    "place_id": "ChIJcXw3-cxVHGARKpdoXjgwXlg",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0017 長野県諏訪市城南２丁目２５２３−３",
+      "place_id": "ChIJcXw3-cxVHGARKpdoXjgwXlg",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

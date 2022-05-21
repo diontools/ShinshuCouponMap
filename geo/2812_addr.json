@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５９２−９",
-        "short_name": "３５９２−９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "読書",
-        "short_name": "読書",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5301",
-        "short_name": "399-5301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5301 長野県木曽郡南木曽町読書３５９２−９",
-    "geometry": {
-      "location": {
-        "lat": 35.600956,
-        "lng": 137.6078939
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6022960302915,
-          "lng": 137.6093182802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-5301 長野県木曽郡南木曽町読書３５９２−９",
+      "geometry": {
+        "location": {
+          "lat": 35.600956,
+          "lng": 137.6078939
         },
-        "southwest": {
-          "lat": 35.59959806970851,
-          "lng": 137.6066203197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.60229687989272,
+            "lng": 137.6093191298927
+          },
+          "southwest": {
+            "lat": 35.59959722010728,
+            "lng": 137.6066194701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ17qwJeLHHGARpPGyPctlLN4",
-    "plus_code": {
-      "compound_code": "JJ25+95 長野県南木曽町",
-      "global_code": "8Q7VJJ25+95"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-5301 長野県木曽郡南木曽町読書３５９２−９",
+      "place_id": "ChIJ17qwJeLHHGARpPGyPctlLN4",
+      "plus_code": {
+        "compound_code": "JJ25+95 南木曽町、長野県",
+        "global_code": "8Q7VJJ25+95"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

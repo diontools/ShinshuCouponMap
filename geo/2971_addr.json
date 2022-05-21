@@ -1,117 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "シロンビル",
-        "short_name": "シロンビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本町",
-        "short_name": "本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0028",
-        "short_name": "394-0028",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0028 長野県岡谷市本町３丁目１−３ シロンビル 1階",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.061611,
-          "lng": 138.0449684
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒394-0028 長野県岡谷市本町３丁目１−３ シロンビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.061433,
+          "lng": 138.0448205
         },
-        "southwest": {
-          "lat": 36.0612877,
-          "lng": 138.0446706
+        "viewport": {
+          "northeast": {
+            "lat": 36.06276887989272,
+            "lng": 138.0460614798927
+          },
+          "southwest": {
+            "lat": 36.06006922010727,
+            "lng": 138.0433618201073
+          }
         }
       },
-      "location": {
-        "lat": 36.061433,
-        "lng": 138.0448205
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0627983302915,
-          "lng": 138.0461345802915
-        },
-        "southwest": {
-          "lat": 36.0601003697085,
-          "lng": 138.0434366197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "シロンビル 1階",
+      "photos": [
+        {
+          "height": 1492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">nori baba</a>"
+          ],
+          "photo_reference": "Aap_uEDdA6DJx6Z7xE30cG4_cb_nEhHn3E8rW4lXQBBT2LxJh6mgMZZ6id9PMHiYZQEVAQcOr3urclKqHQWtEriBrcrzLr0WpcI92gHieSP9-2HukMhhx3VQwwuqWZ5DjH3Nt_wqoBufXStOFNiy_Bgpx9ul6ku_xMioIggxW50Fo2WOXWcf",
+          "width": 2016
         }
-      }
-    },
-    "place_id": "ElJKYXBhbiwg44CSMzk0LTAwMjggTmFnYW5vLCBPa2F5YSwgSG9uY2jFjSwgMy1jaMWNbWXiiJIx4oiS77yTIOOCt-ODreODs-ODk-ODqyAx6ZqOIiAaHgoWChQKEgmfOSfM1f8cYBG6Q9hEJO_ZkBIEMemajg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ElTml6XmnKzjgIHjgJIzOTQtMDAyOCDplbfph47nnIzlsqHosLfluILmnKznlLrvvJPkuIHnm67vvJHiiJLvvJMg44K344Ot44Oz44OT44OrIDHpmo4iIBoeChYKFAoSCZ85J8zV_xxgEbpD2EQk79mQEgQx6ZqO",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

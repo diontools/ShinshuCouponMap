@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３１",
-        "short_name": "３１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "浅間温泉",
-        "short_name": "浅間温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0303",
-        "short_name": "390-0303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉１丁目３１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2617083,
-        "lng": 137.9886639
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.26295513029149,
-          "lng": 137.9898838302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉１丁目３１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.26169420000001,
+          "lng": 137.9884234
         },
-        "southwest": {
-          "lat": 36.2602571697085,
-          "lng": 137.9871858697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26295597989272,
+            "lng": 137.9898846798927
+          },
+          "southwest": {
+            "lat": 36.26025632010727,
+            "lng": 137.9871850201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJI1a5_xoMHWAReGh-A5E-aOk",
-    "plus_code": {
-      "compound_code": "7X6Q+MF 日本、長野県松本市",
-      "global_code": "8Q8V7X6Q+MF"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "界 松本",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111108147873375137990\">星野リゾート 界 松本</a>"
+          ],
+          "photo_reference": "Aap_uEA9UHUVrT7qLibk8u63d4bKKtBMq4BtipnZA7pD9E5jHzJa6p4oLt-7cGam6a_-V3H7U1iZ-TS-RWYVrZPF9-6BdQodDJVbKBXti5cbaLVMwCmfyl7WE89uGoBsdPLj2gpS8xxjKPlu9BMFMh7S14SpW8fMhSjWskQKv11N_L9nGrJe",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJI1a5_xoMHWAReGh-A5E-aOk",
+      "plus_code": {
+        "compound_code": "7X6Q+MF 松本市、長野県",
+        "global_code": "8Q8V7X6Q+MF"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

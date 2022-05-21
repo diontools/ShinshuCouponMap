@@ -1,119 +1,52 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２F",
-        "short_name": "２F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "第一荒井ビル",
-        "short_name": "第一荒井ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "10",
-        "short_name": "10",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目10−５ 第一荒井ビル ２F",
-    "geometry": {
-      "location": {
-        "lat": 36.6459558,
-        "lng": 138.1895656
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6473050802915,
-          "lng": 138.1909717302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目10−５ 第一荒井ビル ２F",
+      "geometry": {
+        "location": {
+          "lat": 36.6459558,
+          "lng": 138.1895656
         },
-        "southwest": {
-          "lat": 36.6446071197085,
-          "lng": 138.1882737697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64730592989272,
+            "lng": 138.1909725798927
+          },
+          "southwest": {
+            "lat": 36.64460627010727,
+            "lng": 138.1882729201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJuwarqjKHHWARqqA-hIFFH0M",
-    "plus_code": {
-      "compound_code": "J5WQ+9R 日本、長野県長野市",
-      "global_code": "8Q8WJ5WQ+9R"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "grocery_or_supermarket",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "肉と麹 ito",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114126830459956229145\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAGFEzLPn35QahYyVFFwXfACpWFxU_pXaNEqqV5uc6zCKwHYt5a7AUq4pxe3VFrNplWVtOqFrbw5yCvX3JWyRVKNkVF61TVtTGklhTRKYSIZ1RMfHesx-vIW4jNwO4ktdUgWpKRjjwrMSlm26ctB9iR7dXj8hIFu0coJU7ZWQYsgm2f",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJuwarqjKHHWARqqA-hIFFH0M",
+      "plus_code": {
+        "compound_code": "J5WQ+9R 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+9R"
+      },
+      "types": [
+        "meal_takeaway",
+        "grocery_or_supermarket",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

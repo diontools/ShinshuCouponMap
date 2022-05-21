@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５１１",
-        "short_name": "１５１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "古海",
-        "short_name": "古海",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1302",
-        "short_name": "389-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海１５１１",
-    "geometry": {
-      "location": {
-        "lat": 36.8430981,
-        "lng": 138.2366867
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8444534802915,
-          "lng": 138.2380894302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海１５１１",
+      "geometry": {
+        "location": {
+          "lat": 36.8430981,
+          "lng": 138.2366867
         },
-        "southwest": {
-          "lat": 36.8417555197085,
-          "lng": 138.2353914697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.84445432989273,
+            "lng": 138.2380902798927
+          },
+          "southwest": {
+            "lat": 36.84175467010728,
+            "lng": 138.2353906201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs2GAAeQl9l8RmyiKk7V__II",
-    "plus_code": {
-      "compound_code": "R6VP+6M 日本、長野県信濃町",
-      "global_code": "8Q8WR6VP+6M"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "(同)しなのディスカバリー/SHINANO DISCOVERY, Llc",
+      "photos": [
+        {
+          "height": 848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102913648947057489210\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAJ2KZwWdgALdpcIQZAClhMiQVQCi-F28QULbZ2JDeo-0LlDpfxNrwKoCH0l_-xx5YI_vH7mu7mujBeWjs-Zq0S2KjZGsIvwcBnovGAi_dtHsAS6GBoawqzXw6xU-LDxxDeVUlDq79_cxrP1En9GJfDlFS3D7q501Qnh7eXYZdJMmHh",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJs2GAAeQl9l8RmyiKk7V__II",
+      "plus_code": {
+        "compound_code": "R6VP+6M 信濃町、長野県",
+        "global_code": "8Q8WR6VP+6M"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

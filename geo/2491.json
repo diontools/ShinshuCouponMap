@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡小谷村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙",
+      "geometry": {
+        "location": {
+          "lat": 36.7664974,
+          "lng": 137.8318609
         },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+        "viewport": {
+          "northeast": {
+            "lat": 36.76793727989273,
+            "lng": 137.8331462298927
+          },
+          "southwest": {
+            "lat": 36.76523762010728,
+            "lng": 137.8304465701073
+          }
         }
       },
-      "location": {
-        "lat": 36.779238,
-        "lng": 137.9083847
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
-        },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "栂池ロープウェイ始発駅",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114272307891624881179\">中山くろふね</a>"
+          ],
+          "photo_reference": "Aap_uEB07VWYvWVRM6XMMfXOBuG91uLXOQa0XhBQRU4WOekAg8pK9QTX4Z_ltiHOjLLNq4xmbhVj4mHIVyR12OlmRO0wlAFarFn4MV1yufzwV02dq1GkLK-UMjxQcPK2FZ2L8X5UxcJ2xTgYz0F_0BwpiwS3va5GQE7ddYxwuKM9uegmOCU7",
+          "width": 2048
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEbXKV9U19l8R_PGKt2EWtyI",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ6823MEjL918Rnm35exdBtdM",
+      "plus_code": {
+        "compound_code": "QR8J+HP 小谷村、長野県",
+        "global_code": "8Q8VQR8J+HP"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

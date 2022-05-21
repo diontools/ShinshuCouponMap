@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県飯田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2431 長野県飯田市川路４６８０−４",
+      "geometry": {
+        "location": {
+          "lat": 35.4408174,
+          "lng": 137.8171177
         },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+        "viewport": {
+          "northeast": {
+            "lat": 35.44217242989273,
+            "lng": 137.8184862798927
+          },
+          "southwest": {
+            "lat": 35.43947277010729,
+            "lng": 137.8157866201073
+          }
         }
       },
-      "location": {
-        "lat": 35.51487,
-        "lng": 137.8217006
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
-        },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "フクザワ商店",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108937137074528325394\">unagi perori</a>"
+          ],
+          "photo_reference": "Aap_uEB2cjdJXzkndV4K7NQn9h2BopNEiy0-ouHJJAN4LqTPOb-lt6Ulptu4gqE54VxRI2vjPajPaC-4hX46ONFDrMKKHouvv4zda-Smg6G_BnFgCIjrvajGwNTftLM7Htnd2GItqBnzoYk3RiV3JV0vGCthzMK2LiiG7XJGqvnjNafDsAqH",
+          "width": 4624
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNeX_xjSdHGARxqitnTSMRU4",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJW3p42TmfHGARDEDBxau-t-M",
+      "plus_code": {
+        "compound_code": "CRR8+8R 飯田市、長野県",
+        "global_code": "8Q7VCRR8+8R"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

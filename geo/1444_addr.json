@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９４９−２５０",
-        "short_name": "９４９−２５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "板橋",
-        "short_name": "板橋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1304",
-        "short_name": "384-1304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1304 長野県南佐久郡南牧村板橋９４９−２５０",
-    "geometry": {
-      "location": {
-        "lat": 35.9669568,
-        "lng": 138.4946159
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9683423802915,
-          "lng": 138.4961748802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-1304 長野県南佐久郡南牧村板橋９４９−２５０",
+      "geometry": {
+        "location": {
+          "lat": 35.9669568,
+          "lng": 138.4946159
         },
-        "southwest": {
-          "lat": 35.9656444197085,
-          "lng": 138.4934769197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96834322989272,
+            "lng": 138.4961757298927
+          },
+          "southwest": {
+            "lat": 35.96564357010728,
+            "lng": 138.4934760701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJQd4kv_U9HGARhOsaC6t948A",
-    "plus_code": {
-      "compound_code": "XF8V+QR 長野県南牧村",
-      "global_code": "8Q7WXF8V+QR"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-1304 長野県南佐久郡南牧村板橋９４９−２５０",
+      "place_id": "ChIJQd4kv_U9HGARhOsaC6t948A",
+      "plus_code": {
+        "compound_code": "XF8V+QR 南牧村、長野県",
+        "global_code": "8Q7WXF8V+QR"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

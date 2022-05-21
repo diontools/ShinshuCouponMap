@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "3306",
-        "short_name": "3306",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0015",
-        "short_name": "393-0015",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0015 長野県諏訪郡下諏訪町 3306",
-    "geometry": {
-      "location": {
-        "lat": 36.07619529999999,
-        "lng": 138.0884701
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.07765618029149,
-          "lng": 138.0898048302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0015 長野県諏訪郡下諏訪町 3306",
+      "geometry": {
+        "location": {
+          "lat": 36.07619529999999,
+          "lng": 138.0884699
         },
-        "southwest": {
-          "lat": 36.07495821970849,
-          "lng": 138.0871068697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07765702989271,
+            "lng": 138.0898056798927
+          },
+          "southwest": {
+            "lat": 36.07495737010727,
+            "lng": 138.0871060201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-TXWAfj_HGARZ5BDjypr5R4",
-    "plus_code": {
-      "compound_code": "33GQ+F9 長野県下諏訪町",
-      "global_code": "8Q8W33GQ+F9"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ぎん月",
+      "photos": [
+        {
+          "height": 2912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118117941650324247221\">ぎん月</a>"
+          ],
+          "photo_reference": "Aap_uECVSCaLn7N1IC3HMK1sP03bfwrcetuTXu2ESpWNZO4AHNqXldZPuaAUhsuqdFH0rxi9TlAmp4p-yjBC-hGdilFQcDbBgCbfnSlqzupTakXptFkNRprW74XdF__064--iX5T3Xn0x6E46HGdMFcogXpiii86cnSxljXZpDTSc9x-i89J",
+          "width": 4368
+        }
+      ],
+      "place_id": "ChIJ-TXWAfj_HGARZ5BDjypr5R4",
+      "plus_code": {
+        "compound_code": "33GQ+F9 下諏訪町、長野県",
+        "global_code": "8Q8W33GQ+F9"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

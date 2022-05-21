@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５１８８−８",
-        "short_name": "５１８８−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊科",
-        "short_name": "豊科",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8205",
-        "short_name": "399-8205",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8205 長野県安曇野市豊科５１８８−８",
-    "geometry": {
-      "location": {
-        "lat": 36.30171199999999,
-        "lng": 137.8945312
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.30306158029149,
-          "lng": 137.8958118302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8205 長野県安曇野市豊科５１８８−８",
+      "geometry": {
+        "location": {
+          "lat": 36.30171199999999,
+          "lng": 137.8945312
         },
-        "southwest": {
-          "lat": 36.3003636197085,
-          "lng": 137.8931138697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30306242989273,
+            "lng": 137.8958126798927
+          },
+          "southwest": {
+            "lat": 36.30036277010728,
+            "lng": 137.8931130201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKVJhVTxtHWAR5EiBfv2PCGw",
-    "plus_code": {
-      "compound_code": "8V2V+MR 日本、長野県安曇野市",
-      "global_code": "8Q8V8V2V+MR"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ドッグカフェ ウィズ",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103137793073003547525\">ＤｏｇＣａｆ’ｅＷＩＴＨ</a>"
+          ],
+          "photo_reference": "Aap_uEBGfpUAGMPz2XGxcozWBrhUZmleuUUsJpdj5EezQDbEr4jnDnS8s5EkjG0z8qh1NIMohxeEZeF0SiKVjCkJrYQ9GvAQl-YgUD6fcjF2-Sy8NrzNnLHPpcl-LD8giwuHhFLet-wlQabk9k-m9JkFB79B3gf6Q26EgmjgCpxTpVJlXjHs",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJKVJhVTxtHWAR5EiBfv2PCGw",
+      "plus_code": {
+        "compound_code": "8V2V+MR 安曇野市、長野県",
+        "global_code": "8Q8V8V2V+MR"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,64 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目３−１ 坐和民",
+      "geometry": {
+        "location": {
+          "lat": 36.23130099999999,
+          "lng": 137.9657336
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.23267357989272,
+            "lng": 137.9670701798927
+          },
+          "southwest": {
+            "lat": 36.22997392010728,
+            "lng": 137.9643705201073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "信州みやげ処 門",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118416195508340557766\">ギッシュ</a>"
+          ],
+          "photo_reference": "Aap_uECJXQBbagejN0Tai-EvTm7Hwtr-IBI5rcY85uI9YjXMcfNnz4xDCBY4P9gekMhTShGN3dpeYYwG_ZhqcPmas8BkcgjnhJrY5-ZYaA6Xp6Enjt2vIEPk6Z1j9Beda8MhuOnYKChFIw5M5ENit02eLQIvT3XfHEs2fHg6HGUJdIzDBnGa",
+          "width": 3840
         }
-      }
+      ],
+      "place_id": "ChIJJ1px-4sOHWARAnYH7AeQv2g",
+      "plus_code": {
+        "compound_code": "6XJ8+G7 松本市、長野県",
+        "global_code": "8Q8V6XJ8+G7"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手３丁目５−１２ たかぎ民芸ビル",
+      "geometry": {
+        "location": {
+          "lat": 36.236236,
+          "lng": 137.969733
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23758142989272,
+            "lng": 137.9711356298928
+          },
+          "southwest": {
+            "lat": 36.23488177010728,
+            "lng": 137.9684359701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "信州土産処たかぎ",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113146775534737922195\">信州土産処たかぎ</a>"
+          ],
+          "photo_reference": "Aap_uECd1XwceKZaq6LzD9mI_1pFqmP19zyLS6ER7CGHWVUwKPMkxSL9ECtdSNV6AdXEJ5omHQV77C03QgqpMO4tiZCR0ZQ0LoZEXXjg0Mbadk2gFmUSHEXliXrD_iYWOBQ-kryWJIj2Q2OuSgxj3jQgBN_XEjxvOkT4bOEvSS1iI5s8xdu3",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJnW10u48OHWARbTnf_SzWWWU",
+      "plus_code": {
+        "compound_code": "6XP9+FV 松本市、長野県",
+        "global_code": "8Q8V6XP9+FV"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

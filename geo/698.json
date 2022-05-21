@@ -1,88 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "セゾンＭＫ",
-        "short_name": "セゾンＭＫ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "東鶴賀町",
-        "short_name": "東鶴賀町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0811",
-        "short_name": "380-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0811 長野県長野市東鶴賀町１７ セゾンＭＫ",
-    "geometry": {
-      "location": {
-        "lat": 36.652699,
-        "lng": 138.198823
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6540346802915,
-          "lng": 138.2002976302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0814 長野県長野市鶴賀 １４５７番地",
+      "geometry": {
+        "location": {
+          "lat": 36.6516731,
+          "lng": 138.1937711
         },
-        "southwest": {
-          "lat": 36.6513367197085,
-          "lng": 138.1975996697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65299062989273,
+            "lng": 138.1951197798927
+          },
+          "southwest": {
+            "lat": 36.65029097010729,
+            "lng": 138.1924201201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3dxZkvWGHWARlOvNSHbavNA",
-    "plus_code": {
-      "compound_code": "M53X+3G 日本、長野県長野市",
-      "global_code": "8Q8WM53X+3G"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "つばめタクシー",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113177172218939808584\">Taro Kikuchi</a>"
+          ],
+          "photo_reference": "Aap_uEBw85sj6nCH6RgEtJj02jx_1BXVr50Qu-CxvWHd7V8KIjLH1PQgpplTE30bSo2O2zVMLNfbKlL9nVKdKINPw31HTEKUOihckESF2cKhUeQpRzjVGQLuOzHWJF4L0x3F1olZa46UoJHECrl6JA-2VCbqenzd8P5vlSxlyRINgPn1c1qb",
+          "width": 3455
+        }
+      ],
+      "place_id": "ChIJJTle5POGHWARTWMcwGQIlR0",
+      "plus_code": {
+        "compound_code": "M52V+MG 長野市、長野県",
+        "global_code": "8Q8WM52V+MG"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,77 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０７０",
-        "short_name": "２０７０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大島",
-        "short_name": "大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3304",
-        "short_name": "399-3304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島２０７０",
-    "geometry": {
-      "location": {
-        "lat": 35.6038661,
-        "lng": 137.8936734
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.60514293029149,
-          "lng": 137.8949901802915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島２１８１−１",
+      "geometry": {
+        "location": {
+          "lat": 35.60340559999999,
+          "lng": 137.8941676
         },
-        "southwest": {
-          "lat": 35.6024449697085,
-          "lng": 137.8922922197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.60476322989273,
+            "lng": 137.8955863298927
+          },
+          "southwest": {
+            "lat": 35.60206357010728,
+            "lng": 137.8928866701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "JAみなみ信州 松川インター もなりん",
+      "photos": [
+        {
+          "height": 814,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116384611566914050254\">hiroaki maejima</a>"
+          ],
+          "photo_reference": "Aap_uEAJebSdDgSeZs3EMX3RhZyuRWJ4jEAElbNhTWUmbn9uoFH4O23BU24Fb-5_KNZUNjhzdbo3RIz_v6-aO93LLQzWbRdNcXR0tskcZIJS2BXZ47R9HHtvWZZa29-9wdsNQC15WK5E2ev-DNOeyL_xY6anxCBYRbE9TYh-NbHVosBh6g2J",
+          "width": 1085
+        }
+      ],
+      "place_id": "ChIJq6lrh7KRHGAR-1NelhlS3Uw",
+      "plus_code": {
+        "compound_code": "JV3V+8M 松川町、長野県",
+        "global_code": "8Q7VJV3V+8M"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ8a0t7LKRHGARVPDf3_1XtWk",
-    "plus_code": {
-      "compound_code": "JV3V+GF 長野県松川町",
-      "global_code": "8Q7VJV3V+GF"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島２０７０",
+      "geometry": {
+        "location": {
+          "lat": 35.6038158,
+          "lng": 137.8936407
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.60514377989272,
+            "lng": 137.8949910298927
+          },
+          "southwest": {
+            "lat": 35.60244412010727,
+            "lng": 137.8922913701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ＪＡみなみ信州 松川インター直売所もなりん",
+      "place_id": "ChIJ8a0t7LKRHGARVPDf3_1XtWk",
+      "plus_code": {
+        "compound_code": "JV3V+GF 松川町、長野県",
+        "global_code": "8Q7VJV3V+GF"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

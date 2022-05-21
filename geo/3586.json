@@ -1,64 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0015 長野県諏訪市中洲 神宮寺２０１",
+      "geometry": {
+        "location": {
+          "lat": 35.9993494,
+          "lng": 138.1192327
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 36.00066277989272,
+            "lng": 138.1206699298927
+          },
+          "southwest": {
+            "lat": 35.99796312010728,
+            "lng": 138.1179702701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "甘栗の大商 上社前店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104915055683291703885\">Kenichi Ishii</a>"
+          ],
+          "photo_reference": "Aap_uECp8hHF_z2h8-OwbAHO6Tti9YMSpLZr0etcwMf7CyjDZHbenVWdDKdafFCEBDySVGZ_qufta56hJ1LCXJE0EDXR77CHwbcuXV-EAnQoZNdlY-BkWXe6YPWtmWO55IiBIa7pvLh4Ju0WJl4S9EQPhT8x-MKHpqywz1CXTe4rraSCUWFg",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ0zxxvFhWHGAR3rTRSqlAY9k",
+      "plus_code": {
+        "compound_code": "X4X9+PM 諏訪市、長野県",
+        "global_code": "8Q7WX4X9+PM"
+      },
+      "types": [
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０２０−１",
-        "short_name": "１０２０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北中",
-        "short_name": "北中",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "栗田",
-        "short_name": "栗田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0927",
-        "short_name": "380-0927",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0927 長野県長野市栗田北中１０２０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.641909,
-        "lng": 138.189921
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6432077802915,
-          "lng": 138.1911880302915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒380-0927 長野県長野市栗田北中１０２０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.641909,
+          "lng": 138.189921
         },
-        "southwest": {
-          "lat": 36.6405098197085,
-          "lng": 138.1884900697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64320862989272,
+            "lng": 138.1911888798927
+          },
+          "southwest": {
+            "lat": 36.64050897010728,
+            "lng": 138.1884892201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL6HPxZOGHWARmMXrdSxZExo",
-    "plus_code": {
-      "compound_code": "J5RQ+QX 日本、長野県長野市",
-      "global_code": "8Q8WJ5RQ+QX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ウインズイースト",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101425074386235227702\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECYkRFJbbiDlKuIP8yIaSzV8WYBeaXozdhqrXKtn6ksVOegT1CdC9futEhpw0z39ru0_yxPWkgq3i2-2HubO3dGPrkkI7akbkBQ4VlsQTMfLNsp9-vBDTqaCpM0eF6AG6l4pyo8vCaqz61CbiC5RVH8pDp5tP459znDAdJqCQZCjy56",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJL6HPxZOGHWARmMXrdSxZExo",
+      "plus_code": {
+        "compound_code": "J5RQ+QX 長野市、長野県",
+        "global_code": "8Q8WJ5RQ+QX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,83 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３７３",
-        "short_name": "２３７３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "権堂町",
-        "short_name": "権堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0907",
-        "short_name": "380-0907",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0907 長野県長野市鶴賀権堂町２３７３",
-    "geometry": {
-      "location": {
-        "lat": 36.6530708,
-        "lng": 138.1892366
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6544197802915,
-          "lng": 138.1905855802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0907 長野県長野市鶴賀権堂町２３７３",
+      "geometry": {
+        "location": {
+          "lat": 36.6530708,
+          "lng": 138.1892366
         },
-        "southwest": {
-          "lat": 36.65172181970851,
-          "lng": 138.1878876197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65442062989273,
+            "lng": 138.1905864298927
+          },
+          "southwest": {
+            "lat": 36.65172097010728,
+            "lng": 138.1878867701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "ナン&カレー専門店ビアホールトピ",
+      "place_id": "ChIJ6_J9CfGHHWARDbowt15fYpk",
+      "plus_code": {
+        "compound_code": "M53Q+6M 長野市、長野県",
+        "global_code": "8Q8WM53Q+6M"
+      },
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ6_J9CfGHHWARDbowt15fYpk",
-    "plus_code": {
-      "compound_code": "M53Q+6M 日本、長野県長野市",
-      "global_code": "8Q8WM53Q+6M"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0000 長野県長野市鶴賀２３７３",
+      "geometry": {
+        "location": {
+          "lat": 36.6530599,
+          "lng": 138.1892281
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.65440972989271,
+            "lng": 138.1905779298927
+          },
+          "southwest": {
+            "lat": 36.65171007010726,
+            "lng": 138.1878782701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ライブレストラン ビアホールトピ",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111591554454799768923\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDQgHkcM4MDorlXjhZo-19Ec0jNMskSotu9Lz2agzGrvFcV43fvk7cp5ci6kLNdkKql8dkNAYw45aMYcSAcsTvOegC-yM00dU2EVWM8P8fEpVfSayWbU1aoHLVZX8fGsezCd65rzuiryddxOizZZks9twG1lziy7eEiw8Bl1plrrtzx",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJXcso3O-GHWARJS-qtBASp9I",
+      "plus_code": {
+        "compound_code": "M53Q+6M 長野市、長野県",
+        "global_code": "8Q8WM53Q+6M"
+      },
+      "types": [
+        "cafe",
+        "bar",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

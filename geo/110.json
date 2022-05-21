@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３０５",
-        "short_name": "２３０５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２３０５",
-    "geometry": {
-      "location": {
-        "lat": 36.7354712,
-        "lng": 138.4281284
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7367633802915,
-          "lng": 138.4294696802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２３０５",
+      "geometry": {
+        "location": {
+          "lat": 36.7354447,
+          "lng": 138.4281284
         },
-        "southwest": {
-          "lat": 36.7340654197085,
-          "lng": 138.4267717197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73676422989272,
+            "lng": 138.4294705298927
+          },
+          "southwest": {
+            "lat": 36.73406457010728,
+            "lng": 138.4267708701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ406BOpv0HWARsqxHOx1AQdE",
-    "plus_code": {
-      "compound_code": "PCPH+57 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCPH+57"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "安代館 (andai-kan)",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110862703572487760169\">柳哲哉</a>"
+          ],
+          "photo_reference": "Aap_uEA9M82z1RzDvNlGaYJTle97K9a6Ee3WnaIcK4eafgGJBiQiNAldBBxQrfzm77dxEZA8_WD4lpkSnwHIXJ5YEV3O3pbJWu76QHStvMb8Ko-VoDPPQ3rzSX0gGq7-Cqin1_2U5Cc_yYf3f-amVqbnxDX0tbALClheo8UA4xW_EMGSyCCh",
+          "width": 2160
+        }
+      ],
+      "place_id": "ChIJ406BOpv0HWARsqxHOx1AQdE",
+      "plus_code": {
+        "compound_code": "PCPH+57 山ノ内町、長野県",
+        "global_code": "8Q8WPCPH+57"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

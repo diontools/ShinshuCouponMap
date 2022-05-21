@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0024",
-        "short_name": "386-0024",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0024 長野県上田市大手１丁目２−２",
-    "geometry": {
-      "location": {
-        "lat": 36.3991966,
-        "lng": 138.2498321
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.40048083029149,
-          "lng": 138.2511478302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0024 長野県上田市大手１丁目２−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3991966,
+          "lng": 138.2498321
         },
-        "southwest": {
-          "lat": 36.39778286970849,
-          "lng": 138.2484498697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.40048167989272,
+            "lng": 138.2511486798927
+          },
+          "southwest": {
+            "lat": 36.39778202010728,
+            "lng": 138.2484490201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJy8ck3dm8HWARxDyp69Y1OyA",
-    "plus_code": {
-      "compound_code": "96XX+MW 日本、長野県上田市",
-      "global_code": "8Q8W96XX+MW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "上田温泉ホテル祥園",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102504861519834189059\">One7</a>"
+          ],
+          "photo_reference": "Aap_uEDKgq1k9W6Y_WWdvMfks7Vx9N6wN5FSNHZjMavqR_j_t1Y7foPnyCNmQ8cUXbbJYmd06ldvIXPxAR8WRk4Jwb1KDLrEGvh4rez0BxN44pnEhiju_Nf5x0uoAovk9q89pfI1140_F6jJUnalQrwF6cJuDCW_g2Rwrj3odJfl4gMROLg5",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJy8ck3dm8HWARxDyp69Y1OyA",
+      "plus_code": {
+        "compound_code": "96XX+MW 上田市、長野県",
+        "global_code": "8Q8W96XX+MW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

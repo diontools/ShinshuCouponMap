@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１−１７",
-        "short_name": "１１−１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢東",
-        "short_name": "軽井沢東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0104",
-        "short_name": "389-0104",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東１１−１７",
-    "geometry": {
-      "location": {
-        "lat": 36.3451963,
-        "lng": 138.63507
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.34651558029149,
-          "lng": 138.6365201302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東１１−１７",
+      "geometry": {
+        "location": {
+          "lat": 36.3451956,
+          "lng": 138.6351479
         },
-        "southwest": {
-          "lat": 36.3438176197085,
-          "lng": 138.6338221697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34651642989272,
+            "lng": 138.6365209798927
+          },
+          "southwest": {
+            "lat": 36.34381677010727,
+            "lng": 138.6338213201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ11sYIHzTHWAR1V1ZH677N-U",
-    "plus_code": {
-      "compound_code": "8JWP+32 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JWP+32"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "竹風堂 軽井沢駅前店",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102449804548513957575\">カレーと珈琲</a>"
+          ],
+          "photo_reference": "Aap_uEAV7fXTLVNDY0Sa3Mz-VioI83yBWX6Xg8chO5E2MVgsQx43H02fwm8HdurGjr1EaHmdBeAuHOPpJta_3rnZmTirpXsI-ywxYvj8Pr97IfgDVAAlL3hS1bkSM0G_YiEhxylnW_L46cAPAbfZe73SQr8Mbq4iUmAglqK6VzNrZu0P9rr1",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ11sYIHzTHWAR1V1ZH677N-U",
+      "plus_code": {
+        "compound_code": "8JWP+32 軽井沢町、長野県",
+        "global_code": "8Q8W8JWP+32"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

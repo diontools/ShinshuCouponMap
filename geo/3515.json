@@ -1,84 +1,92 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "霧ケ峰",
-        "short_name": "霧ケ峰",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0012",
-        "short_name": "392-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0012 長野県諏訪市四賀霧ケ峰",
-    "geometry": {
-      "location": {
-        "lat": 36.0925468,
-        "lng": 138.1857626
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0939717302915,
-          "lng": 138.1871206302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、長野県諏訪市四賀霧ケ峰",
+      "geometry": {
+        "location": {
+          "lat": 36.0925468,
+          "lng": 138.1857626
         },
-        "southwest": {
-          "lat": 36.0912737697085,
-          "lng": 138.1844226697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.09397257989272,
+            "lng": 138.1871214798927
+          },
+          "southwest": {
+            "lat": 36.09127292010728,
+            "lng": 138.1844218201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "長野県 諏訪市 ドライブイン霧ヶ峰富士見台",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115366373619596773670\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB4Fy3WPFz6bTjkxEv--gYcy6gdykneIkXLcES9Eebi9LWRq7r7cZ0-i2cMBNa4aIHlO4TfdLG2UuwJFcZa6xCCpf8g_RlC-SFWIL-fzcarHl01tZ5zYvI8Bc_851tiSsbI0cQ7etXGYFmoGMYhFG92NVjA5o9WxTdZnCVCMgl3p-gn",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJgR2QsJ1THGARHR7TM9qrYtg",
+      "plus_code": {
+        "compound_code": "35VP+28 諏訪市、長野県",
+        "global_code": "8Q8W35VP+28"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJgR2QsJ1THGARHR7TM9qrYtg",
-    "plus_code": {
-      "compound_code": "35VP+28 長野県諏訪市",
-      "global_code": "8Q8W35VP+28"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0008 長野県諏訪市四賀霧ケ峰 高原",
+      "geometry": {
+        "location": {
+          "lat": 36.0925264,
+          "lng": 138.1858396
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.09396107989272,
+            "lng": 138.1871934298927
+          },
+          "southwest": {
+            "lat": 36.09126142010728,
+            "lng": 138.1844937701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "霧ヶ峰富士見台",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111401958395678040645\">TAKAKUN F</a>"
+          ],
+          "photo_reference": "Aap_uEBsAEEjQpf-JjIKcneYptCon3rJJP2W-3kH4CA38Q3KHosIJEhEo97kwpf-7TCsN8RRwPhGdELEjLHDyqkwa9esbxZ9yVaxQRaymAMwY81UDtd3MojS1QptwiIZxz1hNbfaiIfX6FrWBsTsRHKPGcFgv9V126-0yMUEVfFANYAbysg",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJl6Fc_4VWHGARescT60RK3Nk",
+      "plus_code": {
+        "compound_code": "35VP+28 諏訪市、長野県",
+        "global_code": "8Q8W35VP+28"
+      },
+      "types": [
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

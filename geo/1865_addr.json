@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５７６−１",
-        "short_name": "５７６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊科南穂高",
-        "short_name": "豊科南穂高",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8201",
-        "short_name": "399-8201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8201 長野県安曇野市豊科南穂高５７６−１",
-    "geometry": {
-      "location": {
-        "lat": 36.30221909999999,
-        "lng": 137.9121318
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3036720302915,
-          "lng": 137.9135587302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-8201 長野県安曇野市豊科南穂高５７６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.30221909999999,
+          "lng": 137.9121318
         },
-        "southwest": {
-          "lat": 36.3009740697085,
-          "lng": 137.9108607697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30367287989272,
+            "lng": 137.9135595798927
+          },
+          "southwest": {
+            "lat": 36.30097322010727,
+            "lng": 137.9108599201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJy8ssAlBtHWARoU1rxs-uNgc",
-    "plus_code": {
-      "compound_code": "8W26+VV 長野県安曇野市",
-      "global_code": "8Q8V8W26+VV"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-8201 長野県安曇野市豊科南穂高５７６−１",
+      "place_id": "ChIJy8ssAlBtHWARoU1rxs-uNgc",
+      "plus_code": {
+        "compound_code": "8W26+VV 安曇野市、長野県",
+        "global_code": "8Q8V8W26+VV"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

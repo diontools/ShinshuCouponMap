@@ -1,64 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県佐久市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.316,
-          "lng": 138.6370677
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0021 長野県佐久市長土呂６４−３",
+      "geometry": {
+        "location": {
+          "lat": 36.290081,
+          "lng": 138.480255
         },
-        "southwest": {
-          "lat": 36.1083353,
-          "lng": 138.2799026
+        "viewport": {
+          "northeast": {
+            "lat": 36.29135657989272,
+            "lng": 138.4814815298927
+          },
+          "southwest": {
+            "lat": 36.28865692010728,
+            "lng": 138.4787818701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2487978,
-        "lng": 138.47685
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.316,
-          "lng": 138.6370677
-        },
-        "southwest": {
-          "lat": 36.1083353,
-          "lng": 138.2799026
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "軽井沢ブルワリー",
+      "photos": [
+        {
+          "height": 1367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114098785374204709644\">軽井沢ブルワリー（株）</a>"
+          ],
+          "photo_reference": "Aap_uEAvVWlIxbSSiybu6-Z7T_jFvFHADMk2n4oyzJ-5EBwYwoSt4mks0teAv8wcXL66kpIsyBrTw1P_hLGQ3enfd0GjNeP9QFSAvNDBtR8edpyetuYKsQM8f8aFeXePP8ZiKQRPj07-9mz7aFRuKKvr4TOE_4nzpgIqtRsLiFSUtn3YFSD0",
+          "width": 2048
         }
-      }
+      ],
+      "place_id": "ChIJKQK-1XjMHWARPzAK0uSzplM",
+      "plus_code": {
+        "compound_code": "7FRJ+24 佐久市、長野県",
+        "global_code": "8Q8W7FRJ+24"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJq4kaq_I0HGARPt0mcrpk7i8",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0009 長野県佐久市小田井１１１９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.29819630000001,
+          "lng": 138.4963803
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.29954682989272,
+            "lng": 138.4976975298927
+          },
+          "southwest": {
+            "lat": 36.29684717010728,
+            "lng": 138.4949978701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ヤッホーブルーイング佐久醸造所",
+      "photos": [
+        {
+          "height": 512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113079991050103079996\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB1sto35aBmMDfiqXZ8qsUNOMCR03zphzGNWbvMd5agogGMV3WH7kq_fo-EyLZDUiF91MaUGVZrklBzPY6N-voIsK561Y8XzxD8UgHIVgD0XrBHgegLQyjwdjB3M8gQi2X-adZgmNN-bPacGbAKqc_GOPbf9zD_GQZWvm77guISvxqY",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJczyTB2fMHWAR-g9JeiXuO8w",
+      "plus_code": {
+        "compound_code": "7FXW+7F 佐久市、長野県",
+        "global_code": "8Q8W7FXW+7F"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

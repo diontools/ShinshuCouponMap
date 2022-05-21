@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０４９−１５０",
-        "short_name": "２０４９−１５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "八郡",
-        "short_name": "八郡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久穂町",
-        "short_name": "佐久穂町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0704",
-        "short_name": "384-0704",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0704 長野県南佐久郡佐久穂町八郡２０４９−１５０",
-    "geometry": {
-      "location": {
-        "lat": 36.0758328,
-        "lng": 138.3911135
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0770636802915,
-          "lng": 138.3925574802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0704 長野県南佐久郡佐久穂町八郡２０４９−１５０",
+      "geometry": {
+        "location": {
+          "lat": 36.0758328,
+          "lng": 138.3911135
         },
-        "southwest": {
-          "lat": 36.0743657197085,
-          "lng": 138.3898595197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07706452989272,
+            "lng": 138.3925583298927
+          },
+          "southwest": {
+            "lat": 36.07436487010727,
+            "lng": 138.3898586701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJPeuX1BpIHGARExFjEFNUIds",
-    "plus_code": {
-      "compound_code": "39GR+8C 長野県佐久穂町",
-      "global_code": "8Q8W39GR+8C"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0704 長野県南佐久郡佐久穂町八郡２０４９−１５０",
+      "place_id": "ChIJPeuX1BpIHGARExFjEFNUIds",
+      "plus_code": {
+        "compound_code": "39GR+8C 佐久穂町、長野県",
+        "global_code": "8Q8W39GR+8C"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

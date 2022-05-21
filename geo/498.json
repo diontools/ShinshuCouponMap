@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８５２−１",
-        "short_name": "１８５２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "屋代",
-        "short_name": "屋代",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0007",
-        "short_name": "387-0007",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0007 長野県千曲市屋代１８５２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.5389819,
-        "lng": 138.1269253
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5402771302915,
-          "lng": 138.1282779802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0007 長野県千曲市屋代１８５２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.5389847,
+          "lng": 138.1269251
         },
-        "southwest": {
-          "lat": 36.5375791697085,
-          "lng": 138.1255800197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.54027797989273,
+            "lng": 138.1282788298927
+          },
+          "southwest": {
+            "lat": 36.53757832010729,
+            "lng": 138.1255791701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL_QgmiWDHWARMEokeVVkSCw",
-    "plus_code": {
-      "compound_code": "G4QG+HQ 日本、長野県千曲市",
-      "global_code": "8Q8WG4QG+HQ"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "生坂屋商店",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117098045572170632909\">69 kurotarou</a>"
+          ],
+          "photo_reference": "Aap_uED3pT_WuJEmtfDnQpU8-JlosnwQRzQgsNUWM8mpvWn2H9KPOIh-NzJ2K3q8LonUdWyURLVzTstmCaa2HZzW8mMOiOg57vBYE4dT4jaaquFe005tePAsB92E6tPz1BHIr1eqPxayFkEtBEhhmXlac3qP72l-mANBz_EaIpF8fYQagKPz",
+          "width": 1836
+        }
+      ],
+      "place_id": "ChIJL_QgmiWDHWARMEokeVVkSCw",
+      "plus_code": {
+        "compound_code": "G4QG+HQ 千曲市、長野県",
+        "global_code": "8Q8WG4QG+HQ"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

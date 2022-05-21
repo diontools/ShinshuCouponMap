@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 上町973",
-    "geometry": {
-      "location": {
-        "lat": 36.6951471,
-        "lng": 138.3152445
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6964001802915,
-          "lng": 138.3166035302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 上町973",
+      "geometry": {
+        "location": {
+          "lat": 36.6951,
+          "lng": 138.3152321
         },
-        "southwest": {
-          "lat": 36.69370221970851,
-          "lng": 138.3139055697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69640102989273,
+            "lng": 138.3166043798928
+          },
+          "southwest": {
+            "lat": 36.69370137010728,
+            "lng": 138.3139047201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0Z5Wtl6JHWAR3ZmCCA1QEOk",
-    "plus_code": {
-      "compound_code": "M8W8+33 日本、長野県小布施町",
-      "global_code": "8Q8WM8W8+33"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "日本のあかり博物館",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115834360164471329640\">midnight metal</a>"
+          ],
+          "photo_reference": "Aap_uEANtUF9Z8haj0B-62l3klto4kKj2qGdaOY7LLLxOZ9zHJJWt-xdV7SBf_kzqywJ3rQONgIoGIWTVP9b6KI4n9DU8Xf0GGNf3r3elKRknhk4bxI94Ipp8M66xvqO_ZUA_bwkmm4rb8idmaAvFXJXoUr1Zqn8BBltRloo0-GgxlvNjC1u",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ0Z5Wtl6JHWAR3ZmCCA1QEOk",
+      "plus_code": {
+        "compound_code": "M8W8+33 小布施町、長野県",
+        "global_code": "8Q8WM8W8+33"
+      },
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

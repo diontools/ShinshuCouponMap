@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３７３０−１５６",
-        "short_name": "３７３０−１５６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中箕輪",
-        "short_name": "中箕輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "箕輪町",
-        "short_name": "箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4601",
-        "short_name": "399-4601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪３７３０−１５６",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9352856,
-          "lng": 137.9661152
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪３７３０−１５６",
+      "geometry": {
+        "location": {
+          "lat": 35.9351359,
+          "lng": 137.9660122
         },
-        "southwest": {
-          "lat": 35.9349877,
-          "lng": 137.9659011
+        "viewport": {
+          "northeast": {
+            "lat": 35.93639417989272,
+            "lng": 137.9673321298927
+          },
+          "southwest": {
+            "lat": 35.93369452010727,
+            "lng": 137.9646324701072
+          }
         }
       },
-      "location": {
-        "lat": 35.9351359,
-        "lng": 137.9660122
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9364681802915,
-          "lng": 137.9673571302915
-        },
-        "southwest": {
-          "lat": 35.9337702197085,
-          "lng": 137.9646591697085
-        }
-      }
-    },
-    "place_id": "ChIJ5SRgq6b7HGAR0ccieNRV64g",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-4601 長野県上伊那郡箕輪町中箕輪３７３０−１５６",
+      "place_id": "ChIJ5SRgq6b7HGAR0ccieNRV64g",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

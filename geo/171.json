@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北志賀竜王高原",
-        "short_name": "北志賀竜王高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町北志賀竜王高原",
-    "geometry": {
-      "location": {
-        "lat": 36.7859132,
-        "lng": 138.4542143
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7873896802915,
-          "lng": 138.4555935302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町北志賀竜王高原",
+      "geometry": {
+        "location": {
+          "lat": 36.7859132,
+          "lng": 138.4542143
         },
-        "southwest": {
-          "lat": 36.7846917197085,
-          "lng": 138.4528955697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.78739052989272,
+            "lng": 138.4555943798927
+          },
+          "southwest": {
+            "lat": 36.78469087010728,
+            "lng": 138.4528947201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6pqZpf0HWARWK46sv6R13k",
-    "plus_code": {
-      "compound_code": "QFP3+9M 日本、長野県山ノ内町",
-      "global_code": "8Q8WQFP3+9M"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "信州・北志賀高原 ホテル竜王",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116945144472445174801\">รถเช่าในญี่ปุ่น พร้อมคนขับ{คนไทย} ND TOUR JAPAN</a>"
+          ],
+          "photo_reference": "Aap_uECEQThr1MRTi__4yy_Nt_2TncutsFlkhHeClLFEWLf9t9WMHb9bBvFWQjtmQnwTagDVWOhBp6vU7k9iogUaQPkiLgreJvVUj5Vta2fNcJeZp_8tWorPxi_1Myy77nOp29pONzVz0xAAzRft_zZ4Ub9AUD06lN93KOWxmqxIBACr8OeX",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJq6pqZpf0HWARWK46sv6R13k",
+      "plus_code": {
+        "compound_code": "QFP3+9M 山ノ内町、長野県",
+        "global_code": "8Q8WQFP3+9M"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

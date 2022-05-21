@@ -1,94 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "知久町",
-        "short_name": "知久町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0045",
-        "short_name": "395-0045",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0045 長野県飯田市知久町１丁目１７",
-    "geometry": {
-      "location": {
-        "lat": 35.5145285,
-        "lng": 137.8249135
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5158306802915,
-          "lng": 137.8262255302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0045 長野県飯田市知久町１丁目１７",
+      "geometry": {
+        "location": {
+          "lat": 35.5145285,
+          "lng": 137.8249135
         },
-        "southwest": {
-          "lat": 35.5131327197085,
-          "lng": 137.8235275697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51583152989273,
+            "lng": 137.8262263798927
+          },
+          "southwest": {
+            "lat": 35.51313187010728,
+            "lng": 137.8235267201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJeya50JWZHGAR5kSkvLVij6U",
-    "plus_code": {
-      "compound_code": "GR7F+RX 長野県飯田市",
-      "global_code": "8Q7VGR7F+RX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "あじの店つきぢ",
+      "photos": [
+        {
+          "height": 1970,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102115508126800457011\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEATYUhAyiEBTzQ4j92_D77VwPev-5qHdVeri8Sv56yE5cjmX9Sy-8ig3RgELe9cAPOC0_KcsOd2sbgDg2yei8gp5T_dW48_XtDvrRjW9UtLJomApczWXu8kK7K8lJZ3Fh8RyMOY3_32n7e6OkitDAW1xuhJP2HwHBE92XONT9XnNrCL",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJeya50JWZHGAR5kSkvLVij6U",
+      "plus_code": {
+        "compound_code": "GR7F+RX 飯田市、長野県",
+        "global_code": "8Q7VGR7F+RX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

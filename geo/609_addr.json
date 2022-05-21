@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6447647,
-          "lng": 138.1883884
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町",
+      "geometry": {
+        "location": {
+          "lat": 36.6438602,
+          "lng": 138.1872849
         },
-        "southwest": {
-          "lat": 36.6431649,
-          "lng": 138.186385
+        "viewport": {
+          "northeast": {
+            "lat": 36.64531462989272,
+            "lng": 138.1887365298927
+          },
+          "southwest": {
+            "lat": 36.64261497010727,
+            "lng": 138.1860368701072
+          }
         }
       },
-      "location": {
-        "lat": 36.6438602,
-        "lng": 138.1872849
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6453137802915,
-          "lng": 138.1887356802915
-        },
-        "southwest": {
-          "lat": 36.6426158197085,
-          "lng": 138.1860377197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0825 長野県長野市南長野末広町",
+      "photos": [
+        {
+          "height": 5333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112853017341181369965\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAVjoc_DdM15KA8CNG2vSM_S0wVkQcdjAp08f-DaivPP9YJ2gHKPUPeoXDDVPIWisXqZ4zu6RkQ5JtqNipocaU-lR2lp1r3C7lV1wQEl8VCQvVtAv3IVyC3VhnNOUSniCMLs1dZDa_tW-a_1rwEfvehkNCdDqIIsjDbeSzyPzoYmklZ",
+          "width": 3000
         }
-      }
-    },
-    "place_id": "ChIJ5Z-T2ZKGHWARq-vctZ8-Gg4",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ5Z-T2ZKGHWARq-vctZ8-Gg4",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

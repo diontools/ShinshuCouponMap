@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５",
-        "short_name": "５５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "柳町",
-        "short_name": "柳町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0805",
-        "short_name": "380-0805",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0805 長野県長野市柳町５５",
-    "geometry": {
-      "location": {
-        "lat": 36.653509,
-        "lng": 138.2009389
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6548124802915,
-          "lng": 138.2022805302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0805 長野県長野市柳町５５",
+      "geometry": {
+        "location": {
+          "lat": 36.653509,
+          "lng": 138.2009389
         },
-        "southwest": {
-          "lat": 36.6521145197085,
-          "lng": 138.1995825697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65481332989272,
+            "lng": 138.2022813798928
+          },
+          "southwest": {
+            "lat": 36.65211367010728,
+            "lng": 138.1995817201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJQ_xXFl-GHWARbmGTjxCQ4sU",
-    "plus_code": {
-      "compound_code": "M632+C9 長野県長野市",
-      "global_code": "8Q8WM632+C9"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0805 長野県長野市柳町５５",
+      "place_id": "ChIJQ_xXFl-GHWARbmGTjxCQ4sU",
+      "plus_code": {
+        "compound_code": "M632+C9 長野市、長野県",
+        "global_code": "8Q8WM632+C9"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,81 +1,77 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７９２−４１３",
-        "short_name": "１７９２−４１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "渋崎",
-        "short_name": "渋崎",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0010",
-        "short_name": "392-0010",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0010 長野県諏訪市渋崎１７９２−４１３",
-    "geometry": {
-      "location": {
-        "lat": 36.0387242,
-        "lng": 138.0970229
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0399777802915,
-          "lng": 138.0984115802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0010 長野県諏訪市渋崎１７９２−４１３",
+      "geometry": {
+        "location": {
+          "lat": 36.0385773,
+          "lng": 138.0969414
         },
-        "southwest": {
-          "lat": 36.0372798197085,
-          "lng": 138.0957136197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03997862989272,
+            "lng": 138.0984124298927
+          },
+          "southwest": {
+            "lat": 36.03727897010728,
+            "lng": 138.0957127701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "プレステージ諏訪湖",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106223895585009031869\">Yamakiya Shouzaemon</a>"
+          ],
+          "photo_reference": "Aap_uEBiPvB1U0JLaSK8QywqGuqlW3HKAeLI1ddHop4t4HRiWU82FEcUAlvNmRxyUa0bNxRpiuAr7_GkNvTrxY0T-ruk_x7ktQz7KObJcTrboHuSXdvy7KBy8KbkQ7513pQNQBhXM6RGXeIqAUF3Kq2vmrZQgJQMjx5y3YOutEafw6D_xV9b",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ-WzG5xlVHGAR4Rs4M_IGCBI",
+      "plus_code": {
+        "compound_code": "23QW+FR 諏訪市、長野県",
+        "global_code": "8Q8W23QW+FR"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ-WzG5xlVHGAR4Rs4M_IGCBI",
-    "plus_code": {
-      "compound_code": "23QW+FR 長野県諏訪市",
-      "global_code": "8Q8W23QW+FR"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0010 長野県諏訪市渋崎１７９２−４１３",
+      "geometry": {
+        "location": {
+          "lat": 36.0388097,
+          "lng": 138.0970213
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.04024797989273,
+            "lng": 138.0984223298927
+          },
+          "southwest": {
+            "lat": 36.03754832010728,
+            "lng": 138.0957226701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "プレステージ諏訪湖管理事務所",
+      "place_id": "ChIJo-KcHJdVHGARkM6LGGjef6E",
+      "plus_code": {
+        "compound_code": "23QW+GR 諏訪市、長野県",
+        "global_code": "8Q8W23QW+GR"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

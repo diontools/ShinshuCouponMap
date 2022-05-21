@@ -1,83 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "荒屋",
-        "short_name": "荒屋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "三輪",
-        "short_name": "三輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0803",
-        "short_name": "380-0803",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0803 長野県長野市三輪荒屋",
-    "geometry": {
-      "location": {
-        "lat": 36.653527,
-        "lng": 138.207078
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6548779802915,
-          "lng": 138.2083591302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-2212 長野県長野市小島田町２１３１−１ アルピコ交通長野支社",
+      "geometry": {
+        "location": {
+          "lat": 36.6009022,
+          "lng": 138.1933515
         },
-        "southwest": {
-          "lat": 36.6521800197085,
-          "lng": 138.2056611697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.60224842989272,
+            "lng": 138.1947118298927
+          },
+          "southwest": {
+            "lat": 36.59954877010728,
+            "lng": 138.1920121701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmZl1PCSHHWARsctFWWUeBss",
-    "plus_code": {
-      "compound_code": "M634+CR 日本、長野県長野市",
-      "global_code": "8Q8WM634+CR"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アルピコタクシー 長野営業所 配車センター",
+      "place_id": "ChIJg1rPvVGEHWARwnsQOdMytVY",
+      "plus_code": {
+        "compound_code": "J52V+97 長野市、長野県",
+        "global_code": "8Q8WJ52V+97"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,81 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４７６９−１４",
-        "short_name": "４７６９−１４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "内山",
-        "short_name": "内山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0055",
-        "short_name": "394-0055",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0055 長野県岡谷市内山４７６９−１４",
-    "geometry": {
-      "location": {
-        "lat": 36.0722196,
-        "lng": 138.0293628
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0734877302915,
-          "lng": 138.0308186302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0055 長野県岡谷市内山４７６９−１４",
+      "geometry": {
+        "location": {
+          "lat": 36.0722196,
+          "lng": 138.0293628
         },
-        "southwest": {
-          "lat": 36.0707897697085,
-          "lng": 138.0281206697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07348857989273,
+            "lng": 138.0308194798927
+          },
+          "southwest": {
+            "lat": 36.07078892010728,
+            "lng": 138.0281198201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJv2e_inwBHWAR1e9UOfZ-i8s",
-    "plus_code": {
-      "compound_code": "32CH+VP 長野県岡谷市",
-      "global_code": "8Q8W32CH+VP"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "やまびこスケートの森",
+      "place_id": "ChIJv2e_inwBHWAR1e9UOfZ-i8s",
+      "plus_code": {
+        "compound_code": "32CH+VP 岡谷市、長野県",
+        "global_code": "8Q8W32CH+VP"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

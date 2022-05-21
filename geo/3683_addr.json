@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "川路",
-        "short_name": "川路",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2431",
-        "short_name": "399-2431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2431 長野県飯田市川路",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.4631283,
-          "lng": 137.8219139
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-2431 長野県飯田市川路",
+      "geometry": {
+        "location": {
+          "lat": 35.4528448,
+          "lng": 137.8081645
         },
-        "southwest": {
-          "lat": 35.42941630000001,
-          "lng": 137.7946664
+        "viewport": {
+          "northeast": {
+            "lat": 35.4631283,
+            "lng": 137.8219139
+          },
+          "southwest": {
+            "lat": 35.42941630000001,
+            "lng": 137.7946664
+          }
         }
       },
-      "location": {
-        "lat": 35.4528448,
-        "lng": 137.8081645
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4631283,
-          "lng": 137.8219139
-        },
-        "southwest": {
-          "lat": 35.42941630000001,
-          "lng": 137.7946664
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "川路",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110050945925009648476\">Ken Matsu</a>"
+          ],
+          "photo_reference": "Aap_uEBhbLDXCaFeJKVIWqDL0S-_jgo7SC7M-jvOSMxn0IhOP_p1bELCrNjDcIXVsztJGCYXoM--Chp8LcXLha2Rrp4_XCDfNUzkIg0lSYqXboDjVpEHkaanMFMnaCcyVHlxe4kQmekYxmoXsZn9THv3KA6tK0_Dm8zZP_7PJp5czABEr8wX",
+          "width": 2138
         }
-      }
-    },
-    "place_id": "ChIJAVASpdueHGARQoVR0_yeun4",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJAVASpdueHGARQoVR0_yeun4",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

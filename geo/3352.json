@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "箕輪町",
-        "short_name": "箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上伊那郡箕輪町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.962536,
-          "lng": 138.0907445
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4600 長野県上伊那郡箕輪町８０３０−８",
+      "geometry": {
+        "location": {
+          "lat": 35.922234,
+          "lng": 137.9892252
         },
-        "southwest": {
-          "lat": 35.8776963,
-          "lng": 137.8868196
+        "viewport": {
+          "northeast": {
+            "lat": 35.92362747989272,
+            "lng": 137.9906310298927
+          },
+          "southwest": {
+            "lat": 35.92092782010727,
+            "lng": 137.9879313701072
+          }
         }
       },
-      "location": {
-        "lat": 35.9150744,
-        "lng": 137.9819077
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.962536,
-          "lng": 138.0907445
-        },
-        "southwest": {
-          "lat": 35.8776963,
-          "lng": 137.8868196
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "海鮮食堂さかなや 箕輪店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105413185954738118743\">奈美小</a>"
+          ],
+          "photo_reference": "Aap_uEB2gfNTkm0OAV5n1CqHKqvT1DejRsOjvIIvtdRBGSNERwckFBeWJQwdpmeCLwsRNX_9v-_WBpcbX0SeYoX5yF9PFtHoe6Uxh-f7DQJv500JboShZt_c7T6lC10mkBqROLSaPcTpVE-HTWv0dUN_pQ9NLtYErnLkvOFnj0HAj2wYHNY",
+          "width": 5333
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJX6FwATv6HGARKWSM3sVwUQg",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJNyC4hDr6HGARcwbfJkMqBj0",
+      "plus_code": {
+        "compound_code": "WXCQ+VM 箕輪町、長野県",
+        "global_code": "8Q7VWXCQ+VM"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６４４",
-        "short_name": "６４４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "旭",
-        "short_name": "旭",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2251",
-        "short_name": "389-2251",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2251 長野県飯山市旭６４４",
-    "geometry": {
-      "location": {
-        "lat": 36.8680214,
-        "lng": 138.350675
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8693520302915,
-          "lng": 138.3520290302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2251 長野県飯山市旭６４４",
+      "geometry": {
+        "location": {
+          "lat": 36.8680214,
+          "lng": 138.350675
         },
-        "southwest": {
-          "lat": 36.8666540697085,
-          "lng": 138.3493310697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.86935287989272,
+            "lng": 138.3520298798927
+          },
+          "southwest": {
+            "lat": 36.86665322010728,
+            "lng": 138.3493302201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJM8n32Q0Z9l8RdMYnhVC7I0s",
-    "plus_code": {
-      "compound_code": "V992+67 長野県飯山市",
-      "global_code": "8Q8WV992+67"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2251 長野県飯山市旭６４４",
+      "place_id": "ChIJM8n32Q0Z9l8RdMYnhVC7I0s",
+      "plus_code": {
+        "compound_code": "V992+67 飯山市、長野県",
+        "global_code": "8Q8WV992+67"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

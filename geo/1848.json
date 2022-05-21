@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県安曇野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4253478,
-          "lng": 137.9914004
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8205 長野県安曇野市豊科５６３７−１７",
+      "geometry": {
+        "location": {
+          "lat": 36.303476,
+          "lng": 137.9050019
         },
-        "southwest": {
-          "lat": 36.2374416,
-          "lng": 137.7011596
+        "viewport": {
+          "northeast": {
+            "lat": 36.30486202989272,
+            "lng": 137.9064076798927
+          },
+          "southwest": {
+            "lat": 36.30216237010728,
+            "lng": 137.9037080201073
+          }
         }
       },
-      "location": {
-        "lat": 36.30397860000001,
-        "lng": 137.9058007
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4253478,
-          "lng": 137.9914004
-        },
-        "southwest": {
-          "lat": 36.2374416,
-          "lng": 137.7011596
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "リラックス&エスティックSUMIRE",
+      "photos": [
+        {
+          "height": 1702,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108515094896554513517\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDzSQ2jeqeNe8ItGFlCKb0ftYy0gvCSzmjBQmgtSWg45YJIS4x7pCodlr0FnhpUAj8Z2-RWlFpqVIXVpggP7QVN2PtyU53JSOpuPM5gkWfPwRGWC6VFTC9Bmuyfew-85Yue5uwzjMOYglhB8yWrLEeZ-x75L-JhoOvfHPNIpg5zizoh",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJaQHawwZsHWARVuICyjW5jS0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJASeu7BJtHWARd0JDTlAoUZA",
+      "plus_code": {
+        "compound_code": "8W34+92 安曇野市、長野県",
+        "global_code": "8Q8V8W34+92"
+      },
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６７８０",
-        "short_name": "６７８０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "豊科南穂高",
-        "short_name": "豊科南穂高",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8201",
-        "short_name": "399-8201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8201 長野県安曇野市豊科南穂高６７８０",
-    "geometry": {
-      "location": {
-        "lat": 36.32624089999999,
-        "lng": 137.9055162
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3273194302915,
-          "lng": 137.9067302802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8201 長野県安曇野市豊科南穂高６７８０",
+      "geometry": {
+        "location": {
+          "lat": 36.3261533,
+          "lng": 137.9055855
         },
-        "southwest": {
-          "lat": 36.3246214697085,
-          "lng": 137.9040323197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32732027989272,
+            "lng": 137.9067311298927
+          },
+          "southwest": {
+            "lat": 36.32462062010728,
+            "lng": 137.9040314701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJV1i2jXVtHWARKtlzLXsX81c",
-    "plus_code": {
-      "compound_code": "8WG4+F6 日本、長野県安曇野市",
-      "global_code": "8Q8V8WG4+F6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ビレッジ安曇野",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101409287939545926097\">zakiyama08</a>"
+          ],
+          "photo_reference": "Aap_uEDJhqyaAN_sa1o5VMAhPipA8gQPTeE82uyW9QtxZ38deJaJf5DwR8HTggZ2ByJUL75VjFt886Dad4M5esawm9XX5uIkwHuaNMtjoFARnQ5o25CbeENVPl5WNw2IPgrcxslZVfqBH-GaxOMUePXGmdX01TVMmXbEwMmhwC_nxT_iOWst",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJV1i2jXVtHWARKtlzLXsX81c",
+      "plus_code": {
+        "compound_code": "8WG4+F6 安曇野市、長野県",
+        "global_code": "8Q8V8WG4+F6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

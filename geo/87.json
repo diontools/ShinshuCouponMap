@@ -1,99 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６",
-        "short_name": "２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１１７００",
-        "short_name": "１１７００",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "夜間瀬",
-        "short_name": "夜間瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0400",
-        "short_name": "381-0400",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0400 長野県下高井郡山ノ内町夜間瀬１１７００−２６",
-    "geometry": {
-      "location": {
-        "lat": 36.7882518,
-        "lng": 138.4502082
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7897017302915,
-          "lng": 138.4515795802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0400 長野県下高井郡山ノ内町１１７００−２６",
+      "geometry": {
+        "location": {
+          "lat": 36.7882518,
+          "lng": 138.4502082
         },
-        "southwest": {
-          "lat": 36.78700376970851,
-          "lng": 138.4488816197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.78970257989272,
+            "lng": 138.4515804298927
+          },
+          "southwest": {
+            "lat": 36.78700292010728,
+            "lng": 138.4488807701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJW6Xunrz1HWARUkaw6f0-TuY",
-    "plus_code": {
-      "compound_code": "QFQ2+83 日本、長野県山ノ内町",
-      "global_code": "8Q8WQFQ2+83"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルアルパイン",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114599646685075974996\">松田知</a>"
+          ],
+          "photo_reference": "Aap_uEBp0UK4HYrI0ULRy6T1WCagJMzGDukIDgp7wUnVEhWvx7nTvHiJu-13RFskzhwt6sl3JVDQdiypZQDKpR8cWNyhTsCfUpiXPL0C7rUbsjt0fs6HrtDcvsoqZHZWw8ZDXOrC67fixHQkQgoNBvlM4caWyJ25lT_EZ2GYTjeesNC8AG1x",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJW6Xunrz1HWARUkaw6f0-TuY",
+      "plus_code": {
+        "compound_code": "QFQ2+83 山ノ内町、長野県",
+        "global_code": "8Q8WQFQ2+83"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

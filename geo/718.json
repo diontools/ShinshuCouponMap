@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３−５",
-        "short_name": "１３−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "若宮",
-        "short_name": "若宮",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0032",
-        "short_name": "381-0032",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0032 長野県長野市若宮２丁目１３−５",
-    "geometry": {
-      "location": {
-        "lat": 36.6472854,
-        "lng": 138.2282905
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6485629302915,
-          "lng": 138.2297509802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0032 長野県長野市若宮２丁目１３−５",
+      "geometry": {
+        "location": {
+          "lat": 36.6472713,
+          "lng": 138.2283076
         },
-        "southwest": {
-          "lat": 36.6458649697085,
-          "lng": 138.2270530197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64856377989273,
+            "lng": 138.2297518298927
+          },
+          "southwest": {
+            "lat": 36.64586412010728,
+            "lng": 138.2270521701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJCXJgkwiGHWARnx9Hmhy3hOY",
-    "plus_code": {
-      "compound_code": "J6WH+W8 日本、長野県長野市",
-      "global_code": "8Q8WJ6WH+W8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "スシロー 長野若宮店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100909006395912590393\">KAZUNORI KAWAKUBO</a>"
+          ],
+          "photo_reference": "Aap_uEBg_jEPzkzDBksvaDWMxM0x4Sia57gShVRq-kzsORw1BBPBFdCffpuEMNyODBdR2WYxS738B_8ZG5UEnwdrd-_AWTPyvsuog0ZIR-hPh-UuMrvHkw1bSQb9MIY1YxpEYY_WBRvTQjEsuEBR4tjHeV1zXILHGH9Rmg5zbMjohFOKHsfv",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJCXJgkwiGHWARnx9Hmhy3hOY",
+      "plus_code": {
+        "compound_code": "J6WH+W8 長野市、長野県",
+        "global_code": "8Q8WJ6WH+W8"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

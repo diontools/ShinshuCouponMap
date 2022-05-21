@@ -1,82 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１４９２−７０",
-        "short_name": "１１４９２−７０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2257",
-        "short_name": "389-2257",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2257 長野県飯山市飯山１１４９２−７０",
-    "geometry": {
-      "location": {
-        "lat": 36.8551963,
-        "lng": 138.2965446
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.85647393029149,
-          "lng": 138.2978106302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山１１４９２−１８２",
+      "geometry": {
+        "location": {
+          "lat": 36.852904,
+          "lng": 138.295129
         },
-        "southwest": {
-          "lat": 36.8537759697085,
-          "lng": 138.2951126697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85423397989272,
+            "lng": 138.2963997298927
+          },
+          "southwest": {
+            "lat": 36.85153432010728,
+            "lng": 138.2937000701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJBTjnmxQi9l8RDkCYXATW7Iw",
-    "plus_code": {
-      "compound_code": "V74W+3J 長野県飯山市",
-      "global_code": "8Q8WV74W+3J"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "宿と蕎麦処 まろうど",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102907099318327648885\">渡辺俊幸</a>"
+          ],
+          "photo_reference": "Aap_uEC_a7eCGe637RtWW-JkwPQFE4PnoQFMag2CXI3FtLZeyJiUZMzLsDRc8IVSyUkOvmwJiNxWufYa17gfe5U5pE1StCR9L5jI_oaCJs32HiaM0_u7wjLT6A78N9PA00cR01lDsdRb6GQRDFAGoyPuLFhpbAb1TsBHiIgqlz26n-BIHPLc",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJl8PZPH4Y9l8RIPtuyC7-esQ",
+      "plus_code": {
+        "compound_code": "V73W+53 飯山市、長野県",
+        "global_code": "8Q8WV73W+53"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

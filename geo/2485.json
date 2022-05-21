@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡小谷村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８４０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7479354,
+          "lng": 137.8710744
         },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+        "viewport": {
+          "northeast": {
+            "lat": 36.74928167989271,
+            "lng": 137.8724327798927
+          },
+          "southwest": {
+            "lat": 36.74658202010727,
+            "lng": 137.8697331201072
+          }
         }
       },
-      "location": {
-        "lat": 36.779238,
-        "lng": 137.9083847
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
-        },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "まるき酒店 スクリーン４０３",
+      "photos": [
+        {
+          "height": 724,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104219279435915281925\">哲也福岡</a>"
+          ],
+          "photo_reference": "Aap_uEBZLZrOIJ3gmIE13srtLeOrqsuhPvYZOeZ3OsX2MIzw-QJmfjthdokI9Jh-sk586b9WK8P_tHTyiUfBSBTm_HsjbyWt1s6kJCyHK0ZLViTxYkB6yr_LtMUanI261ENQuLi831A_dbmfajFw6AEXrAdhuqPniqnFDP9AAKJ0uLt3qE2L",
+          "width": 1086
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEbXKV9U19l8R_PGKt2EWtyI",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJb2Ft7tzM918RosTY0qy-IVY",
+      "plus_code": {
+        "compound_code": "PVXC+5C 小谷村、長野県",
+        "global_code": "8Q8VPVXC+5C"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

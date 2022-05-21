@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "3418ｰ1ｰ29",
-        "short_name": "3418ｰ1ｰ29",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山3418ｰ1ｰ29",
-    "geometry": {
-      "location": {
-        "lat": 36.1067562,
-        "lng": 138.2328478
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1081095302915,
-          "lng": 138.2342604302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山3418ｰ1ｰ29",
+      "geometry": {
+        "location": {
+          "lat": 36.1067562,
+          "lng": 138.2328478
         },
-        "southwest": {
-          "lat": 36.1054115697085,
-          "lng": 138.2315624697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10811037989272,
+            "lng": 138.2342612798927
+          },
+          "southwest": {
+            "lat": 36.10541072010728,
+            "lng": 138.2315616201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJm5RVxYdNHGART5wTQ_cLaZA",
-    "plus_code": {
-      "compound_code": "464M+P4 長野県茅野市",
-      "global_code": "8Q8W464M+P4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処 緑苑",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105420465740523110097\">Takeshi K</a>"
+          ],
+          "photo_reference": "Aap_uEDJLHVhmx49vUCKaLOl1Mjx3Tl0hl6Vd3pl3nw2XCHpP617gA8XJUaM40yVbw6bHwi9U3HJdyovjPgSWOLz9rSGkvb-X9k5nQVLns4kYdGmbQZsl5SlBMZrpcTxwI5qY5tZud39g15bAUVYHE21cvGF7bF-Aw5ImaYLH24LlGUkKMB2",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJm5RVxYdNHGART5wTQ_cLaZA",
+      "plus_code": {
+        "compound_code": "464M+P4 茅野市、長野県",
+        "global_code": "8Q8W464M+P4"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

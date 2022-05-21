@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手３丁目５−１５",
-    "geometry": {
-      "location": {
-        "lat": 36.2358096,
-        "lng": 137.9694178
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23716618029149,
-          "lng": 137.9709394302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手３丁目５−１５",
+      "geometry": {
+        "location": {
+          "lat": 36.2358189,
+          "lng": 137.9696404
         },
-        "southwest": {
-          "lat": 36.2344682197085,
-          "lng": 137.9682414697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23716702989272,
+            "lng": 137.9709402798927
+          },
+          "southwest": {
+            "lat": 36.23446737010728,
+            "lng": 137.9682406201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAf5msI8OHWARqoTNfaT88qQ",
-    "plus_code": {
-      "compound_code": "6XP9+8Q 日本、長野県松本市",
-      "global_code": "8Q8V6XP9+8Q"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "松本丸の内ホテル",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114941162868968647594\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBDy1RYkVfOGnVaevBdvpB3es6UpXZxUh8RA78aa1lhv8Jnu7mhcxiBsvOpsSDr_Txn2xkbNdV0gDVSLxCXoTUsl1EhBpR_pInvE78ZavO2CPlwfzVq_lErSHThjcdB9baYyRnl0wW81e4YfKGk39Z_G6VQDP0s6zPIxqga0t-dePZ2",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJAf5msI8OHWARqoTNfaT88qQ",
+      "plus_code": {
+        "compound_code": "6XP9+8Q 松本市、長野県",
+        "global_code": "8Q8V6XP9+8Q"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

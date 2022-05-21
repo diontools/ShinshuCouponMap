@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３７９１−３",
-        "short_name": "３７９１−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "三岳",
-        "short_name": "三岳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0101",
-        "short_name": "397-0101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0101 長野県木曽郡木曽町三岳３７９１−３",
-    "geometry": {
-      "location": {
-        "lat": 35.8504856,
-        "lng": 137.6150286
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8517664802915,
-          "lng": 137.6163680302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒397-0101 長野県木曽郡木曽町三岳３７９１−３",
+      "geometry": {
+        "location": {
+          "lat": 35.8504856,
+          "lng": 137.6150286
         },
-        "southwest": {
-          "lat": 35.8490685197085,
-          "lng": 137.6136700697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.85176732989272,
+            "lng": 137.6163688798927
+          },
+          "southwest": {
+            "lat": 35.84906767010727,
+            "lng": 137.6136692201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJe8ZT6i_YHGAR83N9VrfrYSw",
-    "plus_code": {
-      "compound_code": "VJ28+52 長野県木曽町",
-      "global_code": "8Q7VVJ28+52"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒397-0101 長野県木曽郡木曽町三岳３７９１−３",
+      "place_id": "ChIJe8ZT6i_YHGAR83N9VrfrYSw",
+      "plus_code": {
+        "compound_code": "VJ28+52 木曽町、長野県",
+        "global_code": "8Q7VVJ28+52"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

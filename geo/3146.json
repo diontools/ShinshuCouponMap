@@ -1,76 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平 若宮１９３６−１",
-    "geometry": {
-      "location": {
-        "lat": 36.016963,
-        "lng": 138.191056
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.01834763029149,
-          "lng": 138.1924814802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平 若宮１９３６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0169972,
+          "lng": 138.1911294
         },
-        "southwest": {
-          "lat": 36.01564966970849,
-          "lng": 138.1897835197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01834847989272,
+            "lng": 138.1924823298928
+          },
+          "southwest": {
+            "lat": 36.01564882010728,
+            "lng": 138.1897826701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ09hiaf1QHGARm3685uYMySQ",
-    "plus_code": {
-      "compound_code": "258R+QC 長野県茅野市",
-      "global_code": "8Q8W258R+QC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ヌーベル梅林堂 茅野店 (お菓子のベルグランド)",
+      "photos": [
+        {
+          "height": 2624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108649795661187513989\">布施隆行</a>"
+          ],
+          "photo_reference": "Aap_uEC0veQB_R5Kt2EErcNMQW2PvKQ5rCQ4ZoCm2Vpo0-eqfucbyPj-LX7D8b67sCJ7iisjDPKJ5MYKIv4GFpa-FcG7kyk38LHmkiUZmUj6iCQ1YNLTe9iKM_A3rghYU-vblJN7pN4iJxcR2IZ7S8yqwNDSh5Yx8YfeGtuX7q9BUuzvW168",
+          "width": 4656
+        }
+      ],
+      "place_id": "ChIJ09hiaf1QHGARm3685uYMySQ",
+      "plus_code": {
+        "compound_code": "258R+QC 茅野市、長野県",
+        "global_code": "8Q8W258R+QC"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

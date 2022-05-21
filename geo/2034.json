@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７６００−５１",
-        "short_name": "７６００−５１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "笹賀",
-        "short_name": "笹賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0033",
-        "short_name": "399-0033",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0033 長野県松本市笹賀７６００−５１",
-    "geometry": {
-      "location": {
-        "lat": 36.191202,
-        "lng": 137.948655
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1925902802915,
-          "lng": 137.9498804802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0033 長野県松本市笹賀７６００−５１",
+      "geometry": {
+        "location": {
+          "lat": 36.191202,
+          "lng": 137.948655
         },
-        "southwest": {
-          "lat": 36.1898923197085,
-          "lng": 137.9471825197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.19259112989272,
+            "lng": 137.9498813298927
+          },
+          "southwest": {
+            "lat": 36.18989147010728,
+            "lng": 137.9471816701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbWINWroPHWARrqW4ln31QsM",
-    "plus_code": {
-      "compound_code": "5WRX+FF 日本、長野県松本市",
-      "global_code": "8Q8V5WRX+FF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_delivery",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "王滝 ケータリングサービス",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101818332114153557497\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA7LmPYvhdHji4bof2ijUQ8K1vfNv-JolO95GP8zWpVqfiXtax1QHUAqsDefw-2s7iXE3XfV0t20Oi7Skj4fbE4fa72WlZ7vCNS24yiLt9lY2kn2bo6-gRtc9Dcns45iJvt4sxElltycp2sQnkgrBvMagL_ZSTuPoqDK_WxbkD-TX7d",
+          "width": 734
+        }
+      ],
+      "place_id": "ChIJbWINWroPHWARrqW4ln31QsM",
+      "plus_code": {
+        "compound_code": "5WRX+FF 松本市、長野県",
+        "global_code": "8Q8V5WRX+FF"
+      },
+      "types": [
+        "meal_delivery",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

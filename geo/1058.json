@@ -1,99 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "ハーモニーハウス",
-        "short_name": "ハーモニーハウス",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０６７−９",
-        "short_name": "１０６７−９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１０６７−９ ハーモニーハウス",
-    "geometry": {
-      "location": {
-        "lat": 36.3333354,
-        "lng": 138.6278633
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3347923302915,
-          "lng": 138.6292104802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１０６７−９ ハーモニーハウス",
+      "geometry": {
+        "location": {
+          "lat": 36.3333354,
+          "lng": 138.6278633
         },
-        "southwest": {
-          "lat": 36.3320943697085,
-          "lng": 138.6265125197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33479317989272,
+            "lng": 138.6292113298927
+          },
+          "southwest": {
+            "lat": 36.33209352010728,
+            "lng": 138.6265116701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKYo0nYbTHWARbo5L4BGcm4M",
-    "plus_code": {
-      "compound_code": "8JMH+84 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JMH+84"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "エロイーズカフェ",
+      "photos": [
+        {
+          "height": 3647,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109613674790229073412\">エロイーズ カフェ</a>"
+          ],
+          "photo_reference": "Aap_uEA71S93c7wu6B_CXb9e1QlPcgiSsxgff6p7YwxMXnXmZOa3WvxA1XwIO9U0S-IJPDUCAXgDY70tQNz7HoqyRJMfqKGkqOPVo2g2XQC8Q07POjKJliul2oXcaNP_C1fjc_MSgTB9ggdTelVzNe0q8WjIPBoni0M7xJqrPjyo9nkpqDE_",
+          "width": 5470
+        }
+      ],
+      "place_id": "ChIJKYo0nYbTHWARbo5L4BGcm4M",
+      "plus_code": {
+        "compound_code": "8JMH+84 軽井沢町、長野県",
+        "global_code": "8Q8W8JMH+84"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

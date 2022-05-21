@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長和町",
-        "short_name": "長和町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県小県郡長和町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2967821,
-          "lng": 138.2995141
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0601 長野県小県郡長和町大門 姫木平3518-2486",
+      "geometry": {
+        "location": {
+          "lat": 36.1194767,
+          "lng": 138.2163202
         },
-        "southwest": {
-          "lat": 36.105244,
-          "lng": 138.1198082
+        "viewport": {
+          "northeast": {
+            "lat": 36.12087082989272,
+            "lng": 138.2176421298927
+          },
+          "southwest": {
+            "lat": 36.11817117010728,
+            "lng": 138.2149424701072
+          }
         }
       },
-      "location": {
-        "lat": 36.2698987,
-        "lng": 138.2580282
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2967821,
-          "lng": 138.2995141
-        },
-        "southwest": {
-          "lat": 36.105244,
-          "lng": 138.1198082
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "和みのペンション ここっと",
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102270883181910558384\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDt529gCZrJGoCpM0X-HVfhGcIfgic75Y6q_0UzP3gm2H2iiWXdy1cMenEN6y8L4SLW68E8WzdaDBgKq5POllFkfzJIpk_ygoyknY3InXd3MoY8FBkuKf5c4QtPnAOln9g4Xg9vIzs0o5e8h-aANBqVAOl3sH2GlmNnTW_PPkyAih9b",
+          "width": 1200
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL2VwANqtHWAR1BY_Fc2ub4g",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJc6jaxsFSHGARuuU61g5GJO0",
+      "plus_code": {
+        "compound_code": "4698+QG 長和町、長野県",
+        "global_code": "8Q8W4698+QG"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

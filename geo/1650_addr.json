@@ -1,101 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "158y",
-        "short_name": "158y",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "２１４８",
-        "short_name": "２１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２１４８ 158y",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3644586,
-          "lng": 138.5908766
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２１４８−１５８",
+      "geometry": {
+        "location": {
+          "lat": 36.3623993,
+          "lng": 138.5879548
         },
-        "southwest": {
-          "lat": 36.3641103,
-          "lng": 138.5903764
+        "viewport": {
+          "northeast": {
+            "lat": 36.36371907989273,
+            "lng": 138.5893010798927
+          },
+          "southwest": {
+            "lat": 36.36101942010728,
+            "lng": 138.5866014201073
+          }
         }
       },
-      "location": {
-        "lat": 36.3643217,
-        "lng": 138.5906263
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "星野リゾート Yオフィス",
+      "place_id": "ChIJVVUxFybSHWARg_tkZ0EWQ28",
+      "plus_code": {
+        "compound_code": "9H6Q+X6 軽井沢町、長野県",
+        "global_code": "8Q8W9H6Q+X6"
       },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3656334302915,
-          "lng": 138.5920207302915
-        },
-        "southwest": {
-          "lat": 36.3629354697085,
-          "lng": 138.5893227697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "EkkxNTh5LCAyMTQ4IE5hZ2FrdXJhLCBLYXJ1aXphd2EsIEtpdGFzYWt1IERpc3RyaWN0LCBOYWdhbm8gMzg5LTAxMTEsIEphcGFuIiAaHgoWChQKEgmfkOvvKNIdYBFQhrPxg2MSNBIEMTU4eQ",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

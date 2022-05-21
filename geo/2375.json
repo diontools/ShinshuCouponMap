@@ -1,97 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "3階",
-        "short_name": "3階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "花梨ビル",
-        "short_name": "花梨ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３１１０−４",
-        "short_name": "３１１０−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町３１１０−４ 花梨ビル 3階",
-    "geometry": {
-      "location": {
-        "lat": 36.4996682,
-        "lng": 137.8575717
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.50106963029149,
-          "lng": 137.8589820802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町３１１０−４ 花梨ビル 3階",
+      "geometry": {
+        "location": {
+          "lat": 36.4996682,
+          "lng": 137.8575717
         },
-        "southwest": {
-          "lat": 36.49837166970849,
-          "lng": 137.8562841197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.50107047989272,
+            "lng": 137.8589829298927
+          },
+          "southwest": {
+            "lat": 36.49837082010728,
+            "lng": 137.8562832701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJi6WCYuljHWARdhRKdzD7LHM",
-    "plus_code": {
-      "compound_code": "FVX5+V2 日本、長野県大町市",
-      "global_code": "8Q8VFVX5+V2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "花梨",
+      "photos": [
+        {
+          "height": 1125,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112551495606324040876\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBVHiPA4nCHujElZoaSdhsU98wXnGOQArvUBFPbTMSxtUEyz3kLwtGgZxZ35svWHGgV368AAbcdE5Nt71tDCqcyMiJ5VRZSr2mwodkxOl5hzFFaw4_pesdbacG9Xcf53UMt2QpjwQAcXM1oeLroScvOOzOwRlveKE3FZow_TKP1t7UY",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJi6WCYuljHWARdhRKdzD7LHM",
+      "plus_code": {
+        "compound_code": "FVX5+V2 大町市、長野県",
+        "global_code": "8Q8VFVX5+V2"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

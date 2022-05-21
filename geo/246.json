@@ -1,98 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "常盤屋旅館",
-        "short_name": "常盤屋旅館",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "９３４７",
-        "short_name": "９３４７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９３４７ 常盤屋旅館",
-    "geometry": {
-      "location": {
-        "lat": 36.9231242,
-        "lng": 138.4480937
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.92452503029149,
-          "lng": 138.4494259802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９３４７ 常盤屋旅館",
+      "geometry": {
+        "location": {
+          "lat": 36.9231242,
+          "lng": 138.4480937
         },
-        "southwest": {
-          "lat": 36.92182706970849,
-          "lng": 138.4467280197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92452587989272,
+            "lng": 138.4494268298927
+          },
+          "southwest": {
+            "lat": 36.92182622010728,
+            "lng": 138.4467271701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmdIfGkcF9l8Rqyc3gyhlO9M",
-    "plus_code": {
-      "compound_code": "WCFX+66 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCFX+66"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Pig & Barrel",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114739530912741912914\">CHEEYEE CHOONG</a>"
+          ],
+          "photo_reference": "Aap_uEBy3MIlwYwgOFeHCHDiHJXykWINeNcor9dCGTXspn04Ep_vu4OcTuOYS0ZNQyWyiD3MtzoaKuIcO2Rumqm6zbm22i3lRWUl-DKjslVjzTvYJqzeScRuPfXhUGqDs4dLKLeSQ9uwPUpP89Hit0eqd-NO0OHUKQAQKKIHjlAsCduEbOc",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJmdIfGkcF9l8Rqyc3gyhlO9M",
+      "plus_code": {
+        "compound_code": "WCFX+66 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+66"
+      },
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

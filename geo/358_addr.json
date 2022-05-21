@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８０８",
-        "short_name": "８０８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施８０８",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6953989,
-          "lng": 138.3163273
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施８０８",
+      "geometry": {
+        "location": {
+          "lat": 36.695297,
+          "lng": 138.3161856
         },
-        "southwest": {
-          "lat": 36.6952228,
-          "lng": 138.3160531
+        "viewport": {
+          "northeast": {
+            "lat": 36.69667152989272,
+            "lng": 138.3174254298927
+          },
+          "southwest": {
+            "lat": 36.69397187010728,
+            "lng": 138.3147257701073
+          }
         }
       },
-      "location": {
-        "lat": 36.695297,
-        "lng": 138.3161856
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6966598302915,
-          "lng": 138.3174954302915
-        },
-        "southwest": {
-          "lat": 36.6939618697085,
-          "lng": 138.3147974697085
-        }
-      }
-    },
-    "place_id": "ChIJiwhe016JHWARNYhfytcFgFg",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0201 長野県上高井郡小布施町小布施８０８",
+      "place_id": "ChIJiwhe016JHWARNYhfytcFgFg",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "小和田",
-        "short_name": "小和田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0024",
-        "short_name": "392-0024",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0024 長野県諏訪市小和田３−８",
-    "geometry": {
-      "location": {
-        "lat": 36.0411721,
-        "lng": 138.118989
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04255088029149,
-          "lng": 138.1204048302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0024 長野県諏訪市小和田３−８",
+      "geometry": {
+        "location": {
+          "lat": 36.0411721,
+          "lng": 138.118989
         },
-        "southwest": {
-          "lat": 36.03985291970849,
-          "lng": 138.1177068697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04255172989272,
+            "lng": 138.1204056798927
+          },
+          "southwest": {
+            "lat": 36.03985207010728,
+            "lng": 138.1177060201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFbnsX7VVHGAR6d-tSR6LIP8",
-    "plus_code": {
-      "compound_code": "24R9+FH 長野県諏訪市",
-      "global_code": "8Q8W24R9+FH"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ReBuilding Center JAPAN",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107335268077176551820\">Miyako</a>"
+          ],
+          "photo_reference": "Aap_uEAEwXwqY-hyDcGs62JoFXVGNRFapCkHUjg013CQwpKtWnbLx5zMQ05rH57HJnIv0_jM_CUUGRUfSH2R9U0BHYC3KG2JlOnyctXDNtuCOUI6m9BvcpYmoU2VRgyPA46BOCYWF8yRfd-Ec6gt6uAaJkukm91qWuDeLNDaJw35wDnNspZ6",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJFbnsX7VVHGAR6d-tSR6LIP8",
+      "plus_code": {
+        "compound_code": "24R9+FH 諏訪市、長野県",
+        "global_code": "8Q8W24R9+FH"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

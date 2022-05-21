@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１５３−２７１",
-        "short_name": "３１５３−２７１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "峰の原",
-        "short_name": "峰の原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2211",
-        "short_name": "386-2211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−２７１",
-    "geometry": {
-      "location": {
-        "lat": 36.5421367,
-        "lng": 138.3508335
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5434820302915,
-          "lng": 138.3522735302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−２７１",
+      "geometry": {
+        "location": {
+          "lat": 36.5421367,
+          "lng": 138.3508335
         },
-        "southwest": {
-          "lat": 36.5407840697085,
-          "lng": 138.3495755697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.54348287989272,
+            "lng": 138.3522743798927
+          },
+          "southwest": {
+            "lat": 36.54078322010728,
+            "lng": 138.3495747201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJl_9dCGWUHWAR6vhqzEsTTMc",
-    "plus_code": {
-      "compound_code": "G9R2+V8 日本、長野県須坂市",
-      "global_code": "8Q8WG9R2+V8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ぷれじーる",
+      "photos": [
+        {
+          "height": 4024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116828175275636277713\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBU65_gIuDR5niE4qYiJsxuxiEqeCWWBjWI1Hq9ILYXsFbOA1Uc6izrRYX6Hh084oPNzc-sszgwkrr6Pu0q4T2gsgSO4VfQcEWCpuelHBQGEKqMBoKWOHHbtkY4hVC3bXLmER5Dp7TgIcgYHEbJsrjAAR1gBX80rA3GaDyVXaHZN-WM",
+          "width": 6048
+        }
+      ],
+      "place_id": "ChIJl_9dCGWUHWAR6vhqzEsTTMc",
+      "plus_code": {
+        "compound_code": "G9R2+V8 須坂市、長野県",
+        "global_code": "8Q8WG9R2+V8"
+      },
+      "types": [
+        "spa",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

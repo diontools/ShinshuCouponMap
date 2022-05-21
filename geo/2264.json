@@ -1,108 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "藤むら",
-        "short_name": "藤むら",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１９",
-        "short_name": "１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目９−１９ 藤むら",
-    "geometry": {
-      "location": {
-        "lat": 36.23328,
-        "lng": 137.971348
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2346205802915,
-          "lng": 137.9726983802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目９−１９ 藤むら",
+      "geometry": {
+        "location": {
+          "lat": 36.2332647,
+          "lng": 137.971348
         },
-        "southwest": {
-          "lat": 36.2319226197085,
-          "lng": 137.9700004197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23462142989272,
+            "lng": 137.9726992298927
+          },
+          "southwest": {
+            "lat": 36.23192177010728,
+            "lng": 137.9699995701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJDWbV940OHWARH2XrA8iNkjQ",
-    "plus_code": {
-      "compound_code": "6XMC+8G 日本、長野県松本市",
-      "global_code": "8Q8V6XMC+8G"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "藤むら",
+      "photos": [
+        {
+          "height": 879,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103799183074083719097\">sayaka kaneko</a>"
+          ],
+          "photo_reference": "Aap_uEC5h69Rg8dZ2611F7G1WK9-skfjwHluPHngSfajpDw22OEUK7QrK8moasJinxG_Lacjfg1jn0oTFFQjryBdqyuOWhxIIOjyC2ZwDyD3lCBqI60y180YXnJNQStgbZamsfao3yvWL5NSGI0C39bANlFfZMI3M1ZIZo84hzr9uvylnSEC",
+          "width": 1123
+        }
+      ],
+      "place_id": "ChIJDWbV940OHWARH2XrA8iNkjQ",
+      "plus_code": {
+        "compound_code": "6XMC+8G 松本市、長野県",
+        "global_code": "8Q8V6XMC+8G"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１−１３ 富田屋ビル１Ｆ",
-    "geometry": {
-      "location": {
-        "lat": 36.23197460000001,
-        "lng": 137.9643825
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23334473029151,
-          "lng": 137.9658128302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１−１３ 富田屋ビル１Ｆ",
+      "geometry": {
+        "location": {
+          "lat": 36.23197460000001,
+          "lng": 137.9643825
         },
-        "southwest": {
-          "lat": 36.23064676970851,
-          "lng": 137.9631148697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23334557989272,
+            "lng": 137.9658136798927
+          },
+          "southwest": {
+            "lat": 36.23064592010728,
+            "lng": 137.9631140201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJTb5XcokOHWARypT9zXDIhmk",
-    "plus_code": {
-      "compound_code": "6XJ7+QQ 日本、長野県松本市",
-      "global_code": "8Q8V6XJ7+QQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "大人のてっぺん",
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114949307369597384624\">Shiga Pon</a>"
+          ],
+          "photo_reference": "Aap_uECH4jEib_ZhQ5ERowkxE1GzBf04NJx3eVtGM12TreW_FMKu11lxLCPM_bCm8FLLGM7eXmpxBtlw5nkld7zs5HK2x6vTtEYnpWvmkhuSZij-7kgSesQ3iGainth57GuAlWahm9ySu1mhzbxdh3odDjW3ZmjgRrFGjFSzxG8xYX6FHmzd",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJTb5XcokOHWARypT9zXDIhmk",
+      "plus_code": {
+        "compound_code": "6XJ7+QQ 松本市、長野県",
+        "global_code": "8Q8V6XJ7+QQ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

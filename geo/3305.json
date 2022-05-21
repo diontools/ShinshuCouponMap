@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１６",
-        "short_name": "１６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4112",
-        "short_name": "399-4112",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4112 長野県駒ヶ根市中央１６−１７",
-    "geometry": {
-      "location": {
-        "lat": 35.7360269,
-        "lng": 137.9346457
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7373771302915,
-          "lng": 137.9359824802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4112 長野県駒ヶ根市中央１６−１７",
+      "geometry": {
+        "location": {
+          "lat": 35.7360269,
+          "lng": 137.9346457
         },
-        "southwest": {
-          "lat": 35.7346791697085,
-          "lng": 137.9332845197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.73737797989272,
+            "lng": 137.9359833298927
+          },
+          "southwest": {
+            "lat": 35.73467832010728,
+            "lng": 137.9332836701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJE0dSAbDzHGARlixfD0qpmZU",
-    "plus_code": {
-      "compound_code": "PWPM+CV 長野県駒ヶ根市",
-      "global_code": "8Q7VPWPM+CV"
-    },
-    "types": [
-      "bar",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "焼酎Bar&喫茶 Cross Life",
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113809837294292308251\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAWyqmCTPbwsXR_k4rqdvmoEnxr7H5y2Yuyr9TPA38-Mmv0breTMTr0owv-V-zBjACN4Nmr2MvkqmgcwmflEdKne1FkOwTBE9u-Ev-E-7PJA_QE2E0dUqjKggBqM526F6m2XdXdaVjrzGF9VkWJ0rExwd2BMibCo2vFyl114xbPn27x",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJE0dSAbDzHGARlixfD0qpmZU",
+      "plus_code": {
+        "compound_code": "PWPM+CV 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWPM+CV"
+      },
+      "types": [
+        "bar",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４１７１",
-        "short_name": "４１７１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "沢渡",
-        "short_name": "沢渡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1514",
-        "short_name": "390-1514",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1514 長野県松本市安曇沢渡４１７１",
-    "geometry": {
-      "location": {
-        "lat": 36.168472,
-        "lng": 137.650279
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1698944302915,
-          "lng": 137.6517043802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1514 長野県松本市安曇沢渡４１７１",
+      "geometry": {
+        "location": {
+          "lat": 36.168472,
+          "lng": 137.650279
         },
-        "southwest": {
-          "lat": 36.1671964697085,
-          "lng": 137.6490064197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.16989527989272,
+            "lng": 137.6517052298927
+          },
+          "southwest": {
+            "lat": 36.16719562010727,
+            "lng": 137.6490055701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxxEAM4k4HWARSAVnav-Mv9M",
-    "plus_code": {
-      "compound_code": "5M92+94 日本、長野県松本市",
-      "global_code": "8Q8V5M92+94"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "上高地ホテル",
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116748155507798194904\">上高地ホテル</a>"
+          ],
+          "photo_reference": "Aap_uECmw12kYt0VXA42ueyEHGv1eVGVoWd9bSuRv2efT4IJfnkfEqhSoblHghPXvME0nnbaLBe2spTBU9RIzYWEIlNist8BR_6P72h-ftW42xd3Mc1ZP7kdMivHXxjEZIItWDBjuA-Uh-pNZgpw_PDwgFJqsyn4IAbd9tKfmHsQuKS4EYK6",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJxxEAM4k4HWARSAVnav-Mv9M",
+      "plus_code": {
+        "compound_code": "5M92+94 松本市、長野県",
+        "global_code": "8Q8V5M92+94"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

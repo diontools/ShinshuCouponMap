@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０８４",
-        "short_name": "４０８４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上仲町",
-        "short_name": "上仲町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町上仲町４０８４",
-    "geometry": {
-      "location": {
-        "lat": 36.5051539,
-        "lng": 137.8591337
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5065198802915,
-          "lng": 137.8605466302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市上仲町４０８４",
+      "geometry": {
+        "location": {
+          "lat": 36.50515490000001,
+          "lng": 137.8591374
         },
-        "southwest": {
-          "lat": 36.5038219197085,
-          "lng": 137.8578486697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.50652072989272,
+            "lng": 137.8605474798927
+          },
+          "southwest": {
+            "lat": 36.50382107010728,
+            "lng": 137.8578478201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJt9tQBsFjHWARzgqrON_QrZ8",
-    "plus_code": {
-      "compound_code": "GV45+3M 日本、長野県大町市",
-      "global_code": "8Q8VGV45+3M"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "創舎 わちがい",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110705149910560083271\">Mitsuhiko Abe</a>"
+          ],
+          "photo_reference": "Aap_uED-DWJlT_cXW-_AkEy8DWiFGaJz2wkV3G0aBw01h1Nym30uEn84ZWeMLcW9EYa6FBuCXiNqhqtOgJaMHbSovhcjPUnB7f6o0vy-ZqPCSyBQqNHfopnh9vYh5TodeC1MuZEPxN0x_KfiWMYSuqo8dWNJkI0eYS6bxkHj9WhoxvTWs5MS",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJt9tQBsFjHWARzgqrON_QrZ8",
+      "plus_code": {
+        "compound_code": "GV45+3M 大町市、長野県",
+        "global_code": "8Q8VGV45+3M"
+      },
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

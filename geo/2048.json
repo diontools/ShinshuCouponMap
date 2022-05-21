@@ -1,104 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "城西",
-        "short_name": "城西",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0875",
-        "short_name": "390-0875",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0875 長野県松本市城西１丁目３−６",
-    "geometry": {
-      "location": {
-        "lat": 36.2382373,
-        "lng": 137.9644034
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2395355302915,
-          "lng": 137.9657364302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0875 長野県松本市城西１丁目３−６",
+      "geometry": {
+        "location": {
+          "lat": 36.2382373,
+          "lng": 137.9644034
         },
-        "southwest": {
-          "lat": 36.23683756970851,
-          "lng": 137.9630384697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23953637989273,
+            "lng": 137.9657372798927
+          },
+          "southwest": {
+            "lat": 36.23683672010728,
+            "lng": 137.9630376201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJG2Sf-oYOHWARbEne3n4R7RY",
-    "plus_code": {
-      "compound_code": "6XQ7+7Q 日本、長野県松本市",
-      "global_code": "8Q8V6XQ7+7Q"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "health",
-      "lodging",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "宿とサウナとジェラート tabi-shiro",
+      "photos": [
+        {
+          "height": 3008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117887377066172691039\">tabi-shiro(松本ゲストハウス タビシロ）</a>"
+          ],
+          "photo_reference": "Aap_uEDyoet1gs3zjyBHQze2FBgZil6JTedMO4YTidyMCOn4RBAYahXu120juZJh55rYdAI4_-6drptnJnLeutpaq0Ylh4yHiM9e5H0IxkB6kmXE4ZYDV4ObbQiP3n1gI2_YJBmGS36UsmM7HIHYf2N5UbtAK_GwyDBGd-e_hDTsoHIIJoPe",
+          "width": 4512
+        }
+      ],
+      "place_id": "ChIJG2Sf-oYOHWARbEne3n4R7RY",
+      "plus_code": {
+        "compound_code": "6XQ7+7Q 松本市、長野県",
+        "global_code": "8Q8V6XQ7+7Q"
+      },
+      "types": [
+        "cafe",
+        "lodging",
+        "health",
+        "food",
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

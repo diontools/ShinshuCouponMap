@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "草間",
-        "short_name": "草間",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中野市",
-        "short_name": "中野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "383-0053",
-        "short_name": "383-0053",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒383-0053 長野県中野市草間",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.742074,
-          "lng": 138.3370005
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒383-0053 長野県中野市草間",
+      "geometry": {
+        "location": {
+          "lat": 36.7286712,
+          "lng": 138.3265031
         },
-        "southwest": {
-          "lat": 36.72224569999999,
-          "lng": 138.3133566
+        "viewport": {
+          "northeast": {
+            "lat": 36.742074,
+            "lng": 138.3370005
+          },
+          "southwest": {
+            "lat": 36.72224569999999,
+            "lng": 138.3133566
+          }
         }
       },
-      "location": {
-        "lat": 36.7286712,
-        "lng": 138.3265031
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.742074,
-          "lng": 138.3370005
-        },
-        "southwest": {
-          "lat": 36.72224569999999,
-          "lng": 138.3133566
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "草間",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113193769734801587411\">杉田邦広</a>"
+          ],
+          "photo_reference": "Aap_uECvYzUAege1ZaGBJewl5aaGo-6yv8BmFVNHIyQcqLafNIQXFbYpEKBB5EVQ03eVlmDn8Mu9yLWgvIHFOiUyi0ekxeonvMbE1Z7VU0YIV91W3Fv6n3KCJj0Bcx_S_EKh28TrnfYVZvvPY1qhjXuPuR7C0ogWlBqz6o96gWxu2_cyZzrU",
+          "width": 4032
         }
-      }
-    },
-    "place_id": "ChIJu3RqyCWKHWARcZsW4Oow0eM",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJu3RqyCWKHWARcZsW4Oow0eM",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

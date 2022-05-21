@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７５５−１９０４",
-        "short_name": "２７５５−１９０４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "川上",
-        "short_name": "川上",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯綱町",
-        "short_name": "飯綱町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1226",
-        "short_name": "389-1226",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1226 長野県上水内郡飯綱町川上２７５５−１９０４",
-    "geometry": {
-      "location": {
-        "lat": 36.73894,
-        "lng": 138.184926
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7403249802915,
-          "lng": 138.1861462802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1226 長野県上水内郡飯綱町川上２７５５−１９０４",
+      "geometry": {
+        "location": {
+          "lat": 36.73894,
+          "lng": 138.184926
         },
-        "southwest": {
-          "lat": 36.7376270197085,
-          "lng": 138.1834483197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74032582989272,
+            "lng": 138.1861471298927
+          },
+          "southwest": {
+            "lat": 36.73762617010728,
+            "lng": 138.1834474701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyX_EbI8o9l8R5XaHKjsn1ek",
-    "plus_code": {
-      "compound_code": "P5QM+HX 日本、長野県飯綱町",
-      "global_code": "8Q8WP5QM+HX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンションフィールドノート",
+      "photos": [
+        {
+          "height": 1602,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107286433873894101684\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDYw-POTYokaZWeyO0A56OG39qjwM9KI0DUc15Lmq7YpukYr508mgZ3ehRD7E3jS2jeJAjHRqp5yeKbFlPV1yUg21IiXxMRFB-Lg_np8y_E-myqLXxliiemh_PyiSne1lrdRanPl86AUlFwy27bIT_zgTWeTpeix3DZr-Nnvn2hFI4T",
+          "width": 2900
+        }
+      ],
+      "place_id": "ChIJyX_EbI8o9l8R5XaHKjsn1ek",
+      "plus_code": {
+        "compound_code": "P5QM+HX 飯綱町、長野県",
+        "global_code": "8Q8WP5QM+HX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

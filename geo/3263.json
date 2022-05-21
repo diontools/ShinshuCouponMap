@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４−３２６",
-        "short_name": "１４−３２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂１４−３２６",
-    "geometry": {
-      "location": {
-        "lat": 35.70929090000001,
-        "lng": 137.9292498
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7106660302915,
-          "lng": 137.9305922302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂１４−３２６",
+      "geometry": {
+        "location": {
+          "lat": 35.7093165,
+          "lng": 137.9292396
         },
-        "southwest": {
-          "lat": 35.7079680697085,
-          "lng": 137.9278942697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.71066687989271,
+            "lng": 137.9305930798928
+          },
+          "southwest": {
+            "lat": 35.70796722010727,
+            "lng": 137.9278934201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJvcYxoV2NHGARWoflON_Gdoc",
-    "plus_code": {
-      "compound_code": "PW5H+PM 長野県駒ヶ根市",
-      "global_code": "8Q7VPW5H+PM"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "馬見塚旅館",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116321126356985811999\">Yoichi Satake</a>"
+          ],
+          "photo_reference": "Aap_uEDJh-73XoaaIClEmtevEpbQfVK8domf0YS4GPNU6xl7FHvqLN1yn5Se8FJAgDSXrqTnk2qwwTdVSyXN34bvKUjPwiIVjcbyy-S_pgCes-8NTHtm_EBGIr7M9FFXzt68qyFGxIGs8DA9qEpjIIFYhLKQ4nu5qnASiGesgEbDRDqokkjQ",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJvcYxoV2NHGARWoflON_Gdoc",
+      "plus_code": {
+        "compound_code": "PW5H+PM 駒ヶ根市、長野県",
+        "global_code": "8Q7VPW5H+PM"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

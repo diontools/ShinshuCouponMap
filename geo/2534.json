@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２１８３−７２",
-        "short_name": "２２１８３−７２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２１８３−７２",
-    "geometry": {
-      "location": {
-        "lat": 36.6620636,
-        "lng": 137.8342285
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6632689302915,
-          "lng": 137.8355574802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２１８３−７２",
+      "geometry": {
+        "location": {
+          "lat": 36.6620636,
+          "lng": 137.8342285
         },
-        "southwest": {
-          "lat": 36.6605709697085,
-          "lng": 137.8328595197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66326977989272,
+            "lng": 137.8355583298927
+          },
+          "southwest": {
+            "lat": 36.66057012010728,
+            "lng": 137.8328586701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk7st31HQ918RUU6B5MoSVlY",
-    "plus_code": {
-      "compound_code": "MR6M+RM 長野県白馬村",
-      "global_code": "8Q8VMR6M+RM"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "グリーングラス白馬",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100588844483846393702\">内藤英一</a>"
+          ],
+          "photo_reference": "Aap_uED5YJNLOWs5wT7iTSEWQk4971wI2qcxmq_uJ76c3CeuxyNH5BSrue21HRih1opHjyEmnK6Kot3WSZe59-HpZwIumD7BmxlDNOuxQ6dqllXL6uL7aMBkIG25Fk-2OZs81GE8nHR2cdBbOar_SHrGl7Ey8RQgA9VSLM9RuQ6_KovcKsD_",
+          "width": 2160
+        }
+      ],
+      "place_id": "ChIJk7st31HQ918RUU6B5MoSVlY",
+      "plus_code": {
+        "compound_code": "MR6M+RM 白馬村、長野県",
+        "global_code": "8Q8VMR6M+RM"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

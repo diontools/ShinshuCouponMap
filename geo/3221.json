@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５１３",
-        "short_name": "５５１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山５５１３",
-    "geometry": {
-      "location": {
-        "lat": 36.0361485,
-        "lng": 138.274752
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0375930302915,
-          "lng": 138.2760644302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山５５１３",
+      "geometry": {
+        "location": {
+          "lat": 36.0361485,
+          "lng": 138.274752
         },
-        "southwest": {
-          "lat": 36.0348950697085,
-          "lng": 138.2733664697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03759387989272,
+            "lng": 138.2760652798927
+          },
+          "southwest": {
+            "lat": 36.03489422010728,
+            "lng": 138.2733656201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJV8XKxKFPHGARyT0Ow4X3NHs",
-    "plus_code": {
-      "compound_code": "27PF+FW 長野県茅野市",
-      "global_code": "8Q8W27PF+FW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "横谷温泉旅館",
+      "photos": [
+        {
+          "height": 959,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109149172553148303245\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBwRdHyd9nzYsS5ab_LtkcIr_fGQRUzsNCCxLfceMEVuqj4p0Y74bY8aN08tgxvKuOsJ_2iPdNO7bhWux00k4Eurr8IJcvEWarhByBHQBU-myTN4qW9cWSfvlWsFWbZWheXVjV4KZNKSB4DiiNi3OUn3ZIpWDmIQAzy1kUDUwsnwgHM",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJV8XKxKFPHGARyT0Ow4X3NHs",
+      "plus_code": {
+        "compound_code": "27PF+FW 茅野市、長野県",
+        "global_code": "8Q8W27PF+FW"
+      },
+      "types": [
+        "tourist_attraction",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

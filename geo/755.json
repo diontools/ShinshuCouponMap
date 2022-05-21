@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６１９",
-        "short_name": "４６１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "信州新町水内",
-        "short_name": "信州新町水内",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2403",
-        "short_name": "381-2403",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2403 長野県長野市信州新町水内４６１９",
-    "geometry": {
-      "location": {
-        "lat": 36.5852601,
-        "lng": 138.0526308
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5865718302915,
-          "lng": 138.0538937302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-2403 長野県長野市信州新町水内４６１９",
+      "geometry": {
+        "location": {
+          "lat": 36.5852601,
+          "lng": 138.0526308
         },
-        "southwest": {
-          "lat": 36.5838738697085,
-          "lng": 138.0511957697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.58657267989272,
+            "lng": 138.0538945798927
+          },
+          "southwest": {
+            "lat": 36.58387302010728,
+            "lng": 138.0511949201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfSgCDD1_HWARdv0_vaoSps4",
-    "plus_code": {
-      "compound_code": "H3P3+43 日本、長野県長野市",
-      "global_code": "8Q8WH3P3+43"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "元祖信州おやき",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114880309376716088470\">横山大</a>"
+          ],
+          "photo_reference": "Aap_uECbzBcBXs2szjZ3qRntxB7xjc_4LoEQ14Q0U6RJx4JBXc6jK3ekous3S6nIJRV6Gy66w89V8F7m4r2rjAJ3i3DIwdr4UZXhFVzLrIx_wgCMVsXLAcMXAEhJeeByWZoiuXlbq8yC4PPbmjFnwDBkYuk3yH3ydCGyI0YisG_zv_NdSBpX",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJfSgCDD1_HWARdv0_vaoSps4",
+      "plus_code": {
+        "compound_code": "H3P3+43 長野市、長野県",
+        "global_code": "8Q8WH3P3+43"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

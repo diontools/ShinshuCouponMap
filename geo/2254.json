@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "20",
-        "short_name": "20",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "2 Chome",
-        "short_name": "2 Chome",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "Central",
-        "short_name": "Central",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "Matsumoto",
-        "short_name": "Matsumoto",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Nagano",
-        "short_name": "Nagano",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 Nagano, Matsumoto, Central, 2 Chome−20−2信毎メディアガーデン内1階",
-    "geometry": {
-      "location": {
-        "lat": 36.2328241,
-        "lng": 137.9696432
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2341697802915,
-          "lng": 137.9708275302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目20−２信毎メディアガーデン内1階",
+      "geometry": {
+        "location": {
+          "lat": 36.2328241,
+          "lng": 137.9696432
         },
-        "southwest": {
-          "lat": 36.2314718197085,
-          "lng": 137.9681295697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23417062989272,
+            "lng": 137.9708283798927
+          },
+          "southwest": {
+            "lat": 36.23147097010727,
+            "lng": 137.9681287201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8ytu3I0OHWARczVpZjNL-Qk",
-    "plus_code": {
-      "compound_code": "6XM9+4V 日本、長野県松本市",
-      "global_code": "8Q8V6XM9+4V"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "丸山珈琲 松本コーヒースタンド",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107055386413202043006\">Kyoko Yamagishi</a>"
+          ],
+          "photo_reference": "Aap_uECFt1zRV4Ux-KQ8bNAKQ1rwIgzNE6c8QZ05WDvZANdB9O8TS-oUoCMuC2kioiq5IfIW5R_LDcF_O9ED0fTMpwiqU3zrKe2_cWYLJ-pcWFr4Q0jPSdYh8pDxvf-lv6PJ6xDS1d0qV1cPfRXf2JGvtOyEwXmQqiMPvWB-e-Lz_goy5RDj",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ8ytu3I0OHWARczVpZjNL-Qk",
+      "plus_code": {
+        "compound_code": "6XM9+4V 松本市、長野県",
+        "global_code": "8Q8V6XM9+4V"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

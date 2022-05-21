@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７７８",
-        "short_name": "７７８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施７７８",
-    "geometry": {
-      "location": {
-        "lat": 36.6966461,
-        "lng": 138.3175205
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6980501802915,
-          "lng": 138.3188682802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施７７８",
+      "geometry": {
+        "location": {
+          "lat": 36.6966461,
+          "lng": 138.3175205
         },
-        "southwest": {
-          "lat": 36.6953522197085,
-          "lng": 138.3161703197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69805102989272,
+            "lng": 138.3188691298927
+          },
+          "southwest": {
+            "lat": 36.69535137010727,
+            "lng": 138.3161694701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJwaWfPl-JHWAR3CQdnYUN9GU",
-    "plus_code": {
-      "compound_code": "M8W9+M2 長野県小布施町",
-      "global_code": "8Q8WM8W9+M2"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0201 長野県上高井郡小布施町小布施７７８",
+      "place_id": "ChIJwaWfPl-JHWAR3CQdnYUN9GU",
+      "plus_code": {
+        "compound_code": "M8W9+M2 小布施町、長野県",
+        "global_code": "8Q8WM8W9+M2"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５２０",
-        "short_name": "２５２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊里",
-        "short_name": "豊里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小海町",
-        "short_name": "小海町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1103",
-        "short_name": "384-1103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1103 長野県南佐久郡小海町豊里２５２０",
-    "geometry": {
-      "location": {
-        "lat": 36.0627665,
-        "lng": 138.4707036
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0641489802915,
-          "lng": 138.4720875302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-1103 長野県南佐久郡小海町豊里２５２０",
+      "geometry": {
+        "location": {
+          "lat": 36.0627665,
+          "lng": 138.4707036
         },
-        "southwest": {
-          "lat": 36.0614510197085,
-          "lng": 138.4693895697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06414982989271,
+            "lng": 138.4720883798927
+          },
+          "southwest": {
+            "lat": 36.06145017010727,
+            "lng": 138.4693887201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJSye7ing5HGARHeN_W8VURIE",
-    "plus_code": {
-      "compound_code": "3F7C+47 長野県小海町",
-      "global_code": "8Q8W3F7C+47"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-1103 長野県南佐久郡小海町豊里２５２０",
+      "place_id": "ChIJSye7ing5HGARHeN_W8VURIE",
+      "plus_code": {
+        "compound_code": "3F7C+47 小海町、長野県",
+        "global_code": "8Q8W3F7C+47"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏",
-    "geometry": {
-      "location": {
-        "lat": 36.717506,
-        "lng": 138.488099
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7190251802915,
-          "lng": 138.4894905802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏",
+      "geometry": {
+        "location": {
+          "lat": 36.717506,
+          "lng": 138.488099
         },
-        "southwest": {
-          "lat": 36.7163272197085,
-          "lng": 138.4867926197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71902602989271,
+            "lng": 138.4894914298927
+          },
+          "southwest": {
+            "lat": 36.71632637010727,
+            "lng": 138.4867917701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJrbURcAvxHWARzxM5qTgqecM",
-    "plus_code": {
-      "compound_code": "PF9Q+26 日本、長野県山ノ内町",
-      "global_code": "8Q8WPF9Q+26"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "モンテモア",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105335926700315653210\">長谷川貴</a>"
+          ],
+          "photo_reference": "Aap_uEAz5SM-IrAVgW1Xt1iMGEnm6s1NCZX6DbxWT0JK_HgK4IvRUL2p1PzQ1NF3wta_mwm-_RzKKkUhRD2RYhUm788RvAyG8uVj0W_9au4pYSHyGmbURv7CBGI6t9tgELkmgNna96dtW8hJYxN3okB9FkVEyG1me7Iv1P3wzg1qdgaqGeM",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJrbURcAvxHWARzxM5qTgqecM",
+      "plus_code": {
+        "compound_code": "PF9Q+26 山ノ内町、長野県",
+        "global_code": "8Q8WPF9Q+26"
+      },
+      "types": [
+        "restaurant",
+        "lodging",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

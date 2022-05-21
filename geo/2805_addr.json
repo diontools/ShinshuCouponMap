@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８０５−１",
-        "short_name": "８０５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻８０５−１",
-    "geometry": {
-      "location": {
-        "lat": 35.575433,
-        "lng": 137.5948264
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.57680228029149,
-          "lng": 137.5962448802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻８０５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.575433,
+          "lng": 137.5948264
         },
-        "southwest": {
-          "lat": 35.57410431970849,
-          "lng": 137.5935469197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.57680312989272,
+            "lng": 137.5962457298927
+          },
+          "southwest": {
+            "lat": 35.57410347010727,
+            "lng": 137.5935460701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJVUj9HeW3HGARLeZGj0zfVqU",
-    "plus_code": {
-      "compound_code": "HHGV+5W 長野県南木曽町",
-      "global_code": "8Q7VHHGV+5W"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-5302 長野県木曽郡南木曽町吾妻８０５−１",
+      "place_id": "ChIJVUj9HeW3HGARLeZGj0zfVqU",
+      "plus_code": {
+        "compound_code": "HHGV+5W 南木曽町、長野県",
+        "global_code": "8Q7VHHGV+5W"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

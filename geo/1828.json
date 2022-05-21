@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７７５１−１",
-        "short_name": "７７５１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明７７５１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3472805,
-        "lng": 137.8399989
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.34863533029149,
-          "lng": 137.8414122302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明７７５１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3472805,
+          "lng": 137.8399989
         },
-        "southwest": {
-          "lat": 36.34593736970849,
-          "lng": 137.8387142697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34863617989271,
+            "lng": 137.8414130798927
+          },
+          "southwest": {
+            "lat": 36.34593652010727,
+            "lng": 137.8387134201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJt2WSekxpHWARHGCfRkUvig4",
-    "plus_code": {
-      "compound_code": "8RWQ+WX 日本、長野県安曇野市",
-      "global_code": "8Q8V8RWQ+WX"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "Vif 穂高",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104053166870850425687\">西澤邦彦</a>"
+          ],
+          "photo_reference": "Aap_uEAZFbfv6fgAa-E3DHFC7N_vDbXbewVeOwWuzvstrLzkV69s8V5CVg-O1YtMGBTze8uIRIqI7yd5WkvCufpdk41VlX2PqmXK3ssc6yTBlHfJjh2Rkb3lUbtkiRfCE9L6U17-NzbzU4_S3xfWK-DwZjUwmy8MaUZxQbSYv4LW55D7h4I9",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJt2WSekxpHWARHGCfRkUvig4",
+      "plus_code": {
+        "compound_code": "8RWQ+WX 安曇野市、長野県",
+        "global_code": "8Q8V8RWQ+WX"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

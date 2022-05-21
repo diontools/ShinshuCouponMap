@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４６８−２",
-        "short_name": "１４６８−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘野村",
-        "short_name": "広丘野村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0702",
-        "short_name": "399-0702",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村１４６８−２",
-    "geometry": {
-      "location": {
-        "lat": 36.1393596,
-        "lng": 137.9536481
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.14074488029149,
-          "lng": 137.9550917302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村１４６８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.1393596,
+          "lng": 137.9536481
         },
-        "southwest": {
-          "lat": 36.1380469197085,
-          "lng": 137.9523937697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.14074572989273,
+            "lng": 137.9550925798927
+          },
+          "southwest": {
+            "lat": 36.13804607010728,
+            "lng": 137.9523929201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZfrTBgUFHWARSASocBy9tX8",
-    "plus_code": {
-      "compound_code": "4XQ3+PF 日本、長野県塩尻市",
-      "global_code": "8Q8V4XQ3+PF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "焼肉しゃぶしゃぶ ぶう",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104326896237769870365\">焼肉しゃぶしゃぶぶう</a>"
+          ],
+          "photo_reference": "Aap_uEBtvmNyYoshyf4enODQb6o6nhhR2EboN_fk4fm1zJEikg1aEIO33YkFQrkhQqih2wWMc5fHjvjIxwhf5HD8Ich7C0bN-GZx0mNAa3d50Qz7Cdr0r9KKR-Db-PT8K7-nn-8aRwEwQ1NjBT6fbgG5yqr6wXFM90GOKGngvy2hCQcAOxeb",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJZfrTBgUFHWARSASocBy9tX8",
+      "plus_code": {
+        "compound_code": "4XQ3+PF 塩尻市、長野県",
+        "global_code": "8Q8V4XQ3+PF"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

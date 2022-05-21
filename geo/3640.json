@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３９４８−１",
-        "short_name": "３９４８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "座光寺",
-        "short_name": "座光寺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0001",
-        "short_name": "395-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0001 長野県飯田市座光寺３９４８−１",
-    "geometry": {
-      "location": {
-        "lat": 35.5290124,
-        "lng": 137.8564309
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5304214302915,
-          "lng": 137.8577034302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0001 長野県飯田市座光寺３９４８−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5290124,
+          "lng": 137.8564309
         },
-        "southwest": {
-          "lat": 35.5277234697085,
-          "lng": 137.8550054697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.53042227989273,
+            "lng": 137.8577042798927
+          },
+          "southwest": {
+            "lat": 35.52772262010728,
+            "lng": 137.8550046201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-WEgUBGbHGAROLo017c9sCY",
-    "plus_code": {
-      "compound_code": "GVH4+JH 長野県飯田市",
-      "global_code": "8Q7VGVH4+JH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "焼肉きんぐ 座光寺店",
+      "photos": [
+        {
+          "height": 2793,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105757028183184810236\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBABIQXrsiKCKRN-CpIKA35XtJRTDBxWUBQpfAoKaYoSLFPk7lN-uXl6rpxv9cmjtpQ6iP5pUhb9-fJxzpRjmbRnuYGuV3rD5itHAnjSAvplXQSXMtQXwymIUG92shzseepKDB2c6eAbvFh8KYvkirBl7J-A0mumcTMGyfrjp739YL_",
+          "width": 3724
+        }
+      ],
+      "place_id": "ChIJ-WEgUBGbHGAROLo017c9sCY",
+      "plus_code": {
+        "compound_code": "GVH4+JH 飯田市、長野県",
+        "global_code": "8Q7VGVH4+JH"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

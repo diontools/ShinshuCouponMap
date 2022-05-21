@@ -1,101 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "3f",
-        "short_name": "3f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "２０",
-        "short_name": "２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−２０ 3f",
-    "geometry": {
-      "location": {
-        "lat": 36.2312805,
-        "lng": 137.9667826
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2325436302915,
-          "lng": 137.9681334302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−２０ 日本生命松本駅前ビル 3階",
+      "geometry": {
+        "location": {
+          "lat": 36.2313601,
+          "lng": 137.9668399
         },
-        "southwest": {
-          "lat": 36.2298456697085,
-          "lng": 137.9654354697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23258467989272,
+            "lng": 137.9681784798927
+          },
+          "southwest": {
+            "lat": 36.22988502010727,
+            "lng": 137.9654788201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "EjszZiwgMS1jaMWNbWUtNC0yMCBDaMWrxY0sIE1hdHN1bW90bywgTmFnYW5vIDM5MC0wODExLCBKYXBhbiIeGhwKFgoUChIJxdQKD4wOHWARu_6dLHqnDtsSAjNm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "近畿日本ツーリスト 松本営業所",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">toro mochi</a>"
+          ],
+          "photo_reference": "Aap_uEA_813muiVT-qY6z8g7Lx8lSmYhl2zppGYcO0onXeq5oJMoMLXOztaN3aolFMNr3CkAoEJXpyztlYaZeKSV10U0FiOV0J-e_86vrtH4-U8N70m1nLUOFeaYcoBIRznbS-Ew0rNCwASbiIn8JYKtkEauxRTbWihxPk5y0umcR3HNuiwT",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJdTzJkYsOHWARt0qcOEflgVQ",
+      "plus_code": {
+        "compound_code": "6XJ8+GP 松本市、長野県",
+        "global_code": "8Q8V6XJ8+GP"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８１３８",
-        "short_name": "８１３８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "前坂",
-        "short_name": "前坂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2503",
-        "short_name": "389-2503",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2503 長野県下高井郡野沢温泉村前坂８１３８",
-    "geometry": {
-      "location": {
-        "lat": 36.9131408,
-        "lng": 138.4314009
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9144563802915,
-          "lng": 138.4327390302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2503 長野県下高井郡野沢温泉村前坂８１３８",
+      "geometry": {
+        "location": {
+          "lat": 36.9131408,
+          "lng": 138.4314009
         },
-        "southwest": {
-          "lat": 36.91175841970851,
-          "lng": 138.4300410697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.91445722989272,
+            "lng": 138.4327398798928
+          },
+          "southwest": {
+            "lat": 36.91175757010728,
+            "lng": 138.4300402201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJUYhMC9ka9l8R32S1xL0QEm0",
-    "plus_code": {
-      "compound_code": "WC7J+7H 長野県野沢温泉村",
-      "global_code": "8Q8WWC7J+7H"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2503 長野県下高井郡野沢温泉村前坂８１３８",
+      "place_id": "ChIJUYhMC9ka9l8R32S1xL0QEm0",
+      "plus_code": {
+        "compound_code": "WC7J+7H 野沢温泉村、長野県",
+        "global_code": "8Q8WWC7J+7H"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

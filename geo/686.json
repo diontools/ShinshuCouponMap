@@ -1,85 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "中社",
-        "short_name": "中社",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠中社 ３５１０ ２５",
-    "geometry": {
-      "location": {
-        "lat": 36.7471354,
-        "lng": 138.0774235
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.74840373029149,
-          "lng": 138.0789819802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠中社 ３５１０ ２５",
+      "geometry": {
+        "location": {
+          "lat": 36.7471299,
+          "lng": 138.0774339
         },
-        "southwest": {
-          "lat": 36.74570576970849,
-          "lng": 138.0762840197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74840457989271,
+            "lng": 138.0789828298927
+          },
+          "southwest": {
+            "lat": 36.74570492010727,
+            "lng": 138.0762831701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxU9C_pIu9l8RROiLQLmH6SY",
-    "plus_code": {
-      "compound_code": "P3WG+VX 日本、長野県長野市",
-      "global_code": "8Q8WP3WG+VX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そばの実",
+      "photos": [
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110003514702205472779\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEClCaNMj6cY1L8UWCyG0rXqpHw4nS3F7uTSDqTddOEarQHc3SOmSeR-4cb2_G9vgiSMOaKd48wBQ32O6GVsAbFOYi0YFMYk63wK0sNFlXveW923CPEl_6MX2NJ5LtfGd3vSCDP3QA2o5gLlCDafeui5T3H4cXgo96_BcPObrjSfv7w",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJxU9C_pIu9l8RROiLQLmH6SY",
+      "plus_code": {
+        "compound_code": "P3WG+VX 長野市、長野県",
+        "global_code": "8Q8WP3WG+VX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,82 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７７０２",
-        "short_name": "７７０２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平７７０２",
-    "geometry": {
-      "location": {
-        "lat": 36.0015874,
-        "lng": 138.2739801
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0029287802915,
-          "lng": 138.2753864302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平 チェルトの森鳴岩２−１ー９",
+      "geometry": {
+        "location": {
+          "lat": 36.0049059,
+          "lng": 138.277191
         },
-        "southwest": {
-          "lat": 36.0002308197085,
-          "lng": 138.2726884697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00632667989272,
+            "lng": 138.2784799298927
+          },
+          "southwest": {
+            "lat": 36.00362702010728,
+            "lng": 138.2757802701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "オーベルジュ シャレーグリンデル",
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112567222979422817135\">蓼科高原 シャレーグリンデル .</a>"
+          ],
+          "photo_reference": "Aap_uEBO6wpLVnh-HcZlebdacNQqmBjWU0miGyn8ymbIBcnyjuGUs1NNEjVAdiaUMQQtmgqx9tYGnNbjUzZNSCt5ymVCSI_ixLM95MnYpOAr1RROfFu_g7zC742Ww_pvhfYi7VvhqEPVqt9q6DBB9qfgbqzfvH94-bH086VPxUijSGH4Ob94",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJ87IU13VFHGARVTtWuKReMcI",
+      "plus_code": {
+        "compound_code": "273G+XV 茅野市、長野県",
+        "global_code": "8Q8W273G+XV"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJe0CEhXNFHGARD79YJY-fNAE",
-    "plus_code": {
-      "compound_code": "272F+JH 長野県茅野市",
-      "global_code": "8Q8W272F+JH"
-    },
-    "types": [
-      "establishment",
-      "general_contractor",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平７７０２",
+      "geometry": {
+        "location": {
+          "lat": 36.0015882,
+          "lng": 138.2739735
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.00292962989272,
+            "lng": 138.2753872798927
+          },
+          "southwest": {
+            "lat": 36.00022997010728,
+            "lng": 138.2726876201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "鹿島リゾート 蓼科高原チェルトの森管理事務所",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105223014137901665007\">正岡綾乃</a>"
+          ],
+          "photo_reference": "Aap_uEA5DPMd58cJCd7HFaUFpdQl2spRQ7OVh3EyFMNZ4LSFSNl0qSRb6oY5oEJZZupMhO1zFPlQ3XGLIcEBk4WVm84YagwhCom7nJmKULnUw6TQqkxDbZTv_hwN6cxir3dC8z4ayEt_anrzj74HP997od7Ikt4JI-d7glinmYlTwNp7ENmd",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJe0CEhXNFHGARD79YJY-fNAE",
+      "plus_code": {
+        "compound_code": "272F+JH 茅野市、長野県",
+        "global_code": "8Q8W272F+JH"
+      },
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

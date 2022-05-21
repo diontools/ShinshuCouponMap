@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８−５",
-        "short_name": "１８−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐久平駅南",
-        "short_name": "佐久平駅南",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0029",
-        "short_name": "385-0029",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0029 長野県佐久市佐久平駅南１８−５",
-    "geometry": {
-      "location": {
-        "lat": 36.274325,
-        "lng": 138.466098
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2757710302915,
-          "lng": 138.4674675302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0029 長野県佐久市佐久平駅南１８−５",
+      "geometry": {
+        "location": {
+          "lat": 36.2743592,
+          "lng": 138.4661061
         },
-        "southwest": {
-          "lat": 36.2730730697085,
-          "lng": 138.4647695697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27577187989273,
+            "lng": 138.4674683798927
+          },
+          "southwest": {
+            "lat": 36.27307222010728,
+            "lng": 138.4647687201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK7nk2HbLHWARPowas25UtvU",
-    "plus_code": {
-      "compound_code": "7FF8+PC 日本、長野県佐久市",
-      "global_code": "8Q8W7FF8+PC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かつや 長野佐久店",
+      "photos": [
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108858587179325712101\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECBNSRMh8jhm6RmNk3tUeHyp5v2i0FX7NGCaGErBu9QdqpYgp1-bkyHvoXAiQRtiA0JkqXc2Df99F_WUwwZMLLt1Xf0tGpIUwdLfEQXRswYnyFA-gy7UkDCZGqn_n9MypCnQprYkRRyKkpj-6O9mfWBq57HgLpVOMTNvPZuAB-HIAer",
+          "width": 4656
+        }
+      ],
+      "place_id": "ChIJK7nk2HbLHWARPowas25UtvU",
+      "plus_code": {
+        "compound_code": "7FF8+PC 佐久市、長野県",
+        "global_code": "8Q8W7FF8+PC"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３１２",
-        "short_name": "４３１２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "塩野",
-        "short_name": "塩野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "御代田町",
-        "short_name": "御代田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0201",
-        "short_name": "389-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0201 長野県北佐久郡御代田町塩野４３１２",
-    "geometry": {
-      "location": {
-        "lat": 36.348002,
-        "lng": 138.508378
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3493453302915,
-          "lng": 138.5099655802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0201 長野県北佐久郡御代田町塩野４３１２",
+      "geometry": {
+        "location": {
+          "lat": 36.348002,
+          "lng": 138.508378
         },
-        "southwest": {
-          "lat": 36.3466473697085,
-          "lng": 138.5072676197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34934617989272,
+            "lng": 138.5099664298927
+          },
+          "southwest": {
+            "lat": 36.34664652010728,
+            "lng": 138.5072667701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs2EBfJLOHWARIxxfDFUTwiE",
-    "plus_code": {
-      "compound_code": "8GX5+69 日本、長野県御代田町",
-      "global_code": "8Q8W8GX5+69"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "軽井沢森のいえ 晴れたらいいね",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107212753273385032915\">軽井沢森のいえ 晴れたらいいね</a>"
+          ],
+          "photo_reference": "Aap_uEDCKhOk-1mtP69P8opVmABdm52vlsWAWMMwnz8eWwv_E_rtudCZyCeli20PM3ZXJ0TBXIiA327YgBu8mUU97R8vw6emNXRxyZ2fF1lLPXDuRydMxyiMB5f-bvoMqgeYG-50Xi8aYA50fDZ79rz7bJQn0LovHRPHAB0-Ou3ZohOD5_MF",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJs2EBfJLOHWARIxxfDFUTwiE",
+      "plus_code": {
+        "compound_code": "8GX5+69 御代田町、長野県",
+        "global_code": "8Q8W8GX5+69"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

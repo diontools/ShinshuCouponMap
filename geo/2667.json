@@ -1,74 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平 袖ノ原20490-1 HAKUBAVALLEY 鹿島槍スキー場内 ナゲットハウス",
-    "geometry": {
-      "location": {
-        "lat": 36.5973785,
-        "lng": 137.8263609
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.59863803029149,
-          "lng": 137.8277016302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平 袖ノ原20490-1 HAKUBAVALLEY 鹿島槍スキー場内 ナゲットハウス",
+      "geometry": {
+        "location": {
+          "lat": 36.5973785,
+          "lng": 137.8263609
         },
-        "southwest": {
-          "lat": 36.59594006970849,
-          "lng": 137.8250036697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.59863887989272,
+            "lng": 137.8277024798927
+          },
+          "southwest": {
+            "lat": 36.59593922010728,
+            "lng": 137.8250028201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJI77nwZ_Z918RjQvD5bEKpdo",
-    "plus_code": {
-      "compound_code": "HRWG+XG 長野県大町市",
-      "global_code": "8Q8VHRWG+XG"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ナゲットハウス",
+      "photos": [
+        {
+          "height": 270,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115732088739179720557\">ナゲットハウス</a>"
+          ],
+          "photo_reference": "Aap_uECbF0Kwkc4_DGWH4B8PEmYwJ996yu3hOLq4Nrxz09NyG0MB-v8BI8t0ZTUk5GDGNG5cKYutk2oLmUsvFHnemQYcyCk3pi8w2l2XYE_PDuWR2JRSrIRcovk3NYxqxX4Ka8H4kqXrpzH4q5BXQkd90EaHdE5lNN1onW3-HelsrCV7w87k",
+          "width": 570
+        }
+      ],
+      "place_id": "ChIJI77nwZ_Z918RjQvD5bEKpdo",
+      "plus_code": {
+        "compound_code": "HRWG+XG 大町市、長野県",
+        "global_code": "8Q8VHRWG+XG"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

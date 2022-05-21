@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１５３−９３１",
-        "short_name": "３１５３−９３１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "峰の原",
-        "short_name": "峰の原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2211",
-        "short_name": "386-2211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−９３１",
-    "geometry": {
-      "location": {
-        "lat": 36.5401688,
-        "lng": 138.3428847
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5415626302915,
-          "lng": 138.3445993802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−９３１",
+      "geometry": {
+        "location": {
+          "lat": 36.5401688,
+          "lng": 138.3428847
         },
-        "southwest": {
-          "lat": 36.5388646697085,
-          "lng": 138.3419014197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.54156347989272,
+            "lng": 138.3446002298927
+          },
+          "southwest": {
+            "lat": 36.53886382010728,
+            "lng": 138.3419005701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8Rpbk22UHWAR6Il_HU5c2Ms",
-    "plus_code": {
-      "compound_code": "G8RV+35 日本、長野県須坂市",
-      "global_code": "8Q8WG8RV+35"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンションTAKEO",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109537232839294598236\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBU6zPvObi0iChNmVNLvGtHDEGpKdZBzV56EqJkLN_MD3Kwsp7E0Ka5mE8Pnf4Nkcz5kRV28-I3CQgWZA5L7xFj098Q1fZH_bqFEVvCsEXm-h4AIYgKsUBASqrFRxNRpuEboAHazB5xOOH6ISyuppqghhN4ucpPynmwvbpSmhKo9qqS",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ8Rpbk22UHWAR6Il_HU5c2Ms",
+      "plus_code": {
+        "compound_code": "G8RV+35 須坂市、長野県",
+        "global_code": "8Q8WG8RV+35"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

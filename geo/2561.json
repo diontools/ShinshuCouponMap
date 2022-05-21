@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５５５５",
-        "short_name": "２５５５５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２５５５５",
-    "geometry": {
-      "location": {
-        "lat": 36.6698139,
-        "lng": 137.8458889
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.67116688029149,
-          "lng": 137.8473294802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２５５５５",
+      "geometry": {
+        "location": {
+          "lat": 36.6698139,
+          "lng": 137.8458889
         },
-        "southwest": {
-          "lat": 36.6684689197085,
-          "lng": 137.8446315197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.67116772989272,
+            "lng": 137.8473303298927
+          },
+          "southwest": {
+            "lat": 36.66846807010727,
+            "lng": 137.8446306701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-dle-bDR918Ry4ahV6bb7JM",
-    "plus_code": {
-      "compound_code": "MR9W+W9 長野県白馬村",
-      "global_code": "8Q8VMR9W+W9"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "十郎の湯",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118195623332537444798\">馬淵明良</a>"
+          ],
+          "photo_reference": "Aap_uEC0ERJY1hg3KLdzMeF8aq5kog8V4i1uh2PsIwc1hoS_Nxbq4C4a5hHdhjgf_oIfD-p-5DHGvnAb9Wzm1OvwHiOJemfpnUpFpP2KhUEpn8GbBMB2Jy-Ca2i1mj2cNyPXcidlsCyFEjrU6q2ffV0CovRQFH_nNTxHJBJDOP9wZo1fiho",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJ-dle-bDR918Ry4ahV6bb7JM",
+      "plus_code": {
+        "compound_code": "MR9W+W9 白馬村、長野県",
+        "global_code": "8Q8VMR9W+W9"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡木曽町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島５３７１",
+      "geometry": {
+        "location": {
+          "lat": 35.84786100000001,
+          "lng": 137.6951068
         },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+        "viewport": {
+          "northeast": {
+            "lat": 35.84921477989272,
+            "lng": 137.6964888298927
+          },
+          "southwest": {
+            "lat": 35.84651512010728,
+            "lng": 137.6937891701073
+          }
         }
       },
-      "location": {
-        "lat": 35.8424988,
-        "lng": 137.6915171
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
-        },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "海老屋漆器店",
+      "photos": [
+        {
+          "height": 562,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109640234413581645044\">海老屋漆器店</a>"
+          ],
+          "photo_reference": "Aap_uECMEU1Tq5TDiSFwCRGCxL3W4g5levAryHIGIIHNPheVM_5XOUka6KUMVQ9btzTW07ZVX-11V4UBGn8wFCmP3Mlyimn1VOdaXUf_75ntjtcjw6oIafvNVA7KyIs-q4bMMAaC94Jvl2t-51dwcHomMyPJgJqwo36c8RVss8oU8-0Ug3El",
+          "width": 1000
         }
-      }
+      ],
+      "place_id": "ChIJx2Y-dK_eHGARBsWHUE0MLCQ",
+      "plus_code": {
+        "compound_code": "RMXW+42 木曽町、長野県",
+        "global_code": "8Q7VRMXW+42"
+      },
+      "types": [
+        "home_goods_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJGb9UfHEnHWARFYfp0VxZPjs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島５３６９",
+      "geometry": {
+        "location": {
+          "lat": 35.8480667,
+          "lng": 137.6950591
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.84942232989273,
+            "lng": 137.6964329298928
+          },
+          "southwest": {
+            "lat": 35.84672267010728,
+            "lng": 137.6937332701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "よし彦",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116828209307988676258\">よし彦</a>"
+          ],
+          "photo_reference": "Aap_uEC2l0n6Z4ujgTMsm7517yNvPlu8XxCA6hjOONYkck1G0zBf7bMI5fpgBQwqdicaTfEBi4QWdX0pNUgbCKTzKPAN9O8n9Hb6okIo7IxeRVT-SlQ8_kQREbpq_05CIrY44UvcvPGyMn-2_sl8KJGr0GM23DBJcsaPHqAKIjM3KDShRuqm",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJx2Y-dK_eHGARf_wySxXhPY8",
+      "plus_code": {
+        "compound_code": "RMXW+62 木曽町、長野県",
+        "global_code": "8Q7VRMXW+62"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

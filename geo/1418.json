@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９８−１",
-        "short_name": "４９８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "布下",
-        "short_name": "布下",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0402",
-        "short_name": "389-0402",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0402 長野県東御市布下４９８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3362455,
-        "lng": 138.3730812
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3376676802915,
-          "lng": 138.3743930802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0402 長野県東御市布下４９８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.336237,
+          "lng": 138.3730822
         },
-        "southwest": {
-          "lat": 36.3349697197085,
-          "lng": 138.3716951197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33766852989272,
+            "lng": 138.3743939298927
+          },
+          "southwest": {
+            "lat": 36.33496887010728,
+            "lng": 138.3716942701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJsxwmYoK3HWARmQTa69RuCYo",
-    "plus_code": {
-      "compound_code": "89PF+F6 日本、長野県東御市",
-      "global_code": "8Q8W89PF+F6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "布引観音温泉",
+      "photos": [
+        {
+          "height": 1917,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106252648328793804829\">車田誠人</a>"
+          ],
+          "photo_reference": "Aap_uEDVxhctFrfl4SyONEptvCXah4y5bCJBOIFr2-1sftRMShxqpsXSUDXAjDYsclBcDauv3GCWn3GeFHz5WAQYHSoDVtsvIz8peYJtNoe5dmDtZxuJL2RiYQs4ol2INUFbnCQLwzVaw6Hf2DfxuzRol_pfeIqD6uizPzGboAPQeGGl157Q",
+          "width": 2556
+        }
+      ],
+      "place_id": "ChIJsxwmYoK3HWARmQTa69RuCYo",
+      "plus_code": {
+        "compound_code": "89PF+F6 東御市、長野県",
+        "global_code": "8Q8W89PF+F6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

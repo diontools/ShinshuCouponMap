@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2356801,
-        "lng": 137.9712177
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2369410302915,
-          "lng": 137.9725845302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.235601,
+          "lng": 137.9712374
         },
-        "southwest": {
-          "lat": 36.2342430697085,
-          "lng": 137.9698865697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23694187989272,
+            "lng": 137.9725853798927
+          },
+          "southwest": {
+            "lat": 36.23424222010728,
+            "lng": 137.9698857201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKTJqKI4OHWAReuxpLiW-Vgg",
-    "plus_code": {
-      "compound_code": "6XPC+7F 日本、長野県松本市",
-      "global_code": "8Q8V6XPC+7F"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "うなぎ割烹桜家",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118244801221219957199\">細田和弘</a>"
+          ],
+          "photo_reference": "Aap_uEBZ99YOWoDCsL158mcGbKiBQU0-D6vWow3ks-OSDAhfZYjcq0AIDB3rb-NhcCeNDrz65l5ni2ZhR1TOkM_dy-02fXPiEWKD5_lnsshqSwAMKJJXhQ8V-bYEAnFsT59J5Te4e3oQ8OaHaPtuBiKTNqbjZIqlm99zfa9ClMbIRgUjnEaK",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJKTJqKI4OHWAReuxpLiW-Vgg",
+      "plus_code": {
+        "compound_code": "6XPC+7F 松本市、長野県",
+        "global_code": "8Q8V6XPC+7F"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

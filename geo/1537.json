@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６０１−１",
-        "short_name": "６０１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢６０１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3591247,
-        "lng": 138.6348882
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3606512302915,
-          "lng": 138.6361937802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢６０１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3591247,
+          "lng": 138.6348882
         },
-        "southwest": {
-          "lat": 36.3579532697085,
-          "lng": 138.6334958197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36065207989272,
+            "lng": 138.6361946298927
+          },
+          "southwest": {
+            "lat": 36.35795242010727,
+            "lng": 138.6334949701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzbBaWIHTHWARALyLbKDsi0w",
-    "plus_code": {
-      "compound_code": "9J5M+JX 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J5M+JX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "クレープリー・アンジェリーナ軽井沢本店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108995622406221502042\">クレープリー・アンジェリーナ軽井沢本店</a>"
+          ],
+          "photo_reference": "Aap_uECquUx2DudFcOk71nEsHOMVYX4xkEsqEZNXOo2j4zriW7n4-p8YBSABDQ6fw43l0yPiaUKlOskI0GTu-LnsmCXPAbHtRkMBnOs-HlZQ8aIrothozBzdvixHkAkJ4dJ_j-jGHpeTZn7TYNd6RXEfn55b5F_5kOV2tRinacpNUSdmFHtU",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJzbBaWIHTHWARALyLbKDsi0w",
+      "plus_code": {
+        "compound_code": "9J5M+JX 軽井沢町、長野県",
+        "global_code": "8Q8W9J5M+JX"
+      },
+      "types": [
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

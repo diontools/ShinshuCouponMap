@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2257",
-        "short_name": "389-2257",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2257 長野県飯山市飯山 斑尾高原",
-    "geometry": {
-      "location": {
-        "lat": 36.8503989,
-        "lng": 138.2940236
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8517160302915,
-          "lng": 138.2954645802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2257 長野県飯山市 斑尾高原",
+      "geometry": {
+        "location": {
+          "lat": 36.8503989,
+          "lng": 138.2940236
         },
-        "southwest": {
-          "lat": 36.8490180697085,
-          "lng": 138.2927666197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85171687989272,
+            "lng": 138.2954654298927
+          },
+          "southwest": {
+            "lat": 36.84901722010728,
+            "lng": 138.2927657701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3Zz6SIcY9l8RDPJR9y2Fuzs",
-    "plus_code": {
-      "compound_code": "V72V+5J 日本、長野県飯山市",
-      "global_code": "8Q8WV72V+5J"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション ピュア",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106593521052408145552\">Malith Gangabadage</a>"
+          ],
+          "photo_reference": "Aap_uEADc7LMZGa1WZDktDb8_DCbup9nkaUuqKHzMCHFCzCGPTCe3kkTHZDfnk-1wNAGzm0YV45pZOPzud_T7bSRob4SDKRs5p85RAaLvHPrulcSSAMljh2RNJ7NimA56yQKLfu__3MgGwi5CLj4QasMs4Tvy4VGQV-kMWgQa_7CgN3MhPSr",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ3Zz6SIcY9l8RDPJR9y2Fuzs",
+      "plus_code": {
+        "compound_code": "V72V+5J 飯山市、長野県",
+        "global_code": "8Q8WV72V+5J"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

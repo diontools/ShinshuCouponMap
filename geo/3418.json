@@ -1,81 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "16268番地304",
-        "short_name": "16268番地304",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0100",
-        "short_name": "391-0100",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0100 長野県諏訪郡原村16268番地304",
-    "geometry": {
-      "location": {
-        "lat": 35.962916,
-        "lng": 138.2644336
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9645131802915,
-          "lng": 138.2657275802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0100 長野県諏訪郡原村16268番地304",
+      "geometry": {
+        "location": {
+          "lat": 35.962916,
+          "lng": 138.2644336
         },
-        "southwest": {
-          "lat": 35.96181521970851,
-          "lng": 138.2630296197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96451402989272,
+            "lng": 138.2657284298927
+          },
+          "southwest": {
+            "lat": 35.96181437010728,
+            "lng": 138.2630287701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtbmN3ltFHGARzMVCqA7wxN8",
-    "plus_code": {
-      "compound_code": "X777+5Q 長野県原村",
-      "global_code": "8Q7WX777+5Q"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "森の宿 ゆう",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118144997583729284015\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBcYnErY7uLwZviFDufh-2sJHeK9c8j1ZVrNX_wQ3eTqfO1rZSmcNgLiUC56Wix4jKdjgWnfDHOOJ3nYOebOw7tJ-3xDWD5QYoRiq1ys2uGwkUNZcmgHdyzK-BOOTcVJFUYpOCjWPkhpVp3PoO0B3A6fS9LvDmdPlZEJ9S91A-y31ZX",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJtbmN3ltFHGARzMVCqA7wxN8",
+      "plus_code": {
+        "compound_code": "X777+5Q 原村、長野県",
+        "global_code": "8Q7WX777+5Q"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

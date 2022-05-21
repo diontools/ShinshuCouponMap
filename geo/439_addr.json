@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県須坂市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0014 長野県須坂市須坂新町６１４−２",
+      "geometry": {
+        "location": {
+          "lat": 36.6558137,
+          "lng": 138.3141571
         },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
+        "viewport": {
+          "northeast": {
+            "lat": 36.65716487989273,
+            "lng": 138.3154999298927
+          },
+          "southwest": {
+            "lat": 36.65446522010728,
+            "lng": 138.3128002701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6510879,
-        "lng": 138.3072807
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
-        },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "枠屋",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112467649804677468697\">枠屋</a>"
+          ],
+          "photo_reference": "Aap_uECEgq5-Bf1u6HWKdJ37caa7JtJYKdToPLeSYh3luks5BgN4Mpz2MApyvQy_xrmGIghK-yr07FujbXbboJ7IHlKSny8F_U220ikqTJLqG4BP4z4NdZpgS88Zcc2IaQ5n7yDTTk4BJGoMoy474_Ri5lKfkWODEvd8OotZfn0zD7uY-_Ct",
+          "width": 3264
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEfGghGWSHWARb4zc9I-lG7Q",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJV8Igg5yOHWAR23ZptsAsX1k",
+      "plus_code": {
+        "compound_code": "M847+8M 須坂市、長野県",
+        "global_code": "8Q8WM847+8M"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７５９−４８７",
-        "short_name": "７５９−４８７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂７５９−４８７",
-    "geometry": {
-      "location": {
-        "lat": 35.743043,
-        "lng": 137.88862
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7444767802915,
-          "lng": 137.8899565302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂７５９−４８７",
+      "geometry": {
+        "location": {
+          "lat": 35.7431079,
+          "lng": 137.8886358
         },
-        "southwest": {
-          "lat": 35.7417788197085,
-          "lng": 137.8872585697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74447762989273,
+            "lng": 137.8899573798927
+          },
+          "southwest": {
+            "lat": 35.74177797010728,
+            "lng": 137.8872577201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhyr_PQftHGARbPtLCtRXI68",
-    "plus_code": {
-      "compound_code": "PVVQ+6C 長野県駒ヶ根市",
-      "global_code": "8Q7VPVVQ+6C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "明治亭 中央アルプス登山口店／かつ丼ソース工場",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111139127800516088222\">Katuyuki Koike</a>"
+          ],
+          "photo_reference": "Aap_uEB2mMLJSdETlb579ww2KZ_DkvIXqEd35IXBDYuaveoXaJe9lpMHX9DKVC6QBMuICKiyUpX8CCSxAwXXdH6o5FyifME_fUBG-NUQTAHDGmnVPL-T8Lx4CgAb2WEczIA8fc0cqAbYi7oiXxXBkJpj_4ZE3Wb2Y_X29w4Dv0o1AHGhKs3S",
+          "width": 5120
+        }
+      ],
+      "place_id": "ChIJhyr_PQftHGARbPtLCtRXI68",
+      "plus_code": {
+        "compound_code": "PVVQ+6C 駒ヶ根市、長野県",
+        "global_code": "8Q7VPVVQ+6C"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

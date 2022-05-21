@@ -1,100 +1,45 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "林内",
-        "short_name": "林内",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "国有",
-        "short_name": "国有",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "中房",
-        "short_name": "中房",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明中房国有林内",
-    "geometry": {
-      "location": {
-        "lat": 36.3993856,
-        "lng": 137.7152485
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4007345802915,
-          "lng": 137.7165974802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-8305 長野県安曇野市穂高牧 燕岳",
+      "geometry": {
+        "location": {
+          "lat": 36.4068255,
+          "lng": 137.7127959
         },
-        "southwest": {
-          "lat": 36.3980366197085,
-          "lng": 137.7138995197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.4158052,
+            "lng": 137.7288033
+          },
+          "southwest": {
+            "lat": 36.3978448,
+            "lng": 137.6967885
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs5gccjhcHWAR6rJfQON90Pw",
-    "plus_code": {
-      "compound_code": "9PX8+Q3 日本、長野県安曇野市",
-      "global_code": "8Q8V9PX8+Q3"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "燕岳",
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107894150811721250078\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECiDjiZH5n-GAn0pz-2AvZgpTuJfbTKn5vBtp6yDcfLHFkcnFOZrzzlK5d9QzISL27pzK1kYQbYfu9XfvGwgS9JY3tmowQU4qDtnJP2T7NtS5F0Z0qzRtW1-W_hhn98Ig8qxWMTxKGsRNwy7xFFk2T8cNzUph6pkDqOrK74oEAWHtMk",
+          "width": 4898
+        }
+      ],
+      "place_id": "ChIJHRBgsDlcHWARR1bjGdDmp6c",
+      "plus_code": {
+        "compound_code": "CP47+P4 安曇野市、長野県",
+        "global_code": "8Q8VCP47+P4"
+      },
+      "types": [
+        "natural_feature",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

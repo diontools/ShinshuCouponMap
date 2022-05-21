@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０５０",
-        "short_name": "１０５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１０５０",
-    "geometry": {
-      "location": {
-        "lat": 36.128974,
-        "lng": 138.270139
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.13020583029149,
-          "lng": 138.2715931802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１０５０",
+      "geometry": {
+        "location": {
+          "lat": 36.128974,
+          "lng": 138.270139
         },
-        "southwest": {
-          "lat": 36.1275078697085,
-          "lng": 138.2688952197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13020667989272,
+            "lng": 138.2715940298928
+          },
+          "southwest": {
+            "lat": 36.12750702010727,
+            "lng": 138.2688943701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbYOA7AVNHGARJJhjbro_QAM",
-    "plus_code": {
-      "compound_code": "47HC+H3 日本、長野県立科町",
-      "global_code": "8Q8W47HC+H3"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "蓼科荘",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112986010883461255400\">Yasushi Ando</a>"
+          ],
+          "photo_reference": "Aap_uEDpP36l82T1TNWdcFDfSDCsFhkna2RfsCI9SXXbBPeS89Zz0EImNa7niNXtOIEvQHCYk1-ncihgTzRtq_Y8lKAS6rq0-2WC9oJCnYyDqRSttU73SC6Xb_ODJgdGB6id98AHhVo7jIsBxCsXG6A46P6I3SuszG2SuUYswEdyS5ffVbSs",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJbYOA7AVNHGARJJhjbro_QAM",
+      "plus_code": {
+        "compound_code": "47HC+H3 立科町、長野県",
+        "global_code": "8Q8W47HC+H3"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

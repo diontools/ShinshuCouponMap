@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "961番地",
-        "short_name": "961番地",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平岡",
-        "short_name": "平岡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "天龍村",
-        "short_name": "天龍村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1201",
-        "short_name": "399-1201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1201 長野県下伊那郡天龍村平岡961番地",
-    "geometry": {
-      "location": {
-        "lat": 35.2749075,
-        "lng": 137.8555691
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.27620753029149,
-          "lng": 137.8568788802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1201 長野県下伊那郡天龍村平岡961番地",
+      "geometry": {
+        "location": {
+          "lat": 35.2748743,
+          "lng": 137.8555328
         },
-        "southwest": {
-          "lat": 35.27350956970849,
-          "lng": 137.8541809197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.27620837989272,
+            "lng": 137.8568797298927
+          },
+          "southwest": {
+            "lat": 35.27350872010728,
+            "lng": 137.8541800701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVdUw8QFlG2ARlkhr6M1LLUk",
-    "plus_code": {
-      "compound_code": "7VF4+X6 長野県天龍村",
-      "global_code": "8Q7V7VF4+X6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "合同会社 ゆずすけ",
+      "photos": [
+        {
+          "height": 1680,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117314955412613475712\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED02UT47KzLb8FsEOcFUyqlbA7TpWBVeVpxrhLT--hg6HLnOMEVnvbE8-BSV_YcWGFMXPum5pIqgAMiemg6pxw30derY2ucAxtfv28hz2RHbDyFsmWhYTgePCUvbwlAwwjua3sI1wGVBbap4k1uGQQLUTGVGgWxVgADgzT2CRmkiXp8",
+          "width": 1117
+        }
+      ],
+      "place_id": "ChIJVdUw8QFlG2ARlkhr6M1LLUk",
+      "plus_code": {
+        "compound_code": "7VF4+X6 天龍村、長野県",
+        "global_code": "8Q7V7VF4+X6"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

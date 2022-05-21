@@ -1,80 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４７４９−１",
-        "short_name": "４７４９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "宮田村",
-        "short_name": "宮田村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4301",
-        "short_name": "399-4301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4301 長野県上伊那郡宮田村４７４９−１",
-    "geometry": {
-      "location": {
-        "lat": 35.7677885,
-        "lng": 137.8340254
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7691982802915,
-          "lng": 137.8353026302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4301 長野県上伊那郡宮田村４７４９−１",
+      "geometry": {
+        "location": {
+          "lat": 35.7677885,
+          "lng": 137.8340254
         },
-        "southwest": {
-          "lat": 35.7665003197085,
-          "lng": 137.8326046697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.76919912989273,
+            "lng": 137.8353034798927
+          },
+          "southwest": {
+            "lat": 35.76649947010728,
+            "lng": 137.8326038201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJd2fzzAftHGAR5PLSS9lxEEY",
-    "plus_code": {
-      "compound_code": "QR9M+4J 長野県宮田村",
-      "global_code": "8Q7VQR9M+4J"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "駒ヶ岳ロープウェイ しらび平駅",
+      "photos": [
+        {
+          "height": 832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100496349725704363947\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB3jJE52cTVExZzmGnaP48nyEbnViJmYWY594phUIPC_Me2k_QEYbSJrHYEtuBJVDS_7T_Yo-YTL5LOaUT9kPQfkQUN3Kz6SXECGlrKjgf8MZAG9Pn5keKSxB77jrjTVuUBcqqI4NkE_nScH2R53lgw6pZ2PPh6L4QizcAxR5_v2jGt",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJd2fzzAftHGAR5PLSS9lxEEY",
+      "plus_code": {
+        "compound_code": "QR9M+4J 宮田村、長野県",
+        "global_code": "8Q7VQR9M+4J"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

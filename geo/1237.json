@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４２８−２",
-        "short_name": "１４２８−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿教湯温泉",
-        "short_name": "鹿教湯温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0323",
-        "short_name": "386-0323",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１４２８−２",
-    "geometry": {
-      "location": {
-        "lat": 36.3014189,
-        "lng": 138.1359697
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3027558302915,
-          "lng": 138.1373443302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１４２８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3014189,
+          "lng": 138.1359697
         },
-        "southwest": {
-          "lat": 36.3000578697085,
-          "lng": 138.1346463697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30275667989272,
+            "lng": 138.1373451798927
+          },
+          "southwest": {
+            "lat": 36.30005702010727,
+            "lng": 138.1346455201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGR9SkcGmHWARqE40hIQSEZE",
-    "plus_code": {
-      "compound_code": "842P+H9 日本、長野県上田市",
-      "global_code": "8Q8W842P+H9"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "おきな菓子舗、翁珈琲",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100920751278412000580\">おきな菓子舗</a>"
+          ],
+          "photo_reference": "Aap_uEDK5Z6l98AaSWlnogHsaZm-FhvSWycZzA90aDSMe3ehHBc-ofJLxdKxZHuFCmicUsBS16vKryVPfH9j6DpKeGB0VjE9BUWbPQqzQpQC7nxxdua_pYPjFi1VCQT2j83zDTMfijGyolrypu-nfDU0U-Z7hw06_bSrAnCJwhMtBqx4-c0R",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJGR9SkcGmHWARqE40hIQSEZE",
+      "plus_code": {
+        "compound_code": "842P+H9 上田市、長野県",
+        "global_code": "8Q8W842P+H9"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

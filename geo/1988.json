@@ -1,85 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３０６−８",
-        "short_name": "４３０６−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇４３０６−８",
-    "geometry": {
-      "location": {
-        "lat": 36.1239077,
-        "lng": 137.6456515
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.12534653029149,
-          "lng": 137.6469573802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1520 長野県松本市安曇４３０６−８",
+      "geometry": {
+        "location": {
+          "lat": 36.1239077,
+          "lng": 137.6456515
         },
-        "southwest": {
-          "lat": 36.1226485697085,
-          "lng": 137.6442594197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12534737989272,
+            "lng": 137.6469582298927
+          },
+          "southwest": {
+            "lat": 36.12264772010728,
+            "lng": 137.6442585701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJj7Hxa2w5HWAROZK0ai4Lx3g",
-    "plus_code": {
-      "compound_code": "4JFW+H7 日本、長野県松本市",
-      "global_code": "8Q8V4JFW+H7"
-    },
-    "types": [
-      "bakery",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "乗鞍・手作りバウムクーヘン工房「ヤムヤムツリー」Norikura Kuchen Factory YUM YUM TREE",
+      "photos": [
+        {
+          "height": 2600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111067236152750001803\">ryo n</a>"
+          ],
+          "photo_reference": "Aap_uEBfyzx_NhX90umMNNzXul7Gg9hm2spEtXIMKzqyJhAT7UCmrDqz2ZBNY4GOSS6TVkvuZSScEuQ_QWC7qO63vyu9d0k8g1l8vhdAOwLFTDxn2MH8OtmYD3gOleVMZXO6sYbTGxwkcDsxTApQT7aZUY81EZ_c-Tf9v3eORpw6nbqZkF79",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJj7Hxa2w5HWAROZK0ai4Lx3g",
+      "plus_code": {
+        "compound_code": "4JFW+H7 松本市、長野県",
+        "global_code": "8Q8V4JFW+H7"
+      },
+      "types": [
+        "cafe",
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

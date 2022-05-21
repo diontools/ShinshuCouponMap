@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城",
+      "geometry": {
+        "location": {
+          "lat": 36.7352035,
+          "lng": 137.8162936
         },
-        "southwest": {
-          "lat": 36.6497278,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.7676912,
+            "lng": 137.9414972
+          },
+          "southwest": {
+            "lat": 36.6497278,
+            "lng": 137.7500029
+          }
         }
       },
-      "location": {
-        "lat": 36.7352035,
-        "lng": 137.8162936
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6497278,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "北城",
+      "photos": [
+        {
+          "height": 3864,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108005524139136451573\">けんつる</a>"
+          ],
+          "photo_reference": "Aap_uECB3spop-hOLA8AC1rJb0EgZvVoK4aHdBoGejYon4xHbH28pkqYsstWZ52s8pXStXDO_4dhgCG5t_GkIUfwBbEw9qZvTUxo7ne4xdukj5Ud0P31shtlAp-W6a4o6t-7S9t8AnBiKGdaGm0mak7AbVbbRDIoLJZkzm3R6j8H1mIzbCYi",
+          "width": 5152
         }
-      }
-    },
-    "place_id": "ChIJRQv-ZMLN918RdwbxiNqBUr4",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJRQv-ZMLN918RdwbxiNqBUr4",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

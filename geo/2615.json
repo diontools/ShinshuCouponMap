@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５６９６番地",
-        "short_name": "５６９６番地",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城５６９６番地",
-    "geometry": {
-      "location": {
-        "lat": 36.7008382,
-        "lng": 137.8462693
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7022105802915,
-          "lng": 137.8475689802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城５６９６番地",
+      "geometry": {
+        "location": {
+          "lat": 36.7008382,
+          "lng": 137.8462693
         },
-        "southwest": {
-          "lat": 36.6995126197085,
-          "lng": 137.8448710197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70221142989273,
+            "lng": 137.8475698298927
+          },
+          "southwest": {
+            "lat": 36.69951177010729,
+            "lng": 137.8448701701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2Q-NhP3N918RPnVPUzQVz3s",
-    "plus_code": {
-      "compound_code": "PR2W+8G 長野県白馬村",
-      "global_code": "8Q8VPR2W+8G"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "温泉らーめん八方美人",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114272307891624881179\">くろふね</a>"
+          ],
+          "photo_reference": "Aap_uEAOAgeVrsFDeA-8GtDYXeVTRU3-fJAoob3DFxEeZXm4ThAxBdGP7r6d1Mz4zD9bssAxFWL3Um0clgYOCqdawjP5BZtlnGF4C61q-zRCthc2jZg_4mcw1UNUhDjxW80z1IB6OtQUfIm_9u691i9fO_eghVi-0cuQIppFz8K9p4Magtbs",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ2Q-NhP3N918RPnVPUzQVz3s",
+      "plus_code": {
+        "compound_code": "PR2W+8G 白馬村、長野県",
+        "global_code": "8Q8VPR2W+8G"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

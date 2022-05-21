@@ -1,101 +1,92 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "墨坂南",
-        "short_name": "墨坂南",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0098",
-        "short_name": "382-0098",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0098 長野県須坂市墨坂南２丁目８−１５",
-    "geometry": {
-      "location": {
-        "lat": 36.647106,
-        "lng": 138.299426
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64848273029149,
-          "lng": 138.3008168802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0098 長野県須坂市墨坂南２丁目８−１５",
+      "geometry": {
+        "location": {
+          "lat": 36.647146,
+          "lng": 138.2994552
         },
-        "southwest": {
-          "lat": 36.64578476970849,
-          "lng": 138.2981189197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64848357989271,
+            "lng": 138.3008177298927
+          },
+          "southwest": {
+            "lat": 36.64578392010727,
+            "lng": 138.2981180701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "二葉堂須坂店",
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105024814095109744230\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDsVfWFlfZswHe7E4GSl8JYDH91sQTOIOg1iXK8dX3fg0uqoX96HeSm181790RA9rjoL73tJE2Qzwd6v6EGXGbuP4Bs0g3sIruBOY7aSZNyNfYtooGsD_ExE1NL-hwh0C99sAA-fEc9g1q6EBxfrC0aW5owb3twQNymhj6sKXpGAtYn",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJYeN5To2OHWARPF2Tji7lY7k",
+      "plus_code": {
+        "compound_code": "J7WX+RQ 須坂市、長野県",
+        "global_code": "8Q8WJ7WX+RQ"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJYeN5To2OHWARPF2Tji7lY7k",
-    "plus_code": {
-      "compound_code": "J7WX+RQ 日本、長野県須坂市",
-      "global_code": "8Q8WJ7WX+RQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0000 長野県須坂市米持５９１",
+      "geometry": {
+        "location": {
+          "lat": 36.6404746,
+          "lng": 138.2906289
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.64177902989272,
+            "lng": 138.2919927798927
+          },
+          "southwest": {
+            "lat": 36.63907937010728,
+            "lng": 138.2892931201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "（株）二葉堂 本社",
+      "photos": [
+        {
+          "height": 2713,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107756062715955549941\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDAzAusSD0dJVjAwhkuE8DA9W4msKt6TI17hRtGe02DGkWBa91Etee6YRy7CQR1dX_TWcBpH0K1gt2VQHmeoZuouhvH4aJKQ6qO_uX7OkrpiIO5mpZXw1_87TcIBzMOkkfOMLvqS_w1aVnKWd9N3mSawQe4Fe8LGrKcQoVllLa5Q1nB",
+          "width": 2362
+        }
+      ],
+      "place_id": "ChIJ74M7xPCOHWAR_R0VmkQXMCM",
+      "plus_code": {
+        "compound_code": "J7RR+48 須坂市、長野県",
+        "global_code": "8Q8WJ7RR+48"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

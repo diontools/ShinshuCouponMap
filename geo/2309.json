@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１２０−１",
-        "short_name": "２１２０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈川",
-        "short_name": "奈川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1611",
-        "short_name": "390-1611",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1611 長野県松本市奈川２１２０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.0813317,
-        "lng": 137.6827039
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0828213802915,
-          "lng": 137.6841033802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1611 長野県松本市奈川２１２０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0813317,
+          "lng": 137.6827039
         },
-        "southwest": {
-          "lat": 36.0801234197085,
-          "lng": 137.6814054197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.08282222989272,
+            "lng": 137.6841042298927
+          },
+          "southwest": {
+            "lat": 36.08012257010728,
+            "lng": 137.6814045701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJUcaKyn07HWARfj_Xdc3b4LQ",
-    "plus_code": {
-      "compound_code": "3MJM+G3 日本、長野県松本市",
-      "global_code": "8Q8V3MJM+G3"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ながわ山彩館",
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110245017791235167101\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC0XPHiYt9CJpQ-mmjKcBLjeWNeSPZs1Kl6gX5aGXbcovxYB4X8z8LfYmC7LXYvKZhOoxUfVwczfQQdCu7czTn58VzGad4djjP2aMLZAlgRkTxsm_YWkkkGpFLvCw1GovjQrK5VGqAI_-gX0fHRMNgEAuqRWzfqClsId5EAAkhkX6lI",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJUcaKyn07HWARfj_Xdc3b4LQ",
+      "plus_code": {
+        "compound_code": "3MJM+G3 松本市、長野県",
+        "global_code": "8Q8V3MJM+G3"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

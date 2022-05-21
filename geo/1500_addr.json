@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７８−１１８６",
-        "short_name": "１１７８−１１８６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８−１１８６ 軽井沢駅北口",
-    "geometry": {
-      "location": {
-        "lat": 36.3430703,
-        "lng": 138.6351166
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3444427302915,
-          "lng": 138.6365335302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８−１１８６ 軽井沢駅北口",
+      "geometry": {
+        "location": {
+          "lat": 36.3430703,
+          "lng": 138.6351166
         },
-        "southwest": {
-          "lat": 36.3417447697085,
-          "lng": 138.6338355697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34444357989272,
+            "lng": 138.6365343798927
+          },
+          "southwest": {
+            "lat": 36.34174392010728,
+            "lng": 138.6338347201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJj1eQ9XzTHWARLQuq0VTXMCQ",
-    "plus_code": {
-      "compound_code": "8JVP+62 長野県軽井沢町",
-      "global_code": "8Q8W8JVP+62"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "軽井沢町 都市施設さわやかハット",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112976095401108997360\">Keith Cheng</a>"
+          ],
+          "photo_reference": "Aap_uEA-bV5g6-n6MET_dr04GAFcmh3yoa6KvzpRU1A4gja6wYrNwxE9Elvz-SkE4eFIXkVyTK62UJ60znawTcmnaN5WSKm7RRMl90wfTrFpXgL94yOtjyuFubWfSPDsxZCMUXuknQnW69-YblDK6o6nLl0Qu0lfb_Amou-NbGJj_9K1MrtK",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJj1eQ9XzTHWARLQuq0VTXMCQ",
+      "plus_code": {
+        "compound_code": "8JVP+62 軽井沢町、長野県",
+        "global_code": "8Q8W8JVP+62"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

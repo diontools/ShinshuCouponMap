@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７８７−７８",
-        "short_name": "１７８７−７８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘野村",
-        "short_name": "広丘野村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0702",
-        "short_name": "399-0702",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村１７８７−７８",
-    "geometry": {
-      "location": {
-        "lat": 36.1352885,
-        "lng": 137.9552731
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1367850302915,
-          "lng": 137.9566987302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0702 長野県塩尻市広丘野村１７８７−７８",
+      "geometry": {
+        "location": {
+          "lat": 36.1352885,
+          "lng": 137.9552731
         },
-        "southwest": {
-          "lat": 36.1340870697085,
-          "lng": 137.9540007697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13678587989273,
+            "lng": 137.9566995798927
+          },
+          "southwest": {
+            "lat": 36.13408622010728,
+            "lng": 137.9539999201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8dmozAMFHWARPOidedIz12g",
-    "plus_code": {
-      "compound_code": "4XP4+44 日本、長野県塩尻市",
-      "global_code": "8Q8V4XP4+44"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "クライミングジム HANDJAM（ハンドジャム）",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117911197168141806459\">クライミングジム HANDJAM（ハンドジャム）</a>"
+          ],
+          "photo_reference": "Aap_uEAl6X5cnJAkh5s57KOokrDbJc7roQrZpMpSxsSH5S_7X1AzfLWQgnt_XOfcJ2DzfRfQgxt6_Ci1tR-RIr1wxIEfURwBtM8xOzCkExy6aMe_Qkl_Dhc1nCRJAeSaG5idGzo44FZouBlME9wrSFxLrwA8vwPRRzplXgGNcCF57Q7QScj1",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ8dmozAMFHWARPOidedIz12g",
+      "plus_code": {
+        "compound_code": "4XP4+44 塩尻市、長野県",
+        "global_code": "8Q8V4XP4+44"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

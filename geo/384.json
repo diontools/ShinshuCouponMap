@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "徒歩2分",
-        "short_name": "徒歩2分",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "』ゲレンデ",
-        "short_name": "』ゲレンデ",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1302",
-        "short_name": "389-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1302 長野県上水内郡』ゲレンデ徒歩2分 上水内郡 信濃町 古海 ２３８８−１５ 『タングラムスキーサーカス",
-    "geometry": {
-      "location": {
-        "lat": 36.84966,
-        "lng": 138.253057
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8509096302915,
-          "lng": 138.2543372302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1302 長野県上水内郡』ゲレンデ徒歩2分 上水内郡 信濃町 古海 ２３８８−１５ 『タングラムスキーサーカス",
+      "geometry": {
+        "location": {
+          "lat": 36.84966,
+          "lng": 138.253057
         },
-        "southwest": {
-          "lat": 36.8482116697085,
-          "lng": 138.2516392697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85091047989273,
+            "lng": 138.2543380798927
+          },
+          "southwest": {
+            "lat": 36.84821082010728,
+            "lng": 138.2516384201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYbewGpUi9l8Rdg7dfFibIUA",
-    "plus_code": {
-      "compound_code": "R7X3+V6 日本、長野県信濃町",
-      "global_code": "8Q8WR7X3+V6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "和食の宿“ 一歩（てくてく）“",
+      "photos": [
+        {
+          "height": 411,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118007222479279344274\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAcO0d2MTx7cXMhzZPjxg-orC_9TbDdkrSNCFgjrIbnrzXO4pPTwyFtDPSHJJsw3e-v4oe6SnXMaJZC4GpKjNMplShOeib20NPnuP6RZFUcN43yCgvi2wAAaYMlgGX1TWrmmYLe8Y-CWYKdOBJnMitNbS6-7y_nkZfXLs4v5OBzHeME",
+          "width": 732
+        }
+      ],
+      "place_id": "ChIJYbewGpUi9l8Rdg7dfFibIUA",
+      "plus_code": {
+        "compound_code": "R7X3+V6 信濃町、長野県",
+        "global_code": "8Q8WR7X3+V6"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

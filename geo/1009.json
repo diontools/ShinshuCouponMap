@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１４９２−１９６",
-        "short_name": "１１４９２−１９６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2253 長野県飯山市飯山１１４９２−１９６",
-    "geometry": {
-      "location": {
-        "lat": 36.8545206,
-        "lng": 138.2969037
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8560520802915,
-          "lng": 138.2980317802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山１１４９２−１９６",
+      "geometry": {
+        "location": {
+          "lat": 36.8545206,
+          "lng": 138.2969037
         },
-        "southwest": {
-          "lat": 36.8533541197085,
-          "lng": 138.2953338197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85605292989272,
+            "lng": 138.2980326298928
+          },
+          "southwest": {
+            "lat": 36.85335327010728,
+            "lng": 138.2953329701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJOTAz52IY9l8ROjBhQTrN-t4",
-    "plus_code": {
-      "compound_code": "V73W+RQ 日本、長野県飯山市",
-      "global_code": "8Q8WV73W+RQ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "斑尾観光ホテル",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113484972883956994833\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAdtBowLD3qoXyjTqC3gwIInZdqJNMjb6qQKuBsiTG0rytB-CqTjVvjeJ70jSDYWH6Uj8VNNCIFrzLulmsBMsvS9PYkFt0acCya-8qIWBZXnJGskja6QMkTYj3qlRp-7FP-yurm-mjuQE1sITPL9XxhsQIt19LLvpR3_WKVv6RCsIgU",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJOTAz52IY9l8ROjBhQTrN-t4",
+      "plus_code": {
+        "compound_code": "V73W+RQ 飯山市、長野県",
+        "global_code": "8Q8WV73W+RQ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

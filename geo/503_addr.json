@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８５５−１",
-        "short_name": "１８５５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸倉",
-        "short_name": "戸倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0804",
-        "short_name": "389-0804",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0804 長野県千曲市戸倉１８５５−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4916284,
-          "lng": 138.1513236
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0804 長野県千曲市戸倉１８５５−１",
+      "geometry": {
+        "location": {
+          "lat": 36.4914794,
+          "lng": 138.1512164
         },
-        "southwest": {
-          "lat": 36.4913266,
-          "lng": 138.1509646
+        "viewport": {
+          "northeast": {
+            "lat": 36.49282347989272,
+            "lng": 138.1526375298927
+          },
+          "southwest": {
+            "lat": 36.49012382010728,
+            "lng": 138.1499378701073
+          }
         }
       },
-      "location": {
-        "lat": 36.4914794,
-        "lng": 138.1512164
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4928264802915,
-          "lng": 138.1525107802915
-        },
-        "southwest": {
-          "lat": 36.4901285197085,
-          "lng": 138.1498128197085
-        }
-      }
-    },
-    "place_id": "ChIJxen0v3GcHWARvnKpdrHspwU",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0804 長野県千曲市戸倉１８５５−１",
+      "place_id": "ChIJxen0v3GcHWARvnKpdrHspwU",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

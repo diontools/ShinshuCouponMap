@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "奈良井",
-        "short_name": "奈良井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6303",
-        "short_name": "399-6303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井",
-    "geometry": {
-      "location": {
-        "lat": 35.9685154,
-        "lng": 137.8144286
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9698336302915,
-          "lng": 137.8158174802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井８３７−２５２",
+      "geometry": {
+        "location": {
+          "lat": 35.9675274,
+          "lng": 137.8145454
         },
-        "southwest": {
-          "lat": 35.9671356697085,
-          "lng": 137.8131195197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96887502989271,
+            "lng": 137.8159001298927
+          },
+          "southwest": {
+            "lat": 35.96617537010727,
+            "lng": 137.8132004701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKYrOmigeHWARzYjuNL-xgEc",
-    "plus_code": {
-      "compound_code": "XR97+CQ 日本、長野県塩尻市",
-      "global_code": "8Q7VXR97+CQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "奈良井宿市場",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104532630973869564611\">中村昌弘</a>"
+          ],
+          "photo_reference": "Aap_uEATvjMbbw10hnk3_N7YY2zL-XzQot_kNeY1GnXNXuET7LGuKqWRgX3bxrrb8x1P1g1HlBYiiobtw-mpZPl2newFDUDz7csC1ApKtKGz4mk0zBfUS1KytQr3LmdtYt0EKUY3bEpHFFg3nm2Hdw3UbNlIAt8DVPyuoTr8UcfwNb0ofqCB",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJq6rmRiYeHWAR9F86bRuiO6Y",
+      "plus_code": {
+        "compound_code": "XR97+2R 塩尻市、長野県",
+        "global_code": "8Q7VXR97+2R"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,105 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1F",
-        "short_name": "1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "駅ビルMIDORI",
-        "short_name": "駅ビルMIDORI",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３２７−５",
-        "short_name": "１３２７−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南石堂町",
-        "short_name": "南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野末広町",
-        "short_name": "大字南長野末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "駅ビルMIDORI, 1F, 南石堂町-1327-5 大字南長野末広町 長野市 長野県 380-0825 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.6430121,
-        "lng": 138.187521
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6447034302915,
-          "lng": 138.1892934302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "駅ビルMIDORI, 1F, １３２７−５ 大字南長野末広町 長野市 長野県 380-0825 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.6430121,
+          "lng": 138.187521
         },
-        "southwest": {
-          "lat": 36.6420054697085,
-          "lng": 138.1865954697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64470427989272,
+            "lng": 138.1892942798927
+          },
+          "southwest": {
+            "lat": 36.64200462010728,
+            "lng": 138.1865946201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ＪＲ駅レンタカー 長野駅営業所",
+      "photos": [
+        {
+          "height": 1079,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109224463233423852666\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBOdbMJKdQYjQ5vH17bz-H1bktsTCI_zJOLevJqgeYsOIo6s_IarUpN-TLZTKgRGoAl8m8xeFYeaTAzyXcbTN8vX4d7erzWb-g4-Xi-ePJQAB5pmnlDaVYwIvxfCnsonIESH2oOCeGwVDM6omNiw62AfW_Z4TEyu_8N9YuAqyhRBfZj",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJ7eHF5JKGHWAR9u98AQ796oQ",
+      "plus_code": {
+        "compound_code": "J5VQ+62 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+62"
+      },
+      "types": [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ7eHF5JKGHWAR9u98AQ796oQ",
-    "plus_code": {
-      "compound_code": "J5VQ+62 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+62"
-    },
-    "types": [
-      "car_rental",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0906 長野県長野市鶴賀七瀬６２４ サンライズ東口 １階",
+      "geometry": {
+        "location": {
+          "lat": 36.6434355,
+          "lng": 138.1922772
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.64489692989272,
+            "lng": 138.1935313298927
+          },
+          "southwest": {
+            "lat": 36.64219727010727,
+            "lng": 138.1908316701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ニッポンレンタカー 長野駅東口営業所",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103121377085045566996\">kaoru rasshai</a>"
+          ],
+          "photo_reference": "Aap_uECnQimBim68uezG_u2qapbliRLljQHNFS_F4MGjgMHXsm5I3A3a09GgjMTuS-vjH1IOxHgZyRTPbCZ_6olRhlXNfyLG5hHWqZz7ktOduZ6xUlEAzaXqqNY5PALPxnQqm_uUTMJeg9HWPom0KwyWsOTnnnnMRgvhkLAJq812aSeU8ZB2",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJn_TWDpKGHWARre2a5r7QPlA",
+      "plus_code": {
+        "compound_code": "J5VR+9W 長野市、長野県",
+        "global_code": "8Q8WJ5VR+9W"
+      },
+      "types": [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

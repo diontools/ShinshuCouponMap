@@ -1,81 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "西春近",
-        "short_name": "西春近",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4431",
-        "short_name": "399-4431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4431 長野県伊那市西春近",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.8393251,
-          "lng": 137.9587258
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4432 長野県伊那市木裏原１０６９５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.807529,
+          "lng": 137.9332624
         },
-        "southwest": {
-          "lat": 35.7709209,
-          "lng": 137.8679463
+        "viewport": {
+          "northeast": {
+            "lat": 35.80908632989272,
+            "lng": 137.9343964798927
+          },
+          "southwest": {
+            "lat": 35.80638667010728,
+            "lng": 137.9316968201072
+          }
         }
       },
-      "location": {
-        "lat": 35.7995216,
-        "lng": 137.9119276
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8393251,
-          "lng": 137.9587258
-        },
-        "southwest": {
-          "lat": 35.7709209,
-          "lng": 137.8679463
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "かんてんぱぱガーデン",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116653796267093921180\">鬼怒川さん</a>"
+          ],
+          "photo_reference": "Aap_uEA3PUSd1CYL7CsQCHCtmGr1RkDZD-V4E4aNYT9rg2UvEWqSyWJ_P3FMRY7Cu6TmchmL1FEUoYfGD1XDi5FYHIl1n1ntesysIsGmCrYS_KPZmsdRAy42kPMSBh-isi1ga42DIRsqB8LETxxtXtQZADFc4oKTJ3sFFlx4LNGziOcwjA02",
+          "width": 3840
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJI5W_jRnuHGARaXSCEzq0Eio",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJK3E1Z4vxHGARJYi5dK4S7xc",
+      "plus_code": {
+        "compound_code": "RW5M+28 伊那市、長野県",
+        "global_code": "8Q7VRW5M+28"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

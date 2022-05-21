@@ -1,88 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８",
-        "short_name": "２８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "沖田町",
-        "short_name": "沖田町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0013",
-        "short_name": "392-0013",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町５丁目２８",
-    "geometry": {
-      "location": {
-        "lat": 36.0061345,
-        "lng": 138.1299784
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0075256302915,
-          "lng": 138.1314232802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町５丁目２８",
+      "geometry": {
+        "location": {
+          "lat": 36.0061345,
+          "lng": 138.1299784
         },
-        "southwest": {
-          "lat": 36.0048276697085,
-          "lng": 138.1287253197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00752647989272,
+            "lng": 138.1314241298927
+          },
+          "southwest": {
+            "lat": 36.00482682010728,
+            "lng": 138.1287244701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJXUQSCvJWHGAREsroF_8af-s",
-    "plus_code": {
-      "compound_code": "244H+FX 長野県諏訪市",
-      "global_code": "8Q8W244H+FX"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0013 長野県諏訪市沖田町５丁目２８",
+      "place_id": "ChIJXUQSCvJWHGAREsroF_8af-s",
+      "plus_code": {
+        "compound_code": "244H+FX 諏訪市、長野県",
+        "global_code": "8Q8W244H+FX"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

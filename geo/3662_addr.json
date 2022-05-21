@@ -1,92 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2f",
-        "short_name": "2f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "１５７５",
-        "short_name": "１５７５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上郷飯沼",
-        "short_name": "上郷飯沼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0002",
-        "short_name": "395-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0002 長野県飯田市上郷飯沼１５７５ 2f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5239933,
-          "lng": 137.8512595
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0002 長野県飯田市上郷飯沼１５７５ 2f",
+      "geometry": {
+        "location": {
+          "lat": 35.5233781,
+          "lng": 137.8506027
         },
-        "southwest": {
-          "lat": 35.5227591,
-          "lng": 137.8502384
+        "viewport": {
+          "northeast": {
+            "lat": 35.52450772989272,
+            "lng": 137.8522501298927
+          },
+          "southwest": {
+            "lat": 35.52180807010727,
+            "lng": 137.8495504701073
+          }
         }
       },
-      "location": {
-        "lat": 35.5233781,
-        "lng": 137.8506027
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5247251802915,
-          "lng": 137.8520979302915
-        },
-        "southwest": {
-          "lat": 35.52202721970851,
-          "lng": 137.8493999697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "2f",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108412040653651501526\">AURIS T</a>"
+          ],
+          "photo_reference": "Aap_uEB6G3Xg2rU-SQxweM2xNI0R-T35XiXJ2YkQbDbpI142sY0QhoyisQVWsIuBCb14WOQFOLt881StEnnwTD1nlvc7eRCe_JlB_8egrQS70pwqiIRb0hJZuSzJit7RIDhdLCRRzU9HAw142T3SzMXFi1-0ffN6PcI_ZPTqtw4FiReYT0Kw",
+          "width": 1920
         }
-      }
-    },
-    "place_id": "EjUyZiwgMTU3NSBLYW1pc2F0b2lpbnVtYSwgSWlkYSwgTmFnYW5vIDM5NS0wMDAyLCBKYXBhbiIeGhwKFgoUChIJNSzP5CSaHGAR_DpPv7IvIFkSAjJm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "EkLml6XmnKzjgIHjgJIzOTUtMDAwMiDplbfph47nnIzpo6_nlLDluILkuIrpg7fpo6_msrzvvJHvvJXvvJfvvJUgMmYiHhocChYKFAoSCTUsz-QkmhxgEfw6T7-yLyBZEgIyZg",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

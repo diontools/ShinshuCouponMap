@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２７１３−９４",
-        "short_name": "１２７１３−９４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "町北志賀高原",
-        "short_name": "町北志賀高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町町北志賀高原１２７１３−９４",
-    "geometry": {
-      "location": {
-        "lat": 36.799554,
-        "lng": 138.4250403
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8006586802915,
-          "lng": 138.4269915802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町町北志賀高原１２７１３−９４",
+      "geometry": {
+        "location": {
+          "lat": 36.799554,
+          "lng": 138.4250403
         },
-        "southwest": {
-          "lat": 36.79796071970851,
-          "lng": 138.4242936197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.80065952989272,
+            "lng": 138.4269924298927
+          },
+          "southwest": {
+            "lat": 36.79795987010727,
+            "lng": 138.4242927701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpWzeep3xHWARFSykqdk3Vjs",
-    "plus_code": {
-      "compound_code": "QCXG+R2 日本、長野県山ノ内町",
-      "global_code": "8Q8WQCXG+R2"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "X-JAM高井富士",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115073841957851769284\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBYunDlDap59Foxb-vB19Lp8OjFOuPwsqf4wFdEF6kkaJBvJUcEcPXs-SuWCVQbQueeHRtCVz222bj5S18geMt9weXV1EyA0qgsFEjLuhaubZY_5BPk56wDxf2E94boefQEnA5x9yGm7G6WhZd8zB1WM_08dT9T2aXCXr2TYH02Vnb0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJpWzeep3xHWARFSykqdk3Vjs",
+      "plus_code": {
+        "compound_code": "QCXG+R2 山ノ内町、長野県",
+        "global_code": "8Q8WQCXG+R2"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

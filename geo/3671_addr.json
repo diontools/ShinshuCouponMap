@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上村",
-        "short_name": "上村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1403",
-        "short_name": "399-1403",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1403 長野県飯田市上村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.4937836,
-          "lng": 138.123935
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-1403 長野県飯田市上村",
+      "geometry": {
+        "location": {
+          "lat": 35.42146580000001,
+          "lng": 138.0208484
         },
-        "southwest": {
-          "lat": 35.3649915,
-          "lng": 137.9392858
+        "viewport": {
+          "northeast": {
+            "lat": 35.4937836,
+            "lng": 138.123935
+          },
+          "southwest": {
+            "lat": 35.3649915,
+            "lng": 137.9392858
+          }
         }
       },
-      "location": {
-        "lat": 35.42146580000001,
-        "lng": 138.0208484
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4937836,
-          "lng": 138.123935
-        },
-        "southwest": {
-          "lat": 35.3649915,
-          "lng": 137.9392858
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "上村",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108541574029597197284\">yasuko ebihara</a>"
+          ],
+          "photo_reference": "Aap_uEBjKJ49hIfV4eX2km_a4BtoQ3vwXVUBzNVfcZV_kz7aKIGgbDF_NiWWpH86xMkPmQmJ_Uznhnl8oA5YlhYGlI9M4UHnYcr6_834qZ28nVC3jbaijXb9DOGp6Q3kv_7rdhwlxSSNCx28lZiUOlWv3JAPhugSi0_pUyxUXGhNI9E0iNL1",
+          "width": 3840
         }
-      }
-    },
-    "place_id": "ChIJoSL9FuZ-G2ARQEDTnqD-NcI",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJoSL9FuZ-G2ARQEDTnqD-NcI",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

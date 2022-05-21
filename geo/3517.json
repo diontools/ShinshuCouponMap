@@ -1,81 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪",
-        "short_name": "諏訪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0004",
-        "short_name": "392-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0004 長野県諏訪市諏訪",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0498539,
-          "lng": 138.1232639
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0012 長野県諏訪市四賀１６７６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0208448,
+          "lng": 138.1229879
         },
-        "southwest": {
-          "lat": 36.0398155,
-          "lng": 138.1154392
+        "viewport": {
+          "northeast": {
+            "lat": 36.02215577989272,
+            "lng": 138.1243792298927
+          },
+          "southwest": {
+            "lat": 36.01945612010728,
+            "lng": 138.1216795701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0452663,
-        "lng": 138.1194385
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0498539,
-          "lng": 138.1232639
-        },
-        "southwest": {
-          "lat": 36.0398155,
-          "lng": 138.1154392
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "crepe shop Sunny′s 諏訪店",
+      "photos": [
+        {
+          "height": 2161,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116838272855606000771\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBzFtuKA4DBs03B3WCUrnneSMAz-uBY-IxCqla3wvmfD2gAcZNn9hU5Kv73lH-MLL5VOoB4k-z1uP1L1l9qVw9UJCp5PXhut8gdO8R5ZOsTyOxWDcAbrpN_YgsWix0yHhpOJE-7Fydv2duLp9E-jKxKU7OXF_NIAR8CbXC94TgKKV4d",
+          "width": 2160
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpd_NubRVHGARhznhHQshzNk",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJq6p2L4FWHGAR_SbUrp5sZz8",
+      "plus_code": {
+        "compound_code": "24CF+85 諏訪市、長野県",
+        "global_code": "8Q8W24CF+85"
+      },
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

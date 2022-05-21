@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３２−５",
-        "short_name": "３２−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南町",
-        "short_name": "南町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2254",
-        "short_name": "389-2254",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2254 長野県飯山市南町３２−５",
-    "geometry": {
-      "location": {
-        "lat": 36.850814,
-        "lng": 138.361448
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.85220633029149,
-          "lng": 138.3628088302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2254 長野県飯山市南町３２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.850814,
+          "lng": 138.3614479
         },
-        "southwest": {
-          "lat": 36.8495083697085,
-          "lng": 138.3601108697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85220717989272,
+            "lng": 138.3628096298927
+          },
+          "southwest": {
+            "lat": 36.84950752010728,
+            "lng": 138.3601099701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzQfiHikZ9l8RHWMaUgzT-_E",
-    "plus_code": {
-      "compound_code": "V926+8H 日本、長野県飯山市",
-      "global_code": "8Q8WV926+8H"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "六兵衛",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105001085071931016132\">KEIGO SHIMAJIRI</a>"
+          ],
+          "photo_reference": "Aap_uEA9SD-wwvEIQgXmziRSQ9k4p9LhyPvfSbyVC0umErr15g-FbHqImzpkta2em7FThp27dRvoGVqDHmISqz27zmoz2zm1TjNsCEZMHRHPJA4bk_5zzi1dluMl3EbPDBH_zMn6ZSfu88xM2oP38irVPUmYtgoyUzUPUmZGC4dprWZhhFsb",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJzQfiHikZ9l8RHWMaUgzT-_E",
+      "plus_code": {
+        "compound_code": "V926+8H 飯山市、長野県",
+        "global_code": "8Q8WV926+8H"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

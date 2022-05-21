@@ -1,64 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0102 長野県長野市若穂保科２６５",
+      "geometry": {
+        "location": {
+          "lat": 36.5778026,
+          "lng": 138.2798507
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.57909352989272,
+            "lng": 138.2812067798927
+          },
+          "southwest": {
+            "lat": 36.57639387010727,
+            "lng": 138.2785071201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "中央タクシー 空港便 長野",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100096307469987235490\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECiGIoJd3DtXu0cMuOn59uoVvBiZ1Mo2mxmHpDxHeUoiyAMsuGI_CzwN4le2PkcC7iAB48-6OrIgMWY9sOPXtUBXGGWAxtPmGPJYamvgE0wM8J1YSbeQMLxcjL-TmTVuL8VgDAMTnX4toLJT5p7dODZ7-1vay6FlssWQgPUKYvCJtxm",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJeRL_t8qRHWARbjaBRxWkaz4",
+      "plus_code": {
+        "compound_code": "H7HH+4W 長野市、長野県",
+        "global_code": "8Q8WH7HH+4W"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

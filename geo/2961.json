@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１９",
-        "short_name": "１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長地権現町",
-        "short_name": "長地権現町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0081",
-        "short_name": "394-0081",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0081 長野県岡谷市長地権現町１丁目６−１９",
-    "geometry": {
-      "location": {
-        "lat": 36.065682,
-        "lng": 138.069071
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.06688493029149,
-          "lng": 138.0705072302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0081 長野県岡谷市長地権現町１丁目６−１９",
+      "geometry": {
+        "location": {
+          "lat": 36.0656125,
+          "lng": 138.0691036
         },
-        "southwest": {
-          "lat": 36.0641869697085,
-          "lng": 138.0678092697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06688577989272,
+            "lng": 138.0705080798927
+          },
+          "southwest": {
+            "lat": 36.06418612010727,
+            "lng": 138.0678084201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJLScvauX_HGAR9cqZGVo4bQU",
-    "plus_code": {
-      "compound_code": "3389+7J 長野県岡谷市",
-      "global_code": "8Q8W3389+7J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カレーハウスCoCo壱番屋 岡谷長地権現町店",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101360989494738338011\">furi chan</a>"
+          ],
+          "photo_reference": "Aap_uEC8w87-AYT7FkZgWISECojdqDeHlyQIbcaoPbiZdrlF2ssC17k0YmMZMPU3luzmLsXiRil0Rpu4a2X_PacX_nSebAjpr_mc4o256tnD2yiSf0GhyaWFw8rbbYvsmQyrsBsywF6KNrnaW4ooMS_DaBieYDawYhJWycyLxuQFa-O5kXte",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJLScvauX_HGAR9cqZGVo4bQU",
+      "plus_code": {
+        "compound_code": "3389+7J 岡谷市、長野県",
+        "global_code": "8Q8W3389+7J"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

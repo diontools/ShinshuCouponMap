@@ -1,74 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "松代町",
-        "short_name": "松代町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-1231",
-        "short_name": "381-1231",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-1231 長野県長野市松代町",
-    "geometry": {
-      "location": {
-        "lat": 36.5644159,
-        "lng": 138.200472
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5657828302915,
-          "lng": 138.2018923802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-1231 長野県長野市松代町松代 殿町10",
+      "geometry": {
+        "location": {
+          "lat": 36.5644129,
+          "lng": 138.1967144
         },
-        "southwest": {
-          "lat": 36.5630848697085,
-          "lng": 138.1991944197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.56576017989272,
+            "lng": 138.1980418798927
+          },
+          "southwest": {
+            "lat": 36.56306052010728,
+            "lng": 138.1953422201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJCwBRESqFHWARRNaG5BajG1w",
-    "plus_code": {
-      "compound_code": "H672+Q5 長野県長野市",
-      "global_code": "8Q8WH672+Q5"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "（株）竹風堂 松代店",
+      "photos": [
+        {
+          "height": 2613,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105357467084459006064\">まぐまぐでゅう</a>"
+          ],
+          "photo_reference": "Aap_uEA98q2N1WS3HW3II7VUFzAusK0QzLzNPM9IlZEzqxVAICnzjZ2XMFUe5YyBNjAYTpcpkhidV9fyhGiBfvTCk9lL7Lp3UQRbx6bw6hQRs8za1v9UwN0UUGh07a1ZxduWhBPbuU8ZpHi1CpZtfaFvugYfDufkFW0StwRwwNBiGrNbgo13",
+          "width": 3920
+        }
+      ],
+      "place_id": "ChIJDSgvQtaEHWARi0gaDVgzsaY",
+      "plus_code": {
+        "compound_code": "H57W+QM 長野市、長野県",
+        "global_code": "8Q8WH57W+QM"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,87 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野 白樺湖 １５７０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.1104941,
-        "lng": 138.2420963
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1120759802915,
-          "lng": 138.2435307302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１５２６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.1093198,
+          "lng": 138.2359415
         },
-        "southwest": {
-          "lat": 36.1093780197085,
-          "lng": 138.2408327697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.11058877989272,
+            "lng": 138.2373628298928
+          },
+          "southwest": {
+            "lat": 36.10788912010727,
+            "lng": 138.2346631701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKzJbyoFNHGARBaNJB-DSxXw",
-    "plus_code": {
-      "compound_code": "466R+5R 日本、長野県立科町",
-      "global_code": "8Q8W466R+5R"
-    },
-    "types": [
-      "atm",
-      "convenience_store",
-      "establishment",
-      "finance",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "白樺湖ツインパークガラス館",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104083887417413825251\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBvDRFW_kt5bPUAbHJVLEyCvj37PAYws1q07spRl0DhjXMhw9w5b1JILQGThg8cy4Q-4eA5Jg7PPfIYBg4rJ6QBgDPlw7czA1eEyntCKNddcDhXZkaBosAoRaMBexJYxEBcSXb5dOymGNUeKOFBwT-9eE8PFTs6YmG9rhrf35KloL_R",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJ3UwHo4BSHGARjmksoLmB7K0",
+      "plus_code": {
+        "compound_code": "465P+Q8 立科町、長野県",
+        "global_code": "8Q8W465P+Q8"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

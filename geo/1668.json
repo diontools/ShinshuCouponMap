@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３５３−２０",
-        "short_name": "３３５３−２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉３３５３−２０",
-    "geometry": {
-      "location": {
-        "lat": 36.3551881,
-        "lng": 138.589248
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3565379802915,
-          "lng": 138.5907263802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉３３５３−２０",
+      "geometry": {
+        "location": {
+          "lat": 36.3551881,
+          "lng": 138.589248
         },
-        "southwest": {
-          "lat": 36.3538400197085,
-          "lng": 138.5880284197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35653882989271,
+            "lng": 138.5907272298927
+          },
+          "southwest": {
+            "lat": 36.35383917010727,
+            "lng": 138.5880275701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_cEYNavTHWAROkwxWESVM3o",
-    "plus_code": {
-      "compound_code": "9H4Q+3M 日本、長野県軽井沢町",
-      "global_code": "8Q8W9H4Q+3M"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "chez Petit Lapin シェプチラパン",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117414398968584308613\">Kazuyuki Miyashita</a>"
+          ],
+          "photo_reference": "Aap_uECU0RvORVqOGHtC5MYf3OFYArIdB9aMh5U25raQBundaaAEWK4WFOpqJFY40Gv-8CbJO75tDDdkgmJRD7VIt7GIecHbJ_l5NoUdzC1G35_npPvQKKI99tBjv_q8VXtrjiKJg4XI02DCVb9HAkErc544PB_El6fbJQC9goUc9aRg0EMJ",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJ_cEYNavTHWAROkwxWESVM3o",
+      "plus_code": {
+        "compound_code": "9H4Q+3M 軽井沢町、長野県",
+        "global_code": "8Q8W9H4Q+3M"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

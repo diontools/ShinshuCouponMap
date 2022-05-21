@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７５３",
-        "short_name": "７５３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上町",
-        "short_name": "上町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上村",
-        "short_name": "上村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1403",
-        "short_name": "399-1403",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1403 長野県飯田市上村上町７５３",
-    "geometry": {
-      "location": {
-        "lat": 35.386936,
-        "lng": 137.969683
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.38823298029149,
-          "lng": 137.9709919302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1403 長野県飯田市上村上町７５３",
+      "geometry": {
+        "location": {
+          "lat": 35.386936,
+          "lng": 137.969683
         },
-        "southwest": {
-          "lat": 35.38553501970849,
-          "lng": 137.9682939697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.38823382989272,
+            "lng": 137.9709927798927
+          },
+          "southwest": {
+            "lat": 35.38553417010728,
+            "lng": 137.9682931201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJBSXCO3p8G2ARmQQlk1ZGaxE",
-    "plus_code": {
-      "compound_code": "9XP9+QV 長野県飯田市",
-      "global_code": "8Q7V9XP9+QV"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "まつり伝承館天伯",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113188877548747963188\">jeri co</a>"
+          ],
+          "photo_reference": "Aap_uEDXoKHvaLKfGwF_ae6qxXBoRc5izD9yzAmFK-Be7BKnndiG999No3-yOMchd2PMuyLXq5TvfV-bwhSD716N-f4MUWSNpUJ__Dp0P_7ul1DVQY2AMl3uZ5JFBwFkYoF15KWiLMUbFcZvLCIzjZ3pVggD-ZlIlSRAsgBonQbISGATHiXN",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJBSXCO3p8G2ARmQQlk1ZGaxE",
+      "plus_code": {
+        "compound_code": "9XP9+QV 飯田市、長野県",
+        "global_code": "8Q7V9XP9+QV"
+      },
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 大字北城みそら野2935",
-    "geometry": {
-      "location": {
-        "lat": 36.690142,
-        "lng": 137.845919
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6915149802915,
-          "lng": 137.8474089302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村 大字北城みそら野2935",
+      "geometry": {
+        "location": {
+          "lat": 36.6901916,
+          "lng": 137.8460943
         },
-        "southwest": {
-          "lat": 36.6888170197085,
-          "lng": 137.8447109697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69151582989272,
+            "lng": 137.8474097798927
+          },
+          "southwest": {
+            "lat": 36.68881617010728,
+            "lng": 137.8447101201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGypTWuPR918RbYLrmTM3w9A",
-    "plus_code": {
-      "compound_code": "MRRW+39 長野県白馬村",
-      "global_code": "8Q8VMRRW+39"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "白馬三枝美術館",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103783393841594807897\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECnWqvJCGVzpiy74TCuUlXiQIWpXlX3Cp4TYOWarOCk8JdIhO4lQIKEFbVeszH1BVJJRpYlhvDOWkJSTkIn11p5HQUIJ0d-o_Hl61_JrXT2KN3eoRDlb_OeQFAJWmDcyto3ZH44gwnxqmAwExcdfMJQ8Bcz9HDH9X6jeft0pvc2vvdS",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJGypTWuPR918RbYLrmTM3w9A",
+      "plus_code": {
+        "compound_code": "MRRW+39 白馬村、長野県",
+        "global_code": "8Q8VMRRW+39"
+      },
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

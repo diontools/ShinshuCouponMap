@@ -1,99 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６５３",
-        "short_name": "６５３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "臼田中町",
-        "short_name": "臼田中町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "臼田",
-        "short_name": "臼田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0301",
-        "short_name": "384-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0301 長野県佐久市臼田臼田中町６５３−２",
-    "geometry": {
-      "location": {
-        "lat": 36.2011198,
-        "lng": 138.477192
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2024051802915,
-          "lng": 138.4784448802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0301 長野県佐久市臼田６５２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2008509,
+          "lng": 138.4773986
         },
-        "southwest": {
-          "lat": 36.1997072197085,
-          "lng": 138.4757469197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.20215197989272,
+            "lng": 138.4786744798927
+          },
+          "southwest": {
+            "lat": 36.19945232010727,
+            "lng": 138.4759748201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJh_M5wnc0HGARcMR8EQJzcbQ",
-    "plus_code": {
-      "compound_code": "6F2G+CV 日本、長野県佐久市",
-      "global_code": "8Q8W6F2G+CV"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "橘倉酒造 蔵元売店・酒楽",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117258136231985104403\">レバンナ 55</a>"
+          ],
+          "photo_reference": "Aap_uEDj23bQ_O96Fu1_51pb-tDqlgFW8aavByy7Pj2BvAkJrqWsso7Yzi-6KLzRD1MiMfhfzmvuPwhdPDIexdgaJlZRmx6jWT4Zcm5vuURwVymhPTps8B7DADUg5nDwSOBg5SK-Ud3ajNtAQ0EEZVJfhi34XHgkVQPzjT-HqbJY3ujnt1fX",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJ94y-lHc0HGARLmZW5RFiQE8",
+      "plus_code": {
+        "compound_code": "6F2G+8X 佐久市、長野県",
+        "global_code": "8Q8W6F2G+8X"
+      },
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

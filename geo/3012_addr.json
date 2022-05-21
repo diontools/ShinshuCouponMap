@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６１",
-        "short_name": "４６１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里４６１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.4564727,
-          "lng": 137.7167596
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里４６１",
+      "geometry": {
+        "location": {
+          "lat": 35.4563406,
+          "lng": 137.7165752
         },
-        "southwest": {
-          "lat": 35.4561711,
-          "lng": 137.7163471
+        "viewport": {
+          "northeast": {
+            "lat": 35.45761692989272,
+            "lng": 137.7178112298927
+          },
+          "southwest": {
+            "lat": 35.45491727010727,
+            "lng": 137.7151115701073
+          }
         }
       },
-      "location": {
-        "lat": 35.4563406,
-        "lng": 137.7165752
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4576708802915,
-          "lng": 137.7179023302915
-        },
-        "southwest": {
-          "lat": 35.4549729197085,
-          "lng": 137.7152043697085
-        }
-      }
-    },
-    "place_id": "ChIJnU99qwejHGARZ_TDqzhygsA",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒395-0304 長野県下伊那郡阿智村智里４６１",
+      "place_id": "ChIJnU99qwejHGARZ_TDqzhygsA",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

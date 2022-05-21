@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1422‐1",
-        "short_name": "1422‐1",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南石堂町",
-        "short_name": "南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野南石堂町",
-        "short_name": "大字南長野南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0824",
-        "short_name": "380-0824",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0824 長野県長野市大字南長野南石堂町南石堂町1422‐1",
-    "geometry": {
-      "location": {
-        "lat": 36.644577,
-        "lng": 138.1866088
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64593583029149,
-          "lng": 138.1878937802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0824 長野県長野市大字南長野南石堂町1422‐1",
+      "geometry": {
+        "location": {
+          "lat": 36.6445781,
+          "lng": 138.1866015
         },
-        "southwest": {
-          "lat": 36.6432378697085,
-          "lng": 138.1851958197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64593667989273,
+            "lng": 138.1878946298927
+          },
+          "southwest": {
+            "lat": 36.64323702010728,
+            "lng": 138.1851949701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7cmTimyHHWARBU1fiXRescQ",
-    "plus_code": {
-      "compound_code": "J5VP+RJ 日本、長野県長野市",
-      "global_code": "8Q8WJ5VP+RJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "信州雪蔵熟成そば 音菜",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109628796714754107527\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDO5LDalCgXOG6rcKrjMVmzwZdEUSF15ugmbNe0UUOhY7oBp2cufsqdqqppHGsJblI4caTNfm2biE-nyCPhQCwZL1vf1UdXmLXh3GEyF_-9TGnEHpiXkJVTPepTkB9NhVwvrjFmxO0Zkkdxf_DUFxlwNaHa94YXx56i-6KsEKER2WVM",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ7cmTimyHHWARBU1fiXRescQ",
+      "plus_code": {
+        "compound_code": "J5VP+RJ 長野市、長野県",
+        "global_code": "8Q8WJ5VP+RJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

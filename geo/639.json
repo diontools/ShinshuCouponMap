@@ -1,105 +1,52 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５２８",
-        "short_name": "５２８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "県町",
-        "short_name": "県町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0838",
-        "short_name": "380-0838",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0838 長野県長野市南長野県町５２８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6527308,
-        "lng": 138.1840207
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6540773302915,
-          "lng": 138.1853505302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0838 長野県長野市南長野５２８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6527308,
+          "lng": 138.1840207
         },
-        "southwest": {
-          "lat": 36.6513793697085,
-          "lng": 138.1826525697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65407817989271,
+            "lng": 138.1853513798927
+          },
+          "southwest": {
+            "lat": 36.65137852010727,
+            "lng": 138.1826517201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHw7bFOaGHWARXzY5BqhMUn4",
-    "plus_code": {
-      "compound_code": "M53M+3J 日本、長野県長野市",
-      "global_code": "8Q8WM53M+3J"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "liquor_store",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Delica鐵扇 信州 犀北館ホテル店 | デリカテッセン | Delica TESSEN",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112648323695420909292\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAW2xoESnRocRkYuuwLK3s12Vtz1G32fixcJOi37_2umSsKN09P_crjnjaA1N1I-aG7JACNkF1iaje3jCE_3aNYrL-v0GyfgP3frHE-i5WtfvuvBM7JAMu3suGuHRNVhIzhBFqFs0_5p2-AwvvBGLDPhkyJYYk40xzWMypQOaHzuiGI",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJHw7bFOaGHWARXzY5BqhMUn4",
+      "plus_code": {
+        "compound_code": "M53M+3J 長野市、長野県",
+        "global_code": "8Q8WM53M+3J"
+      },
+      "types": [
+        "meal_takeaway",
+        "bakery",
+        "liquor_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

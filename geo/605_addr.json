@@ -1,97 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３",
-        "short_name": "３３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中野市",
-        "short_name": "中野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "383-0022",
-        "short_name": "383-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒383-0022 長野県中野市中央４丁目２−３３",
-    "geometry": {
-      "location": {
-        "lat": 36.7456064,
-        "lng": 138.372811
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7468916802915,
-          "lng": 138.3741326802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒383-0022 長野県中野市中央４丁目２−３３",
+      "geometry": {
+        "location": {
+          "lat": 36.7456064,
+          "lng": 138.372811
         },
-        "southwest": {
-          "lat": 36.7441937197085,
-          "lng": 138.3714347197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74689252989273,
+            "lng": 138.3741335298927
+          },
+          "southwest": {
+            "lat": 36.74419287010728,
+            "lng": 138.3714338701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJy96H7eOKHWARiSckAKqHyKU",
-    "plus_code": {
-      "compound_code": "P9WF+64 長野県中野市",
-      "global_code": "8Q8WP9WF+64"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒383-0022 長野県中野市中央４丁目２−３３",
+      "place_id": "ChIJy96H7eOKHWARiSckAKqHyKU",
+      "plus_code": {
+        "compound_code": "P9WF+64 中野市、長野県",
+        "global_code": "8Q8WP9WF+64"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

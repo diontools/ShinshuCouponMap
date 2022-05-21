@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３１９−５",
-        "short_name": "３３１９−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "坂下",
-        "short_name": "坂下",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "396-0024",
-        "short_name": "396-0024",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒396-0024 長野県伊那市坂下３３１９−５",
-    "geometry": {
-      "location": {
-        "lat": 35.840813,
-        "lng": 137.960842
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8421946802915,
-          "lng": 137.9621186302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0024 長野県伊那市坂下３３１９−５",
+      "geometry": {
+        "location": {
+          "lat": 35.8408311,
+          "lng": 137.9608021
         },
-        "southwest": {
-          "lat": 35.83949671970851,
-          "lng": 137.9594206697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.84219552989272,
+            "lng": 137.9621194798927
+          },
+          "southwest": {
+            "lat": 35.83949587010727,
+            "lng": 137.9594198201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0x7D0qnxHGARy0Wg2Pg8nms",
-    "plus_code": {
-      "compound_code": "RXR6+88 長野県伊那市",
-      "global_code": "8Q7VRXR6+88"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "いろはにほへと 伊那店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100667130756993349440\">長月ユウ</a>"
+          ],
+          "photo_reference": "Aap_uEAXtpY-i-EcEAEHsLc-ms36NpdVTiS0bYm5fz3MssrPQSBMOwP_TsfFL2tFrG36KK3csopMquZK7kanOrkgRellO3xkVl7yBeWlAXddTkuUSQXtGnwfLip78M0ayqtxTxZ6MR5otgQmC_yNgvNnJvTA7C8cN8EIGGZpzSoEyB8WCs6b",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ0x7D0qnxHGARy0Wg2Pg8nms",
+      "plus_code": {
+        "compound_code": "RXR6+88 伊那市、長野県",
+        "global_code": "8Q7VRXR6+88"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

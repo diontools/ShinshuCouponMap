@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "鹿教湯温泉",
-        "short_name": "鹿教湯温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0323",
-        "short_name": "386-0323",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉",
-    "geometry": {
-      "location": {
-        "lat": 36.3038686,
-        "lng": 138.1382489
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3051983302915,
-          "lng": 138.1394737302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉",
+      "geometry": {
+        "location": {
+          "lat": 36.3038686,
+          "lng": 138.1382489
         },
-        "southwest": {
-          "lat": 36.3025003697085,
-          "lng": 138.1367757697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30519917989273,
+            "lng": 138.1394745798927
+          },
+          "southwest": {
+            "lat": 36.30249952010729,
+            "lng": 138.1367749201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR9k67sCmHWARpv26zWtJp9o",
-    "plus_code": {
-      "compound_code": "843Q+G7 日本、長野県上田市",
-      "global_code": "8Q8W843Q+G7"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "鹿教湯温泉 河鹿荘",
+      "photos": [
+        {
+          "height": 4320,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100816411558865184940\">遠山一弥</a>"
+          ],
+          "photo_reference": "Aap_uEB2MskiirM9cB92kCJ0495P1SdrZ5oosc3QoMGDfx6QqC9gnliaZFgIUmmOZTTv9fA79uyqv0fY3KGoQkgSJj2XV2MbU6TSizZM5U1c2G1novf_rUpUHNyZ3G8DKgOmesJAMGYrrxIK07PceVXQZtHkpWABtmh98hAbHsRuLf595N8",
+          "width": 7680
+        }
+      ],
+      "place_id": "ChIJR9k67sCmHWARpv26zWtJp9o",
+      "plus_code": {
+        "compound_code": "843Q+G7 上田市、長野県",
+        "global_code": "8Q8W843Q+G7"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

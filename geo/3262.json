@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３４７−１",
-        "short_name": "１３４７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂１３４７−１",
-    "geometry": {
-      "location": {
-        "lat": 35.7408612,
-        "lng": 137.9246417
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7422960802915,
-          "lng": 137.9260089302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂１３４７−１",
+      "geometry": {
+        "location": {
+          "lat": 35.7408612,
+          "lng": 137.9246417
         },
-        "southwest": {
-          "lat": 35.7395981197085,
-          "lng": 137.9233109697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74229692989272,
+            "lng": 137.9260097798927
+          },
+          "southwest": {
+            "lat": 35.73959727010728,
+            "lng": 137.9233101201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJm7JEyKHyHGARHVj8b-8Jk78",
-    "plus_code": {
-      "compound_code": "PWRF+8V 長野県駒ヶ根市",
-      "global_code": "8Q7VPWRF+8V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 駒ヶ根店",
+      "photos": [
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105937569908275943533\">芳田克美</a>"
+          ],
+          "photo_reference": "Aap_uED69WCJs1nqhYGcO9UeA2Wa8AurVIm0fJy-6KkXxh2LbfOPiKoQtWuWPtAClRqDN8HufXdi4rR__UPekT9JqIEGOjupYz3lfpjmNs-uAjIavwiJtf0RHTFoxjTBWTS5sVk_D2ta26_dM-nM-IsNRSRe-YRe9nkKOySH3UaQgyukOQrm",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJm7JEyKHyHGARHVj8b-8Jk78",
+      "plus_code": {
+        "compound_code": "PWRF+8V 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWRF+8V"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

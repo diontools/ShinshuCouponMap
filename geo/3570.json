@@ -1,115 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１Ｆ",
-        "short_name": "１Ｆ",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "大津 屋 ビル",
-        "short_name": "大津 屋 ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0026",
-        "short_name": "392-0026",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0026 長野県諏訪市大手２丁目１−４ 大津 屋 ビル １Ｆ",
-    "geometry": {
-      "location": {
-        "lat": 36.043814,
-        "lng": 138.116625
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0450949302915,
-          "lng": 138.1179339302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0026 長野県諏訪市大手２丁目１−４ 大津 屋 ビル １Ｆ",
+      "geometry": {
+        "location": {
+          "lat": 36.043814,
+          "lng": 138.116625
         },
-        "southwest": {
-          "lat": 36.04239696970851,
-          "lng": 138.1152359697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04509577989273,
+            "lng": 138.1179347798927
+          },
+          "southwest": {
+            "lat": 36.04239612010728,
+            "lng": 138.1152351201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJi7sTbLRVHGARirlpgUl8B28",
-    "plus_code": {
-      "compound_code": "24V8+GJ 長野県諏訪市",
-      "global_code": "8Q8W24V8+GJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "飲食処ばんや",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107333701588233830566\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA1qtlUy5IF6APL7IeKb3TYcr5XBI8L-WZsu_1P1jY8f3GvLwjjXzELLgKFfWi91SWqDffyxiQh7BpuDWBLM9vLI_AATTNzX0TC8QNm-whgZQs7VqelDT8MwV_aZgyd4SvcPFdSX5DIva2YbpQ6139vKUsd0HYBG04kfdbQoJI-Qmc6",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJi7sTbLRVHGARirlpgUl8B28",
+      "plus_code": {
+        "compound_code": "24V8+GJ 諏訪市、長野県",
+        "global_code": "8Q8W24V8+GJ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

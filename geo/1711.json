@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡軽井沢町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地",
+      "geometry": {
+        "location": {
+          "lat": 36.2980937,
+          "lng": 138.6405479
         },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+        "viewport": {
+          "northeast": {
+            "lat": 36.29939907989272,
+            "lng": 138.6418082298927
+          },
+          "southwest": {
+            "lat": 36.29669942010728,
+            "lng": 138.6391085701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3483927,
-        "lng": 138.5970297
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
-        },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "和美ゴルフ練習場",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106688906339134503392\">Kazuki Hayashida</a>"
+          ],
+          "photo_reference": "Aap_uECL9qlOhRSCT06t3ciRK7ERdC5EJHb3eeMsuJtkUKAz9palp1_9X6PTpL1n4XzGZwZqHWkVNbmabe_3lZSG1Uq6IXctsLiwR1m8C4LAq9MASHpW7On5-ut7DcFrWW2ebI_idov_T3j7ZgAACIPjjPtudzpxmqsz8n8-02yxfJ-bywJk",
+          "width": 5333
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk6PBPzzSHWAR-XHag0iPEZk",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJy4h99UcrHGARIFT7BB87x0U",
+      "plus_code": {
+        "compound_code": "7JXR+66 軽井沢町、長野県",
+        "global_code": "8Q8W7JXR+66"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

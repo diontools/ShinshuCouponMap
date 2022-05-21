@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２６−１",
-        "short_name": "１２６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "三塚",
-        "short_name": "三塚",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0055",
-        "short_name": "385-0055",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0055 長野県佐久市三塚１２６−１",
-    "geometry": {
-      "location": {
-        "lat": 36.231495,
-        "lng": 138.4559735
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23276473029149,
-          "lng": 138.4575340302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0055 長野県佐久市三塚１２６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.231495,
+          "lng": 138.4559735
         },
-        "southwest": {
-          "lat": 36.23006676970849,
-          "lng": 138.4548360697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23276557989272,
+            "lng": 138.4575348798928
+          },
+          "southwest": {
+            "lat": 36.23006592010728,
+            "lng": 138.4548352201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJBZbhAck0HGARHB78QbpXbpc",
-    "plus_code": {
-      "compound_code": "6FJ4+H9 日本、長野県佐久市",
-      "global_code": "8Q8W6FJ4+H9"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルルートイン佐久南インター",
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104790076615224665901\">尾下雄紀</a>"
+          ],
+          "photo_reference": "Aap_uEC1QXJBCx5Pl7XiXdTrKN88KfWBLPCyHQOI165Te-_UG2BQ1S8nvDaUT3ioSHh9CcOuZqVy2_j6o5ZVm7sRBb2E_79Wx1ZTAgqGZ7Wb7fYAznfdToO9D9qd2AQySTJVKM4ffQYl9zCXBlWiM62zslsKeaSShxia0iIM2WJUQ_bozT_7",
+          "width": 5632
+        }
+      ],
+      "place_id": "ChIJBZbhAck0HGARHB78QbpXbpc",
+      "plus_code": {
+        "compound_code": "6FJ4+H9 佐久市、長野県",
+        "global_code": "8Q8W6FJ4+H9"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

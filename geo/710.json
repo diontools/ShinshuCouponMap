@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "牛角アグリしののい店",
-        "short_name": "牛角アグリしののい店",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３２０２",
-        "short_name": "３２０２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "篠ノ井布施五明",
-        "short_name": "篠ノ井布施五明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "388-8011",
-        "short_name": "388-8011",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒388-8011 長野県長野市篠ノ井布施五明３２０２ 牛角アグリしののい店",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5813994,
-          "lng": 138.1302333
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒388-8011 長野県長野市篠ノ井布施五明３２０４",
+      "geometry": {
+        "location": {
+          "lat": 36.5812959,
+          "lng": 138.1301082
         },
-        "southwest": {
-          "lat": 36.5812453,
-          "lng": 138.1300645
+        "viewport": {
+          "northeast": {
+            "lat": 36.58262412989272,
+            "lng": 138.1312997298927
+          },
+          "southwest": {
+            "lat": 36.57992447010728,
+            "lng": 138.1286000701073
+          }
         }
       },
-      "location": {
-        "lat": 36.5813389,
-        "lng": 138.1301843
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5826955802915,
-          "lng": 138.1314978802915
-        },
-        "southwest": {
-          "lat": 36.5799976197085,
-          "lng": 138.1287999197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "牛角 アグリしののい店",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101881960972082670157\">のら猫</a>"
+          ],
+          "photo_reference": "Aap_uEBpMW74frWBJPo3ovdXVB3KHOTcB1218Loge1FeT_brEAW0jdTp8NT-FdI_F0g_-A9-VK_oGJudDoCbf9PllsH_9p4Sn_lfpQOvoP7_yPdoUQSSQ6XRQXSP2oTDCfVjHgRrSEfrX31Ej0n-RRe6_G6VO0SA4bfcVFNSK9Y_Yg2NnFrh",
+          "width": 3264
         }
-      }
-    },
-    "place_id": "ChIJUT382LmDHWARV3biQUWU-Qw",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJpRD92LmDHWARP9i-OSKNQwg",
+      "plus_code": {
+        "compound_code": "H4JJ+G3 長野市、長野県",
+        "global_code": "8Q8WH4JJ+G3"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４８７−４",
-        "short_name": "４４８７−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４４８７−４",
-    "geometry": {
-      "location": {
-        "lat": 36.70285,
-        "lng": 137.8205916
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7042642802915,
-          "lng": 137.8218678802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４４８７−４",
+      "geometry": {
+        "location": {
+          "lat": 36.70285,
+          "lng": 137.8205916
         },
-        "southwest": {
-          "lat": 36.7015663197085,
-          "lng": 137.8191699197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70426512989273,
+            "lng": 137.8218687298927
+          },
+          "southwest": {
+            "lat": 36.70156547010728,
+            "lng": 137.8191690701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjXoKEm3O918ROiEq9kRZ3WU",
-    "plus_code": {
-      "compound_code": "PR3C+46 長野県白馬村",
-      "global_code": "8Q8VPR3C+46"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "サンテラスぱのらま",
+      "photos": [
+        {
+          "height": 3144,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109498810849197261406\">TAK Super</a>"
+          ],
+          "photo_reference": "Aap_uEBVroK1YIoJ04MbR35azMk9Y3WHsBorXCQypRNcZO4wkrYJbVyoRs0ssRv9DdX6qc8TnmVJUjFiLJqc6PFnz0xGq-fNhf7EsknW-Y0Ukq-6_WeTgF4zxhY-YpS5aiNLuuUrftDKUtcFr-PakWYxVt6m5yqOFT8JN8NJfRLrdkRLChvu",
+          "width": 4192
+        }
+      ],
+      "place_id": "ChIJjXoKEm3O918ROiEq9kRZ3WU",
+      "plus_code": {
+        "compound_code": "PR3C+46 白馬村、長野県",
+        "global_code": "8Q8VPR3C+46"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

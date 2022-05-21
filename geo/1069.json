@@ -1,90 +1,77 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３２３７",
-        "short_name": "３２３７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "稲荷町",
-        "short_name": "稲荷町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "岩村田",
-        "short_name": "岩村田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0022",
-        "short_name": "385-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0022 長野県佐久市岩村田稲荷町３２３７",
-    "geometry": {
-      "location": {
-        "lat": 36.2711263,
-        "lng": 138.4830722
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.27243823029149,
-          "lng": 138.4844096802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田稲荷町３２３７",
+      "geometry": {
+        "location": {
+          "lat": 36.2711287,
+          "lng": 138.4830728
         },
-        "southwest": {
-          "lat": 36.2697402697085,
-          "lng": 138.4817117197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27243907989273,
+            "lng": 138.4844105298927
+          },
+          "southwest": {
+            "lat": 36.26973942010728,
+            "lng": 138.4817108701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "岩村田観光タクシー（株）",
+      "place_id": "ChIJW9AmhJ7MHWAR96plauklhKU",
+      "plus_code": {
+        "compound_code": "7FCM+F6 佐久市、長野県",
+        "global_code": "8Q8W7FCM+F6"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJW9AmhJ7MHWAR96plauklhKU",
-    "plus_code": {
-      "compound_code": "7FCM+F6 日本、長野県佐久市",
-      "global_code": "8Q8W7FCM+F6"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田８５１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2768355,
+          "lng": 138.4783798
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.27818287989272,
+            "lng": 138.4797295798927
+          },
+          "southwest": {
+            "lat": 36.27548322010728,
+            "lng": 138.4770299201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "佐久小諸観光タクシー",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111656508565842515826\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECwvYhxTAo8g7qNXKCgbzAoiTYmFpOKs21pHefFyf3-H3sKHfkc-j0j3aoD534PCcdxD6pwPbTlLva0fGySiGkeuRWGlzXE6t92ufQHjH3ikLGxE2AABSAVg-HcwGxwariKvUpgFMEw0LgkYRYgl2Sx9kL_XLSbscEM6oOwQIhpE1MU",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJ0SIoeX3LHWARuFqn29zdcxs",
+      "plus_code": {
+        "compound_code": "7FGH+P9 佐久市、長野県",
+        "global_code": "8Q8W7FGH+P9"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

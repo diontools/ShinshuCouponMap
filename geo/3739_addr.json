@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５８０",
-        "short_name": "５８０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南信濃八重河内",
-        "short_name": "南信濃八重河内",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1312",
-        "short_name": "399-1312",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1312 長野県飯田市南信濃八重河内５８０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.2980464,
-          "lng": 137.9273206
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-1312 長野県飯田市南信濃八重河内５８０",
+      "geometry": {
+        "location": {
+          "lat": 35.2978718,
+          "lng": 137.9271926
         },
-        "southwest": {
-          "lat": 35.29777440000001,
-          "lng": 137.9270733
+        "viewport": {
+          "northeast": {
+            "lat": 35.29915547989272,
+            "lng": 137.9283669298927
+          },
+          "southwest": {
+            "lat": 35.29645582010728,
+            "lng": 137.9256672701073
+          }
         }
       },
-      "location": {
-        "lat": 35.2978718,
-        "lng": 137.9271926
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.29924193029149,
-          "lng": 137.9284300802915
-        },
-        "southwest": {
-          "lat": 35.29654396970849,
-          "lng": 137.9257321197085
-        }
-      }
-    },
-    "place_id": "ChIJ9fqXfa56G2ARgLNroua_nhU",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-1312 長野県飯田市南信濃八重河内５８０",
+      "place_id": "ChIJ9fqXfa56G2ARgLNroua_nhU",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

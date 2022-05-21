@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１６",
-        "short_name": "１６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "野溝東",
-        "short_name": "野溝東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0034",
-        "short_name": "399-0034",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0034 長野県松本市野溝東１丁目１６−６",
-    "geometry": {
-      "location": {
-        "lat": 36.196487,
-        "lng": 137.959637
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.19793113029149,
-          "lng": 137.9612047802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0034 長野県松本市野溝東１丁目１６−６",
+      "geometry": {
+        "location": {
+          "lat": 36.1964839,
+          "lng": 137.9596516
         },
-        "southwest": {
-          "lat": 36.19523316970849,
-          "lng": 137.9585068197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.19793197989272,
+            "lng": 137.9612056298927
+          },
+          "southwest": {
+            "lat": 36.19523232010728,
+            "lng": 137.9585059701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyY7rx6cPHWAR7350S1yq52c",
-    "plus_code": {
-      "compound_code": "5XW5+HV 日本、長野県松本市",
-      "global_code": "8Q8V5XW5+HV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "すし処 泰 松本店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116878425448991015804\">越喜来尚也</a>"
+          ],
+          "photo_reference": "Aap_uEATb84GPxZo0RzwQv9GGghQp2pJzSWZp31GmK2Uw0OEKvDyYXZLvRtPntwinKrMmpMlipWwnDcQvbb1t2dH9NNQcw3q1Dc-XtFgjm6KnhFCrLeWmBsFW1ewzys5kvHuf5Jo-2eZcZgEgleeJZQwSZZ4FvkqEyP42Y66Jdj_qxaEBBq7",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJyY7rx6cPHWAR7350S1yq52c",
+      "plus_code": {
+        "compound_code": "5XW5+HV 松本市、長野県",
+        "global_code": "8Q8V5XW5+HV"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

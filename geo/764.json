@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８５−３",
-        "short_name": "１８５−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西尾張部",
-        "short_name": "西尾張部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0031",
-        "short_name": "381-0031",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0031 長野県長野市西尾張部１８５−３",
-    "geometry": {
-      "location": {
-        "lat": 36.6468236,
-        "lng": 138.2282418
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64807933029149,
-          "lng": 138.2297220302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0031 長野県長野市西尾張部１８５−３",
+      "geometry": {
+        "location": {
+          "lat": 36.646823,
+          "lng": 138.2283504
         },
-        "southwest": {
-          "lat": 36.6453813697085,
-          "lng": 138.2270240697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64808017989272,
+            "lng": 138.2297228798927
+          },
+          "southwest": {
+            "lat": 36.64538052010727,
+            "lng": 138.2270232201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJF6TejAiGHWAR7lOv1gCEWlw",
-    "plus_code": {
-      "compound_code": "J6WH+P7 日本、長野県長野市",
-      "global_code": "8Q8WJ6WH+P7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ビッグボーイ 西尾張部店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101571616707359707326\">近藤新</a>"
+          ],
+          "photo_reference": "Aap_uEAUGbUrc3hOjY3spfoJJNqbRUXphfFVRqaqtGVoeuALPJwnXrrwkkbjAkcHZMADcdTJTA2dsxgOHtv2lnHQqVuFd4KGm0in3sWLKkV-6Eu8odmFUaCdegJan3Ast4JLUiHuZR_5L2zY_9rmR9ZFN_in8YD9HF3_MyS6Z0EhZXB3FFI5",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJF6TejAiGHWAR7lOv1gCEWlw",
+      "plus_code": {
+        "compound_code": "J6WH+P7 長野市、長野県",
+        "global_code": "8Q8WJ6WH+P7"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

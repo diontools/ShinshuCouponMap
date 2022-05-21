@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪郡富士見町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9711369,
-          "lng": 138.3702632
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0211 長野県諏訪郡富士見町富士見１１４０４−２００ マナスル山荘 本館",
+      "geometry": {
+        "location": {
+          "lat": 35.9019471,
+          "lng": 138.1720628
         },
-        "southwest": {
-          "lat": 35.7808892,
-          "lng": 138.1685621
+        "viewport": {
+          "northeast": {
+            "lat": 35.90321052989272,
+            "lng": 138.1735641298927
+          },
+          "southwest": {
+            "lat": 35.90051087010728,
+            "lng": 138.1708644701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9146598,
-        "lng": 138.2406687
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9711369,
-          "lng": 138.3702632
-        },
-        "southwest": {
-          "lat": 35.7808892,
-          "lng": 138.1685621
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "マナスル山荘 本館",
+      "photos": [
+        {
+          "height": 2400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106005000985097605508\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEALqfnRXs0BkPrgKJww4t3pMEvajWvFzWGIEcMrEdQIpc3c263f_3a8M-_gq8woL8Ec5S20cGgZqCpArrwIdpDBs3FSlBOpFwBmK66XeQKYwbU_6ys5kHZtYT-sK4cLQzw46cepV-zX1gSz__NTLj33jLgm-r5UhQ6dVjQnrxQVkFG9",
+          "width": 3200
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJh09QsYRCHGARPRbZU3mErpA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJn6WQ0_dbHGARbR_K0-BM8ZE",
+      "plus_code": {
+        "compound_code": "W52C+QR 富士見町、長野県",
+        "global_code": "8Q7WW52C+QR"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

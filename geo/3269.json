@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３−１７０",
-        "short_name": "２３−１７０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂２３−１７０",
-    "geometry": {
-      "location": {
-        "lat": 35.7306741,
-        "lng": 137.8971689
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7320908802915,
-          "lng": 137.8984814302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂２３−１７０",
+      "geometry": {
+        "location": {
+          "lat": 35.7306741,
+          "lng": 137.8971689
         },
-        "southwest": {
-          "lat": 35.7293929197085,
-          "lng": 137.8957834697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.73209172989272,
+            "lng": 137.8984822798927
+          },
+          "southwest": {
+            "lat": 35.72939207010728,
+            "lng": 137.8957826201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJa4Gx4bbyHGAR-AGIz6azhsI",
-    "plus_code": {
-      "compound_code": "PVJW+7V 長野県駒ヶ根市",
-      "global_code": "8Q7VPVJW+7V"
-    },
-    "types": [
-      "establishment",
-      "health",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "露天 こぶしの湯",
+      "photos": [
+        {
+          "height": 1512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101489074052821348433\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDROl6cvrc4z5nuCQ5OUCd-CJfoj7bSew423wdNvd6NHLNceZ2RP_0waGu5QmOyH-WqZXJC7P6TcaljrYY4LJVu7TJNB3q0fcJEOas7-nVHqe7GwnSaZKrhqUdo-9c0eYcVIXaVVBc-PAQrRhAIYsxdd47aP8pTUVgOhvbdj9_PQVyB",
+          "width": 2016
+        }
+      ],
+      "place_id": "ChIJa4Gx4bbyHGAR-AGIz6azhsI",
+      "plus_code": {
+        "compound_code": "PVJW+7V 駒ヶ根市、長野県",
+        "global_code": "8Q7VPVJW+7V"
+      },
+      "types": [
+        "spa",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

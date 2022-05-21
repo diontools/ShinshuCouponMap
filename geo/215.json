@@ -1,94 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７７６７",
-        "short_name": "７７６７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷７７６７",
-    "geometry": {
-      "location": {
-        "lat": 36.9203926,
-        "lng": 138.4505721
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9217674802915,
-          "lng": 138.4519844802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷７７６７",
+      "geometry": {
+        "location": {
+          "lat": 36.9203926,
+          "lng": 138.4505721
         },
-        "southwest": {
-          "lat": 36.9190695197085,
-          "lng": 138.4492865197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92176832989272,
+            "lng": 138.4519853298927
+          },
+          "southwest": {
+            "lat": 36.91906867010728,
+            "lng": 138.4492856701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq54weCkF9l8R5ZjdHJhlOFU",
-    "plus_code": {
-      "compound_code": "WFC2+56 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWFC2+56"
-    },
-    "types": [
-      "bar",
-      "cafe",
-      "establishment",
-      "food",
-      "gym",
-      "health",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "The Dojo Climbing Cafe & Bar",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102645705682931816125\">Markus Winter</a>"
+          ],
+          "photo_reference": "Aap_uEBerJ6wwiCDSM9QFrQLy9Z8z4OSuPaPnmpoFsiIkn_HmVN8Lj5HM-ePA5-4QAreCeza8sB72TSUSPZidrq12HtLQ3QgAsC91TFyL56ZWKLIo1cIDQtJjDFo7-iu9xegLizv_uNkdWAxvUL1FWectjN_wjvez_KxqKFmnWzNeUzH5E5R",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJq54weCkF9l8R5ZjdHJhlOFU",
+      "plus_code": {
+        "compound_code": "WFC2+56 野沢温泉村、長野県",
+        "global_code": "8Q8WWFC2+56"
+      },
+      "types": [
+        "gym",
+        "cafe",
+        "health",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,100 +1,94 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "渚",
-        "short_name": "渚",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0841",
-        "short_name": "390-0841",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0841 長野県松本市渚１丁目７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2333314,
-        "lng": 137.95562
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2346693802915,
-          "lng": 137.9569687802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0841 長野県松本市渚１丁目７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2333314,
+          "lng": 137.95562
         },
-        "southwest": {
-          "lat": 36.2319714197085,
-          "lng": 137.9542708197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23467022989271,
+            "lng": 137.9569696298927
+          },
+          "southwest": {
+            "lat": 36.23197057010727,
+            "lng": 137.9542699701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "なぎさライフサイト",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104356689554945065825\">Mu Chun Kang</a>"
+          ],
+          "photo_reference": "Aap_uECPqXEp5ckxVYUNblrtJ1_miTxG4a0StJoGFTwhpC4zOqAHehpo_T3g-7PKTf8JnxNCKmRG0dp73bajzHqhkhmW_y9wY6DMM8QKIk9BiQpUX56xplXbroDsNOc8pZ2F25hJQy33RmYxzhHXKE8_-DL4-9krpy69sdc_MtzWOjKJdmXg",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJn2YBQnsOHWARr1TxubkZDPM",
+      "plus_code": {
+        "compound_code": "6XM4+86 松本市、長野県",
+        "global_code": "8Q8V6XM4+86"
+      },
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJn2YBQnsOHWARr1TxubkZDPM",
-    "plus_code": {
-      "compound_code": "6XM4+86 長野県松本市",
-      "global_code": "8Q8V6XM4+86"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "shopping_mall"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0841 長野県松本市渚１丁目７−１ なぎさライフサイト内",
+      "geometry": {
+        "location": {
+          "lat": 36.23294509999999,
+          "lng": 137.9551068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23427417989272,
+            "lng": 137.9565677798927
+          },
+          "southwest": {
+            "lat": 36.23157452010727,
+            "lng": 137.9538681201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "湯の華銭湯 瑞祥 松本館",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104933154322203356376\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC1ZyZvYjU72aWdfpSam55TsR0sEHbTYi9QiqAsSs_yZBj0GFGzZ1vcDLc_uhtBn3Q1ky2NggcA1YR-Tqw_fDMbcFi4eA3orI3InLa6wrlwOD6Bst64kn8B18_8py1vZWv-Ljmm721tjgnd8zP9H3jjCJ69EnLjSCUFJkJ7RPh7r4JE",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJO4YxEnsOHWAR4wEF2tWFJoc",
+      "plus_code": {
+        "compound_code": "6XM4+52 松本市、長野県",
+        "global_code": "8Q8V6XM4+52"
+      },
+      "types": [
+        "spa",
+        "beauty_salon",
+        "hair_care",
+        "health",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

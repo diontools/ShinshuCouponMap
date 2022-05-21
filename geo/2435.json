@@ -1,83 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "芦峅寺",
-        "short_name": "芦峅寺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立山町",
-        "short_name": "立山町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "中新川郡",
-        "short_name": "中新川郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "富山県",
-        "short_name": "富山県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "930-1406",
-        "short_name": "930-1406",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒930-1406 富山県中新川郡立山町芦峅寺",
-    "geometry": {
-      "location": {
-        "lat": 36.5878586,
-        "lng": 137.7355397
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5892075802915,
-          "lng": 137.7368886802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒930-1406 富山県中新川郡立山町芦峅寺",
+      "geometry": {
+        "location": {
+          "lat": 36.5878586,
+          "lng": 137.7355397
         },
-        "southwest": {
-          "lat": 36.5865096197085,
-          "lng": 137.7341907197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.58920842989272,
+            "lng": 137.7368895298927
+          },
+          "southwest": {
+            "lat": 36.58650877010728,
+            "lng": 137.7341898701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "種池山荘",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101086992208226836710\">alps dake</a>"
+          ],
+          "photo_reference": "Aap_uEBqx3z8kXqqov6FGozgIZoAoCX1ivl-1eFtToVGp7DZeWwbxonf0N6xzYP8MTuTTtW6WbCXyREM4o5L664ikgTTlhcG-JujJyXiu5kuHmDfqu3roBV6Cz50I5f_Z6HSGDdblUW4Ll8nLCt54iqLt6kugsZBFoCIJQIDUMqrXbXJlu0L",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJlQ9UCBbc918RapihWiGbd6o",
+      "plus_code": {
+        "compound_code": "HPQP+46 黒部市、富山県",
+        "global_code": "8Q8VHPQP+46"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJlQ9UCBbc918RapihWiGbd6o",
-    "plus_code": {
-      "compound_code": "HPQP+46 日本、富山県黒部市",
-      "global_code": "8Q8VHPQP+46"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平５３２８",
+      "geometry": {
+        "location": {
+          "lat": 36.6029719,
+          "lng": 137.7483584
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.60432172989272,
+            "lng": 137.7497082298927
+          },
+          "southwest": {
+            "lat": 36.60162207010728,
+            "lng": 137.7470085701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "冷池山荘",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107509723774259939472\">abe izumokuni</a>"
+          ],
+          "photo_reference": "Aap_uEA0QQNc4Er8ruW0bkXr3PNSQykjHjFy6eC3BAKY5mpQK7KyxTTwi8Cnd_ZAuTEA8m-KKeBV14Hti6oyvkRVSTQ9LXG8XzoDd2dcUtPjj7PE06Vz_dpt7i2smLffKs6in7olRE8Fc1H1ZpI3IP2s61idV_W3T9lIJfKQJV_k4KqRgTT2",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJg1dQYInb918RialjFunYPmI",
+      "plus_code": {
+        "compound_code": "JP3X+58 大町市、長野県",
+        "global_code": "8Q8VJP3X+58"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

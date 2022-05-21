@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８２８",
-        "short_name": "４８２８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "読書",
-        "short_name": "読書",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5301",
-        "short_name": "399-5301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5301 長野県木曽郡南木曽町読書４８２８",
-    "geometry": {
-      "location": {
-        "lat": 35.6206009,
-        "lng": 137.6306859
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6218782802915,
-          "lng": 137.6320918802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5301 長野県木曽郡南木曽町読書４８２８",
+      "geometry": {
+        "location": {
+          "lat": 35.6205413,
+          "lng": 137.6307078
         },
-        "southwest": {
-          "lat": 35.6191803197085,
-          "lng": 137.6293939197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.62187912989272,
+            "lng": 137.6320927298927
+          },
+          "southwest": {
+            "lat": 35.61917947010728,
+            "lng": 137.6293930701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJg4A2WLnHHGARszS82l_LSkI",
-    "plus_code": {
-      "compound_code": "JJCJ+67 長野県南木曽町",
-      "global_code": "8Q7VJJCJ+67"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Hostel 結い庵",
+      "photos": [
+        {
+          "height": 3699,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118036320200923800419\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBvlyg-nEN1RNwEr3iBge7hP4wQCeN03WD4gs8sd5mNA_e56vES09QVbeR_ytx_PiWE4TQ-OMhREAacC74w42hxIpBEwx7PB8kqiGlnI2rBEp5uOUbeWGjc7KzCOam6lYYv9DzzugOtStV20P3Ena85EL8r-dqY5E_O5aS24prb3aim",
+          "width": 5549
+        }
+      ],
+      "place_id": "ChIJg4A2WLnHHGARszS82l_LSkI",
+      "plus_code": {
+        "compound_code": "JJCJ+67 南木曽町、長野県",
+        "global_code": "8Q7VJJCJ+67"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

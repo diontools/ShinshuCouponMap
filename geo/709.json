@@ -1,82 +1,37 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７６６−４",
-        "short_name": "７６６−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "篠ノ井御幣川",
-        "short_name": "篠ノ井御幣川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "388-8006",
-        "short_name": "388-8006",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒388-8006 長野県長野市篠ノ井御幣川７６６−４",
-    "geometry": {
-      "location": {
-        "lat": 36.5664431,
-        "lng": 138.1452478
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5677438802915,
-          "lng": 138.1466033802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒388-8006 長野県長野市篠ノ井御幣川７６６−４",
+      "geometry": {
+        "location": {
+          "lat": 36.5664245,
+          "lng": 138.1452516
         },
-        "southwest": {
-          "lat": 36.5650459197085,
-          "lng": 138.1439054197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.56774472989272,
+            "lng": 138.1466042298927
+          },
+          "southwest": {
+            "lat": 36.56504507010727,
+            "lng": 138.1439045701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJn1FeeXGDHWARpSJ9CM0aF9Y",
-    "plus_code": {
-      "compound_code": "H48W+H3 日本、長野県長野市",
-      "global_code": "8Q8WH48W+H3"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "信州ツーリストサービス",
+      "place_id": "ChIJn1FeeXGDHWARpSJ9CM0aF9Y",
+      "plus_code": {
+        "compound_code": "H48W+H3 長野市、長野県",
+        "global_code": "8Q8WH48W+H3"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

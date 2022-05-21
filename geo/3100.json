@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５５６−１",
-        "short_name": "３５５６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "ちの",
-        "short_name": "ちの",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0001",
-        "short_name": "391-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0001 長野県茅野市ちの３５５６−１",
-    "geometry": {
-      "location": {
-        "lat": 35.9926026,
-        "lng": 138.1528313
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.99400903029149,
-          "lng": 138.1542867302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0001 長野県茅野市ちの３５５６−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9926026,
+          "lng": 138.1528313
         },
-        "southwest": {
-          "lat": 35.99131106970849,
-          "lng": 138.1515887697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99400987989272,
+            "lng": 138.1542875798927
+          },
+          "southwest": {
+            "lat": 35.99131022010727,
+            "lng": 138.1515879201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJkTZWKC5XHGARJkX0FNS5BpU",
-    "plus_code": {
-      "compound_code": "X5V3+24 長野県茅野市",
-      "global_code": "8Q7WX5V3+24"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ほり・お食事処和洋割烹",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110234346347887660824\">山本耕一郎</a>"
+          ],
+          "photo_reference": "Aap_uEBnJjXfufxNRU5ZTfTqZntzMlCo57UDBxC3g_FzRwMpnITvet7jIuj4XI6gz1zGQl1K4nIrG51e5BDCSTRIGfPMra5Zh1_-Hx_Se8lIanLonb5iok9LywO63rDF0Lzytzfcq5I3t6lEga34NCQh7Uq5v_yNdYhHE8E26Bi92ikIQbnf",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJkTZWKC5XHGARJkX0FNS5BpU",
+      "plus_code": {
+        "compound_code": "X5V3+24 茅野市、長野県",
+        "global_code": "8Q7WX5V3+24"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２０",
-        "short_name": "２０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "塚原",
-        "short_name": "塚原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0002",
-        "short_name": "391-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0002 長野県茅野市塚原１丁目２０−８",
-    "geometry": {
-      "location": {
-        "lat": 35.99983539999999,
-        "lng": 138.1545799
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0011126802915,
-          "lng": 138.1558465302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0002 長野県茅野市塚原１丁目２０−８",
+      "geometry": {
+        "location": {
+          "lat": 35.99983539999999,
+          "lng": 138.1545799
         },
-        "southwest": {
-          "lat": 35.9984147197085,
-          "lng": 138.1531485697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00111352989272,
+            "lng": 138.1558473798927
+          },
+          "southwest": {
+            "lat": 35.99841387010727,
+            "lng": 138.1531477201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJU7vDfilXHGARlD5nnpV1Tpg",
-    "plus_code": {
-      "compound_code": "X5X3+WR 長野県茅野市",
-      "global_code": "8Q7WX5X3+WR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "唐揚げのやまざき 茅野店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109742198423658254205\">本間文博</a>"
+          ],
+          "photo_reference": "Aap_uEAB3PTZt_3mT5NGR-G4WAW5qW3NO7JxuuwfrGDqMUURYvCCblGMWDQQYN-tl6IhCiahtrK51B4Mw10OznhwsmJrDIFPzemwPoswt5YIvO0eAlgi30PK-z3HeHfURTDFXgOBIdzc1Y_iRNotX39HihLJLBC6nd8WMEKZenyvv9algYCD",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJU7vDfilXHGARlD5nnpV1Tpg",
+      "plus_code": {
+        "compound_code": "X5X3+WR 茅野市、長野県",
+        "global_code": "8Q7WX5X3+WR"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

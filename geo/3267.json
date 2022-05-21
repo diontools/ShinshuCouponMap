@@ -1,85 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６４１０",
-        "short_name": "１６４１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂１６４１０",
-    "geometry": {
-      "location": {
-        "lat": 35.7076342,
-        "lng": 137.9022011
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7087889302915,
-          "lng": 137.9036630302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂１６４１０",
+      "geometry": {
+        "location": {
+          "lat": 35.7076342,
+          "lng": 137.9022011
         },
-        "southwest": {
-          "lat": 35.7060909697085,
-          "lng": 137.9009650697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.70878977989273,
+            "lng": 137.9036638798927
+          },
+          "southwest": {
+            "lat": 35.70609012010728,
+            "lng": 137.9009642201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJTVX91MmSHGARm9Dp12N-uyw",
-    "plus_code": {
-      "compound_code": "PW52+3V 長野県駒ヶ根市",
-      "global_code": "8Q7VPW52+3V"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "養命酒健康の森",
+      "photos": [
+        {
+          "height": 1278,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114643950353600917791\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAuBum0Zv_pTi8W31Bb65AVvRWa_qGiFUiKnUyqSVFJBXPmrqISTaOeuWwEz7g7PAD_z6idJ_szwYb8JIg6YX-W0ND5wkYxXzZE4VYssxJJJiJPAAWC1KsqL2K-asjZvucvgoZOtsn_mOtnSClEij8tTTCqMQlgQbgZydFbjWlLqUC0",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJTVX91MmSHGARm9Dp12N-uyw",
+      "plus_code": {
+        "compound_code": "PW52+3V 駒ヶ根市、長野県",
+        "global_code": "8Q7VPW52+3V"
+      },
+      "types": [
+        "tourist_attraction",
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

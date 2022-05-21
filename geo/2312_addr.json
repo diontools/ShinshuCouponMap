@@ -1,179 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "内田",
-        "short_name": "内田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0023",
-        "short_name": "399-0023",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0023 長野県松本市内田",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.173013,
-          "lng": 138.0503565
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0023 長野県松本市内田 竹原3396−1",
+      "geometry": {
+        "location": {
+          "lat": 36.154052,
+          "lng": 138.009045
         },
-        "southwest": {
-          "lat": 36.1473103,
-          "lng": 137.9754764
+        "viewport": {
+          "northeast": {
+            "lat": 36.15536197989272,
+            "lng": 138.0105534798927
+          },
+          "southwest": {
+            "lat": 36.15266232010728,
+            "lng": 138.0078538201073
+          }
         }
       },
-      "location": {
-        "lat": 36.1586416,
-        "lng": 138.0258046
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.173013,
-          "lng": 138.0503565
-        },
-        "southwest": {
-          "lat": 36.1473103,
-          "lng": 137.9754764
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "平成交通（有）",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105552761929929224612\">karu443</a>"
+          ],
+          "photo_reference": "Aap_uECUqy2pBd0R_zzWPrzmmYcSu72_xrHQ1tChnAdx6WmH4FA7zDwhKAZbk8pwhWlLWZfDqfPO4V8be4Pf7SSkDHudIHuPAlz6r0IC0iwlBnGXSDiNX-8lm060s37ttQFxHufSXca8EEwQlhNWCfrCkgLayiUtKgiwjihBMMFBw6-OCbgl",
+          "width": 1706
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJde5D42IGHWARwV3M1vFpFHw",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJjagbrocGHWARh17AWwkDins",
+      "plus_code": {
+        "compound_code": "5235+JJ 松本市、長野県",
+        "global_code": "8Q8W5235+JJ"
       },
-      {
-        "long_name": "２８",
-        "short_name": "２８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目２８−１７",
-    "geometry": {
-      "location": {
-        "lat": 36.23348,
-        "lng": 137.964174
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2348765302915,
-          "lng": 137.9655288802915
-        },
-        "southwest": {
-          "lat": 36.2321785697085,
-          "lng": 137.9628309197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJSRZ-YgOHWARAzhO0HC16Ds",
-    "plus_code": {
-      "compound_code": "6XM7+9M 長野県松本市",
-      "global_code": "8Q8V6XM7+9M"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

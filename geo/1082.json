@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４９１",
-        "short_name": "３４９１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "協和",
-        "short_name": "協和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2204",
-        "short_name": "384-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2204 長野県佐久市協和３４９１",
-    "geometry": {
-      "location": {
-        "lat": 36.1903991,
-        "lng": 138.3081666
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1917908302915,
-          "lng": 138.3108447
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2204 長野県佐久市協和３４９１",
+      "geometry": {
+        "location": {
+          "lat": 36.1903991,
+          "lng": 138.3081666
         },
-        "southwest": {
-          "lat": 36.1890928697085,
-          "lng": 138.3081038
+        "viewport": {
+          "northeast": {
+            "lat": 36.19248155,
+            "lng": 138.31221515
+          },
+          "southwest": {
+            "lat": 36.18840214999999,
+            "lng": 138.30673335
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJTzBROUOzHWARQ9KncBsJQmc",
-    "plus_code": {
-      "compound_code": "58R5+57 日本、長野県佐久市",
-      "global_code": "8Q8W58R5+57"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "サニーカントリークラブ",
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109262522837428624294\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAEZlfYWoLCluwsvedt9ypW0COqP22bVDzml5Ik4bbYbkItkWnXmTjORi1lLoXY8pr0b--mgPnV6f7JIDLdRUqTCuYIGGcXGoVWHRKM-65hfExSEN9lpdF7AkF2ebfZdkHWqQo8eoWN-SqWVkh-VCweTwHzg95Ed-kKI0i6OO2jskbt",
+          "width": 4288
+        }
+      ],
+      "place_id": "ChIJTzBROUOzHWARQ9KncBsJQmc",
+      "plus_code": {
+        "compound_code": "58R5+57 佐久市、長野県",
+        "global_code": "8Q8W58R5+57"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

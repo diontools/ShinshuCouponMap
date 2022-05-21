@@ -1,160 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８ しなの鉄度軽井沢駅",
+      "geometry": {
+        "location": {
+          "lat": 36.3429435,
+          "lng": 138.6351444
         },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+        "viewport": {
+          "northeast": {
+            "lat": 36.34428022989272,
+            "lng": 138.6364937798927
+          },
+          "southwest": {
+            "lat": 36.34158057010728,
+            "lng": 138.6337941201072
+          }
         }
       },
-      "location": {
-        "lat": 36.4019126,
-        "lng": 138.249075
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
-        },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "しなの鉄道観光列車「ろくもん」軽井沢駅",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102962281791536013752\">tajima EIKO</a>"
+          ],
+          "photo_reference": "Aap_uEA2zq4Dicz9ckenfs10voSSbwu4lJWDP1NgLiOVwtSlURx_ugmxYLCZX9vht2ovFmvj3O0_nqsx3mtiJ42MBEL8Gj61JB2ERPGRsHPBb_Uj94Hnie6YTKWmoas035fIcd7gBWycQFLuNiYHHq_9QiQPHhCbwxUScwdJLNwp1S1FekDc",
+          "width": 1478
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJsaSJhsy8HWARTFv1slYL1uE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "しなの鉄度軽井沢駅",
-        "short_name": "しなの鉄度軽井沢駅",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
+      ],
+      "place_id": "ChIJR_cr9XzTHWARnkQZE0e2zZc",
+      "plus_code": {
+        "compound_code": "8JVP+53 軽井沢町、長野県",
+        "global_code": "8Q8W8JVP+53"
       },
-      {
-        "long_name": "１１７８",
-        "short_name": "１１７８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８ しなの鉄度軽井沢駅",
-    "geometry": {
-      "location": {
-        "lat": 36.3429435,
-        "lng": 138.6351444
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3442793802915,
-          "lng": 138.6364929302915
-        },
-        "southwest": {
-          "lat": 36.3415814197085,
-          "lng": 138.6337949697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR_cr9XzTHWARnkQZE0e2zZc",
-    "plus_code": {
-      "compound_code": "8JVP+53 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JVP+53"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

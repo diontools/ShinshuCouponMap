@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５６９１−１",
-        "short_name": "５６９１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上木島",
-        "short_name": "上木島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2303",
-        "short_name": "389-2303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島５６９１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.8502433,
-        "lng": 138.3875894
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.85168658029149,
-          "lng": 138.3888670302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島５６９１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.8502999,
+          "lng": 138.3875467
         },
-        "southwest": {
-          "lat": 36.84898861970849,
-          "lng": 138.3861690697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85168742989272,
+            "lng": 138.3888678798927
+          },
+          "southwest": {
+            "lat": 36.84898777010728,
+            "lng": 138.3861682201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJaSoMgcke9l8RW1AlikMTPQE",
-    "plus_code": {
-      "compound_code": "V92Q+32 日本、長野県木島平村",
-      "global_code": "8Q8WV92Q+32"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "食彩市場たる川",
+      "photos": [
+        {
+          "height": 1708,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106452442131539641630\">KUMIKO USUI</a>"
+          ],
+          "photo_reference": "Aap_uECEounDgtueJSBLie-XiXh9StejSxU0Pq_pUkb9DGv3eMOeK37nUPbvs-3IbG8kqgmTO-ZrQ_wAQyMPH0YfPUv_oBsgwAWppSe8_cXkdyD0dKkFUUSLIbQQdsWMcpgDdlkjQQ7z2QyUF2cFsiDPnpDk4KU-s-sQBG5OVar7UT6f1dCw",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJaSoMgcke9l8RW1AlikMTPQE",
+      "plus_code": {
+        "compound_code": "V92Q+32 木島平村、長野県",
+        "global_code": "8Q8WV92Q+32"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

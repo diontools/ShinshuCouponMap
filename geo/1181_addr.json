@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１９７−３",
-        "short_name": "１１９７−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "滋野甲",
-        "short_name": "滋野甲",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0809",
-        "short_name": "384-0809",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0809 長野県小諸市滋野甲１１９７−３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3445945,
-          "lng": 138.3826272
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0809 長野県小諸市滋野甲１１９７−３",
+      "geometry": {
+        "location": {
+          "lat": 36.3445448,
+          "lng": 138.3825432
         },
-        "southwest": {
-          "lat": 36.3444909,
-          "lng": 138.3824982
+        "viewport": {
+          "northeast": {
+            "lat": 36.34586822989272,
+            "lng": 138.3841561298927
+          },
+          "southwest": {
+            "lat": 36.34316857010727,
+            "lng": 138.3814564701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3445448,
-        "lng": 138.3825432
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.34589168029149,
-          "lng": 138.3841327802915
-        },
-        "southwest": {
-          "lat": 36.34319371970849,
-          "lng": 138.3814348197085
-        }
-      }
-    },
-    "place_id": "ChIJfVF3tfO3HWARSGPi653G8Fs",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0809 長野県小諸市滋野甲１１９７−３",
+      "place_id": "ChIJfVF3tfO3HWARSGPi653G8Fs",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

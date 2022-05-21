@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３１２−４",
-        "short_name": "３３１２−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "坂下",
-        "short_name": "坂下",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "396-0024",
-        "short_name": "396-0024",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒396-0024 長野県伊那市坂下３３１２−４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.8405972,
-          "lng": 137.9617453
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒396-0024 長野県伊那市坂下３３１２−４",
+      "geometry": {
+        "location": {
+          "lat": 35.8405595,
+          "lng": 137.9616997
         },
-        "southwest": {
-          "lat": 35.8405043,
-          "lng": 137.9616511
+        "viewport": {
+          "northeast": {
+            "lat": 35.84193542989272,
+            "lng": 137.9630518798927
+          },
+          "southwest": {
+            "lat": 35.83923577010728,
+            "lng": 137.9603522201073
+          }
         }
       },
-      "location": {
-        "lat": 35.8405595,
-        "lng": 137.9616997
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8419096302915,
-          "lng": 137.9630471802915
-        },
-        "southwest": {
-          "lat": 35.8392116697085,
-          "lng": 137.9603492197085
-        }
-      }
-    },
-    "place_id": "ChIJ-0FdjwfxHGAR8np4o1xbbFs",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒396-0024 長野県伊那市坂下３３１２−４",
+      "place_id": "ChIJ-0FdjwfxHGAR8np4o1xbbFs",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

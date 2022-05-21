@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５２４",
-        "short_name": "５２４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅",
-        "short_name": "菅",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木祖村",
-        "short_name": "木祖村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6202",
-        "short_name": "399-6202",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6202 長野県木曽郡木祖村菅５２４",
-    "geometry": {
-      "location": {
-        "lat": 35.9133886,
-        "lng": 137.7707788
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9147377302915,
-          "lng": 137.7720281302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6202 長野県木曽郡木祖村菅５２４",
+      "geometry": {
+        "location": {
+          "lat": 35.9133926,
+          "lng": 137.7707476
         },
-        "southwest": {
-          "lat": 35.9120397697085,
-          "lng": 137.7693301697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.91473857989273,
+            "lng": 137.7720289798927
+          },
+          "southwest": {
+            "lat": 35.91203892010729,
+            "lng": 137.7693293201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGW-ZZnzgHGARV8IiWgw51e8",
-    "plus_code": {
-      "compound_code": "WQ7C+98 長野県木祖村",
-      "global_code": "8Q7VWQ7C+98"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "焼肉権兵衛",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108572639561223194323\">焼肉 権兵衛</a>"
+          ],
+          "photo_reference": "Aap_uEBA_bklZnvxtfvxnhV4ui6e4sxSgICHkuvFFpld4IdKB3Cz3k017u4SQWzM8xaZ8Ymlt-M4ekkvjEezAhgi-ABUg42UMB5lliNLHXsgEhV3ujSR0Ht6EOOob1cs3w8V9QZU3uhGxo9RGwbLQU-kO2M4ZO9Ly2fpFrngQrwBpbJDWy-V",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJGW-ZZnzgHGARV8IiWgw51e8",
+      "plus_code": {
+        "compound_code": "WQ7C+98 木祖村、長野県",
+        "global_code": "8Q7VWQ7C+98"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

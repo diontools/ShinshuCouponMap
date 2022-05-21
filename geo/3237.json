@@ -1,91 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０２６−２",
-        "short_name": "４０２６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿山",
-        "short_name": "鹿山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山鹿山４０２６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.0680781,
-        "lng": 138.2515091
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0695303802915,
-          "lng": 138.2529680302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山鹿山４０２６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0680781,
+          "lng": 138.2515091
         },
-        "southwest": {
-          "lat": 36.0668324197085,
-          "lng": 138.2502700697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06953122989272,
+            "lng": 138.2529688798927
+          },
+          "southwest": {
+            "lat": 36.06683157010728,
+            "lng": 138.2502692201072
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "東急ハーヴェストクラブ 蓼科リゾート",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113363263893665346245\">Rosszell Marie</a>"
+          ],
+          "photo_reference": "Aap_uEBXE9LPL_AmuINOkWHa1SsQyCMsmyGBkRBEcykAC6_4SHsDcUIUgW4zrk39p3_vnv51CTOYJF1Q3gdr5cXsiRCskgYhVs9pontY6Z0NQPeFaHVQKehYAypFnp1UiGwahKEL7o6zUvNEP4qCpShT4Rvlca_GTtCi1J9PS8Re_PZpDcze",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHY6LUxpOHGARUZeWrI68svI",
+      "plus_code": {
+        "compound_code": "3792+6J 茅野市、長野県",
+        "global_code": "8Q8W3792+6J"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJHY6LUxpOHGARUZeWrI68svI",
-    "plus_code": {
-      "compound_code": "3792+6J 長野県茅野市",
-      "global_code": "8Q8W3792+6J"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山 鹿山４０２６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0661636,
+          "lng": 138.2470737
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.06746552989273,
+            "lng": 138.2485465298927
+          },
+          "southwest": {
+            "lat": 36.06476587010729,
+            "lng": 138.2458468701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "東急ハーヴェストクラブ蓼科 本館",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104435610755544968507\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBLaRY-bK3yTc8jXIE09vdykZjq2ib0qtlJn_9Cgr8MaTA7neD72_xrvgWA6lXWjPoAa6Mbq_0-Atd7T1aUtPnPx9cs0POS9c09ONugqX5yUr6o4Bh2yJHs2-igBqzn1dB90ZjbTCcPkSmG4VlCpiaSxfyym3Yr3hpwJQ4GWeAoSbyu",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJVVUl8OFNHGARz0W4LD8nc3Q",
+      "plus_code": {
+        "compound_code": "368W+CR 茅野市、長野県",
+        "global_code": "8Q8W368W+CR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

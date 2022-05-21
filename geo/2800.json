@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６８９−１０８",
-        "short_name": "４６８９−１０８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻４６８９−１０８",
-    "geometry": {
-      "location": {
-        "lat": 35.5536479,
-        "lng": 137.6641609
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.55499298029149,
-          "lng": 137.6656362302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻４６８９−１０８",
+      "geometry": {
+        "location": {
+          "lat": 35.5536479,
+          "lng": 137.6641609
         },
-        "southwest": {
-          "lat": 35.5522950197085,
-          "lng": 137.6629382697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.55499382989272,
+            "lng": 137.6656370798927
+          },
+          "southwest": {
+            "lat": 35.55229417010728,
+            "lng": 137.6629374201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJySMOBWq5HGARU2J47--r64g",
-    "plus_code": {
-      "compound_code": "HM37+FM 長野県南木曽町",
-      "global_code": "8Q7VHM37+FM"
-    },
-    "types": [
-      "establishment",
-      "general_contractor",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "カネキン小椋製盆所",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106592491476475880466\">淳中村</a>"
+          ],
+          "photo_reference": "Aap_uECJb5Mbu88BKbK5SeH7aFEVGa69KE4RV_hXRxRthUTHHHmAZoLAf-PHYwQyNvFpo8AFROS8u-Kc55jfbm4GG5n83-eA6jWyfwxk9nitdOo7m9TaikooHzWThkWou2eLqsoZvYyR-JFQjPluSjNgJIBULfcPW98cydjtqd09x3Sl_QEG",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJySMOBWq5HGARU2J47--r64g",
+      "plus_code": {
+        "compound_code": "HM37+FM 南木曽町、長野県",
+        "global_code": "8Q7VHM37+FM"
+      },
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

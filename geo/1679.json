@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉",
-    "geometry": {
-      "location": {
-        "lat": 36.331375,
-        "lng": 138.601034
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3327305802915,
-          "lng": 138.6023800302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉",
+      "geometry": {
+        "location": {
+          "lat": 36.331375,
+          "lng": 138.601034
         },
-        "southwest": {
-          "lat": 36.3300326197085,
-          "lng": 138.5996820697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33273142989272,
+            "lng": 138.6023808798927
+          },
+          "southwest": {
+            "lat": 36.33003177010728,
+            "lng": 138.5996812201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0_l_sEnSHWARR1K36tX8uE4",
-    "plus_code": {
-      "compound_code": "8JJ2+HC 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JJ2+HC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest",
-      "real_estate_agency",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "はうすか かるいさわ",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108550672932886447459\">荒井渚</a>"
+          ],
+          "photo_reference": "Aap_uEBTiBz9IC0KxuzYfNn913_55mC8ofANENZbPnyWNCd8jkIFgJsmEKnqBBAKwjeRZL8Y7DWNp2j0r8-aePfXpr9i2bte59nIUP2suRNSBp2VuD2oz-Ck_QP2uUH0msgoRti62Ap7DP4WCntQXJS3UyrXjuYH-uBHppebSDWF5Ia-tTM-",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ0_l_sEnSHWARR1K36tX8uE4",
+      "plus_code": {
+        "compound_code": "8JJ2+HC 軽井沢町、長野県",
+        "global_code": "8Q8W8JJ2+HC"
+      },
+      "types": [
+        "travel_agency",
+        "real_estate_agency",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

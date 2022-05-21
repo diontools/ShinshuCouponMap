@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６４",
-        "short_name": "６４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目６４−５",
-    "geometry": {
-      "location": {
-        "lat": 36.480564,
-        "lng": 138.142174
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4819203802915,
-          "lng": 138.1435625802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目６４−５",
+      "geometry": {
+        "location": {
+          "lat": 36.4805761,
+          "lng": 138.1422111
         },
-        "southwest": {
-          "lat": 36.4792224197085,
-          "lng": 138.1408646197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48192122989272,
+            "lng": 138.1435634298927
+          },
+          "southwest": {
+            "lat": 36.47922157010728,
+            "lng": 138.1408637701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJeypAHBWcHWARsJ0AYXP8tMk",
-    "plus_code": {
-      "compound_code": "F4JR+6V 日本、長野県千曲市",
-      "global_code": "8Q8WF4JR+6V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "酒処まめ",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104838021936497746617\">Yucci H</a>"
+          ],
+          "photo_reference": "Aap_uEAQHOqfIBikcXfiG1TlZc0SqUZwKYzKGY3LZWrWz5m4qmKEiyL1sD3rVsJyN6XOMZ1LmZwrRSy_w6lLiVYR4SD7EN70VJmYcD2nBr4QJhVWocm7uPprH9VpZaFl2h2YCRBxQF5B7yDqvEtpXJu13xcE9u23z8SHiLHLxgJlVQRfvAj3",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJeypAHBWcHWARsJ0AYXP8tMk",
+      "plus_code": {
+        "compound_code": "F4JR+6V 千曲市、長野県",
+        "global_code": "8Q8WF4JR+6V"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

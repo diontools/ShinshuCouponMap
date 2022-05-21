@@ -1,83 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町平穏 大字夜間瀬大沢12377−17",
-    "geometry": {
-      "location": {
-        "lat": 36.7659475,
-        "lng": 138.514592
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7672265802915,
-          "lng": 138.5160443302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町 大字夜間瀬大沢12377−17",
+      "geometry": {
+        "location": {
+          "lat": 36.7659475,
+          "lng": 138.514592
         },
-        "southwest": {
-          "lat": 36.7645286197085,
-          "lng": 138.5133463697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.76722742989273,
+            "lng": 138.5160451798928
+          },
+          "southwest": {
+            "lat": 36.76452777010728,
+            "lng": 138.5133455201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "奥志賀高原スキー場",
+      "photos": [
+        {
+          "height": 2940,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114206680589205635795\">佐野秀</a>"
+          ],
+          "photo_reference": "Aap_uEAVi7O0dzhcrQ_0aAtdBjW3OtnIJ_nyWcWg8s0D1SonRzBkhkEG9IyTRwWQwYCRUp_8sD1SiCSvrtYcAVyIjDaYIOaOjjBQB30VmsI35LsaKN--N2bd2RFvx-W6vBpgBaJD0_cRAISTgXnLM19Ar4Bc4hlL3OrY0YtI-X7-zS4yPyo4",
+          "width": 3920
+        }
+      ],
+      "place_id": "ChIJxd2d7i_3HWARTbtBTZDuC-A",
+      "plus_code": {
+        "compound_code": "QG87+9R 山ノ内町、長野県",
+        "global_code": "8Q8WQG87+9R"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJxd2d7i_3HWARTbtBTZDuC-A",
-    "plus_code": {
-      "compound_code": "QG87+9R 長野県山ノ内町",
-      "global_code": "8Q8WQG87+9R"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町奥志賀高原",
+      "geometry": {
+        "location": {
+          "lat": 36.7793944,
+          "lng": 138.5292627
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.78102227989272,
+            "lng": 138.5304575298927
+          },
+          "southwest": {
+            "lat": 36.77832262010728,
+            "lng": 138.5277578701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "奥志賀高原ホテル",
+      "photos": [
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115830874431442815990\">奥志賀高原ホテル</a>"
+          ],
+          "photo_reference": "Aap_uEBZA247ahsPuRLeclt1j3eSd8K_KMqolq7W70mDfReMfaJR9PokH3hY4KBCoTS3jkpocZBtpac-Wmq-spbZjvGnLIswXeEEeYh4P07Oa2Ry-7Ji0sR8B6Tr4znv7qbOR5hJO2qnkbaaFdy_cSrLdKGWtKhUVajiM93lP6pUGcKXwMjM",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ93I70jH3HWARBkpiqgpKyvY",
+      "plus_code": {
+        "compound_code": "QGHH+QP 山ノ内町、長野県",
+        "global_code": "8Q8WQGHH+QP"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

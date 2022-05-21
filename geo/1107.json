@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６２−１",
-        "short_name": "４６２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "取出町",
-        "short_name": "取出町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0043",
-        "short_name": "385-0043",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0043 長野県佐久市取出町４６２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2195903,
-        "lng": 138.4686335
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2209380802915,
-          "lng": 138.4699148302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0043 長野県佐久市取出町４６２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2195903,
+          "lng": 138.4686335
         },
-        "southwest": {
-          "lat": 36.2182401197085,
-          "lng": 138.4672168697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.22093892989272,
+            "lng": 138.4699156798927
+          },
+          "southwest": {
+            "lat": 36.21823927010728,
+            "lng": 138.4672160201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq4s0npA0HGARbn5iQy2Sk-M",
-    "plus_code": {
-      "compound_code": "6F99+RF 日本、長野県佐久市",
-      "global_code": "8Q8W6F99+RF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "十一屋本店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106431497328902635009\">坂本洋代</a>"
+          ],
+          "photo_reference": "Aap_uED60We-8EGushDpGbzYJvmPJGoW5qkdv3i4RW-RTKS8cpVYsurULRPhE3-OAaX8W8rZIQCfcKoRAJAErkyGK-MYx4H3Xrfdz0yXo45GBJWTujBVcJPmKWZZAslNemrmI0w81Dqu9TLTUUn_SSDWNyVv84jVHX8BFcGD-xCVIyv15hOF",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJq4s0npA0HGARbn5iQy2Sk-M",
+      "plus_code": {
+        "compound_code": "6F99+RF 佐久市、長野県",
+        "global_code": "8Q8W6F99+RF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

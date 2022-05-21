@@ -1,101 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１６",
-        "short_name": "１６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4112",
-        "short_name": "399-4112",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4112 長野県駒ヶ根市中央１６−１７ 1f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.7360841,
-          "lng": 137.9346753
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-4112 長野県駒ヶ根市中央１６−１７ 1f",
+      "geometry": {
+        "location": {
+          "lat": 35.7360326,
+          "lng": 137.9346334
         },
-        "southwest": {
-          "lat": 35.7359621,
-          "lng": 137.9345994
+        "viewport": {
+          "northeast": {
+            "lat": 35.73738237989271,
+            "lng": 137.9359839298927
+          },
+          "southwest": {
+            "lat": 35.73468272010727,
+            "lng": 137.9332842701073
+          }
         }
       },
-      "location": {
-        "lat": 35.7360326,
-        "lng": 137.9346334
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7373720802915,
-          "lng": 137.9359844302915
-        },
-        "southwest": {
-          "lat": 35.7346741197085,
-          "lng": 137.9332864697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "1f",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111049739179282559936\">111049739179282559936</a>"
+          ],
+          "photo_reference": "Aap_uECNkH9tfSW3g_3Ecw_9Nrbxh4GalsUugB2-2zgA2uoKFOO_FOiJWrE9WQ38ALy-RgmKRGsM_jCarax7E7WagFKLSb-5lOez23MwZgt1fIaC84WAG-_vWIapNHoT4q9ix37yLI2vyL9EMONezSR_GPiXV25MbFtI2oc2OrrqxcyN3ILu",
+          "width": 4160
         }
-      }
-    },
-    "place_id": "EjIxZiwgMTYtMTcgQ2jFq8WNLCBLb21hZ2FuZSwgTmFnYW5vIDM5OS00MTEyLCBKYXBhbiIeGhwKFgoUChIJsQnV8rDyHGARD8-GZeTpuB4SAjFm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "EkLml6XmnKzjgIHjgJIzOTktNDExMiDplbfph47nnIzpp5Ljg7bmoLnluILkuK3lpK7vvJHvvJbiiJLvvJHvvJcgMWYiHhocChYKFAoSCbEJ1fKw8hxgEQ_PhmXk6bgeEgIxZg",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

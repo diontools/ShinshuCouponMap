@@ -1,134 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県茅野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.112594,
-          "lng": 138.3743063
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0211 長野県茅野市湖東６５９５−３５９",
+      "geometry": {
+        "location": {
+          "lat": 36.0319701,
+          "lng": 138.2099604
         },
-        "southwest": {
-          "lat": 35.9166535,
-          "lng": 138.111896
+        "viewport": {
+          "northeast": {
+            "lat": 36.03332772989272,
+            "lng": 138.2113099298927
+          },
+          "southwest": {
+            "lat": 36.03062807010728,
+            "lng": 138.2086102701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9949904,
-        "lng": 138.1576589
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.112594,
-          "lng": 138.3743063
-        },
-        "southwest": {
-          "lat": 35.9166535,
-          "lng": 138.111896
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "日本料理 栄町",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105188511443022364730\">日本料理 栄町</a>"
+          ],
+          "photo_reference": "Aap_uEBocOUUzmgHEUTiq6a-GCHE35syFKB_WwDBP_LrJX03pp5RZ5vpZwCa-zTfnou_7WPDgGFNvrBHAbKHFhYtHKbhB9_P_1H9RdiYyLCP90wY-pKLDPChKVO8dOaMtSqMdYSFM1Fq77ScpZT5t2XZXtVjgllT9ggzXkAUEswtysOa4ShW",
+          "width": 2160
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ10NcouNPHGARSOAmcG2ylTs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "栄町",
-        "short_name": "栄町",
-        "types": [
-          "locality",
-          "political"
-        ]
+      ],
+      "place_id": "ChIJdQy5nLVRHGARK851wN4Q5Ik",
+      "plus_code": {
+        "compound_code": "26J5+QX 茅野市、長野県",
+        "global_code": "8Q8W26J5+QX"
       },
-      {
-        "long_name": "印旛郡",
-        "short_name": "印旛郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "千葉県",
-        "short_name": "千葉県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、千葉県印旛郡栄町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.8741947,
-          "lng": 140.29008
-        },
-        "southwest": {
-          "lat": 35.8003511,
-          "lng": 140.1686869
-        }
-      },
-      "location": {
-        "lat": 35.84084320000001,
-        "lng": 140.2439245
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8741947,
-          "lng": 140.29008
-        },
-        "southwest": {
-          "lat": 35.8003511,
-          "lng": 140.1686869
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYxy19qtjImARF7KqoOKgx7I",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

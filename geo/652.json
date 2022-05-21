@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８４",
-        "short_name": "４８４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元善町",
-        "short_name": "元善町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0853",
-        "short_name": "380-0853",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0853 長野県長野市長野元善町４８４",
-    "geometry": {
-      "location": {
-        "lat": 36.6587454,
-        "lng": 138.1874459
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6600943802915,
-          "lng": 138.1887948802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0853 長野県長野市長野元善町４８４",
+      "geometry": {
+        "location": {
+          "lat": 36.6587454,
+          "lng": 138.1874459
         },
-        "southwest": {
-          "lat": 36.6573964197085,
-          "lng": 138.1860969197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66009522989273,
+            "lng": 138.1887957298927
+          },
+          "southwest": {
+            "lat": 36.65739557010728,
+            "lng": 138.1860960701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbVvjdOOGHWARS20d852RTAM",
-    "plus_code": {
-      "compound_code": "M55P+FX 日本、長野県長野市",
-      "global_code": "8Q8WM55P+FX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "喜多平そば店",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109470431241769819325\">高橋祐司</a>"
+          ],
+          "photo_reference": "Aap_uEDqVvdhdU8N8atNfsrydvjFskVQgiG0Ehm7rZbmUaYXNXYEQKQz-jEvYSnrkffv-7IVOQzTrJVFA7tFC50qykX4cF6xR7IEBcHLSlF8fj4q8pYkRbTlfr3UJbDt2e_ky4Jztk9RKDurmBEIM46ZKAgFdVO_Uz1fatrlappw2l4YpOvt",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJbVvjdOOGHWARS20d852RTAM",
+      "plus_code": {
+        "compound_code": "M55P+FX 長野市、長野県",
+        "global_code": "8Q8WM55P+FX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

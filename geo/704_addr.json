@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６４３−２",
-        "short_name": "６４３−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "高田",
-        "short_name": "高田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0034",
-        "short_name": "381-0034",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0034 長野県長野市高田６４３−２",
-    "geometry": {
-      "location": {
-        "lat": 36.6474208,
-        "lng": 138.2168065
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6488589302915,
-          "lng": 138.2181718302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0034 長野県長野市高田６４３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.6474208,
+          "lng": 138.2168065
         },
-        "southwest": {
-          "lat": 36.6461609697085,
-          "lng": 138.2154738697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64885977989273,
+            "lng": 138.2181726798927
+          },
+          "southwest": {
+            "lat": 36.64616012010728,
+            "lng": 138.2154730201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJufjWY3KGHWARMd7wHn83FnU",
-    "plus_code": {
-      "compound_code": "J6W8+XP 長野県長野市",
-      "global_code": "8Q8WJ6W8+XP"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0034 長野県長野市高田６４３−２",
+      "place_id": "ChIJufjWY3KGHWARMd7wHn83FnU",
+      "plus_code": {
+        "compound_code": "J6W8+XP 長野市、長野県",
+        "global_code": "8Q8WJ6W8+XP"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

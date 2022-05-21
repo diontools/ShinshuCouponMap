@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "浅間温泉",
-        "short_name": "浅間温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0303",
-        "short_name": "390-0303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉３丁目１３−１０",
-    "geometry": {
-      "location": {
-        "lat": 36.2638335,
-        "lng": 137.9911943
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2653128302915,
-          "lng": 137.9925279802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉３丁目１３−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.2638335,
+          "lng": 137.9911943
         },
-        "southwest": {
-          "lat": 36.2626148697085,
-          "lng": 137.9898300197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26531367989272,
+            "lng": 137.9925288298927
+          },
+          "southwest": {
+            "lat": 36.26261402010728,
+            "lng": 137.9898291701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNUiYSgUMHWARHbEslEJPcFc",
-    "plus_code": {
-      "compound_code": "7X7R+GF 日本、長野県松本市",
-      "global_code": "8Q8V7X7R+GF"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "onsen hotel OMOTO",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101375524357672979717\">ホテルおもと</a>"
+          ],
+          "photo_reference": "Aap_uED_Bpltz3hsdZIKiQ4geGPa3QlJi1wKzm0lCSuObYE9eESQjOTXOsl1dCjdhvT82-JX4cuHDWfVNr50fNUGn-HLfI7TueTzp0X3O1fFRjRcvMya-sRI6rjvYayZR-8eqk1W0W04qJBuPFXaRMU9AuwT4HE4dmda2XMDyTWiM7WcjLof",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJNUiYSgUMHWARHbEslEJPcFc",
+      "plus_code": {
+        "compound_code": "7X7R+GF 松本市、長野県",
+        "global_code": "8Q8V7X7R+GF"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "アクアランド茅野",
-        "short_name": "アクアランド茅野",
-        "types": [
-          "establishment",
-          "natural_feature",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "２６３−４",
-        "short_name": "２６３−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上原",
-        "short_name": "上原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "ちの",
-        "short_name": "ちの",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0001",
-        "short_name": "391-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0001 長野県茅野市ちの上原２６３−４ アクアランド茅野",
-    "geometry": {
-      "location": {
-        "lat": 36.0035137,
-        "lng": 138.1405357
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0048304302915,
-          "lng": 138.1417840802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0001 長野県茅野市ちの上原２６３−４",
+      "geometry": {
+        "location": {
+          "lat": 36.0034765,
+          "lng": 138.1404197
         },
-        "southwest": {
-          "lat": 36.0021324697085,
-          "lng": 138.1390861197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00483127989272,
+            "lng": 138.1417849298927
+          },
+          "southwest": {
+            "lat": 36.00213162010727,
+            "lng": 138.1390852701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJqzINZd1WHGAR9CE3iIZKGrA",
-    "plus_code": {
-      "compound_code": "243R+C6 長野県茅野市",
-      "global_code": "8Q8W243R+C6"
-    },
-    "types": [
-      "establishment",
-      "natural_feature",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "アクアランド茅野",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108606653467831279279\">藤井翔太</a>"
+          ],
+          "photo_reference": "Aap_uEBhJAxsyxhA6ttwcDqbEmMCJTc9LpZWMQe1kkk07KqCajJISjMPqttI1vzaQL51lby_M0BtTa1qH-6Xm5uxHLKnctxUPIwIHnAMtW7CkGmm4nVsGAwWuL_3rqbMd4xPbZlW9lzU06b4lqEHbWNKGNIzy0lZ3Pyeomq6I0MEEHKEZACX",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJqzINZd1WHGAR9CE3iIZKGrA",
+      "plus_code": {
+        "compound_code": "243R+C6 茅野市、長野県",
+        "global_code": "8Q8W243R+C6"
+      },
+      "types": [
+        "natural_feature",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

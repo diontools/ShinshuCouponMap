@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡山ノ内町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町 奥志賀高原",
+      "geometry": {
+        "location": {
+          "lat": 36.765293,
+          "lng": 138.5350821
         },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+        "viewport": {
+          "northeast": {
+            "lat": 36.76661462989272,
+            "lng": 138.5366429298927
+          },
+          "southwest": {
+            "lat": 36.76391497010728,
+            "lng": 138.5339432701073
+          }
         }
       },
-      "location": {
-        "lat": 36.7446479,
-        "lng": 138.4128175
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
-        },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ル・シャモア",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106829386381513138292\">林啓成</a>"
+          ],
+          "photo_reference": "Aap_uEA3hPzi8_yrcK7kSO7H1cLr92T5E_h0iL5ju6vOp2iqjONx6oAj9EVyI9NkGKAx-214_OVn0Vf-Svj1svnIzbFdqO2cCb12BuK32rU70GpuUnRNXSYDfkyScPp1h_K7GShIoUEbgvvwEJFnzOLYEzfRAapLM55e1T9hXD0r112STU--",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp5BF3xjxHWARfQ5Kg1VjUng",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJF0FLPcbwHWARK84Mc2xxtmQ",
+      "plus_code": {
+        "compound_code": "QG8P+42 山ノ内町、長野県",
+        "global_code": "8Q8WQG8P+42"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

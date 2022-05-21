@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７８２１",
-        "short_name": "７８２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４７３４",
-        "short_name": "４７３４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平４７３４−７８２１",
-    "geometry": {
-      "location": {
-        "lat": 36.0147035,
-        "lng": 138.2206477
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0161719302915,
-          "lng": 138.2217648302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平４７３４−７８２１",
+      "geometry": {
+        "location": {
+          "lat": 36.0147225,
+          "lng": 138.2206551
         },
-        "southwest": {
-          "lat": 36.0134739697085,
-          "lng": 138.2190668697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01617277989271,
+            "lng": 138.2217656798927
+          },
+          "southwest": {
+            "lat": 36.01347312010727,
+            "lng": 138.2190660201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJl_ITdD9QHGARV5tk0Nl0I2E",
-    "plus_code": {
-      "compound_code": "267C+V7 長野県茅野市",
-      "global_code": "8Q8W267C+V7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "尖石温泉 縄文の湯",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106452559027411639436\">tatsuya</a>"
+          ],
+          "photo_reference": "Aap_uEDu5-_CxJOl71ZGVm1SpstfcEy4Cnzse6wWEYV1Pw5BfkO1QjNDpscvSH8mjYXBu1eXKU2U2drkjCxvqZlSFEd03pnWpLqeSOANBHqG3hFSsmjgI9_S61avVqIY2q46mEJW0JPeRGi9nvBgDLd2egxeeGwFJbKK52JHzhuJJUMq3Hh9",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJl_ITdD9QHGARV5tk0Nl0I2E",
+      "plus_code": {
+        "compound_code": "267C+V7 茅野市、長野県",
+        "global_code": "8Q8W267C+V7"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

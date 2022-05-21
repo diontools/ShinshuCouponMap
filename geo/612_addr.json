@@ -1,81 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１９５−１",
-        "short_name": "２１９５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "稲葉中千田",
-        "short_name": "稲葉中千田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0916",
-        "short_name": "380-0916",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0916 長野県長野市稲葉中千田２１９５−１",
-    "geometry": {
-      "location": {
-        "lat": 36.633483,
-        "lng": 138.20202
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.63478088029149,
-          "lng": 138.2033877302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0916 長野県長野市稲葉中千田沖２０１１−１ ホテル・ルートイン長野",
+      "geometry": {
+        "location": {
+          "lat": 36.6344115,
+          "lng": 138.2075163
         },
-        "southwest": {
-          "lat": 36.63208291970849,
-          "lng": 138.2006897697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.63574257989272,
+            "lng": 138.2088092298927
+          },
+          "southwest": {
+            "lat": 36.63304292010728,
+            "lng": 138.2061095701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7wikgn-GHWARy5sgFA0J-5s",
-    "plus_code": {
-      "compound_code": "J6M2+9R 長野県長野市",
-      "global_code": "8Q8WJ6M2+9R"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "まぐろや はなの夢 ホテルルートイン長野店",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117876960733578234387\">まぐろや はなの夢 ホテルルートイン長野店</a>"
+          ],
+          "photo_reference": "Aap_uECetQAMNu1OON6eP-u2S1VWcv0bcgrcO-PquTjStA_S-2xw8qyI0tZkgtZK7baaMgkBIKWVjrJYZ3vg3cgbUxYqpq2NZ4ue--Qfy5mO8jxmLkRbrP-rOSs_5KvVo9CG3MyeMDndK8SIqu04EciRkFGaGoe6SptKZTQt2Ju7vNDVXS5p",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJvwc5MtiFHWAR7E5qV0DMH7s",
+      "plus_code": {
+        "compound_code": "J6M5+Q2 長野市、長野県",
+        "global_code": "8Q8WJ6M5+Q2"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

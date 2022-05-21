@@ -1,88 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３９８",
-        "short_name": "１３９８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１３９８",
-    "geometry": {
-      "location": {
-        "lat": 36.3537371,
-        "lng": 138.6425481
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.35513113029149,
-          "lng": 138.6440638802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡 軽井沢町南軽井沢１３９８−９９",
+      "geometry": {
+        "location": {
+          "lat": 36.3149693,
+          "lng": 138.6316621
         },
-        "southwest": {
-          "lat": 36.3524331697085,
-          "lng": 138.6413659197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31618882989272,
+            "lng": 138.6330221298927
+          },
+          "southwest": {
+            "lat": 36.31348917010727,
+            "lng": 138.6303224701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK9LYPX7UHWARZna7_S02PwU",
-    "plus_code": {
-      "compound_code": "9J3V+F2 長野県軽井沢町",
-      "global_code": "8Q8W9J3V+F2"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ドッグデプトガーデン 軽井沢店",
+      "photos": [
+        {
+          "height": 2400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104715855686791381013\">ドッグデプト・ガーデン軽井沢</a>"
+          ],
+          "photo_reference": "Aap_uEB0uw_3mTOU2R83RnKbVdCz1zwx9wmvapaeCgFXWa_TLza9qiEPse6vcDeQ0UjqM38_jk1FY-mLnm6ZnL9LDLmiY5Sk5nRIGQi4mIH6k5BokLQYI1M70McwbVk9t8SQBgqFjF8whpVzYL-3Y13NruoB7PgBnoPCn0IZzu5Y6RUUIJEV",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJwz-9qFPTHWARBwwIUUnmks8",
+      "plus_code": {
+        "compound_code": "8J7J+XM 軽井沢町、長野県",
+        "global_code": "8Q8W8J7J+XM"
+      },
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

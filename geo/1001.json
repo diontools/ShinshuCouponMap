@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５７１−１５",
-        "short_name": "１５７１−１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "照岡",
-        "short_name": "照岡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2601",
-        "short_name": "389-2601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2601 長野県飯山市照岡１５７１−１５",
-    "geometry": {
-      "location": {
-        "lat": 36.9870415,
-        "lng": 138.4455871
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9883793802915,
-          "lng": 138.4468882802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2601 長野県飯山市照岡１５７１−１５",
+      "geometry": {
+        "location": {
+          "lat": 36.9870415,
+          "lng": 138.4455871
         },
-        "southwest": {
-          "lat": 36.9856814197085,
-          "lng": 138.4441903197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.98838022989272,
+            "lng": 138.4468891298927
+          },
+          "southwest": {
+            "lat": 36.98568057010728,
+            "lng": 138.4441894701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJw4kJPigP9l8R4EKMgj_U5Bk",
-    "plus_code": {
-      "compound_code": "XCPW+R6 日本、長野県飯山市",
-      "global_code": "8Q8WXCPW+R6"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "なべくら高原・森の家",
+      "photos": [
+        {
+          "height": 1090,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108270785055441456802\">なべくら高原・森の家</a>"
+          ],
+          "photo_reference": "Aap_uECEfkR3ZoNuasXAHUdPbdUyY6-oS50O9T9cJC3Kyt8bptpeuLR4kyIXX4L185FJTTss25NiJAo4itzvPr0-Wwu3gJexTGvFAffBCydrStvWy1moII6PBBD_a4XcAsNev_ThfAPVuZWvdNs4xKgyXam_LrtlSOgLGB8i4yys4m79sgVG",
+          "width": 1666
+        }
+      ],
+      "place_id": "ChIJw4kJPigP9l8R4EKMgj_U5Bk",
+      "plus_code": {
+        "compound_code": "XCPW+R6 飯山市、長野県",
+        "global_code": "8Q8WXCPW+R6"
+      },
+      "types": [
+        "cafe",
+        "lodging",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

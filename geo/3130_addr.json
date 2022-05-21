@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６",
-        "short_name": "１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "塚原",
-        "short_name": "塚原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0002",
-        "short_name": "391-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0002 長野県茅野市塚原２丁目１５−１６",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9991278,
-          "lng": 138.1562953
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0002 長野県茅野市塚原２丁目１５−１６",
+      "geometry": {
+        "location": {
+          "lat": 35.9990589,
+          "lng": 138.1562428
         },
-        "southwest": {
-          "lat": 35.9989726,
-          "lng": 138.1561818
+        "viewport": {
+          "northeast": {
+            "lat": 36.00050542989272,
+            "lng": 138.1576266298927
+          },
+          "southwest": {
+            "lat": 35.99780577010728,
+            "lng": 138.1549269701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9990589,
-        "lng": 138.1562428
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.00046143029149,
-          "lng": 138.1575952802915
-        },
-        "southwest": {
-          "lat": 35.9977634697085,
-          "lng": 138.1548973197085
-        }
-      }
-    },
-    "place_id": "ChIJxyyHjStXHGAR--Xx4p9Ximw",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0002 長野県茅野市塚原２丁目１５−１６",
+      "place_id": "ChIJxyyHjStXHGAR--Xx4p9Ximw",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

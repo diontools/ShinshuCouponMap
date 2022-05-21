@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "箕輪町",
-        "short_name": "箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "中箕輪",
-        "short_name": "中箕輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4601",
-        "short_name": "399-4601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪 大字中箕輪松島8360−8",
-    "geometry": {
-      "location": {
-        "lat": 35.9143391,
-        "lng": 137.9899982
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9156886802915,
-          "lng": 137.9913570802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町 大字中箕輪松島8360−8",
+      "geometry": {
+        "location": {
+          "lat": 35.9143387,
+          "lng": 137.9899943
         },
-        "southwest": {
-          "lat": 35.9129907197085,
-          "lng": 137.9886591197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.91568952989272,
+            "lng": 137.9913579298927
+          },
+          "southwest": {
+            "lat": 35.91298987010727,
+            "lng": 137.9886582701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ19bSWj36HGARLNvc8SRKXhI",
-    "plus_code": {
-      "compound_code": "WX7Q+PX 長野県箕輪町",
-      "global_code": "8Q7VWX7Q+PX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "おきな",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103076807326386685201\">原幸裕</a>"
+          ],
+          "photo_reference": "Aap_uEA3U-FnQX7qy25-fONaUX1mDnMweC9VPSw4L6qyIWmQE2170HfzSem2G8Cifahp3LGa6JVaMQkUIBXTQqQcgRGr6cUxpchZBwcytOkiWq6oQ0DcX60He4eQm93dNVYsOlblTToSzCCrZTee6nCWsP6CPte6roSZ1qn1xbGVoutnSjAt",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJ19bSWj36HGARLNvc8SRKXhI",
+      "plus_code": {
+        "compound_code": "WX7Q+PX 箕輪町、長野県",
+        "global_code": "8Q7VWX7Q+PX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

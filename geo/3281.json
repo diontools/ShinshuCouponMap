@@ -1,95 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９７−９８６",
-        "short_name": "４９７−９８６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北割一区",
-        "short_name": "北割一区",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割一区４９７−９８６",
-    "geometry": {
-      "location": {
-        "lat": 35.739027,
-        "lng": 137.913068
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7403389302915,
-          "lng": 137.9143800302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割一区４９７−９８６",
+      "geometry": {
+        "location": {
+          "lat": 35.7390273,
+          "lng": 137.9130646
         },
-        "southwest": {
-          "lat": 35.7376409697085,
-          "lng": 137.9116820697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74033977989272,
+            "lng": 137.9143808798927
+          },
+          "southwest": {
+            "lat": 35.73764012010728,
+            "lng": 137.9116812201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJqVvtymftHGARbsYFJjZXumM",
-    "plus_code": {
-      "compound_code": "PWQ7+J6 長野県駒ヶ根市",
-      "global_code": "8Q7VPWQ7+J6"
-    },
-    "types": [
-      "bakery",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "カフェカリーノ",
+      "photos": [
+        {
+          "height": 2269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109175535379863545836\">カフェカリーノ</a>"
+          ],
+          "photo_reference": "Aap_uEB67wXs5sN8-Z_ClyX1ZQb2I4JVa4luzVcT2UKPtOyfqdY2pfy2ivNzGBmnnnZNiqAwOfbiB3P2QR4hSqtMtj6Y-1zy3sPGMPVTYq1OySY1PPdl0jg-5p1OLFRUxAK0aaRZrBrO5iB2TxcDYonRQTkUSpz_QsCFtoli9uIJr09NiDdF",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJqVvtymftHGARbsYFJjZXumM",
+      "plus_code": {
+        "compound_code": "PWQ7+J6 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWQ7+J6"
+      },
+      "types": [
+        "cafe",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

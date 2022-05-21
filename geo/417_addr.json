@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯綱町",
-        "short_name": "飯綱町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上水内郡飯綱町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8366884,
-          "lng": 138.3043957
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1226 長野県上水内郡飯綱町川上２７５５−１９０４",
+      "geometry": {
+        "location": {
+          "lat": 36.73894,
+          "lng": 138.184926
         },
-        "southwest": {
-          "lat": 36.7092228,
-          "lng": 138.1340568
+        "viewport": {
+          "northeast": {
+            "lat": 36.74032582989272,
+            "lng": 138.1861471298927
+          },
+          "southwest": {
+            "lat": 36.73762617010728,
+            "lng": 138.1834474701072
+          }
         }
       },
-      "location": {
-        "lat": 36.7547011,
-        "lng": 138.2355858
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8366884,
-          "lng": 138.3043957
-        },
-        "southwest": {
-          "lat": 36.7092228,
-          "lng": 138.1340568
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンションフィールドノート",
+      "photos": [
+        {
+          "height": 1602,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107286433873894101684\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECIi4CpjAnP-tNG7SHTt9FfaC0yXY_20QB1_lrnTk3bTNTBtZ4_8e4-UhEsaeTMRGDRAbJm2b5rNA2sggWCbRVZpCYW8QhTcVvGvppMlgCKLg76Bd-vGI6R7mA3bGpSdZeGKVlfydhApi7cj2Lk3dGubk_jEjKWak-KuB27vZ_ZJzdP",
+          "width": 2900
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-9pA64gm9l8RIDWuuLHTgpw",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJyX_EbI8o9l8R5XaHKjsn1ek",
+      "plus_code": {
+        "compound_code": "P5QM+HX 飯綱町、長野県",
+        "global_code": "8Q8WP5QM+HX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

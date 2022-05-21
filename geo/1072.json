@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７４９",
-        "short_name": "７４９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "岩村田",
-        "short_name": "岩村田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0022",
-        "short_name": "385-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0022 長野県佐久市岩村田７４９",
-    "geometry": {
-      "location": {
-        "lat": 36.2725313,
-        "lng": 138.478101
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.27382188029149,
-          "lng": 138.4794435802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田７４９",
+      "geometry": {
+        "location": {
+          "lat": 36.272465,
+          "lng": 138.4780969
         },
-        "southwest": {
-          "lat": 36.27112391970849,
-          "lng": 138.4767456197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27382272989271,
+            "lng": 138.4794444298927
+          },
+          "southwest": {
+            "lat": 36.27112307010727,
+            "lng": 138.4767447701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJH58ghmLLHWARe3wiVBSGUk8",
-    "plus_code": {
-      "compound_code": "7FFH+26 日本、長野県佐久市",
-      "global_code": "8Q8W7FFH+26"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "和泉屋菓子店本店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111147293087187385101\">山縣長州</a>"
+          ],
+          "photo_reference": "Aap_uEBQdeK33Rc5v4M16B0RU0zicR0fBZoZokLILGEOrTV57P9k7Q71LLCo-wqlxmIt6gFhBmYDetNz3ilo3qZQolb9oeldwPR8Xv_a-rZdTABX6JpnyGSA7R1O8wtF23tl7l330_BnO9cTBwQbgq-AB7oHhH8mnKU_8yPbrtghKUV0zNYj",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJH58ghmLLHWARe3wiVBSGUk8",
+      "plus_code": {
+        "compound_code": "7FFH+26 佐久市、長野県",
+        "global_code": "8Q8W7FFH+26"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

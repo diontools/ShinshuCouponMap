@@ -1,108 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "坐和民",
-        "short_name": "坐和民",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目３−１ 坐和民",
-    "geometry": {
-      "location": {
-        "lat": 36.2313506,
-        "lng": 137.9659347
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23273443029149,
-          "lng": 137.9673089302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目３−１ 坐和民",
+      "geometry": {
+        "location": {
+          "lat": 36.2313506,
+          "lng": 137.9659347
         },
-        "southwest": {
-          "lat": 36.23003646970849,
-          "lng": 137.9646109697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23273527989272,
+            "lng": 137.9673097798927
+          },
+          "southwest": {
+            "lat": 36.23003562010727,
+            "lng": 137.9646101201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJ1px-4sOHWARS6eMbenOkDY",
-    "plus_code": {
-      "compound_code": "6XJ8+G9 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+G9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "大衆酒場 風林火山",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101504483719378235628\">紺野和之</a>"
+          ],
+          "photo_reference": "Aap_uEDC0WnDOJxHwNvQY-DShDnV3lyv3Xma7BQXD1w59FwGvkKdAjSBhP7ko42ISSdCZdXRauCbiwm0O13DacR-VHdYhSwp5d5IIN3b6aXvi7MXyAO5gqy8IJTXkZQYleDEwpUDQd5anwxXiSbefNnv_t_tBU2KkB645BJ8IxhwqboKSJ_E",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJJ1px-4sOHWARS6eMbenOkDY",
+      "plus_code": {
+        "compound_code": "6XJ8+G9 松本市、長野県",
+        "global_code": "8Q8V6XJ8+G9"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

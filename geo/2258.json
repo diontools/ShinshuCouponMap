@@ -1,115 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1F",
-        "short_name": "1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "クリヴィーレ 増田",
-        "short_name": "クリヴィーレ 増田",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目５−１５ クリヴィーレ 増田 1F",
-    "geometry": {
-      "location": {
-        "lat": 36.2337089,
-        "lng": 137.9703391
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2350820302915,
-          "lng": 137.9716866302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目５−１５ クリヴィーレ 増田 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.2337089,
+          "lng": 137.9703391
         },
-        "southwest": {
-          "lat": 36.2323840697085,
-          "lng": 137.9689886697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23508287989272,
+            "lng": 137.9716874798928
+          },
+          "southwest": {
+            "lat": 36.23238322010727,
+            "lng": 137.9689878201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZzX4MtYPHWAR_ukp1oLIsBk",
-    "plus_code": {
-      "compound_code": "6XMC+F4 日本、長野県松本市",
-      "global_code": "8Q8V6XMC+F4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "燻製工房 燻丸 -KUNMARU-",
+      "photos": [
+        {
+          "height": 919,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110350339289819001207\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDjvSI6R2xIv8eTcjzQ4HIvNVXgBIRIvyase-nes8CQIOUj1fX-sk_rP2K_e_ndIG1Kkz_4r3oogcv6LSHaGV72QV3L6rHabvyAF94E4brgJKr_A_jgtIOPNQzJZwkugevM8aSZoLpa-Xmj3Ks9aRaZ5N9KoEYZx_fDbbl0YNZxjDsw",
+          "width": 1378
+        }
+      ],
+      "place_id": "ChIJZzX4MtYPHWAR_ukp1oLIsBk",
+      "plus_code": {
+        "compound_code": "6XMC+F4 松本市、長野県",
+        "global_code": "8Q8V6XMC+F4"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

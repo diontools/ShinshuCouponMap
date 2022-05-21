@@ -1,72 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡野沢温泉村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９２５４",
+      "geometry": {
+        "location": {
+          "lat": 36.923341,
+          "lng": 138.4455101
         },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+        "viewport": {
+          "northeast": {
+            "lat": 36.92461972989272,
+            "lng": 138.4468570798928
+          },
+          "southwest": {
+            "lat": 36.92192007010728,
+            "lng": 138.4441574201073
+          }
         }
       },
-      "location": {
-        "lat": 36.9228462,
-        "lng": 138.4405097
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
-        },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "野沢グリーンフィールド",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109113438898816637290\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC6xwn2syaQ105MUSveiiDrblb2_xeogluiOxXR8f9Fa5nFDSTqx48BDzImpxAlnuUbap8QNOrD0BWV0mHNbRl6Gx8pFKAVvEYGmH8iEDOIfo0dWOxGBT4EXBmwekvVAkc30B4PdzVxP445KoYqJM-ji2G0p2TZCj-x0Se8rhcXAvPl",
+          "width": 3024
         }
-      }
+      ],
+      "place_id": "ChIJKUMUcC4F9l8R-YaGjzOwoq4",
+      "plus_code": {
+        "compound_code": "WCFW+86 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFW+86"
+      },
+      "types": [
+        "campground",
+        "lodging",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJK2HJ2xoF9l8RMIVuRlrbkRg",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷１０１４４",
+      "geometry": {
+        "location": {
+          "lat": 36.9231317,
+          "lng": 138.4376448
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.92408107989272,
+            "lng": 138.4391198298927
+          },
+          "southwest": {
+            "lat": 36.92138142010727,
+            "lng": 138.4364201701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "LIFE FARMING CAMP | nozawa green field",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101318399768716831966\">keiko Ishii</a>"
+          ],
+          "photo_reference": "Aap_uEB2vCOEhbbgmZ-UpqPuwn2YAc33_WxJGU9-JK7p5Bu26V1n6GlGC1v-IN3oTmXz8bZnoeipWXKiniNwjtnkTgZFxAuqkTikdphS2PjYJr7E_2tkXL90GbNRogV76jyqrvUdzW-7vCbwsBTBuiZZ-553RvwCmS9Rs64_BiGqgucCxOs",
+          "width": 2736
+        }
+      ],
+      "place_id": "ChIJqdoCYdwb9l8Rh11CvAadRyI",
+      "plus_code": {
+        "compound_code": "WCFQ+73 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFQ+73"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

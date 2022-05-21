@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１３−８０",
-        "short_name": "３４１３−８０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１３−８０",
-    "geometry": {
-      "location": {
-        "lat": 36.0947031,
-        "lng": 138.215945
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0960705802915,
-          "lng": 138.2173777302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１３−８０",
+      "geometry": {
+        "location": {
+          "lat": 36.0947047,
+          "lng": 138.215933
         },
-        "southwest": {
-          "lat": 36.0933726197085,
-          "lng": 138.2146797697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.09607142989271,
+            "lng": 138.2173785798927
+          },
+          "southwest": {
+            "lat": 36.09337177010727,
+            "lng": 138.2146789201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJuyaGP1xSHGARtWUK-i7dzXM",
-    "plus_code": {
-      "compound_code": "36V8+V9 長野県茅野市",
-      "global_code": "8Q8W36V8+V9"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "天然温泉の宿 リゾートイン モンテフローラ",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110361668068546195854\">hiroiro</a>"
+          ],
+          "photo_reference": "Aap_uEBQBQKrfZUi76gRN_GWsnNaaONlNUttf82e9bHwirV6ynq0q-WpWxra7AeOvtwmPecYcJB182XcSZy9gXJ9mplskqPay4maib9EYcnctc8Hz4hpDXZrDRZElReTEqb41YBRq67o99BWCnUIpqpQDB-UdBTouUcdfGjOZIjOH4NcQOna",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJuyaGP1xSHGARtWUK-i7dzXM",
+      "plus_code": {
+        "compound_code": "36V8+V9 茅野市、長野県",
+        "global_code": "8Q8W36V8+V9"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

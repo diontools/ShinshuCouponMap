@@ -1,79 +1,88 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "王滝村",
-        "short_name": "王滝村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0201",
-        "short_name": "397-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9054781,
-          "lng": 137.6251478
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村２７５８−３",
+      "geometry": {
+        "location": {
+          "lat": 35.80867,
+          "lng": 137.553936
         },
-        "southwest": {
-          "lat": 35.7087132,
-          "lng": 137.3243378
+        "viewport": {
+          "northeast": {
+            "lat": 35.81000912989273,
+            "lng": 137.5552919798927
+          },
+          "southwest": {
+            "lat": 35.80730947010728,
+            "lng": 137.5525923201073
+          }
         }
       },
-      "location": {
-        "lat": 35.809316,
-        "lng": 137.5508923
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9054781,
-          "lng": 137.6251478
-        },
-        "southwest": {
-          "lat": 35.7087132,
-          "lng": 137.3243378
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "王滝村公民館",
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105982220454127252538\">ひろしげ</a>"
+          ],
+          "photo_reference": "Aap_uEAxW_6A7cYi05PZdhOY34B36aWObyohG_7WJ7w_5J-HAXaJBibyollGFjyn3lncR4LBFrEkj7tovCRreLmqLDQRaUDcgg_RknqcQR4G4aOSnrZeVg_UrJnJAo5ZXPMZazui4eNH5VugT2qtrkt1hSDEjgz8OO7ZT3EZ44MzkMLdwxU1",
+          "width": 1334
         }
-      }
+      ],
+      "place_id": "ChIJ10iquvHWHGARDXsOlH8M4T8",
+      "plus_code": {
+        "compound_code": "RH53+FH 王滝村、長野県",
+        "global_code": "8Q7VRH53+FH"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJUf5ZDW_VHGAR7FVwY-FGkiY",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村下条２７５８−３",
+      "geometry": {
+        "location": {
+          "lat": 35.80867,
+          "lng": 137.553936
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.81000912989273,
+            "lng": 137.5552919798927
+          },
+          "southwest": {
+            "lat": 35.80730947010728,
+            "lng": 137.5525923201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "王滝村観光案内所",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112922888654603893381\">daigo naito</a>"
+          ],
+          "photo_reference": "Aap_uECYNqfOmkA-G3RG1ioNSrhnDd4i3sV9sQxYuWjvdkoyuKDmIwgHfYAp0wuxQFTs0ij9N8KeDfJx9dkwdkWHbtJ9J_xPoGJW3yZ-RAiKbbRX20KGhrTshhtPPtvRBC_LCB7aqqIg4vaNfYCB4oxanirCxtPLDPLp6OBXR85Kkiec8IUv",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ10iquvHWHGARpWDoSNlkI9U",
+      "plus_code": {
+        "compound_code": "RH53+FH 王滝村、長野県",
+        "global_code": "8Q7VRH53+FH"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

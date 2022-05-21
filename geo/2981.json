@@ -1,72 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下伊那郡阿智村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7703721
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0301 長野県下伊那郡阿智村春日１０２０",
+      "geometry": {
+        "location": {
+          "lat": 35.456136,
+          "lng": 137.756915
         },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.5930079
+        "viewport": {
+          "northeast": {
+            "lat": 35.45748912989272,
+            "lng": 137.7583361298927
+          },
+          "southwest": {
+            "lat": 35.45478947010728,
+            "lng": 137.7556364701072
+          }
         }
       },
-      "location": {
-        "lat": 35.4440944,
-        "lng": 137.7479129
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "牧畑農園",
+      "place_id": "ChIJuxyer3OiHGARc0SQKCdqJ2E",
+      "plus_code": {
+        "compound_code": "FQ44+FQ 阿智村、長野県",
+        "global_code": "8Q7VFQ44+FQ"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5544747,
-          "lng": 137.7703721
-        },
-        "southwest": {
-          "lat": 35.3405175,
-          "lng": 137.5930079
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_6rBnHakHGARKet4IBZfp3c",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

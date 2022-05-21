@@ -1,77 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1516",
-        "short_name": "390-1516",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1516 長野県松本市安曇 上高地4468",
-    "geometry": {
-      "location": {
-        "lat": 36.248527,
-        "lng": 137.638068
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.24987598029151,
-          "lng": 137.6394169802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1516 長野県松本市 上高地4468",
+      "geometry": {
+        "location": {
+          "lat": 36.248527,
+          "lng": 137.638068
         },
-        "southwest": {
-          "lat": 36.24717801970851,
-          "lng": 137.6367190197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24987682989273,
+            "lng": 137.6394178298927
+          },
+          "southwest": {
+            "lat": 36.24717717010729,
+            "lng": 137.6367181701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "上高地のおみやげや",
+      "photos": [
+        {
+          "height": 3792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102058887295542214415\">Satoru Ohashi</a>"
+          ],
+          "photo_reference": "Aap_uEC3nBh2KNwAe0-LjrV7qq3vkpUp0Hmm6I04EkuLEi8J5qPnrV2mqERo2_eqcKmM1SrS4V-uZbtBGJhDFoqekbpClCnBexbZe7lo9bPa2c4nizrefrJ-1e_6vJU7dK-_RqhgKFT4bFCY3N1G8Pv05MDWzBMQByFfEOb189v9tpJzyruA",
+          "width": 5056
+        }
+      ],
+      "place_id": "ChIJrQS24NZFHWAR-q_gtN-UcfM",
+      "plus_code": {
+        "compound_code": "6JXQ+C6 松本市、長野県",
+        "global_code": "8Q8V6JXQ+C6"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJrQS24NZFHWAR-q_gtN-UcfM",
-    "plus_code": {
-      "compound_code": "6JXQ+C6 日本、長野県松本市",
-      "global_code": "8Q8V6JXQ+C6"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1520 長野県松本市安曇",
+      "geometry": {
+        "location": {
+          "lat": 36.2461362,
+          "lng": 137.6356719
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.28720485,
+            "lng": 137.7062398
+          },
+          "southwest": {
+            "lat": 36.12338104999999,
+            "lng": 137.507193
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "お土産処ピッケル",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109309667051443875581\">朱進展</a>"
+          ],
+          "photo_reference": "Aap_uEBpKHX5oP2IkMrgKmuyRzuLzk3jbhItdf3q1XBX_icoRl6bUSEefQ-Ii3c3VbeHHXPZTM9evZas30uEP_L_MNYGNKeIdozD4tsVDeoiSpH8OKYnZerA8GQ4WxtSeMEcbOAkSWzopcgqukd5c77JfVB9NSuAdHgAGKOAMyvemeBP6Mj5",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJ37gZ-mpFHWARsfZoUirQ_ig",
+      "plus_code": {
+        "compound_code": "6JWP+F7 松本市、長野県",
+        "global_code": "8Q8V6JWP+F7"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

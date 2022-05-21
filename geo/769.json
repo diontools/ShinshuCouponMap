@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４７",
-        "short_name": "１４７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "青木島町大塚",
-        "short_name": "青木島町大塚",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2205",
-        "short_name": "381-2205",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2205 長野県長野市青木島町大塚１４７",
-    "geometry": {
-      "location": {
-        "lat": 36.6040834,
-        "lng": 138.1941224
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6053873802915,
-          "lng": 138.1957378802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-2205 長野県長野市青木島町大塚１４７",
+      "geometry": {
+        "location": {
+          "lat": 36.6040759,
+          "lng": 138.1941665
         },
-        "southwest": {
-          "lat": 36.6026894197085,
-          "lng": 138.1930399197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.60538822989272,
+            "lng": 138.1957387298928
+          },
+          "southwest": {
+            "lat": 36.60268857010728,
+            "lng": 138.1930390701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJI1354_uFHWARJyB2uAU6iqg",
-    "plus_code": {
-      "compound_code": "J53V+JJ 日本、長野県長野市",
-      "global_code": "8Q8WJ53V+JJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "牛角 青木島店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113484001379412681389\">Shige SHIMOYAMA</a>"
+          ],
+          "photo_reference": "Aap_uEDW-tNQQObeAew5mGTXiGn8SY9sUd7jvJwPXLz_AW-eFBn0Pmht6TCFXugQsZzHKtTZ1J7aNZXawy5fDwxvmF-AW36Nw2Ju4eZFQ9pG0FLu3nM92_UOFd1P8DIRYU0KKZwQ_a0DZLWONteWU5TICY87XNwWv5pjmrLV7KNvBNUbWSfE",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJI1354_uFHWARJyB2uAU6iqg",
+      "plus_code": {
+        "compound_code": "J53V+JJ 長野市、長野県",
+        "global_code": "8Q8WJ53V+JJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

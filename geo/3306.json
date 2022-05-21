@@ -1,90 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８",
-        "short_name": "１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4112",
-        "short_name": "399-4112",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4112 長野県駒ヶ根市中央１７−１８",
-    "geometry": {
-      "location": {
-        "lat": 35.735896,
-        "lng": 137.9339885
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7372612802915,
-          "lng": 137.9352392302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4112 長野県駒ヶ根市中央１７−１８",
+      "geometry": {
+        "location": {
+          "lat": 35.7359104,
+          "lng": 137.9339015
         },
-        "southwest": {
-          "lat": 35.73456331970851,
-          "lng": 137.9325412697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.73726212989272,
+            "lng": 137.9352400798927
+          },
+          "southwest": {
+            "lat": 35.73456247010728,
+            "lng": 137.9325404201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp3AxYbDyHGARkd_B7j9Tuuw",
-    "plus_code": {
-      "compound_code": "PWPM+9H 長野県駒ヶ根市",
-      "global_code": "8Q7VPWPM+9H"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "赤穂タクシー 仲町営業所",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113072903939363110441\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC1VikT5By6pIOJ5zzeVOXmvQWllyvQC0svMTqUXleobtJ2g-HXwjvbw5eLPqV4WoeTayJtomDcz8XJbmKxoSzfzy6NGOhZTKUxwkerAxZ54xtCoM18pC28zRhPUjT59ODTjqNZd7muqCfbxGDN0FVpTYWnEFqK_-hwfR6V_CBYypic",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJp3AxYbDyHGARkd_B7j9Tuuw",
+      "plus_code": {
+        "compound_code": "PWPM+9H 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWPM+9H"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

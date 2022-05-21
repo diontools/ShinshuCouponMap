@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３２３−９８０",
-        "short_name": "１３２３−９８０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１３２３−９８０",
-    "geometry": {
-      "location": {
-        "lat": 36.3516946,
-        "lng": 138.6362056
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3531926802915,
-          "lng": 138.6377815302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１３２３−９８０",
+      "geometry": {
+        "location": {
+          "lat": 36.3517176,
+          "lng": 138.6362364
         },
-        "southwest": {
-          "lat": 36.3504947197085,
-          "lng": 138.6350835697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35319352989273,
+            "lng": 138.6377823798927
+          },
+          "southwest": {
+            "lat": 36.35049387010729,
+            "lng": 138.6350827201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJH1RmG-_THWARbX3sNCKvAgc",
-    "plus_code": {
-      "compound_code": "9J2P+MF 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J2P+MF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "炭火串焼 音羽亭",
+      "photos": [
+        {
+          "height": 1417,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106884363503804880520\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECL8ojwWhCC80hM7xkOXshpMhP5zJ_QGAe7T2W7KStpG5FT7Xc3WTXJ3JwRVpWpvRQWcd6Ppnv_v8X6YpE7iGSVah4p50L76_1_JJ7j8O5SyhXpUjXFw6Aja0WMsKXNoxyQ3fMe1q79hsyqcK5AC1oo49DMdtSr3xXG6FJEcIgFmrXZ",
+          "width": 2126
+        }
+      ],
+      "place_id": "ChIJH1RmG-_THWARbX3sNCKvAgc",
+      "plus_code": {
+        "compound_code": "9J2P+MF 軽井沢町、長野県",
+        "global_code": "8Q8W9J2P+MF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

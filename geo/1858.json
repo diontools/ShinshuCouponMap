@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３１−１",
-        "short_name": "１３１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊科南穂高",
-        "short_name": "豊科南穂高",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8201",
-        "short_name": "399-8201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8201 長野県安曇野市豊科南穂高１３１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.300529,
-        "lng": 137.920192
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3019007802915,
-          "lng": 137.9216290802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8201 長野県安曇野市豊科南穂高１３１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.300509,
+          "lng": 137.920286
         },
-        "southwest": {
-          "lat": 36.2992028197085,
-          "lng": 137.9189311197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30190162989272,
+            "lng": 137.9216299298927
+          },
+          "southwest": {
+            "lat": 36.29920197010728,
+            "lng": 137.9189302701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjQpCx1VtHWAR-Iyrk-VY1-g",
-    "plus_code": {
-      "compound_code": "8W2C+63 日本、長野県安曇野市",
-      "global_code": "8Q8V8W2C+63"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "二代目あっちゃん 安曇野インター店",
+      "photos": [
+        {
+          "height": 2179,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107221737168083471818\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAsw070rhCz2mnqHhk7pPwU6qz1E0Rflc-Vz9kP_3nLWHuyNWuGSeHYvn0hbUz7tOixUtNJbCAEeFD9uOur0ZkaazwNE1sPNmTzqbZBQ513Cq9lW6ExcxNEd1sxYX3S-_kKP69ljSaTH7-KDswneABqXBpTxc8mJjh3g3vM0s7k-gg",
+          "width": 2179
+        }
+      ],
+      "place_id": "ChIJjQpCx1VtHWAR-Iyrk-VY1-g",
+      "plus_code": {
+        "compound_code": "8W2C+63 安曇野市、長野県",
+        "global_code": "8Q8V8W2C+63"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

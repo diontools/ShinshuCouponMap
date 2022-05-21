@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡小谷村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9601 長野県北安曇郡小谷村北小谷１８６１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.8451724,
+          "lng": 137.9007232
         },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+        "viewport": {
+          "northeast": {
+            "lat": 36.84653012989272,
+            "lng": 137.9020833298927
+          },
+          "southwest": {
+            "lat": 36.84383047010728,
+            "lng": 137.8993836701073
+          }
         }
       },
-      "location": {
-        "lat": 36.779238,
-        "lng": 137.9083847
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9202938,
-          "lng": 138.032846
-        },
-        "southwest": {
-          "lat": 36.730624,
-          "lng": 137.7647723
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 小谷",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112136907558634397633\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEANqlVU0A5KsQjQEeZp3gCJdA_8R7afzva-q_1JdOABTJJuYVw92ElwW172ciCwrXK6wpSAQcCz5vdI70a6ET7N8FpvhyRVOFxkVCNX_VnzCAPJzaeZovgNHhD-ilEav7DKLTSDL-WzHoJOWdjWHZGbg4YVwf6HpznhwzCP6Nu1vXdY",
+          "width": 4000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEbXKV9U19l8R_PGKt2EWtyI",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ90vOvz829l8RSTwrdTBEKSw",
+      "plus_code": {
+        "compound_code": "RWW2+37 小谷村、長野県",
+        "global_code": "8Q8VRWW2+37"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

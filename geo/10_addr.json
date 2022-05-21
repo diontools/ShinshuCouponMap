@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６１４−１６",
-        "short_name": "２６１４−１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐野",
-        "short_name": "佐野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0402",
-        "short_name": "381-0402",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町佐野２６１４−１６",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7347161,
-          "lng": 138.4212637
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町佐野２６１４−１６",
+      "geometry": {
+        "location": {
+          "lat": 36.7345623,
+          "lng": 138.4210078
         },
-        "southwest": {
-          "lat": 36.7343702,
-          "lng": 138.4208115
+        "viewport": {
+          "northeast": {
+            "lat": 36.73585577989272,
+            "lng": 138.4224500298927
+          },
+          "southwest": {
+            "lat": 36.73315612010727,
+            "lng": 138.4197503701072
+          }
         }
       },
-      "location": {
-        "lat": 36.7345623,
-        "lng": 138.4210078
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7358921302915,
-          "lng": 138.4223865802915
-        },
-        "southwest": {
-          "lat": 36.7331941697085,
-          "lng": 138.4196886197085
-        }
-      }
-    },
-    "place_id": "ChIJYbf1M5j0HWARRB88yStHyn0",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0402 長野県下高井郡山ノ内町佐野２６１４−１６",
+      "place_id": "ChIJYbf1M5j0HWARRB88yStHyn0",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

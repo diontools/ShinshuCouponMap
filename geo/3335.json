@@ -1,81 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８２９３−１",
-        "short_name": "８２９３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南箕輪村",
-        "short_name": "南箕輪村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4511",
-        "short_name": "399-4511",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村８２９３−１",
-    "geometry": {
-      "location": {
-        "lat": 35.86224600000001,
-        "lng": 137.9461529
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8636195802915,
-          "lng": 137.9474390302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村８２９３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.86224600000001,
+          "lng": 137.9461529
         },
-        "southwest": {
-          "lat": 35.86092161970851,
-          "lng": 137.9447410697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.86362042989273,
+            "lng": 137.9474398798927
+          },
+          "southwest": {
+            "lat": 35.86092077010728,
+            "lng": 137.9447402201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtxGM22vwHGARKBQt5hPfcbY",
-    "plus_code": {
-      "compound_code": "VW6W+VF 長野県南箕輪村",
-      "global_code": "8Q7VVW6W+VF"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルルートイン伊那インター",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103680153221761647240\">近藤真人</a>"
+          ],
+          "photo_reference": "Aap_uEBegyne_DfuOMfxoBQemxmfaHtOArcr97wqZAZFZRwf5aHahTPuBnoyvTtXKS5hbIV3WjqErCDJL_am0dgmSEIKmxS1RyLzBYsEY-tPoCfWTzzV8usWFn32-6SFmPIcQcu9Vhzn2vk8iSD3QgvPxnICkRJUScmeL6ioV4do2kPciSbF",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJtxGM22vwHGARKBQt5hPfcbY",
+      "plus_code": {
+        "compound_code": "VW6W+VF 南箕輪村、長野県",
+        "global_code": "8Q7VVW6W+VF"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,116 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2階",
-        "short_name": "2階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "アスクプラザ",
-        "short_name": "アスクプラザ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１１",
-        "short_name": "１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "相生町",
-        "short_name": "相生町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0025",
-        "short_name": "384-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0025 長野県小諸市相生町２丁目１−１１ アスクプラザ 2階",
-    "geometry": {
-      "location": {
-        "lat": 36.3281683,
-        "lng": 138.4242062
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3295182802915,
-          "lng": 138.4256618302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0025 長野県小諸市相生町２丁目１−１１ アスクプラザ 2階",
+      "geometry": {
+        "location": {
+          "lat": 36.3281683,
+          "lng": 138.4242062
         },
-        "southwest": {
-          "lat": 36.3268203197085,
-          "lng": 138.4229638697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32951912989272,
+            "lng": 138.4256626798927
+          },
+          "southwest": {
+            "lat": 36.32681947010727,
+            "lng": 138.4229630201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoSYoUbHJHWARuoMx_LZ3tQA",
-    "plus_code": {
-      "compound_code": "8CHF+7M 日本、長野県小諸市",
-      "global_code": "8Q8W8CHF+7M"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "魚民 小諸駅前店",
+      "photos": [
+        {
+          "height": 1040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105864582117578702117\">魚民 小諸駅前店</a>"
+          ],
+          "photo_reference": "Aap_uEDTIXJpk9IlJisbY-X8SLRGnDLmaZs5F7Co8m3XW4DiEKqwg-PgWZ1AXzoK5Zo9AVyMUDuAJHnxicKTrc0c5XrALXTAgCmS04CPpe5Ae2og13vPVsfjYtNGPhHD7i4elzhMSAiavmulQKzIMd0hHX0EDVNBKV5wHP8s7141imT-uqcw",
+          "width": 1040
+        }
+      ],
+      "place_id": "ChIJoSYoUbHJHWARuoMx_LZ3tQA",
+      "plus_code": {
+        "compound_code": "8CHF+7M 小諸市、長野県",
+        "global_code": "8Q8W8CHF+7M"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

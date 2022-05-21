@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "大桑村",
-        "short_name": "大桑村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡大桑村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.7794223,
-          "lng": 137.8173931
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5504 長野県木曽郡大桑村野尻１６０−１６",
+      "geometry": {
+        "location": {
+          "lat": 35.6816569,
+          "lng": 137.6529641
         },
-        "southwest": {
-          "lat": 35.6128851,
-          "lng": 137.4855875
+        "viewport": {
+          "northeast": {
+            "lat": 35.68304197989272,
+            "lng": 137.6542752298927
+          },
+          "southwest": {
+            "lat": 35.68034232010728,
+            "lng": 137.6515755701073
+          }
         }
       },
-      "location": {
-        "lat": 35.6829149,
-        "lng": 137.6649313
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7794223,
-          "lng": 137.8173931
-        },
-        "southwest": {
-          "lat": 35.6128851,
-          "lng": 137.4855875
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "おみやげ処みちくさ",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108937137074528325394\">unagi perori</a>"
+          ],
+          "photo_reference": "Aap_uEBbIpyWEIKdPKrx1bVKmiTbQtN_PUIq4A8w2yNCHjJD0H0h5diECj9s8QffoN6peXd5ALRKtR5Y-L0TGwrR7E-3XPoXA-q5zi507f_KlRs8U3ElmgX3K6CpukwTvRGiMNqEgB-uUXdklcIEIyt28eqaJXT2dRbpl9p8-dPfmx6b09ZA",
+          "width": 4624
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4SX8GDbEHGARASegRf_7vrc",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJDxGe9pTFHGARTJuXI1jEMvE",
+      "plus_code": {
+        "compound_code": "MMJ3+M5 大桑村、長野県",
+        "global_code": "8Q7VMMJ3+M5"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

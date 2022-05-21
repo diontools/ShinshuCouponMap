@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７２５８−２０",
-        "short_name": "７２５８−２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明７２５８−２０",
-    "geometry": {
-      "location": {
-        "lat": 36.382988,
-        "lng": 137.815721
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3843727302915,
-          "lng": 137.8171295302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明７２５８−２０",
+      "geometry": {
+        "location": {
+          "lat": 36.382988,
+          "lng": 137.815721
         },
-        "southwest": {
-          "lat": 36.3816747697085,
-          "lng": 137.8144315697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.38437357989272,
+            "lng": 137.8171303798927
+          },
+          "southwest": {
+            "lat": 36.38167392010727,
+            "lng": 137.8144307201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtWj9CpFoHWARdOUorJoneqY",
-    "plus_code": {
-      "compound_code": "9RM8+57 日本、長野県安曇野市",
-      "global_code": "8Q8V9RM8+57"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "穂高養生園",
+      "photos": [
+        {
+          "height": 3680,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107768718840799704020\">穂高養生園</a>"
+          ],
+          "photo_reference": "Aap_uEDMf4b1DVjGhnOe-aSNUUjJEmhFzHy41bxSd6M2YtwvROxVr9gNRRKuKTGJDJfDOg5uM1j-mJUM_Q7TAHN71p2UFiIGvHuiioG-mHIROphBk1Ko8NDSkkMA0_xq9axV_UPCf9xzO7xJhkThXdcs575ZT16st0HWikMXh0rVgsbhmVXP",
+          "width": 5520
+        }
+      ],
+      "place_id": "ChIJtWj9CpFoHWARdOUorJoneqY",
+      "plus_code": {
+        "compound_code": "9RM8+57 安曇野市、長野県",
+        "global_code": "8Q8V9RM8+57"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

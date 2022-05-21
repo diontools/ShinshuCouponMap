@@ -1,85 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央通り",
-        "short_name": "中央通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0041",
-        "short_name": "395-0041",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0041 長野県飯田市中央通り２丁目 中央通り2-7 信越ビル B1F",
-    "geometry": {
-      "location": {
-        "lat": 35.517153,
-        "lng": 137.825305
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5184580302915,
-          "lng": 137.8266206802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0041 長野県飯田市 中央通り2-7 信越ビル B1F",
+      "geometry": {
+        "location": {
+          "lat": 35.5171639,
+          "lng": 137.8253133
         },
-        "southwest": {
-          "lat": 35.5157600697085,
-          "lng": 137.8239227197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51845887989272,
+            "lng": 137.8266215298927
+          },
+          "southwest": {
+            "lat": 35.51575922010728,
+            "lng": 137.8239218701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJM3CnHZWZHGARPcjCJnfQU5c",
-    "plus_code": {
-      "compound_code": "GR8G+V4 長野県飯田市",
-      "global_code": "8Q7VGR8G+V4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かぶき屋",
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107617504340954117356\">360pppp</a>"
+          ],
+          "photo_reference": "Aap_uEAUfOsZdck3ITwrHwnMYT6jRPpgIxBsgISkkwZTmIHQhd778Lg1ZrMDMjNtKE2dXrt4SrYqSLKTBXwRqWK1wCZoVbK280tA4Ul5J7omtRfJv8UWTkI2ohwkXPLtjqxbQRmbyYAsEuNm9U-WazjJaMsh8W2-soULwqzR3ckjtc-LPl1J",
+          "width": 4272
+        }
+      ],
+      "place_id": "ChIJM3CnHZWZHGARPcjCJnfQU5c",
+      "plus_code": {
+        "compound_code": "GR8G+V4 飯田市、長野県",
+        "global_code": "8Q7VGR8G+V4"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

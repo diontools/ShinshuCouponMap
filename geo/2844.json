@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９５０",
-        "short_name": "４９５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "新開福",
-        "short_name": "新開福",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0003",
-        "short_name": "397-0003",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0003 長野県木曽郡木曽町新開福４９５０",
-    "geometry": {
-      "location": {
-        "lat": 35.8560169,
-        "lng": 137.7115942
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8573067302915,
-          "lng": 137.7130367302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0003 長野県木曽郡木曽町新開福４９５０",
+      "geometry": {
+        "location": {
+          "lat": 35.8560169,
+          "lng": 137.7115942
         },
-        "southwest": {
-          "lat": 35.8546087697085,
-          "lng": 137.7103387697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.85730757989272,
+            "lng": 137.7130375798928
+          },
+          "southwest": {
+            "lat": 35.85460792010728,
+            "lng": 137.7103379201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJv0W1XZreHGARuOUv-7k28Rw",
-    "plus_code": {
-      "compound_code": "VP46+CJ 長野県木曽町",
-      "global_code": "8Q7VVP46+CJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "くるまや 国道店",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117556696755065549439\">ten san</a>"
+          ],
+          "photo_reference": "Aap_uEAO6WqfwPWK6OVjKJzL97mj4l4UOnltXJ10R6iz4tGzWOqD5FAcxKWWI1lOzMP445aOLVVihh1DeZi4BHxXtYFzjgrXSm-tGoEb9d-rc7uYDzrdPYjmDO635qLuEpQyyd05vBofAPtYRiR6TsBjSg8UqkXtDQ_TF6x5TZL_ECsR6fDQ",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJv0W1XZreHGARuOUv-7k28Rw",
+      "plus_code": {
+        "compound_code": "VP46+CJ 木曽町、長野県",
+        "global_code": "8Q7VVP46+CJ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

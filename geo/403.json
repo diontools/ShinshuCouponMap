@@ -1,169 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "新宿区",
-        "short_name": "新宿区",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東京都",
-        "short_name": "東京都",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "160-0016",
-        "short_name": "160-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒160-0016 東京都新宿区信濃町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.6846085,
-          "lng": 139.7225727
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1303 長野県上水内郡上水内郡信濃町野尻２６８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.829657,
+          "lng": 138.206591
         },
-        "southwest": {
-          "lat": 35.6797804,
-          "lng": 139.7169242
+        "viewport": {
+          "northeast": {
+            "lat": 36.83097282989272,
+            "lng": 138.2079391298927
+          },
+          "southwest": {
+            "lat": 36.82827317010727,
+            "lng": 138.2052394701073
+          }
         }
       },
-      "location": {
-        "lat": 35.6817841,
-        "lng": 139.7198607
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6846085,
-          "lng": 139.7225727
-        },
-        "southwest": {
-          "lat": 35.6797804,
-          "lng": 139.7169242
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "JSCA公認カヌースクール・ウクディパドリングスクール",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108153536694425368353\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBXEWqaDGeqf20jenPx0tVr7lyMbTsSaWFnFAAiVF9XX-8a3cxeqACjEKKidfYPLso5SH_pC9Sls1M0gbmLaLmxeSu1y-miyFJt8lboZ1HHZjUgzeUWWyOGQzpaTQm7RLmgEw0TBVMC5eneDTQlZIeVunCy84SKpRk7xGnM_QSUWSyC",
+          "width": 3840
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJUQmcN5KMGGARdDmBxCvQfZA",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "２６８−１",
-        "short_name": "２６８−１",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJL5Y4K2oj9l8R5xf7dz1fAnM",
+      "plus_code": {
+        "compound_code": "R6H4+VJ 信濃町、長野県",
+        "global_code": "8Q8WR6H4+VJ"
       },
-      {
-        "long_name": "野尻",
-        "short_name": "野尻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上水内郡信濃町",
-        "short_name": "上水内郡信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1303",
-        "short_name": "389-1303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1303 長野県上水内郡上水内郡信濃町野尻２６８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.829657,
-        "lng": 138.206591
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.83097198029149,
-          "lng": 138.2079382802915
-        },
-        "southwest": {
-          "lat": 36.82827401970849,
-          "lng": 138.2052403197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL5Y4K2oj9l8R5xf7dz1fAnM",
-    "plus_code": {
-      "compound_code": "R6H4+VJ 日本、長野県信濃町",
-      "global_code": "8Q8WR6H4+VJ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

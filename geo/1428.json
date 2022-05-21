@@ -1,82 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "豊里",
-        "short_name": "豊里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小海町",
-        "short_name": "小海町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1103",
-        "short_name": "384-1103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "1880-1, 南佐久, 豊里 小海町 南佐久郡 長野県 384-1103 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.071357,
-        "lng": 138.475696
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.07266918029149,
-          "lng": 138.4772329302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1880-1, 南佐久, 豊里 小海町 南佐久郡 長野県 384-1103 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.071357,
+          "lng": 138.475696
         },
-        "southwest": {
-          "lat": 36.06997121970849,
-          "lng": 138.4745349697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07267002989271,
+            "lng": 138.4772337798927
+          },
+          "southwest": {
+            "lat": 36.06997037010727,
+            "lng": 138.4745341201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdRLh2oY5HGARwFzaVWOphek",
-    "plus_code": {
-      "compound_code": "3FCG+G7 日本、長野県小海町",
-      "global_code": "8Q8W3FCG+G7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "信州直売所 ぼっか（木花）",
+      "photos": [
+        {
+          "height": 1702,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104578955706862414349\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBuA9TbwBJXe7l2c-nBEIgbs2WTcqa7_mgVI9wp-40IFxxfUnacdA-hDZqa6_K43NRD9kH3BTcIgblCV80OZ7BbhkqsIjG8UF-sG0Wy8TlN4haEQuYhKLYCwDpWuIBSCQ2zNlPYgVeCeo9RPT9FSVCUlc4HFlDdHrgZKtV_q3dQzfsO",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJdRLh2oY5HGARwFzaVWOphek",
+      "plus_code": {
+        "compound_code": "3FCG+G7 小海町、長野県",
+        "global_code": "8Q8W3FCG+G7"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９１−５",
-        "short_name": "４９１−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢４９１−５",
-    "geometry": {
-      "location": {
-        "lat": 36.3532702,
-        "lng": 138.6335113
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.35475158029149,
-          "lng": 138.6348997302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢４９１−５",
+      "geometry": {
+        "location": {
+          "lat": 36.3532702,
+          "lng": 138.6335113
         },
-        "southwest": {
-          "lat": 36.35205361970849,
-          "lng": 138.6322017697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35475242989272,
+            "lng": 138.6349005798927
+          },
+          "southwest": {
+            "lat": 36.35205277010727,
+            "lng": 138.6322009201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpXQO54PTHWARDqH56fcE-Bg",
-    "plus_code": {
-      "compound_code": "9J3M+8C 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J3M+8C"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "旧軽井沢KIKYOキュリオ・コレクションbyヒルトン",
+      "photos": [
+        {
+          "height": 3600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117490569754283655733\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB9T5BxHID2PhVEGbbuMK4vAi5hzxE3He6u9DH4PJQ9l3as_VRgqk5bP2pjSGupY7ZtkCaKpOavJoJkUU6tvlbKpEkTc_T47FkQng4uNB6RIIyIGhIY5Q5gC5CBoj57sKSG3TJyVHR2kDSWWCQw3gfUL1roPZDLWKGrNOzZ9GKC5T9c",
+          "width": 4800
+        }
+      ],
+      "place_id": "ChIJpXQO54PTHWARDqH56fcE-Bg",
+      "plus_code": {
+        "compound_code": "9J3M+8C 軽井沢町、長野県",
+        "global_code": "8Q8W9J3M+8C"
+      },
+      "types": [
+        "lodging",
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

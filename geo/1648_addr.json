@@ -1,97 +1,54 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2145ｰ5",
-        "short_name": "2145ｰ5",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉2145ｰ5",
-    "geometry": {
-      "location": {
-        "lat": 36.3593351,
-        "lng": 138.5902665
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3607464302915,
-          "lng": 138.5914605802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉2145ｰ5",
+      "geometry": {
+        "location": {
+          "lat": 36.3593351,
+          "lng": 138.5902665
         },
-        "southwest": {
-          "lat": 36.3580484697085,
-          "lng": 138.5887626197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36074727989272,
+            "lng": 138.5914614298927
+          },
+          "southwest": {
+            "lat": 36.35804762010728,
+            "lng": 138.5887617701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5cLxXiXSHWARz4pWcUXMYWk",
-    "plus_code": {
-      "compound_code": "9H5R+P4 長野県軽井沢町",
-      "global_code": "8Q8W9H5R+P4"
-    },
-    "types": [
-      "bakery",
-      "cafe",
-      "establishment",
-      "food",
-      "meal_delivery",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant",
-      "store",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ハルニレテラス",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104135487366420516793\">ハルニレ テラス</a>"
+          ],
+          "photo_reference": "Aap_uEBrIk-GKj_WujWUQmDmw8xwNXQtU_AO8d4F6fvAixl8Wc-DtuPTuFOB2nd29-LQOfFI4W79rF2Dc561ifOKEhp8GnGbaqFBejCCEbEk2FrqqedMPepfBnPiddXrn3Xk7DPqlldW2Gmub5HYjNKJwYrTM2tuTj25s2EAnhfHxUsgZsiq",
+          "width": 5760
+        }
+      ],
+      "place_id": "ChIJ5cLxXiXSHWARz4pWcUXMYWk",
+      "plus_code": {
+        "compound_code": "9H5R+P4 軽井沢町、長野県",
+        "global_code": "8Q8W9H5R+P4"
+      },
+      "types": [
+        "tourist_attraction",
+        "cafe",
+        "bakery",
+        "meal_takeaway",
+        "meal_delivery",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

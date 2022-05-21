@@ -1,108 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４６４４",
-        "short_name": "４６４４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻４６４４−７",
-    "geometry": {
-      "location": {
-        "lat": 35.5663816,
-        "lng": 137.6686461
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5676507302915,
-          "lng": 137.6700347302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻４６４４−７",
+      "geometry": {
+        "location": {
+          "lat": 35.5663816,
+          "lng": 137.6686461
         },
-        "southwest": {
-          "lat": 35.5649527697085,
-          "lng": 137.6673367697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.56765157989272,
+            "lng": 137.6700355798928
+          },
+          "southwest": {
+            "lat": 35.56495192010728,
+            "lng": 137.6673359201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJYc3AXjy5HGARHgw_0cNQec0",
-    "plus_code": {
-      "compound_code": "HM89+HF 長野県南木曽町",
-      "global_code": "8Q7VHM89+HF"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル富貴の森",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108729755962535140802\">谷川輝美</a>"
+          ],
+          "photo_reference": "Aap_uEBjJYOqr3Vl9ns-8lV40BjdIFjOFhF9buAfznLJWyXGTcdgHW3qhGozaVM3X3j7DR7Q8nQjWYTPwMnXu2bcMvKw2Lz_cxeXMtUYA_CyrJkk0JexPZt3ia-dWmzbQAdTzbx5OyDppE-AT6o6IY-xjBNJgEUR_Wdq_mrkThRVlbfZIYpw",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJYc3AXjy5HGARHgw_0cNQec0",
+      "plus_code": {
+        "compound_code": "HM89+HF 南木曽町、長野県",
+        "global_code": "8Q7VHM89+HF"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

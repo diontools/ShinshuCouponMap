@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２８６０−１",
-        "short_name": "１２８６０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８６０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.7755471,
-        "lng": 137.8876045
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7766483802915,
-          "lng": 137.8892849802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８６０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7756038,
+          "lng": 137.8876854
         },
-        "southwest": {
-          "lat": 36.7739504197085,
-          "lng": 137.8865870197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.77664922989272,
+            "lng": 137.8892858298927
+          },
+          "southwest": {
+            "lat": 36.77394957010728,
+            "lng": 137.8865861701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ455s22cz9l8RgQfKc1GPz5Q",
-    "plus_code": {
-      "compound_code": "QVGQ+62 長野県小谷村",
-      "global_code": "8Q8VQVGQ+62"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルグリーンプラザ白馬",
+      "photos": [
+        {
+          "height": 2944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101406117432816607166\">H. Asai</a>"
+          ],
+          "photo_reference": "Aap_uECnjIPs8qUeZBnbWU-lqGfw_QNAA1Pdz1pMl5uaDS-n5z5bcU1rTIVYsVLxvbkrThzs2NAgV2BWZyeehHLbcI6tTR-LNvRsQcNFi4VCE_dS6FJ9hxJ6MXFoWF1nXrBNVyo11rYN6pNvfRsgIi0411mUKol3JRDw8a-9a2mjDVKqOnqk",
+          "width": 3928
+        }
+      ],
+      "place_id": "ChIJ455s22cz9l8RgQfKc1GPz5Q",
+      "plus_code": {
+        "compound_code": "QVGQ+62 小谷村、長野県",
+        "global_code": "8Q8VQVGQ+62"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

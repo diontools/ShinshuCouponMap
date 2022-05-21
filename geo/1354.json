@@ -1,114 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "アリオ上田",
-        "short_name": "アリオ上田",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神３丁目５−１ アリオ上田 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.3994516,
-        "lng": 138.2440548
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4006474302915,
-          "lng": 138.2452003302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神３丁目５−１ アリオ上田 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.3994516,
+          "lng": 138.2440548
         },
-        "southwest": {
-          "lat": 36.3979494697085,
-          "lng": 138.2425023697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.40064827989272,
+            "lng": 138.2452011798927
+          },
+          "southwest": {
+            "lat": 36.39794862010728,
+            "lng": 138.2425015201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_cidDNa8HWARzANriYuxWIs",
-    "plus_code": {
-      "compound_code": "96XV+QJ 日本、長野県上田市",
-      "global_code": "8Q8W96XV+QJ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "JTB 上田アリオ店",
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114052005908576865921\">JTB東海上田アリオ店</a>"
+          ],
+          "photo_reference": "Aap_uEDgvmmg1vhNmn4A_lC2Sc9BfUV1PP2zea1LN3vbvtXNSPJ9BMS3jqiSnqh7DCvqYvuB47y3uwALDSSyJ6g0GUpEVMkf9g5NJyjthJay_vsFXY7khC5TOSKMIhr57enwXUatUmJHQlBXj-Bqby8obJMqfSiW2-3yYuluUooxZvGm97fz",
+          "width": 2119
+        }
+      ],
+      "place_id": "ChIJ_cidDNa8HWARzANriYuxWIs",
+      "plus_code": {
+        "compound_code": "96XV+QJ 上田市、長野県",
+        "global_code": "8Q8W96XV+QJ"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

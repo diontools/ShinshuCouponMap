@@ -1,81 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "入山辺",
-        "short_name": "入山辺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0222",
-        "short_name": "390-0222",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0222 長野県松本市入山辺",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2592642,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0222 長野県松本市入山辺８９６１",
+      "geometry": {
+        "location": {
+          "lat": 36.2158845,
+          "lng": 138.0872016
         },
-        "southwest": {
-          "lat": 36.1567661,
-          "lng": 138.0031616
+        "viewport": {
+          "northeast": {
+            "lat": 36.21729042989272,
+            "lng": 138.0885734298927
+          },
+          "southwest": {
+            "lat": 36.21459077010728,
+            "lng": 138.0858737701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2091871,
-        "lng": 138.070431
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2592642,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.1567661,
-          "lng": 138.0031616
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "森の小さなリゾート村 桜清水コテージ 冬季休業中 4/29～再開",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104713243309266540211\">さときち</a>"
+          ],
+          "photo_reference": "Aap_uEC1SKDuKOhxQbG2wsbKL1i3wvEYRfDY9q7tfKsQaqVYUV-PkKsu2SG0T2HVxrfG7AIuPfR2NMBB1nuU1cVJYo-sekl5ToBBiDsiG4BYYdH8ZsQAW_HjpvXtVLzS3ts3NuwoMXnYkl6sqY2h4jBaR8kqCfoSqw8QM5cgv4_tDPl0xv4K",
+          "width": 5333
         }
-      }
+      ],
+      "place_id": "ChIJt2hvJhuoHWARZMCh04jov0c",
+      "plus_code": {
+        "compound_code": "638P+9V 松本市、長野県",
+        "global_code": "8Q8W638P+9V"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJq_4K7O4HHWARqnNjq071KE8",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0222 長野県松本市入山辺８９６１",
+      "geometry": {
+        "location": {
+          "lat": 36.2158845,
+          "lng": 138.0872016
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.21729042989272,
+            "lng": 138.0885734298927
+          },
+          "southwest": {
+            "lat": 36.21459077010728,
+            "lng": 138.0858737701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "桜清水オートキャンプ場",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103712544902273084462\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECWAxkdPTzyQ5YVkDPk6HSgGg0hR6CVLAPg_oMoZkoBmqMC2xfXQKkdngyTgi_ennZGs3JvgbEF_OGUeA0zLnHV0lrwdP03_gZRE4GWwhdJzOzyakbQFC-dBrMS9Svf872Km_Hm1RbOvKe1dJe8r-_RMcWaGkNYfDkhqnyyqWYxEft4",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJxxM5WQOoHWARVk8aPWeksq8",
+      "plus_code": {
+        "compound_code": "638P+9V 松本市、長野県",
+        "global_code": "8Q8W638P+9V"
+      },
+      "types": [
+        "rv_park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

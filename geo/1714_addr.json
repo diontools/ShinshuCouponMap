@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３１２",
-        "short_name": "４３１２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "塩野",
-        "short_name": "塩野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "御代田町",
-        "short_name": "御代田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0201",
-        "short_name": "389-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0201 長野県北佐久郡御代田町塩野４３１２",
-    "geometry": {
-      "location": {
-        "lat": 36.3479659,
-        "lng": 138.5084223
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3492936802915,
-          "lng": 138.5099825302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0201 長野県北佐久郡御代田町塩野４３１２",
+      "geometry": {
+        "location": {
+          "lat": 36.3479659,
+          "lng": 138.5084223
         },
-        "southwest": {
-          "lat": 36.3465957197085,
-          "lng": 138.5072845697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34929452989272,
+            "lng": 138.5099833798928
+          },
+          "southwest": {
+            "lat": 36.34659487010727,
+            "lng": 138.5072837201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJKym0fpLOHWARnShyG2JNWJo",
-    "plus_code": {
-      "compound_code": "8GX5+59 長野県御代田町",
-      "global_code": "8Q8W8GX5+59"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0201 長野県北佐久郡御代田町塩野４３１２",
+      "place_id": "ChIJKym0fpLOHWARnShyG2JNWJo",
+      "plus_code": {
+        "compound_code": "8GX5+59 御代田町、長野県",
+        "global_code": "8Q8W8GX5+59"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

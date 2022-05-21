@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６９",
-        "short_name": "１６９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "別所温泉",
-        "short_name": "別所温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1431",
-        "short_name": "386-1431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６９",
-    "geometry": {
-      "location": {
-        "lat": 36.3509444,
-        "lng": 138.1594142
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.35226538029151,
-          "lng": 138.1609647802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６９",
+      "geometry": {
+        "location": {
+          "lat": 36.3510437,
+          "lng": 138.1594774
         },
-        "southwest": {
-          "lat": 36.34956741970851,
-          "lng": 138.1582668197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35226622989272,
+            "lng": 138.1609656298927
+          },
+          "southwest": {
+            "lat": 36.34956657010728,
+            "lng": 138.1582659701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJffHBWKhHWARFtUzWGWFmzw",
-    "plus_code": {
-      "compound_code": "9525+9Q 日本、長野県上田市",
-      "global_code": "8Q8W9525+9Q"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "別所温泉 旅館 花屋",
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103892566281898281649\">花屋旅館</a>"
+          ],
+          "photo_reference": "Aap_uEAXvK2c77_JxI7cNeRYvqLPlzrdWLG-c_8nbgpK_TNFxOVQdIzcRTe5J0d28pwmcs9Es5wxac9WQoqPRmzRzlAzrqPZwpFGGOrdpw1ipLwasRdkOs9WgBs_HnV5nLlg2GIF5lMfW-dRTQg_sc7vYeBKBB8bd3j7WsW-bPsWGl6mmcUW",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJJffHBWKhHWARFtUzWGWFmzw",
+      "plus_code": {
+        "compound_code": "9525+9Q 上田市、長野県",
+        "global_code": "8Q8W9525+9Q"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

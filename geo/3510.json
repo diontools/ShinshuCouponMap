@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３３６−２",
-        "short_name": "２３３６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "飯島",
-        "short_name": "飯島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0012",
-        "short_name": "392-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0012 長野県諏訪市四賀飯島２３３６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.0141479,
-        "lng": 138.12724
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0154574802915,
-          "lng": 138.1286217302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0012 長野県諏訪市四賀飯島２３３６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0141479,
+          "lng": 138.12724
         },
-        "southwest": {
-          "lat": 36.0127595197085,
-          "lng": 138.1259237697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01545832989272,
+            "lng": 138.1286225798927
+          },
+          "southwest": {
+            "lat": 36.01275867010727,
+            "lng": 138.1259229201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJTSh6i45WHGARBAxRpBnQ_9A",
-    "plus_code": {
-      "compound_code": "247G+MV 長野県諏訪市",
-      "global_code": "8Q8W247G+MV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ハルピンラーメン本店",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110254912372119115263\">Kiwi SMD</a>"
+          ],
+          "photo_reference": "Aap_uEAPSr9oVsRUlTM52DuxpHic53U3iL_eW5Hhxdjc7eWSujhtUpH2dc0V0mwcX43g9NvjQfoEIyhDQ1VfHxsY0uR8JX55rX3ESG244xScExY2BTYUY0B5T-bOVLTrvFVEoz9XtCaE62ONx4l6hp1rH1vdsycLk5Q9n0kfZm-n2v8ue2y3",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJTSh6i45WHGARBAxRpBnQ_9A",
+      "plus_code": {
+        "compound_code": "247G+MV 諏訪市、長野県",
+        "global_code": "8Q8W247G+MV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

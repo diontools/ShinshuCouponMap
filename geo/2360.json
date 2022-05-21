@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５８９７−１４",
-        "short_name": "５８９７−１４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "常盤",
-        "short_name": "常盤",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0004",
-        "short_name": "398-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0004 長野県大町市常盤５８９７−１４",
-    "geometry": {
-      "location": {
-        "lat": 36.482575,
-        "lng": 137.850975
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4838280802915,
-          "lng": 137.8522673802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0004 長野県大町市常盤５８９７−１４",
+      "geometry": {
+        "location": {
+          "lat": 36.482575,
+          "lng": 137.850975
         },
-        "southwest": {
-          "lat": 36.4811301197085,
-          "lng": 137.8495694197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48382892989272,
+            "lng": 137.8522682298927
+          },
+          "southwest": {
+            "lat": 36.48112927010727,
+            "lng": 137.8495685701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0eR_iQdkHWAR1WvdXZp6L9Y",
-    "plus_code": {
-      "compound_code": "FVM2+29 日本、長野県大町市",
-      "global_code": "8Q8VFVM2+29"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 大町店",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115873436239592745973\">池一也</a>"
+          ],
+          "photo_reference": "Aap_uECINXZHAxNP28lmIkozlKxCfEVCBqstumOVjMEOklVRcUcdwfqyo37BPG_0t_MLUmFGelfo6dIgIa_uIPJ4toxGbGxYorIYXR8sOH8r_zto387dFjiMYOX1yUyvvhx1iw994HsGFSW4Z_p7fb8nkxvt_GO1_XCvtFd_yQ7M0MIMJi7i",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ0eR_iQdkHWAR1WvdXZp6L9Y",
+      "plus_code": {
+        "compound_code": "FVM2+29 大町市、長野県",
+        "global_code": "8Q8VFVM2+29"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

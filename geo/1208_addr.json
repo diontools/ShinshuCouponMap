@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７２−１",
-        "short_name": "１１７２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平原",
-        "short_name": "平原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0092",
-        "short_name": "384-0092",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0092 長野県小諸市平原１１７２−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3143727,
-          "lng": 138.4618343
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0092 長野県小諸市平原１１７２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3142734,
+          "lng": 138.4616656
         },
-        "southwest": {
-          "lat": 36.3141478,
-          "lng": 138.4615254
+        "viewport": {
+          "northeast": {
+            "lat": 36.31548527989271,
+            "lng": 138.4630215298927
+          },
+          "southwest": {
+            "lat": 36.31278562010727,
+            "lng": 138.4603218701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3142734,
-        "lng": 138.4616656
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3155340802915,
-          "lng": 138.4630288302915
-        },
-        "southwest": {
-          "lat": 36.3128361197085,
-          "lng": 138.4603308697085
-        }
-      }
-    },
-    "place_id": "ChIJhYcdD1_JHWARAOUJIBhSIJ0",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0092 長野県小諸市平原１１７２−１",
+      "place_id": "ChIJhYcdD1_JHWARAOUJIBhSIJ0",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

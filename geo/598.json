@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５３９−１",
-        "short_name": "１５３９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "草間",
-        "short_name": "草間",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中野市",
-        "short_name": "中野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "383-0053",
-        "short_name": "383-0053",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒383-0053 長野県中野市草間１５３９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.7336128,
-        "lng": 138.3190133
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.73494838029151,
-          "lng": 138.3201563302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒383-0053 長野県中野市草間１５３９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7336054,
+          "lng": 138.3189115
         },
-        "southwest": {
-          "lat": 36.73225041970851,
-          "lng": 138.3174583697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73494922989272,
+            "lng": 138.3201571798927
+          },
+          "southwest": {
+            "lat": 36.73224957010728,
+            "lng": 138.3174575201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJOUf9dYqJHWARJVAY4mG8LI8",
-    "plus_code": {
-      "compound_code": "P8M9+CJ 日本、長野県中野市",
-      "global_code": "8Q8WP8M9+CJ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "信州中野観光センター",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107882695850440538211\">佐藤武弥</a>"
+          ],
+          "photo_reference": "Aap_uED3TT6nVmiDmpuOgfWdptlFKFnicOy-aTEF437wsSqmYJwnBhPL_9dk6BBLm-IJFZ2GF-6VRAUDFGFSODnp0wTE1bQVQ_zxtJr4k1Yl-NjctEaQw-RvDPY7DpRRPoPvnvFJ_kojN5QclGcWSYAL5ZFB-MdMh6ut5L6FDLG8_iFMo309",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJOUf9dYqJHWARJVAY4mG8LI8",
+      "plus_code": {
+        "compound_code": "P8M9+CJ 中野市、長野県",
+        "global_code": "8Q8WP8M9+CJ"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

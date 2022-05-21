@@ -1,101 +1,92 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７０２",
-        "short_name": "７０２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "塩沢",
-        "short_name": "塩沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉塩沢７０２",
-    "geometry": {
-      "location": {
-        "lat": 36.33276850000001,
-        "lng": 138.6058704
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3341391802915,
-          "lng": 138.6071818802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉塩沢７０２",
+      "geometry": {
+        "location": {
+          "lat": 36.3327965,
+          "lng": 138.6058318
         },
-        "southwest": {
-          "lat": 36.3314412197085,
-          "lng": 138.6044839197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33414002989272,
+            "lng": 138.6071827298927
+          },
+          "southwest": {
+            "lat": 36.33144037010727,
+            "lng": 138.6044830701072
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "こどうテラス",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101040181358521965721\">こどうテラス</a>"
+          ],
+          "photo_reference": "Aap_uEBar8BzpCKFsqKHowhXjYiPENWUR12sWKX9BsIVWJ92REBj0JenafMBa2Cyab5x3b1fbsAM8qn4vjj0FjCRNqcRSVycPL_k4L3IzJIhoXHRR6G8jSG8qU_qZ3MXdKmeZRL9Kc_PPM43pCy7fRZ-a91MhxH29UpJQZ4d0DpwS_dX8fav",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJ_ek-JgTTHWARktqxuH1TvqA",
+      "plus_code": {
+        "compound_code": "8JM4+48 軽井沢町、長野県",
+        "global_code": "8Q8W8JM4+48"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ_ek-JgTTHWARktqxuH1TvqA",
-    "plus_code": {
-      "compound_code": "8JM4+48 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JM4+48"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉塩沢７０２ 沢屋 軽井沢バイパス店駐車場奥",
+      "geometry": {
+        "location": {
+          "lat": 36.3329125,
+          "lng": 138.60645
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.33422702989272,
+            "lng": 138.6075022298927
+          },
+          "southwest": {
+            "lat": 36.33152737010728,
+            "lng": 138.6048025701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "森の中のレストランこどう",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101464412471783178406\">寺島克美</a>"
+          ],
+          "photo_reference": "Aap_uEASY1SR9ocMkaklviyWvIg0cSZ4ut-kcTsy5GOSiePfhZ9YxRXAiAtqTP-1y-r5H9YnIwO0rRmF4jEaDzcWGRd6pAY-JW6vfKnzML-ab-pR9Y1V9N6jse0ZM2iHELZR-cmtokKbMZ-v01I3mcDtCKgcfpvt9goBDezJsXHB0Otv6TT3",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJqyXOUAHTHWAR91_HgjgMpyI",
+      "plus_code": {
+        "compound_code": "8JM4+5H 軽井沢町、長野県",
+        "global_code": "8Q8W8JM4+5H"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

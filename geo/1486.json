@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0103",
-        "short_name": "389-0103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢 1_2, 北佐久",
-    "geometry": {
-      "location": {
-        "lat": 36.3565542,
-        "lng": 138.6342143
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3579001802915,
-          "lng": 138.6354932802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢 1_2, 北佐久",
+      "geometry": {
+        "location": {
+          "lat": 36.356553,
+          "lng": 138.6341864
         },
-        "southwest": {
-          "lat": 36.3552022197085,
-          "lng": 138.6327953197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35790102989272,
+            "lng": 138.6354941298927
+          },
+          "southwest": {
+            "lat": 36.35520137010727,
+            "lng": 138.6327944701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpxnRe4bTHWAREz6gYHC1D1k",
-    "plus_code": {
-      "compound_code": "9J4M+JM 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J4M+JM"
-    },
-    "types": [
-      "clothing_store",
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "リボーン",
+      "photos": [
+        {
+          "height": 1632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116308360390580164943\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEADYb-8jN5Yv6igxpBdLaRLxT1qSRPNfJ8ZCTBcf2roeX4zuJBuQ1PeFa7ZHKKDAWVgXgT36WKQEV5XMWCUb_RHg8daiHOPbmjfvMgoMk75NvnapiUo83nreZYY6tyEgMk5jV44YA-Yf6t03DBPYKaA29I9-Twz6kowBJQfaWLNHokl",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJpxnRe4bTHWAREz6gYHC1D1k",
+      "plus_code": {
+        "compound_code": "9J4M+JM 軽井沢町、長野県",
+        "global_code": "8Q8W9J4M+JM"
+      },
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

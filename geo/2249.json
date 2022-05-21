@@ -1,123 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1Ｆ",
-        "short_name": "1Ｆ",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "五幸",
-        "short_name": "五幸",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "本町ビル",
-        "short_name": "本町ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２４",
-        "short_name": "２４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目１−２４ 本町ビル 1Ｆ 五幸",
-    "geometry": {
-      "location": {
-        "lat": 36.2317565,
-        "lng": 137.968926
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2331155802915,
-          "lng": 137.9701218802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目１−２４ 本町ビル 1Ｆ 五幸",
+      "geometry": {
+        "location": {
+          "lat": 36.2317565,
+          "lng": 137.968926
         },
-        "southwest": {
-          "lat": 36.2304176197085,
-          "lng": 137.9674239197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23311642989271,
+            "lng": 137.9701227298928
+          },
+          "southwest": {
+            "lat": 36.23041677010727,
+            "lng": 137.9674230701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-8UUtY0OHWARq9a7xHJ2CZo",
-    "plus_code": {
-      "compound_code": "6XJ9+PH 日本、長野県松本市",
-      "global_code": "8Q8V6XJ9+PH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そばきり みよ田 松本店",
+      "photos": [
+        {
+          "height": 9000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106226396221762372475\">Rocky Mee</a>"
+          ],
+          "photo_reference": "Aap_uEDsVx3Z5TeA8fSZwZ2f53fGRyxiDvjqo-0DQz5VXveY0qcgup9R1n_a3y6cEGczKNhUBxbkFCSapxtIASSgq2jkNnVbQZ7h3-vANMGe8AvuSk7y0gBDBqT56peX2NLObk-bC1eQo-dCx0Sitz-hltno9nWw-T_IZU76dc-lJYXlW1qk",
+          "width": 12000
+        }
+      ],
+      "place_id": "ChIJ-8UUtY0OHWARq9a7xHJ2CZo",
+      "plus_code": {
+        "compound_code": "6XJ9+PH 松本市、長野県",
+        "global_code": "8Q8V6XJ9+PH"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

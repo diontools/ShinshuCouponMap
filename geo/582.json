@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７３４０",
-        "short_name": "７３４０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "八幡",
-        "short_name": "八幡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0023",
-        "short_name": "387-0023",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0023 長野県千曲市八幡７３４０ 長野道姨捨サービスエリア上り線",
-    "geometry": {
-      "location": {
-        "lat": 36.4975347,
-        "lng": 138.0976322
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4986728302915,
-          "lng": 138.0989100302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0023 長野県千曲市八幡７３４０ 長野道姨捨サービスエリア上り線",
+      "geometry": {
+        "location": {
+          "lat": 36.4971437,
+          "lng": 138.0978516
         },
-        "southwest": {
-          "lat": 36.4959748697085,
-          "lng": 138.0962120697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.49867367989272,
+            "lng": 138.0989108798927
+          },
+          "southwest": {
+            "lat": 36.49597402010728,
+            "lng": 138.0962112201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJN2d4GGqdHWAR7Rc6qDCNFpU",
-    "plus_code": {
-      "compound_code": "F3XX+23 日本、長野県千曲市",
-      "global_code": "8Q8WF3XX+23"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "月の里カフェ",
+      "photos": [
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108937137074528325394\">unagi perori</a>"
+          ],
+          "photo_reference": "Aap_uECtoCCZiFuaUvl0z4NcS3HlJ4I-LaMk61oW6R4o9gxA2twTkhySMIy5Gp8dR4lpQuDZbRbViaNET4u3LcT6WStBmh82y4dx5ekebh1mg-OHSn69OPMxI_rv_Ns4ZqIOAhYJOhRfktkLv1AlTBbdaMfWg-cnx4wxIFAtt5o2aetNDBPB",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJN2d4GGqdHWAR7Rc6qDCNFpU",
+      "plus_code": {
+        "compound_code": "F3XX+23 千曲市、長野県",
+        "global_code": "8Q8WF3XX+23"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北石堂町",
-        "short_name": "北石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0826",
-        "short_name": "380-0826",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0826 長野県長野市南長野北石堂町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6488083,
-          "lng": 138.1881303
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0826 長野県長野市南長野北石堂町",
+      "geometry": {
+        "location": {
+          "lat": 36.6469007,
+          "lng": 138.1855761
         },
-        "southwest": {
-          "lat": 36.644347,
-          "lng": 138.1819782
+        "viewport": {
+          "northeast": {
+            "lat": 36.6488083,
+            "lng": 138.1881303
+          },
+          "southwest": {
+            "lat": 36.644347,
+            "lng": 138.1819782
+          }
         }
       },
-      "location": {
-        "lat": 36.6469007,
-        "lng": 138.1855761
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6488083,
-          "lng": 138.1881303
-        },
-        "southwest": {
-          "lat": 36.644347,
-          "lng": 138.1819782
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0826 長野県長野市南長野北石堂町",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115953604779391280201\">鈴木弘之</a>"
+          ],
+          "photo_reference": "Aap_uECHUWHixXauhhCYj8tUla31ZqIgToXolQ0wAX6rEXaMk2cKGHdQQ2UqSz57pvMESKoC66zo4HLzyfBsnMPKaulUYf__d0jDc7P3ft7lReGoOD-ry29SNFRSPGuR7RKvaZITfyEMB2yfvqWlHiHEedjjLzmS1Tj_-VfW2fBdLB0a2nrr",
+          "width": 3264
         }
-      }
-    },
-    "place_id": "ChIJF8YQceyGHWARABiKChyF-00",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJF8YQceyGHWARABiKChyF-00",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

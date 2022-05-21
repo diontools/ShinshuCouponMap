@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８７１３",
-        "short_name": "８７１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷８７１３",
-    "geometry": {
-      "location": {
-        "lat": 36.9248932,
-        "lng": 138.4486759
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9262696302915,
-          "lng": 138.4500501302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷８７１３",
+      "geometry": {
+        "location": {
+          "lat": 36.9248932,
+          "lng": 138.448676
         },
-        "southwest": {
-          "lat": 36.9235716697085,
-          "lng": 138.4473521697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92627047989272,
+            "lng": 138.4500510298927
+          },
+          "southwest": {
+            "lat": 36.92357082010728,
+            "lng": 138.4473513701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJDU4Rli8F9l8RpyuGB23_zf4",
-    "plus_code": {
-      "compound_code": "WCFX+XF 長野県野沢温泉村",
-      "global_code": "8Q8WWCFX+XF"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2502 長野県下高井郡野沢温泉村豊郷８７１３",
+      "place_id": "ChIJDU4Rli8F9l8RpyuGB23_zf4",
+      "plus_code": {
+        "compound_code": "WCFX+XF 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+XF"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

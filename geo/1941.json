@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県塩尻市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1717857,
-          "lng": 138.0433886
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6302 長野県塩尻市木曽平沢２０７７−２６４",
+      "geometry": {
+        "location": {
+          "lat": 35.9753485,
+          "lng": 137.826642
         },
-        "southwest": {
-          "lat": 35.8131241,
-          "lng": 137.7953235
+        "viewport": {
+          "northeast": {
+            "lat": 35.97675987989272,
+            "lng": 137.8280262298927
+          },
+          "southwest": {
+            "lat": 35.97406022010728,
+            "lng": 137.8253265701073
+          }
         }
       },
-      "location": {
-        "lat": 36.1148135,
-        "lng": 137.9532361
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1717857,
-          "lng": 138.0433886
-        },
-        "southwest": {
-          "lat": 35.8131241,
-          "lng": 137.7953235
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ていしゃば",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117322256442407989154\">赤尾勝規</a>"
+          ],
+          "photo_reference": "Aap_uEAsClW8kQPe-SmefXxvy2DrQPIs_qpg0DSb8ZUGgdrdBX5SdIbP1RzPiFwvdD2HAYI_ZFN_nvsd6c1APPQaHfuG5jCyCr2tC0pc2vRwg6Ll0c0u140KO9AwD6zvgPaF7kxQEKEAMPeZcsp90DzDaSYC8qJmGhU6lKNX_5Lw83BF7vJK",
+          "width": 2448
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5wtQdrXiHGARNN7zHA-e9e8",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJVVxvQBkeHWARYT_Ly-6b4BE",
+      "plus_code": {
+        "compound_code": "XRGG+4M 塩尻市、長野県",
+        "global_code": "8Q7VXRGG+4M"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

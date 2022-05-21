@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１００−５",
-        "short_name": "３１００−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上木島",
-        "short_name": "上木島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2303",
-        "short_name": "389-2303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３１００−５",
-    "geometry": {
-      "location": {
-        "lat": 36.8273189,
-        "lng": 138.4058482
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8287311302915,
-          "lng": 138.4066751802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３１００−５",
+      "geometry": {
+        "location": {
+          "lat": 36.8273189,
+          "lng": 138.4058482
         },
-        "southwest": {
-          "lat": 36.8260331697085,
-          "lng": 138.4039772197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.82873197989272,
+            "lng": 138.4066760298927
+          },
+          "southwest": {
+            "lat": 36.82603232010728,
+            "lng": 138.4039763701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJf0nf9VUe9l8RdEP9jalMj7U",
-    "plus_code": {
-      "compound_code": "RCG4+W8 日本、長野県木島平村",
-      "global_code": "8Q8WRCG4+W8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "スポーツハイムアルプ",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114387376725654863405\">手塚智士</a>"
+          ],
+          "photo_reference": "Aap_uECZMDKKC4-z8nsyqGm_9-i1ySeFN17NC_SHgKaPIi2t-muS_b4PEf-AhgxehXU1Iyk-0jBajOdI806Db7YdTs6qY5496hl2Pv4kiBvx2pqaqVjh8y_C1zZS1w5n3YPm-Fc5tP3P0DnzuoCuhI9frucLkF_9ygVA1ZUWcQ7wrXTEMk__",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJf0nf9VUe9l8RdEP9jalMj7U",
+      "plus_code": {
+        "compound_code": "RCG4+W8 木島平村、長野県",
+        "global_code": "8Q8WRCG4+W8"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

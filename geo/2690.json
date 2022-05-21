@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 大字北城八方4260",
-    "geometry": {
-      "location": {
-        "lat": 36.7023471,
-        "lng": 137.8368952
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7037149802915,
-          "lng": 137.8382894302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村 大字北城八方4260",
+      "geometry": {
+        "location": {
+          "lat": 36.7023471,
+          "lng": 137.8368953
         },
-        "southwest": {
-          "lat": 36.7010170197085,
-          "lng": 137.8355914697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70371582989272,
+            "lng": 137.8382903298927
+          },
+          "southwest": {
+            "lat": 36.70101617010728,
+            "lng": 137.8355906701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9anSDQnO918RjoUzZlvAonY",
-    "plus_code": {
-      "compound_code": "PR2P+WQ 長野県白馬村",
-      "global_code": "8Q8VPR2P+WQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カフェ・ド 4260",
+      "photos": [
+        {
+          "height": 4248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110111618024117946816\">熊岡純</a>"
+          ],
+          "photo_reference": "Aap_uEBbXgpY5k-p-UFZV6_grr9-EKtqIWoyQl2bkZQJbaHOvEvfmBBUPIFC4TEvupphlCvGq9oY0Uo8kcbxXt4GQ_vTb5vGuLYZjSEhegSkx5q7Ig9Xhv5KM73pFGd2IP5v6ahtSoSh8Efh5-R2f72lGVnBMXlkJ1r49vwErJh3l_oQ7cOF",
+          "width": 5664
+        }
+      ],
+      "place_id": "ChIJ9anSDQnO918RjoUzZlvAonY",
+      "plus_code": {
+        "compound_code": "PR2P+WQ 白馬村、長野県",
+        "global_code": "8Q8VPR2P+WQ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

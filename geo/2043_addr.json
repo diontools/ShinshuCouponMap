@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "渚",
-        "short_name": "渚",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0841",
-        "short_name": "390-0841",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0841 長野県松本市渚２丁目",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2324963,
-          "lng": 137.9629447
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0841 長野県松本市渚２丁目",
+      "geometry": {
+        "location": {
+          "lat": 36.2300289,
+          "lng": 137.9588348
         },
-        "southwest": {
-          "lat": 36.2256227,
-          "lng": 137.9562841
+        "viewport": {
+          "northeast": {
+            "lat": 36.2324963,
+            "lng": 137.9629447
+          },
+          "southwest": {
+            "lat": 36.2256227,
+            "lng": 137.9562841
+          }
         }
       },
-      "location": {
-        "lat": 36.2300289,
-        "lng": 137.9588348
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2324963,
-          "lng": 137.9629447
-        },
-        "southwest": {
-          "lat": 36.2256227,
-          "lng": 137.9562841
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0841 長野県松本市渚２丁目",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109070538093321707917\">ゆかり</a>"
+          ],
+          "photo_reference": "Aap_uECbRS1b75KoLTG_AbsuuZUEgYSsQw5AG_MK3AoOIM3UI_nPRou-ZWF1CWlpSngKYOQkaYP80v8V9MEtrejoUsVoHfbhk8LPWmo87nuAgcbvGv7g3jGwK1seb75ABIIuD3u849Sh-xEM1f4MZUlU-Nn9-IowFahu_LF6saIieLnx6YyN",
+          "width": 3840
         }
-      }
-    },
-    "place_id": "ChIJHUXIJ2IOHWAR8ULgH_802qM",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJHUXIJ2IOHWAR8ULgH_802qM",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

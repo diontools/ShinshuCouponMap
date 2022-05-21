@@ -1,93 +1,78 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７８３３",
-        "short_name": "７８３３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大草",
-        "short_name": "大草",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中川村",
-        "short_name": "中川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3801",
-        "short_name": "399-3801",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3801 長野県上伊那郡中川村大草７８３３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.6355567,
-          "lng": 137.9832638
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、長野県上伊那郡中川村",
+      "geometry": {
+        "location": {
+          "lat": 35.6345535,
+          "lng": 137.946059
         },
-        "southwest": {
-          "lat": 35.6354823,
-          "lng": 137.9831565
+        "viewport": {
+          "northeast": {
+            "lat": 35.6818929,
+            "lng": 138.0393741
+          },
+          "southwest": {
+            "lat": 35.5971807,
+            "lng": 137.8987658
+          }
         }
       },
-      "location": {
-        "lat": 35.6355271,
-        "lng": 137.9832163
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6368589802915,
-          "lng": 137.9845591302915
-        },
-        "southwest": {
-          "lat": 35.6341610197085,
-          "lng": 137.9818611697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "中川村",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108808970704462133426\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECTYgLzunJVMlXMRfUymhG2u1Cn_BP5LnfNu34YtcStunjwaatMbruQhZyd17Ll98uWnByUBxY13PICL0DOfMeENRs8DKit7kcHtFvhCLWVAo7fG7zvbccNEFVi6NQiTLqTG3l3d1tqxxHsWZKMPOAeDi0coP7G4z0-5jkdgoCxrirf",
+          "width": 3024
         }
-      }
+      ],
+      "place_id": "ChIJeT_kAfuOHGAR6yDD27gCHLw",
+      "types": [
+        "locality",
+        "political"
+      ]
     },
-    "place_id": "ChIJienVLyKPHGARJjzCb_JVJVY",
-    "types": [
-      "premise"
-    ]
-  }
-]
+    {
+      "formatted_address": "日本、〒399-3801 長野県上伊那郡中川村大草",
+      "geometry": {
+        "location": {
+          "lat": 35.6349262,
+          "lng": 137.9911208
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6818929,
+            "lng": 138.0393741
+          },
+          "southwest": {
+            "lat": 35.5971807,
+            "lng": 137.9294721
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "大草",
+      "photos": [
+        {
+          "height": 3936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108746512876726989022\">のらねこ</a>"
+          ],
+          "photo_reference": "Aap_uEAjQ8XIJxyApgRTMYVHZSyZTALbg-3ulQ9S0veDn4_JQ76qiqRvRBcga1t9DN3jQVM3FeeBP9wX7zzEb3R8A--WW6cr0mSx2cCTPPlCTrg7OKJPm5D8xSgNdJ8UXo2laXnH0qI49ChFvTLqMznoFOg4ibQKBrFGSSwXmtmOp1nz6svY",
+          "width": 5248
+        }
+      ],
+      "place_id": "ChIJLfemY9-OHGARjJE5Z8rWaPw",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

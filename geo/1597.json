@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢",
-    "geometry": {
-      "location": {
-        "lat": 36.3397372,
-        "lng": 138.635091
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3410668302915,
-          "lng": 138.6363215302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢",
+      "geometry": {
+        "location": {
+          "lat": 36.3397372,
+          "lng": 138.635091
         },
-        "southwest": {
-          "lat": 36.3383688697085,
-          "lng": 138.6336235697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34106767989272,
+            "lng": 138.6363223798927
+          },
+          "southwest": {
+            "lat": 36.33836802010727,
+            "lng": 138.6336227201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAQAAQ3vTHWARbsV8sFeVXt0",
-    "plus_code": {
-      "compound_code": "8JQP+V2 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JQP+V2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "佐久屋本店",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106215990695312038046\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECI-5Uq8_dpb4kGoc7JjNQqiacI3xkZND5nXeSF1rE7dNAhOfG8a5fiyeXj91CuecaLyS_2meVv8qLFnqxwrpjBJSOOJ9P2F8ul9nUl5TCSLHBI-e_kW8_oS785nNKuOo_pQcNx67Fo3lzsnEAAS_HnGxittw9arGa9Y7VBCytxO-tZ",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJAQAAQ3vTHWARbsV8sFeVXt0",
+      "plus_code": {
+        "compound_code": "8JQP+V2 軽井沢町、長野県",
+        "global_code": "8Q8W8JQP+V2"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

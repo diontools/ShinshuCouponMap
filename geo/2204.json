@@ -1,116 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "神澤ビル",
-        "short_name": "神澤ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１３−２ 神澤ビル 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.2326912,
-        "lng": 137.9659892
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2340492302915,
-          "lng": 137.9672662802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１３−２ 神澤ビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.2326912,
+          "lng": 137.9659892
         },
-        "southwest": {
-          "lat": 36.2313512697085,
-          "lng": 137.9645683197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23405007989273,
+            "lng": 137.9672671298927
+          },
+          "southwest": {
+            "lat": 36.23135042010728,
+            "lng": 137.9645674701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL4GESYkOHWARDv2iVizTvow",
-    "plus_code": {
-      "compound_code": "6XM8+39 日本、長野県松本市",
-      "global_code": "8Q8V6XM8+39"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "魚民 松本東口駅前店",
+      "photos": [
+        {
+          "height": 1632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108383714767519443762\">黃, 至正</a>"
+          ],
+          "photo_reference": "Aap_uED3YCady7ybCOS6Vw0TXLCrzUuyRzlkYOKLjHdkwDrdvvvNZU-vg98cun9yXm63ebESfjaMh6Tk5LyF3n5I47cbvBPJ1kovw7Remp0HaSPNIokeh0MA3r0c-42yWHYNHLCyLyazkSNBbqen5hitLQwlhubvxy6GtZa3nF7WVIxlj5fm",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJL4GESYkOHWARDv2iVizTvow",
+      "plus_code": {
+        "compound_code": "6XM8+39 松本市、長野県",
+        "global_code": "8Q8V6XM8+39"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

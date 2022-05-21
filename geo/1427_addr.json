@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０８８",
-        "short_name": "２０８８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千代里",
-        "short_name": "千代里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小海町",
-        "short_name": "小海町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1105",
-        "short_name": "384-1105",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1105 長野県南佐久郡小海町千代里２０８８",
-    "geometry": {
-      "location": {
-        "lat": 36.0642295,
-        "lng": 138.3927551
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.06539653029149,
-          "lng": 138.3940935302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-1105 長野県南佐久郡小海町千代里２０８８",
+      "geometry": {
+        "location": {
+          "lat": 36.0642295,
+          "lng": 138.3927551
         },
-        "southwest": {
-          "lat": 36.06269856970849,
-          "lng": 138.3913955697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06539737989272,
+            "lng": 138.3940943798927
+          },
+          "southwest": {
+            "lat": 36.06269772010727,
+            "lng": 138.3913947201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJTdZuOPxHHGARQuv5Lt5rM-w",
-    "plus_code": {
-      "compound_code": "397V+M4 長野県小海町",
-      "global_code": "8Q8W397V+M4"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-1105 長野県南佐久郡小海町千代里２０８８",
+      "place_id": "ChIJTdZuOPxHHGARQuv5Lt5rM-w",
+      "plus_code": {
+        "compound_code": "397V+M4 小海町、長野県",
+        "global_code": "8Q8W397V+M4"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

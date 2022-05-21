@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２９１２−１",
-        "short_name": "２９１２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "井上",
-        "short_name": "井上",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0045",
-        "short_name": "382-0045",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0045 長野県須坂市井上２９１２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6303382,
-        "lng": 138.290229
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6316607302915,
-          "lng": 138.2915002302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0045 長野県須坂市井上２９１２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6303382,
+          "lng": 138.290229
         },
-        "southwest": {
-          "lat": 36.62896276970851,
-          "lng": 138.2888022697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.63166157989273,
+            "lng": 138.2915010798927
+          },
+          "southwest": {
+            "lat": 36.62896192010729,
+            "lng": 138.2888014201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7SzihkWPHWARia8iKsS8Csc",
-    "plus_code": {
-      "compound_code": "J7JR+43 日本、長野県須坂市",
-      "global_code": "8Q8WJ7JR+43"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ファームハウス わっくん",
+      "photos": [
+        {
+          "height": 1837,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103607876136567656358\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECiglqoNz2dOeDjwPxIsn-5VlycyqCLze6Rcyyuh0VFZeu0529bxl0_RAHMH1TNBGCyIj66v9PukGzfy6pNU4_1qsdaGX2MKPsY73bWAO9cI83qNtPBnqGCbc5SXLnFb_Ce2DPUKbhaAWEdq5ufmCn5lZojGbLezMLWtE0Iyt7t1RFj",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ7SzihkWPHWARia8iKsS8Csc",
+      "plus_code": {
+        "compound_code": "J7JR+43 須坂市、長野県",
+        "global_code": "8Q8WJ7JR+43"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

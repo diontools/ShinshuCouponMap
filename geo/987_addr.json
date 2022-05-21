@@ -1,109 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "末広町ビル",
-        "short_name": "末広町ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４２２−３",
-        "short_name": "１４２２−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野末広町",
-        "short_name": "大字南長野末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市大字南長野末広町末広町１４２２−３ 末広町ビル 1f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6444923,
-          "lng": 138.1866977
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町１３５８",
+      "geometry": {
+        "location": {
+          "lat": 36.64435,
+          "lng": 138.1865897
         },
-        "southwest": {
-          "lat": 36.6443215,
-          "lng": 138.1865289
+        "viewport": {
+          "northeast": {
+            "lat": 36.64564407989272,
+            "lng": 138.1879066798927
+          },
+          "southwest": {
+            "lat": 36.64294442010727,
+            "lng": 138.1852070201072
+          }
         }
       },
-      "location": {
-        "lat": 36.6444249,
-        "lng": 138.1866053
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6457201302915,
-          "lng": 138.1879446802915
-        },
-        "southwest": {
-          "lat": 36.6430221697085,
-          "lng": 138.1852467197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "信州炭火炉端すえひろ",
+      "photos": [
+        {
+          "height": 479,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113760728402073279969\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDwQcpoWIozg_26grHYhZekjjly-j7hZO2CsyNQUqi2795412A8bmWz7z4mY-h6CuRudEUseHrKrElEWGzBjy8LOxUbs6HJERF9Wa4rutAaYGDH7WF28GQ52WBI1KeMM5F9A2Msg9VpG-tG3xaE2epSdZvptDYqbNCpwBAKYvDrTAku",
+          "width": 480
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "EmZKYXBhbiwg44CSMzgwLTA4MjUgTmFnYW5vLCDlpKflrZfljZfplbfph47mnKvluoPnlLpTdWVoaXJvY2jFjeKIku-8ke-8lO-8ku-8kuKIku-8kyDmnKvluoPnlLrjg5Pjg6sgMWYiHhocChYKFAoSCSPq99Lshh1gEbYgp4U6EQnNEgIxZg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJT2qO0-yGHWARRMYbp45MVbE",
+      "plus_code": {
+        "compound_code": "J5VP+PJ 長野市、長野県",
+        "global_code": "8Q8WJ5VP+PJ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

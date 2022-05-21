@@ -1,90 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2f",
-        "short_name": "2f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "９２８２−１",
-        "short_name": "９２８２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９２８２−１ 2f",
-    "geometry": {
-      "location": {
-        "lat": 36.9235027,
-        "lng": 138.4477487
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.92485763029149,
-          "lng": 138.4490312802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９２８２−１ 2f",
+      "geometry": {
+        "location": {
+          "lat": 36.9235027,
+          "lng": 138.4477487
         },
-        "southwest": {
-          "lat": 36.9221596697085,
-          "lng": 138.4463333197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92485847989273,
+            "lng": 138.4490321298927
+          },
+          "southwest": {
+            "lat": 36.92215882010728,
+            "lng": 138.4463324701073
+          }
         }
-      }
-    },
-    "place_id": "Ek0yZiwgOTI4Mi0xIFRveW9zYXRvLCBOb3phd2FvbnNlbiwgU2hpbW90YWthaSBEaXN0cmljdCwgTmFnYW5vIDM4OS0yNTAyLCBKYXBhbiIeGhwKFgoUChIJ2ZhOsC0F9l8RPQSIF48BW-sSAjJm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "2f",
+      "photos": [
+        {
+          "height": 576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106318526393547060945\">K Araki</a>"
+          ],
+          "photo_reference": "Aap_uEDF6-x-3Ia3Tbjiui_M1hKycebnkmQuscEQQDp27QpNaJ_3JFyYCURvR57uoHdp7RGM625C2FL8X5lBrhUHQC7yTVO1DQYk2YJN2IW8xHOsreQvAnM6debAgqYGet73DoLQjj89Ez7a-qQ02j4SoQ3yOMMDl9ZosWtrrarzQyMSNIS8",
+          "width": 1024
+        }
+      ],
+      "place_id": "ElTml6XmnKzjgIHjgJIzODktMjUwMiDplbfph47nnIzkuIvpq5jkupXpg6Hph47msqLmuKnms4nmnZHosYrpg7fvvJnvvJLvvJjvvJLiiJLvvJEgMmYiHhocChYKFAoSCdmYTrAtBfZfET0EiBePAVvrEgIyZg",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

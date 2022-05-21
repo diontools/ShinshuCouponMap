@@ -1,64 +1,39 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県千曲市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒389-0516 長野県東御市 田中133−7",
+      "geometry": {
+        "location": {
+          "lat": 36.3578753,
+          "lng": 138.3298812
         },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+        "viewport": {
+          "northeast": {
+            "lat": 36.35919062989272,
+            "lng": 138.3312202798927
+          },
+          "southwest": {
+            "lat": 36.35649097010727,
+            "lng": 138.3285206201073
+          }
         }
       },
-      "location": {
-        "lat": 36.5338864,
-        "lng": 138.119971
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "スナックニューエデン",
+      "place_id": "ChIJMXWMPJe5HWARGzv7VrO3gmQ",
+      "plus_code": {
+        "compound_code": "985H+5X 東御市、長野県",
+        "global_code": "8Q8W985H+5X"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
-        },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQfuLuhydHWARe_teCWFmml0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

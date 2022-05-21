@@ -1,95 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1426番",
-        "short_name": "1426番",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南石堂町",
-        "short_name": "南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野南石堂町",
-        "short_name": "大字南長野南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0824",
-        "short_name": "380-0824",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0824 長野県長野市大字南長野南石堂町南石堂町1426番",
-    "geometry": {
-      "location": {
-        "lat": 36.6456722,
-        "lng": 138.1865755
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64701678029149,
-          "lng": 138.1880020302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0824 長野県長野市大字南長野南石堂町1426番",
+      "geometry": {
+        "location": {
+          "lat": 36.6456722,
+          "lng": 138.1865755
         },
-        "southwest": {
-          "lat": 36.6443188197085,
-          "lng": 138.1853040697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64701762989272,
+            "lng": 138.1880028798927
+          },
+          "southwest": {
+            "lat": 36.64431797010728,
+            "lng": 138.1853032201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO68byZSHHWARok1-7MAa0xI",
-    "plus_code": {
-      "compound_code": "J5WP+7J 日本、長野県長野市",
-      "global_code": "8Q8WJ5WP+7J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "meal_delivery",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Mash Café & Bed NAGANO",
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108028599727438789150\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED9Keqi5SpSHAmKFC9sllmYhVwgogzoRytcQ51oYwcu8v1WsbELpf8LvB_zbacEoe_3BeGlCWU3jBIxODSSzaWWFa_AGXDs0Sn32c5UqYAya5Lt3YOHzuZK6ijYNw1Qxmqgq53xwKKzblyCDsrMiSya_07hmeak-dNUXI79Shuo2BmE",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJO68byZSHHWARok1-7MAa0xI",
+      "plus_code": {
+        "compound_code": "J5WP+7J 長野市、長野県",
+        "global_code": "8Q8WJ5WP+7J"
+      },
+      "types": [
+        "meal_delivery",
+        "lodging",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

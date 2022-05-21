@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６",
-        "short_name": "２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "国分",
-        "short_name": "国分",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0016",
-        "short_name": "386-0016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0016 長野県上田市国分１丁目３−２６",
-    "geometry": {
-      "location": {
-        "lat": 36.3835462,
-        "lng": 138.267414
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3850714302915,
-          "lng": 138.2688407302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0016 長野県上田市国分１丁目３−２６",
+      "geometry": {
+        "location": {
+          "lat": 36.3836012,
+          "lng": 138.2674618
         },
-        "southwest": {
-          "lat": 36.3823734697085,
-          "lng": 138.2661427697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.38507227989273,
+            "lng": 138.2688415798928
+          },
+          "southwest": {
+            "lat": 36.38237262010728,
+            "lng": 138.2661419201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJvXqmYZC8HWAR8TRpprNE9Bs",
-    "plus_code": {
-      "compound_code": "97M8+CX 日本、長野県上田市",
-      "global_code": "8Q8W97M8+CX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ビッグボーイ 上田国分店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113482018084078244980\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECdE8zDiduKNl_sWscLWic3LwCW7VJizjndzNT6urOfUhbhLRIWlMCjzv5tUnZSe3NCnJgLU4Z2pe182GRFv9AL_0aUgvGltXlTKcIm0Q61dUdXKygnKqfPnACxyrzOw0n1IWdoPIV2ETjdAuxvPXpBKmx3-mD5pAqAdayHl2jp_0Ld",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJvXqmYZC8HWAR8TRpprNE9Bs",
+      "plus_code": {
+        "compound_code": "97M8+CX 上田市、長野県",
+        "global_code": "8Q8W97M8+CX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

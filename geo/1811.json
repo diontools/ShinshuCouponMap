@@ -1,86 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２１５−９",
-        "short_name": "２２１５−９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明２２１５−９",
-    "geometry": {
-      "location": {
-        "lat": 36.363656,
-        "lng": 137.837821
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3651433302915,
-          "lng": 137.8392863302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明２２１５−９",
+      "geometry": {
+        "location": {
+          "lat": 36.363656,
+          "lng": 137.837821
         },
-        "southwest": {
-          "lat": 36.3624453697085,
-          "lng": 137.8365883697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36514417989272,
+            "lng": 137.8392871798928
+          },
+          "southwest": {
+            "lat": 36.36244452010728,
+            "lng": 137.8365875201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ418GHixpHWARWSIC0w5iSis",
-    "plus_code": {
-      "compound_code": "9R7Q+F4 日本、長野県安曇野市",
-      "global_code": "8Q8V9R7Q+F4"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "lodging",
-      "museum",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "絵本美術館&コテージ 森のおうち",
+      "photos": [
+        {
+          "height": 468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110582750389108349033\">森のおうち・コテージ</a>"
+          ],
+          "photo_reference": "Aap_uEDB7ybA8dhM5KVQepgU6jN8TCm0WtoFS-5OzhWRnxWa6ifkbkPGYN6SBTceFzVH3V1LDlqx5ZtwyAFt2syaE1jF5SSocvRIjyOJd9IeOP9ZBfImZnYHreT7wvniICutINDVGPSnij7dozKogdOhHeYyJoeIvkGBgTmuJBgEAorkp6XI",
+          "width": 700
+        }
+      ],
+      "place_id": "ChIJ418GHixpHWARWSIC0w5iSis",
+      "plus_code": {
+        "compound_code": "9R7Q+F4 安曇野市、長野県",
+        "global_code": "8Q8V9R7Q+F4"
+      },
+      "types": [
+        "cafe",
+        "tourist_attraction",
+        "museum",
+        "lodging",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

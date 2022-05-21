@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６９５５−２３",
-        "short_name": "６９５５−２３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "山吹",
-        "short_name": "山吹",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "高森町",
-        "short_name": "高森町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3101",
-        "short_name": "399-3101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3101 長野県下伊那郡高森町山吹６９５５−２３",
-    "geometry": {
-      "location": {
-        "lat": 35.5952642,
-        "lng": 137.8654484
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5970240802915,
-          "lng": 137.8659759
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3101 長野県下伊那郡高森町山吹６９５５−２３",
+      "geometry": {
+        "location": {
+          "lat": 35.5952642,
+          "lng": 137.8654484
         },
-        "southwest": {
-          "lat": 35.5943261197085,
-          "lng": 137.8631216
+        "viewport": {
+          "northeast": {
+            "lat": 35.59702492989273,
+            "lng": 137.86740305
+          },
+          "southwest": {
+            "lat": 35.59432527010728,
+            "lng": 137.86169445
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJda0Y2BiRHGARSROTXTc14T8",
-    "plus_code": {
-      "compound_code": "HVW8+45 長野県高森町",
-      "global_code": "8Q7VHVW8+45"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "高森カントリークラブ",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114334777804288187761\">中田順</a>"
+          ],
+          "photo_reference": "Aap_uECkAjCTcs8lD5mex3-f9lNXYEGLs_k2FYYny3pjFNNcI9t3jDIEGgsIILzE1MIGDp3LIIit0SlfqHI-tiSN8qPRH4wSsGrciqHXv0-6BbDXwx8-hFYuigUwWtNikk8DNpFATN5T_V-E0UdjZUL3W5FTdIn5XbR7hwOMAD_2vkmQZmak",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJda0Y2BiRHGARSROTXTc14T8",
+      "plus_code": {
+        "compound_code": "HVW8+45 高森町、長野県",
+        "global_code": "8Q7VHVW8+45"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

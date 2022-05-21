@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６２８",
-        "short_name": "６２８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上殿岡",
-        "short_name": "上殿岡",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0153",
-        "short_name": "395-0153",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0153 長野県飯田市上殿岡６２８",
-    "geometry": {
-      "location": {
-        "lat": 35.50041,
-        "lng": 137.807765
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5018308802915,
-          "lng": 137.8089791802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0153 長野県飯田市上殿岡６２８",
+      "geometry": {
+        "location": {
+          "lat": 35.50041,
+          "lng": 137.807765
         },
-        "southwest": {
-          "lat": 35.4991329197085,
-          "lng": 137.8062812197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50183172989272,
+            "lng": 137.8089800298927
+          },
+          "southwest": {
+            "lat": 35.49913207010728,
+            "lng": 137.8062803701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJw53O0a2ZHGAREPuSlkWw0gg",
-    "plus_code": {
-      "compound_code": "GR25+54 長野県飯田市",
-      "global_code": "8Q7VGR25+54"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "殿岡温泉 湯元 湯～眠",
+      "photos": [
+        {
+          "height": 332,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108616467842598916943\">ゆーみん（湯ー眠）</a>"
+          ],
+          "photo_reference": "Aap_uECWIkfetnFEikfNqgUnvhRzLBkwDC3WsT-k_wOVINRI5amWdYPNBp2Rh_7Ul9708XdPp3pT9vE8MGnaa-IJYCa-7urMua6Ej-jw1MaHxiMy5OtP29gmsegDooVn3jbnvihMutX6v7ppEZnNDizGS87ke2-7M-HBLKT1Vdbz636y099C",
+          "width": 500
+        }
+      ],
+      "place_id": "ChIJw53O0a2ZHGAREPuSlkWw0gg",
+      "plus_code": {
+        "compound_code": "GR25+54 飯田市、長野県",
+        "global_code": "8Q7VGR25+54"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

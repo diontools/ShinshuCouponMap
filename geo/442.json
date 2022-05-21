@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１５３−９２７",
-        "short_name": "３１５３−９２７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0000",
-        "short_name": "382-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0000 長野県須坂市仁礼３１５３−９２７",
-    "geometry": {
-      "location": {
-        "lat": 36.5403566,
-        "lng": 138.3420602
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5417591302915,
-          "lng": 138.3433365302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0000 長野県須坂市仁礼３１５３−９２７",
+      "geometry": {
+        "location": {
+          "lat": 36.5403566,
+          "lng": 138.3420602
         },
-        "southwest": {
-          "lat": 36.5390611697085,
-          "lng": 138.3406385697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.54175997989272,
+            "lng": 138.3433373798927
+          },
+          "southwest": {
+            "lat": 36.53906032010728,
+            "lng": 138.3406377201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp-jIZYaTHWAR8gXYnNCEJjA",
-    "plus_code": {
-      "compound_code": "G8RR+4R 日本、長野県須坂市",
-      "global_code": "8Q8WG8RR+4R"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "菅平高原 ペンション&レストラン ヒロストラーダ（HIROSTRADA）",
+      "photos": [
+        {
+          "height": 580,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106101221543738831332\">ペンション&amp;レストラン ヒロストラーダ（HIROSTRADA）</a>"
+          ],
+          "photo_reference": "Aap_uECmCln9luZX8kpPpPePmBGZ840EDLf05xceFtpmxLU82PcVXFJGRXsnNph4la12h5-WMLU1huKdfc64nR39hO4dzOeikjAY-THMK2pkTIuW9jAh4VvN2xMwNAukT5uwf3vhfR3YHiGqlNU3kk6lmGKY8tMMilh4Buao0NjJlpNt_qkp",
+          "width": 980
+        }
+      ],
+      "place_id": "ChIJp-jIZYaTHWAR8gXYnNCEJjA",
+      "plus_code": {
+        "compound_code": "G8RR+4R 須坂市、長野県",
+        "global_code": "8Q8WG8RR+4R"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

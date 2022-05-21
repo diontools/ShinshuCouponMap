@@ -1,123 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "松本つなぐ横丁内",
-        "short_name": "松本つなぐ横丁内",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "アルピコプラザホテル",
-        "short_name": "アルピコプラザホテル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２１",
-        "short_name": "２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目３−２１ アルピコプラザホテル 1階 松本つなぐ横丁内",
-    "geometry": {
-      "location": {
-        "lat": 36.22959340000001,
-        "lng": 137.9664681
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2309246302915,
-          "lng": 137.9676778302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目３−２１ アルピコプラザホテル 1階 松本つなぐ横丁内",
+      "geometry": {
+        "location": {
+          "lat": 36.22959340000001,
+          "lng": 137.9664681
         },
-        "southwest": {
-          "lat": 36.2282266697085,
-          "lng": 137.9649798697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23092547989271,
+            "lng": 137.9676786798927
+          },
+          "southwest": {
+            "lat": 36.22822582010727,
+            "lng": 137.9649790201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp-yWeO8PHWARmvXArmervxw",
-    "plus_code": {
-      "compound_code": "6XH8+RH 日本、長野県松本市",
-      "global_code": "8Q8V6XH8+RH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "博多鉄八 松本つなぐ横丁店",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111349645162043871250\">??</a>"
+          ],
+          "photo_reference": "Aap_uEAYMSgNJ3EHh05jQwD_A5PPF2A1d2h4-AMniq1eFEu-5tWSB76W13-bppaz_gOrPb9xTjrEHrFURS42Seu0KvaSdxGcoqDW8Raop3CPmOmDAY6ueCdPKyOvbacR2l352dEjGwndDnazi0wXDm7w83mNo3nAPd_Wmqmi5TzpYfvZ8Fok",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJp-yWeO8PHWARmvXArmervxw",
+      "plus_code": {
+        "compound_code": "6XH8+RH 松本市、長野県",
+        "global_code": "8Q8V6XH8+RH"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

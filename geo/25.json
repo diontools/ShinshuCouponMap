@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０６１",
-        "short_name": "２０６１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２０６１",
-    "geometry": {
-      "location": {
-        "lat": 36.734107,
-        "lng": 138.433861
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7355055302915,
-          "lng": 138.4352307802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２０６１",
+      "geometry": {
+        "location": {
+          "lat": 36.734107,
+          "lng": 138.433861
         },
-        "southwest": {
-          "lat": 36.73280756970851,
-          "lng": 138.4325328197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73550637989273,
+            "lng": 138.4352316298927
+          },
+          "southwest": {
+            "lat": 36.73280672010728,
+            "lng": 138.4325319701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJVyKf4H0HWARR81jkFRzOOc",
-    "plus_code": {
-      "compound_code": "PCMM+JG 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCMM+JG"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "竹内商店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112491274470456480253\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB5MCxxy838ks_AKNe3JrMT16v1iSJvqEBRNfPKemUp5m9Hm5zcCFJzID_0M44aWZoHpmK67S3-S-BclVOKcEY09qQ8KQWnwk2mrkUq4pP5gxvRzYNaDOchrNqbrrpG5p-HhR9vX13NhtpoQ8yloERmLwINBglF1P0lmdAHF0PAnk7v",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJJVyKf4H0HWARR81jkFRzOOc",
+      "plus_code": {
+        "compound_code": "PCMM+JG 山ノ内町、長野県",
+        "global_code": "8Q8WPCMM+JG"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

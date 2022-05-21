@@ -1,90 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０４７−１",
-        "short_name": "４０４７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北大塩",
-        "short_name": "北大塩",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "米沢",
-        "short_name": "米沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0216",
-        "short_name": "391-0216",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0216 長野県茅野市米沢北大塩４０４７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.032642,
-        "lng": 138.185967
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.03398518029149,
-          "lng": 138.1871733802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0216 長野県茅野市米沢北大塩４０４７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0326296,
+          "lng": 138.1857314
         },
-        "southwest": {
-          "lat": 36.0312872197085,
-          "lng": 138.1844754197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03398602989271,
+            "lng": 138.1871742298927
+          },
+          "southwest": {
+            "lat": 36.03128637010727,
+            "lng": 138.1844745701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyUqbPxNRHGAR7m8ckilEMco",
-    "plus_code": {
-      "compound_code": "25MP+39 長野県茅野市",
-      "global_code": "8Q8W25MP+39"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "北大塩区事務所",
+      "photos": [
+        {
+          "height": 1083,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117008107944143451684\">直爺</a>"
+          ],
+          "photo_reference": "Aap_uEDE-NkQxeovDAiyoy9xjmsPJkG23MlXZfv0aTw05mjg3VlGHVHsVj5fuPe9J_FHaWXH1BXjtswYYINjHaVu5G42ce66rVMWqmnsOW8h0s0C-a0KcmpQoGBRvgol_uVtC47GZ5TwTs9e1YwcDSbUKzQp_m_uSWtdR5u5ABkstrJyNNFm",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJyUqbPxNRHGAR7m8ckilEMco",
+      "plus_code": {
+        "compound_code": "25MP+39 茅野市、長野県",
+        "global_code": "8Q8W25MP+39"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

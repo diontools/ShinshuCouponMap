@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０２０−１０６",
-        "short_name": "３０２０−１０６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−１０６",
-    "geometry": {
-      "location": {
-        "lat": 36.6930083,
-        "lng": 137.8484092
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69427068029149,
-          "lng": 137.8498075802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−１０６",
+      "geometry": {
+        "location": {
+          "lat": 36.6930083,
+          "lng": 137.8484092
         },
-        "southwest": {
-          "lat": 36.69157271970849,
-          "lng": 137.8471096197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69427152989272,
+            "lng": 137.8498084298927
+          },
+          "southwest": {
+            "lat": 36.69157187010727,
+            "lng": 137.8471087701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJa5zbSvzR918Rladmr08uchI",
-    "plus_code": {
-      "compound_code": "MRVX+69 長野県白馬村",
-      "global_code": "8Q8VMRVX+69"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "呑者屋(のんじゃえ)",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109978536883640066111\">五十嵐学</a>"
+          ],
+          "photo_reference": "Aap_uEAcS8lVsMyHDErGWsSo2LjcLloFZ5lAETsedFLppFbTTDFzVglpDOfNUfjyxN1rFJBmv4k4Roe86B-Tr1MHwmB48BkUaV0t3OV0t2u5VR4bDgZKd3tE26LCqoAunurx5Ch5fm6uMapOpppN5h5k28gTYoShogiyusVwzjfvzAo43tY3",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJa5zbSvzR918Rladmr08uchI",
+      "plus_code": {
+        "compound_code": "MRVX+69 白馬村、長野県",
+        "global_code": "8Q8VMRVX+69"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

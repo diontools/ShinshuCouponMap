@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長地柴宮",
-        "short_name": "長地柴宮",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0083",
-        "short_name": "394-0083",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0083 長野県岡谷市長地柴宮１丁目９−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0727027,
-          "lng": 138.0619942
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒394-0083 長野県岡谷市長地柴宮１丁目９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0725971,
+          "lng": 138.0618476
         },
-        "southwest": {
-          "lat": 36.0724657,
-          "lng": 138.0617387
+        "viewport": {
+          "northeast": {
+            "lat": 36.07407307989272,
+            "lng": 138.0631215798927
+          },
+          "southwest": {
+            "lat": 36.07137342010728,
+            "lng": 138.0604219201073
+          }
         }
       },
-      "location": {
-        "lat": 36.0725971,
-        "lng": 138.0618476
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.07400653029149,
-          "lng": 138.0631940302915
-        },
-        "southwest": {
-          "lat": 36.07130856970849,
-          "lng": 138.0604960697085
-        }
-      }
-    },
-    "place_id": "ChIJuR5Goh8AHWAROmrQHUgTLGA",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒394-0083 長野県岡谷市長地柴宮１丁目９−１",
+      "place_id": "ChIJuR5Goh8AHWAROmrQHUgTLGA",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

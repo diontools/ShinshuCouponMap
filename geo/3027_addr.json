@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５４−１",
-        "short_name": "２５４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "浪合",
-        "short_name": "浪合",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0501",
-        "short_name": "395-0501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0501 長野県下伊那郡阿智村浪合２５４−１",
-    "geometry": {
-      "location": {
-        "lat": 35.3905109,
-        "lng": 137.6825051
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.3918712302915,
-          "lng": 137.6840284302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0501 長野県下伊那郡阿智村浪合２５４−１",
+      "geometry": {
+        "location": {
+          "lat": 35.3905109,
+          "lng": 137.6825051
         },
-        "southwest": {
-          "lat": 35.3891732697085,
-          "lng": 137.6813304697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.39187207989273,
+            "lng": 137.6840292798927
+          },
+          "southwest": {
+            "lat": 35.38917242010728,
+            "lng": 137.6813296201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJPckhp7OmHGARjTpj-PYFgX8",
-    "plus_code": {
-      "compound_code": "9MRM+62 長野県阿智村",
-      "global_code": "8Q7V9MRM+62"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒395-0501 長野県下伊那郡阿智村浪合２５４−１",
+      "place_id": "ChIJPckhp7OmHGARjTpj-PYFgX8",
+      "plus_code": {
+        "compound_code": "9MRM+62 阿智村、長野県",
+        "global_code": "8Q7V9MRM+62"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,88 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７００−８",
-        "short_name": "７００−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "大門並木町",
-        "short_name": "大門並木町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0746",
-        "short_name": "399-0746",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0746 長野県塩尻市大門並木町７−７００−８",
-    "geometry": {
-      "location": {
-        "lat": 36.1190913,
-        "lng": 137.9520739
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1204991802915,
-          "lng": 137.9534790302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0746 長野県塩尻市大門並木町７−７００−８",
+      "geometry": {
+        "location": {
+          "lat": 36.1190913,
+          "lng": 137.9520739
         },
-        "southwest": {
-          "lat": 36.1178012197085,
-          "lng": 137.9507810697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12050002989272,
+            "lng": 137.9534798798927
+          },
+          "southwest": {
+            "lat": 36.11780037010727,
+            "lng": 137.9507802201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJHZzp5_EEHWARmtw_1Eq9Alk",
-    "plus_code": {
-      "compound_code": "4X92+JR 長野県塩尻市",
-      "global_code": "8Q8V4X92+JR"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-0746 長野県塩尻市大門並木町７−７００−８",
+      "place_id": "ChIJHZzp5_EEHWARmtw_1Eq9Alk",
+      "plus_code": {
+        "compound_code": "4X92+JR 塩尻市、長野県",
+        "global_code": "8Q8V4X92+JR"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

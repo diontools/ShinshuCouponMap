@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９２",
-        "short_name": "４９２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈良井",
-        "short_name": "奈良井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6303",
-        "short_name": "399-6303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井４９２",
-    "geometry": {
-      "location": {
-        "lat": 35.9648187,
-        "lng": 137.8108936
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9662045802915,
-          "lng": 137.8121930802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井４９２",
+      "geometry": {
+        "location": {
+          "lat": 35.9648187,
+          "lng": 137.8108936
         },
-        "southwest": {
-          "lat": 35.9635066197085,
-          "lng": 137.8094951197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96620542989272,
+            "lng": 137.8121939298927
+          },
+          "southwest": {
+            "lat": 35.96350577010728,
+            "lng": 137.8094942701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJBaJ8USgeHWARNZPwlhKCt-k",
-    "plus_code": {
-      "compound_code": "XR76+W9 日本、長野県塩尻市",
-      "global_code": "8Q7VXR76+W9"
-    },
-    "types": [
-      "establishment",
-      "health",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "日野百草本舗 奈良井店",
+      "photos": [
+        {
+          "height": 4024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117186784006337269359\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECs3nToTtlammcUKfbbPYy__CKfoyP3VcDvZL4BsqerwIB0-dKzSW5k2cxc5f9WWTOnLx0duCw5OVcXiblnYuqtvTDc0_iwS60MBF1sE9bxnJx732skla8OuUEz6YqgIPLi4ceygZw8Zai184gBSTIgMYP0QkrDXogBd3ow2lpw5nzd",
+          "width": 6048
+        }
+      ],
+      "place_id": "ChIJBaJ8USgeHWARNZPwlhKCt-k",
+      "plus_code": {
+        "compound_code": "XR76+W9 塩尻市、長野県",
+        "global_code": "8Q7VXR76+W9"
+      },
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９−１",
-        "short_name": "４９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎",
-        "short_name": "鼎",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0805",
-        "short_name": "395-0805",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0805 長野県飯田市鼎４９−１",
-    "geometry": {
-      "location": {
-        "lat": 35.50377599999999,
-        "lng": 137.811582
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5051412802915,
-          "lng": 137.8129482302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0805 長野県飯田市鼎４９−１",
+      "geometry": {
+        "location": {
+          "lat": 35.50377599999999,
+          "lng": 137.811582
         },
-        "southwest": {
-          "lat": 35.5024433197085,
-          "lng": 137.8102502697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50514212989272,
+            "lng": 137.8129490798927
+          },
+          "southwest": {
+            "lat": 35.50244247010728,
+            "lng": 137.8102494201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "とんかつ しゃぶしゃぶ ３びきのこぶた",
+      "photos": [
+        {
+          "height": 1653,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105484742580027426404\">３びきのこぶた</a>"
+          ],
+          "photo_reference": "Aap_uECD45qtjMQ8c_L8xF9u4hyP74JV_8pFKdSIjtJVZOTv_P3dHlUCzcoAfnWfMGckpKOC7cf0JghuAnz-zoQfWSKduLx-FTmRB9AFgO9IvIuaQOZhxO_Pv9aEHMMJTZWiuRdo_cHtRLMTUUSt8187Xg7TDilIDOYj399eFGiHAOE_ORHB",
+          "width": 2711
+        }
+      ],
+      "place_id": "ChIJubLN3q-ZHGARyaUdIeTBf9g",
+      "plus_code": {
+        "compound_code": "GR36+GJ 飯田市、長野県",
+        "global_code": "8Q7VGR36+GJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJubLN3q-ZHGARyaUdIeTBf9g",
-    "plus_code": {
-      "compound_code": "GR36+GJ 長野県飯田市",
-      "global_code": "8Q7VGR36+GJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0001 長野県飯田市３３４９−１ エス・バード Ｂ棟 １階",
+      "geometry": {
+        "location": {
+          "lat": 35.5373719,
+          "lng": 137.8641897
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.53878252989271,
+            "lng": 137.8673106
+          },
+          "southwest": {
+            "lat": 35.53608287010727,
+            "lng": 137.8631494
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "熟成とんかつ 3びきのこぶた 座光寺店",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102613123168640044397\">春名将行</a>"
+          ],
+          "photo_reference": "Aap_uEA7c3NbTH8TnKLRsHs84kOEnmsQumHq0KiDNYR6MSKg73X40wKP86bTHYeGwEw6MfA2eG-v9vCK87RL3WfmFlbAa6i5n76tYskSF48Br943BJrPUbgIMLCVP-IW2klkf9ubmLfoCu0JxWE0TIHcNRc9m_B2eZyz90co2iaJu2BWNTCT",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJsZJHke2bHGAR5nRk_Rv-ZGo",
+      "plus_code": {
+        "compound_code": "GVP7+WM 飯田市、長野県",
+        "global_code": "8Q7VGVP7+WM"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

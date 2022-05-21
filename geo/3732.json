@@ -1,162 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７２",
-        "short_name": "１７２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎",
-        "short_name": "鼎",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0817",
-        "short_name": "395-0817",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0817 長野県飯田市鼎１７２",
-    "geometry": {
-      "location": {
-        "lat": 35.5049934,
-        "lng": 137.8411426
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5065676802915,
-          "lng": 137.8424029802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0817 長野県飯田市鼎１７２",
+      "geometry": {
+        "location": {
+          "lat": 35.5049934,
+          "lng": 137.8411426
         },
-        "southwest": {
-          "lat": 35.5038697197085,
-          "lng": 137.8397050197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50656852989272,
+            "lng": 137.8424038298927
+          },
+          "southwest": {
+            "lat": 35.50386887010727,
+            "lng": 137.8397041701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJm0fGTn6ZHGARzjbItNfIgFA",
-    "plus_code": {
-      "compound_code": "GR3R+XF 長野県飯田市",
-      "global_code": "8Q7VGR3R+XF"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "２８１",
-        "short_name": "２８１",
-        "types": [
-          "premise"
-        ]
       },
-      {
-        "long_name": "鼎東鼎",
-        "short_name": "鼎東鼎",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0192",
-        "short_name": "395-0192",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0192 長野県飯田市鼎東鼎２８１",
-    "geometry": {
-      "location": {
-        "lat": 35.5054377,
-        "lng": 137.8401732
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.50674068029149,
-          "lng": 137.8417038802915
-        },
-        "southwest": {
-          "lat": 35.5040427197085,
-          "lng": 137.8390059197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "JAみなみ信州 およりてふぁーむ農産物直売所",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112703957834674026364\">Makoto Shibahara</a>"
+          ],
+          "photo_reference": "Aap_uEA-hw_BddiXQ9JXXtsYYh5bSQCB8w5YzN6oLhTNQiQn0TE6Y6Dxh2ljyE_tRdy6EhhRGKoCaZTZqo7dSS3WU2qwGNRgGYnk-cDgxD4yjJKl7PBa0-rR0phNA6qUe4lmS5EFgwJiVecnqKytJvSj-HbhJIBDinN9m1ncwnzLLveJ4NGl",
+          "width": 4864
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9chmP0aYHGARZjz1H8ruF8I",
-    "plus_code": {
-      "compound_code": "GR4R+53 長野県飯田市",
-      "global_code": "8Q7VGR4R+53"
-    },
-    "types": [
-      "atm",
-      "establishment",
-      "finance",
-      "point_of_interest"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJm0fGTn6ZHGARzjbItNfIgFA",
+      "plus_code": {
+        "compound_code": "GR3R+XF 飯田市、長野県",
+        "global_code": "8Q7VGR3R+XF"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

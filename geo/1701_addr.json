@@ -1,92 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南軽井沢（バス）",
-        "short_name": "南軽井沢（バス）",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "発地",
-        "short_name": "発地",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0113",
-        "short_name": "389-0113",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地 南軽井沢（バス）",
-    "geometry": {
-      "location": {
-        "lat": 36.3138505,
-        "lng": 138.6313418
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.31519983029149,
-          "lng": 138.6326676302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地",
+      "geometry": {
+        "location": {
+          "lat": 36.2936428,
+          "lng": 138.6088222
         },
-        "southwest": {
-          "lat": 36.3125018697085,
-          "lng": 138.6299696697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.3269169,
+            "lng": 138.6537579
+          },
+          "southwest": {
+            "lat": 36.27847089999999,
+            "lng": 138.562235
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxSVH_VLTHWARiABgel2F3OQ",
-    "plus_code": {
-      "compound_code": "8J7J+GG 長野県軽井沢町",
-      "global_code": "8Q8W8J7J+GG"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "transit_station"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "発地",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107804738252532447912\">小林俊洋</a>"
+          ],
+          "photo_reference": "Aap_uEChZEOh6FnBpfelTe0n6UcWckpi4PnHTfHpKIlvi_7n0AwetZcVD0KnvF3MtPByX_jT04UbhHuNPGdejpTW0kBJRmGHpn0jw8gGDV7N10WBQ5kCe75b5bscvBW5DSSBZX7tK7gqTnQr4AZnd-ykBJo15t0WBIJ6qNfIPy1bIOMxux4j",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJY6b4TC3THWARG8qAObPCXdI",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,64 +1,92 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目１−１ 7F",
+      "geometry": {
+        "location": {
+          "lat": 36.645042,
+          "lng": 138.188624
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.64624327989272,
+            "lng": 138.1901367298927
+          },
+          "southwest": {
+            "lat": 36.64354362010727,
+            "lng": 138.1874370701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "とんかつ まい泉 ながの東急レストラン店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110095999931737833185\">JACK LEE</a>"
+          ],
+          "photo_reference": "Aap_uECktDMrqGw2Aba-8jyJkmwpos5rGm9XWCgbpdtl-gzGkCnbjSpUC0l4Pn9m2BFdscBz5QcoeIGO5iN7JSA8AUnW0fdxyS-zCsbBeXEoLeCWb0N-6EgUVH0xlPTd7qqxLbWysXOycykth7KtLmYZinKz8gz-hc6lnI1urd5YKxyhuTnN",
+          "width": 4032
         }
-      }
+      ],
+      "place_id": "ChIJcZjV8hGHHWARq85LirbSIaU",
+      "plus_code": {
+        "compound_code": "J5WQ+2C 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+2C"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目１−１ ながの東急百貨店 本館B1F東急フードショ",
+      "geometry": {
+        "location": {
+          "lat": 36.645439,
+          "lng": 138.189302
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.64669652989272,
+            "lng": 138.1907444298928
+          },
+          "southwest": {
+            "lat": 36.64399687010728,
+            "lng": 138.1880447701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "井筒まい泉（株） ながの東急売店",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117523700907783624572\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBCC-fpei9ze-hERVFSQqvewh9hyo4geTOydTxDkXy1EtJkntCmt8OpzRpm-dxbtCAgLIN4ISJSnLVwE2hVCu83_3MbELRipZrofmeYYh251BQk82LFs4g9dsjcgd-aAIwwtN1-e62b7W3QcOUQuHxoy9h9pBR5VR8HNhkaWWWv0ZtA",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJq5pgtJKGHWARsYEqQyYjjXo",
+      "plus_code": {
+        "compound_code": "J5WQ+5P 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+5P"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

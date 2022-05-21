@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７１０",
-        "short_name": "７１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢７１０",
-    "geometry": {
-      "location": {
-        "lat": 36.3600115,
-        "lng": 138.6371453
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3613928302915,
-          "lng": 138.6384456802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢７１０",
+      "geometry": {
+        "location": {
+          "lat": 36.3600314,
+          "lng": 138.6371167
         },
-        "southwest": {
-          "lat": 36.3586948697085,
-          "lng": 138.6357477197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36139367989271,
+            "lng": 138.6384465298927
+          },
+          "southwest": {
+            "lat": 36.35869402010727,
+            "lng": 138.6357468701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ46rdcIjTHWAR6NZgRI_EqmE",
-    "plus_code": {
-      "compound_code": "9J6P+2V 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J6P+2V"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ジャムこばやし",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107753831483043029747\">大阪うりぼう</a>"
+          ],
+          "photo_reference": "Aap_uEA5sSWrJ8xBrneRZghVotdvzaIPw3Ah_voDxIDU6ecB_qDrzwaogYL-M-Ry70AWqBAM_nTigwqvuAfnqhUKyqLMgjloOk7ATKUJk8KEJByQjBN7Gykwpwnvizkpp5rov_KJ428xI60ydfyavigPwR4pHFuR_3P795JhP5WZspbic3Pd",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ46rdcIjTHWAR6NZgRI_EqmE",
+      "plus_code": {
+        "compound_code": "9J6P+2V 軽井沢町、長野県",
+        "global_code": "8Q8W9J6P+2V"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

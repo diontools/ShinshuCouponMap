@@ -1,94 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目３",
-    "geometry": {
-      "location": {
-        "lat": 36.234531,
-        "lng": 137.9717661
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2358844802915,
-          "lng": 137.9731140802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目３",
+      "geometry": {
+        "location": {
+          "lat": 36.2345351,
+          "lng": 137.9717652
         },
-        "southwest": {
-          "lat": 36.2331865197085,
-          "lng": 137.9704161197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23588532989272,
+            "lng": 137.9731149298927
+          },
+          "southwest": {
+            "lat": 36.23318567010728,
+            "lng": 137.9704152701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdbuZ-5EOHWARpedyeZdtFMc",
-    "plus_code": {
-      "compound_code": "6XMC+RP 日本、長野県松本市",
-      "global_code": "8Q8V6XMC+RP"
-    },
-    "types": [
-      "establishment",
-      "home_goods_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "穂高クラフト松本店",
+      "photos": [
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107056713915510278091\">木下雄貴</a>"
+          ],
+          "photo_reference": "Aap_uEAyJHdgX06m_aNodwZOplMz8NfybgsowOcWXFx06dvw0u1ntpq9rccJS9f2HWC-flJIEzfnVixL4-trgTFUX4TpWKGVZwIIgYHCaHDwaxLzKJu0g9NBggfgp2eydqp-qNeIJrKXhj9Yhhm_FR4wpImDlSQAO5kYKjLK_YjMsGuya-Bx",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJdbuZ-5EOHWARpedyeZdtFMc",
+      "plus_code": {
+        "compound_code": "6XMC+RP 松本市、長野県",
+        "global_code": "8Q8V6XMC+RP"
+      },
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

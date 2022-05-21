@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０８７",
-        "short_name": "１０８７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘吉田",
-        "short_name": "広丘吉田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0701",
-        "short_name": "399-0701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0701 長野県塩尻市広丘吉田１０８７",
-    "geometry": {
-      "location": {
-        "lat": 36.163975,
-        "lng": 137.953725
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.16536173029149,
-          "lng": 137.9549852802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0701 長野県塩尻市広丘吉田１０８７",
+      "geometry": {
+        "location": {
+          "lat": 36.163975,
+          "lng": 137.953725
         },
-        "southwest": {
-          "lat": 36.1626637697085,
-          "lng": 137.9522873197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.16536257989272,
+            "lng": 137.9549861298927
+          },
+          "southwest": {
+            "lat": 36.16266292010727,
+            "lng": 137.9522864701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJP5xVm3wFHWAR7zp_xrcdZWQ",
-    "plus_code": {
-      "compound_code": "5X73+HF 日本、長野県塩尻市",
-      "global_code": "8Q8V5X73+HF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "焼肉カルビ屋三夢塩尻店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110975222456832437009\">嶺山公男</a>"
+          ],
+          "photo_reference": "Aap_uEAlBeuUuxSawIWdj3eKvnMJ9YXP8s_0zK-rb-N8cUke5Bx5b_8UWAwlviJkbZBpwCXEvCpIe-DNJ42DHpQYqMFXr4hkYuZjcYCO7Y8tkXy37MfzETqgNAjMEbF_7YCzo-02jFAoh8Md1XGhP5xVW6ovxo4fmjaB5GG6UgGoiONZhJw_",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJP5xVm3wFHWAR7zp_xrcdZWQ",
+      "plus_code": {
+        "compound_code": "5X73+HF 塩尻市、長野県",
+        "global_code": "8Q8V5X73+HF"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

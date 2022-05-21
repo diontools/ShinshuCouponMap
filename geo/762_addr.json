@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "西之門町",
-        "short_name": "西之門町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0857",
-        "short_name": "380-0857",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0857 長野県長野市長野西之門町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6586313,
-          "lng": 138.1868955
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0857 長野県長野市長野西之門町",
+      "geometry": {
+        "location": {
+          "lat": 36.6578451,
+          "lng": 138.1866635
         },
-        "southwest": {
-          "lat": 36.6575092,
-          "lng": 138.1857136
+        "viewport": {
+          "northeast": {
+            "lat": 36.65942007989272,
+            "lng": 138.1876543798927
+          },
+          "southwest": {
+            "lat": 36.65672042010728,
+            "lng": 138.1849547201072
+          }
         }
       },
-      "location": {
-        "lat": 36.6578451,
-        "lng": 138.1866635
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6594192302915,
-          "lng": 138.1876535302915
-        },
-        "southwest": {
-          "lat": 36.6567212697085,
-          "lng": 138.1849555697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0857 長野県長野市長野西之門町",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103978464052478984030\">マルキン</a>"
+          ],
+          "photo_reference": "Aap_uEAlV9XuETmw2xeOWfiRMlwcyLpp9qRyPmuCAqV0hXNxJPes0RXSIZbRmdpKp0qGHeVknk1yS_gtr0EXD0svRKjGhZAjWuP_8rFPrbmaYR17o1xY4bb8bGLb1ejYm8oMUDDwPONYrSVKSFZP4dDoS0vI6363lmdxM5HQkZLw1D02cg8",
+          "width": 5184
         }
-      }
-    },
-    "place_id": "ChIJv-E6juOGHWAReFjwhi8Ewnk",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJv-E6juOGHWAReFjwhi8Ewnk",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

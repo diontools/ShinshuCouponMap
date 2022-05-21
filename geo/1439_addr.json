@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０８６−２",
-        "short_name": "１０８６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "海ノ口",
-        "short_name": "海ノ口",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1302",
-        "short_name": "384-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1302 長野県南佐久郡南牧村海ノ口１０８６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.018524,
-        "lng": 138.4928757
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0199009302915,
-          "lng": 138.4943894802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-1302 長野県南佐久郡南牧村海ノ口１０８６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.018524,
+          "lng": 138.4928757
         },
-        "southwest": {
-          "lat": 36.0172029697085,
-          "lng": 138.4916915197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01990177989272,
+            "lng": 138.4943903298928
+          },
+          "southwest": {
+            "lat": 36.01720212010728,
+            "lng": 138.4916906701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJKeRY7j08HGARuN1DoTJjHNg",
-    "plus_code": {
-      "compound_code": "2F9V+C5 長野県南牧村",
-      "global_code": "8Q8W2F9V+C5"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-1302 長野県南佐久郡南牧村海ノ口１０８６−２",
+      "place_id": "ChIJKeRY7j08HGARuN1DoTJjHNg",
+      "plus_code": {
+        "compound_code": "2F9V+C5 南牧村、長野県",
+        "global_code": "8Q8W2F9V+C5"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

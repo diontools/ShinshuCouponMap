@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県千曲市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0017 長野県千曲市中３５５",
+      "geometry": {
+        "location": {
+          "lat": 36.5179636,
+          "lng": 138.1161779
         },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+        "viewport": {
+          "northeast": {
+            "lat": 36.51935257989272,
+            "lng": 138.1174927298927
+          },
+          "southwest": {
+            "lat": 36.51665292010728,
+            "lng": 138.1147930701073
+          }
         }
       },
-      "location": {
-        "lat": 36.5338864,
-        "lng": 138.119971
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
-        },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "木の花屋本店",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107870791163878389905\">ラボ英</a>"
+          ],
+          "photo_reference": "Aap_uEAcB57fs-SmgiRXU-19lGMnOXQpnP2FS8RA1n5GjKZjguCAOnYtStsn_ewEYwOWEI7_odtZp4ydP_XZXtTgqmstS_AIk7ZN3d4nZZeBz1j3g13_xitYTU-ex7UH5NsPTAELwAmwp-YCFkbdCjSTw23U7Iopm0DfIFWzDf2CeahkOFHV",
+          "width": 4160
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQfuLuhydHWARe_teCWFmml0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ669M5yidHWAR8-r7HKw36Zw",
+      "plus_code": {
+        "compound_code": "G498+5F 千曲市、長野県",
+        "global_code": "8Q8WG498+5F"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

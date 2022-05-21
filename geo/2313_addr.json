@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５",
-        "short_name": "２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南松本",
-        "short_name": "南松本",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0832",
-        "short_name": "390-0832",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0832 長野県松本市南松本１丁目１−２５",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2140375,
-          "lng": 137.9703619
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0832 長野県松本市南松本１丁目１−２５",
+      "geometry": {
+        "location": {
+          "lat": 36.2139871,
+          "lng": 137.9702478
         },
-        "southwest": {
-          "lat": 36.2139392,
-          "lng": 137.9701697
+        "viewport": {
+          "northeast": {
+            "lat": 36.21526117989272,
+            "lng": 137.9715884298927
+          },
+          "southwest": {
+            "lat": 36.21256152010728,
+            "lng": 137.9688887701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2139871,
-        "lng": 137.9702478
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2152855302915,
-          "lng": 137.9716147802915
-        },
-        "southwest": {
-          "lat": 36.2125875697085,
-          "lng": 137.9689168197085
-        }
-      }
-    },
-    "place_id": "ChIJt9sZw_wOHWARr0X4ykSelrQ",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0832 長野県松本市南松本１丁目１−２５",
+      "place_id": "ChIJt9sZw_wOHWARr0X4ykSelrQ",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

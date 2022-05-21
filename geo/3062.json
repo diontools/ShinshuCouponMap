@@ -1,94 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "リフレッシュタウン まつかわの里",
-        "short_name": "リフレッシュタウン まつかわの里",
-        "types": [
-          "establishment",
-          "park",
-          "point_of_interest",
-          "tourist_attraction"
-        ]
-      },
-      {
-        "long_name": "大島",
-        "short_name": "大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3304",
-        "short_name": "399-3304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島 リフレッシュタウン まつかわの里",
-    "geometry": {
-      "location": {
-        "lat": 35.6150793,
-        "lng": 137.8825997
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6166688802915,
-          "lng": 137.8833894
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島２７８４",
+      "geometry": {
+        "location": {
+          "lat": 35.6147014,
+          "lng": 137.8812393
         },
-        "southwest": {
-          "lat": 35.6139709197085,
-          "lng": 137.8799113
+        "viewport": {
+          "northeast": {
+            "lat": 35.61607442989272,
+            "lng": 137.8825932798927
+          },
+          "southwest": {
+            "lat": 35.61337477010728,
+            "lng": 137.8798936201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC0BbMHWRHGARXXBUGVYsKjQ",
-    "plus_code": {
-      "compound_code": "JV8M+22 長野県松川町",
-      "global_code": "8Q7VJV8M+22"
-    },
-    "types": [
-      "establishment",
-      "park",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "まつかわの里 屋内スポーツ施設",
+      "photos": [
+        {
+          "height": 2999,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109044897113525346168\">えいでん黒猫</a>"
+          ],
+          "photo_reference": "Aap_uECW5osXt_jHq_g4Tt1EF2IOur1ql2pRnfFuVvF3EEx-8IPgJ7KMmBWedcwSjxP26_77_luGn2wdZLaUSLps-rBxKemgKq2iX_L50wLtFs2Sv5ZLpMNZG59612jghvOWk7xh3t9B8kUU5gB_OnFuQSwLLU4DpS_9DDeAmeVULGVf7bK1",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJT04WtAqRHGARa2XVXMII91Y",
+      "plus_code": {
+        "compound_code": "JV7J+WG 松川町、長野県",
+        "global_code": "8Q7VJV7J+WG"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

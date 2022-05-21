@@ -1,99 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上松",
-        "short_name": "上松",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0802",
-        "short_name": "380-0802",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0802 長野県長野市上松１丁目１−６",
-    "geometry": {
-      "location": {
-        "lat": 36.6661189,
-        "lng": 138.1987628
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6674072802915,
-          "lng": 138.2000627802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0802 長野県長野市上松１丁目１−６",
+      "geometry": {
+        "location": {
+          "lat": 36.6661189,
+          "lng": 138.1987628
         },
-        "southwest": {
-          "lat": 36.6647093197085,
-          "lng": 138.1973648197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66740812989272,
+            "lng": 138.2000636298927
+          },
+          "southwest": {
+            "lat": 36.66470847010728,
+            "lng": 138.1973639701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs7Ack_-GHWARcNQryYtKUH4",
-    "plus_code": {
-      "compound_code": "M58X+CG 日本、長野県長野市",
-      "global_code": "8Q8WM58X+CG"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "林部草木染友禅工房",
+      "photos": [
+        {
+          "height": 2129,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100882120245217667579\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBImphO0qR2LPl89WPpTgIVBgaacjivf0h15EcjVNr01CBLDE0qBCe7aeaRucx4SLPVHtHUM64W1RwCG6TezAbtc_fy020lzzh93X0X6BTbEpPZDv7Z_gIQigyaY8opldw2GxbhuRwO0r3L8Od7b0jjUNgy56J1mZ7RGVKKdEHxMioY",
+          "width": 3784
+        }
+      ],
+      "place_id": "ChIJs7Ack_-GHWARcNQryYtKUH4",
+      "plus_code": {
+        "compound_code": "M58X+CG 長野市、長野県",
+        "global_code": "8Q8WM58X+CG"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４７９−１",
-        "short_name": "１４７９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻１４７９−１",
-    "geometry": {
-      "location": {
-        "lat": 35.563732,
-        "lng": 137.5922332
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.56506993029149,
-          "lng": 137.5936382802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻１４７９−１",
+      "geometry": {
+        "location": {
+          "lat": 35.563732,
+          "lng": 137.5922332
         },
-        "southwest": {
-          "lat": 35.56237196970849,
-          "lng": 137.5909403197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.56507077989272,
+            "lng": 137.5936391298927
+          },
+          "southwest": {
+            "lat": 35.56237112010728,
+            "lng": 137.5909394701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFftxvOy3HGAR1Kg4dy4ybFQ",
-    "plus_code": {
-      "compound_code": "HH7R+FV 長野県南木曽町",
-      "global_code": "8Q7VHH7R+FV"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "つたむらやTsutamuraya",
+      "photos": [
+        {
+          "height": 1102,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116946076996856905143\">おおほりまこと</a>"
+          ],
+          "photo_reference": "Aap_uEDxkRN25evtFekFCbajSCjFpMapekl8KhwsytL4KjLVgBIOWWNv-sCaDYg5yBRl4cQT-nfVbmvn1dVo4gi5I8s41Q6MV9l5snppg7NZfA2FiVDY2itzcQhtgg6-aSxKuTVw7raFImP4FpWX86Be4kmUldqb2Foq79PD45H1Laf7wMHq",
+          "width": 1447
+        }
+      ],
+      "place_id": "ChIJFftxvOy3HGAR1Kg4dy4ybFQ",
+      "plus_code": {
+        "compound_code": "HH7R+FV 南木曽町、長野県",
+        "global_code": "8Q7VHH7R+FV"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

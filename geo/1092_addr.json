@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０−１",
-        "short_name": "１０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐久平駅東",
-        "short_name": "佐久平駅東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0028",
-        "short_name": "385-0028",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0028 長野県佐久市佐久平駅東１０−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2790961,
-          "lng": 138.4688554
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒385-0028 長野県佐久市佐久平駅東１０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2789728,
+          "lng": 138.4686921
         },
-        "southwest": {
-          "lat": 36.2788552,
-          "lng": 138.4685512
+        "viewport": {
+          "northeast": {
+            "lat": 36.28026002989272,
+            "lng": 138.4700022298927
+          },
+          "southwest": {
+            "lat": 36.27756037010728,
+            "lng": 138.4673025701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2789728,
-        "lng": 138.4686921
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2803208302915,
-          "lng": 138.4700522802915
-        },
-        "southwest": {
-          "lat": 36.2776228697085,
-          "lng": 138.4673543197085
-        }
-      }
-    },
-    "place_id": "ChIJ5-rO93fLHWARklALqEAMyGM",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒385-0028 長野県佐久市佐久平駅東１０−１",
+      "place_id": "ChIJ5-rO93fLHWARklALqEAMyGM",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

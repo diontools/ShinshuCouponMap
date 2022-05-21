@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７８",
-        "short_name": "１１７８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８ 軽井沢・プリンスショッピングプラザ イースト E-24",
-    "geometry": {
-      "location": {
-        "lat": 36.3413283,
-        "lng": 138.638436
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3426504302915,
-          "lng": 138.6398225802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８ 軽井沢・プリンスショッピングプラザ イースト E-24",
+      "geometry": {
+        "location": {
+          "lat": 36.3413283,
+          "lng": 138.638436
         },
-        "southwest": {
-          "lat": 36.3399524697085,
-          "lng": 138.6371246197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34265127989273,
+            "lng": 138.6398234298927
+          },
+          "southwest": {
+            "lat": 36.33995162010729,
+            "lng": 138.6371237701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0fN2R8DTHWARpza8_u7Kcuc",
-    "plus_code": {
-      "compound_code": "8JRQ+G9 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JRQ+G9"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "軽井沢こだわりステーション",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107557834152295085881\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECsI30lXywZ9nbCFpJJZ1lDmTfn9Y-HTcXju5zKKN6rA8WHnAZ7noR1C8SYvPTNZPATw5OmV_Q4X1Eh6EPwk00oIPp5O43IeXwLR8YmM5xc_k_ltbjlZfQ44tHY-NIzf2TIL3iqyANwo1469NbpIIk9PEEejF2iuKwJSAFHB3CKahdX",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ0fN2R8DTHWARpza8_u7Kcuc",
+      "plus_code": {
+        "compound_code": "8JRQ+G9 軽井沢町、長野県",
+        "global_code": "8Q8W8JRQ+G9"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

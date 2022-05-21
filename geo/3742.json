@@ -1,64 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県飯田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1311 長野県飯田市南信濃和田４５６−１",
+      "geometry": {
+        "location": {
+          "lat": 35.3217296,
+          "lng": 137.9310202
         },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+        "viewport": {
+          "northeast": {
+            "lat": 35.32303237989272,
+            "lng": 137.9323104798927
+          },
+          "southwest": {
+            "lat": 35.32033272010727,
+            "lng": 137.9296108201073
+          }
         }
       },
-      "location": {
-        "lat": 35.51487,
-        "lng": 137.8217006
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
-        },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "藤姫まんじゅう かたくり",
+      "photos": [
+        {
+          "height": 1044,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110650201282949571915\">藤下拳成</a>"
+          ],
+          "photo_reference": "Aap_uEAqkSUJpN3_RQISP2Ty3afYG0jMO7OFMspBgjgWQbGFXN9BRjVNRl5CRPBHux3uZtP3OY2hH39rmnBJIYovUAyBxBxu4mfHeDflgGExQ-URD1SD90pXhLzkCFZ6jX0UXX4fNxo9gewIbCv7gKyZkKiEIjVslLwxYX2H7lTnE8EPu4lz",
+          "width": 1568
         }
-      }
+      ],
+      "place_id": "ChIJz3Umh2R7G2AR5-at2syr2Q8",
+      "plus_code": {
+        "compound_code": "8WCJ+PC 飯田市、長野県",
+        "global_code": "8Q7V8WCJ+PC"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJNeX_xjSdHGARxqitnTSMRU4",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1311 長野県飯田市南信濃和田１２０６−２",
+      "geometry": {
+        "location": {
+          "lat": 35.3200807,
+          "lng": 137.936037
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.32132752989272,
+            "lng": 137.9373024298928
+          },
+          "southwest": {
+            "lat": 35.31862787010728,
+            "lng": 137.9346027701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "殿町の茶屋・かたくり",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110650201282949571915\">遠山の拳さん</a>"
+          ],
+          "photo_reference": "Aap_uEAQp63dm4B0dcZW8oOyZtUVgjOIqoRao84EKiDek-yIy_ZhzqQxEBcGl7L9bdsyPsQHK5BPuSgpuyC1PbArnl16LDphuWVjn0WVEB42A1GojiZ1FY1rTNXQULsna0jVzPBDarMH8BrNfY-2dWvRcRW3jIIRCTsCMmFvtsvgHlAMO_r7",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJVanphcR6G2AR69vHRyhisd4",
+      "plus_code": {
+        "compound_code": "8WCP+2C 飯田市、長野県",
+        "global_code": "8Q7V8WCP+2C"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

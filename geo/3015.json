@@ -1,93 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "昼神",
-        "short_name": "昼神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里昼神",
-    "geometry": {
-      "location": {
-        "lat": 35.4526976,
-        "lng": 137.7204252
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4541482802915,
-          "lng": 137.7218041802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里昼神",
+      "geometry": {
+        "location": {
+          "lat": 35.4527716,
+          "lng": 137.720447
         },
-        "southwest": {
-          "lat": 35.4514503197085,
-          "lng": 137.7191062197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.45414912989272,
+            "lng": 137.7218050298927
+          },
+          "southwest": {
+            "lat": 35.45144947010727,
+            "lng": 137.7191053701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJj3S6MBOjHGAR116FREhR7n4",
-    "plus_code": {
-      "compound_code": "FP3C+35 長野県阿智村",
-      "global_code": "8Q7VFP3C+35"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "阿智村 星空食堂",
+      "photos": [
+        {
+          "height": 3827,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111922569931017835921\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDZusi_FAPzLH7WN7jwqd4XHYNKypODI4mODUr2zLGcQvvB9XiUdju-gUKzhBq3RkKT9tOE2eeHpOqMbKnrwb5S7AI5B21WOkXhLiq4GH1dYJDCgngNSHHixutnFsQV882wIFlSjBYSehRHvzjQg_fCCv2IfMISgDB6kzTOsFxiKyOc",
+          "width": 5741
+        }
+      ],
+      "place_id": "ChIJj3S6MBOjHGAR116FREhR7n4",
+      "plus_code": {
+        "compound_code": "FP3C+35 阿智村、長野県",
+        "global_code": "8Q7VFP3C+35"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

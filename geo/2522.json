@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３１３−１",
-        "short_name": "４３１３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４３１３−１ MountainSide１F",
-    "geometry": {
-      "location": {
-        "lat": 36.706926,
-        "lng": 137.834768
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.70823763029149,
-          "lng": 137.8360184302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４３１３−１ MountainSide１F",
+      "geometry": {
+        "location": {
+          "lat": 36.706926,
+          "lng": 137.834768
         },
-        "southwest": {
-          "lat": 36.7055396697085,
-          "lng": 137.8333204697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70823847989272,
+            "lng": 137.8360192798928
+          },
+          "southwest": {
+            "lat": 36.70553882010727,
+            "lng": 137.8333196201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmV1GD-DN918RJ7HN_R8z2iM",
-    "plus_code": {
-      "compound_code": "PR4M+QW 長野県白馬村",
-      "global_code": "8Q8VPR4M+QW"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "⛄️LUCE by ARISUE SPICE / ルーチェバイアリスエスパイス⛄️",
+      "photos": [
+        {
+          "height": 2269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110016689843198713178\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAFY1Rubwj9VrbSU9XYSebSMhit2B9LNLow8txHxEls5kAvPWJGihOxapM96gQ8bkKV4FkiO9sswEeRQ6CybhpwdExkPKhXBxYy1U7U0TiQ6zY_4tKgyGsER8Juqjzcp6MVpF1f2g_OslqQSlBnwtBy8s9a5hsyugIKXqql1vj-Yn0S",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJmV1GD-DN918RJ7HN_R8z2iM",
+      "plus_code": {
+        "compound_code": "PR4M+QW 白馬村、長野県",
+        "global_code": "8Q8VPR4M+QW"
+      },
+      "types": [
+        "restaurant",
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

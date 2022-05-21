@@ -1,84 +1,80 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "丹波島",
-        "short_name": "丹波島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2246",
-        "short_name": "381-2246",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2246 長野県長野市丹波島２丁目",
-    "geometry": {
-      "location": {
-        "lat": 36.6170686,
-        "lng": 138.1695842
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6184518802915,
-          "lng": 138.1709306802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-2246 長野県長野市丹波島２丁目",
+      "geometry": {
+        "location": {
+          "lat": 36.6170686,
+          "lng": 138.1695842
         },
-        "southwest": {
-          "lat": 36.6157539197085,
-          "lng": 138.1682327197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.61845272989271,
+            "lng": 138.1709315298928
+          },
+          "southwest": {
+            "lat": 36.61575307010727,
+            "lng": 138.1682318701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "name": "御菓子処 花岡 川中島店 駐車場",
+      "place_id": "ChIJM8XADCWFHWARzFmy51pXQiE",
+      "plus_code": {
+        "compound_code": "J589+RR 長野市、長野県",
+        "global_code": "8Q8WJ589+RR"
+      },
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJM8XADCWFHWARzFmy51pXQiE",
-    "plus_code": {
-      "compound_code": "J589+RR 日本、長野県長野市",
-      "global_code": "8Q8WJ589+RR"
-    },
-    "types": [
-      "establishment",
-      "parking",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-2246 長野県長野市丹波島２丁目１９−２",
+      "geometry": {
+        "location": {
+          "lat": 36.6169339,
+          "lng": 138.169596
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.61838612989272,
+            "lng": 138.1709593798927
+          },
+          "southwest": {
+            "lat": 36.61568647010728,
+            "lng": 138.1682597201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "花岡",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107975581052084675733\">こんにゃくたろう</a>"
+          ],
+          "photo_reference": "Aap_uEBPw-nVEUSfvKVxux181IichpbcYYqn1E3fJi4jT2rNY6V2bddMTBB2HNMQMu-2kWaI1AFFfCMec9cmqrATyoEuwcyhOzYuYiCrJm31U_og7SGq22_3sjVSN0t0EwMF9aRvzBQs5iMxMRE0_7HLMyi8j0VVDDW4Ml6mnN__OuSNFgEu",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJZWML1QKEHWARUcDgv7SQ1KE",
+      "plus_code": {
+        "compound_code": "J589+QR 長野市、長野県",
+        "global_code": "8Q8WJ589+QR"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

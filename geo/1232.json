@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３８０−１",
-        "short_name": "１３８０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿教湯温泉",
-        "short_name": "鹿教湯温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0323",
-        "short_name": "386-0323",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１３８０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.301279,
-        "lng": 138.136147
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3026753802915,
-          "lng": 138.1375463802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１３８０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.301279,
+          "lng": 138.136147
         },
-        "southwest": {
-          "lat": 36.2999774197085,
-          "lng": 138.1348484197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30267622989272,
+            "lng": 138.1375472298927
+          },
+          "southwest": {
+            "lat": 36.29997657010728,
+            "lng": 138.1348475701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc0qy5ummHWARGYO6XZQ4Ffo",
-    "plus_code": {
-      "compound_code": "842P+GF 日本、長野県上田市",
-      "global_code": "8Q8W842P+GF"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "酒 栄屋（サカエヤ）",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103866034622357507850\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDsdaB64lvDIJnAHCQf_ZQ_Jc6ae4G1EmYYgkIpTP1w8NOSM6cShthxHnAR8dqtvAdwI39DwuAbEb-CaKC2ZAEDJoqbDUMKwqFmJYYfeceJh8p1byNC9g9eYLEKedLHjXLWA0hHMwhbq_wxPQ-SOFsJY3HM7QEoMKA2fPQHqfD1OpbN",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJc0qy5ummHWARGYO6XZQ4Ffo",
+      "plus_code": {
+        "compound_code": "842P+GF 上田市、長野県",
+        "global_code": "8Q8W842P+GF"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

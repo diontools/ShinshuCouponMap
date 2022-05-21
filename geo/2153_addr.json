@@ -1,117 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2f",
-        "short_name": "2f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "神山ビル",
-        "short_name": "神山ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２８",
-        "short_name": "２８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手１丁目３−２８ 神山ビル 2f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2359117,
-          "lng": 137.9650037
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0874 長野県松本市大手１丁目３−２８ 神山ビル 2f",
+      "geometry": {
+        "location": {
+          "lat": 36.2358502,
+          "lng": 137.9648712
         },
-        "southwest": {
-          "lat": 36.23581739999999,
-          "lng": 137.9647584
+        "viewport": {
+          "northeast": {
+            "lat": 36.23719512989272,
+            "lng": 137.9663369298927
+          },
+          "southwest": {
+            "lat": 36.23449547010728,
+            "lng": 137.9636372701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2358502,
-        "lng": 137.9648712
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23721353029149,
-          "lng": 137.9662796802915
-        },
-        "southwest": {
-          "lat": 36.23451556970849,
-          "lng": 137.9635817197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "神山ビル 2f",
+      "photos": [
+        {
+          "height": 4640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110835101866542436357\">石井卓也</a>"
+          ],
+          "photo_reference": "Aap_uEDX2BUmic59YbYKvu9IZ-um-N6JFCGsdivAkJCteB03neIkuma9GPFof_uW3KAoDTwer_LDiF6_QSRQtcmY3LUxSmIAa6QD66rLxbqSpTpH2e7dkjBmg6P6Yw0g6xW5dcNvJ8UwD2lHWHY0QgY0UeDvmuA81PSmgzyS2y9WkL7gJhzl",
+          "width": 3480
         }
-      }
-    },
-    "place_id": "ElFKYXBhbiwg44CSMzkwLTA4NzQgTmFnYW5vLCBNYXRzdW1vdG8sIMWMdGUsIDEtY2jFjW1l4oiSM-KIku-8ku-8mCDnpZ7lsbHjg5Pjg6sgMmYiHhocChYKFAoSCetLOyGGDh1gEerRfp4J7BQuEgIyZg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ElLml6XmnKzjgIHjgJIzOTAtMDg3NCDplbfph47nnIzmnb7mnKzluILlpKfmiYvvvJHkuIHnm67vvJPiiJLvvJLvvJgg56We5bGx44OT44OrIDJmIh4aHAoWChQKEgnrSzshhg4dYBHq0X6eCewULhICMmY",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

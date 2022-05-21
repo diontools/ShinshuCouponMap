@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "保神",
-        "short_name": "保神",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻 保神",
-    "geometry": {
-      "location": {
-        "lat": 35.55438,
-        "lng": 137.664694
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5557276802915,
-          "lng": 137.6660420302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町 吾妻保神4689−51",
+      "geometry": {
+        "location": {
+          "lat": 35.5532231,
+          "lng": 137.6644363
         },
-        "southwest": {
-          "lat": 35.5530297197085,
-          "lng": 137.6633440697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.55458262989272,
+            "lng": 137.6658132298928
+          },
+          "southwest": {
+            "lat": 35.55188297010728,
+            "lng": 137.6631135701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC6RDDmq5HGARFnd6vKAs_p8",
-    "plus_code": {
-      "compound_code": "HM37+QV 長野県南木曽町",
-      "global_code": "8Q7VHM37+QV"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "transit_station"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "（株）ヤマダイ大蔵",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100603402624236615324\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECYrBnzPw5x-BAkjFx-iNPTnsRX0huKNbkQF0yytQWVaCIjT7U58fpbqOgjfBKa7nmyBxBXwPsi-83S2VAj0qJSkU1nqO6XckchnRhYW7-j9EmjzC8LxeTI-IohiwUrUFCLBPteeWGidk1FCsgbUDA4IH9ZBOK9imgoRxL0yPwzJGki",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ8QJb8Gm5HGARg0l23bmHenY",
+      "plus_code": {
+        "compound_code": "HM37+7Q 南木曽町、長野県",
+        "global_code": "8Q7VHM37+7Q"
+      },
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

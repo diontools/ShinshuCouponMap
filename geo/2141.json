@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２８",
-        "short_name": "２８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "村井町南",
-        "short_name": "村井町南",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0036",
-        "short_name": "399-0036",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0036 長野県松本市村井町南１丁目２８−８",
-    "geometry": {
-      "location": {
-        "lat": 36.1768484,
-        "lng": 137.9612097
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.17819738029149,
-          "lng": 137.9625586802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0036 長野県松本市村井町南１丁目２８−８",
+      "geometry": {
+        "location": {
+          "lat": 36.1768484,
+          "lng": 137.9612097
         },
-        "southwest": {
-          "lat": 36.1754994197085,
-          "lng": 137.9598607197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.17816752989272,
+            "lng": 137.9626855798927
+          },
+          "southwest": {
+            "lat": 36.17546787010728,
+            "lng": 137.9599859201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJUToXC4IPHWARtqH4UTkN4Ts",
-    "plus_code": {
-      "compound_code": "5XG6+PF 日本、長野県松本市",
-      "global_code": "8Q8V5XG6+PF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "小木曽製粉所 村井店",
+      "photos": [
+        {
+          "height": 808,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109569527343245775889\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDHHFFsqXSD2C3ZsJgxbUySb5OOjZzBsvrM55vRw9_jfz9MRp3c9hdVBUttGkATeISSTB-8WKUT6HDHpNkfHc-Um4fCESNMzFJD_MJrjMxNGMHQIK_uLY5f_zPlZUiswzk527s1VwpY24gxKsi6CiG51kJChMro8UWFjzVW-Y0dgTNs",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJUToXC4IPHWARtqH4UTkN4Ts",
+      "plus_code": {
+        "compound_code": "5XG6+PF 松本市、長野県",
+        "global_code": "8Q8V5XG6+PF"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

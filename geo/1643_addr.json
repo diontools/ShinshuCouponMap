@@ -1,105 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "D棟",
-        "short_name": "D棟",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "ハルニレテラス",
-        "short_name": "ハルニレテラス",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２１４５−３",
-        "short_name": "２１４５−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２１４５−３ ハルニレテラス D棟",
-    "geometry": {
-      "location": {
-        "lat": 36.3593501,
-        "lng": 138.5902676
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3606655302915,
-          "lng": 138.5915036302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２１４５−３ ハルニレテラス D棟",
+      "geometry": {
+        "location": {
+          "lat": 36.3593501,
+          "lng": 138.5902676
         },
-        "southwest": {
-          "lat": 36.3579675697085,
-          "lng": 138.5888056697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36066637989273,
+            "lng": 138.5915044798927
+          },
+          "southwest": {
+            "lat": 36.35796672010728,
+            "lng": 138.5888048201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJD8qIwSfSHWAR31ThDHoiHb0",
-    "plus_code": {
-      "compound_code": "9H5R+P4 長野県軽井沢町",
-      "global_code": "8Q8W9H5R+P4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "イル・ソーニョ",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117560136285692181174\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAzFCBPWQ5wzmKLnrGuscCl-prU2685eOQzb1P6Y9_mAf75dQZqj0UFFThAVeRlNTTXV9hY1OwHGFHeE-QYizxf80J_H4zovIhTalQx6ENaU6zhQYOMSo16qRfaKhnauyAzjt6dTqWSRnFvE14SGMeVrHt3iQls4P8v4XAjFMfWLOw2",
+          "width": 4500
+        }
+      ],
+      "place_id": "ChIJD8qIwSfSHWAR31ThDHoiHb0",
+      "plus_code": {
+        "compound_code": "9H5R+P4 軽井沢町、長野県",
+        "global_code": "8Q8W9H5R+P4"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９−１",
-        "short_name": "４９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎一色",
-        "short_name": "鼎一色",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0805",
-        "short_name": "395-0805",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0805 長野県飯田市鼎一色４９−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5038793,
-          "lng": 137.8117164
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0805 長野県飯田市鼎一色４９−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5037897,
+          "lng": 137.8115776
         },
-        "southwest": {
-          "lat": 35.5036817,
-          "lng": 137.8114541
+        "viewport": {
+          "northeast": {
+            "lat": 35.50508492989272,
+            "lng": 137.8129294298927
+          },
+          "southwest": {
+            "lat": 35.50238527010728,
+            "lng": 137.8102297701073
+          }
         }
       },
-      "location": {
-        "lat": 35.5037897,
-        "lng": 137.8115776
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5051288802915,
-          "lng": 137.8129342302915
-        },
-        "southwest": {
-          "lat": 35.50243091970851,
-          "lng": 137.8102362697085
-        }
-      }
-    },
-    "place_id": "ChIJV3_L3q-ZHGARfU_B-Il-o8Y",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒395-0805 長野県飯田市鼎一色４９−１",
+      "place_id": "ChIJV3_L3q-ZHGARfU_B-Il-o8Y",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

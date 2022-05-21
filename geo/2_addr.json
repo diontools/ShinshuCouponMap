@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７１４８",
-        "short_name": "７１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
-    "geometry": {
-      "location": {
-        "lat": 36.7154198,
-        "lng": 138.4830162
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.71682603029149,
-          "lng": 138.4844628302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
+      "geometry": {
+        "location": {
+          "lat": 36.7154198,
+          "lng": 138.4830162
         },
-        "southwest": {
-          "lat": 36.71412806970849,
-          "lng": 138.4817648697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71682687989272,
+            "lng": 138.4844636798927
+          },
+          "southwest": {
+            "lat": 36.71412722010728,
+            "lng": 138.4817640201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6pqZpf0HWARw5RZ2BpllxY",
-    "plus_code": {
-      "compound_code": "PF8M+56 長野県山ノ内町",
-      "global_code": "8Q8WPF8M+56"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ヴィラ・アルペン",
+      "photos": [
+        {
+          "height": 1529,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115084724855132140898\">武田勝裕</a>"
+          ],
+          "photo_reference": "Aap_uEA3qEfxNpP58h4NYBUD8M3YXVpufZufNUvn-cdVO_JPHCYhclA7f5pACbO4tFCCdjUglK_twY7MUwm62bX9ikRw-JUJjGj1jWJqYn_t5zwRh1tVPomflHVzsI2M-cvRQLjkQbkMBuPM7yNoXg8wBYZ-3g6SwmmVdZZ5uwv3C_VqEzlh",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJq6pqZpf0HWARw5RZ2BpllxY",
+      "plus_code": {
+        "compound_code": "PF8M+56 山ノ内町、長野県",
+        "global_code": "8Q8WPF8M+56"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

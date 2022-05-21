@@ -1,72 +1,92 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長和町",
-        "short_name": "長和町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県小県郡長和町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2967821,
-          "lng": 138.2995141
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0601 長野県小県郡長和町 大門鷹山3652",
+      "geometry": {
+        "location": {
+          "lat": 36.1357369,
+          "lng": 138.1974858
         },
-        "southwest": {
-          "lat": 36.105244,
-          "lng": 138.1198082
+        "viewport": {
+          "northeast": {
+            "lat": 36.13699767989273,
+            "lng": 138.1990441798928
+          },
+          "southwest": {
+            "lat": 36.13429802010729,
+            "lng": 138.1963445201073
+          }
         }
       },
-      "location": {
-        "lat": 36.2698987,
-        "lng": 138.2580282
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2967821,
-          "lng": 138.2995141
-        },
-        "southwest": {
-          "lat": 36.105244,
-          "lng": 138.1198082
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ブランシュたかやまスキー場",
+      "photos": [
+        {
+          "height": 921,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104396799695685417071\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB-OYEAyhpk7AmdbPjjltdzb56I5Y9h-Z6TzRd_gpPputZvHvA2eeriwWx_htyJJJZr8yQmCX56-qHGyv5xNIYcohiIyx4jhnMT_IbmJNI1snFFjruYsKCaCsCDbQUoyrTQroM7sVyzy1LQ6BKbNePjSkbxtZnUNojga2ifEvExC426",
+          "width": 3000
         }
-      }
+      ],
+      "place_id": "ChIJN7IgIyKtHWAR5kOhT-z7Gvo",
+      "plus_code": {
+        "compound_code": "45PW+7X 長和町、長野県",
+        "global_code": "8Q8W45PW+7X"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJL2VwANqtHWAR1BY_Fc2ub4g",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0601 長野県小県郡長和町大門434ー1",
+      "geometry": {
+        "location": {
+          "lat": 36.233428,
+          "lng": 138.2534682
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23482817989272,
+            "lng": 138.2548352298927
+          },
+          "southwest": {
+            "lat": 36.23212852010727,
+            "lng": 138.2521355701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "長和町のカフェシュクレ",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100071363710160950602\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDejugpca7SYL5aae4iyV714Mc0dd17_HGpRatcN54Hi16kJJnIhgLF8LQnAaMZfJAL0xZpDrdr8v5m5e6gxUo1lQWP0mfRlftHQ9RlXRva0VWyhAM-VRXod3kaRqq85xuQHN7nAbSopeqHwazNk3fuWSerQtdqYx3ljyV18_XyOjc_",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJBU4B0p6xHWAR1o276MM1hq4",
+      "plus_code": {
+        "compound_code": "67M3+99 長和町、長野県",
+        "global_code": "8Q8W67M3+99"
+      },
+      "types": [
+        "restaurant",
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

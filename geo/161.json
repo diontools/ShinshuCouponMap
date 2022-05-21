@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７１４９−１６",
-        "short_name": "７１４９−１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡山ノ内町",
-        "short_name": "下高井郡山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡下高井郡山ノ内町平穏７１４９−１６",
-    "geometry": {
-      "location": {
-        "lat": 36.7298001,
-        "lng": 138.5065949
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.73120753029151,
-          "lng": 138.5080686802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡下高井郡山ノ内町平穏７１４９−１６",
+      "geometry": {
+        "location": {
+          "lat": 36.7298001,
+          "lng": 138.5065949
         },
-        "southwest": {
-          "lat": 36.72850956970851,
-          "lng": 138.5053707197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73120837989272,
+            "lng": 138.5080695298927
+          },
+          "southwest": {
+            "lat": 36.72850872010728,
+            "lng": 138.5053698701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfUCHHybwHWARgyjhKwvQ4y0",
-    "plus_code": {
-      "compound_code": "PGH4+WJ 日本、長野県山ノ内町",
-      "global_code": "8Q8WPGH4+WJ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルタキモト",
+      "photos": [
+        {
+          "height": 925,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105635223786533050915\">ホテルタキモト</a>"
+          ],
+          "photo_reference": "Aap_uEDNLng_oUz8EGo613bPRORQ-7N7nwxIN7DKQtBpRf9OcHEydwEX-Ds3F4GzswwfWGyPKqYZosTboJzgxldr8tEoKak4sWZQyKXca01L3gGJ38rtGPXjxqi4jsObu2Eq7tZN-g9OgHm3YK-SigVqXQzuufbzsCPB6JqbfzLTRtYU8Zku",
+          "width": 1386
+        }
+      ],
+      "place_id": "ChIJfUCHHybwHWARgyjhKwvQ4y0",
+      "plus_code": {
+        "compound_code": "PGH4+WJ 山ノ内町、長野県",
+        "global_code": "8Q8WPGH4+WJ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

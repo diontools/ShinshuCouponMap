@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "浅間温泉",
-        "short_name": "浅間温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0303",
-        "short_name": "390-0303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉３丁目１３−５",
-    "geometry": {
-      "location": {
-        "lat": 36.2637317,
-        "lng": 137.9910953
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2650298802915,
-          "lng": 137.9923742802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉３丁目１３−５",
+      "geometry": {
+        "location": {
+          "lat": 36.2637317,
+          "lng": 137.9910953
         },
-        "southwest": {
-          "lat": 36.2623319197085,
-          "lng": 137.9896763197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26503072989273,
+            "lng": 137.9923751298927
+          },
+          "southwest": {
+            "lat": 36.26233107010729,
+            "lng": 137.9896754701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9xCCiw8MHWARiv1alIjnhs8",
-    "plus_code": {
-      "compound_code": "7X7R+FC 日本、長野県松本市",
-      "global_code": "8Q8V7X7R+FC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "富士乃湯",
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100310014433280519142\">四季彩々の隠れ宿 富士乃湯</a>"
+          ],
+          "photo_reference": "Aap_uEB_DR2kNmE9ehPEuPu-03LTaMryFMIlvtn9m65IJYSU4mUte-cchw1R-9hxjfZ-T8646LVgKvi7vpN35w-fr4SjxzOsLDH72ZUm1-CemRFcbke13hXkMQcZRrBTvI8niPuX-LzDNebTIsOsyQeTPEgAWjwaPpaOt0zoevd_k6KvmYHv",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJ9xCCiw8MHWARiv1alIjnhs8",
+      "plus_code": {
+        "compound_code": "7X7R+FC 松本市、長野県",
+        "global_code": "8Q8V7X7R+FC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

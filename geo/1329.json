@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２１−１",
-        "short_name": "１２２１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上田",
-        "short_name": "上田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0001",
-        "short_name": "386-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0001 長野県上田市上田１２２１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.411285,
-        "lng": 138.2653869
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4125877802915,
-          "lng": 138.2669249302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0012 長野県上田市中央６丁目５−４０−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.4008009,
+          "lng": 138.2570386
         },
-        "southwest": {
-          "lat": 36.4098898197085,
-          "lng": 138.2642269697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.40209922989272,
+            "lng": 138.2583834298927
+          },
+          "southwest": {
+            "lat": 36.39939957010727,
+            "lng": 138.2556837701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxw5PShy9HWARFj8zLc9yNY4",
-    "plus_code": {
-      "compound_code": "C768+G5 日本、長野県上田市",
-      "global_code": "8Q8WC768+G5"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "花岡 上田中央ショッピングパーク店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106014630776181277520\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBQ-Flb3X3iwvqA7CQwQoVkTt3NlV__ZtDFnudSPeKuKjtjyYtJ4oX-BCnZS6-BJOJzBGLmUqNobDk5nsRvNHz5FhwRxSDnIQfcG9qRQH_EtthFJXmK4PAPL16nSsZpNJzkwyDNvdQxfHC8IxTEbt4IeVxj5AxZyWuvAwbp0fpIIyr7",
+          "width": 1960
+        }
+      ],
+      "place_id": "ChIJBYgh2928HWARMq7b7Ad_Iqs",
+      "plus_code": {
+        "compound_code": "C724+8R 上田市、長野県",
+        "global_code": "8Q8WC724+8R"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

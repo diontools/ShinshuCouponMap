@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６４−２",
-        "short_name": "１６４−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "出原",
-        "short_name": "出原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "高森町",
-        "short_name": "高森町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3107",
-        "short_name": "399-3107",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3107 長野県下伊那郡高森町出原１６４−２",
-    "geometry": {
-      "location": {
-        "lat": 35.5690474,
-        "lng": 137.878447
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5704036802915,
-          "lng": 137.8797129802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3107 長野県下伊那郡高森町出原１６４−２",
+      "geometry": {
+        "location": {
+          "lat": 35.5690645,
+          "lng": 137.8784207
         },
-        "southwest": {
-          "lat": 35.5677057197085,
-          "lng": 137.8770150197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.57040452989271,
+            "lng": 137.8797138298927
+          },
+          "southwest": {
+            "lat": 35.56770487010727,
+            "lng": 137.8770141701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_UE0ooiQHGARv8rHH7mUiRI",
-    "plus_code": {
-      "compound_code": "HV9H+J9 長野県高森町",
-      "global_code": "8Q7VHV9H+J9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "トラットリア・アンジャーネ",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103935348224334403260\">うしのけいけい</a>"
+          ],
+          "photo_reference": "Aap_uEDXeFIFAeuK_5tRq6JGfrGVGRQ164z6Z0ncyqlKKKnb8MwtC_-SqxHDD7IDNp3mp2n0ey1441Vl6Kd7yusotdazbqw_z8ifoMtnbjYMmMko0mq3rHdSQUCdAcisTOoYtKc_cHeu5_9unWbMSnS2NW-9MRnuBYK-gIlXCxm4GhIg5PDr",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJ_UE0ooiQHGARv8rHH7mUiRI",
+      "plus_code": {
+        "compound_code": "HV9H+J9 高森町、長野県",
+        "global_code": "8Q7VHV9H+J9"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

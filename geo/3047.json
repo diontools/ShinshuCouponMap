@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５８４−１８",
-        "short_name": "１５８４−１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元大島",
-        "short_name": "元大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3303",
-        "short_name": "399-3303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島１５８４−１８",
-    "geometry": {
-      "location": {
-        "lat": 35.5966284,
-        "lng": 137.9154962
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5978495802915,
-          "lng": 137.9167980802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島１５８４−１８",
+      "geometry": {
+        "location": {
+          "lat": 35.5966284,
+          "lng": 137.9154962
         },
-        "southwest": {
-          "lat": 35.5951516197085,
-          "lng": 137.9141001197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.59785042989272,
+            "lng": 137.9167989298927
+          },
+          "southwest": {
+            "lat": 35.59515077010727,
+            "lng": 137.9140992701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNd-muSOQHGARRgy0-hOYwZM",
-    "plus_code": {
-      "compound_code": "HWW8+M5 長野県松川町",
-      "global_code": "8Q7VHWW8+M5"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "マルモタクシー",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103250727500755651684\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAqI4RzunpaTcOh9eQN24IfalWzBUn2-OlljQy8wTq70PmqrnBFzQF09ZXu8QyHuiXtxqwabp9qZPT1Ta_t7ZzqhM9H3Ji69Ob1uTtKhu_qyFl5Xe7c3DwbXPfiG7Yv-cckFrhwITOfQEv-nMwYJxgA_ehkFVH5tbv750bdxcUTRS2a",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJNd-muSOQHGARRgy0-hOYwZM",
+      "plus_code": {
+        "compound_code": "HWW8+M5 松川町、長野県",
+        "global_code": "8Q7VHWW8+M5"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

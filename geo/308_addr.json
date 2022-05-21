@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３７４６−１",
-        "short_name": "３７４６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北信",
-        "short_name": "北信",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "栄村",
-        "short_name": "栄村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下水内郡",
-        "short_name": "下水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2702",
-        "short_name": "389-2702",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2702 長野県下水内郡栄村北信３７４６−１",
-    "geometry": {
-      "location": {
-        "lat": 36.9884751,
-        "lng": 138.5815534
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9898597302915,
-          "lng": 138.5829499802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2702 長野県下水内郡栄村北信３７４６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.9884751,
+          "lng": 138.5815534
         },
-        "southwest": {
-          "lat": 36.9871617697085,
-          "lng": 138.5802520197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.98986057989272,
+            "lng": 138.5829508298927
+          },
+          "southwest": {
+            "lat": 36.98716092010728,
+            "lng": 138.5802511701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJS03HapIH9l8R6cjbOFsg1GE",
-    "plus_code": {
-      "compound_code": "XHQJ+9J 長野県栄村",
-      "global_code": "8Q8WXHQJ+9J"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2702 長野県下水内郡栄村北信３７４６−１",
+      "place_id": "ChIJS03HapIH9l8R6cjbOFsg1GE",
+      "plus_code": {
+        "compound_code": "XHQJ+9J 栄村、長野県",
+        "global_code": "8Q8WXHQJ+9J"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

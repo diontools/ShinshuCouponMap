@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０１２−５",
-        "short_name": "２０１２−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島２０１２−５",
-    "geometry": {
-      "location": {
-        "lat": 35.8442731,
-        "lng": 137.692986
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8456390802915,
-          "lng": 137.6942789302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島２０１２−５",
+      "geometry": {
+        "location": {
+          "lat": 35.8442731,
+          "lng": 137.692986
         },
-        "southwest": {
-          "lat": 35.8429411197085,
-          "lng": 137.6915809697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.84563992989271,
+            "lng": 137.6942797798927
+          },
+          "southwest": {
+            "lat": 35.84294027010727,
+            "lng": 137.6915801201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ1_yhz6jeHGAR3yU4i7-XGcE",
-    "plus_code": {
-      "compound_code": "RMVV+P5 長野県木曽町",
-      "global_code": "8Q7VRMVV+P5"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒397-0001 長野県木曽郡木曽町福島２０１２−５",
+      "place_id": "ChIJ1_yhz6jeHGAR3yU4i7-XGcE",
+      "plus_code": {
+        "compound_code": "RMVV+P5 木曽町、長野県",
+        "global_code": "8Q7VRMVV+P5"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

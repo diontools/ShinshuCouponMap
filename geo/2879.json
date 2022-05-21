@@ -1,82 +1,37 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６９７５−２４",
-        "short_name": "６９７５−２４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "ますみヶ丘",
-        "short_name": "ますみヶ丘",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "396-0027",
-        "short_name": "396-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒396-0027 長野県伊那市ますみヶ丘６９７５−２４",
-    "geometry": {
-      "location": {
-        "lat": 35.845263,
-        "lng": 137.907517
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8466058802915,
-          "lng": 137.9088935802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0027 長野県伊那市ますみヶ丘６９７５−２４",
+      "geometry": {
+        "location": {
+          "lat": 35.845263,
+          "lng": 137.907517
         },
-        "southwest": {
-          "lat": 35.8439079197085,
-          "lng": 137.9061956197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.84660672989273,
+            "lng": 137.9088944298927
+          },
+          "southwest": {
+            "lat": 35.84390707010729,
+            "lng": 137.9061947701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEb5AeunvHGAREnHX-teLQ4w",
-    "plus_code": {
-      "compound_code": "RWW5+42 長野県伊那市",
-      "global_code": "8Q7VRWW5+42"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "旅館ますみ荘",
+      "place_id": "ChIJEb5AeunvHGAREnHX-teLQ4w",
+      "plus_code": {
+        "compound_code": "RWW5+42 伊那市、長野県",
+        "global_code": "8Q7VRWW5+42"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

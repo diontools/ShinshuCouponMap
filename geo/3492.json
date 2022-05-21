@@ -1,109 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "WIND WAVE 桟橋",
-        "short_name": "WIND WAVE 桟橋",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "６７０−２１３",
-        "short_name": "６７０−２１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り５丁目２−６７０−２１３ WIND WAVE 桟橋",
-    "geometry": {
-      "location": {
-        "lat": 36.0462163,
-        "lng": 138.1086973
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04756528029149,
-          "lng": 138.1100462802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県湖岸通り５丁目６７０−２１３ WIND WAVE 桟橋",
+      "geometry": {
+        "location": {
+          "lat": 36.0462163,
+          "lng": 138.1086973
         },
-        "southwest": {
-          "lat": 36.04486731970849,
-          "lng": 138.1073483197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04756612989272,
+            "lng": 138.1100471298927
+          },
+          "southwest": {
+            "lat": 36.04486647010727,
+            "lng": 138.1073474701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNdZaMgRVHGARy5VJ0iymtoM",
-    "plus_code": {
-      "compound_code": "24W5+FF 長野県諏訪市",
-      "global_code": "8Q8W24W5+FF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "諏訪湖BBQマリーナ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116440488273150823498\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC0vGhAjXkTr34R397smK9Z5R9hWylOApctxUWVk8wgk70SgSD7NC7SzCzCLxk67eLlNoycbNA8zFUvZW8heKT32ujL8sNEWCtBvbPgTr7f_jb4ccpkckpxY7UCITJ9wkMpl_KKW18BymCAfAFmcB_A3LlSgL55CTy53ivk6yq_8SBY",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJNdZaMgRVHGARy5VJ0iymtoM",
+      "plus_code": {
+        "compound_code": "24W5+FF 諏訪市、長野県",
+        "global_code": "8Q8W24W5+FF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

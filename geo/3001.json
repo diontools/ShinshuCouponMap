@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４６−２２",
-        "short_name": "３４６−２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３４６−２２",
-    "geometry": {
-      "location": {
-        "lat": 35.4550297,
-        "lng": 137.715295
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4564132302915,
-          "lng": 137.7166129802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里３４６−２２",
+      "geometry": {
+        "location": {
+          "lat": 35.4550297,
+          "lng": 137.715295
         },
-        "southwest": {
-          "lat": 35.4537152697085,
-          "lng": 137.7139150197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.45641407989273,
+            "lng": 137.7166138298927
+          },
+          "southwest": {
+            "lat": 35.45371442010729,
+            "lng": 137.7139141701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8cXgwwejHGARxVL1DL9xoRY",
-    "plus_code": {
-      "compound_code": "FP48+24 長野県阿智村",
-      "global_code": "8Q7VFP48+24"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ひるがみ茶屋",
+      "photos": [
+        {
+          "height": 2409,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100394883566100845589\">LT Chan</a>"
+          ],
+          "photo_reference": "Aap_uEAZGCVy6CuDF9iclkxI61uPWeWTkgwv5pgb6tWtYK2gHX-5-j8v49A0KvywRQ0LM9TyloWLpaPJ4vinJj7ux8oS9PZA65K32z5J74XFJ4IJMUVuGkb0whDIPkGmN-kMFpUkCLMt626PR2SxASNpe6gcH828YIwiN4DAlEFyDAaEjugc",
+          "width": 3614
+        }
+      ],
+      "place_id": "ChIJ8cXgwwejHGARxVL1DL9xoRY",
+      "plus_code": {
+        "compound_code": "FP48+24 阿智村、長野県",
+        "global_code": "8Q7VFP48+24"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９７",
-        "short_name": "９７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "望月",
-        "short_name": "望月",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2202",
-        "short_name": "384-2202",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2202 長野県佐久市望月９７",
-    "geometry": {
-      "location": {
-        "lat": 36.2628813,
-        "lng": 138.3626332
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.26418418029149,
-          "lng": 138.3640328802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-2202 長野県佐久市望月９７",
+      "geometry": {
+        "location": {
+          "lat": 36.2628813,
+          "lng": 138.3626332
         },
-        "southwest": {
-          "lat": 36.26148621970849,
-          "lng": 138.3613349197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26418502989272,
+            "lng": 138.3640337298927
+          },
+          "southwest": {
+            "lat": 36.26148537010728,
+            "lng": 138.3613340701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJEQZ_QNK1HWARtcfYGL_mVmw",
-    "plus_code": {
-      "compound_code": "7977+53 長野県佐久市",
-      "global_code": "8Q8W7977+53"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-2202 長野県佐久市望月９７",
+      "place_id": "ChIJEQZ_QNK1HWARtcfYGL_mVmw",
+      "plus_code": {
+        "compound_code": "7977+53 佐久市、長野県",
+        "global_code": "8Q8W7977+53"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

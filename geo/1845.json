@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９０７−３",
-        "short_name": "４９０７−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊科",
-        "short_name": "豊科",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8205",
-        "short_name": "399-8205",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8205 長野県安曇野市豊科４９０７−３",
-    "geometry": {
-      "location": {
-        "lat": 36.3005059,
-        "lng": 137.9024583
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3018313802915,
-          "lng": 137.9037341802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8205 長野県安曇野市豊科４９０７−３",
+      "geometry": {
+        "location": {
+          "lat": 36.3004891,
+          "lng": 137.9023981
         },
-        "southwest": {
-          "lat": 36.2991334197085,
-          "lng": 137.9010362197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30183222989272,
+            "lng": 137.9037350298927
+          },
+          "southwest": {
+            "lat": 36.29913257010728,
+            "lng": 137.9010353701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJT7uV7WdtHWARMehKSm8wcII",
-    "plus_code": {
-      "compound_code": "8W22+6X 日本、長野県安曇野市",
-      "global_code": "8Q8V8W22+6X"
-    },
-    "types": [
-      "establishment",
-      "night_club",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "美魔女club MA",
+      "photos": [
+        {
+          "height": 1512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114728601045940120440\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA-4CCSGqAx6BWgb7F9jkGjqUt7Ty3gaPm7TiT6kA9xfoJxYrVNUDpbnkzORKPWP4dyA9TsJhfclrgGHmBaCe5HB2RT3IANhTbBRznhctNOXlvLRbxGX6RA2FSLon-uW94ODYbA5yQAzpZw1iEFoj5M-ikMAKef5bkFdVQhUFMQots_",
+          "width": 2016
+        }
+      ],
+      "place_id": "ChIJT7uV7WdtHWARMehKSm8wcII",
+      "plus_code": {
+        "compound_code": "8W22+6X 安曇野市、長野県",
+        "global_code": "8Q8V8W22+6X"
+      },
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

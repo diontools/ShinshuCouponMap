@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６",
-        "short_name": "２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "本町西",
-        "short_name": "本町西",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0003",
-        "short_name": "391-0003",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0003 長野県茅野市本町西１−２６",
-    "geometry": {
-      "location": {
-        "lat": 35.99404579999999,
-        "lng": 138.1621372
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.99538133029149,
-          "lng": 138.1635272302915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒391-0003 長野県茅野市本町西１−２６",
+      "geometry": {
+        "location": {
+          "lat": 35.9940425,
+          "lng": 138.1621407
         },
-        "southwest": {
-          "lat": 35.99268336970849,
-          "lng": 138.1608292697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99538217989272,
+            "lng": 138.1635280798927
+          },
+          "southwest": {
+            "lat": 35.99268252010728,
+            "lng": 138.1608284201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5fUc_8xQHGARap6ykLGlgMU",
-    "plus_code": {
-      "compound_code": "X5V6+JV 長野県茅野市",
-      "global_code": "8Q7WX5V6+JV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "炭火焼肉 信濃亭",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112538541761324678274\">ひろ</a>"
+          ],
+          "photo_reference": "Aap_uEDOGhli81AO-A4TCboUE2J8qhG3rv-LhMz6DjM_f-FZyieuHklMvd1I1BsCZ-EOI69zuYM1fQ0NawznHBJM1uJwXQPzV-E4c-dGXEMY_MPk1HvSP00UwAFala4b7hg6RIzJR5bHZdVJUj6uV3mJ-GvZHVYVuRtmzhL4T5u5U3AqDOky",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ5fUc_8xQHGARap6ykLGlgMU",
+      "plus_code": {
+        "compound_code": "X5V6+JV 茅野市、長野県",
+        "global_code": "8Q7WX5V6+JV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

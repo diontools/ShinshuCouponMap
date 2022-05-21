@@ -1,98 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３８",
-        "short_name": "３８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "上木島",
-        "short_name": "上木島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2303",
-        "short_name": "389-2303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村上木島３８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.8521325,
-        "lng": 138.3884919
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.85345188029149,
-          "lng": 138.3898905802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2303 長野県下高井郡木島平村３８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.8521325,
+          "lng": 138.3884919
         },
-        "southwest": {
-          "lat": 36.8507539197085,
-          "lng": 138.3871926197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85345272989272,
+            "lng": 138.3898914298927
+          },
+          "southwest": {
+            "lat": 36.85075307010727,
+            "lng": 138.3871917701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ11ht9rUe9l8RejEcNhcrx54",
-    "plus_code": {
-      "compound_code": "V92Q+V9 日本、長野県木島平村",
-      "global_code": "8Q8WV92Q+V9"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 ファームス木島平",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114968293848011944555\">そうまけんいち</a>"
+          ],
+          "photo_reference": "Aap_uECBR_QPBTiSMQhpFCAU40yrgGgU6ttSN8mY29Yk2y9lr4411JnG8ejX0DAdZNmhVwHzk_8aCkgUbQnvZFCvlxuQu9z_BkCmr9fm_w_dZW2CaF0nIDIKugAmIpX-CMFMuABobG14evMfj-gGkapTpWMnvXPN-n7R__UecBRvhsiJs-A6",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ11ht9rUe9l8RejEcNhcrx54",
+      "plus_code": {
+        "compound_code": "V92Q+V9 木島平村、長野県",
+        "global_code": "8Q8WV92Q+V9"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

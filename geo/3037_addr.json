@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２９３７",
-        "short_name": "２９３７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "下市田",
-        "short_name": "下市田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "高森町",
-        "short_name": "高森町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3103",
-        "short_name": "399-3103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3103 長野県下伊那郡高森町下市田２９３７",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.549802,
-          "lng": 137.8857434
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-3103 長野県下伊那郡高森町下市田２９３７",
+      "geometry": {
+        "location": {
+          "lat": 35.5497105,
+          "lng": 137.8856396
         },
-        "southwest": {
-          "lat": 35.5496399,
-          "lng": 137.885557
+        "viewport": {
+          "northeast": {
+            "lat": 35.55108362989272,
+            "lng": 137.8869544798928
+          },
+          "southwest": {
+            "lat": 35.54838397010728,
+            "lng": 137.8842548201073
+          }
         }
       },
-      "location": {
-        "lat": 35.5497105,
-        "lng": 137.8856396
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.55106993029149,
-          "lng": 137.8869991802915
-        },
-        "southwest": {
-          "lat": 35.5483719697085,
-          "lng": 137.8843012197085
-        }
-      }
-    },
-    "place_id": "ChIJ3ZhxZomaHGARt35vjHJozOU",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-3103 長野県下伊那郡高森町下市田２９３７",
+      "place_id": "ChIJ3ZhxZomaHGARt35vjHJozOU",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,93 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４３９−２０",
-        "short_name": "１４３９−２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "権堂町",
-        "short_name": "権堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字鶴賀権堂町",
-        "short_name": "大字鶴賀権堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0833",
-        "short_name": "380-0833",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0833 長野県長野市大字鶴賀権堂町権堂町１４３９−２０",
-    "geometry": {
-      "location": {
-        "lat": 36.652018,
-        "lng": 138.190249
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6534021302915,
-          "lng": 138.1915944802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0833 長野県長野市鶴賀２２２３ 故郷",
+      "geometry": {
+        "location": {
+          "lat": 36.6522614,
+          "lng": 138.1909552
         },
-        "southwest": {
-          "lat": 36.6507041697085,
-          "lng": 138.1888965197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65361557989272,
+            "lng": 138.1926534798927
+          },
+          "southwest": {
+            "lat": 36.65091592010728,
+            "lng": 138.1899538201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlTHjz_GGHWARlLuLoNOa_bs",
-    "plus_code": {
-      "compound_code": "M52R+R3 長野県長野市",
-      "global_code": "8Q8WM52R+R3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "韓国炭火焼肉故郷",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102875580279823698050\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAjpPJ1qGHmRFkZR8BiSTlixRNv6R3Ws4CnhKAXf3a2K17WAaouKbFjPMhAGCHxeWcGEq-xeRAiaiPuQXs7uS0IIXoXbJfdyQFRvKEO5rFxnJhTxQfl9NGov_ikyKo_niTa9fn2OxmY6NKfcPkrsNtssfNPY3bVpaZEGx14DvA0mBSK",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-34GtvGGHWAR-B5o9F_wAR4",
+      "plus_code": {
+        "compound_code": "M52R+W9 長野市、長野県",
+        "global_code": "8Q8WM52R+W9"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

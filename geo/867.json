@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２７９−８",
-        "short_name": "１２７９−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南石堂町",
-        "short_name": "南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野南石堂町",
-        "short_name": "大字南長野南石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0824",
-        "short_name": "380-0824",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0824 長野県長野市大字南長野南石堂町南石堂町１２７９−８",
-    "geometry": {
-      "location": {
-        "lat": 36.6444931,
-        "lng": 138.1861591
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6457991802915,
-          "lng": 138.1875742302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0824 長野県長野市大字南長野南石堂町１２７９−８",
+      "geometry": {
+        "location": {
+          "lat": 36.6444931,
+          "lng": 138.1861591
         },
-        "southwest": {
-          "lat": 36.6431012197085,
-          "lng": 138.1848762697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64580002989273,
+            "lng": 138.1875750798927
+          },
+          "southwest": {
+            "lat": 36.64310037010728,
+            "lng": 138.1848754201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJex1A_jKHHWARBTzNI7kkNuw",
-    "plus_code": {
-      "compound_code": "J5VP+QF 日本、長野県長野市",
-      "global_code": "8Q8WJ5VP+QF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "酒撃手シュナイパー",
+      "photos": [
+        {
+          "height": 1672,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115823312994351561141\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAU2PwI0apUVFexh4DPT-mYkP7t2Z39oRxcFv-y1ouyPeuin29Xyt2NfkaV5AGzkEdhbKCSXWFcgAwMDfmMUBsswVSj27J-8T59VZc6W-x0_iIZergS789qnI31tdrvcQSwZfHELwpBXBGDlaaodaWp6IjoYZ4QHj48xNMXiGrf9PMN",
+          "width": 2326
+        }
+      ],
+      "place_id": "ChIJex1A_jKHHWARBTzNI7kkNuw",
+      "plus_code": {
+        "compound_code": "J5VP+QF 長野市、長野県",
+        "global_code": "8Q8WJ5VP+QF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

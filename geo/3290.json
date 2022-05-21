@@ -1,90 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７５９−４４８",
-        "short_name": "７５９−４４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北割一区",
-        "short_name": "北割一区",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割一区７５９−４４８",
-    "geometry": {
-      "location": {
-        "lat": 35.7435383,
-        "lng": 137.8919469
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7447373302915,
-          "lng": 137.8935636802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割一区７５９−４４８",
+      "geometry": {
+        "location": {
+          "lat": 35.7434821,
+          "lng": 137.8919375
         },
-        "southwest": {
-          "lat": 35.7420393697085,
-          "lng": 137.8908657197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74473817989272,
+            "lng": 137.8935645298927
+          },
+          "southwest": {
+            "lat": 35.74203852010728,
+            "lng": 137.8908648701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdxcPKwbtHGARAxbX8TU8d4I",
-    "plus_code": {
-      "compound_code": "PVVR+CQ 長野県駒ヶ根市",
-      "global_code": "8Q7VPVVR+CQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "駒ヶ根高原農産物直売所",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116517628433953553277\">菅沼正和</a>"
+          ],
+          "photo_reference": "Aap_uEBjic7SJ77_9wWGzwrSCWSipTLQZqx1kIjcfe2Qf_1JH1VU2u7DI7T9qhxz1VdhmYwICefgRVf1P93AAPiCPyykUVTcwqhpyqV4VUJWKkwH9fIjoeP5wKltUtWgGdyJJ5NeyJ8EbVnR5io_Ne2d42_F9ui90l4Yk1BNV6FatL6mOsw",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJdxcPKwbtHGARAxbX8TU8d4I",
+      "plus_code": {
+        "compound_code": "PVVR+CQ 駒ヶ根市、長野県",
+        "global_code": "8Q7VPVVR+CQ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

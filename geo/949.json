@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２−６",
-        "short_name": "２２−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２２−６",
-    "geometry": {
-      "location": {
-        "lat": 36.643939,
-        "lng": 138.188938
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6451158802915,
-          "lng": 138.1900350802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.643939,
+          "lng": 138.188938
         },
-        "southwest": {
-          "lat": 36.6424179197085,
-          "lng": 138.1873371197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64511672989271,
+            "lng": 138.1900359298927
+          },
+          "southwest": {
+            "lat": 36.64241707010727,
+            "lng": 138.1873362701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJecErkZKGHWARUzprMOb3NiI",
-    "plus_code": {
-      "compound_code": "J5VQ+HH 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+HH"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "Delica鐵扇 MIDORI長野店",
+      "photos": [
+        {
+          "height": 940,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104519094139267010141\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC42o-POERkAjYpKwDxEby4CNsHxF4qvr0jHHe9MKe6KfBo7moIEbrwGN0IabhrgD087Zt2zmLmpARIgY4Iuoa8Y6fj3hhJdvz1eeF_kHoU6Wyiy16adGb1mjQ_EyA9eFm1o_Iu6bLePwPYnJZIHEM1GvMJEzl2IY6bThkiUG20TlAC",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJecErkZKGHWARUzprMOb3NiI",
+      "plus_code": {
+        "compound_code": "J5VQ+HH 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+HH"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

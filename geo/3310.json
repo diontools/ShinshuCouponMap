@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０２６−４",
-        "short_name": "４０２６−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中割",
-        "short_name": "中割",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中沢",
-        "short_name": "中沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4231",
-        "short_name": "399-4231",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4231 長野県駒ヶ根市中沢中割４０２６−４",
-    "geometry": {
-      "location": {
-        "lat": 35.7271443,
-        "lng": 137.9841248
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7284410802915,
-          "lng": 137.9854632302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4231 長野県駒ヶ根市中沢中割４０２６−４",
+      "geometry": {
+        "location": {
+          "lat": 35.7271443,
+          "lng": 137.9841248
         },
-        "southwest": {
-          "lat": 35.7257431197085,
-          "lng": 137.9827652697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.72844192989272,
+            "lng": 137.9854640798927
+          },
+          "southwest": {
+            "lat": 35.72574227010728,
+            "lng": 137.9827644201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxSRze5SMHGARdCfPQHwTN2A",
-    "plus_code": {
-      "compound_code": "PXGM+VJ 長野県駒ヶ根市",
-      "global_code": "8Q7VPXGM+VJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "お食事・お酒処 ぱぱりん",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111089834999377771391\">飯島正法</a>"
+          ],
+          "photo_reference": "Aap_uECK4_QHOMAkrVFzbIKEE-l0AVtCghSfAY0Wlu39d1ayX85xOFfURT5NVNtQEXFO85oTMFMGpl8Zj5y10mXBqZD7DbzLsYRzGb4BRNAaZo7ZSqtCKlRX7D5TbQQa83-Et9hXJFqsqnGiVgsYsDgCAROI7akro02wvC2xWeENxTAEcYTi",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJxSRze5SMHGARdCfPQHwTN2A",
+      "plus_code": {
+        "compound_code": "PXGM+VJ 駒ヶ根市、長野県",
+        "global_code": "8Q7VPXGM+VJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

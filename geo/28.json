@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡山ノ内町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３１３７",
+      "geometry": {
+        "location": {
+          "lat": 36.7398437,
+          "lng": 138.4203238
         },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+        "viewport": {
+          "northeast": {
+            "lat": 36.74106772989273,
+            "lng": 138.4217199798927
+          },
+          "southwest": {
+            "lat": 36.73836807010728,
+            "lng": 138.4190203201073
+          }
         }
       },
-      "location": {
-        "lat": 36.7446479,
-        "lng": 138.4128175
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
-        },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "湯田中温泉 よろづや",
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114835630318131982015\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBcLFoWBUCdVMEgc7HeD8ct3D8YETCigBjDDgxNWNQTiZDpP0jAF_dEy7q75IoXuWJjM7jXs9cn-Z8_PWk0D7SCRdHOkyp4qaAw5EWcuocn-_vinBoDnFNsthgHjlXnx8rOJmHsDcMKRVOUP0OYjs4k2rwkxAVk4O3JYtGMxq_fuNxx",
+          "width": 3456
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp5BF3xjxHWARfQ5Kg1VjUng",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJOXcQwYP0HWARKhTmCrnrC6k",
+      "plus_code": {
+        "compound_code": "PCQC+W4 山ノ内町、長野県",
+        "global_code": "8Q8WPCQC+W4"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

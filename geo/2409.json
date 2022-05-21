@@ -1,64 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県大町市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6650588,
-          "lng": 137.9672117
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市",
+      "geometry": {
+        "location": {
+          "lat": 36.5586938,
+          "lng": 137.7207882
         },
-        "southwest": {
-          "lat": 36.3370146,
-          "lng": 137.5860746
+        "viewport": {
+          "northeast": {
+            "lat": 36.56004392989272,
+            "lng": 137.7221475798927
+          },
+          "southwest": {
+            "lat": 36.55734427010727,
+            "lng": 137.7194479201073
+          }
         }
       },
-      "location": {
-        "lat": 36.5030082,
-        "lng": 137.8511234
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6650588,
-          "lng": 137.9672117
-        },
-        "southwest": {
-          "lat": 36.3370146,
-          "lng": 137.5860746
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "関電トンネル電気バス（扇沢駅）",
+      "photos": [
+        {
+          "height": 3758,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114272307891624881179\">くろふね</a>"
+          ],
+          "photo_reference": "Aap_uECwV8OrJE7t0d3mmiJy212mUv8CSnPxjOeOYPW0yJimR26ebbZ2LE4xUuU_SIORy5UXssvV9NrHrcmQSBpeYL0Rp-_4pUkxwB-qEmq3vBIlScHdwh0W6PK3Qaq-CzgYHpc31_1X3x2jXgICc3oWWbeLC3LwH5356rXvUhN30cqDOQ9O",
+          "width": 5638
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzYy--GxgHWARlWQArrEvdg4",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ4_R469xjHWARuwaMzSNLh38",
+      "plus_code": {
+        "compound_code": "HP5C+F8 大町市、長野県",
+        "global_code": "8Q8VHP5C+F8"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

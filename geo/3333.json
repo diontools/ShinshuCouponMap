@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４１１５−１",
-        "short_name": "４１１５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北殿",
-        "short_name": "北殿",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南箕輪村",
-        "short_name": "南箕輪村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4511",
-        "short_name": "399-4511",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村北殿４１１５−１",
-    "geometry": {
-      "location": {
-        "lat": 35.8821337,
-        "lng": 137.9851591
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8834632302915,
-          "lng": 137.9866206302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村北殿４１１５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.8821254,
+          "lng": 137.9852189
         },
-        "southwest": {
-          "lat": 35.8807652697085,
-          "lng": 137.9839226697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.88346407989272,
+            "lng": 137.9866214798927
+          },
+          "southwest": {
+            "lat": 35.88076442010728,
+            "lng": 137.9839218201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHfAr4JXwHGARG6gceZVkjAE",
-    "plus_code": {
-      "compound_code": "VXJP+V3 長野県南箕輪村",
-      "global_code": "8Q7VVXJP+V3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "麺場 風麟",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104313909464921483516\">船間弘樹</a>"
+          ],
+          "photo_reference": "Aap_uEBZmv5IcIQyIGJWoycdVm_m_tNqyvkz5xQsHXDthVhfDVAN0zWXLtAw7cY3EPMFykWw5xQs1rH86I-UYzz8Drn02iVItVX2XwjKITSm3Mnv_RqZc616oTbcB-YP-Y2ZFz58WLseXR66U5g3HhJwnZffsbiWVSmMqbq0R4sp_NTEt2ab",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHfAr4JXwHGARG6gceZVkjAE",
+      "plus_code": {
+        "compound_code": "VXJP+V3 南箕輪村、長野県",
+        "global_code": "8Q7VVXJP+V3"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

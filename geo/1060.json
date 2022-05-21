@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３６４−１５",
-        "short_name": "３３６４−１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉３３６４−１５",
-    "geometry": {
-      "location": {
-        "lat": 36.3561325,
-        "lng": 138.588623
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3576564802915,
-          "lng": 138.5901166802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉３３６４−１５",
+      "geometry": {
+        "location": {
+          "lat": 36.3561325,
+          "lng": 138.588623
         },
-        "southwest": {
-          "lat": 36.3549585197085,
-          "lng": 138.5874187197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35765732989272,
+            "lng": 138.5901175298927
+          },
+          "southwest": {
+            "lat": 36.35495767010728,
+            "lng": 138.5874178701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK-pkE8_THWARmo_ke8xodzs",
-    "plus_code": {
-      "compound_code": "9H4Q+FC 日本、長野県軽井沢町",
-      "global_code": "8Q8W9H4Q+FC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "星野リゾート BEB5軽井沢",
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102102794384949290814\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB3x-FGD7AlD0sxxpbfPIBZTYUVqlXlV0OkmK4TY9TPnjTCVotVYaKGjgQKS-X5KrtrW1CRDP-mpeo2cFd9yxoJcJGeoYZMEtFdb1NdOXRmgO71K7aQ9XQysODD9KcOPSktOtRbKvIQQDQjRpFT51AHz7qsU0LrbaxsTf_qIpNVo03Z",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJK-pkE8_THWARmo_ke8xodzs",
+      "plus_code": {
+        "compound_code": "9H4Q+FC 軽井沢町、長野県",
+        "global_code": "8Q8W9H4Q+FC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

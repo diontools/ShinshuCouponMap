@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０２６",
-        "short_name": "１０２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１０２６",
-    "geometry": {
-      "location": {
-        "lat": 36.1330031,
-        "lng": 138.2704798
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1344908802915,
-          "lng": 138.2719228302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１０２６",
+      "geometry": {
+        "location": {
+          "lat": 36.1330031,
+          "lng": 138.2704798
         },
-        "southwest": {
-          "lat": 36.1317929197085,
-          "lng": 138.2692248697086
+        "viewport": {
+          "northeast": {
+            "lat": 36.13449172989273,
+            "lng": 138.2719236798928
+          },
+          "southwest": {
+            "lat": 36.13179207010729,
+            "lng": 138.2692240201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJn9hHd2dNHGARQMwcN7PI66Y",
-    "plus_code": {
-      "compound_code": "47MC+65 日本、長野県立科町",
-      "global_code": "8Q8W47MC+65"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "MEGAチャリ",
+      "photos": [
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111822315541860473136\">べっきゆみ</a>"
+          ],
+          "photo_reference": "Aap_uEDSEpt1LRdY8Gane4MPJc1Gmh1ju2_g28kzk_DOPeHPLvOauUtmE4XE2PCQYe6FnfKFo1zv8XMOVMwcFyp8JqUSdPtEPdCSFJq1Ia9Rkmm1b_VdWnvMKelv9Si7GrKyr6xyTqQDU0jE48S3AmJHJ_NtKTERrM6sFPQh47d5H9-F_JdG",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJn9hHd2dNHGARQMwcN7PI66Y",
+      "plus_code": {
+        "compound_code": "47MC+65 立科町、長野県",
+        "global_code": "8Q8W47MC+65"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

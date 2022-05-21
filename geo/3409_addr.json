@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "大社通り",
-        "short_name": "大社通り",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0051",
-        "short_name": "393-0051",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0051 長野県諏訪郡下諏訪町 大社通り",
-    "geometry": {
-      "location": {
-        "lat": 36.0746011,
-        "lng": 138.0865139
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.07595008029149,
-          "lng": 138.0878628802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0051 長野県諏訪郡下諏訪町大社通5522ー2",
+      "geometry": {
+        "location": {
+          "lat": 36.074032,
+          "lng": 138.0869807
         },
-        "southwest": {
-          "lat": 36.07325211970849,
-          "lng": 138.0851649197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07547307989272,
+            "lng": 138.0883398798927
+          },
+          "southwest": {
+            "lat": 36.07277342010727,
+            "lng": 138.0856402201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHz0iIFFVHGAR84C5FuDbSSA",
-    "types": [
-      "intersection"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "食祭館",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101433845676999245031\">松田真幸</a>"
+          ],
+          "photo_reference": "Aap_uECvcZ3j6DvMbFqRB-gTCpp2P6h7USKzOzvGJN98WoufUS6Ehg98TQrF11z3FPdtu9qB-aAnQZ_0lrtLP9AAiDJ9M5f9REhaKPcgxERTQfehAn2NNC3S5RT3geFgsW3niGF-Fb4r8j2tGrGKcnopvhyCBLIqayVzQlCN9gEzGP2Oz2lA",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJhRkj_VBVHGARDeL4niroNSo",
+      "plus_code": {
+        "compound_code": "33FP+PQ 下諏訪町、長野県",
+        "global_code": "8Q8W33FP+PQ"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

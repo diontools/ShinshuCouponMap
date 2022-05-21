@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２９０−１",
-        "short_name": "２９０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里２９０−１",
-    "geometry": {
-      "location": {
-        "lat": 35.4541666,
-        "lng": 137.7175156
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4554681302915,
-          "lng": 137.7186659802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里２９０−１",
+      "geometry": {
+        "location": {
+          "lat": 35.4541133,
+          "lng": 137.7172929
         },
-        "southwest": {
-          "lat": 35.4527701697085,
-          "lng": 137.7159680197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.45540142989272,
+            "lng": 137.7186912298927
+          },
+          "southwest": {
+            "lat": 35.45270177010728,
+            "lng": 137.7159915701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJsZ8F0KmjHGARQo-c07apwr4",
-    "plus_code": {
-      "compound_code": "FP39+M2 長野県阿智村",
-      "global_code": "8Q7VFP39+M2"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "お宿山翠",
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113373989797454102419\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBg1F9U3-7fr651k3vqYP9Hy7aluQvXtGOx3NM1yM7N23FNwDz7YNrSNIVgMncgBfdlhXyr85vNFI4eqdXZXSpiLq_EaWwwUKLusZ_tJ0XSHK1r7QDPSNBdROdk5S3aGD1r-VBQJYY8WlcgEYbncC4KU71XX7jSgR9PbqJAeFfqCI1H",
+          "width": 4898
+        }
+      ],
+      "place_id": "ChIJsZ8F0KmjHGARQo-c07apwr4",
+      "plus_code": {
+        "compound_code": "FP39+M2 阿智村、長野県",
+        "global_code": "8Q7VFP39+M2"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

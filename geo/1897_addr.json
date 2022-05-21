@@ -1,81 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "広丘吉田",
-        "short_name": "広丘吉田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0701",
-        "short_name": "399-0701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0701 長野県塩尻市広丘吉田",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1717857,
-          "lng": 137.9682866
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0701 長野県塩尻市広丘吉田 字道東1053-1",
+      "geometry": {
+        "location": {
+          "lat": 36.161023,
+          "lng": 137.952361
         },
-        "southwest": {
-          "lat": 36.1538284,
-          "lng": 137.9422888
+        "viewport": {
+          "northeast": {
+            "lat": 36.16239172989273,
+            "lng": 137.9536310298927
+          },
+          "southwest": {
+            "lat": 36.15969207010728,
+            "lng": 137.9509313701073
+          }
         }
       },
-      "location": {
-        "lat": 36.1647972,
-        "lng": 137.9564594
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1717857,
-          "lng": 137.9682866
-        },
-        "southwest": {
-          "lat": 36.1538284,
-          "lng": 137.9422888
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カルビ大将 塩尻店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104197046464336257709\">sanshirou999</a>"
+          ],
+          "photo_reference": "Aap_uEDlV7kGDGYwGszp07GcUhBCwXHIJZ8TLS34svIDki26K3nLyA4QN2TSropz19A3eTA6xKtkMx3MP_FywZ-CBWuHYzhf9p5P4v73L0-rKR8W8y9goNjlUpmEurIHSCyoeE9qrjbMu0d6iL1Z3gBjNEgd_YHlgwc178ciwXmsFL70oM4x",
+          "width": 5333
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL2Bpx3sFHWARv5Od9m03sYw",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJVVVlqH4FHWARA4HKV0LoM7w",
+      "plus_code": {
+        "compound_code": "5X62+CW 塩尻市、長野県",
+        "global_code": "8Q8V5X62+CW"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

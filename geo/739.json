@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４７１−２２２６",
-        "short_name": "２４７１−２２２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上ケ屋",
-        "short_name": "上ケ屋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0888",
-        "short_name": "380-0888",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0888 長野県長野市上ケ屋２４７１−２２２６",
-    "geometry": {
-      "location": {
-        "lat": 36.712277,
-        "lng": 138.1443016
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7135950802915,
-          "lng": 138.1457570302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0888 長野県長野市上ケ屋２４７１−２２２６",
+      "geometry": {
+        "location": {
+          "lat": 36.7122866,
+          "lng": 138.1443807
         },
-        "southwest": {
-          "lat": 36.7108971197085,
-          "lng": 138.1430590697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71359592989272,
+            "lng": 138.1457578798927
+          },
+          "southwest": {
+            "lat": 36.71089627010728,
+            "lng": 138.1430582201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJybe6cEsp9l8R5CVQLbWcV6A",
-    "plus_code": {
-      "compound_code": "P46V+WP 日本、長野県長野市",
-      "global_code": "8Q8WP46V+WP"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ぴあのカフェドルチェ",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113530037424218710810\">早川英二</a>"
+          ],
+          "photo_reference": "Aap_uEDPQQTjnsGAJJCtOYGyAVCvGn8IFQsxGo8vLwD0uwnH0QkgTluKALPi8gbdpWnjAFQiLoT5ujzNAKIgryr2IMHsbqTj9qCn3AJE-jO350sLc6M9bRM2l8RMeSXY1VVQXD5997BIIPy6tRbBgloQGuI_E3oUPb95oeZpO4qJk-iWCbl-",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJybe6cEsp9l8R5CVQLbWcV6A",
+      "plus_code": {
+        "compound_code": "P46V+WP 長野市、長野県",
+        "global_code": "8Q8WP46V+WP"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

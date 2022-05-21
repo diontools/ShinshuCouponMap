@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７８−１８",
-        "short_name": "２７８−１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "田中",
-        "short_name": "田中",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0516",
-        "short_name": "389-0516",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0516 長野県東御市田中２７８−１８",
-    "geometry": {
-      "location": {
-        "lat": 36.3540224,
-        "lng": 138.3306308
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3554864302915,
-          "lng": 138.3317486302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0516 長野県東御市田中２７８−１８",
+      "geometry": {
+        "location": {
+          "lat": 36.3540224,
+          "lng": 138.3306308
         },
-        "southwest": {
-          "lat": 36.35278846970851,
-          "lng": 138.3290506697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35548727989272,
+            "lng": 138.3317494798927
+          },
+          "southwest": {
+            "lat": 36.35278762010728,
+            "lng": 138.3290498201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ200STJC5HWARsjBCim7ZR3k",
-    "plus_code": {
-      "compound_code": "983J+J7 日本、長野県東御市",
-      "global_code": "8Q8W983J+J7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ゆうふるｔａｎａｋａ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108732091388779397477\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB8P9b9fkwCTBYGjlIfZL5EiAb3noomOMqEWK-dMCRghMwcEFgMKAqIt8SyyEvr4507kE4d8U5Kk6ipStFYzNma5iegpaXHjWj44PUQFyU3dWZ3YkH8VLSK8asqrW0m7FXvzbA3s1MXUcwyz8pYEf0QpTdTKqbmEQwot44fYFA5diWi",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ200STJC5HWARsjBCim7ZR3k",
+      "plus_code": {
+        "compound_code": "983J+J7 東御市、長野県",
+        "global_code": "8Q8W983J+J7"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

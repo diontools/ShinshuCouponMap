@@ -1,101 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本庄",
-        "short_name": "本庄",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0814",
-        "short_name": "390-0814",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0814 長野県松本市本庄１丁目２−２ １丁目２−１ ホテルブエナビスタ 1F",
-    "geometry": {
-      "location": {
-        "lat": 36.2275614,
-        "lng": 137.9680816
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2287373302915,
-          "lng": 137.9694414802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0814 長野県松本市本庄２−２ １丁目２−１ ホテルブエナビスタ 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.2275257,
+          "lng": 137.9680838
         },
-        "southwest": {
-          "lat": 36.2260393697085,
-          "lng": 137.9667435197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.22873817989272,
+            "lng": 137.9694423298927
+          },
+          "southwest": {
+            "lat": 36.22603852010728,
+            "lng": 137.9667426701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ホテルブエナビスタ ホテルショップ&ペストリー パセオ",
+      "photos": [
+        {
+          "height": 2656,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113728858930712962574\">ホテルショップ&amp;ペストリー パセオ</a>"
+          ],
+          "photo_reference": "Aap_uEAhN__mqTqhx4uqsgXlaFdPjTw8_-YeWrc0jRuNNbePck49VZ7RYQsIVGmqXOzIiUrU4pMjTpJ9tvHvN7VqPl20n_gR8bhVl4GU_v_gsVhY836NsfFohIbo4Iag7nfcrMAoM-EPtpLEu5maKK8b96xDYGsjSlE89K5T9CDNupJkZBTo",
+          "width": 3984
+        }
+      ],
+      "place_id": "ChIJCxhpMPMOHWARSkf4DNBZcns",
+      "plus_code": {
+        "compound_code": "6XH9+26 松本市、長野県",
+        "global_code": "8Q8V6XH9+26"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJCxhpMPMOHWARSkf4DNBZcns",
-    "plus_code": {
-      "compound_code": "6XH9+26 日本、長野県松本市",
-      "global_code": "8Q8V6XH9+26"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0814 長野県松本市本庄１丁目２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2277735,
+          "lng": 137.967994
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.22924532989273,
+            "lng": 137.9694863798927
+          },
+          "southwest": {
+            "lat": 36.22654567010728,
+            "lng": 137.9667867201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル ブエナビスタ",
+      "photos": [
+        {
+          "height": 2720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113683012725685033941\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECBAVyFON8um46p6dlgT5gCavXdEaU5pj6u2T-E2vd6r2dGUYi3Gvi2x-39OXtyn7Sr7zaLbGBSttjE_e00a5Ok8R0VKEIkwgQQwVvXAUGGvc_qm4HXv0eTa3alwDtzHRZUmmWVizcBtbI5URui76kTarGn9hJ6YzXLZg9eDKPexxD6",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJNxG5MfMOHWARr5ZcKfoNQRg",
+      "plus_code": {
+        "compound_code": "6XH9+45 松本市、長野県",
+        "global_code": "8Q8V6XH9+45"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

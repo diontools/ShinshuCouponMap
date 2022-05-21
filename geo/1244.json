@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８６−２",
-        "short_name": "８６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "住吉",
-        "short_name": "住吉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0002",
-        "short_name": "386-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0002 長野県上田市住吉８６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.4033808,
-        "lng": 138.272034
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4045880302915,
-          "lng": 138.2734010802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0002 長野県上田市住吉８６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.4033808,
+          "lng": 138.272034
         },
-        "southwest": {
-          "lat": 36.4018900697085,
-          "lng": 138.2707031197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.40458887989272,
+            "lng": 138.2734019298927
+          },
+          "southwest": {
+            "lat": 36.40188922010728,
+            "lng": 138.2707022701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxQnkffq8HWARU44lCZr0d2s",
-    "plus_code": {
-      "compound_code": "C73C+9R 日本、長野県上田市",
-      "global_code": "8Q8WC73C+9R"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "しなの木温泉 ひな詩の湯",
+      "photos": [
+        {
+          "height": 1059,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103103289131468505766\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBtQj8rMjmFyCTzoO2Gm5QbmycRG--m22JF12M7pY3XXfEZib1vjKnDxTC7DdXcgyufywYv6stvL-6uiQjj1qLMV_C7_0IuyvvmAtTl_L1o7I_N5zg1bo8kdHYRqCtlebydlMMC0Rrzlq_c4SwfP01yG6nU_OwSSfPHfcw7wbmWS4uE",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJxQnkffq8HWARU44lCZr0d2s",
+      "plus_code": {
+        "compound_code": "C73C+9R 上田市、長野県",
+        "global_code": "8Q8WC73C+9R"
+      },
+      "types": [
+        "spa",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

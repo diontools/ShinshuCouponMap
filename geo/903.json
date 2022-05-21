@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２２",
-    "geometry": {
-      "location": {
-        "lat": 36.6441085,
-        "lng": 138.1885375
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6454574802915,
-          "lng": 138.1898864802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目２２",
+      "geometry": {
+        "location": {
+          "lat": 36.6441085,
+          "lng": 138.1885375
         },
-        "southwest": {
-          "lat": 36.64275951970851,
-          "lng": 138.1871885197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64545832989273,
+            "lng": 138.1898873298927
+          },
+          "southwest": {
+            "lat": 36.64275867010728,
+            "lng": 138.1871876701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7QhCl5KGHWARL772cu7hIQA",
-    "plus_code": {
-      "compound_code": "J5VQ+JC 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+JC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "あづみ野菓子工房 彩香 MIDORI長野店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105276320469894938444\">樋口慎一</a>"
+          ],
+          "photo_reference": "Aap_uEDFJbjKZ0sGr_j_tQdcQcce9rl1QS_7ccMh-c1swMghMqtmjS1hyzhuT-KSDM5fkS0bWdaGmixodhNCKyLxvTWZi7006vWB5rIjuKjF2eGs5ohz52NWj-cpncZQlsTCacBYpE7CxtGJiR8Ibzg202Md5PtFWuAQG4uwA-roJ5elwqQ7",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ7QhCl5KGHWARL772cu7hIQA",
+      "plus_code": {
+        "compound_code": "J5VQ+JC 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+JC"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,115 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2 階",
-        "short_name": "2 階",
-        "types": [
-          "floor"
-        ]
-      },
-      {
-        "long_name": "ホテル ナガノアベニュー",
-        "short_name": "ホテル ナガノアベニュー",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳２丁目８−５ ホテル ナガノアベニュー 2 階",
-    "geometry": {
-      "location": {
-        "lat": 36.6473876,
-        "lng": 138.1905397
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6487710302915,
-          "lng": 138.1920250302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳２丁目８−５ ホテル ナガノアベニュー",
+      "geometry": {
+        "location": {
+          "lat": 36.6473876,
+          "lng": 138.1905397
         },
-        "southwest": {
-          "lat": 36.6460730697085,
-          "lng": 138.1893270697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64877187989273,
+            "lng": 138.1920258798928
+          },
+          "southwest": {
+            "lat": 36.64607222010729,
+            "lng": 138.1893262201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWdUFkfKGHWARRSNSWqDdyIo",
-    "plus_code": {
-      "compound_code": "J5WR+X6 日本、長野県長野市",
-      "global_code": "8Q8WJ5WR+X6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ビストロ クエルドクエル",
+      "photos": [
+        {
+          "height": 547,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103625142074651335774\">ビストロ・クエルドクエル</a>"
+          ],
+          "photo_reference": "Aap_uEBntV-gsAdD-QtDE0HUlWdhFw_GUByU69zsaFa88q3VgaKIm6j2KAdOioopmGWCUCMvI2QB28HAjkC-fzDGfP_Cf5mqHTiYxAgVtoiCH4rEEVg-oT9H3Vn7TdwxmFaE0UNf6Uu3yZ6RSCfubgHym6_HD5iGgxrzdEd74FmK_jtjk0w",
+          "width": 729
+        }
+      ],
+      "place_id": "ChIJWdUFkfKGHWARRSNSWqDdyIo",
+      "plus_code": {
+        "compound_code": "J5WR+X6 長野市、長野県",
+        "global_code": "8Q8WJ5WR+X6"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

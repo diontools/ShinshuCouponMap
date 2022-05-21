@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９３４３",
-        "short_name": "９３４３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城９３４３",
-    "geometry": {
-      "location": {
-        "lat": 36.716766,
-        "lng": 137.831701
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7180052302915,
-          "lng": 137.8328941802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城９３４３",
+      "geometry": {
+        "location": {
+          "lat": 36.716766,
+          "lng": 137.831701
         },
-        "southwest": {
-          "lat": 36.7153072697085,
-          "lng": 137.8301962197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71800607989272,
+            "lng": 137.8328950298927
+          },
+          "southwest": {
+            "lat": 36.71530642010728,
+            "lng": 137.8301953701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJv-y0MdDN918RvNbedbqZZ3E",
-    "plus_code": {
-      "compound_code": "PR8J+PM 長野県白馬村",
-      "global_code": "8Q8VPR8J+PM"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション＆コテージ クヌルプ",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112993832078505732010\">大谷琢生</a>"
+          ],
+          "photo_reference": "Aap_uECMglywUYSme8rhPAoS6Ep6oI-1RjSXaGxELl_5uHK_lTvhonG60Ulb_0r9uM5AFPeqqNs7yiYuzUytVtDUN5zcxFLkclOkHmM8stiDGbkDfAqQuMaLOkl6klbcF4dQabTJMKzLgHK4PFuOtJYAufdoEAO55Dg9uawRCgALVgsEoDKd",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJv-y0MdDN918RvNbedbqZZ3E",
+      "plus_code": {
+        "compound_code": "PR8J+PM 白馬村、長野県",
+        "global_code": "8Q8VPR8J+PM"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

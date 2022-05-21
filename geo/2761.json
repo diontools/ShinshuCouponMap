@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１１−６",
-        "short_name": "２１１−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "二子持",
-        "short_name": "二子持",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "王滝村",
-        "short_name": "王滝村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0201",
-        "short_name": "397-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村二子持２１１−６",
-    "geometry": {
-      "location": {
-        "lat": 35.8290036,
-        "lng": 137.6095461
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8302150302915,
-          "lng": 137.6110065802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村二子持２１１−６",
+      "geometry": {
+        "location": {
+          "lat": 35.8290036,
+          "lng": 137.6095461
         },
-        "southwest": {
-          "lat": 35.8275170697085,
-          "lng": 137.6083086197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.83021587989272,
+            "lng": 137.6110074298927
+          },
+          "southwest": {
+            "lat": 35.82751622010728,
+            "lng": 137.6083077701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzTJ8qNnZHGAR1mQueAsstqg",
-    "plus_code": {
-      "compound_code": "RJH5+JR 長野県王滝村",
-      "global_code": "8Q7VRJH5+JR"
-    },
-    "types": [
-      "establishment",
-      "health",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "日野百草本舗 王滝店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110885659034749637006\">yasumichi kawamura</a>"
+          ],
+          "photo_reference": "Aap_uECqUFcT-7XqXwr7nEZw0wiZpvopPppAFTTaSbyb8dslG5BDKhMa74JOjL79DleXOHLdB-TvleTYvLevOGpZ5NnfHtaJ5yIOJVurj04DhfSA8bJV4tgU32LiDZnYbJzy1kGAHK5Pyk4HixtJoN2BSep4gLU03IpFrkClw0XAxWYZLnSJ",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJzTJ8qNnZHGAR1mQueAsstqg",
+      "plus_code": {
+        "compound_code": "RJH5+JR 王滝村、長野県",
+        "global_code": "8Q7VRJH5+JR"
+      },
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

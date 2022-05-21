@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "11574−イ",
-        "short_name": "11574−イ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "三日市場",
-        "short_name": "三日市場",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村三日市場11574−イ",
-    "geometry": {
-      "location": {
-        "lat": 36.647076,
-        "lng": 137.8605048
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64838263029149,
-          "lng": 137.8618494802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村三日市場11574−イ",
+      "geometry": {
+        "location": {
+          "lat": 36.647076,
+          "lng": 137.8605048
         },
-        "southwest": {
-          "lat": 36.64568466970849,
-          "lng": 137.8591515197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64838347989272,
+            "lng": 137.8618503298927
+          },
+          "southwest": {
+            "lat": 36.64568382010728,
+            "lng": 137.8591506701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ263XSlXQ918RZuQRa7-YucA",
-    "plus_code": {
-      "compound_code": "JVW6+R6 長野県白馬村",
-      "global_code": "8Q8VJVW6+R6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "旅館木塵",
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113645612362773058410\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECm3tnOYJ6xv5dCpxHR9TwuCVG4R0OFJKu9iPCP6kBiiXA9t47y0zRFGq0AR3sfu8iTuPWT6eCWbf4FfrGdSD6UTO2m79ssRN3BTLXn3CDPxOM7q_-BQhwHq5-pveRiNeUPcG3pBU7Mpi7J4UzFECFIRGvBTkaP6voK8kBlIo5kZaVD",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJ263XSlXQ918RZuQRa7-YucA",
+      "plus_code": {
+        "compound_code": "JVW6+R6 白馬村、長野県",
+        "global_code": "8Q8VJVW6+R6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡野沢温泉村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９５７９",
+      "geometry": {
+        "location": {
+          "lat": 36.9225214,
+          "lng": 138.4465095
         },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+        "viewport": {
+          "northeast": {
+            "lat": 36.92389677989272,
+            "lng": 138.4478645798928
+          },
+          "southwest": {
+            "lat": 36.92119712010728,
+            "lng": 138.4451649201073
+          }
         }
       },
-      "location": {
-        "lat": 36.9228462,
-        "lng": 138.4405097
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
-        },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "焼肉 萬里",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118054401870853861396\">Gokousen Zuikaku</a>"
+          ],
+          "photo_reference": "Aap_uEAoP8MySeYK7BAv6d8_LglEZuWnHSc7v4Glqrw4_Yf2pipaZ0MbQLtHlP7mvB6JZbivd_NjQrko0l5YXj0aGVnB1hXhbL0kRIqA2BXpzk-_z5FZTdK_jWSDmT227DNfo2bOPt4POhcLAcBSOObdgKww8FTsVxWtjihr7DXYMmRy0ecD",
+          "width": 4618
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK2HJ2xoF9l8RMIVuRlrbkRg",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJcfrRnC4F9l8R5HZGUOk97zI",
+      "plus_code": {
+        "compound_code": "WCFW+2J 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFW+2J"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６８７−１８",
-        "short_name": "１６８７−１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "島内",
-        "short_name": "島内",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0851",
-        "short_name": "390-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0851 長野県松本市島内１６８７−１８",
-    "geometry": {
-      "location": {
-        "lat": 36.2473517,
-        "lng": 137.9256659
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.24872233029149,
-          "lng": 137.9269572802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0851 長野県松本市島内１６８７−１８",
+      "geometry": {
+        "location": {
+          "lat": 36.2473517,
+          "lng": 137.9256659
         },
-        "southwest": {
-          "lat": 36.2460243697085,
-          "lng": 137.9242593197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24872317989272,
+            "lng": 137.9269581298927
+          },
+          "southwest": {
+            "lat": 36.24602352010728,
+            "lng": 137.9242584701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJOVVExC0NHWARNDSTci079Wo",
-    "plus_code": {
-      "compound_code": "6WWG+W7 日本、長野県松本市",
-      "global_code": "8Q8V6WWG+W7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Nagano Luxury Taxi (ナガノ ラグジュアリー タクシー)",
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102228045882438307990\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBm48zVotFPF1zJh0C6lNL-xmsus7OnCSaTHTyYqdLo8FXrRjBkyJM4FL9sUTux6O0aZ4ycOmMb2XKnRz3BGuIo_p_WvlsLx6nfgLODrHVloIPmzIY4ROe07OU5AB4eFY40F2ddsYyq14ASUKTF3d-EBbEr_FNMay1AbZekENZNYATK",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJOVVExC0NHWARNDSTci079Wo",
+      "plus_code": {
+        "compound_code": "6WWG+W7 松本市、長野県",
+        "global_code": "8Q8V6WWG+W7"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

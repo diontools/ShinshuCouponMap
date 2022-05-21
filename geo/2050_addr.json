@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "城西",
-        "short_name": "城西",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0875",
-        "short_name": "390-0875",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0875 長野県松本市城西２丁目２−１０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2385878,
-          "lng": 137.9666091
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0875 長野県松本市城西２丁目２−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.2385433,
+          "lng": 137.9665731
         },
-        "southwest": {
-          "lat": 36.23849999999999,
-          "lng": 137.9665283
+        "viewport": {
+          "northeast": {
+            "lat": 36.23987607989272,
+            "lng": 137.9678027298927
+          },
+          "southwest": {
+            "lat": 36.23717642010728,
+            "lng": 137.9651030701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2385433,
-        "lng": 137.9665731
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23989288029149,
-          "lng": 137.9678198802915
-        },
-        "southwest": {
-          "lat": 36.23719491970849,
-          "lng": 137.9651219197085
-        }
-      }
-    },
-    "place_id": "ChIJb3L61IUOHWAR1wjmzD4HjU0",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0875 長野県松本市城西２丁目２−１０",
+      "place_id": "ChIJb3L61IUOHWAR1wjmzD4HjU0",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

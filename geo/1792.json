@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６４０",
-        "short_name": "３６４０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高",
-        "short_name": "穂高",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8303",
-        "short_name": "399-8303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8303 長野県安曇野市穂高３６４０ 大王わさび農場 Daio’s cafe右曲がり2番目の店",
-    "geometry": {
-      "location": {
-        "lat": 36.3382877,
-        "lng": 137.9097193
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3396272302915,
-          "lng": 137.9106228302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8303 長野県安曇野市穂高３６４０ 大王わさび農場 Daio’s cafe右曲がり2番目の店",
+      "geometry": {
+        "location": {
+          "lat": 36.3382925,
+          "lng": 137.9096528
         },
-        "southwest": {
-          "lat": 36.3369292697085,
-          "lng": 137.9079248697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33962807989273,
+            "lng": 137.9106236798928
+          },
+          "southwest": {
+            "lat": 36.33692842010728,
+            "lng": 137.9079240201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJiypAyJBtHWARJ5feG_KUlGM",
-    "plus_code": {
-      "compound_code": "8WQ5+8V 日本、長野県安曇野市",
-      "global_code": "8Q8V8WQ5+8V"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "あづみ野遊印・あづみの木箸",
+      "photos": [
+        {
+          "height": 1728,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112663163311151356667\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECdQ3gwtkREIhd3mK6A7Iz0KSMMQ0qco-v94V9sN6TWMteTxs2LbT2cTKoWV1SYMEs3KdCtQBXADSvZZ1s_zQWkNxsuAyXJDw96Uq1sYxVzDEGOcc66ook9Uv5KNZdY-zlCAlKoi58AHACJyHa_3w_muti7w0t-IMPBx3jg_FrF0hiL",
+          "width": 2304
+        }
+      ],
+      "place_id": "ChIJiypAyJBtHWARJ5feG_KUlGM",
+      "plus_code": {
+        "compound_code": "8WQ5+8V 安曇野市、長野県",
+        "global_code": "8Q8V8WQ5+8V"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

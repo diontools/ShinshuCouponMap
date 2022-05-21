@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１９５８−２",
-        "short_name": "１９５８−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "四賀",
-        "short_name": "四賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0012",
-        "short_name": "392-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0012 長野県諏訪市四賀１９５８−２",
-    "geometry": {
-      "location": {
-        "lat": 36.0174883,
-        "lng": 138.1270344
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0188709302915,
-          "lng": 138.1284347302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0012 長野県諏訪市四賀１９５８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0174883,
+          "lng": 138.1270344
         },
-        "southwest": {
-          "lat": 36.0161729697085,
-          "lng": 138.1257367697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01887177989272,
+            "lng": 138.1284355798927
+          },
+          "southwest": {
+            "lat": 36.01617212010728,
+            "lng": 138.1257359201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJZ55ufY9WHGAR8MRwoyvD-uY",
-    "plus_code": {
-      "compound_code": "248G+XR 長野県諏訪市",
-      "global_code": "8Q8W248G+XR"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0012 長野県諏訪市四賀１９５８−２",
+      "place_id": "ChIJZ55ufY9WHGAR8MRwoyvD-uY",
+      "plus_code": {
+        "compound_code": "248G+XR 諏訪市、長野県",
+        "global_code": "8Q8W248G+XR"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

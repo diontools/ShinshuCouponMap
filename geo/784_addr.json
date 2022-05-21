@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１４２",
-        "short_name": "１１４２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大岡中牧",
-        "short_name": "大岡中牧",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2701",
-        "short_name": "381-2701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2701 長野県長野市大岡中牧１１４２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5210691,
-          "lng": 138.0078701
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-2701 長野県長野市大岡中牧１１４２",
+      "geometry": {
+        "location": {
+          "lat": 36.5209527,
+          "lng": 138.0076664
         },
-        "southwest": {
-          "lat": 36.5208625,
-          "lng": 138.0075172
+        "viewport": {
+          "northeast": {
+            "lat": 36.52220687989271,
+            "lng": 138.0091146798927
+          },
+          "southwest": {
+            "lat": 36.51950722010726,
+            "lng": 138.0064150201073
+          }
         }
       },
-      "location": {
-        "lat": 36.5209527,
-        "lng": 138.0076664
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5222642302915,
-          "lng": 138.0090426302915
-        },
-        "southwest": {
-          "lat": 36.5195662697085,
-          "lng": 138.0063446697085
-        }
-      }
-    },
-    "place_id": "ChIJZ4S0D3t5HWARxO4L-r4W9Yw",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-2701 長野県長野市大岡中牧１１４２",
+      "place_id": "ChIJZ4S0D3t5HWARxO4L-r4W9Yw",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

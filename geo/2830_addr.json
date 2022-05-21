@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４１１−９",
-        "short_name": "４４１１−９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "開田高原末川",
-        "short_name": "開田高原末川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0301",
-        "short_name": "397-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0301 長野県木曽郡木曽町開田高原末川４４１１−９",
-    "geometry": {
-      "location": {
-        "lat": 35.9376403,
-        "lng": 137.6304262
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.93894643029149,
-          "lng": 137.6318079802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒397-0301 長野県木曽郡木曽町開田高原末川４４１１−９",
+      "geometry": {
+        "location": {
+          "lat": 35.9376403,
+          "lng": 137.6304262
         },
-        "southwest": {
-          "lat": 35.9362484697085,
-          "lng": 137.6291100197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.93894727989272,
+            "lng": 137.6318088298927
+          },
+          "southwest": {
+            "lat": 35.93624762010728,
+            "lng": 137.6291091701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJi7bJ9UEmHWARf6o8YK2bK9g",
-    "plus_code": {
-      "compound_code": "WJQJ+35 長野県木曽町",
-      "global_code": "8Q7VWJQJ+35"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒397-0301 長野県木曽郡木曽町開田高原末川４４１１−９",
+      "place_id": "ChIJi7bJ9UEmHWARf6o8YK2bK9g",
+      "plus_code": {
+        "compound_code": "WJQJ+35 木曽町、長野県",
+        "global_code": "8Q7VWJQJ+35"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２３−２１０８",
-        "short_name": "１２２３−２１０８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−２１０８",
-    "geometry": {
-      "location": {
-        "lat": 36.5315006,
-        "lng": 138.3446928
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5328887302915,
-          "lng": 138.3460355802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−２１０８",
+      "geometry": {
+        "location": {
+          "lat": 36.5315006,
+          "lng": 138.3446928
         },
-        "southwest": {
-          "lat": 36.5301907697085,
-          "lng": 138.3433376197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53288957989272,
+            "lng": 138.3460364298927
+          },
+          "southwest": {
+            "lat": 36.53018992010728,
+            "lng": 138.3433367701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJXTuzbD2UHWARJbTW6vC4DrA",
-    "plus_code": {
-      "compound_code": "G8JV+JV 日本、長野県上田市",
-      "global_code": "8Q8WG8JV+JV"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白樺荘",
+      "photos": [
+        {
+          "height": 2159,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112658453166399962813\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDSBIVNij22W4xaBs33QPX6eAhZ1cWNvh65H9Awuuob-WTfP6nZBkkrxkk4p2FF_QCM2fCAVQAvx2sgzSh3sP1OBo8edoBoaCX-9dKRfL2D9km148UdgpUPeGy_PkdM-l4S5Ill4SB8apCl0ud-kzpqwsdagVL1xnszvtWnSYq225DT",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJXTuzbD2UHWARJbTW6vC4DrA",
+      "plus_code": {
+        "compound_code": "G8JV+JV 上田市、長野県",
+        "global_code": "8Q8WG8JV+JV"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

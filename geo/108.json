@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0400",
-        "short_name": "381-0400",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0400 長野県下高井郡山ノ内町平穏 渋2209",
-    "geometry": {
-      "location": {
-        "lat": 36.7346737,
-        "lng": 138.4331027
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7360153302915,
-          "lng": 138.4344489802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0400 長野県下高井郡山ノ内町 渋2209",
+      "geometry": {
+        "location": {
+          "lat": 36.7347338,
+          "lng": 138.4331001
         },
-        "southwest": {
-          "lat": 36.7333173697085,
-          "lng": 138.4317510197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73601617989272,
+            "lng": 138.4344498298927
+          },
+          "southwest": {
+            "lat": 36.73331652010727,
+            "lng": 138.4317501701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4206w4P0HWARDrW3qHkEfeY",
-    "plus_code": {
-      "compound_code": "PCMM+V6 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCMM+V6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "会津屋菓子店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110068882522828182979\">菅沼光貴</a>"
+          ],
+          "photo_reference": "Aap_uEBJPv4Ss5wGU9cXm_zWQj6y1IE1tiDtap8n4h7bwXvEJj6mAzZ91vlBt1Qx6mIhtqKHGKnh1a1Q054mGDiQd3HGWaB6Wz1ykWhbo-uxkKUNer7lVfeDuDU4JxNzBNUw4VtQQ-2HtFToZ-My5m3D5D1PJmrnd3IHKaP4rX8LOkr9uHpv",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ4206w4P0HWARDrW3qHkEfeY",
+      "plus_code": {
+        "compound_code": "PCMM+V6 山ノ内町、長野県",
+        "global_code": "8Q8WPCMM+V6"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

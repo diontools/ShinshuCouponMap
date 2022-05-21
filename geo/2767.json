@@ -1,81 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "3162番",
-        "short_name": "3162番",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "王滝村",
-        "short_name": "王滝村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0201",
-        "short_name": "397-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村3162番",
-    "geometry": {
-      "location": {
-        "lat": 35.8629643,
-        "lng": 137.5285717
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8642862302915,
-          "lng": 137.5300848802915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村3162番",
+      "geometry": {
+        "location": {
+          "lat": 35.8629643,
+          "lng": 137.5285717
         },
-        "southwest": {
-          "lat": 35.8615882697085,
-          "lng": 137.5273869197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.86428707989273,
+            "lng": 137.5300857298927
+          },
+          "southwest": {
+            "lat": 35.86158742010728,
+            "lng": 137.5273860701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJvcZaPoopHWARuQpoqnT8eYc",
-    "plus_code": {
-      "compound_code": "VG7H+5C 長野県王滝村",
-      "global_code": "8Q7VVG7H+5C"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "御嶽スキー場",
+      "photos": [
+        {
+          "height": 793,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113992223897435635531\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDkewba7lnmtYVG6D_8alVYzBqJvsnBgJPYmt955qBCURdawS90Cap2qRRiog34848NrpWk0skNSnc1mRQdLvVkJZ6r3OPK72RKbgGJRDsX6k9rfukxfkfq1n2dtDLZ1rZkni7uwYvTlTUtYXxRXpR0J3UVOQ7UWJuw7RJjOqmwfTMs",
+          "width": 1411
+        }
+      ],
+      "place_id": "ChIJvcZaPoopHWARuQpoqnT8eYc",
+      "plus_code": {
+        "compound_code": "VG7H+5C 王滝村、長野県",
+        "global_code": "8Q7VVG7H+5C"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

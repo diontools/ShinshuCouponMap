@@ -1,94 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８１１３−１",
-        "short_name": "１８１１３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上里",
-        "short_name": "上里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0111",
-        "short_name": "391-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0111 長野県諏訪郡原村上里１８１１３−１",
-    "geometry": {
-      "location": {
-        "lat": 35.9680996,
-        "lng": 138.2414846
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9695872302915,
-          "lng": 138.2428881802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0111 長野県諏訪郡原村上里１８１１３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9680996,
+          "lng": 138.2414846
         },
-        "southwest": {
-          "lat": 35.9668892697085,
-          "lng": 138.2401902197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96958807989272,
+            "lng": 138.2428890298927
+          },
+          "southwest": {
+            "lat": 35.96688842010728,
+            "lng": 138.2401893701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMcu24dVEHGARKcBCsS0aqmc",
-    "plus_code": {
-      "compound_code": "X69R+6H 長野県原村",
-      "global_code": "8Q7WX69R+6H"
-    },
-    "types": [
-      "bakery",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "808Kitchen&Table",
+      "photos": [
+        {
+          "height": 2999,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107149993884936690501\">Jun Tezuka</a>"
+          ],
+          "photo_reference": "Aap_uEAuJ_34f4PGYy8M4exKkp8BnRdUaukefSKncWgiBcZcou6_86zDd_qU07dgLmF8k1q2_pNp7_JHOvE0_x77g4ofzxgAZ1LFjj1i5WLG9kcv3IxXp7K-Aj4hor09GRn3iWiY4T_2MWYWCAQsyWXE-AXLalb8TSCDJT9TrW_34TUhoAb6",
+          "width": 5334
+        }
+      ],
+      "place_id": "ChIJMcu24dVEHGARKcBCsS0aqmc",
+      "plus_code": {
+        "compound_code": "X69R+6H 原村、長野県",
+        "global_code": "8Q7WX69R+6H"
+      },
+      "types": [
+        "cafe",
+        "bakery",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

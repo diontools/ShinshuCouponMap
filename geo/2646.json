@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１２６−２",
-        "short_name": "２１２６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城２１２６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.6929586,
-        "lng": 137.8615623
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6943349302915,
-          "lng": 137.8628285802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城２１２６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.6929586,
+          "lng": 137.8615623
         },
-        "southwest": {
-          "lat": 36.6916369697085,
-          "lng": 137.8601306197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69433577989272,
+            "lng": 137.8628294298927
+          },
+          "southwest": {
+            "lat": 36.69163612010728,
+            "lng": 137.8601297701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhzlkvALS918RiPSmY3UoD5A",
-    "plus_code": {
-      "compound_code": "MVV6+5J 長野県白馬村",
-      "global_code": "8Q8VMVV6+5J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば神",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104674758595137186849\">daimatsu0101</a>"
+          ],
+          "photo_reference": "Aap_uEC1kDX59nMuEoS9vponDL9Z_kTa3y0j1sThc4Ewv8Dv_2ctmN7vvMq-NRZfQ8UN5JJ3_9PyU_4Xc5fWLU5lwdnVyq8eio8VkHj13a8WTeL9208R-EShPhf3AguYOZwOdnEIkccWb1woOdt6IzjplVru_7WfH9wx5zEsmk4ikMgWmx_H",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJhzlkvALS918RiPSmY3UoD5A",
+      "plus_code": {
+        "compound_code": "MVV6+5J 白馬村、長野県",
+        "global_code": "8Q8VMVV6+5J"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

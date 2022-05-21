@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４１５９−１４",
-        "short_name": "４１５９−１４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇４１５９−１４",
-    "geometry": {
-      "location": {
-        "lat": 36.1639195,
-        "lng": 137.6607996
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1653247802915,
-          "lng": 137.6620667302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1520 長野県松本市安曇４４６６−５２",
+      "geometry": {
+        "location": {
+          "lat": 36.1647617,
+          "lng": 137.655896
         },
-        "southwest": {
-          "lat": 36.16262681970851,
-          "lng": 137.6593687697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.16564137989271,
+            "lng": 137.6576603298927
+          },
+          "southwest": {
+            "lat": 36.16294172010727,
+            "lng": 137.6549606701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJxW2N-Yw4HWARxBUH06sZI0M",
-    "plus_code": {
-      "compound_code": "5M76+H8 長野県松本市",
-      "global_code": "8Q8V5M76+H8"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "沢渡ナショナルパークゲート",
+      "photos": [
+        {
+          "height": 1350,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106434631904072043840\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB6PGsrZbFImedLqh5BSBc5yel97iRkv4TgP08E89pIq9ZYWMIXTpDsrDOt0sg6MFxf23W5arSO8XHWiD3hjl3rBWQk4_BmJC13zobQRoTR5NaCncEKLisXfUQ-h1jGGio8c8iFl5XbX5uPJdtmrIAuII6dzKTkfulGwoAdCBIXm6yH",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJScmxVO04HWARfm-ElIjObjE",
+      "plus_code": {
+        "compound_code": "5M74+W9 松本市、長野県",
+        "global_code": "8Q8V5M74+W9"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

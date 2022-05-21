@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−２",
-    "geometry": {
-      "location": {
-        "lat": 36.2314409,
-        "lng": 137.9666243
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23282733029151,
-          "lng": 137.9679383302915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−２",
+      "geometry": {
+        "location": {
+          "lat": 36.2314409,
+          "lng": 137.9666243
         },
-        "southwest": {
-          "lat": 36.23012936970851,
-          "lng": 137.9652403697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23282817989272,
+            "lng": 137.9679391798927
+          },
+          "southwest": {
+            "lat": 36.23012852010728,
+            "lng": 137.9652395201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ96QCBYwOHWARFS7E5SLVK5M",
-    "plus_code": {
-      "compound_code": "6XJ8+HJ 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+HJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "信州酒場 雷電",
+      "photos": [
+        {
+          "height": 3792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102436930919293518557\">越智雅彦</a>"
+          ],
+          "photo_reference": "Aap_uEAQo7kQVI5cTwFcNUwDDtU9Lxk48F_ITl98HJ8jP05zly9Gp8DL-pcYXjzLZwkx9VdnaqXctiQTMdyL4jskAop5DOUNFAubfME4-8uSZb0uXlsPPdYw5-IdEG6eXCYd_zFuVFx-J7VRiUX_cmHKHLzLReGK3q2sh4HJ6xF1uOj_GV7X",
+          "width": 5056
+        }
+      ],
+      "place_id": "ChIJ96QCBYwOHWARFS7E5SLVK5M",
+      "plus_code": {
+        "compound_code": "6XJ8+HJ 松本市、長野県",
+        "global_code": "8Q8V6XJ8+HJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３２８４",
-        "short_name": "３２８４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３２８４",
-    "geometry": {
-      "location": {
-        "lat": 36.7415086,
-        "lng": 138.4133028
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7428866802915,
-          "lng": 138.4146491302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３２８４",
+      "geometry": {
+        "location": {
+          "lat": 36.7415167,
+          "lng": 138.4133061
         },
-        "southwest": {
-          "lat": 36.7401887197085,
-          "lng": 138.4119511697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74288752989272,
+            "lng": 138.4146499798927
+          },
+          "southwest": {
+            "lat": 36.74018787010728,
+            "lng": 138.4119503201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJPTmBRcf0HWARXpnnFkeaJF4",
-    "plus_code": {
-      "compound_code": "PCR7+J8 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCR7+J8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "栄楽",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117035984380816165636\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAkew_g_70rgU1N4AjcRHWStP4VNA2hytoyruiPu5NlN6dFA2qROZqp37-JO-tiuKDPX_NyFvLnGu3OClhAJOYqi9jmdxEAQ0dulebL8c8nzd12Zi5IPRBi7KXhNgpvwTM-ST0zuNy94Ln4vDK8BwGwlo0eZOA3-mnF10ilZ6z5lrGM",
+          "width": 4912
+        }
+      ],
+      "place_id": "ChIJPTmBRcf0HWARXpnnFkeaJF4",
+      "plus_code": {
+        "compound_code": "PCR7+J8 山ノ内町、長野県",
+        "global_code": "8Q8WPCR7+J8"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

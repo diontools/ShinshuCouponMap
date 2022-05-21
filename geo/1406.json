@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７９",
-        "short_name": "２７９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "田中",
-        "short_name": "田中",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0516",
-        "short_name": "389-0516",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0516 長野県東御市田中２７９",
-    "geometry": {
-      "location": {
-        "lat": 36.354482,
-        "lng": 138.3294681
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3558809802915,
-          "lng": 138.3308607802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0516 長野県東御市田中２７９",
+      "geometry": {
+        "location": {
+          "lat": 36.3544618,
+          "lng": 138.3294504
         },
-        "southwest": {
-          "lat": 36.3531830197085,
-          "lng": 138.3281628197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35588182989272,
+            "lng": 138.3308616298927
+          },
+          "southwest": {
+            "lat": 36.35318217010727,
+            "lng": 138.3281619701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ632GIpC5HWARVvNvSpW_b_o",
-    "plus_code": {
-      "compound_code": "983H+QQ 日本、長野県東御市",
-      "global_code": "8Q8W983H+QQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "東御市観光情報ステーション",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112019478433893662019\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECJ-vemRK71oIaVZT174TSFbq3sFVlcefKBIccx5PJFgw3MPnsTNES_nrjOpEjh8I-aWR5Tnb3_JvDzizRnClDPffJJCCGrV2JT56O-Zlrhfc0erGPIThNTK8Hotzvo5ZXT4B7CB-OW-TWY-ihfTL7YrmB_zgwcHCO6XPO-aUZxOLbo",
+          "width": 3872
+        }
+      ],
+      "place_id": "ChIJ632GIpC5HWARVvNvSpW_b_o",
+      "plus_code": {
+        "compound_code": "983H+QQ 東御市、長野県",
+        "global_code": "8Q8W983H+QQ"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

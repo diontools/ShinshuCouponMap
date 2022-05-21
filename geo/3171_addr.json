@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１３−１１０",
-        "short_name": "３４１３−１１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１３−１１０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0954631,
-          "lng": 138.2158163
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１３−１１０",
+      "geometry": {
+        "location": {
+          "lat": 36.0953369,
+          "lng": 138.2157607
         },
-        "southwest": {
-          "lat": 36.0951628,
-          "lng": 138.2156076
+        "viewport": {
+          "northeast": {
+            "lat": 36.09669882989273,
+            "lng": 138.2171768298928
+          },
+          "southwest": {
+            "lat": 36.09399917010728,
+            "lng": 138.2144771701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0953369,
-        "lng": 138.2157607
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0966619302915,
-          "lng": 138.2170994302915
-        },
-        "southwest": {
-          "lat": 36.0939639697085,
-          "lng": 138.2144014697085
-        }
-      }
-    },
-    "place_id": "ChIJfUSnIlxSHGARO79EQGgmmxs",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0301 長野県茅野市北山３４１３−１１０",
+      "place_id": "ChIJfUSnIlxSHGARO79EQGgmmxs",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

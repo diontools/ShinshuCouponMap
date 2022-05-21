@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 大字北城八方5280",
-    "geometry": {
-      "location": {
-        "lat": 36.7019069,
-        "lng": 137.8440522
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7031364302915,
-          "lng": 137.8454392302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村 大字北城八方5280",
+      "geometry": {
+        "location": {
+          "lat": 36.7019069,
+          "lng": 137.8440522
         },
-        "southwest": {
-          "lat": 36.7004384697085,
-          "lng": 137.8427412697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70313727989272,
+            "lng": 137.8454400798927
+          },
+          "southwest": {
+            "lat": 36.70043762010727,
+            "lng": 137.8427404201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK8RpUP3N918RlFLCLxacxLE",
-    "plus_code": {
-      "compound_code": "PR2V+QJ 長野県白馬村",
-      "global_code": "8Q8VPR2V+QJ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "細野館",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109498810849197261406\">佐藤高大</a>"
+          ],
+          "photo_reference": "Aap_uEDGSLQTx7l8o0CXZy7YYKnFVfZ4WFVdso8svvICZdsI5tfG7UHPAMJ2Ce7BLj8pHHA1n9CJyLLcR0THl6laNBKgv8vygjudN9hWFIrb9C95OeQDL6eKi_WVo0yyh69UW2vWV5Ai3sVkjCjK4VKsXQJwy0R8MzVHsd5EjScHYALX3QBh",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJK8RpUP3N918RlFLCLxacxLE",
+      "plus_code": {
+        "compound_code": "PR2V+QJ 白馬村、長野県",
+        "global_code": "8Q8VPR2V+QJ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "4061番地1",
-        "short_name": "4061番地1",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島 4061番地1",
-    "geometry": {
-      "location": {
-        "lat": 35.8172574,
-        "lng": 137.682596
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8186810802915,
-          "lng": 137.6841386802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島 4061番地1",
+      "geometry": {
+        "location": {
+          "lat": 35.8172574,
+          "lng": 137.682596
         },
-        "southwest": {
-          "lat": 35.81598311970851,
-          "lng": 137.6814407197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.81868192989272,
+            "lng": 137.6841395298927
+          },
+          "southwest": {
+            "lat": 35.81598227010728,
+            "lng": 137.6814398701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJd_zpKovbHGAR7ldcrjuZzjM",
-    "plus_code": {
-      "compound_code": "RM8M+W2 長野県木曽町",
-      "global_code": "8Q7VRM8M+W2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "道の駅木曽福島",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109857777118912068160\">寺島孝一</a>"
+          ],
+          "photo_reference": "Aap_uEBYsq9ZzMHBGPkIQ6ln8KNWiY-D-bKh5KBV3Gmil_CzsDcQXIf2u5TaXNCdySqSRSz1-iE8FliWG4WcCeDPU4Mmb28FghqLrlIVlV3TMH_EPq-RlY20TtbwPr61MEJZ9ryFB_IT0E8owBNGDgVVgjnbjr3-0Jm-ZvimTSKNd_LYNYOj",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJd_zpKovbHGAR7ldcrjuZzjM",
+      "plus_code": {
+        "compound_code": "RM8M+W2 木曽町、長野県",
+        "global_code": "8Q7VRM8M+W2"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

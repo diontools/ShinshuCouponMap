@@ -1,81 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上村",
-        "short_name": "上村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1403",
-        "short_name": "399-1403",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1403 長野県飯田市上村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.4937836,
-          "lng": 138.123935
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1403 長野県飯田市上町６３１−３",
+      "geometry": {
+        "location": {
+          "lat": 35.3866954,
+          "lng": 137.9710128
         },
-        "southwest": {
-          "lat": 35.3649915,
-          "lng": 137.9392858
+        "viewport": {
+          "northeast": {
+            "lat": 35.38803457989273,
+            "lng": 137.9723087298927
+          },
+          "southwest": {
+            "lat": 35.38533492010728,
+            "lng": 137.9696090701073
+          }
         }
       },
-      "location": {
-        "lat": 35.42146580000001,
-        "lng": 138.0208484
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4937836,
-          "lng": 138.123935
-        },
-        "southwest": {
-          "lat": 35.3649915,
-          "lng": 137.9392858
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "上村特産品直売所",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109707399368919074433\">康敬山内</a>"
+          ],
+          "photo_reference": "Aap_uECcHKdIyJFzUgdEb95eKNw0MvxbqZIU_LNwOhsx55dtCTUE9acQhmVIjzeGS5gNfaLGlq4rjNekrbsDyzD8kpUBnbBOgcgHsv3HhpLS74hmeIRZjAA6afMHdUufYDd74WKuHEZSexkkML0Jr6B1LWtjFJLaWXGZbK3lpczizZrhu8RU",
+          "width": 4160
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoSL9FuZ-G2ARQEDTnqD-NcI",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJISzcBXt8G2AR4Zeyk-S12wE",
+      "plus_code": {
+        "compound_code": "9XPC+MC 飯田市、長野県",
+        "global_code": "8Q7V9XPC+MC"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

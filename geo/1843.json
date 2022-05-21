@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６７７−１",
-        "short_name": "４６７７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊科",
-        "short_name": "豊科",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8205",
-        "short_name": "399-8205",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8205 長野県安曇野市豊科４６７７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2989197,
-        "lng": 137.9012681
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3000200802915,
-          "lng": 137.9027667802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8205 長野県安曇野市豊科４６７７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2989197,
+          "lng": 137.9012681
         },
-        "southwest": {
-          "lat": 36.2973221197085,
-          "lng": 137.9000688197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30002092989272,
+            "lng": 137.9027676298927
+          },
+          "southwest": {
+            "lat": 36.29732127010728,
+            "lng": 137.9000679701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJI5c3EjhtHWARUrFOFNX1N0c",
-    "plus_code": {
-      "compound_code": "7WX2+HG 日本、長野県安曇野市",
-      "global_code": "8Q8V7WX2+HG"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルルートインコート安曇野豊科駅南",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105584583598507236994\">Denis Matyushin</a>"
+          ],
+          "photo_reference": "Aap_uEATu9upWI2guq3StnbvaOuv5pEhi_4qdRz9EdqbmdkU6b2dLVaKR5NkxsIASgIbNUO87F3-LVJp-60JZ2xqbOGSRlf3imHkHZj1Ijbp9zx59Rueudn72l68kdv8OiLf1YlBGh97ouCFJuVOVXPPn2mh6iCQRn9ub-V-OUo4aPeX6VMg",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJI5c3EjhtHWARUrFOFNX1N0c",
+      "plus_code": {
+        "compound_code": "7WX2+HG 安曇野市、長野県",
+        "global_code": "8Q8V7WX2+HG"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

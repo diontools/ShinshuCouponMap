@@ -1,81 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９７２−５",
-        "short_name": "９７２−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊科高家",
-        "short_name": "豊科高家",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8204",
-        "short_name": "399-8204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8204 長野県安曇野市豊科高家９７２−５",
-    "geometry": {
-      "location": {
-        "lat": 36.2708643,
-        "lng": 137.9315106
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2722114302915,
-          "lng": 137.9328410302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8204 長野県安曇野市豊科高家９７２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.2710408,
+          "lng": 137.9321654
         },
-        "southwest": {
-          "lat": 36.2695134697085,
-          "lng": 137.9301430697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27240377989272,
+            "lng": 137.9336256298927
+          },
+          "southwest": {
+            "lat": 36.26970412010728,
+            "lng": 137.9309259701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "神戸屋",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111438337728176012751\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDdQ3KLN8gROvSTRg-a0coMLVbo7cQFKe8U1U7beiW49UBJUOq_oSanxbF5gGHc9bAia0ZgQBE-9q8P8_WmdjgGIvUiPF8_lZMN8W4hQGXq2amXraBV_JEmUSVg4RgK9VxifH21-H4lHgDRhNvoQvyZdDi4FO6m3Vj27odlfLTWlc8r",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_yocrXANHWAR4QhbPNM2s2U",
+      "plus_code": {
+        "compound_code": "7WCJ+CV 安曇野市、長野県",
+        "global_code": "8Q8V7WCJ+CV"
+      },
+      "types": [
+        "bakery",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJvZYZrXANHWARHeqJvkyGCTs",
-    "plus_code": {
-      "compound_code": "7WCJ+8J 日本、長野県安曇野市",
-      "global_code": "8Q8V7WCJ+8J"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8204 長野県安曇野市豊科高家９７２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.2708643,
+          "lng": 137.9315106
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.27221227989273,
+            "lng": 137.9328418798927
+          },
+          "southwest": {
+            "lat": 36.26951262010729,
+            "lng": 137.9301422201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "梓川SA (上り)",
+      "photos": [
+        {
+          "height": 1362,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102708902540212544035\">梓川SA（サービスエリア） 上り</a>"
+          ],
+          "photo_reference": "Aap_uEAUQ0AIBo9w5Qm2jRIUgCQOllTfPhCqwFagfgMVmoMonwul7EzWg4VXgmWvMKpN786EPRgDp6C-qVvr8efkgXXPGcKMOv_LSsXVz4jnj74gGZfHuHzaYxuWComgblhTVefmtRna2Oi2Gqm4ZUYoHGF3ONWd381NGkFddPFGECw1h70h",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJvZYZrXANHWARHeqJvkyGCTs",
+      "plus_code": {
+        "compound_code": "7WCJ+8J 安曇野市、長野県",
+        "global_code": "8Q8V7WCJ+8J"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

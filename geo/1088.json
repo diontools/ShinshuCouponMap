@@ -1,82 +1,37 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５３３−１",
-        "short_name": "５３３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "今井",
-        "short_name": "今井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0015",
-        "short_name": "385-0015",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0015 長野県佐久市今井５３３−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2511329,
-        "lng": 138.4498422
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.25243423029149,
-          "lng": 138.4511947302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0015 長野県佐久市今井５３３−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2511412,
+          "lng": 138.4498415
         },
-        "southwest": {
-          "lat": 36.24973626970849,
-          "lng": 138.4484967697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.25243507989272,
+            "lng": 138.4511955798927
+          },
+          "southwest": {
+            "lat": 36.24973542010728,
+            "lng": 138.4484959201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJS6LU3TzLHWAR44lWz02m0Ik",
-    "plus_code": {
-      "compound_code": "7C2X+FW 日本、長野県佐久市",
-      "global_code": "8Q8W7C2X+FW"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ジャパンウインズツアー",
+      "place_id": "ChIJS6LU3TzLHWAR44lWz02m0Ik",
+      "plus_code": {
+        "compound_code": "7C2X+FW 佐久市、長野県",
+        "global_code": "8Q8W7C2X+FW"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

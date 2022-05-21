@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "蓮",
-        "short_name": "蓮",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2256",
-        "short_name": "389-2256",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2256 長野県飯山市蓮",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8323869,
-          "lng": 138.3592284
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2256 長野県飯山市蓮２１３−１",
+      "geometry": {
+        "location": {
+          "lat": 36.8258292,
+          "lng": 138.3534154
         },
-        "southwest": {
-          "lat": 36.8036089,
-          "lng": 138.2977836
+        "viewport": {
+          "northeast": {
+            "lat": 36.82722612989271,
+            "lng": 138.3546585298927
+          },
+          "southwest": {
+            "lat": 36.82452647010727,
+            "lng": 138.3519588701073
+          }
         }
       },
-      "location": {
-        "lat": 36.8189447,
-        "lng": 138.3335902
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8323869,
-          "lng": 138.3592284
-        },
-        "southwest": {
-          "lat": 36.8036089,
-          "lng": 138.2977836
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "長野交通（株） バス・旅行部",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112155955136138223157\">石川光徳</a>"
+          ],
+          "photo_reference": "Aap_uEDtrrSWL0smoMYOFzfsQ_XNzRWhwO3yIwpA8_Kro-AedNt7N8223hB55_8CeXQcI1HC4b8GmJmot8NU8mV5MS49D-eh6CYxCV631FK3vpLorgDk1s7_85CL5Ug1HUSxGDFccdH6sCN78zMsYM0XekapnQOmQQNbMRVDmBmZ7tI6Mff1",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJz63t6-Uh9l8RGpn45L1iRjQ",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJcefhukMf9l8RO1GNhAQqqEQ",
+      "plus_code": {
+        "compound_code": "R9G3+89 飯山市、長野県",
+        "global_code": "8Q8WR9G3+89"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

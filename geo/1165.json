@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "古城",
-        "short_name": "古城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0032",
-        "short_name": "384-0032",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0032 長野県小諸市古城１丁目１−５",
-    "geometry": {
-      "location": {
-        "lat": 36.3286438,
-        "lng": 138.4195975
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.33011398029149,
-          "lng": 138.4208568302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0032 長野県小諸市古城１丁目１−５",
+      "geometry": {
+        "location": {
+          "lat": 36.3286438,
+          "lng": 138.4195975
         },
-        "southwest": {
-          "lat": 36.32741601970849,
-          "lng": 138.4181588697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33011482989271,
+            "lng": 138.4208576798927
+          },
+          "southwest": {
+            "lat": 36.32741517010727,
+            "lng": 138.4181580201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJ-G4grXJHWARcSilH7Gc89A",
-    "plus_code": {
-      "compound_code": "8CH9+FR 日本、長野県小諸市",
-      "global_code": "8Q8W8CH9+FR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "小諸グランドキャッスルホテル",
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107886158909508534372\">小諸グランドキャッスルホテル</a>"
+          ],
+          "photo_reference": "Aap_uEC5_3jc0U-mXOvZR6g53hAITS3xVvm_6xtya9E3rKUTGKAg5cuaE9ACpaAXDUINyIzazm4R1WEECnmBcNW_lNAmwBzTU4Rl16OxVBbwi9DkITymMcNfae-4Xw6_RrK-DCm8MSOQVdQDkZAHi6C60v-otBdSTs1Mr7n20xLaDNHmB6xo",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJJ-G4grXJHWARcSilH7Gc89A",
+      "plus_code": {
+        "compound_code": "8CH9+FR 小諸市、長野県",
+        "global_code": "8Q8W8CH9+FR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１３−８１",
-        "short_name": "３４１３−８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１３−８１",
-    "geometry": {
-      "location": {
-        "lat": 36.09638899999999,
-        "lng": 138.213431
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0978149802915,
-          "lng": 138.2147639802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１３−８１",
+      "geometry": {
+        "location": {
+          "lat": 36.0964311,
+          "lng": 138.2134222
         },
-        "southwest": {
-          "lat": 36.0951170197085,
-          "lng": 138.2120660197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.09781582989272,
+            "lng": 138.2147648298927
+          },
+          "southwest": {
+            "lat": 36.09511617010727,
+            "lng": 138.2120651701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhW5uPFlSHGARUZ6l71AU5Xk",
-    "plus_code": {
-      "compound_code": "36W7+H9 長野県茅野市",
-      "global_code": "8Q8W36W7+H9"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "宿とはちみつ 小さな森の宿ぎんのさじ はちみつ蔵",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108761412402328001014\">Chiaki K</a>"
+          ],
+          "photo_reference": "Aap_uEDJn05EN1mHkMZ_EobU-L1Wuc7Af8CqaAlbun_6HHm2ZlBc_s-FGMJ4qEQ0wWdIN5T4zCm4MYKhgfsUzaFuMri9MTwfPNL42zsdPQavx2IKW03-rrPRIZK7-BelIgUI0D4Mh9t0XJjjDq_frzlCw_o8MCE0ILDg6L_qK2NOUwC25Rly",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJhW5uPFlSHGARUZ6l71AU5Xk",
+      "plus_code": {
+        "compound_code": "36W7+H9 茅野市、長野県",
+        "global_code": "8Q8W36W7+H9"
+      },
+      "types": [
+        "store",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６０２７",
-        "short_name": "６０２７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "和",
-        "short_name": "和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0505",
-        "short_name": "389-0505",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0505 長野県東御市和６０２７",
-    "geometry": {
-      "location": {
-        "lat": 36.3858378,
-        "lng": 138.3400065
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3872699802915,
-          "lng": 138.3413252302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0505 長野県東御市和６０２７",
+      "geometry": {
+        "location": {
+          "lat": 36.3858378,
+          "lng": 138.3400065
         },
-        "southwest": {
-          "lat": 36.3845720197085,
-          "lng": 138.3386272697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.38727082989272,
+            "lng": 138.3413260798927
+          },
+          "southwest": {
+            "lat": 36.38457117010728,
+            "lng": 138.3386264201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMeASPxW5HWARQQvjB1AOWsU",
-    "plus_code": {
-      "compound_code": "98PR+82 日本、長野県東御市",
-      "global_code": "8Q8W98PR+82"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ヴィラデストガーデンファーム アンド ワイナリー",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116411216062752126109\">横谷慶雄</a>"
+          ],
+          "photo_reference": "Aap_uEBx7vT1yH29k20BICRrQDPSmZMOWh8j5ii1ZWP6yiypR_0zkHp3piaNUqHw_W6O3CPIPQp2Sb62coOh0-CXiv_ljo39vmMVPW5CfjJsbY48ZTurDvp-Y7CObq53PLCLCpDKN7pAp8bqFhPtoVys2nthBwarUJm92DcAb0DAVa_sor8S",
+          "width": 1150
+        }
+      ],
+      "place_id": "ChIJMeASPxW5HWARQQvjB1AOWsU",
+      "plus_code": {
+        "compound_code": "98PR+82 東御市、長野県",
+        "global_code": "8Q8W98PR+82"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

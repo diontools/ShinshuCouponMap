@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "女鳥羽",
-        "short_name": "女鳥羽",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0806",
-        "short_name": "390-0806",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0806 長野県松本市女鳥羽",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.245585,
-          "lng": 137.980812
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0806 長野県松本市女鳥羽",
+      "geometry": {
+        "location": {
+          "lat": 36.2399992,
+          "lng": 137.9775011
         },
-        "southwest": {
-          "lat": 36.2372642,
-          "lng": 137.9754814
+        "viewport": {
+          "northeast": {
+            "lat": 36.245585,
+            "lng": 137.980812
+          },
+          "southwest": {
+            "lat": 36.2372642,
+            "lng": 137.9754814
+          }
         }
       },
-      "location": {
-        "lat": 36.2399992,
-        "lng": 137.9775011
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.245585,
-          "lng": 137.980812
-        },
-        "southwest": {
-          "lat": 36.2372642,
-          "lng": 137.9754814
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "女鳥羽",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116145696725031167055\">trky tty</a>"
+          ],
+          "photo_reference": "Aap_uEBi9I21rYx3l0REY1DQr_7lPmfzCxqDrC32mElsdTkzZyVGVN8KxUdqNZqHhVPVU-zmyIG32r-N9maBouAscnQ5GuS4u9bzeMDctLQmxP80AGiCp0ftc1w_OOrUzkqeTJ-Wn3bqhrvjTClp1lLcL0DmAIHtzazF9oRmR9YuuzJO3ZzG",
+          "width": 3024
         }
-      }
-    },
-    "place_id": "ChIJRSfi15kOHWARXyoVUQt3DLU",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJRSfi15kOHWARXyoVUQt3DLU",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,64 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県佐久市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.316,
-          "lng": 138.6370677
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0052 長野県佐久市原５３１−４",
+      "geometry": {
+        "location": {
+          "lat": 36.2258989,
+          "lng": 138.4736783
         },
-        "southwest": {
-          "lat": 36.1083353,
-          "lng": 138.2799026
+        "viewport": {
+          "northeast": {
+            "lat": 36.22728222989272,
+            "lng": 138.4751358298927
+          },
+          "southwest": {
+            "lat": 36.22458257010727,
+            "lng": 138.4724361701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2487978,
-        "lng": 138.47685
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "佐久ハイヤー（株）",
+      "place_id": "ChIJ1Ubl0pg0HGARMmaO6Ne90HQ",
+      "plus_code": {
+        "compound_code": "6FGF+8C 佐久市、長野県",
+        "global_code": "8Q8W6FGF+8C"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.316,
-          "lng": 138.6370677
-        },
-        "southwest": {
-          "lat": 36.1083353,
-          "lng": 138.2799026
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq4kaq_I0HGARPt0mcrpk7i8",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

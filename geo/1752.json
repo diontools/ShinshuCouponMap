@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６６５−１",
-        "short_name": "１６６５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１６６５−１",
-    "geometry": {
-      "location": {
-        "lat": 36.104151,
-        "lng": 138.246253
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1054693802915,
-          "lng": 138.2477404302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１６６５−１",
+      "geometry": {
+        "location": {
+          "lat": 36.1041523,
+          "lng": 138.2462691
         },
-        "southwest": {
-          "lat": 36.1027714197085,
-          "lng": 138.2450424697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10547022989272,
+            "lng": 138.2477412798927
+          },
+          "southwest": {
+            "lat": 36.10277057010727,
+            "lng": 138.2450416201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJT_PTfI9NHGARyWONBdcpcIU",
-    "plus_code": {
-      "compound_code": "463W+MG 日本、長野県立科町",
-      "global_code": "8Q8W463W+MG"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "カントリーイン・ザ・コロニアルハウス",
+      "photos": [
+        {
+          "height": 334,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105684473564141093406\">カントリーイン・ザ・コロニアルハウス</a>"
+          ],
+          "photo_reference": "Aap_uEAOhrx-UYeYO9p8RzxQW5qhUxUcBHQZzSdXsoKh3PykPXFcxEoOa-S6rKDEX3-HSJk9NN3MzdsbycG_FpOF6v8qHpkHrHKvrVOnKVeHYNiMTlmJnV9fFwQh3-CMKfd68SdDuba-OGfOABBZX3n9fU0BHwXv2OY38wa8IYZWgbvRWevW",
+          "width": 500
+        }
+      ],
+      "place_id": "ChIJT_PTfI9NHGARyWONBdcpcIU",
+      "plus_code": {
+        "compound_code": "463W+MG 立科町、長野県",
+        "global_code": "8Q8W463W+MG"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４８１",
-        "short_name": "１４８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "静間",
-        "short_name": "静間",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2255",
-        "short_name": "389-2255",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2255 長野県飯山市静間１４８１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8339673,
-          "lng": 138.3563203
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2255 長野県飯山市静間１４８１",
+      "geometry": {
+        "location": {
+          "lat": 36.8337925,
+          "lng": 138.3561588
         },
-        "southwest": {
-          "lat": 36.8336474,
-          "lng": 138.355999
+        "viewport": {
+          "northeast": {
+            "lat": 36.83518452989272,
+            "lng": 138.3573923798927
+          },
+          "southwest": {
+            "lat": 36.83248487010727,
+            "lng": 138.3546927201072
+          }
         }
       },
-      "location": {
-        "lat": 36.8337925,
-        "lng": 138.3561588
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.83515633029149,
-          "lng": 138.3574722802915
-        },
-        "southwest": {
-          "lat": 36.8324583697085,
-          "lng": 138.3547743197085
-        }
-      }
-    },
-    "place_id": "ChIJKXKrcTcf9l8Rxw-jfcGfkOs",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2255 長野県飯山市静間１４８１",
+      "place_id": "ChIJKXKrcTcf9l8Rxw-jfcGfkOs",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

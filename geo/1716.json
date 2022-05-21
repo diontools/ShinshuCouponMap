@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "御代田町",
-        "short_name": "御代田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "御代田",
-        "short_name": "御代田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0206",
-        "short_name": "389-0206",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0206 長野県北佐久郡御代田町御代田 大字御代田栄町2450",
-    "geometry": {
-      "location": {
-        "lat": 36.3199623,
-        "lng": 138.5075678
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3212547302915,
-          "lng": 138.5088739802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0206 長野県北佐久郡御代田町 大字御代田栄町2450",
+      "geometry": {
+        "location": {
+          "lat": 36.3199623,
+          "lng": 138.5075678
         },
-        "southwest": {
-          "lat": 36.3185567697085,
-          "lng": 138.5061760197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32125557989272,
+            "lng": 138.5088748298928
+          },
+          "southwest": {
+            "lat": 36.31855592010728,
+            "lng": 138.5061751701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjSA7ajrMHWARDo2MRUefGA4",
-    "plus_code": {
-      "compound_code": "8G95+X2 日本、長野県御代田町",
-      "global_code": "8Q8W8G95+X2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "明治屋旅館",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111656508565842515826\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDkrzvFG4mRS7Yv3tp_DGW0kRC-wyZubUTP56-OK7o0KdukzkQWDvcxuXRxymHWE9gUoQeXZ_ocDOWbrUkKerkNR-4mGV5jA7ECnrFM_9vbdFy8AYdDwZs1cXbqO8IHcqxHuzIifTs7-Mmr0MdYl0LzqgT31EWFjrGWm5HjnmqcNsel",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJjSA7ajrMHWARDo2MRUefGA4",
+      "plus_code": {
+        "compound_code": "8G95+X2 御代田町、長野県",
+        "global_code": "8Q8W8G95+X2"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

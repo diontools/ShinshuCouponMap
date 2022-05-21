@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本町",
-        "short_name": "本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0026",
-        "short_name": "384-0026",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0026 長野県小諸市本町１丁目３−１０",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3299641,
-          "lng": 138.4220183
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0026 長野県小諸市本町１丁目３−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.3299028,
+          "lng": 138.4219731
         },
-        "southwest": {
-          "lat": 36.3298411,
-          "lng": 138.421912
+        "viewport": {
+          "northeast": {
+            "lat": 36.33124352989272,
+            "lng": 138.4233150298927
+          },
+          "southwest": {
+            "lat": 36.32854387010727,
+            "lng": 138.4206153701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3299028,
-        "lng": 138.4219731
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3312515802915,
-          "lng": 138.4233141302915
-        },
-        "southwest": {
-          "lat": 36.3285536197085,
-          "lng": 138.4206161697085
-        }
-      }
-    },
-    "place_id": "ChIJq3dM97TJHWARG0fAzZ3W-Fg",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0026 長野県小諸市本町１丁目３−１０",
+      "place_id": "ChIJq3dM97TJHWARG0fAzZ3W-Fg",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

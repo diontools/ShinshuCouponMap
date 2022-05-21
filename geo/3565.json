@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0026",
-        "short_name": "392-0026",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0026 長野県諏訪市大手１丁目１４−５ 大手1-14-5 成田屋1F",
-    "geometry": {
-      "location": {
-        "lat": 36.0444412,
-        "lng": 138.1162045
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0457248802915,
-          "lng": 138.1176239302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0026 長野県諏訪市大手１丁目１４−５ 大手1-14-5 成田屋1F",
+      "geometry": {
+        "location": {
+          "lat": 36.0444412,
+          "lng": 138.1162045
         },
-        "southwest": {
-          "lat": 36.0430269197085,
-          "lng": 138.1149259697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04572572989273,
+            "lng": 138.1176247798927
+          },
+          "southwest": {
+            "lat": 36.04302607010728,
+            "lng": 138.1149251201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJm1Qa9bNVHGAR0hk1qGmPsNU",
-    "plus_code": {
-      "compound_code": "24V8+QF 長野県諏訪市",
-      "global_code": "8Q8W24V8+QF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "上諏訪駅前バル わびさび",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">nori baba</a>"
+          ],
+          "photo_reference": "Aap_uEBGRMnXzsJ_8D6P46odpzB11mR4jYKDioBiGLopvS_Y-C0D5F72acyY0FWkXLy0Cd2iDyrMgRcwhgwe9y0hYoS-Bv_6bxuMG3IQ6Ih2bpM-ZQiBUud3APocSUo7_k3R4Cuk9--ul9gtqr70BDmyU2KHGgz4M-0Ns-DdahzkOGgobSpr",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJm1Qa9bNVHGAR0hk1qGmPsNU",
+      "plus_code": {
+        "compound_code": "24V8+QF 諏訪市、長野県",
+        "global_code": "8Q8W24V8+QF"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

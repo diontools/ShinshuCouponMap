@@ -1,81 +1,79 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９７−４４４",
-        "short_name": "４９７−４４４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂４９７−４４４",
-    "geometry": {
-      "location": {
-        "lat": 35.739281,
-        "lng": 137.905532
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7406336802915,
-          "lng": 137.9068352302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂４９７−４４４",
+      "geometry": {
+        "location": {
+          "lat": 35.739281,
+          "lng": 137.905532
         },
-        "southwest": {
-          "lat": 35.7379357197085,
-          "lng": 137.9041372697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74063452989272,
+            "lng": 137.9068360798927
+          },
+          "southwest": {
+            "lat": 35.73793487010728,
+            "lng": 137.9041364201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Ｂ．Ｂ．ステーキ",
+      "place_id": "ChIJt_5ramztHGARbbt0D10u460",
+      "plus_code": {
+        "compound_code": "PWQ4+P6 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWQ4+P6"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJt_5ramztHGARbbt0D10u460",
-    "plus_code": {
-      "compound_code": "PWQ4+P6 長野県駒ヶ根市",
-      "global_code": "8Q7VPWQ4+P6"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂４９７−４４４",
+      "geometry": {
+        "location": {
+          "lat": 35.7392823,
+          "lng": 137.9055331
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.74063587989272,
+            "lng": 137.9068367298927
+          },
+          "southwest": {
+            "lat": 35.73793622010727,
+            "lng": 137.9041370701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カウボーイ グリル",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100572093996586901058\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB4Hq66yZ-I5U2ACNM0TKnJFxfcMg8wQkBH0tzA0sl98OnhnvySTsBdUhVO_AIaEYgS4YxD_HL7QnJixiI4FqyaeY0teE3ForMBnPcQB7kDMlR-l2-1QZJ9MkNSos_pSdxhsen649EQQ6XhmN9hCi1KozUFdQTX33vH4K0jVh65DpfO",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJHZbpamztHGAR8aqXtYtIGfc",
+      "plus_code": {
+        "compound_code": "PWQ4+P6 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWQ4+P6"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

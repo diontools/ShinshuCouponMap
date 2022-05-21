@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４６２−５",
-        "short_name": "１４６２−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "高田",
-        "short_name": "高田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0034",
-        "short_name": "381-0034",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0034 長野県長野市高田１４６２−５",
-    "geometry": {
-      "location": {
-        "lat": 36.6414798,
-        "lng": 138.2147596
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6429492802915,
-          "lng": 138.2160951802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0034 長野県長野市高田１４６２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.6414798,
+          "lng": 138.2147596
         },
-        "southwest": {
-          "lat": 36.6402513197085,
-          "lng": 138.2133972197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64295012989272,
+            "lng": 138.2160960298928
+          },
+          "southwest": {
+            "lat": 36.64025047010728,
+            "lng": 138.2133963701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJd2lKIXSGHWARNq9ixYsxHsE",
-    "plus_code": {
-      "compound_code": "J6R7+HW 長野県長野市",
-      "global_code": "8Q8WJ6R7+HW"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0034 長野県長野市高田１４６２−５",
+      "place_id": "ChIJd2lKIXSGHWARNq9ixYsxHsE",
+      "plus_code": {
+        "compound_code": "J6R7+HW 長野市、長野県",
+        "global_code": "8Q8WJ6R7+HW"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

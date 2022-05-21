@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６１４−１６",
-        "short_name": "２６１４−１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐野",
-        "short_name": "佐野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0402",
-        "short_name": "381-0402",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町佐野２６１４−１６",
-    "geometry": {
-      "location": {
-        "lat": 36.7345459,
-        "lng": 138.4209775
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7359188302915,
-          "lng": 138.4222207302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町佐野２６１４−１６",
+      "geometry": {
+        "location": {
+          "lat": 36.7346109,
+          "lng": 138.4208619
         },
-        "southwest": {
-          "lat": 36.7332208697085,
-          "lng": 138.4195227697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73591967989272,
+            "lng": 138.4222215798927
+          },
+          "southwest": {
+            "lat": 36.73322002010728,
+            "lng": 138.4195219201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKaPrM5j0HWARkE96q8wz484",
-    "plus_code": {
-      "compound_code": "PCMC+R9 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCMC+R9"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "（有）おもだかホテル",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109243455875269097944\">Mitsuo Mizuhara</a>"
+          ],
+          "photo_reference": "Aap_uEB0acdby5lv7YHSUiNXootsWnKBE7wz8Xu3DvY6rCY2hUhK8oqoMeOi8GRKOMUxaCAoC6NP1v-xoV6xO3abjuTM1-R8idBYoYx0Dcsulr4JGk2j65VEDjt8UiOMDVHtJDGeVxe5SApCAxBwnAFnFaurKnIEs04OyosBObSpBgHRilBG",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJKaPrM5j0HWARkE96q8wz484",
+      "plus_code": {
+        "compound_code": "PCMC+R9 山ノ内町、長野県",
+        "global_code": "8Q8WPCMC+R9"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

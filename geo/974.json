@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３８１",
-        "short_name": "１３８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北石堂町",
-        "short_name": "北石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野北石堂町",
-        "short_name": "大字南長野北石堂町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0000",
-        "short_name": "381-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0000 長野県長野市大字南長野北石堂町北石堂町１３８１",
-    "geometry": {
-      "location": {
-        "lat": 36.6454814,
-        "lng": 138.1870376
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6468325302915,
-          "lng": 138.1883890802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0000 長野県長野市大字南長野北石堂町１３８１",
+      "geometry": {
+        "location": {
+          "lat": 36.6454642,
+          "lng": 138.1870393
         },
-        "southwest": {
-          "lat": 36.6441345697085,
-          "lng": 138.1856911197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64683337989273,
+            "lng": 138.1883899298927
+          },
+          "southwest": {
+            "lat": 36.64413372010728,
+            "lng": 138.1856902701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlx2g3-yGHWAR5K0P3olphIY",
-    "plus_code": {
-      "compound_code": "J5WP+5R 日本、長野県長野市",
-      "global_code": "8Q8WJ5WP+5R"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "寺町酒場 焚㐂屋",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735998367751508162\">sadao hashimoto</a>"
+          ],
+          "photo_reference": "Aap_uEAL16qzN8wcwC55jfaTMSWEJGUvFN1_WJeKTaOoW3pPsp1NRiNFN8aKLqFFSVHkdQ7e6ong-TKRoOyjOSeyNAAI1j2Pi6T3Zsg1yC4Fn_8gcSwaaGU31oMmk8PZRxoaEF7-ztxZyuljbzwcl9a-OIDno_woM5q3qTIcU6muDFCUVbRb",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJlx2g3-yGHWAR5K0P3olphIY",
+      "plus_code": {
+        "compound_code": "J5WP+5R 長野市、長野県",
+        "global_code": "8Q8WJ5WP+5R"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

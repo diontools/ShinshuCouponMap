@@ -1,93 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８０７−１６",
-        "short_name": "８０７−１６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙８０７−１６",
-    "geometry": {
-      "location": {
-        "lat": 36.7536245,
-        "lng": 137.8798064
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7548593302915,
-          "lng": 137.8811066802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙８０７−１６",
+      "geometry": {
+        "location": {
+          "lat": 36.7536245,
+          "lng": 137.8798064
         },
-        "southwest": {
-          "lat": 36.7521613697085,
-          "lng": 137.8784087197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.75486017989272,
+            "lng": 137.8811075298927
+          },
+          "southwest": {
+            "lat": 36.75216052010728,
+            "lng": 137.8784078701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3wQg_dHM918R2syI67axLJQ",
-    "plus_code": {
-      "compound_code": "QV3H+CW 長野県小谷村",
-      "global_code": "8Q8VQV3H+CW"
-    },
-    "types": [
-      "electronics_store",
-      "establishment",
-      "home_goods_store",
-      "lodging",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション 神戸っ子",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114535661885855809927\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAt6hOi59kQMZUnbuuMAguBLixh0AUcsOeDcCCAEuUtE2F-OJgTHvouDSBqKGBvcQLrMzds-hiGVXdCQQlJyDUnT5-gETlxUO7k2g8sD7iovRwJRfhELbnO-NxcZ9F8v1rhTM_w920l6j95dwQVVK321U1OYOin2rubpGEUr63hqDrg",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJ3wQg_dHM918R2syI67axLJQ",
+      "plus_code": {
+        "compound_code": "QV3H+CW 小谷村、長野県",
+        "global_code": "8Q8VQV3H+CW"
+      },
+      "types": [
+        "electronics_store",
+        "lodging",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

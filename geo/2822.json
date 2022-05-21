@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３２２−４１９",
-        "short_name": "６３２２−４１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "開田高原西野",
-        "short_name": "開田高原西野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0302",
-        "short_name": "397-0302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野６３２２−４１９",
-    "geometry": {
-      "location": {
-        "lat": 35.9298698,
-        "lng": 137.5706158
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9310955802915,
-          "lng": 137.5719803802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野６３２２−４１９",
+      "geometry": {
+        "location": {
+          "lat": 35.9298698,
+          "lng": 137.5706158
         },
-        "southwest": {
-          "lat": 35.9283976197085,
-          "lng": 137.5692824197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.93109642989272,
+            "lng": 137.5719812298927
+          },
+          "southwest": {
+            "lat": 35.92839677010728,
+            "lng": 137.5692815701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8_RZndQoHWARy6ennyfvIH0",
-    "plus_code": {
-      "compound_code": "WHHC+W6 長野県木曽町",
-      "global_code": "8Q7VWHHC+W6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "開田高原・ロッジ上天気",
+      "photos": [
+        {
+          "height": 861,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106426916238382832578\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB8wPke4lxJa70hxfVBgS2kmvcWoW0lv1FTPmXPUs639WYyrDpxs3VvUF6C5cjf3YTtihaRpi1IDF4Bl34ATXzQEjK7_ZQBe34QjprrjFymeuud71Xfm6LpZEEN6wqrmnEI4Nk4Ha8bAtXE6TFstDfc-cY6SPphB-AoY3fN6tUn3kdC",
+          "width": 861
+        }
+      ],
+      "place_id": "ChIJ8_RZndQoHWARy6ennyfvIH0",
+      "plus_code": {
+        "compound_code": "WHHC+W6 木曽町、長野県",
+        "global_code": "8Q7VWHHC+W6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

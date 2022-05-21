@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城",
-    "geometry": {
-      "location": {
-        "lat": 36.7019841,
-        "lng": 137.8369446
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7034282302915,
-          "lng": 137.8384009802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村八方４２５８",
+      "geometry": {
+        "location": {
+          "lat": 36.701833,
+          "lng": 137.8369635
         },
-        "southwest": {
-          "lat": 36.70073026970851,
-          "lng": 137.8357030197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70332777989272,
+            "lng": 137.8384533798927
+          },
+          "southwest": {
+            "lat": 36.70062812010728,
+            "lng": 137.8357537201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJnSNvHAnO918RR59j-Pg3h7o",
-    "plus_code": {
-      "compound_code": "PR2P+QQ 長野県白馬村",
-      "global_code": "8Q8VPR2P+QQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "八方アルペンライン 八方ゴンドラリフト 八方駅",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107716684938050334317\">金子英路</a>"
+          ],
+          "photo_reference": "Aap_uEDax6bMMgmRzZDSi-i50OnDuR7PBjVcbq8ISXrB3DhvPXZ9ngb5eToh6RgbeJSG7I3jW76JFpJ5kHgO8RAmDGMKgbmdaWaa2nh-cwV1XcWIbBlcUpXQI42iK-4ZiHKYyQHhGEkkUa7StxE8Ir8Mbd4xteV_3N07SBrIkVWv5rbFT6g",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJufw3ftXP918RapUYAxXGDWw",
+      "plus_code": {
+        "compound_code": "PR2P+PQ 白馬村、長野県",
+        "global_code": "8Q8VPR2P+PQ"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

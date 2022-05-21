@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５９２８−２１",
-        "short_name": "５９２８−２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "春日",
-        "short_name": "春日",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2205",
-        "short_name": "384-2205",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2205 長野県佐久市春日５９２８−２１ 望月馬事公苑クラブハウス内",
-    "geometry": {
-      "location": {
-        "lat": 36.1985555,
-        "lng": 138.3365835
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1997611802915,
-          "lng": 138.3387467802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2205 長野県佐久市春日５９２８−２１ 望月馬事公苑クラブハウス内",
+      "geometry": {
+        "location": {
+          "lat": 36.1985555,
+          "lng": 138.3365835
         },
-        "southwest": {
-          "lat": 36.1970632197085,
-          "lng": 138.3360488197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.19976202989272,
+            "lng": 138.3390264
+          },
+          "southwest": {
+            "lat": 36.19706237010728,
+            "lng": 138.3357692
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMXU2pvm1HWARA_IrrC-4o2E",
-    "plus_code": {
-      "compound_code": "58XP+CJ 日本、長野県佐久市",
-      "global_code": "8Q8W58XP+CJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "BOSQUESO UMA BAR（ボスケソ・ウマバル）",
+      "photos": [
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108580530983808598402\">gummy lakritz</a>"
+          ],
+          "photo_reference": "Aap_uECr8ZMwjxB4mJOwChu_cwv_-sWF5f9XfQ50MrlyZGWlTEizp2ah6pD8p2TIMJuZz3oNhFSTI8RXba42jitVw3GOEFbiZ81j2kAIo5POGD-KH_M9yFZFArvEdvEp7RGugqAovuC__mUCCbD5cwV8scPQZX-xKOh45PR3RHn5dvBrw5yx",
+          "width": 4656
+        }
+      ],
+      "place_id": "ChIJMXU2pvm1HWARA_IrrC-4o2E",
+      "plus_code": {
+        "compound_code": "58XP+CJ 佐久市、長野県",
+        "global_code": "8Q8W58XP+CJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 軽井沢・プリンスショッピングプラザ フードコート FC-06",
-    "geometry": {
-      "location": {
-        "lat": 36.3417946,
-        "lng": 138.633681
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3430287302915,
-          "lng": 138.6353371802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢 軽井沢・プリンスショッピングプラザ フードコート FC-06",
+      "geometry": {
+        "location": {
+          "lat": 36.3417946,
+          "lng": 138.633681
         },
-        "southwest": {
-          "lat": 36.3403307697085,
-          "lng": 138.6326392197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34302957989271,
+            "lng": 138.6353380298927
+          },
+          "southwest": {
+            "lat": 36.34032992010727,
+            "lng": 138.6326383701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJD5jHYnvTHWAR-izziV7t4CY",
-    "plus_code": {
-      "compound_code": "8JRM+PF 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JRM+PF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "横浜中華街 炒飯専門店 王鼎記（ワンディンキ）",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107557834152295085881\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBeSsIZElXxx91lnmdMQHgCARsDKPp6PsC7LEGRzXBgVk2JGDF_eGCnrnQJXmqHHdiwSr2zpu38_zU7dsj78GUKnxhjByq1PuTynEu4mrr3GIhjMEURaoHeo-BvgToCsSyh8Ou7nDnWfTMlpTyPyNaV37if6j34ZxEsCqT9JKqksPfI",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJD5jHYnvTHWAR-izziV7t4CY",
+      "plus_code": {
+        "compound_code": "8JRM+PF 軽井沢町、長野県",
+        "global_code": "8Q8W8JRM+PF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

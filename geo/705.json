@@ -1,77 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "高田",
-        "short_name": "高田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0034",
-        "short_name": "381-0034",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0034 長野県長野市高田 字五反田1707-3",
-    "geometry": {
-      "location": {
-        "lat": 36.6444401,
-        "lng": 138.2167985
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6457176802915,
-          "lng": 138.2181619302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0034 長野県長野市高田 字五反田1707-3",
+      "geometry": {
+        "location": {
+          "lat": 36.6444401,
+          "lng": 138.2167985
         },
-        "southwest": {
-          "lat": 36.6430197197085,
-          "lng": 138.2154639697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64571852989272,
+            "lng": 138.2181627798928
+          },
+          "southwest": {
+            "lat": 36.64301887010728,
+            "lng": 138.2154631201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJr42_m3OGHWARY-unAiimmr8",
-    "plus_code": {
-      "compound_code": "J6V8+QP 日本、長野県長野市",
-      "global_code": "8Q8WJ6V8+QP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "くら寿司 長野高田店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111037764256483291590\">西澤秀樹</a>"
+          ],
+          "photo_reference": "Aap_uECWZe378wTr-eg3dxqDWAkFG1llk1vFmKW-TSXCPa9dusWFdN3A_45w19KZzryn8LCW_XtoeS8mJ16M3FKSTHNG9pHwyYuzilINccESC3sNYFMWS4ZT-dX9whVZNOplhCiMnhZDYpcgnYIDBz2NaYoqzYXCh4YVC1kA_OAZrkBLE-7k",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJr42_m3OGHWARY-unAiimmr8",
+      "plus_code": {
+        "compound_code": "J6V8+QP 長野市、長野県",
+        "global_code": "8Q8WJ6V8+QP"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

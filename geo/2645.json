@@ -1,94 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬駅",
-        "short_name": "白馬駅",
-        "types": [
-          "establishment",
-          "point_of_interest",
-          "train_station",
-          "transit_station"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 白馬駅",
-    "geometry": {
-      "location": {
-        "lat": 36.6957427,
-        "lng": 137.8634922
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6971172302915,
-          "lng": 137.8647587302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡 白馬村北城1940-1",
+      "geometry": {
+        "location": {
+          "lat": 36.6924414,
+          "lng": 137.8614988
         },
-        "southwest": {
-          "lat": 36.6944192697085,
-          "lng": 137.8620607697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69384402989272,
+            "lng": 137.8626806298927
+          },
+          "southwest": {
+            "lat": 36.69114437010727,
+            "lng": 137.8599809701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJuZRhiAPS918RpJ-tRh6RNwA",
-    "plus_code": {
-      "compound_code": "MVW7+79 長野県白馬村",
-      "global_code": "8Q8VMVW7+79"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "train_station",
-      "transit_station"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ニコニコレンタカー白馬店",
+      "place_id": "ChIJG5fFqALS918Rijz-Nx_IF2A",
+      "plus_code": {
+        "compound_code": "MVR6+XH 白馬村、長野県",
+        "global_code": "8Q8VMVR6+XH"
+      },
+      "types": [
+        "car_rental",
+        "gas_station",
+        "travel_agency",
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

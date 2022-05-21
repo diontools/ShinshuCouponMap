@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６４１",
-        "short_name": "１６４１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大豆島",
-        "short_name": "大豆島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0022",
-        "short_name": "381-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0022 長野県長野市大豆島１６４１",
-    "geometry": {
-      "location": {
-        "lat": 36.6291416,
-        "lng": 138.2363369
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6305516302915,
-          "lng": 138.2378674302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0022 長野県長野市大豆島１６４１",
+      "geometry": {
+        "location": {
+          "lat": 36.6291416,
+          "lng": 138.2363369
         },
-        "southwest": {
-          "lat": 36.6278536697085,
-          "lng": 138.2351694697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.63055247989272,
+            "lng": 138.2378682798927
+          },
+          "southwest": {
+            "lat": 36.62785282010728,
+            "lng": 138.2351686201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJi_gSJYuFHWARYZ304JGZgc8",
-    "plus_code": {
-      "compound_code": "J6HP+MG 長野県長野市",
-      "global_code": "8Q8WJ6HP+MG"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0022 長野県長野市大豆島１６４１",
+      "place_id": "ChIJi_gSJYuFHWARYZ304JGZgc8",
+      "plus_code": {
+        "compound_code": "J6HP+MG 長野市、長野県",
+        "global_code": "8Q8WJ6HP+MG"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

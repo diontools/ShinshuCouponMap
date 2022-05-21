@@ -1,102 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０３１−１",
-        "short_name": "３０３１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中平",
-        "short_name": "中平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島中平３０３１−１",
-    "geometry": {
-      "location": {
-        "lat": 35.833317,
-        "lng": 137.6850587
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8345443302915,
-          "lng": 137.6864671802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島中平３０３１−１",
+      "geometry": {
+        "location": {
+          "lat": 35.8332665,
+          "lng": 137.6851082
         },
-        "southwest": {
-          "lat": 35.8318463697085,
-          "lng": 137.6837692197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.83454517989272,
+            "lng": 137.6864680298927
+          },
+          "southwest": {
+            "lat": 35.83184552010728,
+            "lng": 137.6837683701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJf-MYX__bHGARV3S0q78eoqo",
-    "plus_code": {
-      "compound_code": "RMMP+82 長野県木曽町",
-      "global_code": "8Q7VRMMP+82"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "ソシアルラウンジ倫仔屋",
+      "place_id": "ChIJf-MYX__bHGARV3S0q78eoqo",
+      "plus_code": {
+        "compound_code": "RMMP+82 木曽町、長野県",
+        "global_code": "8Q7VRMMP+82"
+      },
+      "types": [
+        "bar",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

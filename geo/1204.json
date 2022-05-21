@@ -1,164 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "甲",
-        "short_name": "甲",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0041",
-        "short_name": "384-0041",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0041 長野県小諸市甲 菱平704−1",
-    "geometry": {
-      "location": {
-        "lat": 36.410019,
-        "lng": 138.45954
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4114499802915,
-          "lng": 138.4609278302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0041 長野県小諸市 菱平704−1",
+      "geometry": {
+        "location": {
+          "lat": 36.410019,
+          "lng": 138.45954
         },
-        "southwest": {
-          "lat": 36.4087520197085,
-          "lng": 138.4582298697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.41145082989272,
+            "lng": 138.4609286798927
+          },
+          "southwest": {
+            "lat": 36.40875117010728,
+            "lng": 138.4582290201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjQDOqV3IHWAR5zNqbiLrtos",
-    "plus_code": {
-      "compound_code": "CF65+2R 日本、長野県小諸市",
-      "global_code": "8Q8WCF65+2R"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "１０−１１−２",
-        "short_name": "１０−１１−２",
-        "types": [
-          "premise"
-        ]
       },
-      {
-        "long_name": "寺家",
-        "short_name": "寺家",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "三崎町",
-        "short_name": "三崎町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "珠洲市",
-        "short_name": "珠洲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "石川県",
-        "short_name": "石川県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "927-1451",
-        "short_name": "927-1451",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒927-1451 石川県珠洲市三崎町寺家１０−１１−２",
-    "geometry": {
-      "location": {
-        "lat": 37.5154014,
-        "lng": 137.3433396
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 37.5165549302915,
-          "lng": 137.3450039802915
-        },
-        "southwest": {
-          "lat": 37.5138569697085,
-          "lng": 137.3423060197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "高峰温泉",
+      "photos": [
+        {
+          "height": 681,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102615352217576551475\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAz6EYTi8uw9ST6lfEmGOMPWUsS5xJmXUdkKbA6Py-0pW7_DLddgpfb9Z3GeLiOmu9GsNv35Ong0T3FhOEswbXTbRfB-00NgG4aVrhbCpC2aU1abzguz8TCc5paPCl3K9JjiCfeznnvX46rA_7Kbcj1zc7zCPAklYOqPi9GEcMzyad_",
+          "width": 1024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_4V9XpdS8V8R2LaSPb-Lp5c",
-    "plus_code": {
-      "compound_code": "G88V+58 日本、石川県珠洲市",
-      "global_code": "8Q9VG88V+58"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJjQDOqV3IHWAR5zNqbiLrtos",
+      "plus_code": {
+        "compound_code": "CF65+2R 小諸市、長野県",
+        "global_code": "8Q8WCF65+2R"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

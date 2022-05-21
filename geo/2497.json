@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千国",
-        "short_name": "千国",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国",
-    "geometry": {
-      "location": {
-        "lat": 36.7562599,
-        "lng": 137.8633297
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7576723802915,
-          "lng": 137.8646107302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国",
+      "geometry": {
+        "location": {
+          "lat": 36.7562599,
+          "lng": 137.8633297
         },
-        "southwest": {
-          "lat": 36.7549744197085,
-          "lng": 137.8619127697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.75767322989271,
+            "lng": 137.8646115798927
+          },
+          "southwest": {
+            "lat": 36.75497357010727,
+            "lng": 137.8619119201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJSe6LylfN918RkOFjiBJ8sLk",
-    "plus_code": {
-      "compound_code": "QV47+G8 長野県小谷村",
-      "global_code": "8Q8VQV47+G8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "栂池レストハウス",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116895337790556155905\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECm7AA3SHS-4UAR78y5xajSadGzhLzBp2FhoRRPV71kn4fnOzYKXN247OPdWJUdePjRzPrkItVb_FXUTx3rX5YJ8nAwRvrugDbbkPJ7FP0CLJv8TaXoB247KNeOGb0FWIrMHafHJv2CvJxl-G8UC6TP8_zJ0jzTUQ4KTLC0Gq_m4I65",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJSe6LylfN918RkOFjiBJ8sLk",
+      "plus_code": {
+        "compound_code": "QV47+G8 小谷村、長野県",
+        "global_code": "8Q8VQV47+G8"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

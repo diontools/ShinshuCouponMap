@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上高井郡小布施町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7249498,
-          "lng": 138.3485256
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0209 長野県上高井郡小布施町中松４９６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.695506,
+          "lng": 138.327466
         },
-        "southwest": {
-          "lat": 36.6819566,
-          "lng": 138.280658
+        "viewport": {
+          "northeast": {
+            "lat": 36.69695202989272,
+            "lng": 138.3285188798927
+          },
+          "southwest": {
+            "lat": 36.69425237010728,
+            "lng": 138.3258192201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6976499,
-        "lng": 138.312086
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7249498,
-          "lng": 138.3485256
-        },
-        "southwest": {
-          "lat": 36.6819566,
-          "lng": 138.280658
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "農産物直売所 ろくさん",
+      "photos": [
+        {
+          "height": 5504,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106708915070345441040\">西沢一輝</a>"
+          ],
+          "photo_reference": "Aap_uEC1fKXubsOpeEFG4Zor8ZubIkV5Yf3xRgIp1spsQiN12yPLdSs05tlyOPOYnVWuyLVxETnzLlfYv0chHyYn7sdmf047d1N6owurPYuGl8dfAo66AUE1VAmy8T2blSJPosifICYVl09KEBQxmbXnPayC-sWAHXnp1AMDgBYPWiTjdK-6",
+          "width": 3096
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtfXhZmGJHWARwMyxJhtO7hs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJr49JM-WLHWARLpKO4ZkR_KY",
+      "plus_code": {
+        "compound_code": "M8WG+6X 小布施町、長野県",
+        "global_code": "8Q8WM8WG+6X"
+      },
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

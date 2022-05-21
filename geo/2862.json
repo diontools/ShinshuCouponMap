@@ -1,100 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５０９７−１",
-        "short_name": "５０９７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上町",
-        "short_name": "上町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島上町５０９７−１",
-    "geometry": {
-      "location": {
-        "lat": 35.8504908,
-        "lng": 137.7008487
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.85182108029149,
-          "lng": 137.7022014802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島上町５０９７−１",
+      "geometry": {
+        "location": {
+          "lat": 35.8504908,
+          "lng": 137.7008487
         },
-        "southwest": {
-          "lat": 35.84912311970849,
-          "lng": 137.6995035197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.85182192989272,
+            "lng": 137.7022023298927
+          },
+          "southwest": {
+            "lat": 35.84912227010727,
+            "lng": 137.6995026701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJwXzwbqPeHGART3LqCC3UHCM",
-    "plus_code": {
-      "compound_code": "VP22+58 長野県木曽町",
-      "global_code": "8Q7VVP22+58"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "田中屋",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108182766701482598584\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC6PKsJ7LRnYpkHaURP8_kHaN5bG3jOkwiyBg9lSk1Df3glPYnOkSyjR6M4IBC7nfQs8ZvpwloRgQ5FcCYDoBu460ABSju8rnkYS5laAvs9SnvJj9eiY4nKRtzYRyhzyphaOFTAd3hUiaD-9zCaN4B94wtypXoBsKpixTdLRDVjQuKI",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJwXzwbqPeHGART3LqCC3UHCM",
+      "plus_code": {
+        "compound_code": "VP22+58 木曽町、長野県",
+        "global_code": "8Q7VVP22+58"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

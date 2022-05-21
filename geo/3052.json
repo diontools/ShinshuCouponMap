@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８３９−５",
-        "short_name": "３８３９−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元大島",
-        "short_name": "元大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3303",
-        "short_name": "399-3303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島３８３９−５",
-    "geometry": {
-      "location": {
-        "lat": 35.5968751,
-        "lng": 137.9129516
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5982526802915,
-          "lng": 137.9142342302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島３８３９−５",
+      "geometry": {
+        "location": {
+          "lat": 35.5968814,
+          "lng": 137.9129372
         },
-        "southwest": {
-          "lat": 35.5955547197085,
-          "lng": 137.9115362697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.59825352989272,
+            "lng": 137.9142350798927
+          },
+          "southwest": {
+            "lat": 35.59555387010727,
+            "lng": 137.9115354201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJeyQgXyOQHGARzKClLcLNMEo",
-    "plus_code": {
-      "compound_code": "HWW7+Q5 長野県松川町",
-      "global_code": "8Q7VHWW7+Q5"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "徳八",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108217702863843967473\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED1pq_lGVWBRbmUTUee5xCyyfcszgrtJ3JcR0YbUgpGVoCxjIiqzz_mc0uc-WSPSoDOcdnVLCAqtRNuC33QJ427Zcjx1RAVyIfxj-hMytX5dCfud5Y64nixzXS5gbxu94sxmRbO6s6t1Wr2_zwFSNmlg6W16LpSs6HgyI-bEFqakDUF",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJeyQgXyOQHGARzKClLcLNMEo",
+      "plus_code": {
+        "compound_code": "HWW7+Q5 松川町、長野県",
+        "global_code": "8Q7VHWW7+Q5"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

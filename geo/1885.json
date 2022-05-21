@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５７１−１",
-        "short_name": "１５７１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広丘郷原",
-        "short_name": "広丘郷原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0704",
-        "short_name": "399-0704",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0704 長野県塩尻市広丘郷原１５７１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.1207055,
-        "lng": 137.9399688
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.12261398029149,
-          "lng": 137.9419399302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0704 長野県塩尻市広丘郷原１５７１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.1207055,
+          "lng": 137.9399688
         },
-        "southwest": {
-          "lat": 36.1199160197085,
-          "lng": 137.9392419697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12261482989273,
+            "lng": 137.9419407798927
+          },
+          "southwest": {
+            "lat": 36.11991517010728,
+            "lng": 137.9392411201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJy6sFvt0EHWARItEIUoSOPB8",
-    "plus_code": {
-      "compound_code": "4WCQ+7X 日本、長野県塩尻市",
-      "global_code": "8Q8V4WCQ+7X"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アルプスショットゴルフ練習場",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118066699705591980256\">Koji Nishizawa</a>"
+          ],
+          "photo_reference": "Aap_uEAvPkjJDOKw7Y4BZ5M7lPRUtzG2gy44dig3oTG8Y7whActt--LY__Vzy7dACellQ1n_Hu1561qLvpzUiBaVn58x0UqCmKHDwOxu3Jfv1LRyGNEMm02cNc-erP7tIChLciLMhu32Tg2inigX91iwoCPy7sAGIowjdGhBfb7hXNvbUzM7",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJy6sFvt0EHWARItEIUoSOPB8",
+      "plus_code": {
+        "compound_code": "4WCQ+7X 塩尻市、長野県",
+        "global_code": "8Q8V4WCQ+7X"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

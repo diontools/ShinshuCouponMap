@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２３−１９５０",
-        "short_name": "１２２３−１９５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−１９５０",
-    "geometry": {
-      "location": {
-        "lat": 36.5398926,
-        "lng": 138.3390706
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5413754802915,
-          "lng": 138.3403917802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−１９５０",
+      "geometry": {
+        "location": {
+          "lat": 36.5398926,
+          "lng": 138.3390706
         },
-        "southwest": {
-          "lat": 36.5386775197085,
-          "lng": 138.3376938197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.54137632989271,
+            "lng": 138.3403926298927
+          },
+          "southwest": {
+            "lat": 36.53867667010727,
+            "lng": 138.3376929701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJS4PlsnKUHWAR5toO_fjIVP8",
-    "plus_code": {
-      "compound_code": "G8QQ+XJ 日本、長野県上田市",
-      "global_code": "8Q8WG8QQ+XJ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "レストランWing",
+      "photos": [
+        {
+          "height": 2751,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100236357380330615187\">楊景雯</a>"
+          ],
+          "photo_reference": "Aap_uEBvbOadBx23061U46zY5p3IhSvi5DOHiY5wTBuCllZVvrKQ3-th1r-Z1o_AefkY-vw9B4Lff5O2ymPhMRWAm21jJgI27fcc4cyorbYoF956Z93zDCV6GiDJHn4zW5Ma3JIZbAMVvfAUSaUxzaFkK21g_QSZnaVjSc1lglRb529d1rOR",
+          "width": 3852
+        }
+      ],
+      "place_id": "ChIJS4PlsnKUHWAR5toO_fjIVP8",
+      "plus_code": {
+        "compound_code": "G8QQ+XJ 上田市、長野県",
+        "global_code": "8Q8WG8QQ+XJ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

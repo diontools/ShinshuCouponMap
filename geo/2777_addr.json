@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６０",
-        "short_name": "１６０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "野尻",
-        "short_name": "野尻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大桑村",
-        "short_name": "大桑村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5504",
-        "short_name": "399-5504",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5504 長野県木曽郡大桑村野尻１６０",
-    "geometry": {
-      "location": {
-        "lat": 35.6821103,
-        "lng": 137.6538163
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6835727802915,
-          "lng": 137.6550508302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-5504 長野県木曽郡大桑村野尻１６０",
+      "geometry": {
+        "location": {
+          "lat": 35.6821103,
+          "lng": 137.6538163
         },
-        "southwest": {
-          "lat": 35.6808748197085,
-          "lng": 137.6523528697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.68357362989272,
+            "lng": 137.6550516798927
+          },
+          "southwest": {
+            "lat": 35.68087397010727,
+            "lng": 137.6523520201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJO9dn8CjEHGAReau3J8EVEKY",
-    "plus_code": {
-      "compound_code": "MMJ3+RG 長野県大桑村",
-      "global_code": "8Q7VMMJ3+RG"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-5504 長野県木曽郡大桑村野尻１６０",
+      "place_id": "ChIJO9dn8CjEHGAReau3J8EVEKY",
+      "plus_code": {
+        "compound_code": "MMJ3+RG 大桑村、長野県",
+        "global_code": "8Q7VMMJ3+RG"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

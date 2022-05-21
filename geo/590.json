@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３３９−２",
-        "short_name": "１３３９−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "江部",
-        "short_name": "江部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中野市",
-        "short_name": "中野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "383-0045",
-        "short_name": "383-0045",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒383-0045 長野県中野市江部１３３９−２",
-    "geometry": {
-      "location": {
-        "lat": 36.743604,
-        "lng": 138.350099
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7448925802915,
-          "lng": 138.3514174302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒383-0045 長野県中野市江部１３３９−２",
+      "geometry": {
+        "location": {
+          "lat": 36.7435333,
+          "lng": 138.3500462
         },
-        "southwest": {
-          "lat": 36.7421946197085,
-          "lng": 138.3487194697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74489342989272,
+            "lng": 138.3514182798927
+          },
+          "southwest": {
+            "lat": 36.74219377010728,
+            "lng": 138.3487186201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJH-5gIluKHWARICsq8uqRp-k",
-    "plus_code": {
-      "compound_code": "P9V2+C2 日本、長野県中野市",
-      "global_code": "8Q8WP9V2+C2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ココス 信州中野店",
+      "photos": [
+        {
+          "height": 3792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103329810973490506602\">奥薗徳明</a>"
+          ],
+          "photo_reference": "Aap_uECHLxZn385f2A3JqPa58yexhRkqPTA0tJuetIfYDEnMSparHaTp-Z3w6JxG4-lwJyI3DXIa42jB4NL4e9_aFVDs7F5ruqeup0Pxk5r9lhteyNF2MaVUTXM59BE2FtYt4gKW187O3WBrv-ouSS7gVcx0x-P9ZVwuFFCRLJ1JdSuFW4nl",
+          "width": 5056
+        }
+      ],
+      "place_id": "ChIJH-5gIluKHWARICsq8uqRp-k",
+      "plus_code": {
+        "compound_code": "P9V2+C2 中野市、長野県",
+        "global_code": "8Q8WP9V2+C2"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

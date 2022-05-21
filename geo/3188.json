@@ -1,91 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１９−１",
-        "short_name": "３４１９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "白樺湖",
-        "short_name": "白樺湖",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山白樺湖３４１９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.101986,
-        "lng": 138.234357
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1034864302915,
-          "lng": 138.2356326302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山白樺湖３４１９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.101986,
+          "lng": 138.234357
         },
-        "southwest": {
-          "lat": 36.1007884697085,
-          "lng": 138.2329346697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10348727989272,
+            "lng": 138.2356334798927
+          },
+          "southwest": {
+            "lat": 36.10078762010728,
+            "lng": 138.2329338201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "白樺湖ロイヤルヒルスキー場",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117037588580291225126\">白樺湖ロイヤルヒルスキー場</a>"
+          ],
+          "photo_reference": "Aap_uECkZTsGPaoBbItQa0LsSv3cEcLImjQlUUwYqStRj-B5kn1g0XiT4j-mGTe8-dX1fPodRIYZrLbFhDNZQMuWjeYidV0gzHIcO3ICFyW1x6U9zI7U-FfdBVW3OrW2un8q2wyt8Sqzi1bu2LBmX3gDJCPj1SMboA3W-_zInuW6Iw3CqoDb",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJm_sMWXdSHGARcEapnus-DG8",
+      "plus_code": {
+        "compound_code": "462M+QP 茅野市、長野県",
+        "global_code": "8Q8W462M+QP"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJm_sMWXdSHGARcEapnus-DG8",
-    "plus_code": {
-      "compound_code": "462M+QP 長野県茅野市",
-      "global_code": "8Q8W462M+QP"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山白樺湖３４１９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.1023131,
+          "lng": 138.2345853
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.10371657989273,
+            "lng": 138.2358193798927
+          },
+          "southwest": {
+            "lat": 36.10101692010728,
+            "lng": 138.2331197201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白樺湖ロイヤルホテル",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114751487470923502409\">山本弘茂</a>"
+          ],
+          "photo_reference": "Aap_uEAHu1eL44xbb8Hkry3mGgWsuUK9tGvleUeGDbWaqOZpyBrfMjxsNTBgFVDORUO7vFhQgg-Du-7bXkKa_SESXHWEO2WIJYCRPKvpU70iKWyJJ72KNLwFaaGNF1ESf-tdC5SDijznsyLIbJytI6aap6rGSozMvggAhsA9NfHLn9xfan7B",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJ95NtY3lSHGARF6ZBdSaxTcI",
+      "plus_code": {
+        "compound_code": "462M+WR 茅野市、長野県",
+        "global_code": "8Q8W462M+WR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

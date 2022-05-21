@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６２８",
-        "short_name": "６２８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢６２８",
-    "geometry": {
-      "location": {
-        "lat": 36.3594825,
-        "lng": 138.636246
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3607938302915,
-          "lng": 138.6376515302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢６２８",
+      "geometry": {
+        "location": {
+          "lat": 36.3594825,
+          "lng": 138.636246
         },
-        "southwest": {
-          "lat": 36.3580958697085,
-          "lng": 138.6349535697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36079467989272,
+            "lng": 138.6376523798927
+          },
+          "southwest": {
+            "lat": 36.35809502010728,
+            "lng": 138.6349527201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJTdHdgIjTHWARoRHwXwrHglk",
-    "plus_code": {
-      "compound_code": "9J5P+QF 長野県軽井沢町",
-      "global_code": "8Q8W9J5P+QF"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0102 長野県北佐久郡軽井沢町軽井沢６２８",
+      "place_id": "ChIJTdHdgIjTHWARoRHwXwrHglk",
+      "plus_code": {
+        "compound_code": "9J5P+QF 軽井沢町、長野県",
+        "global_code": "8Q8W9J5P+QF"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

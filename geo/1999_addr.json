@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４６９−１",
-        "short_name": "４４６９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇４４６９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2471218,
-        "lng": 137.625658
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.24847078029149,
-          "lng": 137.6270069802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-1520 長野県松本市安曇４４６９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2471218,
+          "lng": 137.625658
         },
-        "southwest": {
-          "lat": 36.2457728197085,
-          "lng": 137.6243090197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24847162989272,
+            "lng": 137.6270078298927
+          },
+          "southwest": {
+            "lat": 36.24577197010727,
+            "lng": 137.6243081701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJIQ3JY-dFHWARjkX-UdcI4fU",
-    "plus_code": {
-      "compound_code": "6JWG+R7 長野県松本市",
-      "global_code": "8Q8V6JWG+R7"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-1520 長野県松本市安曇４４６９−１",
+      "place_id": "ChIJIQ3JY-dFHWARjkX-UdcI4fU",
+      "plus_code": {
+        "compound_code": "6JWG+R7 松本市、長野県",
+        "global_code": "8Q8V6JWG+R7"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

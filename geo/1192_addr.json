@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６２０−３",
-        "short_name": "６２０−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大久保",
-        "short_name": "大久保",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0071",
-        "short_name": "384-0071",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0071 長野県小諸市大久保６２０−３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3293971,
-          "lng": 138.39766
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0071 長野県小諸市大久保６２０−３",
+      "geometry": {
+        "location": {
+          "lat": 36.3290375,
+          "lng": 138.3972201
         },
-        "southwest": {
-          "lat": 36.328709,
-          "lng": 138.3968256
+        "viewport": {
+          "northeast": {
+            "lat": 36.33004912989272,
+            "lng": 138.3986974798927
+          },
+          "southwest": {
+            "lat": 36.32734947010728,
+            "lng": 138.3959978201073
+          }
         }
       },
-      "location": {
-        "lat": 36.3290375,
-        "lng": 138.3972201
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3302280802915,
-          "lng": 138.3985917802915
-        },
-        "southwest": {
-          "lat": 36.3275301197085,
-          "lng": 138.3958938197085
-        }
-      }
-    },
-    "place_id": "ChIJs_cbvNe3HWARg3hHNvEgylM",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0071 長野県小諸市大久保６２０−３",
+      "place_id": "ChIJs_cbvNe3HWARg3hHNvEgylM",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

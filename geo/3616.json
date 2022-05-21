@@ -1,99 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "育良町",
-        "short_name": "育良町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0152",
-        "short_name": "395-0152",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0152 長野県飯田市育良町１丁目２−１",
-    "geometry": {
-      "location": {
-        "lat": 35.5014552,
-        "lng": 137.7980425
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5027640302915,
-          "lng": 137.7999162302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0152 長野県飯田市育良町１丁目２−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5014552,
+          "lng": 137.7980425
         },
-        "southwest": {
-          "lat": 35.5000660697085,
-          "lng": 137.7972182697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50276487989272,
+            "lng": 137.7999170798927
+          },
+          "southwest": {
+            "lat": 35.50006522010728,
+            "lng": 137.7972174201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6rqoU6YHGARI22LLDL-cmM",
-    "plus_code": {
-      "compound_code": "GQ2X+H6 長野県飯田市",
-      "global_code": "8Q7VGQ2X+H6"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "りんごの里農産物直売所",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100159717456142408401\">住田詩織</a>"
+          ],
+          "photo_reference": "Aap_uEDST5VIwrVyzcmj0tTFu9yh0Str9wedBNXT7y9251Oe9THX8_j9rRgXTOxAv_8_Wjr9kp6apJtFs4Ua5Po4e8CbmpeLJ7iJA2-ZFH8Y5BaJziGC5kchUbI7gEndQ66-Asxc_B4dzBFwMWnO9m4Uaet2tHXfx2xwnmRHgTNv5jWMwt5u",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJq6rqoU6YHGARI22LLDL-cmM",
+      "plus_code": {
+        "compound_code": "GQ2X+H6 飯田市、長野県",
+        "global_code": "8Q7VGQ2X+H6"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

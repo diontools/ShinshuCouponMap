@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0000 長野県長野市長野５１０",
+      "geometry": {
+        "location": {
+          "lat": 36.6570168,
+          "lng": 138.1873489
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.65836057989272,
+            "lng": 138.1887759798927
+          },
+          "southwest": {
+            "lat": 36.65566092010728,
+            "lng": 138.1860763201072
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "長野 風月堂",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112150997491118558666\">WEST JAPAN W7</a>"
+          ],
+          "photo_reference": "Aap_uEANTfenIQoa-Avm4om8cSAxERULshuy7epNTK8tURXp2KwT_bKJkUV2_H5ih-pczOhaCguZBPHuWJSN_p6bQj2JqmztZigARKsfzdHNFCpcWm5ckD2U7z0dIbS05Lz00TGvGcmnNB6q5XMu6xRAQedipTfIROe1dWgiZCb-UfF9RKpB",
+          "width": 3264
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJaXUMi-SGHWARkAy2G2Dkngc",
+      "plus_code": {
+        "compound_code": "M54P+RW 長野市、長野県",
+        "global_code": "8Q8WM54P+RW"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

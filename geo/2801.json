@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６８９−２３９",
-        "short_name": "４６８９−２３９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻４６８９−２３９",
-    "geometry": {
-      "location": {
-        "lat": 35.5545127,
-        "lng": 137.6642673
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5558557802915,
-          "lng": 137.6657226802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻４６８９−２３９",
+      "geometry": {
+        "location": {
+          "lat": 35.5545053,
+          "lng": 137.6642954
         },
-        "southwest": {
-          "lat": 35.5531578197085,
-          "lng": 137.6630247197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.55585662989272,
+            "lng": 137.6657235298927
+          },
+          "southwest": {
+            "lat": 35.55315697010727,
+            "lng": 137.6630238701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJDTSdKWu5HGARlg9v0VZNMyE",
-    "plus_code": {
-      "compound_code": "HM37+RP 長野県南木曽町",
-      "global_code": "8Q7VHM37+RP"
-    },
-    "types": [
-      "establishment",
-      "home_goods_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "木地師の里 ヤマイチ",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116194361797600690885\">義尚大和</a>"
+          ],
+          "photo_reference": "Aap_uEDGmb3gj1fI0ocGSsYo3hri1igPlffZoovf_slNuSGjw-w1vD1fOY7aHfUkPq7rPsC9ZtauGAppgElCpO7depKJ4oHZ4pGcIfuZhqcJ-adJG2pgpXXEn1IY7LOQQlQWeJyyZvrBdQBVEscmG1Sy_B-GYqT7SJRfy1DbolmzGFCNx_Px",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJDTSdKWu5HGARlg9v0VZNMyE",
+      "plus_code": {
+        "compound_code": "HM37+RP 南木曽町、長野県",
+        "global_code": "8Q7VHM37+RP"
+      },
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

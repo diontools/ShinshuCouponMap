@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９５１５",
-        "short_name": "９５１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９５１５",
-    "geometry": {
-      "location": {
-        "lat": 36.92290920000001,
-        "lng": 138.4475204
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9242662802915,
-          "lng": 138.4488561302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９５１５",
+      "geometry": {
+        "location": {
+          "lat": 36.92290920000001,
+          "lng": 138.4475204
         },
-        "southwest": {
-          "lat": 36.9215683197085,
-          "lng": 138.4461581697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92426712989273,
+            "lng": 138.4488569798927
+          },
+          "southwest": {
+            "lat": 36.92156747010728,
+            "lng": 138.4461573201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8cRXky4F9l8Rw-s-h94zow0",
-    "plus_code": {
-      "compound_code": "WCFX+52 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCFX+52"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ハウスサンアントンジャムファクトリー Haus St. Anton Cafe & Jam Factory",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103302780967585929734\">ハウスサンアントンジャム工房</a>"
+          ],
+          "photo_reference": "Aap_uEB0Qp31SCCjoYbj0AjZ6DsGifZvapx3Sz8U0mxd-r-6UW01n_Ss4hfV6fvbHtRYt8o7dXf5p8XurVRU7kuaQhkpRrm6QjNw_gHIFpHsRNeIOgvN7Ico_q5ghjrM3skwLSVEqF0C8OpSgvDvsD-czrHYkhSd_HdE2KRrodBi21XTHqSm",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJ8cRXky4F9l8Rw-s-h94zow0",
+      "plus_code": {
+        "compound_code": "WCFX+52 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+52"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

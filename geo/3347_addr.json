@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "三日町",
-        "short_name": "三日町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "箕輪町",
-        "short_name": "箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4603",
-        "short_name": "399-4603",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4603 長野県上伊那郡箕輪町三日町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9185633,
-          "lng": 138.0323105
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-4603 長野県上伊那郡箕輪町三日町",
+      "geometry": {
+        "location": {
+          "lat": 35.9073363,
+          "lng": 138.0059825
         },
-        "southwest": {
-          "lat": 35.8776963,
-          "lng": 137.9862487
+        "viewport": {
+          "northeast": {
+            "lat": 35.9185633,
+            "lng": 138.0323105
+          },
+          "southwest": {
+            "lat": 35.8776963,
+            "lng": 137.9862487
+          }
         }
       },
-      "location": {
-        "lat": 35.9073363,
-        "lng": 138.0059825
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9185633,
-          "lng": 138.0323105
-        },
-        "southwest": {
-          "lat": 35.8776963,
-          "lng": 137.9862487
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "三日町",
+      "photos": [
+        {
+          "height": 981,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102168848365138317007\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB58R4HmhYohnp8nZRY51HCdDji9CaY33KtDZ8wvZT9MbTk0Q_tZ40MRjuGYE_K_iUXmm6KzRdiDlHM48z1syve-96aYVVNOxFocYPJbxZBxEhOgZPplG0Q6Ibd1S0N8vixWJTbcR8ZbWhD8jJlnXjdaTwzWHqiWUdr_eJ-T3MUy1a1",
+          "width": 813
         }
-      }
-    },
-    "place_id": "ChIJm-4YCVz3HGARaa6iTCn_gU4",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJm-4YCVz3HGARaa6iTCn_gU4",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

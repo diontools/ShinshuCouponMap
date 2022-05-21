@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "御代田町",
-        "short_name": "御代田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡御代田町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4138973,
-          "lng": 138.5798592
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0206 長野県北佐久郡御代田町御代田２３３８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3154948,
+          "lng": 138.5028552
         },
-        "southwest": {
-          "lat": 36.279532,
-          "lng": 138.4576675
+        "viewport": {
+          "northeast": {
+            "lat": 36.31676357989272,
+            "lng": 138.5041900298927
+          },
+          "southwest": {
+            "lat": 36.31406392010728,
+            "lng": 138.5014903701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3212828,
-        "lng": 138.508717
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4138973,
-          "lng": 138.5798592
-        },
-        "southwest": {
-          "lat": 36.279532,
-          "lng": 138.4576675
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ダイニングレストラン トーマス",
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117601765806262077314\">浦山十四子</a>"
+          ],
+          "photo_reference": "Aap_uECIUgN8arXicYrvfVClv1zSdX9_EylHdXRMznU39KPAKukvUa3F8GTQOgA5GIXx5iHRJM0moDB_lt_JkWA7yulu4ae6qF4Y7Ll0-S3vLCCyu8CbebLwgo7NBCC_h5ZEPEFY4z3LDcNsbqGOA8mpS8Y6FDThi_alnkduHu4iSgTbFYpH",
+          "width": 600
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJF0-EoGLOHWARXGLjCIjA0EE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJK5-ouD7MHWARuo8sKsJTI9k",
+      "plus_code": {
+        "compound_code": "8G83+53 御代田町、長野県",
+        "global_code": "8Q8W8G83+53"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

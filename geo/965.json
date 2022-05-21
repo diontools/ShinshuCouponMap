@@ -1,99 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３５５",
-        "short_name": "１３５５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町１３５５−５",
-    "geometry": {
-      "location": {
-        "lat": 36.6435341,
-        "lng": 138.1869837
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6448588302915,
-          "lng": 138.1883686302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0825 長野県長野市末広町１３５５−５",
+      "geometry": {
+        "location": {
+          "lat": 36.6435341,
+          "lng": 138.1869837
         },
-        "southwest": {
-          "lat": 36.6421608697085,
-          "lng": 138.1856706697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64485967989273,
+            "lng": 138.1883694798927
+          },
+          "southwest": {
+            "lat": 36.64216002010728,
+            "lng": 138.1856698201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5SEdJ5OGHWARyjHm6TuPnSk",
-    "plus_code": {
-      "compound_code": "J5VP+CQ 日本、長野県長野市",
-      "global_code": "8Q8WJ5VP+CQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アルピコ交通 長野駅前総合案内所",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104302945699263341203\">夏花りゅう</a>"
+          ],
+          "photo_reference": "Aap_uEDHCuPlCVxUVJHoz2MHQmM0873vHVEmzonBu-2UdP19wXBG6pRWZa_oOAr3pJ0SADNy1nhDzdGhAR7FcWMQ4YiS6QyeirGWbP99HS6lWVu0Z1Jjow8OFrU0JYXZHsplk4Q9JtebCA2GqzpcgWLW4xxE_9nPwp2wYvlNjVjSXizON5Pf",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ5SEdJ5OGHWARyjHm6TuPnSk",
+      "plus_code": {
+        "compound_code": "J5VP+CQ 長野市、長野県",
+        "global_code": "8Q8WJ5VP+CQ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１１５",
-        "short_name": "２１１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡山ノ内町",
-        "short_name": "下高井郡山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡下高井郡山ノ内町平穏２１１５",
-    "geometry": {
-      "location": {
-        "lat": 36.734587,
-        "lng": 138.433061
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.73595703029149,
-          "lng": 138.4344176802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡下高井郡山ノ内町平穏２１１５",
+      "geometry": {
+        "location": {
+          "lat": 36.734587,
+          "lng": 138.433061
         },
-        "southwest": {
-          "lat": 36.7332590697085,
-          "lng": 138.4317197197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73595787989272,
+            "lng": 138.4344185298928
+          },
+          "southwest": {
+            "lat": 36.73325822010728,
+            "lng": 138.4317188701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmXeYxIP0HWARnh5wOuwE9dI",
-    "plus_code": {
-      "compound_code": "PCMM+R6 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCMM+R6"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "九番湯 渋大湯",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107037871839107344176\">BADBATUMARU</a>"
+          ],
+          "photo_reference": "Aap_uECcjEz5QctMYVhvF9xoK0keUWpOQjEZMda8PFwojY6Rw9_YY2doosmEP8pOos-DYef_zBQa195GrNxcWSAmR0VDw8imUJ6JWtO2q-Zw21vDSsvB5MxBoshFzZxE0oiSvq976rHuFW9NuGQL2u31sUaqO8FZkLvVk4Ao_QIu4l19rh8H",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJmXeYxIP0HWARnh5wOuwE9dI",
+      "plus_code": {
+        "compound_code": "PCMM+R6 山ノ内町、長野県",
+        "global_code": "8Q8WPCMM+R6"
+      },
+      "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４００−１",
-        "short_name": "３４００−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠３４００−１",
-    "geometry": {
-      "location": {
-        "lat": 36.7370947,
-        "lng": 138.085243
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7384172802915,
-          "lng": 138.0866274302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠３４００−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7370947,
+          "lng": 138.085243
         },
-        "southwest": {
-          "lat": 36.7357193197085,
-          "lng": 138.0839294697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73841812989272,
+            "lng": 138.0866282798927
+          },
+          "southwest": {
+            "lat": 36.73571847010728,
+            "lng": 138.0839286201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhz5A4Lou9l8R8cqkQsdOzec",
-    "plus_code": {
-      "compound_code": "P3PP+R3 日本、長野県長野市",
-      "global_code": "8Q8WP3PP+R3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "碓井製菓",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104598774129338192934\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC2nfiGGIvMCnraLPTD47tXWfV93iNvONbOEUBsQN-2EkXBwx9xLM6eFEvfpDl3uMR_UHAGW90fgjdd_8KimKGZG427I40c3Rsmi8Yf6DeohFn7qn1JGKgJq7X3CQZmu0LvcXGade5RZZaet9xr18scJo3iZfrZxJpSqfs8cNbrbw30",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJhz5A4Lou9l8R8cqkQsdOzec",
+      "plus_code": {
+        "compound_code": "P3PP+R3 長野市、長野県",
+        "global_code": "8Q8WP3PP+R3"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

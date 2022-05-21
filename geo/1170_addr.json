@@ -1,76 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "和田原",
-        "short_name": "和田原",
-        "types": [
-          "intersection"
-        ]
-      },
-      {
-        "long_name": "御影新田",
-        "short_name": "御影新田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0808",
-        "short_name": "384-0808",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0808 長野県小諸市御影新田 和田原",
-    "geometry": {
-      "location": {
-        "lat": 36.2955909,
-        "lng": 138.4690835
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2969398802915,
-          "lng": 138.4704324802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0808 長野県小諸市御影新田２７４６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2967382,
+          "lng": 138.4683308
         },
-        "southwest": {
-          "lat": 36.2942419197085,
-          "lng": 138.4677345197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.29808727989273,
+            "lng": 138.4696863798927
+          },
+          "southwest": {
+            "lat": 36.29538762010728,
+            "lng": 138.4669867201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzdWneI3LHWARU9H_wBjLDOA",
-    "types": [
-      "intersection"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Hotelひしや",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114859740347023367629\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAHaJMHJVui2h_dIErJwmLO0rDGwOBcy2ZBf0C2_VjVF4UA5LnzFks_tr_WGB7wCHpvP2dH7KLdBSF5q_WxxBDOXKT9ajg2ZPIyckkAoivt00zLduclZd97gzwqus7yspRAXrkk7o-Gw9E9fGc8mFRo45h22-WIbLTW1cFGXBU6RsM6",
+          "width": 614
+        }
+      ],
+      "place_id": "ChIJYWn8erDLHWARaFICaQLcQzY",
+      "plus_code": {
+        "compound_code": "7FW9+M8 小諸市、長野県",
+        "global_code": "8Q8W7FW9+M8"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

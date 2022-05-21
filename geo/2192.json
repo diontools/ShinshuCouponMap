@@ -1,89 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "日本庭園桃仙園",
-        "short_name": "日本庭園桃仙園",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４２",
-        "short_name": "１４２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大村",
-        "short_name": "大村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0304",
-        "short_name": "390-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0304 長野県松本市大村１４２ 日本庭園桃仙園",
-    "geometry": {
-      "location": {
-        "lat": 36.251433,
-        "lng": 137.993071
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2526872302915,
-          "lng": 137.9944389802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0304 長野県松本市大村１４２ 日本庭園桃仙園",
+      "geometry": {
+        "location": {
+          "lat": 36.251433,
+          "lng": 137.993071
         },
-        "southwest": {
-          "lat": 36.2499892697085,
-          "lng": 137.9917410197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.25268807989272,
+            "lng": 137.9944398298927
+          },
+          "southwest": {
+            "lat": 36.24998842010727,
+            "lng": 137.9917401701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJw1tBI68OHWARkE1EAwqwFSQ",
-    "plus_code": {
-      "compound_code": "7X2V+H6 日本、長野県松本市",
-      "global_code": "8Q8V7X2V+H6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "割烹旅館 桃山",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113973166143497757612\">尚史萩原</a>"
+          ],
+          "photo_reference": "Aap_uEB9FXeAzN6O_h74hI3Cv2PEk2Z2QgAwDGH9TbYL_O0uO-mSauTFQvjz8PmbWv2XtCIjUbXRvq3s3DtfkqSmgawCjUqi7FJx8umOTH1lB1S_cnkBwIsphsTzOg7vqky9S-LutpTITbhZdbDC3XTCgR7Sd6wFE8Q1zTRbLW-fjOgd2TBN",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJw1tBI68OHWARkE1EAwqwFSQ",
+      "plus_code": {
+        "compound_code": "7X2V+H6 松本市、長野県",
+        "global_code": "8Q8V7X2V+H6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

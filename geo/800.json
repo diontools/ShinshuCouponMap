@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３１５",
-        "short_name": "１３１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "問御所町",
-        "short_name": "問御所町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0834",
-        "short_name": "380-0834",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0834 長野県長野市鶴賀問御所町１３１５",
-    "geometry": {
-      "location": {
-        "lat": 36.6522876,
-        "lng": 138.1876551
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6536818802915,
-          "lng": 138.1890021802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0834 長野県長野市１３１５",
+      "geometry": {
+        "location": {
+          "lat": 36.6522876,
+          "lng": 138.1876551
         },
-        "southwest": {
-          "lat": 36.6509839197085,
-          "lng": 138.1863042197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65368272989273,
+            "lng": 138.1890030298927
+          },
+          "southwest": {
+            "lat": 36.65098307010729,
+            "lng": 138.1863033701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs1pgo--GHWAR2JzHbMES1tc",
-    "plus_code": {
-      "compound_code": "M52Q+W3 日本、長野県長野市",
-      "global_code": "8Q8WM52Q+W3"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "やま茶屋",
+      "photos": [
+        {
+          "height": 2832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115757238503871401681\">やま茶屋</a>"
+          ],
+          "photo_reference": "Aap_uEDE7LPGep0qFA48JC_y-NhUJN85qQfKzyPvlk3UfeDDO_iIxlYn7iF2jID-uorXzeIs7HN_6jLhS6LQKQRbIfl4b67v30Q8waWpLVbN5_jbFy457IqwOyeLK8jPdoomtnNPGhOa8X9fNm9WimXV6aUuSjE4I0F7qCBSNDaQD5JwSLjs",
+          "width": 4256
+        }
+      ],
+      "place_id": "ChIJs1pgo--GHWAR2JzHbMES1tc",
+      "plus_code": {
+        "compound_code": "M52Q+W3 長野市、長野県",
+        "global_code": "8Q8WM52Q+W3"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

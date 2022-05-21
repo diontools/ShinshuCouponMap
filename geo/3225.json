@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５２２",
-        "short_name": "５５２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "蓼科",
-        "short_name": "蓼科",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山蓼科５５２２",
-    "geometry": {
-      "location": {
-        "lat": 36.0373164,
-        "lng": 138.2705981
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.03878513029149,
-          "lng": 138.2719691302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山蓼科５５２２",
+      "geometry": {
+        "location": {
+          "lat": 36.0373721,
+          "lng": 138.2706082
         },
-        "southwest": {
-          "lat": 36.03608716970849,
-          "lng": 138.2692711697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03878597989271,
+            "lng": 138.2719699798927
+          },
+          "southwest": {
+            "lat": 36.03608632010727,
+            "lng": 138.2692703201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfzLRQqNPHGARc1coRL3GZnc",
-    "plus_code": {
-      "compound_code": "27PC+W6 長野県茅野市",
-      "global_code": "8Q8W27PC+W6"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "蓼科パークホテル",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106509497430120439804\">Emma Ikawa</a>"
+          ],
+          "photo_reference": "Aap_uEBhokftf5hGVDa4bSVY0XZfQa5wEOF0G5Gazba9jyWwtl0uUtpC-6RX54Uk7vNGbFr8R-wFUNQBoLICc7NXJDozXp1pQIVj1if3jp7PBa6gzH7gDNPZ6zs-VcfIHnXz0eWJAhxNkRdzKm7Er5QeZL7K9jHk8hLseIOmwwYDA47nJiY0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJfzLRQqNPHGARc1coRL3GZnc",
+      "plus_code": {
+        "compound_code": "27PC+W6 茅野市、長野県",
+        "global_code": "8Q8W27PC+W6"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

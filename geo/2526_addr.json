@@ -1,72 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−９６１",
+      "geometry": {
+        "location": {
+          "lat": 36.6911159,
+          "lng": 137.8433099
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.69251727989272,
+            "lng": 137.8446423798927
+          },
+          "southwest": {
+            "lat": 36.68981762010728,
+            "lng": 137.8419427201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ペンギン カフェ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106716809239328422602\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEASBxr0X4uFgQ3uC82p0PRK6Q-BqXfb1U2CorQh3Abb_zhsjR58f7KValHyqGmzvmymmKk9AsHZ7Q89_PAPTAsmYQ-sLiSnMgB9YCqfdjipXDi8Km1TVds5Jy6VVSB9aELzlgKKyCIu-PPAdF2lERgvpvn2CZ8-Bqs-s4obrO1K4CcN",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJb4kg3uLR918RCTxNfolCje4",
+      "plus_code": {
+        "compound_code": "MRRV+C8 白馬村、長野県",
+        "global_code": "8Q8VMRRV+C8"
+      },
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

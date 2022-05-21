@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り３丁目３−１０",
-    "geometry": {
-      "location": {
-        "lat": 36.04892359999999,
-        "lng": 138.114559
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0500983302915,
-          "lng": 138.1161009302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り３丁目３−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.04892359999999,
+          "lng": 138.114559
         },
-        "southwest": {
-          "lat": 36.0474003697085,
-          "lng": 138.1134029697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05009917989272,
+            "lng": 138.1161017798927
+          },
+          "southwest": {
+            "lat": 36.04739952010728,
+            "lng": 138.1134021201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJj0q2D65VHGARNJJS3Jii0tc",
-    "plus_code": {
-      "compound_code": "24X7+HR 長野県諏訪市",
-      "global_code": "8Q8W24X7+HR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "上諏訪温泉 浜の湯",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114184124687091918918\">浜の湯</a>"
+          ],
+          "photo_reference": "Aap_uEA2uXej-QRIYA7i2dhU4AQWX0N0n31nVGmAktNyyRp4QkWpkHWyIm1OvYtbUs_egnLz38pPoHgWJEeJk-r4Bfi98AxsXOuv9c02piThEzuX8dCbBLI5H0FLWRFYdq8pMhCETd9tUT3QKI_Wl-2Jaz7DN8844GAHA1On_pxU4of5p1zl",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJj0q2D65VHGARNJJS3Jii0tc",
+      "plus_code": {
+        "compound_code": "24X7+HR 諏訪市、長野県",
+        "global_code": "8Q8W24X7+HR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

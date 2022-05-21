@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0012",
-        "short_name": "386-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0012 長野県上田市中央２丁目６−１３",
-    "geometry": {
-      "location": {
-        "lat": 36.3996241,
-        "lng": 138.2524251
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.40095798029149,
-          "lng": 138.2538292802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0012 長野県上田市中央２丁目６−１３",
+      "geometry": {
+        "location": {
+          "lat": 36.3996236,
+          "lng": 138.2524302
         },
-        "southwest": {
-          "lat": 36.39826001970849,
-          "lng": 138.2511313197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.40095882989272,
+            "lng": 138.2538301298927
+          },
+          "southwest": {
+            "lat": 36.39825917010728,
+            "lng": 138.2511304701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJrSwZcNm8HWAR1RZubUp-2lM",
-    "plus_code": {
-      "compound_code": "97X2+RX 日本、長野県上田市",
-      "global_code": "8Q8W97X2+RX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "写楽",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107446494956606366117\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECf_jhqY6T4s-GB_xtZnzTndW8N95HtnaJ_QjUzZfOdK3jqRwZIPjdzn5XDN-Dvz5C4wQ0I5DXP9Bdmhh37p97JD1y6XABdBsUGOnvck3_rdyk6NNrssMla9n8PZ0VsL9WF7d4Svh-FV3q48HxPqGsDf1Yvnko32Umk98GutcVBX6To",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJrSwZcNm8HWAR1RZubUp-2lM",
+      "plus_code": {
+        "compound_code": "97X2+RX 上田市、長野県",
+        "global_code": "8Q8W97X2+RX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

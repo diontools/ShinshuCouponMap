@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５６０−５",
-        "short_name": "１５６０−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元大島",
-        "short_name": "元大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3303",
-        "short_name": "399-3303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島１５６０−５",
-    "geometry": {
-      "location": {
-        "lat": 35.5959128,
-        "lng": 137.9172525
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5971948302915,
-          "lng": 137.9187634802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-3303 長野県下伊那郡松川町元大島１５６０−５",
+      "geometry": {
+        "location": {
+          "lat": 35.5959128,
+          "lng": 137.9172525
         },
-        "southwest": {
-          "lat": 35.5944968697085,
-          "lng": 137.9160655197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.59719567989272,
+            "lng": 137.9187643298927
+          },
+          "southwest": {
+            "lat": 35.59449602010727,
+            "lng": 137.9160646701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJxxPyjiGQHGARWGh1ZIEBw0g",
-    "plus_code": {
-      "compound_code": "HWW8+9W 長野県松川町",
-      "global_code": "8Q7VHWW8+9W"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-3303 長野県下伊那郡松川町元大島１５６０−５",
+      "place_id": "ChIJxxPyjiGQHGARWGh1ZIEBw0g",
+      "plus_code": {
+        "compound_code": "HWW8+9W 松川町、長野県",
+        "global_code": "8Q7VHWW8+9W"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

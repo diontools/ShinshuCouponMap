@@ -1,100 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９９９４−５",
-        "short_name": "９９９４−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "富里",
-        "short_name": "富里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "落合",
-        "short_name": "落合",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0214",
-        "short_name": "399-0214",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0214 長野県諏訪郡富士見町落合富里９９９４−５",
-    "geometry": {
-      "location": {
-        "lat": 35.9108597,
-        "lng": 138.2419359
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9121487302915,
-          "lng": 138.2433061802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0214 長野県諏訪郡富士見町落合富里９９９４−５",
+      "geometry": {
+        "location": {
+          "lat": 35.9108279,
+          "lng": 138.2419942
         },
-        "southwest": {
-          "lat": 35.9094507697085,
-          "lng": 138.2406082197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.91214957989272,
+            "lng": 138.2433070298927
+          },
+          "southwest": {
+            "lat": 35.90944992010728,
+            "lng": 138.2406073701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3SsSrDVDHGARAjlHDSEJQIY",
-    "plus_code": {
-      "compound_code": "W66R+8Q 長野県富士見町",
-      "global_code": "8Q7WW66R+8Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "スシ＆ビストロダイニング京平",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114240546164968979046\">木船勝志</a>"
+          ],
+          "photo_reference": "Aap_uEAN4Jkpn5PlOvFISsf29ht7MacuEcwwjfMGOfVpR8e2yPhcrY9Biv1ZVZ-IbJ8Xx6jgQcFMcnrELunuqhACfZAhNADggz9vcnCSDyIpc2clDSqlBOk3r6By5oi3Did5EwMtinYsETChPafJiHH-tA9LkNDUEfp42fY4j29C728QvgX0",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ3SsSrDVDHGARAjlHDSEJQIY",
+      "plus_code": {
+        "compound_code": "W66R+8Q 富士見町、長野県",
+        "global_code": "8Q7WW66R+8Q"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

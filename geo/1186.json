@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "相生町",
-        "short_name": "相生町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0025",
-        "short_name": "384-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0025 長野県小諸市相生町１丁目２−９",
-    "geometry": {
-      "location": {
-        "lat": 36.327394,
-        "lng": 138.422689
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.32868903029149,
-          "lng": 138.4240699302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0025 長野県小諸市相生町１丁目２−９",
+      "geometry": {
+        "location": {
+          "lat": 36.3273645,
+          "lng": 138.4227074
         },
-        "southwest": {
-          "lat": 36.32599106970849,
-          "lng": 138.4213719697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32868987989272,
+            "lng": 138.4240707798928
+          },
+          "southwest": {
+            "lat": 36.32599022010728,
+            "lng": 138.4213711201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2agsorbJHWARQXFJpnPfIEw",
-    "plus_code": {
-      "compound_code": "8CGF+X3 日本、長野県小諸市",
-      "global_code": "8Q8W8CGF+X3"
-    },
-    "types": [
-      "art_gallery",
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ギャラリーまきの",
+      "photos": [
+        {
+          "height": 1871,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112561038071426748453\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECf0vbDoCSCVI82ud43lR9PSOESVS5nf1H9QMLGK8NwJOx3jI36OUaP0lGDL5H6GC37DoLhUYtnjsRg6cs99PhKJsB_yTUGKmFC1cudJdKed0vIZEfHU53Cuad4HiZOMJ9fi9XHg4lwl_vwpQsEXxOSZtH4m2TQHUd7GAZWwR3NAbO1",
+          "width": 2389
+        }
+      ],
+      "place_id": "ChIJ2agsorbJHWARQXFJpnPfIEw",
+      "plus_code": {
+        "compound_code": "8CGF+X3 小諸市、長野県",
+        "global_code": "8Q8W8CGF+X3"
+      },
+      "types": [
+        "art_gallery",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

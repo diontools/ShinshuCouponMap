@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５０３−１",
-        "short_name": "１５０３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂１５０３−１",
-    "geometry": {
-      "location": {
-        "lat": 35.7410035,
-        "lng": 137.9290442
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7423453802915,
-          "lng": 137.9303011302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂１５０３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.7410035,
+          "lng": 137.9290442
         },
-        "southwest": {
-          "lat": 35.7396474197085,
-          "lng": 137.9276031697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74234622989272,
+            "lng": 137.9303019798927
+          },
+          "southwest": {
+            "lat": 35.73964657010728,
+            "lng": 137.9276023201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ1QvFqKPyHGAR1zvcL9AquLY",
-    "plus_code": {
-      "compound_code": "PWRH+CJ 長野県駒ヶ根市",
-      "global_code": "8Q7VPWRH+CJ"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-4117 長野県駒ヶ根市赤穂１５０３−１",
+      "place_id": "ChIJ1QvFqKPyHGAR1zvcL9AquLY",
+      "plus_code": {
+        "compound_code": "PWRH+CJ 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWRH+CJ"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

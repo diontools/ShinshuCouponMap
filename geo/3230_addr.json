@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５２２−２８０",
-        "short_name": "５５２２−２８０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "蓼科",
-        "short_name": "蓼科",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山蓼科５５２２−２８０",
-    "geometry": {
-      "location": {
-        "lat": 36.036837,
-        "lng": 138.267268
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0380539302915,
-          "lng": 138.2686082302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山蓼科５５２２−２８０",
+      "geometry": {
+        "location": {
+          "lat": 36.036837,
+          "lng": 138.267268
         },
-        "southwest": {
-          "lat": 36.0353559697085,
-          "lng": 138.2659102697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03805477989272,
+            "lng": 138.2686090798927
+          },
+          "southwest": {
+            "lat": 36.03535512010728,
+            "lng": 138.2659094201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ--TnfLtPHGAReJr8vihv_YM",
-    "plus_code": {
-      "compound_code": "27P8+PW 長野県茅野市",
-      "global_code": "8Q8W27P8+PW"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "蓼科中央高原観光協会",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105653512145058898639\">S H</a>"
+          ],
+          "photo_reference": "Aap_uEBuKQy-Wk9Xm94-eESXVUec05Zs9JBmdGshW4NxlaXWxveAtQcStpVAtrajSKV2EO8-rEhBNLWSOW6THxhZoy70zBhQIcoUA5U1lX_ee_TWqpVzHVrg2yMNArl3Zu-tV5vXs7GHj_olAGIysQqKLvcaxD9-3EvzQPw0t4hw1BmQNzs",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ--TnfLtPHGAReJr8vihv_YM",
+      "plus_code": {
+        "compound_code": "27P8+PW 茅野市、長野県",
+        "global_code": "8Q8W27P8+PW"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

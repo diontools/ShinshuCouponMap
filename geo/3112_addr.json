@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６１２８−２",
-        "short_name": "６１２８−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "玉川",
-        "short_name": "玉川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0011",
-        "short_name": "391-0011",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0011 長野県茅野市玉川６１２８−２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9820238,
-          "lng": 138.1972212
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0011 長野県茅野市玉川６１２８−２",
+      "geometry": {
+        "location": {
+          "lat": 35.9817547,
+          "lng": 138.1971118
         },
-        "southwest": {
-          "lat": 35.98152779999999,
-          "lng": 138.1970146
+        "viewport": {
+          "northeast": {
+            "lat": 35.98324572989272,
+            "lng": 138.1984687298927
+          },
+          "southwest": {
+            "lat": 35.98054607010728,
+            "lng": 138.1957690701072
+          }
         }
       },
-      "location": {
-        "lat": 35.9817547,
-        "lng": 138.1971118
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9831314302915,
-          "lng": 138.1984668802915
-        },
-        "southwest": {
-          "lat": 35.9804334697085,
-          "lng": 138.1957689197085
-        }
-      }
-    },
-    "place_id": "ChIJcRc8Vn5aHGARU9UlhcBoWK4",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0011 長野県茅野市玉川６１２８−２",
+      "place_id": "ChIJcRc8Vn5aHGARU9UlhcBoWK4",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

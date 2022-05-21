@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９２７４−２",
-        "short_name": "９２７４−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９２７４−２",
-    "geometry": {
-      "location": {
-        "lat": 36.9237021,
-        "lng": 138.4465517
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9250331802915,
-          "lng": 138.4479578802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９２７４−２",
+      "geometry": {
+        "location": {
+          "lat": 36.9237021,
+          "lng": 138.4465517
         },
-        "southwest": {
-          "lat": 36.9223352197085,
-          "lng": 138.4452599197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92503402989272,
+            "lng": 138.4479587298927
+          },
+          "southwest": {
+            "lat": 36.92233437010728,
+            "lng": 138.4452590701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjdXPmy4F9l8RM35na9xZSt0",
-    "plus_code": {
-      "compound_code": "WCFW+FJ 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCFW+FJ"
-    },
-    "types": [
-      "establishment",
-      "home_goods_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "三久工芸",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111241409353373052759\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECCIqkd36OgLwSBQf1Wy55S0Yfh3BXra0KHO9Z6B1bT6jluT6-pgu8RuahXlOAzpEaCIgtDRQIIMBhvXCTr_C1Q9O8mbAYRP8LG1ikACFqIdquYxmSKS8Zf3tA9z7FB0wZCk16LfHPwIGs9MNmedTCSMzz2N4Cdb1aJ0Rzp-RugaELO",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJjdXPmy4F9l8RM35na9xZSt0",
+      "plus_code": {
+        "compound_code": "WCFW+FJ 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFW+FJ"
+      },
+      "types": [
+        "home_goods_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

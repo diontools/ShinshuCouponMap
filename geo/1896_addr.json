@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "宗賀",
-        "short_name": "宗賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6461",
-        "short_name": "399-6461",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6461 長野県塩尻市宗賀",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1195952,
-          "lng": 137.9567697
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-6461 長野県塩尻市宗賀",
+      "geometry": {
+        "location": {
+          "lat": 36.1081021,
+          "lng": 137.9459416
         },
-        "southwest": {
-          "lat": 36.0244947,
-          "lng": 137.8693694
+        "viewport": {
+          "northeast": {
+            "lat": 36.1195952,
+            "lng": 137.9567697
+          },
+          "southwest": {
+            "lat": 36.0244947,
+            "lng": 137.8693694
+          }
         }
       },
-      "location": {
-        "lat": 36.1081021,
-        "lng": 137.9459416
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1195952,
-          "lng": 137.9567697
-        },
-        "southwest": {
-          "lat": 36.0244947,
-          "lng": 137.8693694
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "宗賀",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110097711212087508147\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDZh4tqN0v-lQQ2Qdl-PKo8yoxzmVXkGNYxnyeWC2iYnnrxfd4MLOj7G8s2U178byYE3xvIGx0AZnb7W6E9t75xVonw31CQmV6qKoArBbyp356lqwMycAkxq-KZFTVuLE8iAXrvbikHREFrDofoa3niXzyTXA9W5yqHbXlQG6UJI3MA",
+          "width": 2160
         }
-      }
-    },
-    "place_id": "ChIJ-WGvn68cHWARUmbwJ32VCrw",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ-WGvn68cHWARUmbwJ32VCrw",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

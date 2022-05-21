@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３３０６",
-        "short_name": "３３０６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "日の出町",
-        "short_name": "日の出町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町日の出町３３０６−１４",
-    "geometry": {
-      "location": {
-        "lat": 36.5025736,
-        "lng": 137.8610657
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5039063802915,
-          "lng": 137.8623357802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0002 長野県大町市大町日の出町３３０６−１４",
+      "geometry": {
+        "location": {
+          "lat": 36.50255610000001,
+          "lng": 137.8609767
         },
-        "southwest": {
-          "lat": 36.5012084197085,
-          "lng": 137.8596378197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.50390722989272,
+            "lng": 137.8623366298928
+          },
+          "southwest": {
+            "lat": 36.50120757010728,
+            "lng": 137.8596369701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJe2rIkupjHWAR3L228fbnH_A",
-    "plus_code": {
-      "compound_code": "GV36+2C 日本、長野県大町市",
-      "global_code": "8Q8VGV36+2C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "こまつうどん店",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108192313447981202850\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECDDkf6NBWu85LUxVew3awKjDZSV7RrXVCASw04rZZPxLWCxxxHwBUaFbU92AblSBLHRAXwDIfWeY8ua0HfqlhNZmbnaZNq1xH1cJLBSlUNirA_ZEsU83RoSWTb9pzrQSMxY-q6MsH8OcfsHKtIuV3tJTav2RTxjYeW8E6AMF8r4V8N",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJe2rIkupjHWAR3L228fbnH_A",
+      "plus_code": {
+        "compound_code": "GV36+2C 大町市、長野県",
+        "global_code": "8Q8VGV36+2C"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４６",
-        "short_name": "２４６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢東",
-        "short_name": "軽井沢東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0104",
-        "short_name": "389-0104",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東２４６",
-    "geometry": {
-      "location": {
-        "lat": 36.3442533,
-        "lng": 138.6306807
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3456772802915,
-          "lng": 138.6320570802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0104 長野県北佐久郡軽井沢町軽井沢東２４６",
+      "geometry": {
+        "location": {
+          "lat": 36.3442533,
+          "lng": 138.6306807
         },
-        "southwest": {
-          "lat": 36.3429793197085,
-          "lng": 138.6293591197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34567812989272,
+            "lng": 138.6320579298927
+          },
+          "southwest": {
+            "lat": 36.34297847010728,
+            "lng": 138.6293582701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEdo7XHzTHWARWhYwqLB-t_s",
-    "plus_code": {
-      "compound_code": "8JVJ+P7 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JVJ+P7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "軽井沢レンタサイクル KARUIZAWA RideTown.",
+      "photos": [
+        {
+          "height": 685,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100942820412410516867\">KARUIZAWA RideTown.</a>"
+          ],
+          "photo_reference": "Aap_uED2FVEOlxS-nWQ8DN9csS9ygE4pf3Okxd-hyemGLzxfEPY1PmEX16khFJLUmR594rKCpZ-HJkEhLRMFKGUk3bM71ENgznDayJAQ11tnXEaQa5g6RmW7dDTqvm55S4wrHEkyZ6aV0CSRtaTZX8PvQxndfYRRkPNTCF1hVDG5JH3LrhMr",
+          "width": 1220
+        }
+      ],
+      "place_id": "ChIJEdo7XHzTHWARWhYwqLB-t_s",
+      "plus_code": {
+        "compound_code": "8JVJ+P7 軽井沢町、長野県",
+        "global_code": "8Q8W8JVJ+P7"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

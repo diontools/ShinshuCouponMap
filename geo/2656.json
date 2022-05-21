@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５４８−２",
-        "short_name": "２５４８−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城２５４８−２",
-    "geometry": {
-      "location": {
-        "lat": 36.692011,
-        "lng": 137.8493682
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69344273029149,
-          "lng": 137.8508499802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城２５４８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.692011,
+          "lng": 137.8493682
         },
-        "southwest": {
-          "lat": 36.6907447697085,
-          "lng": 137.8481520197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69344357989273,
+            "lng": 137.8508508298927
+          },
+          "southwest": {
+            "lat": 36.69074392010728,
+            "lng": 137.8481511701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJvTHzZfzR918RrX6CN2ulWgs",
-    "plus_code": {
-      "compound_code": "MRRX+RP 長野県白馬村",
-      "global_code": "8Q8VMRRX+RP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "白馬SWEETS工房Ricca",
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113955735667905762513\">ぽこにゃん</a>"
+          ],
+          "photo_reference": "Aap_uEB-7vxlcF0ZcVGxBgL4TWJLJ92SMEHCTZGGjfZlfQr9gX-DDF_9BtgvrAGJQyeYSDoy-fmT-SCDeA_IHk99JUGpLF4qeeZhVLZ5JBN0DeLI9owQlit1smiP-vW93hCA2ArO23gvC4h_wnS04ES8MyfO2BbqMJPEWeKiK8wtI_vTBAJT",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJvTHzZfzR918RrX6CN2ulWgs",
+      "plus_code": {
+        "compound_code": "MRRX+RP 白馬村、長野県",
+        "global_code": "8Q8VMRRX+RP"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

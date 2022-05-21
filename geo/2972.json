@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本町",
-        "short_name": "本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0028",
-        "short_name": "394-0028",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0028 長野県岡谷市本町４丁目１０−４",
-    "geometry": {
-      "location": {
-        "lat": 36.064623,
-        "lng": 138.047759
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.06602978029149,
-          "lng": 138.0490505302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0028 長野県岡谷市本町４丁目１０−４",
+      "geometry": {
+        "location": {
+          "lat": 36.064623,
+          "lng": 138.047759
         },
-        "southwest": {
-          "lat": 36.0633318197085,
-          "lng": 138.0463525697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06603062989272,
+            "lng": 138.0490513798927
+          },
+          "southwest": {
+            "lat": 36.06333097010727,
+            "lng": 138.0463517201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ1bYVKtb_HGARurWb3dSV42o",
-    "plus_code": {
-      "compound_code": "327X+R4 長野県岡谷市",
-      "global_code": "8Q8W327X+R4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "つつじ亭",
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113465325564004811129\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAzpCeFXMdG8l-dzpNRE-azSEvSq1oamQyCChtIXf24rF72FdVDskqcQLSqJ0dQwKkrQciT67rh-njFlA9Zo178qdpYnyz0yFzKufId_d6JGw5YZwCU2qO6XskSICDuZ4_RgmeJaOeC7LwRyva7avSuAwYeBvLweUV-igwigYhph-YP",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJ1bYVKtb_HGARurWb3dSV42o",
+      "plus_code": {
+        "compound_code": "327X+R4 岡谷市、長野県",
+        "global_code": "8Q8W327X+R4"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

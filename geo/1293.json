@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２７８−２７８５",
-        "short_name": "１２７８−２７８５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２７８−２７８５",
-    "geometry": {
-      "location": {
-        "lat": 36.531883,
-        "lng": 138.357105
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5331533302915,
-          "lng": 138.3585022302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２７８−２７８５",
+      "geometry": {
+        "location": {
+          "lat": 36.531883,
+          "lng": 138.357105
         },
-        "southwest": {
-          "lat": 36.5304553697085,
-          "lng": 138.3558042697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53315417989272,
+            "lng": 138.3585030798927
+          },
+          "southwest": {
+            "lat": 36.53045452010728,
+            "lng": 138.3558034201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpaSi71iUHWARdCVRWvqnbbM",
-    "plus_code": {
-      "compound_code": "G9J4+QR 日本、長野県上田市",
-      "global_code": "8Q8WG9J4+QR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション 紙ヒコーキ",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107298686979091230642\">大久保幸枝</a>"
+          ],
+          "photo_reference": "Aap_uEDIf4iA3XD9JhKuAvDN3MQ_l7mf-JeQkc24pLUsyxPWPXf4TBKy-2Bd6qhWq5mon2T46NfJhMKKEhNEaFkk0SUfSKQy-sUSVG9UyuNjCuRipOYTlL-RX80LFICNzXUIN4H52tjkH-mZJ8bksTNd_5yVjjlFrc0FXHjq6aq1tP_MIK4g",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJpaSi71iUHWARdCVRWvqnbbM",
+      "plus_code": {
+        "compound_code": "G9J4+QR 上田市、長野県",
+        "global_code": "8Q8WG9J4+QR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

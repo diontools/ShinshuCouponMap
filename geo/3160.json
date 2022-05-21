@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１２−１２１",
-        "short_name": "３４１２−１２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１２−１２１",
-    "geometry": {
-      "location": {
-        "lat": 36.0936101,
-        "lng": 138.2042786
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0949087802915,
-          "lng": 138.2057045802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１２−１２１",
+      "geometry": {
+        "location": {
+          "lat": 36.0936121,
+          "lng": 138.2042766
         },
-        "southwest": {
-          "lat": 36.0922108197085,
-          "lng": 138.2030066197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.09490962989272,
+            "lng": 138.2057054298927
+          },
+          "southwest": {
+            "lat": 36.09220997010728,
+            "lng": 138.2030057701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ71PQ0FVSHGAR64v44g0VPBA",
-    "plus_code": {
-      "compound_code": "36V3+CP 長野県茅野市",
-      "global_code": "8Q8W36V3+CP"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "シャンブルドート ピステ",
+      "photos": [
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108580530983808598402\">gummy lakritz</a>"
+          ],
+          "photo_reference": "Aap_uEBwMjBNNalnoSS_CvlN6Vys4_BOIt4Z3nOmCSXUcJlrt_qMlAecQObe-rS8H7p2d-JFFvUZ9iNnbJ1O5mGvUOjye5LViNLgnSXjg_xh5PdZgTaPNQF0Rs24J4VSzDTRyPV79owMeUAGLv7W7Z333qaMCSHzVTxCn-xJVnKMhO2-Hjcf",
+          "width": 4656
+        }
+      ],
+      "place_id": "ChIJ71PQ0FVSHGAR64v44g0VPBA",
+      "plus_code": {
+        "compound_code": "36V3+CP 茅野市、長野県",
+        "global_code": "8Q8W36V3+CP"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

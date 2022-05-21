@@ -1,84 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６−２",
-        "short_name": "６−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "里島",
-        "short_name": "里島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2223",
-        "short_name": "381-2223",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2223 長野県長野市里島６−２",
-    "geometry": {
-      "location": {
-        "lat": 36.58157,
-        "lng": 138.152519
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5830022802915,
-          "lng": 138.1538649302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-2223 長野県長野市里島６−２",
+      "geometry": {
+        "location": {
+          "lat": 36.5815512,
+          "lng": 138.1525191
         },
-        "southwest": {
-          "lat": 36.5803043197085,
-          "lng": 138.1511669697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.58300312989272,
+            "lng": 138.1538657798928
+          },
+          "southwest": {
+            "lat": 36.58030347010728,
+            "lng": 138.1511661201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "りんごの木篠ノ井店",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112960361144443772058\">Yohei Owa</a>"
+          ],
+          "photo_reference": "Aap_uEDGj6Fw6umQ2r67rq816qotDWzCyHCmgjFPE0WNbLOZLk95LGIjlgQpXiFPzcpeLXWnwCpv_agM-02ISaZl_0OVbOOwE5oiPGRzz1-65N5x-5P0Siy0Y-2_7j1CVnyTfmPxAw46rN8G-hQtiQcdWgiuOS8uSu-OoY11U5ic75wtAan7",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJKcWEYISDHWARLFnGoksAH_o",
+      "plus_code": {
+        "compound_code": "H5J3+J2 長野市、長野県",
+        "global_code": "8Q8WH5J3+J2"
+      },
+      "types": [
+        "bakery",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJKcWEYISDHWARLFnGoksAH_o",
-    "plus_code": {
-      "compound_code": "H5J3+J2 日本、長野県長野市",
-      "global_code": "8Q8WH5J3+J2"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒388-8007 長野県長野市篠ノ井布施高田１４１３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.576909,
+          "lng": 138.138496
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.57820777989272,
+            "lng": 138.1398730298927
+          },
+          "southwest": {
+            "lat": 36.57550812010728,
+            "lng": 138.1371733701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "美容室りんごの木篠ノ井駅前店",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102525559635444619154\">Takeshi Sugita</a>"
+          ],
+          "photo_reference": "Aap_uEDoXlHTPNeAQ6EZGU961nL_Pa3RS2r5xp5ORTkghZ5DzFN1Aldk4OX06QXydGUPP1MIH3tksCw9UYveusWobqysve841tvQvDDK5PHjZb8Lsnpwh_6gC5uYJPq5hW_IiLUKkZdrW5X799BRpcUYaQNYKfSD2yxjVNMqhNziGRG2w6ON",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJge5g9KKDHWARBvl7XVCwMNQ",
+      "plus_code": {
+        "compound_code": "H4GQ+Q9 長野市、長野県",
+        "global_code": "8Q8WH4GQ+Q9"
+      },
+      "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

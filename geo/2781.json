@@ -1,109 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１２２３",
-        "short_name": "１２２３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "吾妻橋場",
-        "short_name": "吾妻橋場",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻橋場１２２３−１",
-    "geometry": {
-      "location": {
-        "lat": 35.5708484,
-        "lng": 137.5926688
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5721754302915,
-          "lng": 137.5939894302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻橋場１２２３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.57082510000001,
+          "lng": 137.5926426
         },
-        "southwest": {
-          "lat": 35.5694774697085,
-          "lng": 137.5912914697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.57217627989272,
+            "lng": 137.5939902798928
+          },
+          "southwest": {
+            "lat": 35.56947662010727,
+            "lng": 137.5912906201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJg0vDP--3HGARrm7M34dez_Q",
-    "plus_code": {
-      "compound_code": "HHCV+83 長野県南木曽町",
-      "global_code": "8Q7VHHCV+83"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "御食事処 音吉",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110412405909648332797\">土屋祐子</a>"
+          ],
+          "photo_reference": "Aap_uEA8heSXUB6-l1relwrmg7V42kcgESFc34m3yQLx1pLWO-cmBHnpnrTjgzWQCinXSF4m6pRFw7g5hTelbDuZMZpNycIL4qim9arWYBVWwfyj7WtUFQ6BlG_om9v4TToBkADlk0c25NklumIjl0XlgBaOEM-XY4iGPa31wndOAMUmAKyo",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJg0vDP--3HGARrm7M34dez_Q",
+      "plus_code": {
+        "compound_code": "HHCV+83 南木曽町、長野県",
+        "global_code": "8Q7VHHCV+83"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

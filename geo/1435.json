@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８４１",
-        "short_name": "１８４１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "御所平",
-        "short_name": "御所平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "川上村",
-        "short_name": "川上村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1407",
-        "short_name": "384-1407",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1407 長野県南佐久郡川上村御所平１８４１",
-    "geometry": {
-      "location": {
-        "lat": 35.930251,
-        "lng": 138.4954511
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9341101,
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1407 長野県南佐久郡川上村御所平１８４１",
+      "geometry": {
+        "location": {
+          "lat": 35.930251,
           "lng": 138.4954511
         },
-        "southwest": {
-          "lat": 35.930251,
-          "lng": 138.4898435
+        "viewport": {
+          "northeast": {
+            "lat": 35.93603965,
+            "lng": 138.4982549
+          },
+          "southwest": {
+            "lat": 35.92832145000001,
+            "lng": 138.4870397
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8X43j2EWHGAR3qbTQB25AQY",
-    "plus_code": {
-      "compound_code": "WFJW+45 日本、長野県川上村",
-      "global_code": "8Q7WWFJW+45"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "シャトレーゼスキーリゾート八ヶ岳",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115027500141812269807\">kay Z</a>"
+          ],
+          "photo_reference": "Aap_uEC95ma3btpwwvi0dziTDXDY3nt27v2a5l2RTR7Ai93cpLqdyzC8cGbRrF9wBwB-YOt7ktnJSIcnjsvJLDTlKjSC73vqzpN-i66PmRGVT4WKg2jnQlHOBvJuVch2Zn3lADIxpG6KCpKEoz17nRWQKMnCrJqNCURj2CLsCX1nk1c0hZZl",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ8X43j2EWHGAR3qbTQB25AQY",
+      "plus_code": {
+        "compound_code": "WFJW+45 川上村、長野県",
+        "global_code": "8Q7WWFJW+45"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

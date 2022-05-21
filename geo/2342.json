@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本庄",
-        "short_name": "本庄",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0814",
-        "short_name": "390-0814",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0814 長野県松本市本庄１丁目２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2276671,
-        "lng": 137.9680739
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2290111802915,
-          "lng": 137.9691355802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0814 長野県松本市本庄１丁目２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2276624,
+          "lng": 137.9677542
         },
-        "southwest": {
-          "lat": 36.2263132197085,
-          "lng": 137.9664376197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.22901202989271,
+            "lng": 137.9691364298927
+          },
+          "southwest": {
+            "lat": 36.22631237010727,
+            "lng": 137.9664367701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZ3FNMPMOHWARkDgxLjAEseQ",
-    "plus_code": {
-      "compound_code": "6XH9+36 日本、長野県松本市",
-      "global_code": "8Q8V6XH9+36"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "料亭 深志楼",
+      "photos": [
+        {
+          "height": 2120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103168577232521654230\">日本料理料亭 深志楼</a>"
+          ],
+          "photo_reference": "Aap_uED87d153thWnQjNqsHpJfZzOPoK5AktcwwGXPLU58suvPc-g5Gasm8oky1ZkKaG4F_OAXOKdex56bMwDBI6Nw-CiNqUGZKfnlNLdE2uSH43kP1R8xdnhGRBsMyIjV3G8P9Wajhi-c-4rJ5kv1BTyQSAU8BEK29B7-IGtECe8gTAYZHo",
+          "width": 3184
+        }
+      ],
+      "place_id": "ChIJZ3FNMPMOHWARkDgxLjAEseQ",
+      "plus_code": {
+        "compound_code": "6XH9+36 松本市、長野県",
+        "global_code": "8Q8V6XH9+36"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

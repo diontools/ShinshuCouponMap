@@ -1,94 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２０１−４４",
-        "short_name": "１２０１−４４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "高島",
-        "short_name": "高島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0022",
-        "short_name": "392-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0022 長野県諏訪市高島２丁目１２０１−４４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0420021,
-          "lng": 138.1052134
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0022 長野県諏訪市高島２丁目１２０１−４４",
+      "geometry": {
+        "location": {
+          "lat": 36.0417967,
+          "lng": 138.1051271
         },
-        "southwest": {
-          "lat": 36.0415669,
-          "lng": 138.1046637
+        "viewport": {
+          "northeast": {
+            "lat": 36.04311342989272,
+            "lng": 138.1063632298927
+          },
+          "southwest": {
+            "lat": 36.04041377010727,
+            "lng": 138.1036635701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0417967,
-        "lng": 138.1051271
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04313348029149,
-          "lng": 138.1062875302915
-        },
-        "southwest": {
-          "lat": 36.0404355197085,
-          "lng": 138.1035895697085
-        }
-      }
-    },
-    "place_id": "ChIJ6e9Gh7xVHGAR6SwbGYqLSSA",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0022 長野県諏訪市高島２丁目１２０１−４４",
+      "place_id": "ChIJ6e9Gh7xVHGAR6SwbGYqLSSA",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

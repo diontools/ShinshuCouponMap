@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "7 番地",
-        "short_name": "7 番地",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0000",
-        "short_name": "382-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0000 長野県須坂市仁礼7 番地",
-    "geometry": {
-      "location": {
-        "lat": 36.615865,
-        "lng": 138.336901
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6170440802915,
-          "lng": 138.3380319802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0000 長野県須坂市仁礼7 番地",
+      "geometry": {
+        "location": {
+          "lat": 36.615865,
+          "lng": 138.336901
         },
-        "southwest": {
-          "lat": 36.6143461197085,
-          "lng": 138.3353340197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.61704492989273,
+            "lng": 138.3380328298927
+          },
+          "southwest": {
+            "lat": 36.61434527010728,
+            "lng": 138.3353331701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJixWnEguSHWARv1lF1-RnOrg",
-    "plus_code": {
-      "compound_code": "J88P+8Q 日本、長野県須坂市",
-      "global_code": "8Q8WJ88P+8Q"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "spa",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "信州須坂･関谷温泉 湯っ蔵んど",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104546847413188376563\">塚田脩斗</a>"
+          ],
+          "photo_reference": "Aap_uECjN2pxeryvLAoKlZm2SilINKmN5ozQ96PkqHyza-lJtHOiI25zDaBlXZUgBOkBHPjcP5EQu-boTiNQxQw5NToPVIpxFOm9-ivklYQF3uSB-iCGaqPUctVLzw1YFcUtdDkSy6qW7Im2ig7-GkzZDHicqM4dp5mac4vD-OOjFwUIcr3r",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJixWnEguSHWARv1lF1-RnOrg",
+      "plus_code": {
+        "compound_code": "J88P+8Q 須坂市、長野県",
+        "global_code": "8Q8WJ88P+8Q"
+      },
+      "types": [
+        "tourist_attraction",
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

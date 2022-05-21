@@ -1,99 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "寛益ビル",
-        "short_name": "寛益ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４６４−３",
-        "short_name": "１４６４−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "新田町",
-        "short_name": "新田町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0835",
-        "short_name": "380-0835",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0835 長野県長野市南長野新田町１４６４−３ 寛益ビル しまんりょビル2F",
-    "geometry": {
-      "location": {
-        "lat": 36.6478449,
-        "lng": 138.1875762
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6492093802915,
-          "lng": 138.1889663302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0835 長野県長野市新田町１４６４−３ しまんりょビル2F 寛益ビル",
+      "geometry": {
+        "location": {
+          "lat": 36.6478449,
+          "lng": 138.1875762
         },
-        "southwest": {
-          "lat": 36.6465114197085,
-          "lng": 138.1862683697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64921022989272,
+            "lng": 138.1889671798927
+          },
+          "southwest": {
+            "lat": 36.64651057010727,
+            "lng": 138.1862675201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc1ImG1iHHWARSqkWK7Ru-GM",
-    "plus_code": {
-      "compound_code": "J5XQ+42 日本、長野県長野市",
-      "global_code": "8Q8WJ5XQ+42"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "肉おでん・肉寿司 肉庵（にくあん）",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104684988952598025048\">Shinobu Tago</a>"
+          ],
+          "photo_reference": "Aap_uEA-S0Y52uJHw7G1qtyZgNXi921eqN-fAyW_uJGtaAM1b0f1QKbPzvsGSJBZDMDbTXvUrdVEmxBiSY8INCWXLCGfRqHndovZzH21Dq8Mmxzv_UKJcANLyYvJ813wURUefTJ8rce6LlGZopkfNeUO58hh8dUqUV_H14rfABbzEImABFf0",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJc1ImG1iHHWARSqkWK7Ru-GM",
+      "plus_code": {
+        "compound_code": "J5XQ+42 長野市、長野県",
+        "global_code": "8Q8WJ5XQ+42"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−６８２",
+      "geometry": {
+        "location": {
+          "lat": 36.69107,
+          "lng": 137.84427
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.69241972989272,
+            "lng": 137.8456193798927
+          },
+          "southwest": {
+            "lat": 36.68972007010728,
+            "lng": 137.8429197201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "dining bar Tomatito",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106619926571464977098\">Shusei Toda</a>"
+          ],
+          "photo_reference": "Aap_uEC8gkJWq2Ji7iQY_X6PqwiqxuKlATpbB-zxSHfdSa4t-UUh5ZhquuBdQF8Di-vHOH9oyriQ90r9h-Epnjeu5isoCCSvsKEGYFYmlsZecqQ1kRajeOJQ-kk6ZIN5KimLUi4hOBoGGzjcrH4BgMLp7lyjYrKuNtlvIoa_vXY-EsY4iZDt",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ_VIvQv3R918RL-5xLCO9yHs",
+      "plus_code": {
+        "compound_code": "MRRV+CJ 白馬村、長野県",
+        "global_code": "8Q8VMRRV+CJ"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

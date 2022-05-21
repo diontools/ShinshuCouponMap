@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "御代田町",
-        "short_name": "御代田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡御代田町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4138973,
-          "lng": 138.5798592
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0207 長野県北佐久郡御代田町馬瀬口１５８１−３３",
+      "geometry": {
+        "location": {
+          "lat": 36.3393945,
+          "lng": 138.5227672
         },
-        "southwest": {
-          "lat": 36.279532,
-          "lng": 138.4576675
+        "viewport": {
+          "northeast": {
+            "lat": 36.34071817989272,
+            "lng": 138.5241486798927
+          },
+          "southwest": {
+            "lat": 36.33801852010728,
+            "lng": 138.5214490201073
+          }
         }
       },
-      "location": {
-        "lat": 36.3212828,
-        "lng": 138.508717
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4138973,
-          "lng": 138.5798592
-        },
-        "southwest": {
-          "lat": 36.279532,
-          "lng": 138.4576675
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Dogrun Cafe ＆American Diner Jennie",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103845114446154644134\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC1dBnKPmSlrLKngdF5kYMBxCg-YBjgRVy8cFWKh2-8mFe15O0Zt4MPVyKDg97UDXvXU27094zG-ZCXYEdeWAtkV_TT2kuB52XFCl52PJArEFRa9EtcqimC3oRnzQsdgefHvDOxH3vLreM98SfYWh8kKNNgnES4eZgwYZc6dE7zoZjr",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJF0-EoGLOHWARXGLjCIjA0EE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJVVVJQX_OHWARKt3OF3ZXJ2M",
+      "plus_code": {
+        "compound_code": "8GQF+Q4 御代田町、長野県",
+        "global_code": "8Q8W8GQF+Q4"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

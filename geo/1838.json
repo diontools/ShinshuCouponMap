@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明 中房国有林内 大天井岳",
-    "geometry": {
-      "location": {
-        "lat": 36.3637788,
-        "lng": 137.7029661
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3651277802915,
-          "lng": 137.7043150802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明 中房国有林内 大天井岳",
+      "geometry": {
+        "location": {
+          "lat": 36.3637788,
+          "lng": 137.7029661
         },
-        "southwest": {
-          "lat": 36.3624298197085,
-          "lng": 137.7016171197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36512862989273,
+            "lng": 137.7043159298927
+          },
+          "southwest": {
+            "lat": 36.36242897010729,
+            "lng": 137.7016162701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ1-gj38ZuHWARVibc5u1lyws",
-    "plus_code": {
-      "compound_code": "9P73+G5 日本、長野県安曇野市",
-      "global_code": "8Q8V9P73+G5"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "大天荘",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109387029774614406010\">泰地達也</a>"
+          ],
+          "photo_reference": "Aap_uEDZKdchz3bbhawBm4wc31HVbGaKZnMJA5A5S5NkH2ZGKhGmMGppY_ZzDva4FjnR6or2tI-4m_TlN2SfrozmbA_9zZVN_DuR8V_yJJNPjtPZWOslhGWueXMnnZoLH86XBYaAbS2iGaGIBv_3_vnQXyfIZknPh8K7Yt27ST8oSCL5NfGC",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ1-gj38ZuHWARVibc5u1lyws",
+      "plus_code": {
+        "compound_code": "9P73+G5 安曇野市、長野県",
+        "global_code": "8Q8V9P73+G5"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

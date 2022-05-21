@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.5994563,
-          "lng": 137.7204942
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻",
+      "geometry": {
+        "location": {
+          "lat": 35.5366004,
+          "lng": 137.6356755
         },
-        "southwest": {
-          "lat": 35.5087583,
-          "lng": 137.5640958
+        "viewport": {
+          "northeast": {
+            "lat": 35.5994563,
+            "lng": 137.7204942
+          },
+          "southwest": {
+            "lat": 35.5087583,
+            "lng": 137.5640958
+          }
         }
       },
-      "location": {
-        "lat": 35.5366004,
-        "lng": 137.6356755
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5994563,
-          "lng": 137.7204942
-        },
-        "southwest": {
-          "lat": 35.5087583,
-          "lng": 137.5640958
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "吾妻",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113658202435444654089\">Wing Kei Ko</a>"
+          ],
+          "photo_reference": "Aap_uED0rQoMqMinrjgPiwqbRIldgEze32R2e6exPbVPArsQjpv0qf5tv89HUzv-7h855g3KC2k0OEuwle5_rccIGpmbiut22f5t4Y2TJZCYkxy__x_4ab2poX-y3jOKgtaHloA_rrzcIhIJtst6yBd7vT5AUg-GZSLX3N5EugPO-OuWWPsE",
+          "width": 3456
         }
-      }
-    },
-    "place_id": "ChIJf2sruru5HGARTfLZzVJi174",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJf2sruru5HGARTfLZzVJi174",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

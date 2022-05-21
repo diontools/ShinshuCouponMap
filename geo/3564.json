@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0026",
-        "short_name": "392-0026",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0026 長野県諏訪市大手１丁目１４−５ 諏訪シティホテル成田屋1F",
-    "geometry": {
-      "location": {
-        "lat": 36.044345,
-        "lng": 138.115975
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0457668802915,
-          "lng": 138.1173415802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0026 長野県諏訪市大手１丁目１４−５ 諏訪シティホテル成田屋1F",
+      "geometry": {
+        "location": {
+          "lat": 36.044345,
+          "lng": 138.115975
         },
-        "southwest": {
-          "lat": 36.0430689197085,
-          "lng": 138.1146436197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04576772989272,
+            "lng": 138.1173424298927
+          },
+          "southwest": {
+            "lat": 36.04306807010728,
+            "lng": 138.1146427701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJXVriCbRVHGAR2LLQYcO3alc",
-    "plus_code": {
-      "compound_code": "24V8+P9 長野県諏訪市",
-      "global_code": "8Q8W24V8+P9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ごちそう処 きむら",
+      "photos": [
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104969254961373867152\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAom_zef6t8cLXUQXWLlhAyyqFhon7oF__EiHDd60JEa3VeEWS7PbNV3Lt0Khib4nUxv8f-qfUyErSzs9eV_a4H764_aao045YS2RIyCTw27A9Ahhp8v6uetVzt3OW-NVG0FZ8-wFguB9pIh8xlJ0zjv7fMlTFdadvskoRUL6-2z9bm",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJXVriCbRVHGAR2LLQYcO3alc",
+      "plus_code": {
+        "compound_code": "24V8+P9 諏訪市、長野県",
+        "global_code": "8Q8W24V8+P9"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

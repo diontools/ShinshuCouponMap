@@ -1,115 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "4F",
-        "short_name": "4F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "コスモビル",
-        "short_name": "コスモビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１８",
-        "short_name": "１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目２−１８ コスモビル 4F",
-    "geometry": {
-      "location": {
-        "lat": 36.23011220000001,
-        "lng": 137.9674022
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23136563029151,
-          "lng": 137.9687535802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目２−１８ コスモビル 4F",
+      "geometry": {
+        "location": {
+          "lat": 36.23011220000001,
+          "lng": 137.9674022
         },
-        "southwest": {
-          "lat": 36.22866766970851,
-          "lng": 137.9660556197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23136647989273,
+            "lng": 137.9687544298927
+          },
+          "southwest": {
+            "lat": 36.22866682010728,
+            "lng": 137.9660547701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfYWUzJEOHWARerLSF_PvsaY",
-    "plus_code": {
-      "compound_code": "6XJ8+2X 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+2X"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "すきやき・しゃぶしゃぶ 池国 IKEKUNI",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105742040180940012332\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED2cXPIRTkX4_ScHyfgu_6g_Rr7eYBZx_ohlVf65Rc4WuqpSXTZCt6qujpsNLe1k1hrA_HTnhv1IzMBNaNiFU9gzQUpsRqy8rK5ym8YZEITVFhOcT1djk4NR1rlmV_N-H5LHC7Q2FEq7GhT9IyWwHVNAo6m-N3opPEmdM-cUiUyWVJw",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJfYWUzJEOHWARerLSF_PvsaY",
+      "plus_code": {
+        "compound_code": "6XJ8+2X 松本市、長野県",
+        "global_code": "8Q8V6XJ8+2X"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２６０",
-        "short_name": "１２６０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芋川",
-        "short_name": "芋川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯綱町",
-        "short_name": "飯綱町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1201",
-        "short_name": "389-1201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1201 長野県上水内郡飯綱町芋川１２６０",
-    "geometry": {
-      "location": {
-        "lat": 36.7652804,
-        "lng": 138.2625967
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7666293802915,
-          "lng": 138.2639456802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1201 長野県上水内郡飯綱町芋川１２６０",
+      "geometry": {
+        "location": {
+          "lat": 36.7652804,
+          "lng": 138.2625967
         },
-        "southwest": {
-          "lat": 36.76393141970851,
-          "lng": 138.2612477197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.76663022989273,
+            "lng": 138.2639465298927
+          },
+          "southwest": {
+            "lat": 36.76393057010728,
+            "lng": 138.2612468701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJa5aV8x8n9l8R2eU2noFKrdw",
-    "plus_code": {
-      "compound_code": "Q787+42 日本、長野県飯綱町",
-      "global_code": "8Q8WQ787+42"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ワイナリーレストラン サンクゼール",
+      "photos": [
+        {
+          "height": 700,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104445135420266803682\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBdeCwQRSgPzNEazVsrD28z5Wk2RnuyGPHUdq0EuJYATqnu1UJ6X8e6QdZy5CuSoe8qOAMYz0vYKth8DDNoiP6-FnRVFWxIyzjz3NntQJ6xQfy4fyLLE8BI1b_iPoWmDnNQYR8pIjpuSMFc1_yy9WqyjOn8lsyjtcvWJIBbrrCXZINU",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJa5aV8x8n9l8R2eU2noFKrdw",
+      "plus_code": {
+        "compound_code": "Q787+42 飯綱町、長野県",
+        "global_code": "8Q8WQ787+42"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

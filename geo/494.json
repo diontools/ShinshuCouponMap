@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８５６",
-        "short_name": "８５６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "稲荷山",
-        "short_name": "稲荷山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0021",
-        "short_name": "387-0021",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0021 長野県千曲市稲荷山８５６",
-    "geometry": {
-      "location": {
-        "lat": 36.535912,
-        "lng": 138.104487
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5372690302915,
-          "lng": 138.1057431802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0021 長野県千曲市稲荷山８５６",
+      "geometry": {
+        "location": {
+          "lat": 36.5359184,
+          "lng": 138.1043781
         },
-        "southwest": {
-          "lat": 36.53457106970851,
-          "lng": 138.1030452197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53726987989272,
+            "lng": 138.1057440298927
+          },
+          "southwest": {
+            "lat": 36.53457022010728,
+            "lng": 138.1030443701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7ak-kMGCHWARL9yzkQTfjJE",
-    "plus_code": {
-      "compound_code": "G4P3+9Q 日本、長野県千曲市",
-      "global_code": "8Q8WG4P3+9Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "栄泉堂",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103611335481220190241\">荻太郎</a>"
+          ],
+          "photo_reference": "Aap_uECuewl22lFu-Ak0rNoB-OlVuElJTN-i5DWumB411Vqt3kDVWJBInzvBmvSzOSOI4W-kLK7lj87KmBSZKD39QSJD-PXq6OArib0QhhWU1tfAhe0IQ24pC_GgmflhwRmRcbAP0xTqESfVbdbS9-tFPK8hswQaG_Mmlawk9oi-XvEZ5Pq6",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ7ak-kMGCHWARL9yzkQTfjJE",
+      "plus_code": {
+        "compound_code": "G4P3+9Q 千曲市、長野県",
+        "global_code": "8Q8WG4P3+9Q"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

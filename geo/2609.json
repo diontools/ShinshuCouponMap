@@ -1,84 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 大字北城白馬町7071−13",
-    "geometry": {
-      "location": {
-        "lat": 36.697125,
-        "lng": 137.863711
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6985035802915,
-          "lng": 137.8649703302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村 大字北城白馬町7071−13",
+      "geometry": {
+        "location": {
+          "lat": 36.697125,
+          "lng": 137.8637111
         },
-        "southwest": {
-          "lat": 36.6958056197085,
-          "lng": 137.8622723697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69850442989272,
+            "lng": 137.8649712298927
+          },
+          "southwest": {
+            "lat": 36.69580477010728,
+            "lng": 137.8622715701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "広進堂靴店",
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113955735667905762513\">ぽこにゃん</a>"
+          ],
+          "photo_reference": "Aap_uEDu8Y1QpQRvswERD4piRXSCI9LDkcEn2buU_03TQOeNaIVCe9zCrlaEaIT3OMZmwWssezAbF2_TT8cOE3x_bx_Q6p005n2Hx7pMIGOLJpYAVBGqnvjDidS4AWD_ntFfPb4a65cacPEqYkD2J-DhkehbN-kvPjASxFpk_hwVWs_qFb97",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJt7Q0IgTS918Rrxd7fDSza1A",
+      "plus_code": {
+        "compound_code": "MVW7+RF 白馬村、長野県",
+        "global_code": "8Q8VMVW7+RF"
+      },
+      "types": [
+        "shoe_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJt7Q0IgTS918Rrxd7fDSza1A",
-    "plus_code": {
-      "compound_code": "MVW7+RF 長野県白馬村",
-      "global_code": "8Q8VMVW7+RF"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "shoe_store",
-      "store"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村八方５１１３",
+      "geometry": {
+        "location": {
+          "lat": 36.7009252,
+          "lng": 137.8416493
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.70224147989273,
+            "lng": 137.8430236798928
+          },
+          "southwest": {
+            "lat": 36.69954182010729,
+            "lng": 137.8403240201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "レンタルスキー広進堂八方支店",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111191577471945344098\">takuma haga</a>"
+          ],
+          "photo_reference": "Aap_uECZNi7v1hqGN60xca9Y-Rhknf5laplNmDZviynlYpicL0h5_DzcPGpWeRcMesEQD1-pBfXmQAbvcTEqcFgU8C4-nkN9RU0a2cHODA4mHKVSfQsNwO0_dpduzE0UnswjBC6uhRwrnTFR19LUrCu29PgC68WZhmRVmwuQ5wxW0FhBz2pJ",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJg7-_2wfO918RSuqe1NI4j1g",
+      "plus_code": {
+        "compound_code": "PR2R+9M 白馬村、長野県",
+        "global_code": "8Q8VPR2R+9M"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

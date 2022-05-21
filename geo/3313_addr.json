@@ -1,79 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "宮田村",
-        "short_name": "宮田村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4301",
-        "short_name": "399-4301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4301 長野県上伊那郡宮田村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.8078667,
-          "lng": 137.9640344
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4301 長野県上伊那郡宮田村１６２４−９",
+      "geometry": {
+        "location": {
+          "lat": 35.7576111,
+          "lng": 137.9202621
         },
-        "southwest": {
-          "lat": 35.7447303,
-          "lng": 137.8044459
+        "viewport": {
+          "northeast": {
+            "lat": 35.75898727989273,
+            "lng": 137.9216233798927
+          },
+          "southwest": {
+            "lat": 35.75628762010729,
+            "lng": 137.9189237201073
+          }
         }
       },
-      "location": {
-        "lat": 35.7689509,
-        "lng": 137.9443451
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8078667,
-          "lng": 137.9640344
-        },
-        "southwest": {
-          "lat": 35.7447303,
-          "lng": 137.8044459
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ＡＬＰＥＮ ＡＵＴＯ アルペンオート",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114173368816160757834\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECVaRv5BoazzCdbdwCAlSGVEweZcqX2fHs7tT1ecRYw_pF_fJ0gp3nGGQIqdPXXbo2zRfsI09TARXghDGU3aHKiXDa4h8McYA8EDPLHJP5cligFsLxOYm_BgwTwMBIzEoPrE0qCtpWXeH4YBz5rnXpQ0Gk2TjlA0d22_JzFJWoL1G3o",
+          "width": 640
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWda4_dTtHGARhdMxvXWEJJc",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJR-g6xt_tHGARKxdikLU6GxU",
+      "plus_code": {
+        "compound_code": "QW5C+24 宮田村、長野県",
+        "global_code": "8Q7VQW5C+24"
+      },
+      "types": [
+        "car_dealer",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

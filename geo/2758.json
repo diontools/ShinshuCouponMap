@@ -1,99 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "Ｂ１Ｆ",
-        "short_name": "Ｂ１Ｆ",
-        "types": [
-          "floor"
-        ]
-      },
-      {
-        "long_name": "３０２０−８６７",
-        "short_name": "３０２０−８６７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−８６７ Ｂ１Ｆ",
-    "geometry": {
-      "location": {
-        "lat": 36.6910534,
-        "lng": 137.8418641
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6923370802915,
-          "lng": 137.8432338302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−８６７",
+      "geometry": {
+        "location": {
+          "lat": 36.6910534,
+          "lng": 137.8418641
         },
-        "southwest": {
-          "lat": 36.6896391197085,
-          "lng": 137.8405358697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69233792989272,
+            "lng": 137.8432346798927
+          },
+          "southwest": {
+            "lat": 36.68963827010728,
+            "lng": 137.8405350201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_8F88eLR918RgzjnStpAk1Y",
-    "plus_code": {
-      "compound_code": "MRRR+CP 長野県白馬村",
-      "global_code": "8Q8VMRRR+CP"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Samurai Kebab",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104573729417561313206\">Jinq-Yi Lee</a>"
+          ],
+          "photo_reference": "Aap_uEBrvs79tBwc34LNuLroJW8dRp3Y1u-nHi1vuZGzefNv-11_ydmq9VLN7t5MSXQUSLxF3xrHeKYeWwtRxqshchLg74K7iqUlQhkfP75URv3plF0glBSaiTVsvTyxk-vdM8lV9eEUeCxXckIkE1MV_-agX9xD5R1snMP9nfWYpLP3Xcc",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ_8F88eLR918RgzjnStpAk1Y",
+      "plus_code": {
+        "compound_code": "MRRR+CP 白馬村、長野県",
+        "global_code": "8Q8VMRRR+CP"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８４−１",
-        "short_name": "４８４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "里山辺",
-        "short_name": "里山辺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0221",
-        "short_name": "390-0221",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0221 長野県松本市里山辺４８４−１",
-    "geometry": {
-      "location": {
-        "lat": 36.2460331,
-        "lng": 138.0012504
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2472534802915,
-          "lng": 138.0026580302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0221 長野県松本市里山辺４８４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2460331,
+          "lng": 138.0012504
         },
-        "southwest": {
-          "lat": 36.2445555197085,
-          "lng": 137.9999600697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24725432989272,
+            "lng": 138.0026588798927
+          },
+          "southwest": {
+            "lat": 36.24455467010728,
+            "lng": 137.9999592201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJr_2qTksJHWARJ3LxxtQS9zA",
-    "plus_code": {
-      "compound_code": "62W2+CG 長野県松本市",
-      "global_code": "8Q8W62W2+CG"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0221 長野県松本市里山辺４８４−１",
+      "place_id": "ChIJr_2qTksJHWARJ3LxxtQS9zA",
+      "plus_code": {
+        "compound_code": "62W2+CG 松本市、長野県",
+        "global_code": "8Q8W62W2+CG"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

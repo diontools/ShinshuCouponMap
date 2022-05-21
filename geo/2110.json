@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１９",
-        "short_name": "１９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "神田",
-        "short_name": "神田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0822",
-        "short_name": "390-0822",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0822 長野県松本市神田１丁目１９−２２",
-    "geometry": {
-      "location": {
-        "lat": 36.2205841,
-        "lng": 137.992142
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2219300302915,
-          "lng": 137.9935227302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0822 長野県松本市神田１丁目１９−２２",
+      "geometry": {
+        "location": {
+          "lat": 36.2205841,
+          "lng": 137.992142
         },
-        "southwest": {
-          "lat": 36.2192320697085,
-          "lng": 137.9908247697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.22193087989272,
+            "lng": 137.9935235798927
+          },
+          "southwest": {
+            "lat": 36.21923122010728,
+            "lng": 137.9908239201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMclMKtsOHWARyQhUO1Xt5nI",
-    "plus_code": {
-      "compound_code": "6XCR+6V 日本、長野県松本市",
-      "global_code": "8Q8V6XCR+6V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ベル・リヴィエール",
+      "photos": [
+        {
+          "height": 2515,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111878935558397616395\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDqrrHw80bIptWS5ZQXIXWDHrN6LYMX3HEnSbBa7HBLNN5byt7F81-rNXGQRn2SB641BlPee2eyoxrb7AjcKX1BdZOVH_Y5Ym6_SQtBjEbwRh8a8PPKy6P-tYDPK7UElxRt9pNYAICUBkuS6pTDhbP3p1vG-pOZaEGquT67wLzDHOam",
+          "width": 3772
+        }
+      ],
+      "place_id": "ChIJMclMKtsOHWARyQhUO1Xt5nI",
+      "plus_code": {
+        "compound_code": "6XCR+6V 松本市、長野県",
+        "global_code": "8Q8V6XCR+6V"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,92 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央３丁目２",
-    "geometry": {
-      "location": {
-        "lat": 36.2337811,
-        "lng": 137.9723019
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2351303302915,
-          "lng": 137.9736685302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央３丁目２−１５",
+      "geometry": {
+        "location": {
+          "lat": 36.23377809999999,
+          "lng": 137.9722845
         },
-        "southwest": {
-          "lat": 36.2324323697085,
-          "lng": 137.9709705697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23512837989272,
+            "lng": 137.9736694798927
+          },
+          "southwest": {
+            "lat": 36.23242872010728,
+            "lng": 137.9709698201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "山平食料品店",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111955454475131528523\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBV_fH3Qke6CmOwsvUJOKKhizVGxnBlKcqLsFmYDP59nxWpknQejLSd5G5w03hMl3hJ2M1jn3T0z7-ZvQ0jW2-akt_2f4DyDEqFNnqLatbcFx7lYIe62yJ1ZBPhkcQEfZhh_EdRBw7130NX_H00nOtS6CTpMZzRYQtBJsn2EuZWPaZy",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ-a0jF5IOHWARvUEGoMkGbew",
+      "plus_code": {
+        "compound_code": "6XMC+GW 松本市、長野県",
+        "global_code": "8Q8V6XMC+GW"
+      },
+      "types": [
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJFyFBF5IOHWARLbZYKaSKK6M",
-    "plus_code": {
-      "compound_code": "6XMC+GW 日本、長野県松本市",
-      "global_code": "8Q8V6XMC+GW"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央３丁目２",
+      "geometry": {
+        "location": {
+          "lat": 36.233781,
+          "lng": 137.9722843
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23513117989271,
+            "lng": 137.9736693798928
+          },
+          "southwest": {
+            "lat": 36.23243152010727,
+            "lng": 137.9709697201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "やまへい",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116499980369030579209\">秋山卓也</a>"
+          ],
+          "photo_reference": "Aap_uEBc2AGX18ESM9YJFsTUEBa7dwBWyTUymwYDwx6qInDeo4WUCIKfKsHZ1dA0OCexfMPFD7Mp5_autfb8N3TaBgOa1Jd2KVJpft-F-izHBDmxiJhNFqyFDX-FK0mY5c2lN40jnUs3azvxInf16EpYxTrKFq4dzuQNhE4eXkkFIJ8f1YOI",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJFyFBF5IOHWARLbZYKaSKK6M",
+      "plus_code": {
+        "compound_code": "6XMC+GW 松本市、長野県",
+        "global_code": "8Q8V6XMC+GW"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

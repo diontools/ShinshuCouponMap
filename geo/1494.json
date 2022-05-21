@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１５１−１１",
-        "short_name": "１１５１−１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１５１−１１",
-    "geometry": {
-      "location": {
-        "lat": 36.3489301,
-        "lng": 138.6345917
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3502785302915,
-          "lng": 138.6358224302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１５１−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.3489301,
+          "lng": 138.6345917
         },
-        "southwest": {
-          "lat": 36.34758056970851,
-          "lng": 138.6331244697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35027937989272,
+            "lng": 138.6358232798927
+          },
+          "southwest": {
+            "lat": 36.34757972010728,
+            "lng": 138.6331236201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJLYU_nhXTHWAR64Lk1TrVAwU",
-    "plus_code": {
-      "compound_code": "8JXM+HR 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JXM+HR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "TWIN-LINE HOTEL KARUIZAWA JAPAN トゥインラインホテル軽井沢",
+      "photos": [
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113040921050787189447\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECyXSRfXDtsTc3QPSPjbi7NeDXKLZGGx6nPR8EV8brLayoC5c0F6nVLmXIyRvnt1JNsZfP8Fj9oXYWV3jRUu0eKxshXMSLkl-8iEgu6yePpGrHqdMdoUJsE2_4VMDaCr1962qfWcGKsc-9n9koBdeRZela72LmwaMTbzxOj0Aq2Z2g",
+          "width": 5616
+        }
+      ],
+      "place_id": "ChIJLYU_nhXTHWAR64Lk1TrVAwU",
+      "plus_code": {
+        "compound_code": "8JXM+HR 軽井沢町、長野県",
+        "global_code": "8Q8W8JXM+HR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

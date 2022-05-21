@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４１５−１",
-        "short_name": "１４１５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏１４１５−１",
-    "geometry": {
-      "location": {
-        "lat": 36.7303854,
-        "lng": 138.4439102
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.73160833029149,
-          "lng": 138.4453728802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏１４１５−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7303854,
+          "lng": 138.4439102
         },
-        "southwest": {
-          "lat": 36.7289103697085,
-          "lng": 138.4426749197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73160917989272,
+            "lng": 138.4453737298927
+          },
+          "southwest": {
+            "lat": 36.72890952010727,
+            "lng": 138.4426740701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzRpJdITzHWAR1GSRl-9uxNM",
-    "plus_code": {
-      "compound_code": "PCJV+5H 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCJV+5H"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "上林温泉 不動尊の湯 御宿ことぶき",
+      "photos": [
+        {
+          "height": 3280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112309760906699286309\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAIOK1Vxz-X7C7Cv7zFMS8NgqtCl5b_dj5PgksP_bLgl0wfIq-zNZ5Vyzv74E0Js_rwEPdGGU_VUlqX9_oCtGgQykj-xrNiMIa2HScc3QQn1pe19rbLaL18kGOQZfpp9bgO-bFljmc_wv4obLT7L7xSGFhXYX2-aoApfBgITxe_CjCY",
+          "width": 4928
+        }
+      ],
+      "place_id": "ChIJzRpJdITzHWAR1GSRl-9uxNM",
+      "plus_code": {
+        "compound_code": "PCJV+5H 山ノ内町、長野県",
+        "global_code": "8Q8WPCJV+5H"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

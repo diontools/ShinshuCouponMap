@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り５丁目７−７",
-    "geometry": {
-      "location": {
-        "lat": 36.0462318,
-        "lng": 138.1108192
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04764188029149,
-          "lng": 138.1121024802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り５丁目７−７",
+      "geometry": {
+        "location": {
+          "lat": 36.0462318,
+          "lng": 138.1108192
         },
-        "southwest": {
-          "lat": 36.0449439197085,
-          "lng": 138.1094045197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04764272989273,
+            "lng": 138.1121033298927
+          },
+          "southwest": {
+            "lat": 36.04494307010728,
+            "lng": 138.1094036701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdZLiGrBVHGARy8VeyXwktIU",
-    "plus_code": {
-      "compound_code": "24W6+F8 長野県諏訪市",
-      "global_code": "8Q8W24W6+F8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "KKR 諏訪湖荘",
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102615808096460989820\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAvWHRXwiH4Hxw6p3UjVdpMcewbgb47Y09NgwS6u-gExVBJSbDgS6XdvpiVm6xmYu1SJHK7B02GqwSzJDrO2mf3adzJsGz_K6uoypWF-XH5AenS3LZu77ujPqsEm_VQxA5xKe-CAPeyTJE0kdHG25UwjvAZ76n3R-A-_q6SKC-1AyPq",
+          "width": 4288
+        }
+      ],
+      "place_id": "ChIJdZLiGrBVHGARy8VeyXwktIU",
+      "plus_code": {
+        "compound_code": "24W6+F8 諏訪市、長野県",
+        "global_code": "8Q8W24W6+F8"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０１",
-        "short_name": "２０１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神宮寺",
-        "short_name": "神宮寺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中洲",
-        "short_name": "中洲",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0015",
-        "short_name": "392-0015",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0015 長野県諏訪市中洲神宮寺２０１",
-    "geometry": {
-      "location": {
-        "lat": 35.9996662,
-        "lng": 138.1189336
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0010878802915,
-          "lng": 138.1201526802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0015 長野県諏訪市中洲神宮寺２０１",
+      "geometry": {
+        "location": {
+          "lat": 35.9996672,
+          "lng": 138.1189307
         },
-        "southwest": {
-          "lat": 35.9983899197085,
-          "lng": 138.1174547197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00108872989272,
+            "lng": 138.1201535298927
+          },
+          "southwest": {
+            "lat": 35.99838907010728,
+            "lng": 138.1174538701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJB28gv1hWHGARIVBNRh5x5C8",
-    "plus_code": {
-      "compound_code": "X4X9+VH 長野県諏訪市",
-      "global_code": "8Q7WX4X9+VH"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "活の森 上社本宮前店",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100828296622181645443\">M Kono</a>"
+          ],
+          "photo_reference": "Aap_uEBnaQEULnQRQhZN_cGSuvsyQjibi84zIJaiIEfsx7xrYN732UxeGAb4e-9EjLNZrQIu5ZCYHmIEjCEUF1eXj5Q8nugncFPvpfjEiQNDOUwnR09gLTacnzgCHKzNF1REejQAliJCLZhkxkYq0IlNrl4beQadiEKxzUL5tqccgHrSl_-L",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJB28gv1hWHGARIVBNRh5x5C8",
+      "plus_code": {
+        "compound_code": "X4X9+VH 諏訪市、長野県",
+        "global_code": "8Q7WX4X9+VH"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

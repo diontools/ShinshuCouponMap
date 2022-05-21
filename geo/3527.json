@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３３３８−７４",
-        "short_name": "１３３３８−７４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上諏訪",
-        "short_name": "上諏訪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0003",
-        "short_name": "392-0003",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0003 長野県諏訪市上諏訪１３３３８−７４",
-    "geometry": {
-      "location": {
-        "lat": 36.1001947,
-        "lng": 138.1596052
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1014606802915,
-          "lng": 138.1609500802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0003 長野県諏訪市上諏訪１３３３８−７４",
+      "geometry": {
+        "location": {
+          "lat": 36.1001967,
+          "lng": 138.1596017
         },
-        "southwest": {
-          "lat": 36.0987627197085,
-          "lng": 138.1582521197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10146152989271,
+            "lng": 138.1609509298927
+          },
+          "southwest": {
+            "lat": 36.09876187010727,
+            "lng": 138.1582512701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp8yQC0xUHGARHtUcP6dO0fs",
-    "plus_code": {
-      "compound_code": "4525+3R 長野県諏訪市",
-      "global_code": "8Q8W4525+3R"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "natural_feature",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ヒュッテ霧ヶ峰",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104445309966587660538\">西林昭隆</a>"
+          ],
+          "photo_reference": "Aap_uEDsoy6Y1bHs8fdHIYDLZByP8Z1XtcxbByre0uRt1Hfdyn50k-YR2802aYZkcAyBw14MJEBlweaVvIreVfSFARQ0Aaz5zakJeyS4E9eF6_1mOHLHvOU5esOGPtDQghZKN-9C7Z8faV44i7vlHfgG38ZU5nVj3nvJMlrU3c796PBPYRJQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJp8yQC0xUHGARHtUcP6dO0fs",
+      "plus_code": {
+        "compound_code": "4525+3R 諏訪市、長野県",
+        "global_code": "8Q8W4525+3R"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "natural_feature",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

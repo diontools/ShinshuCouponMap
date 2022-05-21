@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "雁田",
-        "short_name": "雁田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0211",
-        "short_name": "381-0211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0211 長野県上高井郡小布施町雁田 不動1311",
-    "geometry": {
-      "location": {
-        "lat": 36.6873463,
-        "lng": 138.3274181
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6886422302915,
-          "lng": 138.3286446802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0211 長野県上高井郡小布施町雁田 不動1311",
+      "geometry": {
+        "location": {
+          "lat": 36.6873463,
+          "lng": 138.3274181
         },
-        "southwest": {
-          "lat": 36.6859442697085,
-          "lng": 138.3259467197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.68864307989272,
+            "lng": 138.3286455298927
+          },
+          "southwest": {
+            "lat": 36.68594342010728,
+            "lng": 138.3259458701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJG6_kbviLHWARgy92SYFWyWE",
-    "plus_code": {
-      "compound_code": "M8PG+WX 日本、長野県小布施町",
-      "global_code": "8Q8WM8PG+WX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "おぶせ温泉 あけびの湯",
+      "photos": [
+        {
+          "height": 2661,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108651667409378714199\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED9sBC8gfi9pKNMsxu2zCrMiTNmWte1T2NbtKnMWoUMh0SlWyXaZavFd-489ZPT0_ySxvR0R5UzYI4cFvLF8TOco0EWx-uC51qpKnAMdt5IMfk3pDTblsGe6jRtz8UUZhuzMnIULIwHtbyLa2mXwzqEgGOCfLZKxvNOVHYRSmqTZQGr",
+          "width": 3992
+        }
+      ],
+      "place_id": "ChIJG6_kbviLHWARgy92SYFWyWE",
+      "plus_code": {
+        "compound_code": "M8PG+WX 小布施町、長野県",
+        "global_code": "8Q8WM8PG+WX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

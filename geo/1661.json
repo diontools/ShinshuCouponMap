@@ -1,90 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７８−４９３",
-        "short_name": "１１７８−４９３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８−４９３",
-    "geometry": {
-      "location": {
-        "lat": 36.3480296,
-        "lng": 138.6380129
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.34916433029149,
-          "lng": 138.6397999802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町 長野県 北佐久郡軽井沢町長倉中島291-1 東急ハーヴェストクラブ軽井沢&VIALA",
+      "geometry": {
+        "location": {
+          "lat": 36.3319641,
+          "lng": 138.5971255
         },
-        "southwest": {
-          "lat": 36.34646636970849,
-          "lng": 138.6371020197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33303017989272,
+            "lng": 138.5985230298927
+          },
+          "southwest": {
+            "lat": 36.33033052010727,
+            "lng": 138.5958233701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJP_uJFX7THWARR_WrPcSYjwk",
-    "plus_code": {
-      "compound_code": "8JXQ+66 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JXQ+66"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "asama dining／東急ハーヴェストクラブ軽井沢&VIALA",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116319276665130717442\">Nobuyoshi MORI</a>"
+          ],
+          "photo_reference": "Aap_uEDKtWwqyeoATCKISHSa8ET8kF8x1wWM1xmktUtUmVRkhFS29utKugLp4xOOJxYuV4d-qjkgtWnT_22Jdk0So1NOzw-JzMjxuAsaHhoeNwhBREOJRKIdOdDEoY8o02znWgOqZtY9wavXHdufVy15DaTjI1_I6dgF7NuocSC1gVuA9BBF",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJAQAAAMDRHWAR2ksTUlQ6uVM",
+      "plus_code": {
+        "compound_code": "8HJW+QV 軽井沢町、長野県",
+        "global_code": "8Q8W8HJW+QV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

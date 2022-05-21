@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２００−３",
-        "short_name": "２２００−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高牧",
-        "short_name": "穂高牧",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8305",
-        "short_name": "399-8305",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8305 長野県安曇野市穂高牧２２００−３",
-    "geometry": {
-      "location": {
-        "lat": 36.3112582,
-        "lng": 137.8155247
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.31290523029149,
-          "lng": 137.8171103802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-8305 長野県安曇野市穂高牧２２００−３",
+      "geometry": {
+        "location": {
+          "lat": 36.3112582,
+          "lng": 137.8155247
         },
-        "southwest": {
-          "lat": 36.3102072697085,
-          "lng": 137.8144124197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31290607989273,
+            "lng": 137.8171112298927
+          },
+          "southwest": {
+            "lat": 36.31020642010728,
+            "lng": 137.8144115701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJz6NMSsRrHWARI1W--vxelqY",
-    "plus_code": {
-      "compound_code": "8R68+G6 長野県安曇野市",
-      "global_code": "8Q8V8R68+G6"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-8305 長野県安曇野市穂高牧２２００−３",
+      "place_id": "ChIJz6NMSsRrHWARI1W--vxelqY",
+      "plus_code": {
+        "compound_code": "8R68+G6 安曇野市、長野県",
+        "global_code": "8Q8V8R68+G6"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

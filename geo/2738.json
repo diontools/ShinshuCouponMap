@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８２９−２０",
-        "short_name": "８２９−２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城８２９−２０",
-    "geometry": {
-      "location": {
-        "lat": 36.6853967,
-        "lng": 137.8423837
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6868277302915,
-          "lng": 137.8437608302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城８２９−２０",
+      "geometry": {
+        "location": {
+          "lat": 36.6853967,
+          "lng": 137.8423837
         },
-        "southwest": {
-          "lat": 36.6841297697085,
-          "lng": 137.8410628697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.68682857989271,
+            "lng": 137.8437616798927
+          },
+          "southwest": {
+            "lat": 36.68412892010727,
+            "lng": 137.8410620201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0akCsFrR918RwLpvWJewgfg",
-    "plus_code": {
-      "compound_code": "MRPR+5X 長野県白馬村",
-      "global_code": "8Q8VMRPR+5X"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "B&B えん",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110870480404805370119\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDfDiVDjV6u502-FR6rWRDb0_JKEIQC9KwQv32NgNeYmic9jxnBHhNsbcCTfMT9bOKM6X43gWKqV2vOLoJZZvc4CXTNOj43QyKl2Lg2dniMQOl3hFsTSfcRpTenJPd-7oDLEdCFyfAZvzFkgrQKHRMy3BVnxauIzAIFeoS-sVIHS8bS",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ0akCsFrR918RwLpvWJewgfg",
+      "plus_code": {
+        "compound_code": "MRPR+5X 白馬村、長野県",
+        "global_code": "8Q8VMRPR+5X"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５１３−１４２",
-        "short_name": "５５１３−１４２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山５５１３−１４２",
-    "geometry": {
-      "location": {
-        "lat": 36.044967,
-        "lng": 138.269318
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0464156802915,
-          "lng": 138.2707170802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山５５１３−１４２",
+      "geometry": {
+        "location": {
+          "lat": 36.0450252,
+          "lng": 138.2693472
         },
-        "southwest": {
-          "lat": 36.0437177197085,
-          "lng": 138.2680191197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04641652989273,
+            "lng": 138.2707179298927
+          },
+          "southwest": {
+            "lat": 36.04371687010729,
+            "lng": 138.2680182701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJsfFC07tPHGARKrCRcU2GzLI",
-    "plus_code": {
-      "compound_code": "27V9+XP 長野県茅野市",
-      "global_code": "8Q8W27V9+XP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "オーベルジュ・エスポワール",
+      "photos": [
+        {
+          "height": 563,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102154579214965658205\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB2iLpAB6ol1GZtF_KgHKCRYg0uWAkFwU7CgJKDb7bn_iB7szjLyY4ZfyTxsZWsEpeZHVdsCA7j9F7p3OTsFky1mR6hEmYEHpe4leaNSGhus-d-haInOeQS_PN8etxnND9THGTFUQ_0Z0uoecKQIoNcvBrLz_l2s4ekxk-lQeWUJo95",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJsfFC07tPHGARKrCRcU2GzLI",
+      "plus_code": {
+        "compound_code": "27V9+XP 茅野市、長野県",
+        "global_code": "8Q8W27V9+XP"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

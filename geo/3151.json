@@ -1,85 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４２４",
-        "short_name": "４４２４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平４４２４",
-    "geometry": {
-      "location": {
-        "lat": 36.0146544,
-        "lng": 138.2229888
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.01589688029149,
-          "lng": 138.2243106802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平４４２４",
+      "geometry": {
+        "location": {
+          "lat": 36.0146335,
+          "lng": 138.2229866
         },
-        "southwest": {
-          "lat": 36.01319891970849,
-          "lng": 138.2216127197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01589772989271,
+            "lng": 138.2243115298927
+          },
+          "southwest": {
+            "lat": 36.01319807010727,
+            "lng": 138.2216118701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO09C5dxQHGAR4Wq-BcyGriw",
-    "plus_code": {
-      "compound_code": "267F+V5 長野県茅野市",
-      "global_code": "8Q8W267F+V5"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "cafe & restaurant あったか",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118009446936733238256\">小関光明</a>"
+          ],
+          "photo_reference": "Aap_uEC9srdsumu7bpi4FDiObhm8scl0qCrozj62M05aaZ_T7qGBhOhfo-1i-QwYkdFhxzMVU3P5QhSgF0-EUP9dsGBD9XOZ5HCOtM1NEZQ9XDRKQX9eoVAyDy7T_STV1YMHmjs3y3AEYp2HtEx5Qb1P0t9QLDfShoItJTQ6u0k_x70AuVOn",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJO09C5dxQHGAR4Wq-BcyGriw",
+      "plus_code": {
+        "compound_code": "267F+V5 茅野市、長野県",
+        "global_code": "8Q8W267F+V5"
+      },
+      "types": [
+        "restaurant",
+        "cafe",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

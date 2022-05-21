@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０１−２",
-        "short_name": "３０１−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "下瀬",
-        "short_name": "下瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2432",
-        "short_name": "399-2432",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2432 長野県飯田市下瀬３０１−２",
-    "geometry": {
-      "location": {
-        "lat": 35.427152,
-        "lng": 137.812821
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4284460802915,
-          "lng": 137.8141933302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2432 長野県飯田市下瀬３０１−２",
+      "geometry": {
+        "location": {
+          "lat": 35.427152,
+          "lng": 137.812821
         },
-        "southwest": {
-          "lat": 35.4257481197085,
-          "lng": 137.8114953697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.42844692989272,
+            "lng": 137.8141941798927
+          },
+          "southwest": {
+            "lat": 35.42574727010727,
+            "lng": 137.8114945201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ29pT4_meHGARPsOpENV3Pw0",
-    "plus_code": {
-      "compound_code": "CRG7+V4 長野県飯田市",
-      "global_code": "8Q7VCRG7+V4"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "木下農園",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109493069195489532817\">TETSUO NAKAMURA</a>"
+          ],
+          "photo_reference": "Aap_uEDywTSBoiwhjy1HozKFVvH2S6IpPEdIsXQcfvLDfsB8fUBF-TnaBpAj7rJZ3WmrzxJGjtSvFUtSn_GfUWwU2a2wqVYqK3HgWprt9xZoaJwb8WV5HEbPJmw6dxMYM2M3sUHANbRwYfqZmiKCLTBle2vKdmrfzhqXo3w9SElr8Dgoi6XG",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ29pT4_meHGARPsOpENV3Pw0",
+      "plus_code": {
+        "compound_code": "CRG7+V4 飯田市、長野県",
+        "global_code": "8Q7VCRG7+V4"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

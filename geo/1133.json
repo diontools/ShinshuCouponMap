@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６８９",
-        "short_name": "２６８９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "田沢",
-        "short_name": "田沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "青木村",
-        "short_name": "青木村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1601",
-        "short_name": "386-1601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1601 長野県小県郡青木村田沢２６８９",
-    "geometry": {
-      "location": {
-        "lat": 36.3694103,
-        "lng": 138.1061048
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3708215302915,
-          "lng": 138.1075375302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1601 長野県小県郡青木村田沢２６８９",
+      "geometry": {
+        "location": {
+          "lat": 36.3694103,
+          "lng": 138.1061048
         },
-        "southwest": {
-          "lat": 36.3681235697085,
-          "lng": 138.1048395697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.37082237989272,
+            "lng": 138.1075383798928
+          },
+          "southwest": {
+            "lat": 36.36812272010727,
+            "lng": 138.1048387201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtewclCSgHWARmZdL0sinyXQ",
-    "plus_code": {
-      "compound_code": "9494+QC 日本、長野県青木村",
-      "global_code": "8Q8W9494+QC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "富士屋",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114943956526595151585\">田原勇一</a>"
+          ],
+          "photo_reference": "Aap_uEDzWttzYrx989dXQEROoFjJtldHlolELC0zjp8q_LNxyWmVldzQnoZZfS9zpwBAbmVNLHI411BckgAWHRRWDJo9fGP-wjAwDObL2OUNgR0BoRpTs3PkeB6ivBUP_-djx2HIz2GP_v6j11pHBLUM-JrvDqVt0Lv0WXSjbSMC91kKigB_",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJtewclCSgHWARmZdL0sinyXQ",
+      "plus_code": {
+        "compound_code": "9494+QC 青木村、長野県",
+        "global_code": "8Q8W9494+QC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

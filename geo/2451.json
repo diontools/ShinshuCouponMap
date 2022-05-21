@@ -1,82 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "麻",
-        "short_name": "麻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "麻績村",
-        "short_name": "麻績村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東筑摩郡",
-        "short_name": "東筑摩郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-7701",
-        "short_name": "399-7701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-7701 長野県東筑摩郡麻績村麻",
-    "geometry": {
-      "location": {
-        "lat": 36.488107,
-        "lng": 138.0714499
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4895650802915,
-          "lng": 138.0727527302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-7701 長野県東筑摩郡麻績村麻",
+      "geometry": {
+        "location": {
+          "lat": 36.4854559,
+          "lng": 138.072504
         },
-        "southwest": {
-          "lat": 36.4868671197085,
-          "lng": 138.0700547697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.4863619,
+            "lng": 138.0739916298927
+          },
+          "southwest": {
+            "lat": 36.4827379,
+            "lng": 138.0712919701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJG2eM7ed3HWARZM8a21RcEAo",
-    "plus_code": {
-      "compound_code": "F3QC+6H 日本、長野県麻績村",
-      "global_code": "8Q8WF3QC+6H"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "聖高原スカイライダー",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104280308166006449273\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC6AhhTYlcREqeEwt-Fmzw8xGQtYt2N0sDrRB18HJCkFvzRhcdbCFJcAtL4D10xKT_fFX33uqvUqGB48SNe40hq1RqIS1OAk1cdX7R_jWKMkFXIXh_jT_XZC0yHsnaj7uyYR9pJdkD7vdOz0ni5cCtOwDE8Ix6c6MyyVsSROCb2sWQw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJEZMI3lV3HWAR1nT9vGRJicA",
+      "plus_code": {
+        "compound_code": "F3PF+52 麻績村、長野県",
+        "global_code": "8Q8WF3PF+52"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

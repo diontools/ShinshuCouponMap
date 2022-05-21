@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５０９",
-        "short_name": "５５０９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2411",
-        "short_name": "389-2411",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2411 長野県飯山市豊田５５０９",
-    "geometry": {
-      "location": {
-        "lat": 36.9313194,
-        "lng": 138.3791194
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9327358802915,
-          "lng": 138.3804316802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2411 長野県飯山市豊田５５０９",
+      "geometry": {
+        "location": {
+          "lat": 36.9313194,
+          "lng": 138.3791194
         },
-        "southwest": {
-          "lat": 36.9300379197085,
-          "lng": 138.3777337197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.93273672989272,
+            "lng": 138.3804325298927
+          },
+          "southwest": {
+            "lat": 36.93003707010728,
+            "lng": 138.3777328701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5w91Q3IQ9l8R8YnKusdI9CM",
-    "plus_code": {
-      "compound_code": "W9JH+GJ 日本、長野県飯山市",
-      "global_code": "8Q8WW9JH+GJ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "四季彩の宿かのえ",
+      "photos": [
+        {
+          "height": 534,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109988247818730321258\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAlEkQ-FTq3KWryMJcqno31BNgjEkx9hj7weKhl2bsTq5T4NHoMp8GolcwjwDD3RIxoCY_kxWdV-guH0ATZR_2F3WJHVb8xUgZCVwtBtJKHM1BpJGlzhziAI8hKxsueO-xIg7k3NPjCGkrYsdKdAiDZYOaV5dYEbDa2yI3z9R0bjlyx",
+          "width": 786
+        }
+      ],
+      "place_id": "ChIJ5w91Q3IQ9l8R8YnKusdI9CM",
+      "plus_code": {
+        "compound_code": "W9JH+GJ 飯山市、長野県",
+        "global_code": "8Q8WW9JH+GJ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

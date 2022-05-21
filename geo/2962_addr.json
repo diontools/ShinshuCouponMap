@@ -1,104 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５８",
-        "short_name": "５８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長地権現町",
-        "short_name": "長地権現町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0081",
-        "short_name": "394-0081",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0081 長野県岡谷市長地権現町２丁目１−５８",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0664791,
-          "lng": 138.0716084
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒394-0081 長野県岡谷市長地権現町２丁目１−５８",
+      "geometry": {
+        "location": {
+          "lat": 36.06636719999999,
+          "lng": 138.0714773
         },
-        "southwest": {
-          "lat": 36.06630320000001,
-          "lng": 138.0713595
+        "viewport": {
+          "northeast": {
+            "lat": 36.06762327989272,
+            "lng": 138.0728153298927
+          },
+          "southwest": {
+            "lat": 36.06492362010728,
+            "lng": 138.0701156701073
+          }
         }
       },
-      "location": {
-        "lat": 36.06636719999999,
-        "lng": 138.0714773
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0676783802915,
-          "lng": 138.0728329302915
-        },
-        "southwest": {
-          "lat": 36.0649804197085,
-          "lng": 138.0701349697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0bykvPr_HGAReLlAGy6gIwI",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒394-0081 長野県岡谷市長地権現町２丁目１−５８",
+      "place_id": "ChIJ0bykvPr_HGAReLlAGy6gIwI",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

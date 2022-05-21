@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "歳吉屋内",
-        "short_name": "歳吉屋内",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "５５１",
-        "short_name": "５５１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈良井",
-        "short_name": "奈良井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6303",
-        "short_name": "399-6303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井５５１ 歳吉屋内",
-    "geometry": {
-      "location": {
-        "lat": 35.9661292,
-        "lng": 137.8123914
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9673507802915,
-          "lng": 137.8136676302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井５５１ 歳吉屋内",
+      "geometry": {
+        "location": {
+          "lat": 35.9661292,
+          "lng": 137.8123914
         },
-        "southwest": {
-          "lat": 35.9646528197085,
-          "lng": 137.8109696697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96735162989272,
+            "lng": 137.8136684798927
+          },
+          "southwest": {
+            "lat": 35.96465197010728,
+            "lng": 137.8109688201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ9QkrsJkfHWARVPEr_tj0UZA",
-    "plus_code": {
-      "compound_code": "XR86+FX 日本、長野県塩尻市",
-      "global_code": "8Q7VXR86+FX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "嵓 kura",
+      "photos": [
+        {
+          "height": 6336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115336913161240093686\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB20pcNLkLs1xhQV0CrLqiQVT9QPLMSsbMa8y85VK4464Abe8aQb9VU4Bjx5v2kRni9sZE2eXkLoiFgub5Zp2-VD6OAgJrC7GMUAaSowCZc8mBxq8VlYzk7P3ObjzbgXSlorgqRczsSVBOzaqbb06QmReSGtbO-bgL14wDo_QtDWcWA",
+          "width": 8668
+        }
+      ],
+      "place_id": "ChIJ9QkrsJkfHWARVPEr_tj0UZA",
+      "plus_code": {
+        "compound_code": "XR86+FX 塩尻市、長野県",
+        "global_code": "8Q7VXR86+FX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,82 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "発地南軽井沢",
-        "short_name": "発地南軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0113",
-        "short_name": "389-0113",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地南軽井沢",
-    "geometry": {
-      "location": {
-        "lat": 36.3090477,
-        "lng": 138.6304086
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3103966802915,
-          "lng": 138.6317575802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地南軽井沢",
+      "geometry": {
+        "location": {
+          "lat": 36.3090477,
+          "lng": 138.6304086
         },
-        "southwest": {
-          "lat": 36.3076987197085,
-          "lng": 138.6290596197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31039752989273,
+            "lng": 138.6317584298927
+          },
+          "southwest": {
+            "lat": 36.30769787010728,
+            "lng": 138.6290587701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-fQzW6wsHGAR-PwO1t9yjsw",
-    "plus_code": {
-      "compound_code": "8J5J+J5 日本、長野県軽井沢町",
-      "global_code": "8Q8W8J5J+J5"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "軽井沢72ゴルフ",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107638136676469911142\">伊藤麻夫</a>"
+          ],
+          "photo_reference": "Aap_uECe3V7rFnnosg_Ds2MitBh1f_c5v2oEC1mrM7_YL5KkHdN2aqIheq3LwDlhNM6mtUzO8jsOxN4W8xjPA46OAbBJhHGdExigZ-7w36IhaoWISBtjXmHMmOk_lIaakQeNplw1ImfDvYvXdTzQthHHPclci74O7u0hNalWuyzsU5gHGMh-",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJ-fQzW6wsHGAR-PwO1t9yjsw",
+      "plus_code": {
+        "compound_code": "8J5J+J5 軽井沢町、長野県",
+        "global_code": "8Q8W8J5J+J5"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

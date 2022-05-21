@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５０８９−１",
-        "short_name": "５０８９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊科南穂高",
-        "short_name": "豊科南穂高",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8201",
-        "short_name": "399-8201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8201 長野県安曇野市豊科南穂高５０８９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3257707,
-        "lng": 137.904845
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3270392302915,
-          "lng": 137.9062325802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8201 長野県安曇野市豊科南穂高５０８９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3257707,
+          "lng": 137.904845
         },
-        "southwest": {
-          "lat": 36.3243412697085,
-          "lng": 137.9035346197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32704007989272,
+            "lng": 137.9062334298927
+          },
+          "southwest": {
+            "lat": 36.32434042010728,
+            "lng": 137.9035337701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK01Gg3VtHWARkzKB9vWN5pc",
-    "plus_code": {
-      "compound_code": "8WG3+8W 日本、長野県安曇野市",
-      "global_code": "8Q8V8WG3+8W"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "まちの駅 安曇野BASE",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117472014190962934193\">HATA MIKIKO</a>"
+          ],
+          "photo_reference": "Aap_uEBCBadacv6zBNKtWSE8JOyXiCyVlXo1jQNXJunESsPg5MUwzlm4npDtcprBZGct_aCkddcv187OXJQ_ZVk7ArN3t34A43wa1wSBgeblv1fSaV4fNin5DXQMfDEpW6Et53YYn9sJO_MMJuDX2qtCRhQp57EB_WWhEh5_Ag93Z0YOglUc",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJK01Gg3VtHWARkzKB9vWN5pc",
+      "plus_code": {
+        "compound_code": "8WG3+8W 安曇野市、長野県",
+        "global_code": "8Q8V8WG3+8W"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

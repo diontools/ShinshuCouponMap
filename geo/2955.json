@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県岡谷市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1684826,
-          "lng": 138.1023069
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒394-0027 長野県岡谷市中央町１丁目６−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.0591066,
+          "lng": 138.0463006
         },
-        "southwest": {
-          "lat": 36.0092781,
-          "lng": 137.9912036
+        "viewport": {
+          "northeast": {
+            "lat": 36.06042217989271,
+            "lng": 138.0476461298927
+          },
+          "southwest": {
+            "lat": 36.05772252010727,
+            "lng": 138.0449464701072
+          }
         }
       },
-      "location": {
-        "lat": 36.0670021,
-        "lng": 138.0493709
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1684826,
-          "lng": 138.1023069
-        },
-        "southwest": {
-          "lat": 36.0092781,
-          "lng": 137.9912036
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "旬魚と和食 太助",
+      "photos": [
+        {
+          "height": 3680,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103476372890818339982\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAgHjZhUgZr-SWNGkunZol4iamYoQiLeAZqMGSxGVBZuRw8ANBer_r3U_h5nrsjrJF0wj4s3pLjE6g3vRBf3AHPGtMiGY9SL_Zr1zdikMFXedXtetCfrz-9HrqDIHkVKc0zYXaE9XnxMyXyqKH_Vr80GFIbwaun-7N6FInttBVpQP53",
+          "width": 5520
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJPXUwik4AHWARsuFTjoihlgI",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJNZfiUdH_HGAR0nMo0vkfc10",
+      "plus_code": {
+        "compound_code": "325W+JG 岡谷市、長野県",
+        "global_code": "8Q8W325W+JG"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

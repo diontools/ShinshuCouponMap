@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８０６",
-        "short_name": "１８０６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "八重原",
-        "short_name": "八重原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0406",
-        "short_name": "389-0406",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0406 長野県東御市八重原１８０６",
-    "geometry": {
-      "location": {
-        "lat": 36.3251661,
-        "lng": 138.3251231
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3265265302915,
-          "lng": 138.3264152802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0406 長野県東御市八重原１８０６",
+      "geometry": {
+        "location": {
+          "lat": 36.3251661,
+          "lng": 138.3251231
         },
-        "southwest": {
-          "lat": 36.3238285697085,
-          "lng": 138.3237173197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32652737989272,
+            "lng": 138.3264161298927
+          },
+          "southwest": {
+            "lat": 36.32382772010727,
+            "lng": 138.3237164701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJO0esaVa3HWARyhX8tNg-r00",
-    "plus_code": {
-      "compound_code": "88GG+32 長野県東御市",
-      "global_code": "8Q8W88GG+32"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0406 長野県東御市八重原１８０６",
+      "place_id": "ChIJO0esaVa3HWARyhX8tNg-r00",
+      "plus_code": {
+        "compound_code": "88GG+32 東御市、長野県",
+        "global_code": "8Q8W88GG+32"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

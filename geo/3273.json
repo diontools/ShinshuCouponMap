@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１−４",
-        "short_name": "３１−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北割二区",
-        "short_name": "北割二区",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割二区３１−４",
-    "geometry": {
-      "location": {
-        "lat": 35.73614,
-        "lng": 137.897535
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7375150802915,
-          "lng": 137.8989661302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂北割二区３１−４",
+      "geometry": {
+        "location": {
+          "lat": 35.7361575,
+          "lng": 137.8975701
         },
-        "southwest": {
-          "lat": 35.7348171197085,
-          "lng": 137.8962681697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.73751592989272,
+            "lng": 137.8989669798927
+          },
+          "southwest": {
+            "lat": 35.73481627010728,
+            "lng": 137.8962673201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzdVx3BPtHGARYlG9ZGqWqNU",
-    "plus_code": {
-      "compound_code": "PVPX+F2 長野県駒ヶ根市",
-      "global_code": "8Q7VPVPX+F2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "信州苑光前寺店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117181214271905503890\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBIQhWZfYmRnj-yertXDkQJh5WHwXNT2tHy4sb4VVjI6zHe1lJ-kq_9uN7c2pW5MwOS9k3J_rBGYXyRxPUJdNBvauqW5AVFALaVmTYxcC7Kb1Aw5F3qvmBgg0Qkku2dctBwMuHgdnud_bVLSYJ6DVwgHnAAOGNSHvBAkigqatHycC6b",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJzdVx3BPtHGARYlG9ZGqWqNU",
+      "plus_code": {
+        "compound_code": "PVPX+F2 駒ヶ根市、長野県",
+        "global_code": "8Q7VPVPX+F2"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

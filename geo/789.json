@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "栗田",
-        "short_name": "栗田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0921",
-        "short_name": "380-0921",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0921 長野県長野市栗田",
-    "geometry": {
-      "location": {
-        "lat": 36.642426,
-        "lng": 138.1885863
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6444188802915,
-          "lng": 138.1897435802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、長野県長野市栗田",
+      "geometry": {
+        "location": {
+          "lat": 36.642426,
+          "lng": 138.1885863
         },
-        "southwest": {
-          "lat": 36.6417209197085,
-          "lng": 138.1870456197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64441972989272,
+            "lng": 138.1897444298927
+          },
+          "southwest": {
+            "lat": 36.64172007010728,
+            "lng": 138.1870447701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2WQTZpKGHWARr1DHSed5oEA",
-    "plus_code": {
-      "compound_code": "J5RQ+XC 日本、長野県長野市",
-      "global_code": "8Q8WJ5RQ+XC"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "（株）ステーションビルＭＩＤＯＲＩ 科の木東口店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102899003880351755686\">Keaton Masuda</a>"
+          ],
+          "photo_reference": "Aap_uECHOffaef2z1dG2OZBfXVBpBJ5k0oi_9VTiXUPEVtU5slGxwsfsQ5tfSeU11sBzcY79DJCI9v1aSGlK3XyJ8FrxZ1l0xgWK8Ven8-UAZO9oMGY9pbfvODKvZLmiZQjmKjecLBn6BrIQnhg-NNs_-DcveNtvMj61ywPX3X7ZiUzOJ_9q",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ2WQTZpKGHWARr1DHSed5oEA",
+      "plus_code": {
+        "compound_code": "J5RQ+XC 長野市、長野県",
+        "global_code": "8Q8WJ5RQ+XC"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

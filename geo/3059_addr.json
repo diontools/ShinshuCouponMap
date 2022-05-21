@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７８４−１",
-        "short_name": "２７８４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大島",
-        "short_name": "大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3304",
-        "short_name": "399-3304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島２７８４−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.615149,
-          "lng": 137.8839661
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島２７８４−１",
+      "geometry": {
+        "location": {
+          "lat": 35.6150047,
+          "lng": 137.8835735
         },
-        "southwest": {
-          "lat": 35.6147113,
-          "lng": 137.8833436
+        "viewport": {
+          "northeast": {
+            "lat": 35.61643347989272,
+            "lng": 137.8849414798927
+          },
+          "southwest": {
+            "lat": 35.61373382010728,
+            "lng": 137.8822418201073
+          }
         }
       },
-      "location": {
-        "lat": 35.6150047,
-        "lng": 137.8835735
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.61628593029149,
-          "lng": 137.8850038302915
-        },
-        "southwest": {
-          "lat": 35.61358796970849,
-          "lng": 137.8823058697085
-        }
-      }
-    },
-    "place_id": "ChIJjw56QKCRHGARy7ZVQ4e57Go",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-3304 長野県下伊那郡松川町大島２７８４−１",
+      "place_id": "ChIJjw56QKCRHGARy7ZVQ4e57Go",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２１１１",
-        "short_name": "１２１１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１２１１１",
-    "geometry": {
-      "location": {
-        "lat": 36.7153612,
-        "lng": 137.8600261
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7166699802915,
-          "lng": 137.8614807302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城１２１１１",
+      "geometry": {
+        "location": {
+          "lat": 36.7153612,
+          "lng": 137.8600261
         },
-        "southwest": {
-          "lat": 36.7139720197085,
-          "lng": 137.8587827697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71667082989272,
+            "lng": 137.8614815798927
+          },
+          "southwest": {
+            "lat": 36.71397117010728,
+            "lng": 137.8587819201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJw7NSoZXN918R-w2su7ybs8g",
-    "plus_code": {
-      "compound_code": "PV86+42 長野県白馬村",
-      "global_code": "8Q8VPV86+42"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "白馬EXアドベンチャー",
+      "photos": [
+        {
+          "height": 447,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116213606085441432806\">白馬EXadoventure</a>"
+          ],
+          "photo_reference": "Aap_uEA2242-vcxRkyYSwQA0E7RzyFP5RQTpuxNwJ2ohbTQj-HLH4pW05XdM9zySeOXBM-uc-UC1ZhhBIBHM_f27N_SxMaxIosI4yReeRGsXgW8xZbUuI-zbA6MtCITrDxoTopm4O7Q6fJasGSVjtC9IfbIee3mZ5mpPUg6gmXjMs2T7IAFI",
+          "width": 538
+        }
+      ],
+      "place_id": "ChIJw7NSoZXN918R-w2su7ybs8g",
+      "plus_code": {
+        "compound_code": "PV86+42 白馬村、長野県",
+        "global_code": "8Q8VPV86+42"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

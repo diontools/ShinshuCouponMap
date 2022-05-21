@@ -1,109 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "権堂ビル",
-        "short_name": "権堂ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２２１４−２１",
-        "short_name": "２２１４−２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "緑町",
-        "short_name": "緑町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0907",
-        "short_name": "380-0907",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0907 長野県長野市鶴賀緑町２２１４−２１ 権堂ビル 1f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6515649,
-          "lng": 138.1921435
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、長野県長野市 権堂ビル 1F 権堂町 2309 中央通り",
+      "geometry": {
+        "location": {
+          "lat": 36.6524783,
+          "lng": 138.1874077
         },
-        "southwest": {
-          "lat": 36.6514933,
-          "lng": 138.1919963
+        "viewport": {
+          "northeast": {
+            "lat": 36.65378982989272,
+            "lng": 138.1887569298927
+          },
+          "southwest": {
+            "lat": 36.65109017010727,
+            "lng": 138.1860572701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6515379,
-        "lng": 138.1921205
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6528885302915,
-          "lng": 138.1934188802915
-        },
-        "southwest": {
-          "lat": 36.65019056970851,
-          "lng": 138.1907209197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "tsumugi cafe&bar（ツムギ カフェ&バー）",
+      "photos": [
+        {
+          "height": 1764,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202742088518950433\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDx2dHD31uoGUmY6BopgHUFxHxvlQc6zkJkR2UY3ejFnPzx-_kAjWTATVSnYVwZOYKEgdlIg8uIN0nb_1k_s13zIzmE_SrbvkoCPEywxb3s68FPG1D8HkMxxdCx5Tiyms_De3Jh5qNB-k88Z8R6HGIDgxcWQjEzYMIAUOuI7HO-6ujR",
+          "width": 3022
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ElZKYXBhbiwg44CSMzgwLTA5MDcgTmFnYW5vLCBUc3VydWdhLCBNaWRvcmljaMWN4oiS77yS77yS77yR77yU4oiS77yS77yRIOaoqeWgguODk-ODqyAxZiIeGhwKFgoUChIJpxyRgvGGHWARYMFTmeua0xASAjFm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJf7jacVCHHWAR0p-O02net8c",
+      "plus_code": {
+        "compound_code": "M52P+XX 長野市、長野県",
+        "global_code": "8Q8WM52P+XX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

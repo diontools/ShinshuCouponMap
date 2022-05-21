@@ -1,108 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "サンクチュアリビル",
-        "short_name": "サンクチュアリビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "2",
-        "short_name": "2",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本町",
-        "short_name": "本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0044",
-        "short_name": "395-0044",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0044 長野県飯田市本町２丁目2−１ サンクチュアリビル",
-    "geometry": {
-      "location": {
-        "lat": 35.5152051,
-        "lng": 137.8248677
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5165511302915,
-          "lng": 137.8262706302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0044 長野県飯田市本町２丁目2−１ サンクチュアリビル",
+      "geometry": {
+        "location": {
+          "lat": 35.5152051,
+          "lng": 137.8248677
         },
-        "southwest": {
-          "lat": 35.5138531697085,
-          "lng": 137.8235726697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51655197989271,
+            "lng": 137.8262714798927
+          },
+          "southwest": {
+            "lat": 35.51385232010727,
+            "lng": 137.8235718201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJD9Q9yJWZHGARYDNQBei6VFs",
-    "plus_code": {
-      "compound_code": "GR8F+3W 長野県飯田市",
-      "global_code": "8Q7VGR8F+3W"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ナチュラルキッチンＴＥＳＳＨＩＮ",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105993877893565483348\">雅則成瀬</a>"
+          ],
+          "photo_reference": "Aap_uEBIlS6z5yflojX7GYxHFwnrNzOnitUt5tACLiHgiLCwBvjaHWUp_chMYxaBiUPMbxr5XDNV_PUV5hrwa_FycuWu38Lg0ZHuFprL0APXoa11rKIiG6ImbpNIQtu2qNQage5C4VE0--A4qySwRRMNIfpYwCV7XcsSFvOWyJzrfzbkt_kG",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJD9Q9yJWZHGARYDNQBei6VFs",
+      "plus_code": {
+        "compound_code": "GR8F+3W 飯田市、長野県",
+        "global_code": "8Q7VGR8F+3W"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

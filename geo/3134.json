@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２７−１",
-        "short_name": "１２７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "米沢",
-        "short_name": "米沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0216",
-        "short_name": "391-0216",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0216 長野県茅野市米沢１２７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.0091667,
-        "lng": 138.1748193
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0105013302915,
-          "lng": 138.1763063802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0216 長野県茅野市米沢１２７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0091525,
+          "lng": 138.1749793
         },
-        "southwest": {
-          "lat": 36.0078033697085,
-          "lng": 138.1736084197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01050217989272,
+            "lng": 138.1763072298927
+          },
+          "southwest": {
+            "lat": 36.00780252010728,
+            "lng": 138.1736075701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVVVlLd9QHGAROkUmvFL20Ug",
-    "plus_code": {
-      "compound_code": "255F+MW 長野県茅野市",
-      "global_code": "8Q8W255F+MW"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "たまごとミルクとりんごの樹 蓼科店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100505407590159258135\">清水英二</a>"
+          ],
+          "photo_reference": "Aap_uEA1-WM2S6I_dkBDxDuZKQOICSlwUVWLhD2PRXkWMf6eYNAC54WJ_W_-vvwlE9Tclyf8OUM_wwtXVbqRCp9uqNYA_GV5p6_0CXrtwYkXMmEOrmvNURodZ7lFdPspNQZpJHwoYezvZ9KFNiDhPCjzzBIzL-TaFlsx5BHnE4XIByjEF-aJ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJVVVlLd9QHGAROkUmvFL20Ug",
+      "plus_code": {
+        "compound_code": "255F+MW 茅野市、長野県",
+        "global_code": "8Q8W255F+MW"
+      },
+      "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

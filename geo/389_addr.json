@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４３７−１",
-        "short_name": "４４３７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "古海",
-        "short_name": "古海",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1302",
-        "short_name": "389-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海４４３７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.8343917,
-        "lng": 138.2424401
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.83568598029149,
-          "lng": 138.2437214302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海４４３７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.8343917,
+          "lng": 138.2424401
         },
-        "southwest": {
-          "lat": 36.8329880197085,
-          "lng": 138.2410234697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.83568682989272,
+            "lng": 138.2437222798927
+          },
+          "southwest": {
+            "lat": 36.83298717010727,
+            "lng": 138.2410226201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJzXGi9_0i9l8R1FD3w4EDZ3o",
-    "plus_code": {
-      "compound_code": "R6MR+QX 長野県信濃町",
-      "global_code": "8Q8WR6MR+QX"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-1302 長野県上水内郡信濃町古海４４３７−１",
+      "place_id": "ChIJzXGi9_0i9l8R1FD3w4EDZ3o",
+      "plus_code": {
+        "compound_code": "R6MR+QX 信濃町、長野県",
+        "global_code": "8Q8WR6MR+QX"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

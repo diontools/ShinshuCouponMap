@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３７３−６",
-        "short_name": "１３７３−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１３７３−６",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3581431,
-          "lng": 138.6259277
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１３７３−６",
+      "geometry": {
+        "location": {
+          "lat": 36.3579787,
+          "lng": 138.6256538
         },
-        "southwest": {
-          "lat": 36.3576324,
-          "lng": 138.6253912
+        "viewport": {
+          "northeast": {
+            "lat": 36.35949727989272,
+            "lng": 138.6268395298927
+          },
+          "southwest": {
+            "lat": 36.35679762010728,
+            "lng": 138.6241398701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3579787,
-        "lng": 138.6256538
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3593232802915,
-          "lng": 138.6269756302915
-        },
-        "southwest": {
-          "lat": 36.3566253197085,
-          "lng": 138.6242776697085
-        }
-      }
-    },
-    "place_id": "ChIJMRTzEZHTHWARCaZHcTkz85M",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0102 長野県北佐久郡軽井沢町軽井沢１３７３−６",
+      "place_id": "ChIJMRTzEZHTHWARCaZHcTkz85M",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

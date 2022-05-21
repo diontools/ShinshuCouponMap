@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1213番地",
-        "short_name": "1213番地",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2253 長野県飯山市飯山1213番地",
-    "geometry": {
-      "location": {
-        "lat": 36.850903,
-        "lng": 138.3629788
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.85227998029149,
-          "lng": 138.3641479802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山1213番地",
+      "geometry": {
+        "location": {
+          "lat": 36.850903,
+          "lng": 138.3629789
         },
-        "southwest": {
-          "lat": 36.8495820197085,
-          "lng": 138.3614500197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85228082989272,
+            "lng": 138.3641488798927
+          },
+          "southwest": {
+            "lat": 36.84958117010727,
+            "lng": 138.3614492201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3dIANy8Z9l8R317-aGkraoA",
-    "plus_code": {
-      "compound_code": "V927+95 日本、長野県飯山市",
-      "global_code": "8Q8WV927+95"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルほていや",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106664321250170489315\">makkun</a>"
+          ],
+          "photo_reference": "Aap_uECTj3BUZ8sWTj9vLIJtMlfTc8JhjT8_MMR4dZ0-dOkOIHiqbxYULnr-ZuQuQGzY0NWUbM7VytcLlVsaRzMnK259grh1zl46XtadNSzgQclzCdhJ0Vy3rTPP48nfima6ud7bBHbjjRv2ap4p8uqeKYp2vXiUAiV-gNDX5iOxTF3FPOe4",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ3dIANy8Z9l8R317-aGkraoA",
+      "plus_code": {
+        "compound_code": "V927+95 飯山市、長野県",
+        "global_code": "8Q8WV927+95"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

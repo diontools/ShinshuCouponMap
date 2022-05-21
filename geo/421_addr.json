@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７５５−２３４７",
-        "short_name": "２７５５−２３４７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "川上",
-        "short_name": "川上",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯綱町",
-        "short_name": "飯綱町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1226",
-        "short_name": "389-1226",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1226 長野県上水内郡飯綱町川上２７５５−２３４７",
-    "geometry": {
-      "location": {
-        "lat": 36.7371643,
-        "lng": 138.1798434
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7384565802915,
-          "lng": 138.1811933802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-1226 長野県上水内郡飯綱町川上２７５５−２３４７",
+      "geometry": {
+        "location": {
+          "lat": 36.7371643,
+          "lng": 138.1798434
         },
-        "southwest": {
-          "lat": 36.73575861970851,
-          "lng": 138.1784954197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73845742989272,
+            "lng": 138.1811942298928
+          },
+          "southwest": {
+            "lat": 36.73575777010728,
+            "lng": 138.1784945701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJDZDKNYwo9l8RS70hEeGDvEk",
-    "plus_code": {
-      "compound_code": "P5PH+VW 長野県飯綱町",
-      "global_code": "8Q8WP5PH+VW"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-1226 長野県上水内郡飯綱町川上２７５５−２３４７",
+      "place_id": "ChIJDZDKNYwo9l8RS70hEeGDvEk",
+      "plus_code": {
+        "compound_code": "P5PH+VW 飯綱町、長野県",
+        "global_code": "8Q8WP5PH+VW"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

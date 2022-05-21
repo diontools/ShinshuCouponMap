@@ -1,99 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "常田",
-        "short_name": "常田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0018",
-        "short_name": "386-0018",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0018 長野県上田市常田２丁目３−４",
-    "geometry": {
-      "location": {
-        "lat": 36.396348,
-        "lng": 138.254308
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3977661802915,
-          "lng": 138.2557227302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0018 長野県上田市常田２丁目３−４",
+      "geometry": {
+        "location": {
+          "lat": 36.3963645,
+          "lng": 138.2543211
         },
-        "southwest": {
-          "lat": 36.39506821970851,
-          "lng": 138.2530247697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39776702989272,
+            "lng": 138.2557235798927
+          },
+          "southwest": {
+            "lat": 36.39506737010727,
+            "lng": 138.2530239201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEcqloNy8HWARAZq3NbrNIKg",
-    "plus_code": {
-      "compound_code": "97W3+GP 日本、長野県上田市",
-      "global_code": "8Q8W97W3+GP"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "省和タクシー（株）",
+      "photos": [
+        {
+          "height": 3354,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113177172218939808584\">Taro Kikuchi</a>"
+          ],
+          "photo_reference": "Aap_uEBnUeZyAnEsq2GP_r2SSXKQkdYQmyOAXl1iyY0ZA6RyKUaujU2ddKVb5sgbrtwa9o88xgWPld_4-pOnhmXAzzbnHy7iFsqo-UDNWmbGknsWJncUjRfOLddQ1sJ1PcoE1d7l4i52d1dOyyvB2NJlh9qp8Ts-1DUTLD1cemejcgui-cGd",
+          "width": 3354
+        }
+      ],
+      "place_id": "ChIJEcqloNy8HWARAZq3NbrNIKg",
+      "plus_code": {
+        "compound_code": "97W3+GP 上田市、長野県",
+        "global_code": "8Q8W97W3+GP"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

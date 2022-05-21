@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡野沢温泉村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷８６６１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.9242483,
+          "lng": 138.448272
         },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+        "viewport": {
+          "northeast": {
+            "lat": 36.92562637989272,
+            "lng": 138.4496731298927
+          },
+          "southwest": {
+            "lat": 36.92292672010728,
+            "lng": 138.4469734701073
+          }
         }
       },
-      "location": {
-        "lat": 36.9228462,
-        "lng": 138.4405097
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
-        },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "なっぱカフェ ｢78cafe｣",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104383341146634194733\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED2kE3N2Yw4E6rVnZ89Ic0twfLXL9PeYl15ALQMZQqoyVgqiFBfQxsDoCyuYqOkPQDP9LmyPmfnCr1AMD5dntut48ZiTqqHrAgvw8-un9v1ybwxHA4DpBMURbr0UGjmH5LZiai8k1PY2fc8b-BVRKzBteSX9ZYmytcsnnhknroyAJnc",
+          "width": 3096
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK2HJ2xoF9l8RMIVuRlrbkRg",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJrW2ppS8F9l8RXNnNfzHRIKM",
+      "plus_code": {
+        "compound_code": "WCFX+M8 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+M8"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

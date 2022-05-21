@@ -1,100 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０８７−２",
-        "short_name": "１０８７−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "海ノ口",
-        "short_name": "海ノ口",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大字",
-        "short_name": "大字",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1302",
-        "short_name": "384-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1302 長野県南佐久郡南牧村大字海ノ口１０８７−２",
-    "geometry": {
-      "location": {
-        "lat": 36.018475,
-        "lng": 138.492857
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0198532302915,
-          "lng": 138.4943858802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1302 長野県南佐久郡南牧村大字海ノ口１０８７−２",
+      "geometry": {
+        "location": {
+          "lat": 36.018475,
+          "lng": 138.492857
         },
-        "southwest": {
-          "lat": 36.0171552697085,
-          "lng": 138.4916879197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.01985407989272,
+            "lng": 138.4943867298927
+          },
+          "southwest": {
+            "lat": 36.01715442010727,
+            "lng": 138.4916870701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_eOhGBc8HGARJPrwVwWBeuM",
-    "plus_code": {
-      "compound_code": "2F9V+94 日本、長野県南牧村",
-      "global_code": "8Q8W2F9V+94"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "レストラン・ストローハット",
+      "photos": [
+        {
+          "height": 2827,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111519802063070487980\">BUS1973 VW</a>"
+          ],
+          "photo_reference": "Aap_uEChU-9aqZoTQSqUloJe-svLyvKzqWQIQM-s4NcThNrPfrohy6TSmte5OXm-llkDDoUHZSy6YK5x7RSWnUzXG1hAZkYXs4cZvMZpGnr1XpPvEDdS_G-zMF4kYhrZYcV3_jF6B4o1xrG22aiJYZ477y1_6rmGpic60aSIbZgEcutoHVG6",
+          "width": 3801
+        }
+      ],
+      "place_id": "ChIJ_eOhGBc8HGARJPrwVwWBeuM",
+      "plus_code": {
+        "compound_code": "2F9V+94 南牧村、長野県",
+        "global_code": "8Q8W2F9V+94"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１９−７５",
-        "short_name": "３４１９−７５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１９−７５",
-    "geometry": {
-      "location": {
-        "lat": 36.10489,
-        "lng": 138.239293
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.10623898029149,
-          "lng": 138.2406419802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１９−７５",
+      "geometry": {
+        "location": {
+          "lat": 36.10489,
+          "lng": 138.239293
         },
-        "southwest": {
-          "lat": 36.1035410197085,
-          "lng": 138.2379440197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10623982989272,
+            "lng": 138.2406428298927
+          },
+          "southwest": {
+            "lat": 36.10354017010727,
+            "lng": 138.2379431701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQxmKoHhSHGAReQYb9ht5Y0A",
-    "plus_code": {
-      "compound_code": "463Q+XP 長野県茅野市",
-      "global_code": "8Q8W463Q+XP"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "八ヶ岳アドベンチャーツアーズ",
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107508331715053196153\">白樺湖カヌースクール</a>"
+          ],
+          "photo_reference": "Aap_uEBjoPZaMsHNFpOXz-Ptr2HX2Gh74fX46h1DZnG3JUL_L6xJ3vRB8WLqPSvXOLcjqDLWE2Galmfu9PtX8YL4TyRvTLd9m1-AI-pyAoqHPCUOxuFxTEnjhXdpF0puCHoXsBlporSxqdcNgKZRLQTC4hN5S7GeCgUTRz8xM2bP8ghm6vHK",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJQxmKoHhSHGAReQYb9ht5Y0A",
+      "plus_code": {
+        "compound_code": "463Q+XP 茅野市、長野県",
+        "global_code": "8Q8W463Q+XP"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

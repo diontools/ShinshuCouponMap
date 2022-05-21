@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県長野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-3166 長野県長野市七二会丙２５２",
+      "geometry": {
+        "location": {
+          "lat": 36.6216581,
+          "lng": 138.0604193
         },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.62304782989273,
+            "lng": 138.0616958798927
+          },
+          "southwest": {
+            "lat": 36.62034817010728,
+            "lng": 138.0589962201072
+          }
         }
       },
-      "location": {
-        "lat": 36.6485258,
-        "lng": 138.1950371
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8357339,
-          "lng": 138.3189125
-        },
-        "southwest": {
-          "lat": 36.4607548,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "古民家一棟貸 アウルズハウス kominka house rental [Owls House］",
+      "photos": [
+        {
+          "height": 2291,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103018109996002287169\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBszlpkk-VN4o8Sl-gqLuSiWr3x3qO0IvEToiwVmE1EOY0PAeO6kKgqKEbbyP_CrRfRJ2ia_L_lMPyPzWMKojRsYI8g2KAR5mNr1w6Ucof6EHa8GLJzYGbf00mCt-_X-LmdkuSb5KSw3B5rtMkWiZusFKaIh8J0sOlwWd3Yi09Yg9xd",
+          "width": 2228
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJIUq7jIF5HWAR0X65kDCiLaA",
+      "plus_code": {
+        "compound_code": "J3C6+M5 長野市、長野県",
+        "global_code": "8Q8WJ3C6+M5"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

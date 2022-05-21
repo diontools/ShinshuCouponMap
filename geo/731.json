@@ -1,76 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松代町松代",
-        "short_name": "松代町松代",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-1231",
-        "short_name": "381-1231",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-1231 長野県長野市松代町松代 鍛治町955 食いしん坊かじや",
-    "geometry": {
-      "location": {
-        "lat": 36.564485,
-        "lng": 138.202797
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5658518302915,
-          "lng": 138.2040850802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-1231 長野県長野市松代町松代 鍛治町955 食いしん坊かじや",
+      "geometry": {
+        "location": {
+          "lat": 36.5645061,
+          "lng": 138.2027448
         },
-        "southwest": {
-          "lat": 36.5631538697085,
-          "lng": 138.2013871197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.56585267989271,
+            "lng": 138.2040859298927
+          },
+          "southwest": {
+            "lat": 36.56315302010727,
+            "lng": 138.2013862701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJM-joqyuFHWARR6Ul5Q2H-3M",
-    "plus_code": {
-      "compound_code": "H673+Q4 日本、長野県長野市",
-      "global_code": "8Q8WH673+Q4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "食いしん坊 かじや",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100615383075510519008\">Masayuki Hirayama</a>"
+          ],
+          "photo_reference": "Aap_uECo2qwfh792HvGEBfh0HYURaRskRhq2J_si19ZnanF42qX6QgdezwLkjiEeRsA12QWjs5MCZ_b6k9U7wgEshaHsA6pmLK21J7SWVNJt8qD9TuEdYYixC1isDe_DBo4vmIeWMfYpWe7SG1gfXVUD7lLeQm_qBRIx0UmzNelePX4_fjwD",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJM-joqyuFHWARR6Ul5Q2H-3M",
+      "plus_code": {
+        "compound_code": "H673+Q4 長野市、長野県",
+        "global_code": "8Q8WH673+Q4"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

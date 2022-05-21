@@ -1,75 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山 鹿山4026-2",
-    "geometry": {
-      "location": {
-        "lat": 36.0681502,
-        "lng": 138.2515077
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0699177802915,
-          "lng": 138.2532433302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山 鹿山4026-2",
+      "geometry": {
+        "location": {
+          "lat": 36.0681502,
+          "lng": 138.2515077
         },
-        "southwest": {
-          "lat": 36.0672198197085,
-          "lng": 138.2505453697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.06991862989272,
+            "lng": 138.2532441798927
+          },
+          "southwest": {
+            "lat": 36.06721897010728,
+            "lng": 138.2505445201072
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "蓼科 東急ホテル",
+      "photos": [
+        {
+          "height": 1308,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111895540692439076683\">蓼科東急リゾート</a>"
+          ],
+          "photo_reference": "Aap_uEDgcgAUXfdsYQ6zSMct0L_Fe2WTfL8ra_PB_5gvueWIdvm1acLCfXIFM6731BARjIkndZ7NtR-rutNCWxP_TiYeuny_KEWO15jtHxlW5aRAlcKFjDxi3XmycwlxNvH1_n8rthHIIvalz6rX1bCxTX_t49nT99M66PSjO1bwvo_oPs_-",
+          "width": 2008
+        }
+      ],
+      "place_id": "ChIJf8e2ahFOHGARwy7sE39QZlQ",
+      "plus_code": {
+        "compound_code": "3792+7J 茅野市、長野県",
+        "global_code": "8Q8W3792+7J"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJf8e2ahFOHGARwy7sE39QZlQ",
-    "plus_code": {
-      "compound_code": "3792+7J 長野県茅野市",
-      "global_code": "8Q8W3792+7J"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山 字鹿山4026-2 東急リゾートタウン蓼科内",
+      "geometry": {
+        "location": {
+          "lat": 36.0689819,
+          "lng": 138.2548248
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.07036987989273,
+            "lng": 138.2563607798928
+          },
+          "southwest": {
+            "lat": 36.06767022010728,
+            "lng": 138.2536611201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "東急リゾートタウン蓼科",
+      "photos": [
+        {
+          "height": 2780,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115743456420940462991\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBV3XFWUf_H2_uDRnpayIKM6aqtKrFx8DYVXF4_6uRO1eFxP2-junPVID_0QgdcN8_uVr7ne1_6yGjkVlK3pqf1db6bV_Xpt-4WK2JqHZoO5NxoTNRUG3KePWfNyWg-6Nc4DgHvmCOiy5-iWRIPLeKB53XhaG5VncWv0gRaZRpfZlIn",
+          "width": 4188
+        }
+      ],
+      "place_id": "ChIJdQUJhRFOHGAR4jhKmnwXORU",
+      "plus_code": {
+        "compound_code": "3793+HW 茅野市、長野県",
+        "global_code": "8Q8W3793+HW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

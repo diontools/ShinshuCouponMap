@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "大門八番町",
-        "short_name": "大門八番町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0737",
-        "short_name": "399-0737",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0737 長野県塩尻市大門八番町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.11613639999999,
-          "lng": 137.9526466
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0737 長野県塩尻市大門八番町",
+      "geometry": {
+        "location": {
+          "lat": 36.1130635,
+          "lng": 137.9496535
         },
-        "southwest": {
-          "lat": 36.109907,
-          "lng": 137.9480119
+        "viewport": {
+          "northeast": {
+            "lat": 36.11613639999999,
+            "lng": 137.9526466
+          },
+          "southwest": {
+            "lat": 36.109907,
+            "lng": 137.9480119
+          }
         }
       },
-      "location": {
-        "lat": 36.1130635,
-        "lng": 137.9496535
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.11613639999999,
-          "lng": 137.9526466
-        },
-        "southwest": {
-          "lat": 36.109907,
-          "lng": 137.9480119
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "大門八番町",
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107516779354633012927\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBVq3qJEV9Z7m5Zjrw0WeLBx8wCI-qmzs7mDFupgFaNSdrrILuTIybJvTSHWbGtGJeE2_tnWQUNibWeGiPkzrFeuif1AtcS7-G_QtIZdRxovM4njSFOqq_K3KFq6iCJJ31XvfsETHOwXuGkt1qRmudx0zDA4-uQ5RlZNWIMi7RTp8ex",
+          "width": 4898
         }
-      }
-    },
-    "place_id": "ChIJd4rDNu0EHWARqOxhWy_0GAo",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJd4rDNu0EHWARqOxhWy_0GAo",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７０１５",
-        "short_name": "７０１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "ちの",
-        "short_name": "ちの",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0001",
-        "short_name": "391-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0001 長野県茅野市ちの７０１５",
-    "geometry": {
-      "location": {
-        "lat": 35.9931125,
-        "lng": 138.152554
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9945017302915,
-          "lng": 138.1539872302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0001 長野県茅野市ちの７０１５",
+      "geometry": {
+        "location": {
+          "lat": 35.9931125,
+          "lng": 138.152554
         },
-        "southwest": {
-          "lat": 35.9918037697085,
-          "lng": 138.1512892697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99450257989272,
+            "lng": 138.1539880798927
+          },
+          "southwest": {
+            "lat": 35.99180292010728,
+            "lng": 138.1512884201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJE7EEMi5XHGARH7q92EOKJSY",
-    "plus_code": {
-      "compound_code": "X5V3+62 長野県茅野市",
-      "global_code": "8Q7WX5V3+62"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0001 長野県茅野市ちの７０１５",
+      "place_id": "ChIJE7EEMi5XHGARH7q92EOKJSY",
+      "plus_code": {
+        "compound_code": "X5V3+62 茅野市、長野県",
+        "global_code": "8Q7WX5V3+62"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

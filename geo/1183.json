@@ -1,94 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "相生町",
-        "short_name": "相生町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0025",
-        "short_name": "384-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0025 長野県小諸市相生町１丁目１",
-    "geometry": {
-      "location": {
-        "lat": 36.32720339999999,
-        "lng": 138.4216918
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3285178302915,
-          "lng": 138.4231281802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0025 長野県小諸市相生町１丁目１",
+      "geometry": {
+        "location": {
+          "lat": 36.32720339999999,
+          "lng": 138.4216918
         },
-        "southwest": {
-          "lat": 36.3258198697085,
-          "lng": 138.4204302197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32851867989272,
+            "lng": 138.4231290298927
+          },
+          "southwest": {
+            "lat": 36.32581902010728,
+            "lng": 138.4204293701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJey5heTvJHWARsPig-DCjOQY",
-    "plus_code": {
-      "compound_code": "8CGC+VM 日本、長野県小諸市",
-      "global_code": "8Q8W8CGC+VM"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "小諸駅のまど",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109765004348084408325\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBLENBycwdvT14hT8EVy_9jMstv3cV_Ev-D1PCm01V2gZgkGZ6LTj9X1XSclXJWneAXRz52BnXDAmK5LU9z4W96ZUi8C8sQXlaY6wn3vJ11Bg240q_yOIlW5XVPdtu9jTxYxwCbdmA-VkJ3jR8rNW7EvPHYKJ8FJvi0gov9v0wTNJcW",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJey5heTvJHWARsPig-DCjOQY",
+      "plus_code": {
+        "compound_code": "8CGC+VM 小諸市、長野県",
+        "global_code": "8Q8W8CGC+VM"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "千国",
-        "short_name": "千国",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国",
-    "geometry": {
-      "location": {
-        "lat": 36.7864803,
-        "lng": 137.7952356
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7878292802915,
-          "lng": 137.7965845802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国",
+      "geometry": {
+        "location": {
+          "lat": 36.7864803,
+          "lng": 137.7952356
         },
-        "southwest": {
-          "lat": 36.7851313197085,
-          "lng": 137.7938866197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.78783012989272,
+            "lng": 137.7965854298927
+          },
+          "southwest": {
+            "lat": 36.78513047010728,
+            "lng": 137.7938857701072
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白馬大池山荘",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102120532190093281905\">石田武</a>"
+          ],
+          "photo_reference": "Aap_uEDa9Qlg-pYJS74M9ePh7kt8Q2NKXAvJNtdrGxWRPI1aXGmS-_Ho4KH3s8OL0nCZ6j8r5zxSryiESVOkCQ5dUq4kfC03tlaLpRvjU_ZR_tbN88LgWYlIcPfJbDu-jPIEqKWL7l5mKWV-Yf-LdF9ONWYp4bqnY1Ai7D3mIlaeSIbot9Fk",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJV8bbESPN918RzO3Xt0uOPrk",
+      "plus_code": {
+        "compound_code": "QQPW+H3 小谷村、長野県",
+        "global_code": "8Q8VQQPW+H3"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJV8bbESPN918RzO3Xt0uOPrk",
-    "plus_code": {
-      "compound_code": "QQPW+H3 長野県小谷村",
-      "global_code": "8Q8VQQPW+H3"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国",
+      "geometry": {
+        "location": {
+          "lat": 36.7862147,
+          "lng": 137.7949876
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.78756452989272,
+            "lng": 137.7963374298927
+          },
+          "southwest": {
+            "lat": 36.78486487010728,
+            "lng": 137.7936377701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "白馬大池山荘テント場",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102155906385614746900\">Hitomi Totsuka</a>"
+          ],
+          "photo_reference": "Aap_uEBFoNKx9PxoUQHV8Y-_Xdha-4ONMdxhWkZDsfAqi2AnYTh2s342mFhSgmoXLCxz25g8K81mryMaqQYCQvR9lNVJKImfJYWVepFxrjQBe4UP-QorMbvraL_2NXbf3SlE6f6I8LSqf2ttnuizdo0UzAlDh5fQ80gunGjULn89M_zVGKN3",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJu50nDTrL918RziZqkXijShY",
+      "plus_code": {
+        "compound_code": "QQPV+FX 小谷村、長野県",
+        "global_code": "8Q8VQQPV+FX"
+      },
+      "types": [
+        "campground",
+        "park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

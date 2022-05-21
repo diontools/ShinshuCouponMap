@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５０２",
-        "short_name": "３５０２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "ちの",
-        "short_name": "ちの",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0001",
-        "short_name": "391-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0001 長野県茅野市ちの３５０２",
-    "geometry": {
-      "location": {
-        "lat": 35.994015,
-        "lng": 138.1524039
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9953091302915,
-          "lng": 138.1536584802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0001 長野県茅野市ちの３５０２",
+      "geometry": {
+        "location": {
+          "lat": 35.994015,
+          "lng": 138.1524039
         },
-        "southwest": {
-          "lat": 35.9926111697085,
-          "lng": 138.1509605197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99530997989272,
+            "lng": 138.1536593298927
+          },
+          "southwest": {
+            "lat": 35.99261032010728,
+            "lng": 138.1509596701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdzw5TS5XHGARWZ-mEiu9thw",
-    "plus_code": {
-      "compound_code": "X5V2+JX 長野県茅野市",
-      "global_code": "8Q7WX5V2+JX"
-    },
-    "types": [
-      "car_rental",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ＪＲ駅レンタカー 茅野営業所",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104591924125228826075\">内山啓輝</a>"
+          ],
+          "photo_reference": "Aap_uEAXg3Dnv80xA2Sjlz2MhiQ4yIBOKif07wjZe1wlZ2DgY_NTQWBwKEaRPOhDDVkyBt_LwvgUbYviNQvMJlFS034o00iNotouHaSheoscPPKYfl55XXxPi9HBsnyQKMaCUi3OrSmgrQrNbN-zFBohSh5kggfk9XjmUt4hj1rKsi_cU5GF",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJdzw5TS5XHGARWZ-mEiu9thw",
+      "plus_code": {
+        "compound_code": "X5V2+JX 茅野市、長野県",
+        "global_code": "8Q7WX5V2+JX"
+      },
+      "types": [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

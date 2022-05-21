@@ -1,82 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６１",
-        "short_name": "６１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "日滝",
-        "short_name": "日滝",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0000",
-        "short_name": "382-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0000 長野県須坂市日滝６１",
-    "geometry": {
-      "location": {
-        "lat": 36.653858,
-        "lng": 138.319974
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6552699302915,
-          "lng": 138.3215394802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0013 長野県須坂市須坂常盤町７０２",
+      "geometry": {
+        "location": {
+          "lat": 36.6551065,
+          "lng": 138.3151323
         },
-        "southwest": {
-          "lat": 36.6525719697085,
-          "lng": 138.3188415197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65648942989273,
+            "lng": 138.3164568298927
+          },
+          "southwest": {
+            "lat": 36.65378977010728,
+            "lng": 138.3137571701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJkfLBxSmMHWARWZ370F9wIoY",
-    "plus_code": {
-      "compound_code": "M839+GX 長野県須坂市",
-      "global_code": "8Q8WM839+GX"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "school"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "松葉屋そば店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389776440660096574\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED8-P9XOfcCzPq6sH9S0Kkm4DEMPTVTifSsEVQlcDdA36ALdgTzsUHk9gdhBdxTJRKGHfwJ_XxgsQw8BZMcejJM4aeErLxNcU0TIuB5YqZ9OfXiIUA8kVRJSoFDHwFMMhHen-OzIETGl44LxJViMqtor7Nef53QSFyIoz221Vn-NN3P",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ3232FoOOHWARiGJdQZDRszw",
+      "plus_code": {
+        "compound_code": "M848+32 須坂市、長野県",
+        "global_code": "8Q8WM848+32"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

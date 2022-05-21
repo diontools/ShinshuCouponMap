@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り３丁目５−９",
-    "geometry": {
-      "location": {
-        "lat": 36.0507715,
-        "lng": 138.1144215
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.05212298029149,
-          "lng": 138.1157089302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り３丁目５−９",
+      "geometry": {
+        "location": {
+          "lat": 36.0507722,
+          "lng": 138.11434
         },
-        "southwest": {
-          "lat": 36.0494250197085,
-          "lng": 138.1130109697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05212382989272,
+            "lng": 138.1157097798927
+          },
+          "southwest": {
+            "lat": 36.04942417010727,
+            "lng": 138.1130101201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ52pCj65VHGARHU4-OrxxrpE",
-    "plus_code": {
-      "compound_code": "3427+8Q 長野県諏訪市",
-      "global_code": "8Q8W3427+8Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "旨いもんや 和かし",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116794526925720444316\">Ambho Deva</a>"
+          ],
+          "photo_reference": "Aap_uECpyPkJTOoC9kQnlQDlIv_3YiAUgjTxp1Y3r2grPhO6ywKC5N0cCgvjQHFByynedy29dbUOeTRNlscT_8NhJqPQhTH7Gx8DKbVilwkdkfjM80eegtD7aWUMpDurLva8mCdV5EXa2vgusHu4WyH7vANI9VK10xhhQ_VVrR-Sdt7LIEmJ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ52pCj65VHGARHU4-OrxxrpE",
+      "plus_code": {
+        "compound_code": "3427+8Q 諏訪市、長野県",
+        "global_code": "8Q8W3427+8Q"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

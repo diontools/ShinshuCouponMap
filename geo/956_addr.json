@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南千歳町",
-        "short_name": "南千歳町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0822",
-        "short_name": "380-0822",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0822 長野県長野市鶴賀南千歳町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6483918,
-          "lng": 138.19218
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0822 長野県長野市鶴賀南千歳町",
+      "geometry": {
+        "location": {
+          "lat": 36.6476463,
+          "lng": 138.189926
         },
-        "southwest": {
-          "lat": 36.6445418,
-          "lng": 138.1874567
+        "viewport": {
+          "northeast": {
+            "lat": 36.6483918,
+            "lng": 138.19218
+          },
+          "southwest": {
+            "lat": 36.6445418,
+            "lng": 138.1874567
+          }
         }
       },
-      "location": {
-        "lat": 36.6476463,
-        "lng": 138.189926
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6483918,
-          "lng": 138.19218
-        },
-        "southwest": {
-          "lat": 36.6445418,
-          "lng": 138.1874567
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0822 長野県長野市鶴賀南千歳町",
+      "photos": [
+        {
+          "height": 2382,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108396369937873611526\">Peter West</a>"
+          ],
+          "photo_reference": "Aap_uEADn_5P0eDLoBsLQ374lpE2zHBmXxEtWp2uCTSoMMAtT_i5TFmwv9a8pbUvXhtLf7jV12nJv-SG_ToliFHNuUoUs0mzVXYLivxbvgn6NiGhiywMic28s6Zwocg7ChED-e1RgkBr0ZmgfnIuitS-sJXaDBGSUQ2UZL64RfDIlk5cey7R",
+          "width": 6714
         }
-      }
-    },
-    "place_id": "ChIJXdLNpvKGHWAR_O0UKOOiv4Q",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJXdLNpvKGHWAR_O0UKOOiv4Q",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

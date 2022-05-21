@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡北安曇郡白馬村 北城6360-2-2F",
+      "geometry": {
+        "location": {
+          "lat": 36.695483,
+          "lng": 137.863231
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.69694222989271,
+            "lng": 137.8645602798927
+          },
+          "southwest": {
+            "lat": 36.69424257010727,
+            "lng": 137.8618606201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "炭屋 じゅん sumiya jun",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105626412993574053967\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECCjt2JdKgEvDvELUeDOqbiXLCHlAm5acBEJduelOXsM1M2JcGioqEtKgZwArxOa4SG5t5IXhzFPlc9Q3eR00s9zIHq2-7TRci62qye7-gcG8lgcikiMVRkogmCPJI0_49RUd2ylZsRnIwASTBaJlOzfk7ZUQDVrqy9Z36dOxN0_Ndg",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJR3wghQPS918RCggUWcRW7AQ",
+      "plus_code": {
+        "compound_code": "MVW7+57 白馬村、長野県",
+        "global_code": "8Q8VMVW7+57"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡山ノ内町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１２３７７−１７",
+      "geometry": {
+        "location": {
+          "lat": 36.780001,
+          "lng": 138.528064
         },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+        "viewport": {
+          "northeast": {
+            "lat": 36.78152712989272,
+            "lng": 138.5293264798927
+          },
+          "southwest": {
+            "lat": 36.77882747010728,
+            "lng": 138.5266268201073
+          }
         }
       },
-      "location": {
-        "lat": 36.7446479,
-        "lng": 138.4128175
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
-        },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "スポーツバー プラネットパウダー",
+      "photos": [
+        {
+          "height": 3084,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105835754849614532038\">延原慶次</a>"
+          ],
+          "photo_reference": "Aap_uEDihnhB_4IubmhG3cOOJFbf-35ikMX0SXSjWpUMUs_wxQn9uMDdgcsMvFdbGUVjkVu1pJ-9I6FDLeU-QJE9OaHT362UzB9YCkFyQukzwTWibdin9aivxvzcMh6craBoiDSMFBmzmhfgYeTZqQ3kiLOi_W8PiQGdV9hHlqY16fQ-CoKA",
+          "width": 5480
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp5BF3xjxHWARfQ5Kg1VjUng",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJl91R7y_3HWAR7IcbUJyeeDc",
+      "plus_code": {
+        "compound_code": "QGJH+26 山ノ内町、長野県",
+        "global_code": "8Q8WQGJH+26"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

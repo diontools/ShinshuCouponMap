@@ -1,97 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2階",
-        "short_name": "2階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "2001ビル",
-        "short_name": "2001ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７−５",
-        "short_name": "７−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐久平駅南",
-        "short_name": "佐久平駅南",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0029",
-        "short_name": "385-0029",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0029 長野県佐久市佐久平駅南７−５ 2001ビル 2階",
-    "geometry": {
-      "location": {
-        "lat": 36.2742572,
-        "lng": 138.4638339
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2755832802915,
-          "lng": 138.4653778802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0029 長野県佐久市佐久平駅南７−５ 2001ビル 2階",
+      "geometry": {
+        "location": {
+          "lat": 36.2742572,
+          "lng": 138.4638339
         },
-        "southwest": {
-          "lat": 36.2728853197085,
-          "lng": 138.4626799197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27558412989271,
+            "lng": 138.4653787298927
+          },
+          "southwest": {
+            "lat": 36.27288447010727,
+            "lng": 138.4626790701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ03qRn3bLHWARdn2melqLYug",
-    "plus_code": {
-      "compound_code": "7FF7+PG 日本、長野県佐久市",
-      "global_code": "8Q8W7FF7+PG"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "アル ソリーソ",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112419680032439026685\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAApYTsQMP0RYyaHuvXLgfCJeWU7Q-Y6IEqo1w_2WWqSQ8HrXY-9_dhn8xEyV1vDScDK-npDo78fMGh6bJYPKHYI0oPFhR50CYv51duWSXx85nBmGQD7Mj0YnNCzAzO7e0mLAYzBQYSgXIL-My5v1c0OiJs-WZphEh9LZUotrUi5KlW",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJ03qRn3bLHWARdn2melqLYug",
+      "plus_code": {
+        "compound_code": "7FF7+PG 佐久市、長野県",
+        "global_code": "8Q8W7FF7+PG"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

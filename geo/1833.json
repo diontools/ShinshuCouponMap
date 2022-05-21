@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８９６９−２",
-        "short_name": "８９６９−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明８９６９−２",
-    "geometry": {
-      "location": {
-        "lat": 36.3763034,
-        "lng": 137.8289348
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3773632802915,
-          "lng": 137.8300635802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明８９６９−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3763034,
+          "lng": 137.8289348
         },
-        "southwest": {
-          "lat": 36.3746653197085,
-          "lng": 137.8273656197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.37736412989272,
+            "lng": 137.8300644298927
+          },
+          "southwest": {
+            "lat": 36.37466447010728,
+            "lng": 137.8273647701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJme7qisRoHWARmzfibXs6oiQ",
-    "plus_code": {
-      "compound_code": "9RGH+GH 日本、長野県安曇野市",
-      "global_code": "8Q8V9RGH+GH"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "割烹旅館 山のたこ平",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106551788357110030241\">明美山岸</a>"
+          ],
+          "photo_reference": "Aap_uEAFB_9sx75th6LGibpzuuV9b1o472xQqGEu_fP1MPBvLGEKEupKWRPbHNZPz-CVgzktx_uYtxSosFC4FCl-GJXfYvSwZ8GItUGXRuXwmepvvTiTNuXOc2rVwqsZkrSzNb-IMXk8FqAh8HzBRPz_cimv3WrZT7FeREMtPvWf4R8dmqEv",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJme7qisRoHWARmzfibXs6oiQ",
+      "plus_code": {
+        "compound_code": "9RGH+GH 安曇野市、長野県",
+        "global_code": "8Q8V9RGH+GH"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

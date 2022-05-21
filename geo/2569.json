@@ -1,82 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城 飯森25683",
-    "geometry": {
-      "location": {
-        "lat": 36.6690646,
-        "lng": 137.8375046
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6704429802915,
-          "lng": 137.8388715302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城 飯森25683",
+      "geometry": {
+        "location": {
+          "lat": 36.6690646,
+          "lng": 137.8375046
         },
-        "southwest": {
-          "lat": 36.66774501970851,
-          "lng": 137.8361735697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.67044382989272,
+            "lng": 137.8388723798927
+          },
+          "southwest": {
+            "lat": 36.66774417010728,
+            "lng": 137.8361727201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4zVRnrDR918RUSpKgBTz6t8",
-    "plus_code": {
-      "compound_code": "MR9Q+J2 長野県白馬村",
-      "global_code": "8Q8VMR9Q+J2"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ふなるレンタルスキー",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117489458660905612244\">ふなるレンタルスキー</a>"
+          ],
+          "photo_reference": "Aap_uEAMY4N_dV4wKp20l6VxcJAPDC02d3G16qHHEHTUI82JL7KTUeJLUn4nqQU5BQZ6zA6byXO48vnZVvj_wP0n2iKe0yH95tvS41YXxNKgB5I6lPrHcUY1rWvNHdK4rcsjuf5vy5ChqbusUb_6GaY-m75enTgqHK5XWCwiHtYX81sl-z7V",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ4zVRnrDR918RUSpKgBTz6t8",
+      "plus_code": {
+        "compound_code": "MR9Q+J2 白馬村、長野県",
+        "global_code": "8Q8VMR9Q+J2"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

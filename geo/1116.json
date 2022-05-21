@@ -1,101 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４−２２",
-        "short_name": "１４−２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１４",
-        "short_name": "１４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中込",
-        "short_name": "中込",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0051",
-        "short_name": "385-0051",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0051 長野県佐久市中込２丁目１４−１４−２２",
-    "geometry": {
-      "location": {
-        "lat": 36.2286954,
-        "lng": 138.4770377
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2300443802915,
-          "lng": 138.4783866802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0051 長野県佐久市中込２丁目１４−１４−２２",
+      "geometry": {
+        "location": {
+          "lat": 36.2286954,
+          "lng": 138.4770377
         },
-        "southwest": {
-          "lat": 36.2273464197085,
-          "lng": 138.4756887197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23004522989273,
+            "lng": 138.4783875298927
+          },
+          "southwest": {
+            "lat": 36.22734557010729,
+            "lng": 138.4756878701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "洞庭春 中込店",
+      "photos": [
+        {
+          "height": 2860,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110269284029782323801\">13 mario</a>"
+          ],
+          "photo_reference": "Aap_uEAjZQUJgvn07CwSDb2fRr4ANK5SxVuuJZtUDbyPwvJWrbpM6JKQbr0QxRtY7h_S_Y2hyoAF2iaopSRXIs6486T8lVk6-MGLMMiNCS0iR9nNBH3vKEXwCa0eXELMANte3qn6xsWHX6C5j9DeUxH9BykoaFbzce9MXzCQyO0K1qnpGoo1",
+          "width": 3814
+        }
+      ],
+      "place_id": "ChIJwaWHBmMzHGAR-9ArBMlgbr8",
+      "plus_code": {
+        "compound_code": "6FHG+FR 佐久市、長野県",
+        "global_code": "8Q8W6FHG+FR"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJwaWHBmMzHGAR-9ArBMlgbr8",
-    "plus_code": {
-      "compound_code": "6FHG+FR 日本、長野県佐久市",
-      "global_code": "8Q8W6FHG+FR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0301 長野県佐久市臼田１２８−２",
+      "geometry": {
+        "location": {
+          "lat": 36.1967374,
+          "lng": 138.4796984
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.19809052989272,
+            "lng": 138.4810875298927
+          },
+          "southwest": {
+            "lat": 36.19539087010727,
+            "lng": 138.4783878701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "洞庭春臼田店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107992775889211198434\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECjsy0IjiAV3CaIaG2b_0vCP_pgws4EtCqE_g18mOvuOfiZL1a5ueWaiRs9mV8VJxhM6kg7oH9IfDcYOs4TETeiFw9VYVtq278xcoxTqdmNwX0XfVOG_8_2TvzGiV5P4IqC5rWbfbxNEP4NcropyD3p_-auunzdhLnYQv_tHFBzBcUK",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJPYEIYnU0HGAR8bqZIqoKh2g",
+      "plus_code": {
+        "compound_code": "5FWH+MV 佐久市、長野県",
+        "global_code": "8Q8W5FWH+MV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

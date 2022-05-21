@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１９−１",
-        "short_name": "３４１９−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１９−１",
-    "geometry": {
-      "location": {
-        "lat": 36.10256580000001,
-        "lng": 138.2386294
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1039499802915,
-          "lng": 138.2399008302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山３４１９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.10256580000001,
+          "lng": 138.2386294
         },
-        "southwest": {
-          "lat": 36.1012520197085,
-          "lng": 138.2372028697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10395082989272,
+            "lng": 138.2399016798927
+          },
+          "southwest": {
+            "lat": 36.10125117010728,
+            "lng": 138.2372020201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmbGtb3hSHGARc8z1s3O0Xxs",
-    "plus_code": {
-      "compound_code": "463Q+2F 長野県茅野市",
-      "global_code": "8Q8W463Q+2F"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Tabist 晴明荘 白樺湖",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111041361159976671661\">ホテル晴明荘</a>"
+          ],
+          "photo_reference": "Aap_uEAiyEJ2JhnUAauvnGV1HykKS06BHDSG-oDPZnU0tbO6fvVV9vl91JUH-2qrVpnNh7qTR2kVV7XB9QaIXTiMxeEnWE9WTIqIA65NldHOPsgjq91I_Kvn0nL5BsGgIzKtb8nc5Vd9gZAz6fI_dHEm5DxWel9DZGJDoTkoxRi3bZn7YL1_",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJmbGtb3hSHGARc8z1s3O0Xxs",
+      "plus_code": {
+        "compound_code": "463Q+2F 茅野市、長野県",
+        "global_code": "8Q8W463Q+2F"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

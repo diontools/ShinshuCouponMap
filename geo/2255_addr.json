@@ -1,117 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "サードミレニアムゲート",
-        "short_name": "サードミレニアムゲート",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目３−１３ サードミレニアムゲート 1f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.23401080000001,
-          "lng": 137.9691858
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0811 長野県松本市中央２丁目３−１３ サードミレニアムゲート 1f",
+      "geometry": {
+        "location": {
+          "lat": 36.2339509,
+          "lng": 137.96901
         },
-        "southwest": {
-          "lat": 36.2338634,
-          "lng": 137.9688236
+        "viewport": {
+          "northeast": {
+            "lat": 36.23529197989272,
+            "lng": 137.9705041298927
+          },
+          "southwest": {
+            "lat": 36.23259232010728,
+            "lng": 137.9678044701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2339509,
-        "lng": 137.96901
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2352860802915,
-          "lng": 137.9704100802915
-        },
-        "southwest": {
-          "lat": 36.2325881197085,
-          "lng": 137.9677121197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "サードミレニアムゲート 1f",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115034945136735388660\">ozawa seiji</a>"
+          ],
+          "photo_reference": "Aap_uEAGnAoUIucaaEIJDj9f9GXycJuSQCglCqhUL8RwhxxvYfuuf--APMTGnc7IimSGkYsih9OyP1RMEoPo7lMdTuRCaChj060Dghsq5LDvfcHfEgK10YHQHXoNmDFwxa6wp2quVVFIVohIVZzb9LTBKQQKG3yH9GVK3gnloH9vxFospaeb",
+          "width": 2048
         }
-      }
-    },
-    "place_id": "ElJUaGlyZCBNaWxsZW5uaXVtIEdhdGUsIDFmLCAyLWNoxY1tZS0zLTEzIENoxavFjSwgTWF0c3Vtb3RvLCBOYWdhbm8gMzkwLTA4MTEsIEphcGFuIh4aHAoWChQKEgljVqphjg4dYBFt9SzWAYrdQhICMWY",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "Emfml6XmnKzjgIHjgJIzOTAtMDgxMSDplbfph47nnIzmnb7mnKzluILkuK3lpK7vvJLkuIHnm67vvJPiiJLvvJHvvJMg44K144O844OJ44Of44Os44OL44Ki44Og44Ky44O844OIIDFmIh4aHAoWChQKEgljVqphjg4dYBFt9SzWAYrdQhICMWY",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

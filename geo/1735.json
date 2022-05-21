@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野",
-    "geometry": {
-      "location": {
-        "lat": 36.1288668,
-        "lng": 138.2704671
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1301877802915,
-          "lng": 138.2718325802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野",
+      "geometry": {
+        "location": {
+          "lat": 36.1288668,
+          "lng": 138.2704671
         },
-        "southwest": {
-          "lat": 36.1274898197085,
-          "lng": 138.2691346197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13018862989273,
+            "lng": 138.2718334298928
+          },
+          "southwest": {
+            "lat": 36.12748897010728,
+            "lng": 138.2691337701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJXwY7xABNHGARyAOnCjrd4co",
-    "plus_code": {
-      "compound_code": "47HC+G5 日本、長野県立科町",
-      "global_code": "8Q8W47HC+G5"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "BREEZE CAFE",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109986115429333627483\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAdQYfdGqivKpqp7uREttFwG3jYdK_SH5sX1ZpSQMfEOjM2oDt79i2wiH7kQP_RsV8_TG4s_Mj7DEth53PO-6zJfF6PI5zHOkv0yMW8SJyuh7NYCpo9mGiVbikiy21l3nFj87wsSH-hmZ0XCEgpst443yJ9TnBtz9NqPjTVmLcuEoHN",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJXwY7xABNHGARyAOnCjrd4co",
+      "plus_code": {
+        "compound_code": "47HC+G5 立科町、長野県",
+        "global_code": "8Q8W47HC+G5"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

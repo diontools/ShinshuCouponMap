@@ -1,79 +1,93 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "根羽村",
-        "short_name": "根羽村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0701",
-        "short_name": "395-0701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0701 長野県下伊那郡根羽村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.3183096,
-          "lng": 137.6713782
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0701 長野県下伊那郡根羽村万場瀬１６２５",
+      "geometry": {
+        "location": {
+          "lat": 35.2526873,
+          "lng": 137.5760057
         },
-        "southwest": {
-          "lat": 35.1983599,
-          "lng": 137.5459749
+        "viewport": {
+          "northeast": {
+            "lat": 35.25409402989273,
+            "lng": 137.5774335298927
+          },
+          "southwest": {
+            "lat": 35.25139437010728,
+            "lng": 137.5747338701073
+          }
         }
       },
-      "location": {
-        "lat": 35.2554936,
-        "lng": 137.5820416
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.3183096,
-          "lng": 137.6713782
-        },
-        "southwest": {
-          "lat": 35.1983599,
-          "lng": 137.5459749
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "住岡屋商店",
+      "photos": [
+        {
+          "height": 2511,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104056428222063266765\">i gaia</a>"
+          ],
+          "photo_reference": "Aap_uEABYsJisFLDVcQmlAt2KB1i-leNpSu80UTnNNIRJYpgAcR5hBRXCxXEVshdw-cGny-a4pOwhNP1eWJzBvGGcHp4HAP0I7m_HPMQJX-yOP77TsoZM9_Vd2jAyMalK0TmZU3xyzxPRXgNK5xv0ywm3AjnKBoObj92lGwuQFTCQzJerwcY",
+          "width": 1883
         }
-      }
+      ],
+      "place_id": "ChIJ29kfmKhXG2ARjaEP3xXI2cQ",
+      "plus_code": {
+        "compound_code": "7H3G+39 根羽村、長野県",
+        "global_code": "8Q7V7H3G+39"
+      },
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJDzp6h9ZZG2ARuBor98uDhT4",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0701 長野県下伊那郡根羽村万場瀬１６２５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.2524959,
+          "lng": 137.5762193
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.25391392989272,
+            "lng": 137.5776559798927
+          },
+          "southwest": {
+            "lat": 35.25121427010728,
+            "lng": 137.5749563201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "name": "根羽郵便局",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102372754540235262531\">ぽっぽファクトリー</a>"
+          ],
+          "photo_reference": "Aap_uECB8gX3EhxJkuiLKWxKJF69dvnypIuHNDUQ7JVdxNlpzOM_qzIhqcCuNGti182PI4y4VdAL1usb5W7_HMXOuDGWoh13mNObC1DNZA2-DLig8tvGFbp5V-k5nX--eBtvxHQ9cE9Tn9JutCGNdXUuORW1eIEVR7F66lJe2VXMUJ5WRu0L",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJRaV2mahXG2ARFWGyQGSPq9A",
+      "plus_code": {
+        "compound_code": "7H2G+XF 根羽村、長野県",
+        "global_code": "8Q7V7H2G+XF"
+      },
+      "types": [
+        "post_office",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

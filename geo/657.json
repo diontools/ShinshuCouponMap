@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８６",
-        "short_name": "４８６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元善町",
-        "short_name": "元善町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0851",
-        "short_name": "380-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0851 長野県長野市長野元善町４８６",
-    "geometry": {
-      "location": {
-        "lat": 36.6598472,
-        "lng": 138.1871639
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6611961802915,
-          "lng": 138.1885128802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0851 長野県長野市元善町４８６",
+      "geometry": {
+        "location": {
+          "lat": 36.6598472,
+          "lng": 138.1871639
         },
-        "southwest": {
-          "lat": 36.65849821970851,
-          "lng": 138.1858149197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66119702989273,
+            "lng": 138.1885137298927
+          },
+          "southwest": {
+            "lat": 36.65849737010728,
+            "lng": 138.1858140701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJi3FnCOOGHWARDPGmKZ49mF4",
-    "plus_code": {
-      "compound_code": "M55P+WV 日本、長野県長野市",
-      "global_code": "8Q8WM55P+WV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "尾張屋そば店",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105963446275991460724\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDDri0qVCcBNw8p9A049n2qFnZbsa4QAfomhJ66gNGc35Tf8uEnlsCYFMU6vRkWnP4ZCfKP_xnR-fSfiuElgaDNTBtY4rq4TWix8ag55jgKyZ15u__8JNgfdM_Oos3-syMeAsNImjq9EyKbQz5Pz1vkuFFJYqst2JZxshnoc7CcUNvL",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJi3FnCOOGHWARDPGmKZ49mF4",
+      "plus_code": {
+        "compound_code": "M55P+WV 長野市、長野県",
+        "global_code": "8Q8WM55P+WV"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

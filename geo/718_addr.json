@@ -1,88 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３−５",
-        "short_name": "１３−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "若宮",
-        "short_name": "若宮",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0032",
-        "short_name": "381-0032",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0032 長野県長野市若宮２丁目１３−５",
-    "geometry": {
-      "location": {
-        "lat": 36.6472815,
-        "lng": 138.2281037
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6486364302915,
-          "lng": 138.2296587302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0032 長野県長野市若宮２丁目１３−５",
+      "geometry": {
+        "location": {
+          "lat": 36.6472815,
+          "lng": 138.2281037
         },
-        "southwest": {
-          "lat": 36.6459384697085,
-          "lng": 138.2269607697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64863727989272,
+            "lng": 138.2296595798927
+          },
+          "southwest": {
+            "lat": 36.64593762010728,
+            "lng": 138.2269599201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJ3-NQ6wiGHWARPDIZe4pEu-Y",
-    "plus_code": {
-      "compound_code": "J6WH+W6 長野県長野市",
-      "global_code": "8Q8WJ6WH+W6"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0032 長野県長野市若宮２丁目１３−５",
+      "place_id": "ChIJ3-NQ6wiGHWARPDIZe4pEu-Y",
+      "plus_code": {
+        "compound_code": "J6WH+W6 長野市、長野県",
+        "global_code": "8Q8WJ6WH+W6"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

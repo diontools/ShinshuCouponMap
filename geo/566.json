@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉３丁目７−４",
-    "geometry": {
-      "location": {
-        "lat": 36.4780709,
-        "lng": 138.145052
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4794953802915,
-          "lng": 138.1464358302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉３丁目７−４",
+      "geometry": {
+        "location": {
+          "lat": 36.4780843,
+          "lng": 138.1450896
         },
-        "southwest": {
-          "lat": 36.4767974197085,
-          "lng": 138.1437378697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.47949622989272,
+            "lng": 138.1464366798927
+          },
+          "southwest": {
+            "lat": 36.47679657010728,
+            "lng": 138.1437370201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJl3tXTBGcHWARVsajxV5aM2c",
-    "plus_code": {
-      "compound_code": "F4HW+62 日本、長野県千曲市",
-      "global_code": "8Q8WF4HW+62"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "信州小麦ラーメン 亀屋",
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100590940792201061728\">みかんこたつ</a>"
+          ],
+          "photo_reference": "Aap_uEA9pGwcOA96wiObYpKtdXDvu1-BI_IKKk-ty2GXdQmjcUx6LG2wj2yqhkoRNQ6VkrBPmNMs9xapbAztjg9rVnr63Ib9r0ZEv9dIIT1LPgRTB8JF3VwaV79wB6AIDMvSTZhWkvS_gKln59OnUOkmHLh0ZeY9VsjwV82zfKYuv4NAWcY",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJl3tXTBGcHWARVsajxV5aM2c",
+      "plus_code": {
+        "compound_code": "F4HW+62 千曲市、長野県",
+        "global_code": "8Q8WF4HW+62"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

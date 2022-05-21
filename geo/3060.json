@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８０５−１",
-        "short_name": "２８０５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大島",
-        "short_name": "大島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3304",
-        "short_name": "399-3304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島２８０５−１",
-    "geometry": {
-      "location": {
-        "lat": 35.61483,
-        "lng": 137.8781358
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6162554302915,
-          "lng": 137.8795343802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3304 長野県下伊那郡松川町大島２８０５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.61483,
+          "lng": 137.8781358
         },
-        "southwest": {
-          "lat": 35.6135574697085,
-          "lng": 137.8768364197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.61625627989272,
+            "lng": 137.8795352298927
+          },
+          "southwest": {
+            "lat": 35.61355662010728,
+            "lng": 137.8768355701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ89p_vXSRHGARyODwo9OwDLU",
-    "plus_code": {
-      "compound_code": "JV7H+W7 長野県松川町",
-      "global_code": "8Q7VJV7H+W7"
-    },
-    "types": [
-      "amusement_park",
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "フォレストアドベンチャー・松川",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118370766149743693700\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBt8kJCuJGx3vlLYPhiY41cXJCW_VBk4iEqeQyMArSo0oTJKIH-HC4nKQ5zbfqVL3rkKnmtCT7wloukUILgzCwZmaKupehw3Im5aKoLIzUL1t5EnZAkhhsMouXZfg5hJVd6qNl32JZmhRQvscSROzD8cQe9a4rXynWsrLedRnR7Rq8",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJ89p_vXSRHGARyODwo9OwDLU",
+      "plus_code": {
+        "compound_code": "JV7H+W7 松川町、長野県",
+        "global_code": "8Q7VJV7H+W7"
+      },
+      "types": [
+        "tourist_attraction",
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

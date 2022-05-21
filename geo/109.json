@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２１９",
-        "short_name": "２２１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２２１９",
-    "geometry": {
-      "location": {
-        "lat": 36.7346576,
-        "lng": 138.4333321
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7359619802915,
-          "lng": 138.4346451302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２２１９",
+      "geometry": {
+        "location": {
+          "lat": 36.7346681,
+          "lng": 138.4333401
         },
-        "southwest": {
-          "lat": 36.7332640197085,
-          "lng": 138.4319471697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73596282989272,
+            "lng": 138.4346459798928
+          },
+          "southwest": {
+            "lat": 36.73326317010727,
+            "lng": 138.4319463201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7QOY24P0HWAR9SHwcJ5rGmA",
-    "plus_code": {
-      "compound_code": "PCMM+V8 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCMM+V8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "一乃湯 果亭",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118263450716149389511\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEC9Sz4qvSBPskKcj8ornXithrmEJE-HSAwNM0tf8gdq6WdGU0xAGdEH-gnhEg8ZpkKw7iMvT6jRnT_dj_9MTbBHPo1Z9bmQRsSnq_9ZdBWroRrhQgMmUqnT_Sbs1Bt6_7vQzrv_djHoBj5mBpMvuaJJ4l_gTq0KAhpeSoKmxVV2OMQk",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ7QOY24P0HWAR9SHwcJ5rGmA",
+      "plus_code": {
+        "compound_code": "PCMM+V8 山ノ内町、長野県",
+        "global_code": "8Q8WPCMM+V8"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

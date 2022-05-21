@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６３２−６",
-        "short_name": "１６３２−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南横町",
-        "short_name": "南横町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "須坂",
-        "short_name": "須坂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0097",
-        "short_name": "382-0097",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0097 長野県須坂市須坂南横町１６３２−６",
-    "geometry": {
-      "location": {
-        "lat": 36.654197,
-        "lng": 138.306092
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.65551403029149,
-          "lng": 138.3073610302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0097 長野県須坂市須坂南横町１６３２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.6541738,
+          "lng": 138.3060267
         },
-        "southwest": {
-          "lat": 36.6528160697085,
-          "lng": 138.3046630697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65551487989272,
+            "lng": 138.3073618798928
+          },
+          "southwest": {
+            "lat": 36.65281522010727,
+            "lng": 138.3046622201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4Sx2I5GOHWAR7BkLdN3LzYc",
-    "plus_code": {
-      "compound_code": "M834+MC 日本、長野県須坂市",
-      "global_code": "8Q8WM834+MC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "六味亭",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105171644128941919423\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED4_9lSWwaHE9og4k8gVsp2Gysj4WIO_xQtIqs7_gw6EmwIM_cLdNqJJ53uApUrDQ7iYHiy88-iMZ6ZUCQ-xgyhuujneNLqT9sqBvo3CLVLOnF6o6P7S4xGtjiDgDMbDaZ9Yl1xTbo2q7Oem9_3VAIgnCo9WKry2lYMsZj6st1JZA0",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJ4Sx2I5GOHWAR7BkLdN3LzYc",
+      "plus_code": {
+        "compound_code": "M834+MC 須坂市、長野県",
+        "global_code": "8Q8WM834+MC"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

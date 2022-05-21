@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１",
-        "short_name": "１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目９−１１",
-    "geometry": {
-      "location": {
-        "lat": 36.236322,
-        "lng": 137.971927
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2376908802915,
-          "lng": 137.9732730302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目９−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.236322,
+          "lng": 137.971927
         },
-        "southwest": {
-          "lat": 36.2349929197085,
-          "lng": 137.9705750697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23769172989273,
+            "lng": 137.9732738798928
+          },
+          "southwest": {
+            "lat": 36.23499207010729,
+            "lng": 137.9705742201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFwMC0pEOHWARngdPcjqcmyk",
-    "plus_code": {
-      "compound_code": "6XPC+GQ 日本、長野県松本市",
-      "global_code": "8Q8V6XPC+GQ"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "三代澤酒店",
+      "photos": [
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113747917810363686285\">三代澤酒店</a>"
+          ],
+          "photo_reference": "Aap_uEDqta2v98C5nS6cGK1V5gWn_VuUvIDJvCpwa4Wg8EenX18YIqdR6lmx2GqTJhzdpn78Dp1oZRhMmfQeQAHZMjJM-x1iMpkHeXSYHd6pzmtwXiYPTLOzpWeKBqoefmR9Pn_Na7f0P7lmeO0m3oubYWw_y2FxgnYrl3F3dMRjOQWdOqjl",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJFwMC0pEOHWARngdPcjqcmyk",
+      "plus_code": {
+        "compound_code": "6XPC+GQ 松本市、長野県",
+        "global_code": "8Q8V6XPC+GQ"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

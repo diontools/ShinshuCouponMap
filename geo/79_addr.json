@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡平穏 山ノ内町大字平穏7149",
-    "geometry": {
-      "location": {
-        "lat": 36.7356983,
-        "lng": 138.5123779
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7370309802915,
-          "lng": 138.5137887302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡 山ノ内町大字平穏7149",
+      "geometry": {
+        "location": {
+          "lat": 36.7356983,
+          "lng": 138.5123779
         },
-        "southwest": {
-          "lat": 36.7343330197085,
-          "lng": 138.5110907697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73703182989272,
+            "lng": 138.5137895798927
+          },
+          "southwest": {
+            "lat": 36.73433217010728,
+            "lng": 138.5110899201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJD8sWXwTxHWARJ1hc4YcepBo",
-    "plus_code": {
-      "compound_code": "PGP6+7X 長野県山ノ内町",
-      "global_code": "8Q8WPGP6+7X"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "志賀一井ホテル / SHIGA ICHII HOTEL",
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110184206536568705614\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBDbJA7xqC_tDO-BOQz8EIoSjUDs5KS9pgIDPxt1ZPXsP0j2l_zN7CWk3RlCujfyAHstJ2JBmyuImTpepsoqm2svqWZsEUJTwQIpt20GgU6fjUSHoU_4ufo9Zfbovqd7HcqHontahh784QNNESpLY5ylsRwQLiLJUVvW_3qmbyDmXiC",
+          "width": 5952
+        }
+      ],
+      "place_id": "ChIJD8sWXwTxHWARJ1hc4YcepBo",
+      "plus_code": {
+        "compound_code": "PGP6+7X 山ノ内町、長野県",
+        "global_code": "8Q8WPGP6+7X"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２９５−２",
-        "short_name": "１２９５−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鹿教湯温泉",
-        "short_name": "鹿教湯温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0323",
-        "short_name": "386-0323",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１２９５−２",
-    "geometry": {
-      "location": {
-        "lat": 36.303215,
-        "lng": 138.1373138
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3046812802915,
-          "lng": 138.1382318302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0323 長野県上田市鹿教湯温泉１２９５−２",
+      "geometry": {
+        "location": {
+          "lat": 36.303215,
+          "lng": 138.1373138
         },
-        "southwest": {
-          "lat": 36.3019833197085,
-          "lng": 138.1355338697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30468212989273,
+            "lng": 138.1382326798927
+          },
+          "southwest": {
+            "lat": 36.30198247010728,
+            "lng": 138.1355330201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ242NHcGmHWARRvokZbDkC0g",
-    "plus_code": {
-      "compound_code": "843P+7W 日本、長野県上田市",
-      "global_code": "8Q8W843P+7W"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "国民宿舎鹿月荘",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113146080513412633327\">太郎ピーチ</a>"
+          ],
+          "photo_reference": "Aap_uEAVCVRvyq_gXFTfd28hXSrH_zIGxHP8njGF4VAYv8ISrXjsvzpqnvfLV_8o1DBMANzekyBm3cuE21-0pzQYPS3tsOKAfw_mtIHuiFA9oCgYIab1NBWxpbZ-gK61YFD2URGgU9EDiNJCTQMWwYH3qcUY4Q-tf92i0MSuA-YS53UEy_MX",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJ242NHcGmHWARRvokZbDkC0g",
+      "plus_code": {
+        "compound_code": "843P+7W 上田市、長野県",
+        "global_code": "8Q8W843P+7W"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

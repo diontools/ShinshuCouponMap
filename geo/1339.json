@@ -1,205 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "B1F",
-        "short_name": "B1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "上田ステイ",
-        "short_name": "上田ステイ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目２−１ 上田ステイ B1F",
-    "geometry": {
-      "location": {
-        "lat": 36.3972208,
-        "lng": 138.2491433
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3985345802915,
-          "lng": 138.2507874802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目２−１ 上田ステイ B1F",
+      "geometry": {
+        "location": {
+          "lat": 36.3972208,
+          "lng": 138.2491433
         },
-        "southwest": {
-          "lat": 36.3958366197085,
-          "lng": 138.2480895197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39853542989272,
+            "lng": 138.2507883298927
+          },
+          "southwest": {
+            "lat": 36.39583577010728,
+            "lng": 138.2480886701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjQvdqNC8HWARuyTbwmkNZ0s",
-    "plus_code": {
-      "compound_code": "96WX+VM 日本、長野県上田市",
-      "global_code": "8Q8W96WX+VM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
       },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "田原本町",
-        "short_name": "田原本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "熱海市",
-        "short_name": "熱海市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "静岡県",
-        "short_name": "静岡県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "413-0011",
-        "short_name": "413-0011",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒413-0011 静岡県熱海市田原本町３−８",
-    "geometry": {
-      "location": {
-        "lat": 35.1020991,
-        "lng": 139.0769962
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.10344808029149,
-          "lng": 139.0783451802915
-        },
-        "southwest": {
-          "lat": 35.10075011970849,
-          "lng": 139.0756472197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "東都庵",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115299646287554501162\">堂垣内康成</a>"
+          ],
+          "photo_reference": "Aap_uEDwWYbD9IDGzcB7mwjB3Y8mJ_Z6f0tXCTHpm2579FG19fJs0DMNWYsppBNDG7AfCwAXpRDzH7vfWjJKSgQmOlkJmW5d8uP2nxQo9zFGHjWTk5miASXiF9PHIUXDCHQuk_rhW2lOh62ANQJpKBMz-TROSF47vpdrT-kO3i6bi5PhttA3",
+          "width": 5504
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6rOeGO-GWARe_aHtpJCiu0",
-    "plus_code": {
-      "compound_code": "432G+RQ 日本、静岡県熱海市",
-      "global_code": "8Q7X432G+RQ"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJjQvdqNC8HWARuyTbwmkNZ0s",
+      "plus_code": {
+        "compound_code": "96WX+VM 上田市、長野県",
+        "global_code": "8Q8W96WX+VM"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

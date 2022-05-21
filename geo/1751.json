@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野",
-    "geometry": {
-      "location": {
-        "lat": 36.110088,
-        "lng": 138.2433837
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1115640802915,
-          "lng": 138.2446648302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0321 長野県立科町芦田八ケ野１５９６",
+      "geometry": {
+        "location": {
+          "lat": 36.1100643,
+          "lng": 138.2429588
         },
-        "southwest": {
-          "lat": 36.1088661197085,
-          "lng": 138.2419668697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.11186192989272,
+            "lng": 138.2438571798927
+          },
+          "southwest": {
+            "lat": 36.10916227010728,
+            "lng": 138.2411575201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtxvHFqlNHGARPsZnw8O1C3s",
-    "plus_code": {
-      "compound_code": "466V+29 日本、長野県立科町",
-      "global_code": "8Q8W466V+29"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "池の平ホテル",
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118311520541358769805\">白樺リゾート池の平ホテル</a>"
+          ],
+          "photo_reference": "Aap_uECNt682SrqI4lWDcRg3UwpOo91s68vf5J4Ac5igAN2xBnnAW7s84vtEi6pmWFcXKJzy1belzQ_slrLP4QeHFcpBUgomKORFEGonHgl7f-c_-v2_TIiDlMdor24D3mWoVi92V2rri96AjODg2FFC9zoIKrG89hHEtL3b0BPyTQR9VVrR",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJTa4kAoBNHGAREHW6gjuSvCU",
+      "plus_code": {
+        "compound_code": "466V+25 立科町、長野県",
+        "global_code": "8Q8W466V+25"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

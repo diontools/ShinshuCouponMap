@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県飯田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0041 長野県飯田市中央通り１丁目１８",
+      "geometry": {
+        "location": {
+          "lat": 35.5163408,
+          "lng": 137.8263578
         },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+        "viewport": {
+          "northeast": {
+            "lat": 35.51772217989272,
+            "lng": 137.8277430298927
+          },
+          "southwest": {
+            "lat": 35.51502252010728,
+            "lng": 137.8250433701073
+          }
         }
       },
-      "location": {
-        "lat": 35.51487,
-        "lng": 137.8217006
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
-        },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "北の味 はこだて",
+      "photos": [
+        {
+          "height": 1837,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104879885425323812545\">はこだて</a>"
+          ],
+          "photo_reference": "Aap_uECq5HZval5s3dgZssx8nbh7-dW-3p1zSNMkZenllRY9UQbq5Jpnyo7J3sr-zzcb2AL8M4eXmTDlj3stoJuvs9YBtTQu_2tRqXP8WdDpV993dxzpNHlaAPlv_nNkUbWWhtJsHT2x4Y2CMQ0ByW4pl0pzpUTABI_ZpMlGPJE0u-9O1HC3",
+          "width": 3264
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNeX_xjSdHGARxqitnTSMRU4",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJMWsERJSZHGARZJGPReD3aIU",
+      "plus_code": {
+        "compound_code": "GR8G+GG 飯田市、長野県",
+        "global_code": "8Q7VGR8G+GG"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

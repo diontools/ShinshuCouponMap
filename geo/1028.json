@@ -1,124 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県飯山市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 37.0296895,
-          "lng": 138.5230847
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2411 長野県飯山市豊田",
+      "geometry": {
+        "location": {
+          "lat": 36.9430412,
+          "lng": 138.3768673
         },
-        "southwest": {
-          "lat": 36.8036089,
-          "lng": 138.2742644
+        "viewport": {
+          "northeast": {
+            "lat": 36.94454097989271,
+            "lng": 138.3781812798927
+          },
+          "southwest": {
+            "lat": 36.94184132010727,
+            "lng": 138.3754816201072
+          }
         }
       },
-      "location": {
-        "lat": 36.8517344,
-        "lng": 138.3654889
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 37.0296895,
-          "lng": 138.5230847
-        },
-        "southwest": {
-          "lat": 36.8036089,
-          "lng": 138.2742644
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "とんだいら SKY TOP",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111821244722843982346\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAF7AFNQKHZf_UV6DmfpZOP5XrfOZ_Fw76YqQnwb6eAZNdTM7HccBb5c0PKCJCHZjPy_SoBJOeufyX9pe4QOpJhPd4a8biKRzLH7mNH4zqbzoOTo3e89ne_JivjmqE_7dTI66S4UKOy9ce2hYdMX-LZSSxr3DpBa0toN441A4K8h9TA",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWRwQY5Ma9l8R4BO4Q1o2g2Y",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "スカイトップ",
-        "short_name": "スカイトップ",
-        "types": [
-          "locality",
-          "political"
-        ]
+      ],
+      "place_id": "ChIJzQG-oPMR9l8RwYmv3__XQ_k",
+      "plus_code": {
+        "compound_code": "W9VG+6P 飯山市、長野県",
+        "global_code": "8Q8WW9VG+6P"
       },
-      {
-        "long_name": "サン・バーナディーノ",
-        "short_name": "サン・バーナディーノ",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "カリフォルニア州",
-        "short_name": "CA",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "アメリカ合衆国",
-        "short_name": "US",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "アメリカ合衆国 カリフォルニア州 スカイトップ",
-    "geometry": {
-      "location": {
-        "lat": 35.701344,
-        "lng": -117.4989485
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7026929802915,
-          "lng": -117.4975995197085
-        },
-        "southwest": {
-          "lat": 35.6999950197085,
-          "lng": -117.5002974802915
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJcwF-tws_wYARuCT1LK6eItQ",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

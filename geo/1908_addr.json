@@ -1,94 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "大門八番町",
-        "short_name": "大門八番町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0737",
-        "short_name": "399-0737",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0737 長野県塩尻市大門八番町９−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.11373,
-          "lng": 137.948615
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0737 長野県塩尻市大門八番町９−１",
+      "geometry": {
+        "location": {
+          "lat": 36.11366,
+          "lng": 137.9485515
         },
-        "southwest": {
-          "lat": 36.1136037,
-          "lng": 137.9485119
+        "viewport": {
+          "northeast": {
+            "lat": 36.11500777989272,
+            "lng": 137.9498759298927
+          },
+          "southwest": {
+            "lat": 36.11230812010728,
+            "lng": 137.9471762701072
+          }
         }
       },
-      "location": {
-        "lat": 36.11366,
-        "lng": 137.9485515
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1150158302915,
-          "lng": 137.9499001302915
-        },
-        "southwest": {
-          "lat": 36.1123178697085,
-          "lng": 137.9472021697085
-        }
-      }
-    },
-    "place_id": "ChIJcekl5ewEHWARfti_d4nXezM",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-0737 長野県塩尻市大門八番町９−１",
+      "place_id": "ChIJcekl5ewEHWARfti_d4nXezM",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

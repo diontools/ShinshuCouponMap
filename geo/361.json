@@ -1,82 +1,77 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 大字小布施千両854−30",
-    "geometry": {
-      "location": {
-        "lat": 36.68852400000001,
-        "lng": 138.319998
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6897969802915,
-          "lng": 138.3213137302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町 大字小布施千両854−30",
+      "geometry": {
+        "location": {
+          "lat": 36.6884769,
+          "lng": 138.3199863
         },
-        "southwest": {
-          "lat": 36.6870990197085,
-          "lng": 138.3186157697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.68979782989273,
+            "lng": 138.3213145798927
+          },
+          "southwest": {
+            "lat": 36.68709817010728,
+            "lng": 138.3186149201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "和紙の中條",
+      "place_id": "ChIJq3HP6P2LHWARoCdeRhI8IjE",
+      "plus_code": {
+        "compound_code": "M8Q9+CX 小布施町、長野県",
+        "global_code": "8Q8WM8Q9+CX"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJq3HP6P2LHWARoCdeRhI8IjE",
-    "plus_code": {
-      "compound_code": "M8Q9+CX 日本、長野県小布施町",
-      "global_code": "8Q8WM8Q9+CX"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施８０９",
+      "geometry": {
+        "location": {
+          "lat": 36.6948361,
+          "lng": 138.3160072
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.69618657989272,
+            "lng": 138.3173575298927
+          },
+          "southwest": {
+            "lat": 36.69348692010728,
+            "lng": 138.3146578701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "和紙の中條北斉館通り店",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114576819393134451878\">山本 y.</a>"
+          ],
+          "photo_reference": "Aap_uEBSMeeJDErTncOcU9xFpogTR0VnAfe9qNGRvanNdwoX_8zUAXneCYVbQvfNAufWxyaNefdFUb1f3_cv2NfmtP-LoJ3Zd_j0RsdC24aGvYcJRPp0SBdGqaz6mM29bWyE2u54E94UlfyBx_cb5PabkhDhEDoYk2-K3E1EwW_oTCsXh61V",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJGezjLVmJHWARSJ36h7b_u6k",
+      "plus_code": {
+        "compound_code": "M8V8+W9 小布施町、長野県",
+        "global_code": "8Q8WM8V8+W9"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

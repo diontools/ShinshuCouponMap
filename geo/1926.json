@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５９６",
-        "short_name": "５９６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "奈良井",
-        "short_name": "奈良井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6303",
-        "short_name": "399-6303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井５９６",
-    "geometry": {
-      "location": {
-        "lat": 35.9670602,
-        "lng": 137.8131157
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9684478802915,
-          "lng": 137.8144175802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6303 長野県塩尻市奈良井５９６",
+      "geometry": {
+        "location": {
+          "lat": 35.9670807,
+          "lng": 137.8130923
         },
-        "southwest": {
-          "lat": 35.9657499197085,
-          "lng": 137.8117196197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96844872989272,
+            "lng": 137.8144184298928
+          },
+          "southwest": {
+            "lat": 35.96574907010728,
+            "lng": 137.8117187701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHRKxICYeHWARsp-hTH0WVUY",
-    "plus_code": {
-      "compound_code": "XR87+R6 日本、長野県塩尻市",
-      "global_code": "8Q7VXR87+R6"
-    },
-    "types": [
-      "establishment",
-      "home_goods_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "さわや漆器店",
+      "photos": [
+        {
+          "height": 2728,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111714837881013014350\">和久相川</a>"
+          ],
+          "photo_reference": "Aap_uECdyy4nRSyybVD-mqS9QRU2sEHcFw5_aGBnFITxdoCQajljJ_sH-KkDQJ1mkaHLeNrwLlnlS_FGyRV7D_95Mvat8kldZKXxI-1ZIYE01YAxBDZL0GsjMZ-1_649rqOJejNzcDLszJWh8ErNUZioWs2Gl-q2MJ2NXXNk33zJLbk3u4M1",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJHRKxICYeHWARsp-hTH0WVUY",
+      "plus_code": {
+        "compound_code": "XR87+R6 塩尻市、長野県",
+        "global_code": "8Q7VXR87+R6"
+      },
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

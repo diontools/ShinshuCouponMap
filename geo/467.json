@@ -1,64 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県須坂市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原1223イ-72",
+      "geometry": {
+        "location": {
+          "lat": 36.5298911,
+          "lng": 138.3359285
         },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
+        "viewport": {
+          "northeast": {
+            "lat": 36.53122987989272,
+            "lng": 138.3371114798927
+          },
+          "southwest": {
+            "lat": 36.52853022010728,
+            "lng": 138.3344118201072
+          }
         }
       },
-      "location": {
-        "lat": 36.6510879,
-        "lng": 138.3072807
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6883535,
-          "lng": 138.4415632
-        },
-        "southwest": {
-          "lat": 36.5372507,
-          "lng": 138.2576231
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "name": "菅平高原テレマークスキースクール",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104962956977532859026\">菅平高原テレマークスキースクール</a>"
+          ],
+          "photo_reference": "Aap_uEBNXhe_W0VzAXJWoebIaUP_VJEKEoiX2VFejAnGm8phGx6fKaZzqJYA_bxjNNcmTnQFIqvJBqj6e_RHTw7kYntgBDjlBSrBGwGKNJfM-RlwqnzP8DUutefhH9vl_qzV-mBI5Te5B-7_ahbf7flR0SO1iUMI351NzT__w2P-wEWqJkA0",
+          "width": 2048
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEfGghGWSHWARb4zc9I-lG7Q",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ_ftB3lqUHWARCODfwRqtDUA",
+      "plus_code": {
+        "compound_code": "G8HP+X9 上田市、長野県",
+        "global_code": "8Q8WG8HP+X9"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

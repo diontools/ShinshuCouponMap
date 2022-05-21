@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３９９−３５",
-        "short_name": "１３９９−３５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "発地",
-        "short_name": "発地",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0113",
-        "short_name": "389-0113",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地１３９９−３５",
-    "geometry": {
-      "location": {
-        "lat": 36.3038274,
-        "lng": 138.6316642
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3052051302915,
-          "lng": 138.6329705802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地１３９９−３５",
+      "geometry": {
+        "location": {
+          "lat": 36.3038158,
+          "lng": 138.631665
         },
-        "southwest": {
-          "lat": 36.3025071697085,
-          "lng": 138.6302726197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30520597989273,
+            "lng": 138.6329714298927
+          },
+          "southwest": {
+            "lat": 36.30250632010728,
+            "lng": 138.6302717701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJI8GocK8sHGARG71hCjObtVY",
-    "plus_code": {
-      "compound_code": "8J3J+GM 日本、長野県軽井沢町",
-      "global_code": "8Q8W8J3J+GM"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "馬越ゴルフコース",
+      "photos": [
+        {
+          "height": 2554,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102706394614066527031\">なおきさとう</a>"
+          ],
+          "photo_reference": "Aap_uEB3UwTHgaedCNB8DXgUK1RJyb6IxZAzpkUKpaBZ5IwhiavrPGFaKO28w81XlS98qMYCgyndp9B7ELuaL9pual3LSqJbQlZTdB4EaKMhkV1pyOyAstjlovar0CxWzyKNOxCS54wKAY34VlJV9xwGGRMoO45tO9sTGbu3gTXqsC8UO2m9",
+          "width": 1915
+        }
+      ],
+      "place_id": "ChIJI8GocK8sHGARG71hCjObtVY",
+      "plus_code": {
+        "compound_code": "8J3J+GM 軽井沢町、長野県",
+        "global_code": "8Q8W8J3J+GM"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２０６７−８７０",
-        "short_name": "１２０６７−８７０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "境",
-        "short_name": "境",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0101",
-        "short_name": "399-0101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0101 長野県諏訪郡富士見町境１２０６７−８７０",
-    "geometry": {
-      "location": {
-        "lat": 35.9119806,
-        "lng": 138.3075556
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9134177302915,
-          "lng": 138.3088412302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0101 長野県諏訪郡富士見町境１２０６７−８７０",
+      "geometry": {
+        "location": {
+          "lat": 35.9120188,
+          "lng": 138.3074889
         },
-        "southwest": {
-          "lat": 35.9107197697085,
-          "lng": 138.3061432697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.91341857989272,
+            "lng": 138.3088420798927
+          },
+          "southwest": {
+            "lat": 35.91071892010728,
+            "lng": 138.3061424201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3yLy5jpCHGARjiCp9MqcxXg",
-    "plus_code": {
-      "compound_code": "W865+Q2 長野県富士見町",
-      "global_code": "8Q7WW865+Q2"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション ＲＹＯＺＯ",
+      "photos": [
+        {
+          "height": 1367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115229060529787779899\">ペンション ＲＹＯＺＯ</a>"
+          ],
+          "photo_reference": "Aap_uEB4bU1DmG6hlVw3oqW3nMqYRQL6tH6GltJsKqPdFmkksAHEx3o5FkNNDKvnp-YYEO5vuWra6NU4QXH9Aez9phHJDK_ysIUCfGKANM8TphublaaTd1_KmoCqEIHFxeLMNBPveMR-uYkN6w1Uw_ofn-hzp40LOJChEOou9YN_xnHVrmVJ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ3yLy5jpCHGARjiCp9MqcxXg",
+      "plus_code": {
+        "compound_code": "W865+Q2 富士見町、長野県",
+        "global_code": "8Q7WW865+Q2"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

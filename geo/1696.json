@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2785番地108",
-        "short_name": "2785番地108",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "発地",
-        "short_name": "発地",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0113",
-        "short_name": "389-0113",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地2785番地108",
-    "geometry": {
-      "location": {
-        "lat": 36.3177727,
-        "lng": 138.5755886
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3189875802915,
-          "lng": 138.5769949802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地2785番地108",
+      "geometry": {
+        "location": {
+          "lat": 36.3177788,
+          "lng": 138.5755843
         },
-        "southwest": {
-          "lat": 36.3162896197085,
-          "lng": 138.5742970197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31898842989272,
+            "lng": 138.5769958298927
+          },
+          "southwest": {
+            "lat": 36.31628877010728,
+            "lng": 138.5742961701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWc53to3SHWARvsu5uhOW9mI",
-    "plus_code": {
-      "compound_code": "8H9G+46 日本、長野県軽井沢町",
-      "global_code": "8Q8W8H9G+46"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "沢屋 ジャムファクトリー",
+      "photos": [
+        {
+          "height": 1382,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110389866434438125268\">沢屋ジャムファクトリー</a>"
+          ],
+          "photo_reference": "Aap_uECojFaERIw6OPMuuB4vXOyCLEDGgw9-16QpeOUF8lqftjjhWCESFFvptR7NKGiLRVMV_E1eHrngBKbnyR34kL-5XHCcT1r0qXM488H3I7F387jV0Dj0qOOQCjZ_QITZi9r286BaWFq1DyCeKE7vcZlzqcQ_zKbiTKS4Ui-BFKXku8s",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJWc53to3SHWARvsu5uhOW9mI",
+      "plus_code": {
+        "compound_code": "8H9G+46 軽井沢町、長野県",
+        "global_code": "8Q8W8H9G+46"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

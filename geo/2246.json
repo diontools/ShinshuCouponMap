@@ -1,108 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "一扇ビル",
-        "short_name": "一扇ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５−４ 一扇ビル",
-    "geometry": {
-      "location": {
-        "lat": 36.2321068,
-        "lng": 137.9661863
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23348833029151,
-          "lng": 137.9675297302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５−４ 一扇ビル",
+      "geometry": {
+        "location": {
+          "lat": 36.2320894,
+          "lng": 137.9661895
         },
-        "southwest": {
-          "lat": 36.23079036970851,
-          "lng": 137.9648317697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23348917989273,
+            "lng": 137.9675305798927
+          },
+          "southwest": {
+            "lat": 36.23078952010729,
+            "lng": 137.9648309201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJD0b7U4kOHWAR1ResBeepISM",
-    "plus_code": {
-      "compound_code": "6XJ8+RF 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+RF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "やっちゃん",
+      "photos": [
+        {
+          "height": 6941,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118015032636277632826\">ウヰスキーラバー</a>"
+          ],
+          "photo_reference": "Aap_uEAOqsWuB8r7WJAerbNtl9Z2OWJ7WKOwRyU0Xl0cEljBllZrQcPc2JmRM05vOz-QsnPH0Y18b9iDraB4MlbnGtpuRRAo9R-fRigtQdG_LqWWPnRpohQ2wldOSLIGlvSUO0JKdbqx8CoyRNCA6vAYW8DwZnepEDkUHFOwJQU2OD1obBa_",
+          "width": 11369
+        }
+      ],
+      "place_id": "ChIJD0b7U4kOHWAR1ResBeepISM",
+      "plus_code": {
+        "compound_code": "6XJ8+RF 松本市、長野県",
+        "global_code": "8Q8V6XJ8+RF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

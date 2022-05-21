@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡木曽町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島５２８３",
+      "geometry": {
+        "location": {
+          "lat": 35.8492115,
+          "lng": 137.695485
         },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+        "viewport": {
+          "northeast": {
+            "lat": 35.85057042989272,
+            "lng": 137.6968206798927
+          },
+          "southwest": {
+            "lat": 35.84787077010728,
+            "lng": 137.6941210201072
+          }
         }
       },
-      "location": {
-        "lat": 35.8424988,
-        "lng": 137.6915171
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
-        },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "御菓子司 田ぐち",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115885914828437268968\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDjkYXyQ_8OkCfWVpIHf6f9ADSX0z_OfCWnKd-xV1ox02q6k78_p7uwd0vlpTG-gc3GcA77xf2rCoiB7rsRkQZSGzbeuUIkZXsj624C71xtqyhlVoLfOW0hntG2Q3r8nuRFjrG58PXO9O-1jjrbECat43sP5WdKvkPNTmUpS8UStCXn",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGb9UfHEnHWARFYfp0VxZPjs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJPUMoaKXeHGARqT0ttQ6otio",
+      "plus_code": {
+        "compound_code": "RMXW+M5 木曽町、長野県",
+        "global_code": "8Q7VRMXW+M5"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

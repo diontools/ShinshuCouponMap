@@ -1,108 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "もとき開智店",
-        "short_name": "もとき開智店",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３２",
-        "short_name": "３２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "開智",
-        "short_name": "開智",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0876",
-        "short_name": "390-0876",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0876 長野県松本市開智２丁目２−３２ もとき開智店",
-    "geometry": {
-      "location": {
-        "lat": 36.2404544,
-        "lng": 137.970387
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2417384802915,
-          "lng": 137.9717386302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0876 長野県松本市開智２丁目２−３２ もとき開智店",
+      "geometry": {
+        "location": {
+          "lat": 36.2404366,
+          "lng": 137.9703877
         },
-        "southwest": {
-          "lat": 36.2390405197085,
-          "lng": 137.9690406697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24173932989272,
+            "lng": 137.9717394798927
+          },
+          "southwest": {
+            "lat": 36.23903967010728,
+            "lng": 137.9690398201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ2yAr2YQOHWAR-BvfaON1mb4",
-    "plus_code": {
-      "compound_code": "6XRC+55 日本、長野県松本市",
-      "global_code": "8Q8V6XRC+55"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば処 もとき 開智店",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116816288515876146081\">116816288515876146081</a>"
+          ],
+          "photo_reference": "Aap_uEAY5xBzdnvITVNxqp4uyQViI0GisQX4CkyPNfdZhzjDWEP_SxFLNsHtQn5fv1vaNufonZsd665GKYZDOmV0CeWUiftPtcdIBLyKLegnnaaXBvqfb4ShAWfyU39CKtX8PGk0i99U-9Dc36jIeMaJhvkGpjgsprnpExE2czjoGtlyxFF_",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ2yAr2YQOHWAR-BvfaON1mb4",
+      "plus_code": {
+        "compound_code": "6XRC+55 松本市、長野県",
+        "global_code": "8Q8V6XRC+55"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

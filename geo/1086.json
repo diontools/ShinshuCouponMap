@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３８７",
-        "short_name": "１３８７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "塩名田",
-        "short_name": "塩名田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2102",
-        "short_name": "384-2102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2102 長野県佐久市塩名田１３８７",
-    "geometry": {
-      "location": {
-        "lat": 36.2713894,
-        "lng": 138.4216077
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2728175302915,
-          "lng": 138.4229718302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2102 長野県佐久市塩名田１３８７",
+      "geometry": {
+        "location": {
+          "lat": 36.2713896,
+          "lng": 138.4216179
         },
-        "southwest": {
-          "lat": 36.2701195697085,
-          "lng": 138.4202738697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27281837989271,
+            "lng": 138.4229726798927
+          },
+          "southwest": {
+            "lat": 36.27011872010727,
+            "lng": 138.4202730201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJi3HMrUPKHWARp8HaywjMvME",
-    "plus_code": {
-      "compound_code": "7CCC+HJ 日本、長野県佐久市",
-      "global_code": "8Q8W7CCC+HJ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "浅科観光ハイヤー（有）",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111656508565842515826\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDef2mdXi0y9K6nRHrocE2Wpo9UYakVw4cZBJjWb7uSgal_1seQQrW_d2hT8cFczcIEgR0Z8tttkB8Cq5HBLgvY3O5j70k65qKu3ax03L7zqP9DJfgoze36qbv7BV4FXS4VpIhnccl-ALSkS_nrdltnWhEdEX7H8GWWMaCSNi2gRk20",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJi3HMrUPKHWARp8HaywjMvME",
+      "plus_code": {
+        "compound_code": "7CCC+HJ 佐久市、長野県",
+        "global_code": "8Q8W7CCC+HJ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

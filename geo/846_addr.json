@@ -1,90 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１１",
-        "short_name": "３１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "七瀬南部",
-        "short_name": "七瀬南部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0905",
-        "short_name": "380-0905",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0905 長野県長野市鶴賀七瀬南部３１１",
-    "geometry": {
-      "location": {
-        "lat": 36.64363,
-        "lng": 138.1996228
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64492138029151,
-          "lng": 138.2009484802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0905 長野県長野市鶴賀七瀬南部３８５−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6421642,
+          "lng": 138.200027
         },
-        "southwest": {
-          "lat": 36.64222341970851,
-          "lng": 138.1982505197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64355702989272,
+            "lng": 138.2013369798927
+          },
+          "southwest": {
+            "lat": 36.64085737010728,
+            "lng": 138.1986373201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfcZWgGKGHWARPUWvwrez5YQ",
-    "plus_code": {
-      "compound_code": "J5VX+FR 長野県長野市",
-      "global_code": "8Q8WJ5VX+FR"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かつや 長野七瀬店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101571616707359707326\">近藤新</a>"
+          ],
+          "photo_reference": "Aap_uECOYiuN3tHw5W1tbr_6teJTQtmUWyyrPhjG603m26Pqsd2Dmq0i3rilAXZo3YeFz0p_GSvNsdtlhVqatxszriV7tpvylcI5DYyWOK4jK--LVtDwHqJ4J2R9aplMt4cv1DhMVkFhIEfpNmFya_8JizUG0ZK_GazhkSwImB50_qcQV3Lb",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJOSWOomKGHWARjhFeWcF3zfM",
+      "plus_code": {
+        "compound_code": "J6R2+V2 長野市、長野県",
+        "global_code": "8Q8WJ6R2+V2"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

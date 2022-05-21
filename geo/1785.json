@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３６０−１",
-        "short_name": "１３６０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高",
-        "short_name": "穂高",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8303",
-        "short_name": "399-8303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8303 長野県安曇野市穂高１３６０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3268074,
-        "lng": 137.8924236
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.32817593029149,
-          "lng": 137.8938871302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8303 長野県安曇野市穂高１３６０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3268059,
+          "lng": 137.8924148
         },
-        "southwest": {
-          "lat": 36.3254779697085,
-          "lng": 137.8911891697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32817677989272,
+            "lng": 137.8938879798928
+          },
+          "southwest": {
+            "lat": 36.32547712010727,
+            "lng": 137.8911883201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJqaOejqVtHWARhDbfysHnEiA",
-    "plus_code": {
-      "compound_code": "8VGR+PX 日本、長野県安曇野市",
-      "global_code": "8Q8V8VGR+PX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "スシロー 安曇野穂高店",
+      "photos": [
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102547986753942596669\">janne da arc</a>"
+          ],
+          "photo_reference": "Aap_uEBAbRYn8I6mb7vc0oZ9-JOFlt95rT4vAPTp6CFYQhO9Uzlw5oNhbKIcjatlM6ZeIw4sgVxKcJ7IUzHT5e5wjj1tRRTGnrJ1oq4OgzUoQAbCp_83p0geOlT9ZjzDLOmIJiYpSeYdSggSCcZo7cL0jtjwkOEQZSFCdJV4LhGyLVDs7uh1",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJqaOejqVtHWARhDbfysHnEiA",
+      "plus_code": {
+        "compound_code": "8VGR+PX 安曇野市、長野県",
+        "global_code": "8Q8V8VGR+PX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

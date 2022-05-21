@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４５４−３",
-        "short_name": "１４５４−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上武石",
-        "short_name": "上武石",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0508",
-        "short_name": "386-0508",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0508 長野県上田市上武石１４５４−３",
-    "geometry": {
-      "location": {
-        "lat": 36.28641229999999,
-        "lng": 138.2273785
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.28758338029149,
-          "lng": 138.2287718802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0508 長野県上田市上武石１４５４−３",
+      "geometry": {
+        "location": {
+          "lat": 36.28641229999999,
+          "lng": 138.2273785
         },
-        "southwest": {
-          "lat": 36.28488541970849,
-          "lng": 138.2260739197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.28758422989272,
+            "lng": 138.2287727298927
+          },
+          "southwest": {
+            "lat": 36.28488457010728,
+            "lng": 138.2260730701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJzVsc9lilHWARNuk2NR31vu8",
-    "plus_code": {
-      "compound_code": "76PG+HX 長野県上田市",
-      "global_code": "8Q8W76PG+HX"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0508 長野県上田市上武石１４５４−３",
+      "place_id": "ChIJzVsc9lilHWARNuk2NR31vu8",
+      "plus_code": {
+        "compound_code": "76PG+HX 上田市、長野県",
+        "global_code": "8Q8W76PG+HX"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

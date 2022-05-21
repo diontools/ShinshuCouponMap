@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６７１",
-        "short_name": "３６７１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠３６７１",
-    "geometry": {
-      "location": {
-        "lat": 36.7544708,
-        "lng": 138.0872603
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7558076802915,
-          "lng": 138.0886090802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠３６７１",
+      "geometry": {
+        "location": {
+          "lat": 36.7544708,
+          "lng": 138.0872603
         },
-        "southwest": {
-          "lat": 36.7531097197085,
-          "lng": 138.0859111197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.75580852989273,
+            "lng": 138.0886099298927
+          },
+          "southwest": {
+            "lat": 36.75310887010728,
+            "lng": 138.0859102701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJF_S9pPou9l8ROkxIRpSe8CU",
-    "plus_code": {
-      "compound_code": "Q33P+QW 長野県長野市",
-      "global_code": "8Q8WQ33P+QW"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-4101 長野県長野市戸隠３６７１",
+      "place_id": "ChIJF_S9pPou9l8ROkxIRpSe8CU",
+      "plus_code": {
+        "compound_code": "Q33P+QW 長野市、長野県",
+        "global_code": "8Q8WQ33P+QW"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

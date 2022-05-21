@@ -1,79 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0100",
-        "short_name": "391-0100",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0100 長野県諏訪郡原村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0100 長野県諏訪郡原村 １５４６９-１",
+      "geometry": {
+        "location": {
+          "lat": 35.939975,
+          "lng": 138.224338
         },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+        "viewport": {
+          "northeast": {
+            "lat": 35.94138892989272,
+            "lng": 138.2256668298927
+          },
+          "southwest": {
+            "lat": 35.93868927010728,
+            "lng": 138.2229671701072
+          }
         }
       },
-      "location": {
-        "lat": 35.9644513,
-        "lng": 138.2174935
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
-        },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "手打ちそば 一八",
+      "photos": [
+        {
+          "height": 2620,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104509892038182472757\">zato1713</a>"
+          ],
+          "photo_reference": "Aap_uEA0BCvNXWWhADVWRoVdkzUgwpQRoRxy4CaNaVw7Co9gPk7Pq7xFfHCYy6xbmhf9l5dqIplZSXyVYDFlqUQ3jBn8Mcf0aC95au-IocqD2YCaJtuxB9Ym83BMzBquS3WADotjMcyt0dyYjqzMic1MgYk1ElvFFQCZP8Wi1ffQPDXJn5s9",
+          "width": 4656
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMxZWzI1EHGARFpP8Ubkhhpw",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJVVXB9cFaHGARUCKJlen5XHw",
+      "plus_code": {
+        "compound_code": "W6QF+XP 原村、長野県",
+        "global_code": "8Q7WW6QF+XP"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

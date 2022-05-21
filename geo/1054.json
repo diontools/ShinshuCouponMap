@@ -1,93 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８１４",
-        "short_name": "１８１４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北小谷",
-        "short_name": "北小谷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9601",
-        "short_name": "399-9601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9601 長野県北安曇郡小谷村北小谷１８１４",
-    "geometry": {
-      "location": {
-        "lat": 36.8454156,
-        "lng": 137.8998595
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.84679243029149,
-          "lng": 137.9012463802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9601 長野県北安曇郡小谷村北小谷１８１４",
+      "geometry": {
+        "location": {
+          "lat": 36.8454156,
+          "lng": 137.8998594
         },
-        "southwest": {
-          "lat": 36.8440944697085,
-          "lng": 137.8985484197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.84679327989272,
+            "lng": 137.9012471798927
+          },
+          "southwest": {
+            "lat": 36.84409362010727,
+            "lng": 137.8985475201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJz3Yk8x_N918RWxcamv5CxX4",
-    "plus_code": {
-      "compound_code": "RVWX+5W 日本、長野県小谷村",
-      "global_code": "8Q8VRVWX+5W"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "furniture_store",
-      "home_goods_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "紡ぎ舎（つむぎや）",
+      "photos": [
+        {
+          "height": 2795,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107276491872472536660\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDO1dP7UmY9Hjdhu1hXoSNxX4heagDYYkUSpMxUGvvmqhxnSyDIQdks667k1kfeSweVzHEwUsOdEESmT6XjlRkf071T-Ju6Mf_iu7Bb2CSwcrnS73T-iPYwZHry0Nym2RG5ZDjJjKnwvSBuiQifruXLs22pgLyoF2ESKfvGoa6vVaEB",
+          "width": 4192
+        }
+      ],
+      "place_id": "ChIJz3Yk8x_N918RWxcamv5CxX4",
+      "plus_code": {
+        "compound_code": "RVWX+5W 小谷村、長野県",
+        "global_code": "8Q8VRVWX+5W"
+      },
+      "types": [
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

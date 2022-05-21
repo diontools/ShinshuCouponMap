@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "長野 県 北安曇 郡 白馬 村 北城 ９５４９, 白馬村 北安曇郡 長野県 399-9301 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.709133,
+          "lng": 137.8493851
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.71073307989272,
+            "lng": 137.8507149298927
+          },
+          "southwest": {
+            "lat": 36.70803342010728,
+            "lng": 137.8480152701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "倉下の湯 マレットゴルフ場",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109298949347114556498\">町田秀博</a>"
+          ],
+          "photo_reference": "Aap_uEDY_gD4F1CaMv8no69PVvrAZrRl55cMXztqFDLQtHcCkONLve59_O14DLGijuswBwxe8jmgkTYA92QQoz-Q14KNLRUA8T1CiXY7gfyg0pITO6TfnZJTNHmpqOHqgVeMo1dlAcGS5TY-n8EBWPM5yPfTiQqRbs53fFQipdWiBs-3BZnJ",
+          "width": 5312
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJab87S-_N918RnizlBjafyZo",
+      "plus_code": {
+        "compound_code": "PR5X+MQ 白馬村、長野県",
+        "global_code": "8Q8VPR5X+MQ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

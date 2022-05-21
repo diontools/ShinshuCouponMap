@@ -1,98 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1F",
-        "short_name": "1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "５００２",
-        "short_name": "５００２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城５００２ 1F",
-    "geometry": {
-      "location": {
-        "lat": 36.7020705,
-        "lng": 137.8437436
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7034109302915,
-          "lng": 137.8451567302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城５００２ 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.7020705,
+          "lng": 137.8437436
         },
-        "southwest": {
-          "lat": 36.7007129697085,
-          "lng": 137.8424587697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70341177989273,
+            "lng": 137.8451575798927
+          },
+          "southwest": {
+            "lat": 36.70071212010728,
+            "lng": 137.8424579201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJM9Iomg_N918RCm8JuPaYDv0",
-    "plus_code": {
-      "compound_code": "PR2V+RF 長野県白馬村",
-      "global_code": "8Q8VPR2V+RF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "とんかつ専門店 つむぎ",
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109597384708577037821\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBPER5vzOKNTCe8s5jLc1Wa_BzUwLHXGpNi0VtxbsljJ7PwHdHQWdNclyz_litWKmVf3geBTdUppePApVeBGku-Hv2fp91lMMVbcQ0bNhiT1TnnHbPADe-mSNIvQQZEqPem7qAvlmGuCQ-dV0Y31x7q9reknhZ5lZR4CtFgsTiQ0GAv",
+          "width": 5632
+        }
+      ],
+      "place_id": "ChIJM9Iomg_N918RCm8JuPaYDv0",
+      "plus_code": {
+        "compound_code": "PR2V+RF 白馬村、長野県",
+        "global_code": "8Q8VPR2V+RF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４２−５",
-        "short_name": "３４２−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "秋和",
-        "short_name": "秋和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0041",
-        "short_name": "386-0041",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0041 長野県上田市秋和３４２−５",
-    "geometry": {
-      "location": {
-        "lat": 36.415114,
-        "lng": 138.222762
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4166297302915,
-          "lng": 138.2242686302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0041 長野県上田市秋和３４２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.4151753,
+          "lng": 138.2228278
         },
-        "southwest": {
-          "lat": 36.4139317697085,
-          "lng": 138.2215706697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.41663057989273,
+            "lng": 138.2242694798927
+          },
+          "southwest": {
+            "lat": 36.41393092010728,
+            "lng": 138.2215698201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJz0QyW7yiHWARVQH-degt_Ts",
-    "plus_code": {
-      "compound_code": "C68F+24 日本、長野県上田市",
-      "global_code": "8Q8WC68F+24"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "スシロー 上田店",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114104391401190678189\">平井義一</a>"
+          ],
+          "photo_reference": "Aap_uECB1_51XgeYd5nxQSdv60-oUwwypkEzCW-QNb1coypywT_1IysNQq6sVa0UNxYgn6--2doRYd94cReifig4sQBShAzJFYcRddRLu-SBwnOSZDpicqYzSkai5rXWVSI71_OY31iqAPM4IOg2V9VctcNRSy8bijw0dAEq7ZIjOQ5VGNoW",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJz0QyW7yiHWARVQH-degt_Ts",
+      "plus_code": {
+        "compound_code": "C68F+24 上田市、長野県",
+        "global_code": "8Q8WC68F+24"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

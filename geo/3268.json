@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９１１",
-        "short_name": "９１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２０",
-        "short_name": "２０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "赤穂",
-        "short_name": "赤穂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4117",
-        "short_name": "399-4117",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4117 長野県駒ヶ根市赤穂２０−９１１",
-    "geometry": {
-      "location": {
-        "lat": 35.7206588,
-        "lng": 137.9047819
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.72181303029149,
-          "lng": 137.9062092302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4117 長野県駒ヶ根市２０−９１１",
+      "geometry": {
+        "location": {
+          "lat": 35.7206288,
+          "lng": 137.9047819
         },
-        "southwest": {
-          "lat": 35.71911506970849,
-          "lng": 137.9035112697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.72181387989271,
+            "lng": 137.9062100798927
+          },
+          "southwest": {
+            "lat": 35.71911422010727,
+            "lng": 137.9035104201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJV-6XdkntHGARURZl4TueUlc",
-    "plus_code": {
-      "compound_code": "PWC3+7W 長野県駒ヶ根市",
-      "global_code": "8Q7VPWC3+7W"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ピッツェリア 堀内",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115389031206805853830\">ミークン A</a>"
+          ],
+          "photo_reference": "Aap_uEDUx1SmgYx20Y0sJ3eQzoHGFIli71xX-1kOM02FiAOkUvxOxIu61uaTz6nC4B_oTmSfPbdOi6USNjm37zZPs6qeW3s5AKtu3UixXiLGEvoQ-YC75XSyYrSAa_Sa1VEokQOJ5pMLX5eg5tGZpnA3oQbpv8kHgHxx2DUIxcGZF-L0R2sk",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJV-6XdkntHGARURZl4TueUlc",
+      "plus_code": {
+        "compound_code": "PWC3+7W 駒ヶ根市、長野県",
+        "global_code": "8Q7VPWC3+7W"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

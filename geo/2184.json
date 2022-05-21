@@ -1,108 +1,37 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "ナワテ通り商店街",
-        "short_name": "ナワテ通り商店街",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "四柱神社",
-        "short_name": "四柱神社",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目１ 四柱神社 ナワテ通り商店街 前",
-    "geometry": {
-      "location": {
-        "lat": 36.2346107,
-        "lng": 137.9711568
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23590808029149,
-          "lng": 137.9725127802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目１ 前 四柱神社 ナワテ通り商店街",
+      "geometry": {
+        "location": {
+          "lat": 36.2346107,
+          "lng": 137.9711568
         },
-        "southwest": {
-          "lat": 36.2332101197085,
-          "lng": 137.9698148197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23590892989272,
+            "lng": 137.9725136298927
+          },
+          "southwest": {
+            "lat": 36.23320927010727,
+            "lng": 137.9698139701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJazcBR88PHWARZlvKHxbc1MI",
-    "plus_code": {
-      "compound_code": "6XMC+RF 日本、長野県松本市",
-      "global_code": "8Q8V6XMC+RF"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "おみやげ処 いろは",
+      "place_id": "ChIJazcBR88PHWARZlvKHxbc1MI",
+      "plus_code": {
+        "compound_code": "6XMC+RF 松本市、長野県",
+        "global_code": "8Q8V6XMC+RF"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

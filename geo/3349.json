@@ -1,93 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１４１５−１",
-        "short_name": "１１４１５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中箕輪",
-        "short_name": "中箕輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "箕輪町",
-        "short_name": "箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4601",
-        "short_name": "399-4601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪１１４１５−１",
-    "geometry": {
-      "location": {
-        "lat": 35.8979885,
-        "lng": 137.9909281
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8993374802915,
-          "lng": 137.9922770802915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪１１４１５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.8979885,
+          "lng": 137.9909281
         },
-        "southwest": {
-          "lat": 35.8966395197085,
-          "lng": 137.9895791197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.89933832989272,
+            "lng": 137.9922779298927
+          },
+          "southwest": {
+            "lat": 35.89663867010727,
+            "lng": 137.9895782701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJf9_2dgj6HGARysOVQA4Qlrk",
-    "plus_code": {
-      "compound_code": "VXXR+59 長野県箕輪町",
-      "global_code": "8Q7VVXXR+59"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "e cafe",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110337120332694875260\">八木択真</a>"
+          ],
+          "photo_reference": "Aap_uEBqjRx0LKfNDbWekAlJyDAnqSh8UgicopzxGbF-D2bFGAd8vtDLBMMPXnT9DdHlHw00Kbfj4Szv-nSWiKouWT3NvDCWKrk44sx_TIV7q4khkGzMlqX2LrpoAYVNM9C_ySDKb1WVq4dDfUvTsTfkRO2uHZ_dggCYZnPSZyOEIBW8W4KP",
+          "width": 3696
+        }
+      ],
+      "place_id": "ChIJf9_2dgj6HGARysOVQA4Qlrk",
+      "plus_code": {
+        "compound_code": "VXXR+59 箕輪町、長野県",
+        "global_code": "8Q7VVXXR+59"
+      },
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

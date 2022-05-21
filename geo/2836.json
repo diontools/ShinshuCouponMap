@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８２２２",
-        "short_name": "８２２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "三岳",
-        "short_name": "三岳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0101",
-        "short_name": "397-0101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0101 長野県木曽郡木曽町三岳８２２２",
-    "geometry": {
-      "location": {
-        "lat": 35.838049,
-        "lng": 137.589898
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.83814,
-          "lng": 137.5922973
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0101 長野県木曽郡木曽町三岳８２２２",
+      "geometry": {
+        "location": {
+          "lat": 35.838049,
+          "lng": 137.589898
         },
-        "southwest": {
-          "lat": 35.835437,
-          "lng": 137.5895554
+        "viewport": {
+          "northeast": {
+            "lat": 35.83949149999999,
+            "lng": 137.59366825
+          },
+          "southwest": {
+            "lat": 35.83408550000001,
+            "lng": 137.58818445
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJBW8jDZnXHGAR7DeHKGfygJY",
-    "plus_code": {
-      "compound_code": "RHQQ+6X 長野県木曽町",
-      "global_code": "8Q7VRHQQ+6X"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "御岳ゴルフ＆リゾートホテル",
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116431019157113742470\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECBMRWti_2m8VKhj39ZBK7gT7hsgL0D2T7--O65jsuO--18yNIdl8ZWOWa6Y3f3qICcXSbM3-KSfD4cxtLZjFqXhQ_V54FMWpT6cf0nlowzhprO-3_q6hPQYgVrsU9OF2X1zC4Ey8wyC8G4B1LsH0wb9jTA9N6HyDNVK-5e9bMNuc3S",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJBW8jDZnXHGAR7DeHKGfygJY",
+      "plus_code": {
+        "compound_code": "RHQQ+6X 木曽町、長野県",
+        "global_code": "8Q7VRHQQ+6X"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

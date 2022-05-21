@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０３",
-        "short_name": "４０３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "合川",
-        "short_name": "合川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "平谷村",
-        "short_name": "平谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0601",
-        "short_name": "395-0601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0601 長野県下伊那郡平谷村合川４０３",
-    "geometry": {
-      "location": {
-        "lat": 35.3161554,
-        "lng": 137.6113252
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.31752398029149,
-          "lng": 137.6126746802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0601 長野県下伊那郡平谷村合川４０３",
+      "geometry": {
+        "location": {
+          "lat": 35.3161307,
+          "lng": 137.6113425
         },
-        "southwest": {
-          "lat": 35.3148260197085,
-          "lng": 137.6099767197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.31752482989272,
+            "lng": 137.6126755298927
+          },
+          "southwest": {
+            "lat": 35.31482517010727,
+            "lng": 137.6099758701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJLbFW1eanHGARuB7etRUs-7s",
-    "plus_code": {
-      "compound_code": "8J86+FG 長野県平谷村",
-      "global_code": "8Q7V8J86+FG"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "平谷カントリー倶楽部",
+      "photos": [
+        {
+          "height": 851,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100409053408358995742\">平谷カントリー倶楽部</a>"
+          ],
+          "photo_reference": "Aap_uEBocppBBOIxEso-oUonmEfALWOYzb0A0TACKYmBs_2TgUaJMp9yK39R540sawzqo8exUgKvpwcEVeAC9JGMmfCP7kl0XAU0wGS_EBR4rvuMu3tI1OallDYy7JlFeZcakwAD5IJ7uGVJv5fsK5saJVDzpao8aMz_-WlzHCxnuVzIHxOs",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJLbFW1eanHGARuB7etRUs-7s",
+      "plus_code": {
+        "compound_code": "8J86+FG 平谷村、長野県",
+        "global_code": "8Q7V8J86+FG"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

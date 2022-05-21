@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２４−６",
-        "short_name": "１２２４−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２４−６",
-    "geometry": {
-      "location": {
-        "lat": 36.5295885,
-        "lng": 138.3339503
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.53088013029149,
-          "lng": 138.3352450302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２４−６",
+      "geometry": {
+        "location": {
+          "lat": 36.5295885,
+          "lng": 138.3339503
         },
-        "southwest": {
-          "lat": 36.52818216970849,
-          "lng": 138.3325470697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53088097989272,
+            "lng": 138.3352458798927
+          },
+          "southwest": {
+            "lat": 36.52818132010728,
+            "lng": 138.3325462201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJUfYA8j-UHWARxjFgovOVrhA",
-    "plus_code": {
-      "compound_code": "G8HM+RH 日本、長野県上田市",
-      "global_code": "8Q8WG8HM+RH"
-    },
-    "types": [
-      "establishment",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "菅清園 おみやげ＆カフェ",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100753072492580676815\">山田亮太</a>"
+          ],
+          "photo_reference": "Aap_uEA8F-LYepG-KXYXz5FxEChfw2bIzH3BgZ-jNso1ZOiBbVlXpA26fogmlAwaTGdEj5w7gXZXQ3Ft3NXMbGPN54w_0dIA_aHpIP0zP4M8eEWlpmynyB1ZhCbp5aqoVXAEsZmdMv8hE_jwf0bBAl6DagE709l2_6fp4kFvMEGWPHl346Lv",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJUfYA8j-UHWARxjFgovOVrhA",
+      "plus_code": {
+        "compound_code": "G8HM+RH 上田市、長野県",
+        "global_code": "8Q8WG8HM+RH"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

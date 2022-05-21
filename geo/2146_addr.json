@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０５４−２",
-        "short_name": "１０５４−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "島立",
-        "short_name": "島立",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0852",
-        "short_name": "390-0852",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0852 長野県松本市島立１０５４−２",
-    "geometry": {
-      "location": {
-        "lat": 36.2364103,
-        "lng": 137.9439989
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23784218029149,
-          "lng": 137.9453417802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0852 長野県松本市島立１０５４−２",
+      "geometry": {
+        "location": {
+          "lat": 36.2364103,
+          "lng": 137.9439989
         },
-        "southwest": {
-          "lat": 36.23514421970849,
-          "lng": 137.9426438197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23784302989272,
+            "lng": 137.9453426298927
+          },
+          "southwest": {
+            "lat": 36.23514337010727,
+            "lng": 137.9426429701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJA2Cend8NHWARIhJoAeccPVs",
-    "plus_code": {
-      "compound_code": "6WPV+HH 長野県松本市",
-      "global_code": "8Q8V6WPV+HH"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0852 長野県松本市島立１０５４−２",
+      "place_id": "ChIJA2Cend8NHWARIhJoAeccPVs",
+      "plus_code": {
+        "compound_code": "6WPV+HH 松本市、長野県",
+        "global_code": "8Q8V6WPV+HH"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

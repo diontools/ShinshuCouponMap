@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２３４６−４９",
-        "short_name": "２２３４６−４９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２３４６−４９",
-    "geometry": {
-      "location": {
-        "lat": 36.660478,
-        "lng": 137.8443637
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6617447302915,
-          "lng": 137.8457656302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２３４６−４９",
+      "geometry": {
+        "location": {
+          "lat": 36.660478,
+          "lng": 137.8443637
         },
-        "southwest": {
-          "lat": 36.6590467697085,
-          "lng": 137.8430676697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66174557989272,
+            "lng": 137.8457664798927
+          },
+          "southwest": {
+            "lat": 36.65904592010727,
+            "lng": 137.8430668201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJnetnV1TQ918RJcfF3V_A3aw",
-    "plus_code": {
-      "compound_code": "MR6V+5P 長野県白馬村",
-      "global_code": "8Q8VMR6V+5P"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白馬の森 ペンション&コテージ アッサム",
+      "photos": [
+        {
+          "height": 5480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101130319100412636735\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDWwe-wEoAVyIdwE82k31YZZjhFZRnubbPg1xHcrkrI9ipa_JdzUZXOiuCsf8wE4_kNcgKRVO3LXtXZb4t2nPWHYeo7Gl5qOCic_t-8-D9uAKvTKrEYQIQD-fx8yawdSehdWrEBivS0aBFCZn20o3_O1KvPGkIjSIiRhezcLPT7M8_5",
+          "width": 2740
+        }
+      ],
+      "place_id": "ChIJnetnV1TQ918RJcfF3V_A3aw",
+      "plus_code": {
+        "compound_code": "MR6V+5P 白馬村、長野県",
+        "global_code": "8Q8VMR6V+5P"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

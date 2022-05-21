@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２７８",
-        "short_name": "１２７８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鼎名古熊",
-        "short_name": "鼎名古熊",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0804",
-        "short_name": "395-0804",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0804 長野県飯田市鼎名古熊１２７８",
-    "geometry": {
-      "location": {
-        "lat": 35.4979049,
-        "lng": 137.8173471
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4992761802915,
-          "lng": 137.8187279802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0804 長野県飯田市鼎名古熊１２７８",
+      "geometry": {
+        "location": {
+          "lat": 35.4979049,
+          "lng": 137.8173471
         },
-        "southwest": {
-          "lat": 35.4965782197085,
-          "lng": 137.8160300197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.49927702989272,
+            "lng": 137.8187288298927
+          },
+          "southwest": {
+            "lat": 35.49657737010727,
+            "lng": 137.8160291701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlQiIWqeZHGAR8HpebBpdyLA",
-    "plus_code": {
-      "compound_code": "FRX8+5W 長野県飯田市",
-      "global_code": "8Q7VFRX8+5W"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "イタメシ屋 ダルキチ",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104870962324421787513\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDhakFEtd2qWap23W8M8_VG_J8WoaKo6LStewG45Y2Jr0t9ElARQqVFJHknQLK9Yc42BN9QVKaI3_kmvKyn04_uehRqHHx7GxPJpL2jUp3Ieezt1NIYT-9my2ex-59CDJi12D77ohvj0b3Tj2gMwDwR3fwSIeXk1bLKKEjEfTXbaC1U",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJlQiIWqeZHGAR8HpebBpdyLA",
+      "plus_code": {
+        "compound_code": "FRX8+5W 飯田市、長野県",
+        "global_code": "8Q7VFRX8+5W"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

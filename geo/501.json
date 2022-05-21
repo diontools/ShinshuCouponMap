@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県千曲市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0804 長野県千曲市戸倉中町１３４５−６",
+      "geometry": {
+        "location": {
+          "lat": 36.491961,
+          "lng": 138.1531112
         },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+        "viewport": {
+          "northeast": {
+            "lat": 36.49330537989272,
+            "lng": 138.1544327298927
+          },
+          "southwest": {
+            "lat": 36.49060572010728,
+            "lng": 138.1517330701072
+          }
         }
       },
-      "location": {
-        "lat": 36.5338864,
-        "lng": 138.119971
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
-        },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "しなの",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110561806714258645108\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA4OM6VVzvKMZp8d14LBHklrIZSMoPSJvg2UY8TLcnAvv40hSqwWNPJFjgMqsmDO6dhmSgSUvFWLc25RAZ6OwmPJ2pcBYhlEoYe8h9nIlMgt6xKHJRmKs8ECuSHMUTQUFzF9aFMWt6D0DATD-rSFCY2CNeTZMhi3d3vv9nLkSVvXVBt",
+          "width": 4000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQfuLuhydHWARe_teCWFmml0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJl2NAnMedHWARxVr6dwy5TMA",
+      "plus_code": {
+        "compound_code": "F5R3+Q7 千曲市、長野県",
+        "global_code": "8Q8WF5R3+Q7"
+      },
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

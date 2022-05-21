@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２０１−１００",
-        "short_name": "１２０１−１００",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "高島",
-        "short_name": "高島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0022",
-        "short_name": "392-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0022 長野県諏訪市高島３丁目１２０１−１００",
-    "geometry": {
-      "location": {
-        "lat": 36.04032970000001,
-        "lng": 138.1035954
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0417358302915,
-          "lng": 138.1050207302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0022 長野県諏訪市高島３丁目１２０１−１００",
+      "geometry": {
+        "location": {
+          "lat": 36.0403814,
+          "lng": 138.1036404
         },
-        "southwest": {
-          "lat": 36.03903786970851,
-          "lng": 138.1023227697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04173667989273,
+            "lng": 138.1050215798927
+          },
+          "southwest": {
+            "lat": 36.03903702010728,
+            "lng": 138.1023219201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjaj287tVHGAR1EKwtil8di8",
-    "plus_code": {
-      "compound_code": "24R3+4C 長野県諏訪市",
-      "global_code": "8Q8W24R3+4C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "liquor_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "漬物蔵 松尾商店 ヨットハーバー店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107079904625748767616\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBgW_wVNPUkR77o_uHZPtPUBNXIkvDWpcE1nWVoOppU5lcwU9s_uZhAjRlaUYPSNSRsOqjkw9UdllF1Hq7k7Q_A1j1OyvhVlGK4GCHfMo8GwvlnWIY_G3ZfJQsCHzpk1qooom3ioHem-nIbMZ8kHRiQBA560N3eC_YyN3CKhqBE0iMp",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJjaj287tVHGAR1EKwtil8di8",
+      "plus_code": {
+        "compound_code": "24R3+4C 諏訪市、長野県",
+        "global_code": "8Q8W24R3+4C"
+      },
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

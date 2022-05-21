@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "乙４７０-２",
-        "short_name": "乙４７０-２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国",
-        "short_name": "千国",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙４７０-２",
-    "geometry": {
-      "location": {
-        "lat": 36.7453113,
-        "lng": 137.8745171
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7465874302915,
-          "lng": 137.8758056802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙４７０-２",
+      "geometry": {
+        "location": {
+          "lat": 36.7453113,
+          "lng": 137.8745171
         },
-        "southwest": {
-          "lat": 36.7438894697085,
-          "lng": 137.8731077197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74658827989272,
+            "lng": 137.8758065298927
+          },
+          "southwest": {
+            "lat": 36.74388862010728,
+            "lng": 137.8731068701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL1UA-t7M918RhHCQ4ecg0kM",
-    "plus_code": {
-      "compound_code": "PVWF+4R 長野県小谷村",
-      "global_code": "8Q8VPVWF+4R"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "プチホテルシャンツェ",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110912093143663416088\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECyPAraCKnV6OcXCic-L9lRdJOKAM6sBN-nzT_pKoExHu91WHPhkgTYeENDB7BsnKE7v7PMD9GC2mbBJE_exywdfZbrA_-QKCvKp8YYYU6-9zDfw01DoduPOO1QPr44xOwymvJ32G0z9a-WMZLEjAfBafW5IGuJDGIy5XnvvwaHcsA7",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJL1UA-t7M918RhHCQ4ecg0kM",
+      "plus_code": {
+        "compound_code": "PVWF+4R 小谷村、長野県",
+        "global_code": "8Q8VPVWF+4R"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

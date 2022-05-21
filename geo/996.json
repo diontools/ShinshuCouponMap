@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９８１",
-        "short_name": "９８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "立町",
-        "short_name": "立町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字長野立町",
-        "short_name": "大字長野立町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0864",
-        "short_name": "380-0864",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0864 長野県長野市大字長野立町立町９８１",
-    "geometry": {
-      "location": {
-        "lat": 36.65716,
-        "lng": 138.184631
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.65850898029151,
-          "lng": 138.1859799802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0864 長野県長野市大字長野立町９８１",
+      "geometry": {
+        "location": {
+          "lat": 36.65716,
+          "lng": 138.184631
         },
-        "southwest": {
-          "lat": 36.65581101970851,
-          "lng": 138.1832820197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65850982989272,
+            "lng": 138.1859808298927
+          },
+          "southwest": {
+            "lat": 36.65581017010728,
+            "lng": 138.1832811701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6oeVuGGHWARBzQh7WkPaMc",
-    "plus_code": {
-      "compound_code": "M54M+VV 日本、長野県長野市",
-      "global_code": "8Q8WM54M+VV"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "平野珈琲 Hirano Coffee",
+      "photos": [
+        {
+          "height": 556,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102083742647675874232\">平野珈琲 Hirano Coffee</a>"
+          ],
+          "photo_reference": "Aap_uEDDz6GAicKVxXQ6MRPiGZKqGdUmqMq0xtleTAF0SNalAeORjMbRzw7BPk0ra17f-vBlhxhIi8T4Mmg0eHC6d16DEoK5hXV19Soxmb8-fS6AEnrAkxlvhTmbVPiNcBZywQ8bvENeJ3_OFqNZvipw3ziPcsCqJUT-uEZmH_E9sbfImmvs",
+          "width": 742
+        }
+      ],
+      "place_id": "ChIJq6oeVuGGHWARBzQh7WkPaMc",
+      "plus_code": {
+        "compound_code": "M54M+VV 長野市、長野県",
+        "global_code": "8Q8WM54M+VV"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

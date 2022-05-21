@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１",
-        "short_name": "１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３２",
-        "short_name": "３２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉２丁目３２−１１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4785048,
-          "lng": 138.141592
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉２丁目３２−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.4783714,
+          "lng": 138.141359
         },
-        "southwest": {
-          "lat": 36.47822,
-          "lng": 138.1411277
+        "viewport": {
+          "northeast": {
+            "lat": 36.47963862989273,
+            "lng": 138.1427295798927
+          },
+          "southwest": {
+            "lat": 36.47693897010728,
+            "lng": 138.1400299201073
+          }
         }
       },
-      "location": {
-        "lat": 36.4783714,
-        "lng": 138.141359
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4797044802915,
-          "lng": 138.1427088302915
-        },
-        "southwest": {
-          "lat": 36.4770065197085,
-          "lng": 138.1400108697085
-        }
-      }
-    },
-    "place_id": "ChIJAcVhvxWcHWARRTz9Z0PywHA",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0821 長野県千曲市上山田温泉２丁目３２−１１",
+      "place_id": "ChIJAcVhvxWcHWARRTz9Z0PywHA",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

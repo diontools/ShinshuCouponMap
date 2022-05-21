@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１６８",
-        "short_name": "３１６８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町",
-        "short_name": "大町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0002",
-        "short_name": "398-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0002 長野県大町市大町３１６８",
-    "geometry": {
-      "location": {
-        "lat": 36.5002931,
-        "lng": 137.8606622
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5016410302915,
-          "lng": 137.8619426802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒398-0002 長野県大町市大町３１６８",
+      "geometry": {
+        "location": {
+          "lat": 36.5002931,
+          "lng": 137.8606622
         },
-        "southwest": {
-          "lat": 36.4989430697085,
-          "lng": 137.8592447197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.50164187989272,
+            "lng": 137.8619435298928
+          },
+          "southwest": {
+            "lat": 36.49894222010727,
+            "lng": 137.8592438701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJV6DYcetjHWAR9EwIEGl4yks",
-    "plus_code": {
-      "compound_code": "GV26+47 長野県大町市",
-      "global_code": "8Q8VGV26+47"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒398-0002 長野県大町市大町３１６８",
+      "place_id": "ChIJV6DYcetjHWAR9EwIEGl4yks",
+      "plus_code": {
+        "compound_code": "GV26+47 大町市、長野県",
+        "global_code": "8Q8VGV26+47"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

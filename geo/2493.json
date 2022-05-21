@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２８４０",
-        "short_name": "１２８４０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８４０",
-    "geometry": {
-      "location": {
-        "lat": 36.7468498,
-        "lng": 137.8701883
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.74831083029149,
-          "lng": 137.8715535302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８４０",
+      "geometry": {
+        "location": {
+          "lat": 36.7468498,
+          "lng": 137.8701883
         },
-        "southwest": {
-          "lat": 36.7456128697085,
-          "lng": 137.8688555697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74831167989272,
+            "lng": 137.8715543798927
+          },
+          "southwest": {
+            "lat": 36.74561202010727,
+            "lng": 137.8688547201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKzDNr93M918R-AZDeeLS3FE",
-    "plus_code": {
-      "compound_code": "PVWC+P3 長野県小谷村",
-      "global_code": "8Q8VPVWC+P3"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル ベル・ハート",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114033577895418309645\">K U</a>"
+          ],
+          "photo_reference": "Aap_uECu5OjrDp9wOpeZ52Aq3HQSy03fb89pcWWuLhFpkkK7eytJMg4C1qoL7K-fWszkaB0E26kRpl1Zn1lSkWhBJ_vqNA3ALLLDZS13bBbW-jPZZ8VLcGoayBXFN6wLVtFJv2lCn0MaFfPDTdS_Cg_RHDEw4kHU2QY_3eypzIhjvfWSBZtb",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJKzDNr93M918R-AZDeeLS3FE",
+      "plus_code": {
+        "compound_code": "PVWC+P3 小谷村、長野県",
+        "global_code": "8Q8VPVWC+P3"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

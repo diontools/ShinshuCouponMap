@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２３７７−２７",
-        "short_name": "１２３７７−２７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "夜間瀬",
-        "short_name": "夜間瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１２３７７−２７",
-    "geometry": {
-      "location": {
-        "lat": 36.7813695,
-        "lng": 138.5276685
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.78261793029149,
-          "lng": 138.5289748802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１２３７７−２７",
+      "geometry": {
+        "location": {
+          "lat": 36.7813695,
+          "lng": 138.5276685
         },
-        "southwest": {
-          "lat": 36.77991996970849,
-          "lng": 138.5262769197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.78261877989272,
+            "lng": 138.5289757298927
+          },
+          "southwest": {
+            "lat": 36.77991912010728,
+            "lng": 138.5262760701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJqShgQiX3HWARD3Fg3rObOFA",
-    "plus_code": {
-      "compound_code": "QGJH+G3 日本、長野県山ノ内町",
-      "global_code": "8Q8WQGJH+G3"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Lodge Yama No Manimani",
+      "photos": [
+        {
+          "height": 2688,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106164039688249634307\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECREqocQPN5VoVHkAhPbNYyoUKFuDV_5_SIqxFVSTkDSfFh5b6Ur24l5kLUta1oZo74TTWlXdXOMujw4DaA_MGXENZvo2pgMl8c6M70l6MJg_kC-90ZARFNmr6FbuKjWoOWMOqi67nQ58NM0ZYEp3kYTvK9tVg8w1uQu82OaBTh9A2Y",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJqShgQiX3HWARD3Fg3rObOFA",
+      "plus_code": {
+        "compound_code": "QGJH+G3 山ノ内町、長野県",
+        "global_code": "8Q8WQGJH+G3"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５７０−１",
-        "short_name": "５７０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "篠ノ井有旅",
-        "short_name": "篠ノ井有旅",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "388-8016",
-        "short_name": "388-8016",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒388-8016 長野県長野市篠ノ井有旅５７０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.5855584,
-        "lng": 138.1152206
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5862914302915,
-          "lng": 138.1158517302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒388-8016 長野県長野市篠ノ井有旅５７０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.5855584,
+          "lng": 138.1152206
         },
-        "southwest": {
-          "lat": 36.5835934697085,
-          "lng": 138.1131537697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.58720295,
+            "lng": 138.11593845
+          },
+          "southwest": {
+            "lat": 36.58268194999999,
+            "lng": 138.11306705
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJdWzDBjKCHWAR7IMxGUz-XPg",
-    "plus_code": {
-      "compound_code": "H4P8+63 日本、長野県長野市",
-      "global_code": "8Q8WH4P8+63"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction",
-      "zoo"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "長野市茶臼山動物園",
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111468564568606018646\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECXkQHkOShZusLn1hzTsJmXDBq2mTKlBjkMb6SA_ksH13sB-pknhERAHvYD3pjm-1NyvQ4Pc-IHcX7s0NsnGBZ9RPZry-_lTsUS5wSKw-fsHsdY8wwXyU4d_2enljq3o2ScvsSHXQqGxaEGtTTmKR84eu9QJGahwJiWsQLfpE2ICuo2",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJdWzDBjKCHWAR7IMxGUz-XPg",
+      "plus_code": {
+        "compound_code": "H4P8+63 長野市、長野県",
+        "global_code": "8Q8WH4P8+63"
+      },
+      "types": [
+        "zoo",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

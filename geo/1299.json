@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２６２",
-        "short_name": "１２６２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西内",
-        "short_name": "西内",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0322",
-        "short_name": "386-0322",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0322 長野県上田市西内１２６２",
-    "geometry": {
-      "location": {
-        "lat": 36.303763,
-        "lng": 138.137183
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3052214302915,
-          "lng": 138.1385831802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0322 長野県上田市西内１２６２",
+      "geometry": {
+        "location": {
+          "lat": 36.303763,
+          "lng": 138.137183
         },
-        "southwest": {
-          "lat": 36.3025234697085,
-          "lng": 138.1358852197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.30522227989272,
+            "lng": 138.1385840298927
+          },
+          "southwest": {
+            "lat": 36.30252262010728,
+            "lng": 138.1358843701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHXOUHsGmHWAR1kwMdUMbQbQ",
-    "plus_code": {
-      "compound_code": "843P+GV 日本、長野県上田市",
-      "global_code": "8Q8W843P+GV"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "鹿教湯温泉 斉北荘",
+      "photos": [
+        {
+          "height": 1458,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107238663070189537515\">鹿教湯温泉 斉北荘</a>"
+          ],
+          "photo_reference": "Aap_uEA-NyMndRCXsKhDJ0KL_BMcYJAyZvK_p6ioGQvsa9hGRtLoDAS5x4vgJzigvRdms0_klRiaUN9y60RLFr54P-ygjpIliNSSJsVwir3jJSxhlDADIWRAYwNNt1dtfYx91jiez0awI3k5kTR-C8AYzSuNsZo6VGC-uxrzFTsU8JDXMbox",
+          "width": 2114
+        }
+      ],
+      "place_id": "ChIJHXOUHsGmHWAR1kwMdUMbQbQ",
+      "plus_code": {
+        "compound_code": "843P+GV 上田市、長野県",
+        "global_code": "8Q8W843P+GV"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

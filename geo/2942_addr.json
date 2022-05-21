@@ -1,64 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県伊那市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9748294,
-          "lng": 138.2369216
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-4432 長野県伊那市東春近２２−５",
+      "geometry": {
+        "location": {
+          "lat": 35.8216512,
+          "lng": 137.9685071
         },
-        "southwest": {
-          "lat": 35.5707672,
-          "lng": 137.8240581
+        "viewport": {
+          "northeast": {
+            "lat": 35.82296722989272,
+            "lng": 137.9699679798927
+          },
+          "southwest": {
+            "lat": 35.82026757010728,
+            "lng": 137.9672683201072
+          }
         }
       },
-      "location": {
-        "lat": 35.8274657,
-        "lng": 137.9540692
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9748294,
-          "lng": 138.2369216
-        },
-        "southwest": {
-          "lat": 35.5707672,
-          "lng": 137.8240581
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJwUO1ANL0HGARHwZp4eUdL-o",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-4432 長野県伊那市東春近２２−５",
+      "place_id": "ChIJZW9-VHrxHGARdPyO33KsojA",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

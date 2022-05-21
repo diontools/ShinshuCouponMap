@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１２６",
-        "short_name": "２１２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２１２６",
-    "geometry": {
-      "location": {
-        "lat": 36.3885427,
-        "lng": 138.6124349
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3901341302915,
-          "lng": 138.6138989302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２１２６",
+      "geometry": {
+        "location": {
+          "lat": 36.3885427,
+          "lng": 138.6124349
         },
-        "southwest": {
-          "lat": 36.3874361697085,
-          "lng": 138.6112009697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39013497989272,
+            "lng": 138.6138997798927
+          },
+          "southwest": {
+            "lat": 36.38743532010727,
+            "lng": 138.6112001201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjUQa627RHWAR9NFx3s3gd3M",
-    "plus_code": {
-      "compound_code": "9JQ6+CX 日本、長野県軽井沢町",
-      "global_code": "8Q8W9JQ6+CX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "アンシェントホテル浅間軽井沢",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107788650883858629450\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAOat5tqQxOINO8zHFszswmPHDufPtgqeYbsdmo6uhqNGXH-TEt4HvVkiduPnU3JFL4jHHtdRMAr8Vb0aPO41TKJDv8oSalAmJslGAqJDlk31dBjTuzY-T43eJU1ZkqfaqG5uGKGV5toKN28sG8CECca00vbSJCEv9p1l2610dERo5R",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJjUQa627RHWAR9NFx3s3gd3M",
+      "plus_code": {
+        "compound_code": "9JQ6+CX 軽井沢町、長野県",
+        "global_code": "8Q8W9JQ6+CX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

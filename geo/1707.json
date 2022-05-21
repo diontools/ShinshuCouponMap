@@ -1,82 +1,87 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "発地",
-        "short_name": "発地",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0197",
-        "short_name": "389-0197",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0197 長野県北佐久郡軽井沢町発地 南軽井沢",
-    "geometry": {
-      "location": {
-        "lat": 36.3117757,
-        "lng": 138.6306494
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.31305263029149,
-          "lng": 138.6321038302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0197 長野県北佐久郡軽井沢町発地 南軽井沢",
+      "geometry": {
+        "location": {
+          "lat": 36.3117265,
+          "lng": 138.6307183
         },
-        "southwest": {
-          "lat": 36.3103546697085,
-          "lng": 138.6294058697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.31305347989272,
+            "lng": 138.6321046798927
+          },
+          "southwest": {
+            "lat": 36.31035382010728,
+            "lng": 138.6294050201072
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "軽井沢７２ゴルフ 西（ゴールド・ブルー）",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118066699705591980256\">Koji Nishizawa</a>"
+          ],
+          "photo_reference": "Aap_uEB4PWVH4r8mkuuK4LSBj7G5MXQNSuGqIkfQkQvzWzkZCTaAqhUmSSDY17PN6UXLXdrHKUu8hxXGZxX4Ca5Hnv529irMH3ipVZX-FnfMyk7_GzhRcpdjE4Vi5LU7kCkRGVJXDCoxHF9GHqxfX6VFKIZk58PDlzYl5lqnjzQhXtaY-_YZ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ3ybwNa0sHGARPLNKArhcemU",
+      "plus_code": {
+        "compound_code": "8J6J+P7 軽井沢町、長野県",
+        "global_code": "8Q8W8J6J+P7"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ3ybwNa0sHGARPLNKArhcemU",
-    "plus_code": {
-      "compound_code": "8J6J+P7 日本、長野県軽井沢町",
-      "global_code": "8Q8W8J6J+P7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0113 長野県北佐久郡軽井沢町発地南軽井沢",
+      "geometry": {
+        "location": {
+          "lat": 36.3090477,
+          "lng": 138.6304086
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.31039752989273,
+            "lng": 138.6317584298927
+          },
+          "southwest": {
+            "lat": 36.30769787010728,
+            "lng": 138.6290587701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "軽井沢72ゴルフ",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107638136676469911142\">伊藤麻夫</a>"
+          ],
+          "photo_reference": "Aap_uEAyqBlGsfmzUnwSLHXwwD5adxBVHm7y5LhLb-RlbqLuOWDBgPLnmz7U3yNNBAPR7BP-Lxt8DW2geHrTql18V4LsatS0b6AHrC2X-HN2ZgYH9TPqA7ynalW2R_BJJTaNQrgmvT8xRh9ooadbZJRQG6K_ros5Q_b7S_MOGMHjQ_RpAKxF",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJ-fQzW6wsHGAR-PwO1t9yjsw",
+      "plus_code": {
+        "compound_code": "8J5J+J5 軽井沢町、長野県",
+        "global_code": "8Q8W8J5J+J5"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

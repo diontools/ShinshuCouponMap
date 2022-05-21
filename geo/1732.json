@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０４３",
-        "short_name": "１０４３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１０４３",
-    "geometry": {
-      "location": {
-        "lat": 36.12953359999999,
-        "lng": 138.2711639
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1308580802915,
-          "lng": 138.2724321802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１０４３",
+      "geometry": {
+        "location": {
+          "lat": 36.12953359999999,
+          "lng": 138.2711639
         },
-        "southwest": {
-          "lat": 36.1281601197085,
-          "lng": 138.2697342197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13085892989272,
+            "lng": 138.2724330298927
+          },
+          "southwest": {
+            "lat": 36.12815927010728,
+            "lng": 138.2697333701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWdohyAVNHGARbWRzORlk8eA",
-    "plus_code": {
-      "compound_code": "47HC+RF 日本、長野県立科町",
-      "global_code": "8Q8W47HC+RF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "sora MESHI 事前予約営業中",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101340005474752468052\">Kaye Wong</a>"
+          ],
+          "photo_reference": "Aap_uEBeJ1wg0Pl-mXk7c6LCcBWhPMXfQ0P34vFNheYS6eXbPs-xh4sC0SLzlx6hIVV6onve-h9_AXkQGQ_S-rOZVbtzAUdTDfIRYM4jrEahfSewWGTNumn2VPFRuA5T__JCiIBZneKBE_JEmpyv1Pjv-bAUW-cCv79H4KiamI5uMwRXEgZk",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJWdohyAVNHGARbWRzORlk8eA",
+      "plus_code": {
+        "compound_code": "47HC+RF 立科町、長野県",
+        "global_code": "8Q8W47HC+RF"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

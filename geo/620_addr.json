@@ -1,97 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２１",
-        "short_name": "２１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "吉田",
-        "short_name": "吉田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0043",
-        "short_name": "381-0043",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0043 長野県長野市吉田３丁目２１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6675089,
-        "lng": 138.2202276
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.66890393029151,
-          "lng": 138.2215754302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0043 長野県長野市吉田３丁目２１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6675089,
+          "lng": 138.2202276
         },
-        "southwest": {
-          "lat": 36.66620596970851,
-          "lng": 138.2188774697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66890477989272,
+            "lng": 138.2215762798927
+          },
+          "southwest": {
+            "lat": 36.66620512010728,
+            "lng": 138.2188766201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJBUAGHTiGHWARpqXb4JqLxsE",
-    "plus_code": {
-      "compound_code": "M69C+23 長野県長野市",
-      "global_code": "8Q8WM69C+23"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0043 長野県長野市吉田３丁目２１−１",
+      "place_id": "ChIJBUAGHTiGHWARpqXb4JqLxsE",
+      "plus_code": {
+        "compound_code": "M69C+23 長野市、長野県",
+        "global_code": "8Q8WM69C+23"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

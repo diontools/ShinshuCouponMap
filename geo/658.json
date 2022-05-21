@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８６",
-        "short_name": "４８６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "元善町",
-        "short_name": "元善町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0000",
-        "short_name": "381-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0000 長野県長野市長野元善町４８６",
-    "geometry": {
-      "location": {
-        "lat": 36.6596416,
-        "lng": 138.187484
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6609905802915,
-          "lng": 138.1888329802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0000 長野県長野市元善町４８６",
+      "geometry": {
+        "location": {
+          "lat": 36.6596416,
+          "lng": 138.187484
         },
-        "southwest": {
-          "lat": 36.6582926197085,
-          "lng": 138.1861350197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66099142989273,
+            "lng": 138.1888338298927
+          },
+          "southwest": {
+            "lat": 36.65829177010728,
+            "lng": 138.1861341701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVc2ZPc2HHWAR_pn_1TUqa_g",
-    "plus_code": {
-      "compound_code": "M55P+VX 日本、長野県長野市",
-      "global_code": "8Q8WM55P+VX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "いろは堂 善光寺仲見世店",
+      "photos": [
+        {
+          "height": 6288,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111438337728176012751\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDxqkrWbM2Hr5geftDw18nQOq17IN---xPSiuEHurPGeY4R-2k-eMcqttM48ovkJdVUjq10gRxBp-cuO60cKx2_ywDCAJuHdR3CzQXtDhKcJRTu18EkiOndlKfzg1OWZBjZtXjNW6_VyvLUF-EowDdx9z9zpOiRM4T2eily_UtWGIb_",
+          "width": 8384
+        }
+      ],
+      "place_id": "ChIJVc2ZPc2HHWAR_pn_1TUqa_g",
+      "plus_code": {
+        "compound_code": "M55P+VX 長野市、長野県",
+        "global_code": "8Q8WM55P+VX"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

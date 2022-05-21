@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９７２−５",
-        "short_name": "９７２−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊科高家",
-        "short_name": "豊科高家",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8204",
-        "short_name": "399-8204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8204 長野県安曇野市豊科高家９７２−５",
-    "geometry": {
-      "location": {
-        "lat": 36.27102259999999,
-        "lng": 137.9321743
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2723834802915,
-          "lng": 137.9336310302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-8204 長野県安曇野市豊科高家９７２−５",
+      "geometry": {
+        "location": {
+          "lat": 36.27102259999999,
+          "lng": 137.9321743
         },
-        "southwest": {
-          "lat": 36.2696855197085,
-          "lng": 137.9309330697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.27238432989272,
+            "lng": 137.9336318798927
+          },
+          "southwest": {
+            "lat": 36.26968467010727,
+            "lng": 137.9309322201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJG6EZrXANHWARXEBehrWtZ4M",
-    "plus_code": {
-      "compound_code": "7WCJ+CV 長野県安曇野市",
-      "global_code": "8Q8V7WCJ+CV"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-8204 長野県安曇野市豊科高家９７２−５",
+      "place_id": "ChIJG6EZrXANHWARXEBehrWtZ4M",
+      "plus_code": {
+        "compound_code": "7WCJ+CV 安曇野市、長野県",
+        "global_code": "8Q8V7WCJ+CV"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

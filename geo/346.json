@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８１０−３",
-        "short_name": "８１０−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上町",
-        "short_name": "上町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町上町８１０−３",
-    "geometry": {
-      "location": {
-        "lat": 36.694554,
-        "lng": 138.316836
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6959029802915,
-          "lng": 138.3181849802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町上町８１０−３",
+      "geometry": {
+        "location": {
+          "lat": 36.694554,
+          "lng": 138.316836
         },
-        "southwest": {
-          "lat": 36.6932050197085,
-          "lng": 138.3154870197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69590382989272,
+            "lng": 138.3181858298927
+          },
+          "southwest": {
+            "lat": 36.69320417010728,
+            "lng": 138.3154861701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJPQWzUVmJHWARSpTawMTAlrc",
-    "plus_code": {
-      "compound_code": "M8V8+RP 日本、長野県小布施町",
-      "global_code": "8Q8WM8V8+RP"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "桜井甘精堂 北斎亭",
+      "photos": [
+        {
+          "height": 825,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112352265767969952547\">mmatsutaro</a>"
+          ],
+          "photo_reference": "Aap_uEAC_dP1UDiuwFjMSSTFVnMmGmlFSjB03BobicLyEZaAN4eHHga3KsPvRd6y5P765DCFXyu73rtTGwBfJyT2PdX7GL6kMoU5T6D9k4hJuXnc5gUk1gaGWWFat_QHjbTEtFGq7JrMI40ytFkhJwKmbOHgGuI3Ag_NOGjQNwsyEb1kYBld",
+          "width": 1100
+        }
+      ],
+      "place_id": "ChIJPQWzUVmJHWARSpTawMTAlrc",
+      "plus_code": {
+        "compound_code": "M8V8+RP 小布施町、長野県",
+        "global_code": "8Q8WM8V8+RP"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

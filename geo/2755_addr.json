@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 5069,Happo",
-    "geometry": {
-      "location": {
-        "lat": 36.6979575,
-        "lng": 137.8094643
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6995780802915,
-          "lng": 137.8107623302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４４８７−４",
+      "geometry": {
+        "location": {
+          "lat": 36.7086127,
+          "lng": 137.8136083
         },
-        "southwest": {
-          "lat": 36.6968801197085,
-          "lng": 137.8080643697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70989542989272,
+            "lng": 137.8149881298927
+          },
+          "southwest": {
+            "lat": 36.70719577010728,
+            "lng": 137.8122884701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5dlx59TP918RSQyN64MLBPY",
-    "plus_code": {
-      "compound_code": "MRX5+5Q 長野県白馬村",
-      "global_code": "8Q8VMRX5+5Q"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Snow Peak FIELD SUITE HAKUBA KITAONE KOGEN",
+      "photos": [
+        {
+          "height": 3583,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110174991342827831465\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA6d1KDMrTGDnE1mDI1RgzNEfEi1narnzwR5mf-powTYSX56Tdq02C0IdW9oYU-mQze1BdSmzxb_bTiY1J-PsJYZskW1XQg4KLh4hQ9trVN2AsReWU-K2ruAl72lCsnS_gPZmOjFKQpsLt9vikEokhCl1JurtugfjYUC0o7IV1_IJUA",
+          "width": 5374
+        }
+      ],
+      "place_id": "ChIJSb9tqijP918RWdZCMIf2yao",
+      "plus_code": {
+        "compound_code": "PR57+CC 白馬村、長野県",
+        "global_code": "8Q8VPR57+CC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

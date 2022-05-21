@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７−２",
-        "short_name": "１７−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳２丁目１７−２",
-    "geometry": {
-      "location": {
-        "lat": 36.6462726,
-        "lng": 138.1916894
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6476471802915,
-          "lng": 138.1930159302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳２丁目１７−２",
+      "geometry": {
+        "location": {
+          "lat": 36.6462726,
+          "lng": 138.1916894
         },
-        "southwest": {
-          "lat": 36.6449492197085,
-          "lng": 138.1903179697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64764802989272,
+            "lng": 138.1930167798927
+          },
+          "southwest": {
+            "lat": 36.64494837010728,
+            "lng": 138.1903171201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMVjTOtGHHWARnwHp5V4dtR4",
-    "plus_code": {
-      "compound_code": "J5WR+GM 日本、長野県長野市",
-      "global_code": "8Q8WJ5WR+GM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "まあまあ屋 長野店",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113828994188012845088\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBikzb87H3NOnzC3cmqoAec2cNJEMTqF_tf0ldGyZti_MHgnwUEy4sa9A9Nz_VEDfo2I2bSvT6c2SgHrMOGOJ08-5zKFsVhR4KDF9rrQfCZLgU6-B1Ictie29jhC2KUGBUuPOI7Dr76UEWw6XDPw_ZymK39qkqGvmafxpzMfF5KAs1H",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJMVjTOtGHHWARnwHp5V4dtR4",
+      "plus_code": {
+        "compound_code": "J5WR+GM 長野市、長野県",
+        "global_code": "8Q8WJ5WR+GM"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

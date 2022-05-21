@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原 菅平1223−3244",
-    "geometry": {
-      "location": {
-        "lat": 36.529301,
-        "lng": 138.33232
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5305462302915,
-          "lng": 138.3338267802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原 菅平1223−3244",
+      "geometry": {
+        "location": {
+          "lat": 36.529301,
+          "lng": 138.33232
         },
-        "southwest": {
-          "lat": 36.5278482697085,
-          "lng": 138.3311288197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53054707989272,
+            "lng": 138.3338276298927
+          },
+          "southwest": {
+            "lat": 36.52784742010728,
+            "lng": 138.3311279701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8QrGWxaUHWARqmU9ml_3Gwg",
-    "plus_code": {
-      "compound_code": "G8HJ+PW 日本、長野県上田市",
-      "global_code": "8Q8WG8HJ+PW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "菅平高原プラザホテル",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114783663120435335592\">Fu Tsu</a>"
+          ],
+          "photo_reference": "Aap_uEAILLBrf7S1h3W69t4vIWscr8sQwMRyo8825uGdG2MH9b9WlzAJkrVN0plIRPJoyjiECmnrSkouecFkzS9Jf-KfjBNFe2xUxLI97k1weDCRfTQnln_6c1l-5QBEIKq2c8ggBUj27TumVZgvS9Qw_jBUEUsLBMnm8H51zjDabimgTfBi",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ8QrGWxaUHWARqmU9ml_3Gwg",
+      "plus_code": {
+        "compound_code": "G8HJ+PW 上田市、長野県",
+        "global_code": "8Q8WG8HJ+PW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

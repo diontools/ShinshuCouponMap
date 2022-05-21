@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５−１０",
-        "short_name": "５−１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中沖",
-        "short_name": "中沖",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0000",
-        "short_name": "391-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0000 長野県茅野市中沖５−１０",
-    "geometry": {
-      "location": {
-        "lat": 36.0026314,
-        "lng": 138.1324151
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.00401333029151,
-          "lng": 138.1338375302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0000 長野県茅野市中沖５−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.002647,
+          "lng": 138.1324498
         },
-        "southwest": {
-          "lat": 36.00131536970851,
-          "lng": 138.1311395697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00401417989272,
+            "lng": 138.1338383798928
+          },
+          "southwest": {
+            "lat": 36.00131452010728,
+            "lng": 138.1311387201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJL-kWhe9WHGARvDz7TH7G4aI",
-    "plus_code": {
-      "compound_code": "243J+3X 長野県茅野市",
-      "global_code": "8Q8W243J+3X"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "シェ岩波",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108909845615905747463\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAbTuSNrX-0mCCXlOJ7RBs1CsAUFycskaYiGXVKhqdjyWrJO62g9Er2NjptEuaJqOlRUJVN-xbM-pWVvsq22OEY4QgJg-axEbjhIVyCC4QG_jt3jPNVuu5zSNsSoccXLDkW-yIyQTZj6Q3iwrxFQXh226jMoqLHA7hhR-6Y2zjjRBF-",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJL-kWhe9WHGARvDz7TH7G4aI",
+      "plus_code": {
+        "compound_code": "243J+3X 茅野市、長野県",
+        "global_code": "8Q8W243J+3X"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

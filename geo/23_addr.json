@@ -1,93 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３９３−２",
-        "short_name": "３９３−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐野",
-        "short_name": "佐野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0402",
-        "short_name": "381-0402",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町佐野３９３−２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7414685,
-          "lng": 138.4048044
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町佐野３９３−２",
+      "geometry": {
+        "location": {
+          "lat": 36.7413021,
+          "lng": 138.4046283
         },
-        "southwest": {
-          "lat": 36.7411033,
-          "lng": 138.4045048
+        "viewport": {
+          "northeast": {
+            "lat": 36.74262722989273,
+            "lng": 138.4062119298927
+          },
+          "southwest": {
+            "lat": 36.73992757010728,
+            "lng": 138.4035122701073
+          }
         }
       },
-      "location": {
-        "lat": 36.7413021,
-        "lng": 138.4046283
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7426348802915,
-          "lng": 138.4061493302915
-        },
-        "southwest": {
-          "lat": 36.73993691970851,
-          "lng": 138.4034513697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0402 長野県下高井郡山ノ内町佐野３９３−２",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105641078732938623563\">cyako2006</a>"
+          ],
+          "photo_reference": "Aap_uECoP9qAIBDtmJrTzxVut_XvHmxGUp8Tth5JiCtY2ARAX5fpCQN_vENnZvipuq02r6Dp_dZ-G6CdlWlays6E6e-aHhXA-LO4ZFBQ3vSDSWiqX4QqQCt-KoXBrggKylDh7hUebih8hSJ8uTd2xXBf6PftPofXMDL0931LXr3bsd-XU59E",
+          "width": 1280
         }
-      }
-    },
-    "place_id": "ChIJ_XtsT8n0HWARAd43WIS4gec",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ_XtsT8n0HWARAd43WIS4gec",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

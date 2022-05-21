@@ -1,154 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "柿沢",
-        "short_name": "柿沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0722",
-        "short_name": "399-0722",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0722 長野県塩尻市柿沢",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1076505,
-          "lng": 138.029676
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0722 長野県塩尻市柿沢９４３",
+      "geometry": {
+        "location": {
+          "lat": 36.0990968,
+          "lng": 138.0008866
         },
-        "southwest": {
-          "lat": 36.0917966,
-          "lng": 137.9786993
+        "viewport": {
+          "northeast": {
+            "lat": 36.10044312989273,
+            "lng": 138.0022663298927
+          },
+          "southwest": {
+            "lat": 36.09774347010728,
+            "lng": 137.9995666701072
+          }
         }
       },
-      "location": {
-        "lat": 36.1003928,
-        "lng": 137.9973127
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1076505,
-          "lng": 138.029676
-        },
-        "southwest": {
-          "lat": 36.0917966,
-          "lng": 137.9786993
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ボッテガ",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101877388741736818718\">sooy !</a>"
+          ],
+          "photo_reference": "Aap_uEBi_PNCRQ3D85rQxXg6BzHJLEnSYnJVHOuTqIKz2KS0EpvLaqVjfMqJjEv4gzkKGYKtgICvOaodJuYgLN--HmDCpUN_033evJk3MgjZl_w7C2UO00KWeYU_9Kqfsm-7p6xvQyEzzWHbF4OWBrGG67dbyaENuvu1_HqqHVd9bnaesi6Q",
+          "width": 3840
         }
-      }
+      ],
+      "place_id": "ChIJ-dzkG-ADHWAROZrO9HT-SyE",
+      "plus_code": {
+        "compound_code": "32X2+J8 塩尻市、長野県",
+        "global_code": "8Q8W32X2+J8"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ4SebOl4BHWARMaimb-A2-qs",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "一番町",
-        "short_name": "一番町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千代田区",
-        "short_name": "千代田区",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東京都",
-        "short_name": "東京都",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "102-0082",
-        "short_name": "102-0082",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒102-0082 東京都千代田区一番町",
-    "geometry": {
-      "location": {
-        "lat": 35.6863985,
-        "lng": 139.7416523
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6877441802915,
-          "lng": 139.7430403802915
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0722 長野県塩尻市柿沢９４３",
+      "geometry": {
+        "location": {
+          "lat": 36.0987541,
+          "lng": 138.000717
         },
-        "southwest": {
-          "lat": 35.6850462197085,
-          "lng": 139.7403424197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10002607989271,
+            "lng": 138.0021202298927
+          },
+          "southwest": {
+            "lat": 36.09732642010727,
+            "lng": 137.9994205701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJr38YXWWMGGAR-m5mqTPXdMI",
-    "plus_code": {
-      "compound_code": "MPPR+HM 東京都千代田区",
-      "global_code": "8Q7XMPPR+HM"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "サンサンワイナリー",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110992856580004394049\">おおがみやこ</a>"
+          ],
+          "photo_reference": "Aap_uECr5sFIh60Md3gZ6tM3W4MC-q8dNqSBhH0fP49QP0-xY9e7i1PduCeObLB7G-0-RiL0cXVfQxmqfgalTwuO7TgcNOPe7-Su4tmHj_IGjANoOekUqQS3i4JOT0lREV9UKYfrat-TaFDHrzX4foUdr1pK4lZGENY3mBfRmXu-pL5B8s_g",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ566AG-ADHWAR_KiPQlaf5Us",
+      "plus_code": {
+        "compound_code": "32X2+G7 塩尻市、長野県",
+        "global_code": "8Q8W32X2+G7"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

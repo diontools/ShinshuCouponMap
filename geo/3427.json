@@ -1,76 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪郡原村",
-        "short_name": "諏訪郡原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0100",
-        "short_name": "391-0100",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0100 長野県諏訪郡諏訪郡原村 2001−356",
-    "geometry": {
-      "location": {
-        "lat": 35.97003309999999,
-        "lng": 138.2642503
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9714396302915,
-          "lng": 138.2655937802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0100 長野県諏訪郡諏訪郡原村 2001−356",
+      "geometry": {
+        "location": {
+          "lat": 35.97002519999999,
+          "lng": 138.2642537
         },
-        "southwest": {
-          "lat": 35.9687416697085,
-          "lng": 138.2628958197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.97144047989271,
+            "lng": 138.2655946298927
+          },
+          "southwest": {
+            "lat": 35.96874082010727,
+            "lng": 138.2628949701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJy11K1eVEHGARXbqaaO16tDY",
-    "plus_code": {
-      "compound_code": "X7C7+2P 長野県原村",
-      "global_code": "8Q7WX7C7+2P"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "カフェ&ランチ アナベル Annabelle",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107784581075048427253\">Kaz</a>"
+          ],
+          "photo_reference": "Aap_uEB6HvM4hvoX9Rcr-Ce60UEMX6vZzoThVE7m54AgHJtvsyC0x5kB-01hQS32M8ENVrISONi1HXPb0BuIZDUue8lI-jxEaO7G4SHm5jQ17S_RYaEEi-uqNM2lnd5mRSnM9xXS4MKweuLJu-lWmf-KHdP8SiKNcPJmmms0S9V6vge9NMs7",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJy11K1eVEHGARXbqaaO16tDY",
+      "plus_code": {
+        "compound_code": "X7C7+2P 原村、長野県",
+        "global_code": "8Q7WX7C7+2P"
+      },
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

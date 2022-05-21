@@ -1,72 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡野沢温泉村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９２８５",
+      "geometry": {
+        "location": {
+          "lat": 36.9233099,
+          "lng": 138.4480637
         },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+        "viewport": {
+          "northeast": {
+            "lat": 36.92464922989272,
+            "lng": 138.4494117798927
+          },
+          "southwest": {
+            "lat": 36.92194957010728,
+            "lng": 138.4467121201073
+          }
         }
       },
-      "location": {
-        "lat": 36.9228462,
-        "lng": 138.4405097
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9848283,
-          "lng": 138.5216232
-        },
-        "southwest": {
-          "lat": 36.8814669,
-          "lng": 138.4177757
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "狸 tanuki cafe & dining",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117931727094242532866\">Tanuki Restaurant &amp; Bar</a>"
+          ],
+          "photo_reference": "Aap_uEDXolgPUzdYAlGTgi6z_XA8PqNFU8NHN6AN5xMSBRH491C821KomrAkt1hFjdAWL8Z9Ml0LN6HohNWEj9cxMm74NR6xu2XIM_Fe8msJdSCvEVsrA_M0hZ7So08JobNcQeva_nZUdrlz_zbE0v-63SA_05ggugV-Nflb4vdv7TllGpn8",
+          "width": 3000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJK2HJ2xoF9l8RMIVuRlrbkRg",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJTXzA-i4F9l8RiV--feJePEE",
+      "plus_code": {
+        "compound_code": "WCFX+86 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+86"
+      },
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "諏訪",
-        "short_name": "諏訪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0004",
-        "short_name": "392-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0004 長野県諏訪市諏訪２丁目２−２",
-    "geometry": {
-      "location": {
-        "lat": 36.042847,
-        "lng": 138.1193394
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0442302302915,
-          "lng": 138.1206586302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0004 長野県諏訪市諏訪２丁目２−２",
+      "geometry": {
+        "location": {
+          "lat": 36.04286099999999,
+          "lng": 138.1193284
         },
-        "southwest": {
-          "lat": 36.0415322697085,
-          "lng": 138.1179606697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04423107989271,
+            "lng": 138.1206594798927
+          },
+          "southwest": {
+            "lat": 36.04153142010727,
+            "lng": 138.1179598201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJF5VMXHtVHGARhFU-zL_XyGM",
-    "plus_code": {
-      "compound_code": "24V9+4P 長野県諏訪市",
-      "global_code": "8Q8W24V9+4P"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "AMBIRD",
+      "photos": [
+        {
+          "height": 946,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100676932763527395125\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECk-97LyRc8fSscvq02mvXe92J5np8QuNJWSStOcnXcfi3g_63Mk8z2TTqoqvo9s8aTYGqeoEZyW__ntZjaWUkc-m1soPpe0k4peqmi4sOXG6_MQ_UXkzLSmHOnDGYQ3mRTQSpFzGBoGFRQlYfQRcbzhDV1Xnoohbem3c74HXM9nXw8",
+          "width": 1680
+        }
+      ],
+      "place_id": "ChIJF5VMXHtVHGARhFU-zL_XyGM",
+      "plus_code": {
+        "compound_code": "24V9+4P 諏訪市、長野県",
+        "global_code": "8Q8W24V9+4P"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

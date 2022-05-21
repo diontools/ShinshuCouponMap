@@ -1,107 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１F",
-        "short_name": "１F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "乗鞍観光センタ",
-        "short_name": "乗鞍観光センタ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４３０６−５",
-        "short_name": "４３０６−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鈴蘭",
-        "short_name": "鈴蘭",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1520",
-        "short_name": "390-1520",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1520 長野県松本市安曇鈴蘭４３０６−５ 乗鞍観光センタ １F",
-    "geometry": {
-      "location": {
-        "lat": 36.1219408,
-        "lng": 137.6248688
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1233098302915,
-          "lng": 137.6263424302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1520 長野県松本市安曇鈴蘭４３０６−５ 乗鞍観光センタ １F",
+      "geometry": {
+        "location": {
+          "lat": 36.1219671,
+          "lng": 137.6250351
         },
-        "southwest": {
-          "lat": 36.1206118697085,
-          "lng": 137.6236444697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.12331067989272,
+            "lng": 137.6263432798928
+          },
+          "southwest": {
+            "lat": 36.12061102010728,
+            "lng": 137.6236436201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp2OGSiw5HWARw-VgL94xtOg",
-    "plus_code": {
-      "compound_code": "4JCF+QW 日本、長野県松本市",
-      "global_code": "8Q8V4JCF+QW"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "GiFT NORiKURA Gelato & Cafe",
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115305118492186698900\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBbfLPMF59j9yBz2SAmHI9XHiIp7B3ZeQmuD9SY_1gxTazjhPBA2nzTVaJNmywr2zFfbuwL_cl_ama7_vY7T3wN8isfXHl9jOmKQbVCZTstoiXIYhFldqV3XBNOZsleBFHWuDU_ruixlN4uud1TrDEpljY9nO_pP-QOHojQ6bAUyTu-",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJp2OGSiw5HWARw-VgL94xtOg",
+      "plus_code": {
+        "compound_code": "4JCF+QW 松本市、長野県",
+        "global_code": "8Q8V4JCF+QW"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

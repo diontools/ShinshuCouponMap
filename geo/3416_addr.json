@@ -1,79 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "原村",
-        "short_name": "原村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0100",
-        "short_name": "391-0100",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0100 長野県諏訪郡原村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0100 長野県諏訪郡原村１１３６９−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9595331,
+          "lng": 138.2048342
         },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+        "viewport": {
+          "northeast": {
+            "lat": 35.96088622989272,
+            "lng": 138.2061460298927
+          },
+          "southwest": {
+            "lat": 35.95818657010727,
+            "lng": 138.2034463701073
+          }
         }
       },
-      "location": {
-        "lat": 35.9644513,
-        "lng": 138.2174935
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9846858,
-          "lng": 138.3677599
-        },
-        "southwest": {
-          "lat": 35.9313669,
-          "lng": 138.1774178
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "アルル",
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106871863022595998484\">アルル</a>"
+          ],
+          "photo_reference": "Aap_uEBzoxFB7IeyrqX-h_4PmpHxKaKfnwCiSuEvJmhT0Ceb_Ve7qanc4vlJueSPNcyC9s9KYVZxAHWJMAwLW5xvS3VxLLy9mDOc4bwoc9D53Zfj4Lrw1_ixyU0Ksqhf9eIVYukjC6h8k_Jf55l6VteZe33iWbjTQzI-vo-LDIuzFRBT-XJy",
+          "width": 640
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMxZWzI1EHGARFpP8Ubkhhpw",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJD-kyH_paHGARxdxLQP5oCJg",
+      "plus_code": {
+        "compound_code": "X653+RW 原村、長野県",
+        "global_code": "8Q7WX653+RW"
+      },
+      "types": [
+        "florist",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

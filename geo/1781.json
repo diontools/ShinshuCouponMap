@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０２８−１",
-        "short_name": "４０２８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "三郷小倉",
-        "short_name": "三郷小倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8103",
-        "short_name": "399-8103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8103 長野県安曇野市三郷小倉４０２８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.258047,
-        "lng": 137.8546747
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2593203802915,
-          "lng": 137.8560542802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8103 長野県安曇野市三郷小倉４０２８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.258047,
+          "lng": 137.8546747
         },
-        "southwest": {
-          "lat": 36.2566224197085,
-          "lng": 137.8533563197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.25932122989272,
+            "lng": 137.8560551298927
+          },
+          "southwest": {
+            "lat": 36.25662157010728,
+            "lng": 137.8533554701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs_BBBEUTHWARRZh5NzWHJdE",
-    "plus_code": {
-      "compound_code": "7V53+6V 日本、長野県安曇野市",
-      "global_code": "8Q8V7V53+6V"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "安曇野地球宿",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109039929847249192521\">Eric Martin</a>"
+          ],
+          "photo_reference": "Aap_uEDD8KVWe6NK-FmGHlorWCN4gVLLZ6veR706rA5St_RFTNzyMe_hSrxDQjQoBxvs9AXjEEjwtGhi_prohdNVreJ483mKSpjivMLV2t2cxn-oMBHDp5OlK86-LeFGvlchLx3h3AZmqCrmzikbyEief3sOfKzPrVOIwkEKgRyZuPYPCBnw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJs_BBBEUTHWARRZh5NzWHJdE",
+      "plus_code": {
+        "compound_code": "7V53+6V 安曇野市、長野県",
+        "global_code": "8Q8V7V53+6V"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "志賀高原琵琶池",
-        "short_name": "志賀高原琵琶池",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "Yamanochi",
-        "short_name": "Yamanochi",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Shimotakai District",
-        "short_name": "Shimotakai District",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Nagano",
-        "short_name": "Nagano",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "志賀高原琵琶池, Yamanochi, Shimotakai District, Nagano 381-0401 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.7194362,
-        "lng": 138.4828316
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7201894302915,
-          "lng": 138.4846601802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "志賀高原琵琶池, 山ノ内町 下高井郡 長野県 381-0401 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.7194362,
+          "lng": 138.4828316
         },
-        "southwest": {
-          "lat": 36.71749146970851,
-          "lng": 138.4819622197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.72019027989272,
+            "lng": 138.4846610298927
+          },
+          "southwest": {
+            "lat": 36.71749062010728,
+            "lng": 138.4819613701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ68bfQXzxHWARTdBfHHtqQJo",
-    "plus_code": {
-      "compound_code": "PF9M+Q4 日本、長野県山ノ内町",
-      "global_code": "8Q8WPF9M+Q4"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "志賀高原マウンテンディスカバリー",
+      "photos": [
+        {
+          "height": 718,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103940365293069616617\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAw2pgWipeWNiZaYWjCghbPnxYkGAOqoUXyOL5uaUo4CyjWUHl0zzR7_O6lS25_bByofj5K2X0ynWauRY7EOpfdscVgzA78HB9ho69xL80sW98mO52RH3PSiZQgGdDSx7ioLkW14QmBoZTJh_XF4x3rGRSoZoCYgTXH9iwIicEyWW6f",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ68bfQXzxHWARTdBfHHtqQJo",
+      "plus_code": {
+        "compound_code": "PF9M+Q4 山ノ内町、長野県",
+        "global_code": "8Q8WPF9M+Q4"
+      },
+      "types": [
+        "travel_agency",
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

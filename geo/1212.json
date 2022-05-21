@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本町",
-        "short_name": "本町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0026",
-        "short_name": "384-0026",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0026 長野県小諸市本町３丁目１−２",
-    "geometry": {
-      "location": {
-        "lat": 36.3291847,
-        "lng": 138.4245379
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3305753802915,
-          "lng": 138.4258901302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0026 長野県小諸市本町３丁目１−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3291753,
+          "lng": 138.4245372
         },
-        "southwest": {
-          "lat": 36.3278774197085,
-          "lng": 138.4231921697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33057622989273,
+            "lng": 138.4258909798927
+          },
+          "southwest": {
+            "lat": 36.32787657010729,
+            "lng": 138.4231913201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKSC777PJHWAR182H73YCm0I",
-    "plus_code": {
-      "compound_code": "8CHF+MR 日本、長野県小諸市",
-      "global_code": "8Q8W8CHF+MR"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そば七",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101898218722151675904\">2525しまや</a>"
+          ],
+          "photo_reference": "Aap_uEAlSjv6GhMKJrd-dXXZ-_N_C3gHiXWfNWZRiRDAH8w0t_9EjJ-ca9g0UgOV3OEIC9kwQuHwf0Go_JWjJ0SG6E3yEtR0OGRbqxjPI2uBt61-pce3oWAON-Z9ON31cpvDx1jnuufHP-69_JA9gfNNRtwJOyhzO1i0-GYWHJ49XPBcyeLi",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJKSC777PJHWAR182H73YCm0I",
+      "plus_code": {
+        "compound_code": "8CHF+MR 小諸市、長野県",
+        "global_code": "8Q8W8CHF+MR"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

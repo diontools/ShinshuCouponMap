@@ -1,103 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "CAMP & CHEERS KANESHIGE (Café ＆ Taproom)",
-        "short_name": "CAMP & CHEERS KANESHIGE (Café ＆ Taproom)",
-        "types": [
-          "campground",
-          "establishment",
-          "lodging",
-          "park",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "５０７４",
-        "short_name": "５０７４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "陽皐",
-        "short_name": "陽皐",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下條村",
-        "short_name": "下條村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2102",
-        "short_name": "399-2102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2102 長野県下伊那郡下條村陽皐５０７４ CAMP & CHEERS KANESHIGE (Café ＆ Taproom)",
-    "geometry": {
-      "location": {
-        "lat": 35.3747137,
-        "lng": 137.779897
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.3760887802915,
-          "lng": 137.7814442302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2102 長野県下伊那郡下條村陽皐５０７４",
+      "geometry": {
+        "location": {
+          "lat": 35.3747137,
+          "lng": 137.779897
         },
-        "southwest": {
-          "lat": 35.3733908197085,
-          "lng": 137.7787462697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.37608962989273,
+            "lng": 137.7814450798927
+          },
+          "southwest": {
+            "lat": 35.37338997010728,
+            "lng": 137.7787454201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJb3s7yOGfHGARhqtvFWL9Ltw",
-    "plus_code": {
-      "compound_code": "9QFH+VX 長野県下條村",
-      "global_code": "8Q7V9QFH+VX"
-    },
-    "types": [
-      "campground",
-      "establishment",
-      "lodging",
-      "park",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "name": "CAMP & CHEERS KANESHIGE (Café ＆ Taproom)",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114053909055983954913\">畔柳雅恵</a>"
+          ],
+          "photo_reference": "Aap_uEDrOBwu-yOPWHNHG6j6eR7YxE5PTtXBG_9JHq0F9GbMDNvEXqhI3h_wWt6LEXYctOkdg6MCdptMyWHKFGzvh5gCXBVwWtTs2qrVhmVa_WjhmrCfx2bsX8NHL3Py5r0q5YRdHJViLKcFFNPBYkYWw1egmCadnvYrP5kZBfYr6lortAXB",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJb3s7yOGfHGARhqtvFWL9Ltw",
+      "plus_code": {
+        "compound_code": "9QFH+VX 下條村、長野県",
+        "global_code": "8Q7V9QFH+VX"
+      },
+      "types": [
+        "campground",
+        "park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

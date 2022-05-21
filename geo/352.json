@@ -1,102 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８５",
-        "short_name": "４８５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ]
-      },
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施４８５",
-    "geometry": {
-      "location": {
-        "lat": 36.694277,
-        "lng": 138.31722
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.69577298029149,
-          "lng": 138.3184765802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施４８５",
+      "geometry": {
+        "location": {
+          "lat": 36.694277,
+          "lng": 138.31722
         },
-        "southwest": {
-          "lat": 36.69307501970849,
-          "lng": 138.3157786197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69577382989272,
+            "lng": 138.3184774298927
+          },
+          "southwest": {
+            "lat": 36.69307417010728,
+            "lng": 138.3157777701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpwCd6FiJHWAR4kaGS34JwL4",
-    "plus_code": {
-      "compound_code": "M8V8+PV 日本、長野県小布施町",
-      "global_code": "8Q8WM8V8+PV"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "北斎館",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111313533400417217873\">Masakazu Kuwabara</a>"
+          ],
+          "photo_reference": "Aap_uEBW7fMEJe6gWPGr-_xgfUQggqJo8MO0DRXq7P1FBqYIj6Q3fpofdR4S_8ttLkBgKNSBfpuuEP_LYq4ccPxxQxmFSYDMgBEL5vPTbrHKBcK1snAYfemsI_caBH0PoI60mmKYVwK3GhvlcAD0jntvYHyUhCfiabYk1n99twA3fCj6rz3P",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJpwCd6FiJHWAR4kaGS34JwL4",
+      "plus_code": {
+        "compound_code": "M8V8+PV 小布施町、長野県",
+        "global_code": "8Q8WM8V8+PV"
+      },
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

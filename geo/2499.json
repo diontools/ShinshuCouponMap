@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２８４０−１",
-        "short_name": "１２８４０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８４０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.7489715,
-        "lng": 137.8661573
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7510968302915,
-          "lng": 137.8682912302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙１２８４０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7489715,
+          "lng": 137.8661573
         },
-        "southwest": {
-          "lat": 36.7483988697085,
-          "lng": 137.8655932697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.75130055,
+            "lng": 137.86851215
+          },
+          "southwest": {
+            "lat": 36.74819514999999,
+            "lng": 137.86537235
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJaFBg9zM918RLsWB-s8oaI0",
-    "plus_code": {
-      "compound_code": "PVX8+HF 長野県小谷村",
-      "global_code": "8Q8VPVX8+HF"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "栂池高原スキー場",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110997835648150357849\">kun kappi</a>"
+          ],
+          "photo_reference": "Aap_uEBFUonrqBjyvtZ7GMUVSTSNyzLgAm1YI5agROkjjewchJT23sW8rWllpMeUeMXJyI5Lb2oG2cs2eON6Kb44-Lv6tXO0UhxXsR8zLel8fjidLDPNy1Lfy1ZohY_ox6cimkx9J-JMeDUdt3zXRMNrNHwg71Syq3xHaIZx2kHP32WpAuUa",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJJaFBg9zM918RLsWB-s8oaI0",
+      "plus_code": {
+        "compound_code": "PVX8+HF 小谷村、長野県",
+        "global_code": "8Q8VPVX8+HF"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

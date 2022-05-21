@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３",
-        "short_name": "１３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "岡村",
-        "short_name": "岡村",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0005",
-        "short_name": "392-0005",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0005 長野県諏訪市岡村１丁目１３−８",
-    "geometry": {
-      "location": {
-        "lat": 36.0424385,
-        "lng": 138.1242375
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0437760802915,
-          "lng": 138.1256003802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0005 長野県諏訪市岡村１丁目１３−８",
+      "geometry": {
+        "location": {
+          "lat": 36.0424344,
+          "lng": 138.1242424
         },
-        "southwest": {
-          "lat": 36.0410781197085,
-          "lng": 138.1229024197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04377692989272,
+            "lng": 138.1256012298927
+          },
+          "southwest": {
+            "lat": 36.04107727010727,
+            "lng": 138.1229015701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjZi5hotVHGARqc8WcQXXhKI",
-    "plus_code": {
-      "compound_code": "24RF+XM 長野県諏訪市",
-      "global_code": "8Q8W24RF+XM"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "旅宿 岡村政庁跡",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104934081884546896848\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBXs9ldfWl8D9U4plgVpv2-r4et7R2Nyq9fKGUz0C8aEYSmO3FSlpuV-FhJjtd841Wcx-lfBKOzgNlNtboQUEWY5T49SX5xfwye02N9wXvIRcVyPOPJpX41YHWu0c7N6yJ7EOKtV46_gHNFZ7W4xrFev9mcx4n8ievJ83zaq3jzH36j",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJjZi5hotVHGARqc8WcQXXhKI",
+      "plus_code": {
+        "compound_code": "24RF+XM 諏訪市、長野県",
+        "global_code": "8Q8W24RF+XM"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

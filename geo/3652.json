@@ -1,81 +1,88 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６７０３−１",
-        "short_name": "６７０３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "松尾新井",
-        "short_name": "松尾新井",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0821",
-        "short_name": "395-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0821 長野県飯田市松尾新井６７０３−１",
-    "geometry": {
-      "location": {
-        "lat": 35.5007665,
-        "lng": 137.8599018
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5020288802915,
-          "lng": 137.8612070802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0821 長野県飯田市松尾新井６７０３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5007449,
+          "lng": 137.8598759
         },
-        "southwest": {
-          "lat": 35.4993309197085,
-          "lng": 137.8585091197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50202972989271,
+            "lng": 137.8612079298927
+          },
+          "southwest": {
+            "lat": 35.49933007010727,
+            "lng": 137.8585082701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アルプスぼうけん組楽部 弁天ベース",
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117260828562593393399\">アルプスぼうけん組楽部 弁天ベース</a>"
+          ],
+          "photo_reference": "Aap_uED_OU1Xo2y7CYITEwuAn1dgJddn6VZVmU3B4JzHBpT1WC8VLk0eKOsyFXnozeFMC9ukMO6S0j5M-W07DD-rXAddmBfQMx8f0kzMHHV8x8_jMhQ1taIk7NtPSUWfY9mHXfe_4GyIVQ5VNosXUEfC1cnCCOETgbBOawbj9-VPY2-TRV57",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJF35UHsGbHGARklrDCYxfRds",
+      "plus_code": {
+        "compound_code": "GV25+8X 飯田市、長野県",
+        "global_code": "8Q7VGV25+8X"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJF35UHsGbHGARklrDCYxfRds",
-    "plus_code": {
-      "compound_code": "GV25+8X 長野県飯田市",
-      "global_code": "8Q7VGV25+8X"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2431 長野県飯田市川路７６７４ 天竜川総合学習館「かわらんべ」付近",
+      "geometry": {
+        "location": {
+          "lat": 35.4463283,
+          "lng": 137.8159846
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.44766982989272,
+            "lng": 137.8172368798927
+          },
+          "southwest": {
+            "lat": 35.44497017010727,
+            "lng": 137.8145372201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "アルプスぼうけん組楽部 天竜峡ベース",
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111350796086811216449\">アルプスぼうけん</a>"
+          ],
+          "photo_reference": "Aap_uEDJtggvr0IhGl4azW7EEwwHVIiLX44z7ROun_y5bfAG2C835NCwzRAsc9Z9L7bSVHtDXpP9XNdocRZta4O4bAft9JziupA8nIwIwglOmFBX3fK3t4XWn6Ft_ZZs2MLG8yznms5Otn-3l_FaJwVfBpCfEWcEDwo0H5bTI9ji2WzzxXiH",
+          "width": 3200
+        }
+      ],
+      "place_id": "ChIJhYmDN8KeHGARg7R_qdAuehM",
+      "plus_code": {
+        "compound_code": "CRW8+GC 飯田市、長野県",
+        "global_code": "8Q7VCRW8+GC"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

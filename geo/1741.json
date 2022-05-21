@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５２６",
-        "short_name": "１５２６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１５２６",
-    "geometry": {
-      "location": {
-        "lat": 36.1094245,
-        "lng": 138.2358696
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1105879302915,
-          "lng": 138.2373619802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野１５２６",
+      "geometry": {
+        "location": {
+          "lat": 36.1093198,
+          "lng": 138.2359415
         },
-        "southwest": {
-          "lat": 36.1078899697085,
-          "lng": 138.2346640197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.11058877989272,
+            "lng": 138.2373628298928
+          },
+          "southwest": {
+            "lat": 36.10788912010727,
+            "lng": 138.2346631701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVwhwsX5SHGARxdd3EPKC5dU",
-    "plus_code": {
-      "compound_code": "465P+Q8 日本、長野県立科町",
-      "global_code": "8Q8W465P+Q8"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "世界の影絵・きり絵・ガラス・オルゴール美術館",
+      "photos": [
+        {
+          "height": 1166,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113654860923928796791\">影絵・きり絵・ガラス・オルゴール美術館</a>"
+          ],
+          "photo_reference": "Aap_uEDgDDit0AGYP1GvSzBT9MdGe1tMLtqP0pWfJthJVdpjuuJYKQRg8_AAkfxRoiaqAvCkxkrxK17pGoNrBcOVxpPvLZTR72vohrqgrMB1O67AuQUEvyiJpqkRUXoJqaLOvB7cILfRGM7WF1VewGXheIkotncgXoE2OqJ3hyr0RqJbZqs3",
+          "width": 1742
+        }
+      ],
+      "place_id": "ChIJVwhwsX5SHGARxdd3EPKC5dU",
+      "plus_code": {
+        "compound_code": "465P+Q8 立科町、長野県",
+        "global_code": "8Q8W465P+Q8"
+      },
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

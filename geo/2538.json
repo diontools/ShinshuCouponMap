@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２１８４−１０",
-        "short_name": "２２１８４−１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２１８４−１０",
-    "geometry": {
-      "location": {
-        "lat": 36.6631696,
-        "lng": 137.8367063
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6645645802915,
-          "lng": 137.8380250302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２１８４−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.6631696,
+          "lng": 137.8367063
         },
-        "southwest": {
-          "lat": 36.6618666197085,
-          "lng": 137.8353270697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66456542989272,
+            "lng": 137.8380258798927
+          },
+          "southwest": {
+            "lat": 36.66186577010728,
+            "lng": 137.8353262201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJo40vBFLQ918RejEtSAM3OSQ",
-    "plus_code": {
-      "compound_code": "MR7P+7M 長野県白馬村",
-      "global_code": "8Q8VMR7P+7M"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "shopping_mall",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "エスカルプラザ",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116314105967750754426\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBEPFfcC8biNIGspIXRSA3I1z7I1LlKjdReh37DazHCa_UVMkt2LEbuUKAtcINLEAhsucFVoNJHRQDf9YCXWw8A2lfJ3T2RHas-hlyyZQ3vRMMipVlWuyKOJenkUzoXaCk9SYTehH359WyXTWN0Ohc8ORxj2X_ppkjtUzHgmc82D0zf",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJo40vBFLQ918RejEtSAM3OSQ",
+      "plus_code": {
+        "compound_code": "MR7P+7M 白馬村、長野県",
+        "global_code": "8Q8VMR7P+7M"
+      },
+      "types": [
+        "shopping_mall",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

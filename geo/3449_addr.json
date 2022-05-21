@@ -1,83 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "沖田町",
-        "short_name": "沖田町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0013",
-        "short_name": "392-0013",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町３丁目",
-    "geometry": {
-      "location": {
-        "lat": 36.0030407,
-        "lng": 138.1351505
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0044250302915,
-          "lng": 138.1365785802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町３丁目",
+      "geometry": {
+        "location": {
+          "lat": 36.0030407,
+          "lng": 138.1351505
         },
-        "southwest": {
-          "lat": 36.0017270697085,
-          "lng": 138.1338806197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00442587989273,
+            "lng": 138.1365794298927
+          },
+          "southwest": {
+            "lat": 36.00172622010729,
+            "lng": 138.1338797701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJf__2quhWHGAR9kcJsgxzVyQ",
-    "plus_code": {
-      "compound_code": "243P+63 長野県諏訪市",
-      "global_code": "8Q8W243P+63"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ココモール",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102123358584595092558\">昭人土屋</a>"
+          ],
+          "photo_reference": "Aap_uEAnSIWEAGumacZxj2aMNWXmkxswuTJEfz1qw7Z2yZv7hHQ9aVPJo_N6jNSZsRuA-pPAeNuSSKYEDPWelmLwhYMPezL-Kdawq3ia9FwsRwUvJKpuV1Vh88AR86ftQy6NjAUiy0bbWyagRCEYXH5SBjv0BSTshHp3nwpdlWvFEMM6xMTT",
+          "width": 2160
+        }
+      ],
+      "place_id": "ChIJf__2quhWHGAR9kcJsgxzVyQ",
+      "plus_code": {
+        "compound_code": "243P+63 諏訪市、長野県",
+        "global_code": "8Q8W243P+63"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

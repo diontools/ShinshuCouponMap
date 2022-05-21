@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上西之門町",
-        "short_name": "上西之門町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0858",
-        "short_name": "380-0858",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0858 長野県長野市長野上西之門町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.659923,
-          "lng": 138.186729
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0858 長野県長野市長野上西之門町",
+      "geometry": {
+        "location": {
+          "lat": 36.6593518,
+          "lng": 138.1864305
         },
-        "southwest": {
-          "lat": 36.6586281,
-          "lng": 138.1858066
+        "viewport": {
+          "northeast": {
+            "lat": 36.66062537989272,
+            "lng": 138.1876176298927
+          },
+          "southwest": {
+            "lat": 36.65792572010728,
+            "lng": 138.1849179701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6593518,
-        "lng": 138.1864305
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6606245302915,
-          "lng": 138.1876167802915
-        },
-        "southwest": {
-          "lat": 36.6579265697085,
-          "lng": 138.1849188197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0858 長野県長野市長野上西之門町",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118135344380963537843\">oota yukio</a>"
+          ],
+          "photo_reference": "Aap_uEB-yOcUlOd73yGLnZ9LQDVzbKclaZIq7NiHDMGmVSuTxpYAmcYR_29qwaGIPsxF5OqjnlANtG6oLth-g8ZcRPhYnzY-vA8ffCOvDCPg9ldK7tbISntjQNnHC_uJwJ6dmLvPUS1ZMm5cs0HKfRg0YjR0gNXZouQDxE--Kzpqbmp4n9RU",
+          "width": 1600
         }
-      }
-    },
-    "place_id": "ChIJ_6-_sOOGHWARBkoF9CQhhe8",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ_6-_sOOGHWARBkoF9CQhhe8",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央３丁目４−８",
-    "geometry": {
-      "location": {
-        "lat": 36.234394,
-        "lng": 137.973173
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2357455302915,
-          "lng": 137.9744874302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央３丁目４−８",
+      "geometry": {
+        "location": {
+          "lat": 36.234394,
+          "lng": 137.973173
         },
-        "southwest": {
-          "lat": 36.2330475697085,
-          "lng": 137.9717894697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23574637989272,
+            "lng": 137.9744882798927
+          },
+          "southwest": {
+            "lat": 36.23304672010728,
+            "lng": 137.9717886201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJOdv0JZIOHWARtqkPnBCu0UE",
-    "plus_code": {
-      "compound_code": "6XMF+Q7 日本、長野県松本市",
-      "global_code": "8Q8V6XMF+Q7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "女鳥羽そば",
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112177555545288350767\">Dave Schaefers</a>"
+          ],
+          "photo_reference": "Aap_uECIB4bg0MF5ZzcK5HUeDRG-MfBStchjS8bpLbvnK8BngDT3_NHlSUq04c_9LwxPnNIKLGokHTw-botCXWw5vkOehfh9jmbRvZKXrjr_n6fCc5xbdKeutsVtwZoAKmRtEQfSl_OpZ9lpvDa44wLdb9Cy_dRM9Em4ZnJIxRL2CmhkXG5V",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJOdv0JZIOHWARtqkPnBCu0UE",
+      "plus_code": {
+        "compound_code": "6XMF+Q7 松本市、長野県",
+        "global_code": "8Q8V6XMF+Q7"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

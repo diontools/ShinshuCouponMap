@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８００６−１",
-        "short_name": "８００６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷８００６−１",
-    "geometry": {
-      "location": {
-        "lat": 36.9254097,
-        "lng": 138.4526618
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9267272302915,
-          "lng": 138.4540092802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷８００６−１",
+      "geometry": {
+        "location": {
+          "lat": 36.9254097,
+          "lng": 138.4526617
         },
-        "southwest": {
-          "lat": 36.9240292697085,
-          "lng": 138.4513113197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92672807989272,
+            "lng": 138.4540101298927
+          },
+          "southwest": {
+            "lat": 36.92402842010728,
+            "lng": 138.4513104701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR7pJpCUF9l8RYYncPf7eNRE",
-    "plus_code": {
-      "compound_code": "WFG3+53 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWFG3+53"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "Rental SHIRAKABA 白樺",
+      "photos": [
+        {
+          "height": 608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100175096196885060744\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBKfZ6db0CnDubk33FbWjAMrD4gDUVjVfEoyLmBNvoi3_ltwX4X2IhPH8haA0fqzLEAFFqTjF9iVU9yyVdClAwPVTNSGKgqbYvYjmUmxIxbO8eP_PWo0tNALlO8ykhLOPYuy9ePMkxTP5JXF7JdfxODyebLDDKBy7lYgZitkqLRM2R0",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJR7pJpCUF9l8RYYncPf7eNRE",
+      "plus_code": {
+        "compound_code": "WFG3+53 野沢温泉村、長野県",
+        "global_code": "8Q8WWFG3+53"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

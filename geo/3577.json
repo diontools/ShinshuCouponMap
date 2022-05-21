@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0026 長野県諏訪市大手２丁目６−４",
+      "geometry": {
+        "location": {
+          "lat": 36.0421757,
+          "lng": 138.1155426
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 36.04351407989272,
+            "lng": 138.1169099798927
+          },
+          "southwest": {
+            "lat": 36.04081442010727,
+            "lng": 138.1142103201072
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "大手ワイン食堂・びっけ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108040129250314534234\">大手ワイン食堂・びっけ</a>"
+          ],
+          "photo_reference": "Aap_uEDNVgow--hsAO9fXoPinvVVL1JNRd1y__NafJaBpKUl-rXpav50wwmK-nO2r239ITIjIhj4SBQv3f5J2Kw2MTZMIq5m_EaJ6C1dkYDmfQ2dWDK3-TAPpeq-B1M1e20-llH5tdUFrpp5gzPEyZ1lI27LsmCqk7MNXmZuFVGHsFrOCNh3",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJO5jHLrRVHGARIX8a0fBUqpE",
+      "plus_code": {
+        "compound_code": "24R8+V6 諏訪市、長野県",
+        "global_code": "8Q8W24R8+V6"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

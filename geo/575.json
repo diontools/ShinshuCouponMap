@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０５５",
-        "short_name": "３０５５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸倉温泉",
-        "short_name": "戸倉温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0807",
-        "short_name": "389-0807",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５",
-    "geometry": {
-      "location": {
-        "lat": 36.4828076,
-        "lng": 138.1433409
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4842394802915,
-          "lng": 138.1449320802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５",
+      "geometry": {
+        "location": {
+          "lat": 36.4828721,
+          "lng": 138.1435033
         },
-        "southwest": {
-          "lat": 36.4815415197085,
-          "lng": 138.1422341197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48424032989272,
+            "lng": 138.1449329298927
+          },
+          "southwest": {
+            "lat": 36.48154067010728,
+            "lng": 138.1422332701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ56sBNGucHWAR1hvNS3NXO1M",
-    "plus_code": {
-      "compound_code": "F4MV+48 日本、長野県千曲市",
-      "global_code": "8Q8WF4MV+48"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "リバーサイド上田館",
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114693554940988499279\">リバーサイド上田館</a>"
+          ],
+          "photo_reference": "Aap_uEBfuftCTumGjxRU0WGHBRht2STEyn4ItHqkMOnOQYTgNr56ZVm-8qFmYsl-OM8SHmt_hF3teeEbRP9WgpxLLLnhrRgovOrVDA8BSSmVrnlIsO7py47PUO6irGt_8ASz2GlaHExJlPniwp-9k_RBhN7IljVBIfNM0u4JhZY37v7ZPkAb",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJ56sBNGucHWAR1hvNS3NXO1M",
+      "plus_code": {
+        "compound_code": "F4MV+48 千曲市、長野県",
+        "global_code": "8Q8WF4MV+48"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

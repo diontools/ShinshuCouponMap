@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "鬼無里日影",
-        "short_name": "鬼無里日影",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4302",
-        "short_name": "381-4302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4302 長野県長野市鬼無里日影",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8265864,
-          "lng": 138.0361603
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-4302 長野県長野市鬼無里日影",
+      "geometry": {
+        "location": {
+          "lat": 36.7396576,
+          "lng": 137.9612033
         },
-        "southwest": {
-          "lat": 36.6570105,
-          "lng": 137.9101149
+        "viewport": {
+          "northeast": {
+            "lat": 36.8265864,
+            "lng": 138.0361603
+          },
+          "southwest": {
+            "lat": 36.6570105,
+            "lng": 137.9101149
+          }
         }
       },
-      "location": {
-        "lat": 36.7396576,
-        "lng": 137.9612033
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8265864,
-          "lng": 138.0361603
-        },
-        "southwest": {
-          "lat": 36.6570105,
-          "lng": 137.9101149
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "鬼無里日影",
+      "photos": [
+        {
+          "height": 3366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106126220588076466923\">武井道夫</a>"
+          ],
+          "photo_reference": "Aap_uEDoTvkaASZRvMN8sq9fRFO0JFCeLloSSSMeLAAEx8ZhdSXizEKoZdt2fqCr7EfRaW8lNXPViFrnpV7ZdtE7wt98NQ0idzx91-7Rcu7gA_IlaGQiBXcQ0Tzf7xoGZyHCOldgHkvXB9rOwH7qAlhJO4onufEPC7pZyWL6hymy3bM_UX8u",
+          "width": 5984
         }
-      }
-    },
-    "place_id": "ChIJE_YU_Xot9l8RQpVBgbvvXZk",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJE_YU_Xot9l8RQpVBgbvvXZk",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

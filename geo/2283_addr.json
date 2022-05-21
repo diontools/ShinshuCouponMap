@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５１",
-        "short_name": "５１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-8560",
-        "short_name": "390-8560",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-8560 長野県松本市中央４丁目９−５１",
-    "geometry": {
-      "location": {
-        "lat": 36.233206,
-        "lng": 137.9783769
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2352923,
-          "lng": 137.9798844
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-8560 長野県松本市中央４丁目９−５１",
+      "geometry": {
+        "location": {
+          "lat": 36.233206,
+          "lng": 137.9783769
         },
-        "southwest": {
-          "lat": 36.2312333,
-          "lng": 137.976657
+        "viewport": {
+          "northeast": {
+            "lat": 36.2373218,
+            "lng": 137.9814981
+          },
+          "southwest": {
+            "lat": 36.2292038,
+            "lng": 137.9750433
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJQfgG5UOHWAR8DOVofUhiME",
-    "plus_code": {
-      "compound_code": "6XMH+79 長野県松本市",
-      "global_code": "8Q8V6XMH+79"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "shopping_mall"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "イオンモール松本",
+      "photos": [
+        {
+          "height": 12000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117161786735469817880\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAXmDMi_SVM4WVwD6X_PGOo_wPxvzvObqu0pnjAJ2zJn_E5YfM3Axmfs38trq1lg0VA8fQrXNYH6F_5UZMLUVO5kr_bxcZj55eQsPJL72XA0c775O3f_oleSNJAXFIDJ95c3nGO485jSNfDpRvco9rcyX9PCOp65C-msZ9UXswOpdI7",
+          "width": 9000
+        }
+      ],
+      "place_id": "ChIJJQfgG5UOHWAR8DOVofUhiME",
+      "plus_code": {
+        "compound_code": "6XMH+79 松本市、長野県",
+        "global_code": "8Q8V6XMH+79"
+      },
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

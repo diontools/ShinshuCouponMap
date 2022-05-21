@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "中箕輪",
-        "short_name": "中箕輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "箕輪町",
-        "short_name": "箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4601",
-        "short_name": "399-4601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪 木下11314-1",
-    "geometry": {
-      "location": {
-        "lat": 35.9041104,
-        "lng": 137.9930944
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9054435802915,
-          "lng": 137.9945073302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪 木下11314-1",
+      "geometry": {
+        "location": {
+          "lat": 35.9041004,
+          "lng": 137.993135
         },
-        "southwest": {
-          "lat": 35.9027456197085,
-          "lng": 137.9918093697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.90544442989273,
+            "lng": 137.9945081798927
+          },
+          "southwest": {
+            "lat": 35.90274477010728,
+            "lng": 137.9918085201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJa8DazWD6HGARqay2xseiBKo",
-    "plus_code": {
-      "compound_code": "WX3V+J6 長野県箕輪町",
-      "global_code": "8Q7VWX3V+J6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ステーキ宮 箕輪店",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106111876058859582008\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDY9rchxK1AnDo_IKhW52IAHH4uxx0c6vb_50GyTmz6-Ldd74sTK7GNyjFavK7Ocdmm3-u84--LF-J5J5L1gtjS4NhjJvhwwEnjvor2w-fNXuanmGov7tMCB8Nz44eU4QCc0n1rRiEm-r17u3c6h1S9_k4pAmAcoLAGgjHlqq2RhH-A",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJa8DazWD6HGARqay2xseiBKo",
+      "plus_code": {
+        "compound_code": "WX3V+J6 箕輪町、長野県",
+        "global_code": "8Q7VWX3V+J6"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

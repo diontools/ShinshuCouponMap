@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３７−１０",
-        "short_name": "４３７−１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野４３７−１０",
-    "geometry": {
-      "location": {
-        "lat": 36.1313909,
-        "lng": 138.2759352
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1327722802915,
-          "lng": 138.2769724302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県立科町芦田八ケ野４３７−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.1314005,
+          "lng": 138.2758426
         },
-        "southwest": {
-          "lat": 36.13007431970851,
-          "lng": 138.2742744697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13277312989272,
+            "lng": 138.2769732798928
+          },
+          "southwest": {
+            "lat": 36.13007347010727,
+            "lng": 138.2742736201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5ftuqxZNHGARIT29a6sKE5w",
-    "plus_code": {
-      "compound_code": "47JG+H9 日本、長野県立科町",
-      "global_code": "8Q8W47JG+H9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "プチホテル アルペン シャトー ※ランチ（土・日・祝日） 要予約",
+      "photos": [
+        {
+          "height": 2624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118220075691765261497\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED3V24ZjQ-dVdM4CZqLAHhIObxmMK0F-3BT_nK8VdIeTKfz6Xc-NpLo6Xi4QwIIdrWdhvGiUihWdRtMUcxLzkmAIhmL0Us3DhLzkRw6JyhjZyeebmFzSSj0fROYXQoLMS_c4WYXqkw3EtwUwUbqY4zoPq0L2xJSI82YunR-kr9SEifD",
+          "width": 3936
+        }
+      ],
+      "place_id": "ChIJ5ftuqxZNHGARIT29a6sKE5w",
+      "plus_code": {
+        "compound_code": "47JG+H9 立科町、長野県",
+        "global_code": "8Q8W47JG+H9"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

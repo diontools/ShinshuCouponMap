@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0193",
-        "short_name": "389-0193",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0193 長野県北佐久郡軽井沢町軽井沢",
-    "geometry": {
-      "location": {
-        "lat": 36.3396715,
-        "lng": 138.6397248
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3410621302915,
-          "lng": 138.6411504302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0193 長野県北佐久郡軽井沢町軽井沢",
+      "geometry": {
+        "location": {
+          "lat": 36.3396715,
+          "lng": 138.6397248
         },
-        "southwest": {
-          "lat": 36.3383641697085,
-          "lng": 138.6384524697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34106297989273,
+            "lng": 138.6411512798927
+          },
+          "southwest": {
+            "lat": 36.33836332010728,
+            "lng": 138.6384516201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3xMzjkDVHWARasjuL5-OyQQ",
-    "plus_code": {
-      "compound_code": "8JQQ+VV 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JQQ+VV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "軽井沢プリンスホテル イースト すき焼 しゃぶしゃぶ 鉄板焼 爽風",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111803647774375090009\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECO_m3spB9BB8yrZqjaAxXGR8DOHiG_yboxaXrKEgiO0Qa_APfJjlb6fcnIxvAUo3kXc6Tw-2v_Py33TjRe8UPLmqPsXMK5pbcZD45Eyam7CxybDBWgyPOMgcWC9GxKRb6fYL1ZmJJE4fNrWQlpcc3CkBADo4UgnoeESNTUivomuRca",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ3xMzjkDVHWARasjuL5-OyQQ",
+      "plus_code": {
+        "compound_code": "8JQQ+VV 軽井沢町、長野県",
+        "global_code": "8Q8W8JQQ+VV"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

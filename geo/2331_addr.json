@@ -1,98 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "平田東",
-        "short_name": "平田東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0014",
-        "short_name": "399-0014",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0014 長野県松本市平田東３丁目１５",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.193185,
-          "lng": 137.9658627
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0014 長野県松本市平田東３丁目１５",
+      "geometry": {
+        "location": {
+          "lat": 36.19228,
+          "lng": 137.9652773
         },
-        "southwest": {
-          "lat": 36.1913732,
-          "lng": 137.9648038
+        "viewport": {
+          "northeast": {
+            "lat": 36.19362892989272,
+            "lng": 137.9666830798927
+          },
+          "southwest": {
+            "lat": 36.19092927010728,
+            "lng": 137.9639834201073
+          }
         }
       },
-      "location": {
-        "lat": 36.19228,
-        "lng": 137.9652773
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1936280802915,
-          "lng": 137.9666822302915
-        },
-        "southwest": {
-          "lat": 36.1909301197085,
-          "lng": 137.9639842697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-0014 長野県松本市平田東３丁目１５",
+      "photos": [
+        {
+          "height": 1096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116114813244303341249\">toro mochi</a>"
+          ],
+          "photo_reference": "Aap_uEBFvevggJPDO0WkFL9c21HFePgldZQH9VkdKdzsGV9aAtP_19adfE3twbDU9DJjpb6whE-zAd8VR0jfqPJ0spaDCS2oNYx8rk31fFNP8Gii58k1XVMOtP-6bTd2nDC6S3aw--EXzRNr2z3_eCHGhrAHqwns4ikoJPA3Tc3DUJ81m7PY",
+          "width": 2048
         }
-      }
-    },
-    "place_id": "ChIJG6ROagsPHWARu4ZI5wk2Ti4",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_4"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJG6ROagsPHWARu4ZI5wk2Ti4",
+      "types": [
+        "sublocality_level_4",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

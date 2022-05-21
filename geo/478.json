@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５３７",
-        "short_name": "５３７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "須坂",
-        "short_name": "須坂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0014",
-        "short_name": "382-0014",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0014 長野県須坂市須坂５３７",
-    "geometry": {
-      "location": {
-        "lat": 36.6558303,
-        "lng": 138.3158392
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6572557302915,
-          "lng": 138.3171601302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0014 長野県須坂市須坂５３７",
+      "geometry": {
+        "location": {
+          "lat": 36.6559232,
+          "lng": 138.3158192
         },
-        "southwest": {
-          "lat": 36.6545577697085,
-          "lng": 138.3144621697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65725657989272,
+            "lng": 138.3171609798927
+          },
+          "southwest": {
+            "lat": 36.65455692010728,
+            "lng": 138.3144613201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJv8Mp6JyOHWARb1TljcTbV1A",
-    "plus_code": {
-      "compound_code": "M848+88 日本、長野県須坂市",
-      "global_code": "8Q8WM848+88"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "塩屋醸造",
+      "photos": [
+        {
+          "height": 6936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111438337728176012751\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDDb6ULPqc3fnJKoHgcuKnIPyACEHV10EExo-g17zf9uEoMWxK4qvvEEEu_CcHaoTsmTzAgmlce6XA-K3i1jiP3gBiYHObhlRtSWq_AoQpLqeZoGKDFunKhGYLd00pz9tRI-tQYwD-E4dKbcdt8cCAyxjqsJy386UzJ5At-9liDUiJv",
+          "width": 9248
+        }
+      ],
+      "place_id": "ChIJv8Mp6JyOHWARb1TljcTbV1A",
+      "plus_code": {
+        "compound_code": "M848+88 須坂市、長野県",
+        "global_code": "8Q8WM848+88"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

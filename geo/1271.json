@@ -1,82 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２３",
-        "short_name": "１２２３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３",
-    "geometry": {
-      "location": {
-        "lat": 36.5316883,
-        "lng": 138.3439463
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5329637802915,
-          "lng": 138.3453028802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３",
+      "geometry": {
+        "location": {
+          "lat": 36.5316883,
+          "lng": 138.3439463
         },
-        "southwest": {
-          "lat": 36.5302658197085,
-          "lng": 138.3426049197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53296462989272,
+            "lng": 138.3453037298927
+          },
+          "southwest": {
+            "lat": 36.53026497010728,
+            "lng": 138.3426040701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "菅平国際ホテルベルニナ",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113667174684088555761\">aro aro</a>"
+          ],
+          "photo_reference": "Aap_uEAdCvQMFwnItcsBhMp1KQHBRfsAO8NGIzY8ZDmJvhhRMy9S-IxqmwPB7Dj8x_NDjr9iJJO1TGcj8HEacEz2pLyn3vZZgpTfb_GEsVMGZEOWP754A9gllxXirs_UjnuxDVwxn4w-zQyGIag4GyAZiHnmkP01iBRQkKbmmLWICYG6GDDI",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJZWDp90GUHWARG_2Pz6O9BDc",
+      "plus_code": {
+        "compound_code": "G8JV+MH 上田市、長野県",
+        "global_code": "8Q8WG8JV+MH"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJZWDp90GUHWARG_2Pz6O9BDc",
-    "plus_code": {
-      "compound_code": "G8JV+MH 日本、長野県上田市",
-      "global_code": "8Q8WG8JV+MH"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３",
+      "geometry": {
+        "location": {
+          "lat": 36.531052,
+          "lng": 138.34271
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.53252257989272,
+            "lng": 138.3439964298927
+          },
+          "southwest": {
+            "lat": 36.52982292010728,
+            "lng": 138.3412967701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ベルニナホテル アネックス",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107750753385869052211\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA-U5ZidVsPysjFwiYdDqgq-mG1ZuWKUmfotacrRAVFoCMX0xyHDA0GkWY6Dp9lUTqHMXT47haOEO-odgUaNn4m_yRJBb1C2Cbjd26ANL8Dpg80xliBkIfdbJPJZkYZ53wZnEYH1W7J3fv4uESkrM_1G7HWn7ScXvMboIUS5xS12ND3",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJZWDp90GUHWARL6vpUnm4_00",
+      "plus_code": {
+        "compound_code": "G8JV+C3 上田市、長野県",
+        "global_code": "8Q8WG8JV+C3"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

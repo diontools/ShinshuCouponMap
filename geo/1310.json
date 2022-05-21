@@ -1,103 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２４",
-        "short_name": "２４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0012",
-        "short_name": "386-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0012 長野県上田市中央２丁目２４−４",
-    "geometry": {
-      "location": {
-        "lat": 36.3991836,
-        "lng": 138.2583856
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4005551802915,
-          "lng": 138.2596407802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0012 長野県上田市中央２丁目２４−４",
+      "geometry": {
+        "location": {
+          "lat": 36.3991836,
+          "lng": 138.2583856
         },
-        "southwest": {
-          "lat": 36.3978572197085,
-          "lng": 138.2569428197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.40055602989271,
+            "lng": 138.2596416298927
+          },
+          "southwest": {
+            "lat": 36.39785637010727,
+            "lng": 138.2569419701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR7cCiKy9HWAR4Y9JPi0E3Kc",
-    "plus_code": {
-      "compound_code": "97X5+M9 日本、長野県上田市",
-      "global_code": "8Q8W97X5+M9"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "hostel mog",
+      "photos": [
+        {
+          "height": 1486,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116832485920278593521\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBIowiHDhzztHg6GdOjru15n_9BcpCmpH8TS8NY6bxoQrrF8dvFIDdIJfsrhAvWz7F0NWP3XwKP-l2R1bRhGsv95mbILA1IABJChUgTcEO2UN3L6qeXyxNYGZnskKRAMEjy2m_6PkmjXkkfxvBLkVeGqa4Pqsm7crrGQ4B0FxRZwitd",
+          "width": 1125
+        }
+      ],
+      "place_id": "ChIJR7cCiKy9HWAR4Y9JPi0E3Kc",
+      "plus_code": {
+        "compound_code": "97X5+M9 上田市、長野県",
+        "global_code": "8Q8W97X5+M9"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

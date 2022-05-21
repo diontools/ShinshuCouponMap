@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５７４",
-        "short_name": "３５７４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "木の下",
-        "short_name": "木の下",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0000",
-        "short_name": "393-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0000 長野県諏訪郡下諏訪町木の下３５７４",
-    "geometry": {
-      "location": {
-        "lat": 36.07498990000001,
-        "lng": 138.0897593
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0762730302915,
-          "lng": 138.0911087802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0000 長野県諏訪郡下諏訪町木の下３５７４",
+      "geometry": {
+        "location": {
+          "lat": 36.0749888,
+          "lng": 138.0897593
         },
-        "southwest": {
-          "lat": 36.0735750697085,
-          "lng": 138.0884108197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07627387989272,
+            "lng": 138.0911096298927
+          },
+          "southwest": {
+            "lat": 36.07357422010728,
+            "lng": 138.0884099701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx0RZI1BVHGAR1XfvzfMVrqk",
-    "plus_code": {
-      "compound_code": "33FQ+XW 長野県下諏訪町",
-      "global_code": "8Q8W33FQ+XW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "山猫亭 本店",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105768662819977130054\">ノート</a>"
+          ],
+          "photo_reference": "Aap_uEDBRvNBQ40UOfW5LFfUJQaLBxGDMzmfFVBPIxoRit26Q-irzVT_huaouPvo6cpkLodXetXd7PXzVF8JskxHiqyTriXke4eSY5ACzAMb969_inD7_Zjo6VodOQAdM4OD-lZ3pllbOfztSHuaTIfA0RogkFLD4tzVA-MgfYFcKVL70xwA",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJx0RZI1BVHGAR1XfvzfMVrqk",
+      "plus_code": {
+        "compound_code": "33FQ+XW 下諏訪町、長野県",
+        "global_code": "8Q8W33FQ+XW"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "５丁目",
-        "short_name": "５丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り５丁目１７−７",
-    "geometry": {
-      "location": {
-        "lat": 36.044693,
-        "lng": 138.113784
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04608023029149,
-          "lng": 138.1151397802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り５丁目１７−７",
+      "geometry": {
+        "location": {
+          "lat": 36.0447279,
+          "lng": 138.1138038
         },
-        "southwest": {
-          "lat": 36.04338226970849,
-          "lng": 138.1124418197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04608107989272,
+            "lng": 138.1151406298927
+          },
+          "southwest": {
+            "lat": 36.04338142010728,
+            "lng": 138.1124409701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJd880FbFVHGARTOX2d9tpBbg",
-    "plus_code": {
-      "compound_code": "24V7+VG 長野県諏訪市",
-      "global_code": "8Q8W24V7+VG"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "中国料理 紅蘭",
+      "photos": [
+        {
+          "height": 2015,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102184996249889397191\">紅蘭</a>"
+          ],
+          "photo_reference": "Aap_uEBUfUUbgpLyzXI-7SwwQV41AtWmjAs6JQkXX2GejI7n7V3HObXreqIAa4TGbNLXqjMlJ-v1GRICMEiiJ1GSVMeHGtq36Cimg3mlvGfJIeSZAJi28O-tEA7tMScl8vftMTxgdv34adT6D1OB996mEmbt3gj_TG87N6m9XeonLhxkBKFH",
+          "width": 3583
+        }
+      ],
+      "place_id": "ChIJd880FbFVHGARTOX2d9tpBbg",
+      "plus_code": {
+        "compound_code": "24V7+VG 諏訪市、長野県",
+        "global_code": "8Q8W24V7+VG"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

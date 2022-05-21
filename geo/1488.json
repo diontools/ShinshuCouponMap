@@ -1,94 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０−２",
-        "short_name": "１０−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0103",
-        "short_name": "389-0103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢１０−２",
-    "geometry": {
-      "location": {
-        "lat": 36.3550226,
-        "lng": 138.6330905
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.35635473029149,
-          "lng": 138.6345285302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢１０−２",
+      "geometry": {
+        "location": {
+          "lat": 36.3550212,
+          "lng": 138.6331123
         },
-        "southwest": {
-          "lat": 36.35365676970849,
-          "lng": 138.6318305697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35635557989272,
+            "lng": 138.6345293798927
+          },
+          "southwest": {
+            "lat": 36.35365592010728,
+            "lng": 138.6318297201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJSbldOoTTHWARyEgUN9mIXrM",
-    "plus_code": {
-      "compound_code": "9J4M+26 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J4M+26"
-    },
-    "types": [
-      "clothing_store",
-      "establishment",
-      "food",
-      "home_goods_store",
-      "point_of_interest",
-      "shoe_store",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "coriss（コリス）",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113258441504446772801\">浪岡幹</a>"
+          ],
+          "photo_reference": "Aap_uEB5gWqR2b-3R9ze2KoLe9mZZQlo2QL6EkcHbPRcLxcNGTA7DhEYCzlb5ukPbF2REvy7WnttT0AvsMQMX3lz1MkM3KFj8375CcxdYDVv7BPLxpJCWaG-usBSxUuLHb-28RZCXmvi7lqfGrnergjV1UYtxmCF4ywrsgdZJDMa8FUnK3D5",
+          "width": 2160
+        }
+      ],
+      "place_id": "ChIJSbldOoTTHWARyEgUN9mIXrM",
+      "plus_code": {
+        "compound_code": "9J4M+26 軽井沢町、長野県",
+        "global_code": "8Q8W9J4M+26"
+      },
+      "types": [
+        "shoe_store",
+        "clothing_store",
+        "home_goods_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１６９",
-        "short_name": "１６９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "別所温泉",
-        "short_name": "別所温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1431",
-        "short_name": "386-1431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６９",
-    "geometry": {
-      "location": {
-        "lat": 36.3510056,
-        "lng": 138.1595343
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3522953302915,
-          "lng": 138.1610248302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-1431 長野県上田市別所温泉１６９",
+      "geometry": {
+        "location": {
+          "lat": 36.3510056,
+          "lng": 138.1595343
         },
-        "southwest": {
-          "lat": 36.3495973697085,
-          "lng": 138.1583268697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35229617989273,
+            "lng": 138.1610256798927
+          },
+          "southwest": {
+            "lat": 36.34959652010728,
+            "lng": 138.1583260201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJcY2o_mGhHWARA2rZTgENjmg",
-    "plus_code": {
-      "compound_code": "9525+CR 長野県上田市",
-      "global_code": "8Q8W9525+CR"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-1431 長野県上田市別所温泉１６９",
+      "place_id": "ChIJcY2o_mGhHWARA2rZTgENjmg",
+      "plus_code": {
+        "compound_code": "9525+CR 上田市、長野県",
+        "global_code": "8Q8W9525+CR"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

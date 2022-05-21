@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０５５−５０",
-        "short_name": "３０５５−５０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸倉温泉",
-        "short_name": "戸倉温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0807",
-        "short_name": "389-0807",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５−５０",
-    "geometry": {
-      "location": {
-        "lat": 36.4837262,
-        "lng": 138.1423661
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4851089302915,
-          "lng": 138.1437973802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５−５０",
+      "geometry": {
+        "location": {
+          "lat": 36.4837262,
+          "lng": 138.1423661
         },
-        "southwest": {
-          "lat": 36.4824109697085,
-          "lng": 138.1410994197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48510977989272,
+            "lng": 138.1437982298927
+          },
+          "southwest": {
+            "lat": 36.48241012010728,
+            "lng": 138.1410985701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-cyvPGucHWARRO3Tsh3AOb8",
-    "plus_code": {
-      "compound_code": "F4MR+FW 日本、長野県千曲市",
-      "global_code": "8Q8WF4MR+FW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "杏苑 (Kyoen)",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109960415975342466367\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBsGDqpphkmv2IZBo2gUY2SUmmd5KaqdhgbD0Kxznj2RQHoUbKsmFwhdwa4fVGHe6WpDk_CWkdwvE0zJFnnsaGOPLciuwFDPGKMU5i--0HVt9vEtnKD-QX0jIvlce4SdDEdNJTDvd11tWf-JHtQyUcgAoTb0DdZTVN2OaWK20WUGDaZ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-cyvPGucHWARRO3Tsh3AOb8",
+      "plus_code": {
+        "compound_code": "F4MR+FW 千曲市、長野県",
+        "global_code": "8Q8WF4MR+FW"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

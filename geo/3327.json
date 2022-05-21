@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "中川村",
-        "short_name": "中川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上伊那郡中川村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.6818929,
-          "lng": 138.0393741
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3801 長野県上伊那郡中川村大草４１８２−１",
+      "geometry": {
+        "location": {
+          "lat": 35.637847,
+          "lng": 137.947485
         },
-        "southwest": {
-          "lat": 35.5971807,
-          "lng": 137.8987658
+        "viewport": {
+          "northeast": {
+            "lat": 35.63902257989272,
+            "lng": 137.9489248798927
+          },
+          "southwest": {
+            "lat": 35.63632292010727,
+            "lng": 137.9462252201073
+          }
         }
       },
-      "location": {
-        "lat": 35.6345535,
-        "lng": 137.946059
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6818929,
-          "lng": 138.0393741
-        },
-        "southwest": {
-          "lat": 35.5971807,
-          "lng": 137.8987658
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "米澤酒造",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110068882522828182979\">菅沼光貴</a>"
+          ],
+          "photo_reference": "Aap_uED-S7yF7RshPzO74boA-zp1U9fWjcZdm32wc1eqabezHNt25kBix9IZkYoEIMBzMKX1TflIxjfvghmWxAgab8GIflY7-4t2qcT3O8oEAx_LhZ42y2DtHNZM_qqVzpGiHLkytcgjwih24RB4sUyU-mz7GToUB8lHgDyY3LL2i_5iXXjm",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJeT_kAfuOHGAR6yDD27gCHLw",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJjcjeFUSOHGARWrKpAaLMr14",
+      "plus_code": {
+        "compound_code": "JWQW+4X 中川村、長野県",
+        "global_code": "8Q7VJWQW+4X"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

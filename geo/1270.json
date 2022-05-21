@@ -1,64 +1,89 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県上田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目８−１ 上田駅前ビルパレオ 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.3975277,
+          "lng": 138.2505112
         },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+        "viewport": {
+          "northeast": {
+            "lat": 36.39887752989272,
+            "lng": 138.2518610298928
+          },
+          "southwest": {
+            "lat": 36.39617787010727,
+            "lng": 138.2491613701073
+          }
         }
       },
-      "location": {
-        "lat": 36.4019126,
-        "lng": 138.249075
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5546787,
-          "lng": 138.4139217
-        },
-        "southwest": {
-          "lat": 36.2172081,
-          "lng": 138.0690946
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "八幡屋百貨店 グループ八幡屋本店",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111050955879854996591\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDYbHwYHGX-6HJ17G-phes_G-TwLmKayP_yE4xoCuGvIfa0SQQmyhVUlJs9MQGhlVoc-uADRBTJVZ6mfb1BS3foBUHxEGuXKFDVw6VgvopTE5f106oh5SqhlHJaiCdM6Qc_9IY_LJcA-NmRjF7TYgF9zPs1NAQ_O5Pnsk26_lGVrWaY",
+          "width": 2048
         }
-      }
+      ],
+      "place_id": "ChIJRQ_9Pdq8HWARMQKPTAbX1bE",
+      "plus_code": {
+        "compound_code": "97X2+26 上田市、長野県",
+        "global_code": "8Q8W97X2+26"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJsaSJhsy8HWARTFv1slYL1uE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目２−２７",
+      "geometry": {
+        "location": {
+          "lat": 36.3980098,
+          "lng": 138.2483038
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.39934732989273,
+            "lng": 138.2496791298927
+          },
+          "southwest": {
+            "lat": 36.39664767010728,
+            "lng": 138.2469794701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "八幡屋人形センター",
+      "photos": [
+        {
+          "height": 2240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118089488924927117736\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAqLFqcusMRUeuNUJ5Xohj0Mfq8_3OmXbWxtuzt1cGpNRT9M1Z3kJybFtOtYCVFWaV6sfu_QfA2_13L4knCB_Sw1Rs_FGuXCDp_t2vjAMPxwPtGX5HgwObZNef9VWw0ZbCToIncKONX2_hAtAIGyNWUDNA6_AHY8Q2OVg2p4LHWsh_R",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJlVwwRte8HWARCpQQocBronU",
+      "plus_code": {
+        "compound_code": "96XX+58 上田市、長野県",
+        "global_code": "8Q8W96XX+58"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

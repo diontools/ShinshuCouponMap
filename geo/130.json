@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３２８９",
-        "short_name": "３２８９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３２８９",
-    "geometry": {
-      "location": {
-        "lat": 36.7418152,
-        "lng": 138.4128828
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7432214802915,
-          "lng": 138.4142781302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏３２８９",
+      "geometry": {
+        "location": {
+          "lat": 36.7418526,
+          "lng": 138.4129172
         },
-        "southwest": {
-          "lat": 36.7405235197085,
-          "lng": 138.4115801697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.74322232989272,
+            "lng": 138.4142789798927
+          },
+          "southwest": {
+            "lat": 36.74052267010727,
+            "lng": 138.4115793201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJ1v-5OL1HWARST9kJ-9Q-g8",
-    "plus_code": {
-      "compound_code": "PCR7+P5 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCR7+P5"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "楽奇温泉旅館",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116685976015963734506\">陈柏轩</a>"
+          ],
+          "photo_reference": "Aap_uEC4zehQBE4SaKJQnWJ2JBcw-uXgPpwR4gaynZd5k9RXueT2Xj_q_8k9Tute1jroeixmER9c8r1he7gZeWEzGNL1yzeMhMHBv3NufLOXUZbLNuZ_RNZxPBRwLHigNQBSIH6K7zNAtt390UkgJayjR5iod9WEszwyOlXiN_xZ-9927a9P",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJJ1v-5OL1HWARST9kJ-9Q-g8",
+      "plus_code": {
+        "compound_code": "PCR7+P5 山ノ内町、長野県",
+        "global_code": "8Q8WPCR7+P5"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

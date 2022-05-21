@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９３４７",
-        "short_name": "９３４７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大湯",
-        "short_name": "大湯",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村大湯９３４７",
-    "geometry": {
-      "location": {
-        "lat": 36.9231598,
-        "lng": 138.4481339
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.92452728029149,
-          "lng": 138.4495108302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村大湯９３４７",
+      "geometry": {
+        "location": {
+          "lat": 36.9231598,
+          "lng": 138.4481339
         },
-        "southwest": {
-          "lat": 36.9218293197085,
-          "lng": 138.4468128697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92452812989272,
+            "lng": 138.4495116798927
+          },
+          "southwest": {
+            "lat": 36.92182847010727,
+            "lng": 138.4468120201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGRk24C4F9l8RPhOn7Le9pAU",
-    "plus_code": {
-      "compound_code": "WCFX+77 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCFX+77"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "つくしんぼ",
+      "photos": [
+        {
+          "height": 2218,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118156783586260255333\">Melanie Fisher</a>"
+          ],
+          "photo_reference": "Aap_uEDtlH-22SVcPInjKlsmPR2LHniNtiYvuaObjGOYAmHHdOkAgMsFC0CUbIEiX_iW2qlf4wW2zBuMFK6Lm4YO04Y-oBLdhZLqS2Nd1Ik52x1_s9WdVQ8Brp-YIQIvOKh7xcc-ib9ddfAlfpKZfTxZsCOg1mbVulrxaK6B_QsRQdNEPFuh",
+          "width": 4656
+        }
+      ],
+      "place_id": "ChIJGRk24C4F9l8RPhOn7Le9pAU",
+      "plus_code": {
+        "compound_code": "WCFX+77 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+77"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

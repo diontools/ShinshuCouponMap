@@ -1,97 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１２",
-        "short_name": "１２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り４丁目１２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.0465224,
-        "lng": 138.1152951
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0478862802915,
-          "lng": 138.1165381802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り４丁目１２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0465224,
+          "lng": 138.1152951
         },
-        "southwest": {
-          "lat": 36.0451883197085,
-          "lng": 138.1138402197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04788712989273,
+            "lng": 138.1165390298927
+          },
+          "southwest": {
+            "lat": 36.04518747010729,
+            "lng": 138.1138393701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJIWu6K7JVHGARRIE8LWYEoIg",
-    "plus_code": {
-      "compound_code": "24W8+J4 長野県諏訪市",
-      "global_code": "8Q8W24W8+J4"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0027 長野県諏訪市湖岸通り４丁目１２−１",
+      "place_id": "ChIJIWu6K7JVHGARRIE8LWYEoIg",
+      "plus_code": {
+        "compound_code": "24W8+J4 諏訪市、長野県",
+        "global_code": "8Q8W24W8+J4"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

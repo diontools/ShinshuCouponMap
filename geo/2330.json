@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１",
-        "short_name": "１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "平田東",
-        "short_name": "平田東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0014",
-        "short_name": "399-0014",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0014 長野県松本市平田東２丁目１０−１１",
-    "geometry": {
-      "location": {
-        "lat": 36.1943059,
-        "lng": 137.9657736
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1957162802915,
-          "lng": 137.9672065802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0014 長野県松本市平田東２丁目１０−１１",
+      "geometry": {
+        "location": {
+          "lat": 36.1943059,
+          "lng": 137.9657736
         },
-        "southwest": {
-          "lat": 36.1930183197085,
-          "lng": 137.9645086197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.19571712989271,
+            "lng": 137.9672074298927
+          },
+          "southwest": {
+            "lat": 36.19301747010727,
+            "lng": 137.9645077701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ57JsjgsPHWARmfRA2KuP8kE",
-    "plus_code": {
-      "compound_code": "5XV8+P8 日本、長野県松本市",
-      "global_code": "8Q8V5XV8+P8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "からあげセンター松本平田店",
+      "photos": [
+        {
+          "height": 2863,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101419187440319120779\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA8VkWAasYYjKo-vP-R0QUHhBXUSgyJq2hEpk3CHZDfuNiFH6Ded4ZN95Ujvs_MbarKZV1f-xEA0_mGYbmjGfK34O10KwM-9eMC9SobsiU-MKICC7PbJhtA1KHe4xlz42M7_UHgDrjovFbokdxcDwP-V3KvxfVumlRmfop3qWgMEm8z",
+          "width": 4295
+        }
+      ],
+      "place_id": "ChIJ57JsjgsPHWARmfRA2KuP8kE",
+      "plus_code": {
+        "compound_code": "5XV8+P8 松本市、長野県",
+        "global_code": "8Q8V5XV8+P8"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

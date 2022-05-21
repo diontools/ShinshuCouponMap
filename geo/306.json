@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１８１２１",
-        "short_name": "１８１２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "小赤沢",
-        "short_name": "小赤沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "栄村",
-        "short_name": "栄村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下水内郡",
-        "short_name": "下水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "949-8321",
-        "short_name": "949-8321",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒949-8321 長野県下水内郡栄村小赤沢１８１２１",
-    "geometry": {
-      "location": {
-        "lat": 36.863757,
-        "lng": 138.636039
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.86505733029149,
-          "lng": 138.6374697302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒949-8321 長野県下水内郡栄村小赤沢１８１２１",
+      "geometry": {
+        "location": {
+          "lat": 36.863757,
+          "lng": 138.636039
         },
-        "southwest": {
-          "lat": 36.86235936970849,
-          "lng": 138.6347717697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.86505817989272,
+            "lng": 138.6374705798927
+          },
+          "southwest": {
+            "lat": 36.86235852010728,
+            "lng": 138.6347709201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0-QGpM34HWARgvtW0SkZ7Hk",
-    "plus_code": {
-      "compound_code": "VJ7P+GC 日本、長野県栄村",
-      "global_code": "8Q8WVJ7P+GC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "丸山荘",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103560984087594247425\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECy5MQ_Xn4i-rWAE3gSkq445e7lIZ-pXg22h0J7Y7GwkzE4LyvBdflQDssUTbgqbvo1q17K3CdInnqWFll54kRBYECNF7rs4uhikk5XcCdvB9hffhRn_FnRufACCq7OtfolvBTDfuDBlyPNm7hwpInw3PTnCJGEDxbkNaT-R2nZE2M8",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ0-QGpM34HWARgvtW0SkZ7Hk",
+      "plus_code": {
+        "compound_code": "VJ7P+GC 栄村、長野県",
+        "global_code": "8Q8WVJ7P+GC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

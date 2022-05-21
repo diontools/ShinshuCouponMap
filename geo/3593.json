@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0015 長野県諏訪市中洲２０４ 社乃風",
+      "geometry": {
+        "location": {
+          "lat": 35.9998463,
+          "lng": 138.118945
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 36.00124267989271,
+            "lng": 138.1202158298927
+          },
+          "southwest": {
+            "lat": 35.99854302010727,
+            "lng": 138.1175161701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "MOCO EMAKI",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103596687167959819056\">坂元一成</a>"
+          ],
+          "photo_reference": "Aap_uEDe2cB929UAwMWsYv_4jW-Y14smEoKy4rGoOAgfDqpxyCQX2BdHURkVPYpKinKxJDdcjzz4urN-EdPOwWEvrOJgmrUbRno4KfsKkTYQGaUcLmaiCmkLvsCe9uvvgW0bFPSDG8FK6LXduuLPalAN8YSgdJTy2DBbNos39jhE984r_NM",
+          "width": 5504
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJrz0Y__1XHGARvMBe__h0c0o",
+      "plus_code": {
+        "compound_code": "X4X9+WH 諏訪市、長野県",
+        "global_code": "8Q7WX4X9+WH"
+      },
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

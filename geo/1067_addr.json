@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７３４−６",
-        "short_name": "１７３４−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "岩村田",
-        "short_name": "岩村田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0022",
-        "short_name": "385-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0022 長野県佐久市岩村田１７３４−６",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.2693229,
-          "lng": 138.4650496
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒385-0022 長野県佐久市岩村田１７３４−６",
+      "geometry": {
+        "location": {
+          "lat": 36.2692712,
+          "lng": 138.464925
         },
-        "southwest": {
-          "lat": 36.2691418,
-          "lng": 138.4648374
+        "viewport": {
+          "northeast": {
+            "lat": 36.27064347989272,
+            "lng": 138.4663918298927
+          },
+          "southwest": {
+            "lat": 36.26794382010728,
+            "lng": 138.4636921701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2692712,
-        "lng": 138.464925
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2705813302915,
-          "lng": 138.4663471802915
-        },
-        "southwest": {
-          "lat": 36.2678833697085,
-          "lng": 138.4636492197085
-        }
-      }
-    },
-    "place_id": "ChIJ8XLS4HHLHWARQQqDGLKne3E",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒385-0022 長野県佐久市岩村田１７３４−６",
+      "place_id": "ChIJ8XLS4HHLHWARQQqDGLKne3E",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

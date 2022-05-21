@@ -1,89 +1,87 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４３７−１",
-        "short_name": "４４３７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "古海",
-        "short_name": "古海",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1302",
-        "short_name": "389-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海４４３７−１",
-    "geometry": {
-      "location": {
-        "lat": 36.8344492,
-        "lng": 138.2420186
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.83580568029149,
-          "lng": 138.2433783302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海４４３７−１",
+      "geometry": {
+        "location": {
+          "lat": 36.8344492,
+          "lng": 138.2420186
         },
-        "southwest": {
-          "lat": 36.83310771970849,
-          "lng": 138.2406803697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.83580652989272,
+            "lng": 138.2433791798927
+          },
+          "southwest": {
+            "lat": 36.83310687010728,
+            "lng": 138.2406795201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Naturance(ナチュランス )",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103372307076750923776\">りーほー</a>"
+          ],
+          "photo_reference": "Aap_uEAxYLmrirgx-yK5Q1x6ljZQEoNvo5pHjKxwKzuK2lqEosh7t4sr20vyYBV1hhPyR_ubVyOoMuymI3CzUV1F3fGQ4xwZmYK0FWKvSb2TY2KZUwtvZtjrtL7CtH6fDGUW5Ja37NBHCixn-aZzkTJgpnW8_U-F6dxvzRVJvazjvBy_7tGH",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJEUHLVWgj9l8R4s59u2AWsTU",
+      "plus_code": {
+        "compound_code": "R6MR+QR 信濃町、長野県",
+        "global_code": "8Q8WR6MR+QR"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJEUHLVWgj9l8R4s59u2AWsTU",
-    "plus_code": {
-      "compound_code": "R6MR+QR 日本、長野県信濃町",
-      "global_code": "8Q8WR6MR+QR"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海",
+      "geometry": {
+        "location": {
+          "lat": 36.8345461,
+          "lng": 138.242086
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.83587547989272,
+            "lng": 138.2434076798927
+          },
+          "southwest": {
+            "lat": 36.83317582010727,
+            "lng": 138.2407080201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Naturance 野尻湖ベース",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108867791723948893611\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDa61VcledhmWE3lW7mKcgk52jsyqaquS39TuE_stQ3pD3TUxhUJ84ZCls0V1UkAmbjfcscSY7pEY0CNLmNedUehlKSw8C4Soe5chs_Pq046VrTxX-y0bDLmRsrerY-esViqUZejSJeidvGfgLDRZhkNuvGxc3NsEA5b3tDm5ARU6S-",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJW3kN9v0i9l8R_9XjMgwdtXA",
+      "plus_code": {
+        "compound_code": "R6MR+RR 信濃町、長野県",
+        "global_code": "8Q8WR6MR+RR"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

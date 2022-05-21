@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３８８−１２",
-        "short_name": "２３８８−１２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "古海",
-        "short_name": "古海",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1302",
-        "short_name": "389-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海２３８８−１２",
-    "geometry": {
-      "location": {
-        "lat": 36.8497423,
-        "lng": 138.2515165
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8509991802915,
-          "lng": 138.2528975802915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海２３８８−１２",
+      "geometry": {
+        "location": {
+          "lat": 36.8497423,
+          "lng": 138.2515165
         },
-        "southwest": {
-          "lat": 36.8483012197085,
-          "lng": 138.2501996197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85100002989272,
+            "lng": 138.2528984298927
+          },
+          "southwest": {
+            "lat": 36.84830037010727,
+            "lng": 138.2501987701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJA5LfPpkj9l8RGHw7TAQmmYA",
-    "plus_code": {
-      "compound_code": "R7X2+VJ 日本、長野県信濃町",
-      "global_code": "8Q8WR7X2+VJ"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "White Tree Cafe & bar",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117210260431163804346\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEANB7fK9UphJ84dNAGB0GgS_VYV69e7BoMpP7Fn_JIE9Z0Zw_h9gmmJdHdkVc0hMwh1Fzf_Arc_-RXPJZyrzh1qYhEk_FSc2UNbayIO6KmBlQsobO1CbYz7Hqm-IVJxQgwdTj4_qNW9wVxCQJ9jQFX_lQLXo_6eLJz7m7kRyqlJRfUB",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJA5LfPpkj9l8RGHw7TAQmmYA",
+      "plus_code": {
+        "compound_code": "R7X2+VJ 信濃町、長野県",
+        "global_code": "8Q8WR7X2+VJ"
+      },
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

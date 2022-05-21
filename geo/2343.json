@@ -1,117 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "ホテルブエナビスタ カフェ＆ダイニング ラ・カフェテラサ",
-        "short_name": "ホテルブエナビスタ カフェ＆ダイニング ラ・カフェテラサ",
-        "types": [
-          "cafe",
-          "establishment",
-          "food",
-          "park",
-          "point_of_interest",
-          "restaurant",
-          "store"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "本庄",
-        "short_name": "本庄",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0814",
-        "short_name": "390-0814",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0814 長野県松本市本庄１丁目２−１ ホテルブエナビスタ カフェ＆ダイニング ラ・カフェテラサ",
-    "geometry": {
-      "location": {
-        "lat": 36.2276671,
-        "lng": 137.9680739
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2290111802915,
-          "lng": 137.9691355802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0814 長野県松本市本庄１丁目２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2276671,
+          "lng": 137.9680739
         },
-        "southwest": {
-          "lat": 36.2263132197085,
-          "lng": 137.9664376197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.22901202989271,
+            "lng": 137.9691364298927
+          },
+          "southwest": {
+            "lat": 36.22631237010727,
+            "lng": 137.9664367701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZ3FNMPMOHWARigyp9qlBbyI",
-    "plus_code": {
-      "compound_code": "6XH9+36 日本、長野県松本市",
-      "global_code": "8Q8V6XH9+36"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "park",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "ホテルブエナビスタ カフェ＆ダイニング ラ・カフェテラサ",
+      "photos": [
+        {
+          "height": 1067,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103207673879280826332\">ブエナビスタラ・カフェテラサ−カフェダイニング</a>"
+          ],
+          "photo_reference": "Aap_uEBVG4zSzdu1DPL15VpXzyTmQzy5M6NxSABrE6O90Fz0z1wT_2jqLlGIMVr8XK4Dw7XZI0SOhWRXvgFeO_BqiKQL5C4GDmiewp0hSvhZp-bgg2mPZ_DbPa1Xz0VQkS_K9BTruy1GfCwo_T-mMxwPRrivMbahSpyH1-gLxggmzAXs9lSQ",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJZ3FNMPMOHWARigyp9qlBbyI",
+      "plus_code": {
+        "compound_code": "6XH9+36 松本市、長野県",
+        "global_code": "8Q8V6XH9+36"
+      },
+      "types": [
+        "cafe",
+        "park",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４４２−３",
-        "short_name": "３４４２−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北方",
-        "short_name": "北方",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0151",
-        "short_name": "395-0151",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0151 長野県飯田市北方３４４２−３",
-    "geometry": {
-      "location": {
-        "lat": 35.5091813,
-        "lng": 137.7807693
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.51053528029151,
-          "lng": 137.7821036302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0151 長野県飯田市北方３４４２−３",
+      "geometry": {
+        "location": {
+          "lat": 35.5091842,
+          "lng": 137.780761
         },
-        "southwest": {
-          "lat": 35.50783731970851,
-          "lng": 137.7794056697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51053612989273,
+            "lng": 137.7821044798928
+          },
+          "southwest": {
+            "lat": 35.50783647010729,
+            "lng": 137.7794048201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ1Rg-0xmYHGARP2P6ROd45cU",
-    "plus_code": {
-      "compound_code": "GQ5J+M8 長野県飯田市",
-      "global_code": "8Q7VGQ5J+M8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "三和観光農園",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115969071830312074457\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBYhQ6Id9zLQfILsn2E1sl0Zzus9OdI7XIQt6ddSzKcgfQB5kI1dVbA-HLajZLEXsPAsPcfO0lYOoXZFCV9sm9lwaC8eBnOO6A25bJzcVbaea7PRqHpMaIU4pMePI4ffAlP2GQCwvdJDTeHZ92RUX4m9KSbxejn2W_cwJYzH_UeYRrm",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ1Rg-0xmYHGARP2P6ROd45cU",
+      "plus_code": {
+        "compound_code": "GQ5J+M8 飯田市、長野県",
+        "global_code": "8Q7VGQ5J+M8"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９９１−１",
-        "short_name": "９９１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上丸子",
-        "short_name": "上丸子",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0404",
-        "short_name": "386-0404",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0404 長野県上田市上丸子９９１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3226714,
-        "lng": 138.2719432
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.32402363029151,
-          "lng": 138.2732187802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0404 長野県上田市上丸子９９１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3226714,
+          "lng": 138.2719432
         },
-        "southwest": {
-          "lat": 36.32132566970851,
-          "lng": 138.2705208197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32402447989272,
+            "lng": 138.2732196298927
+          },
+          "southwest": {
+            "lat": 36.32132482010728,
+            "lng": 138.2705199701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ23a9KPO6HWARa10xelf9-Zs",
-    "plus_code": {
-      "compound_code": "87FC+3Q 日本、長野県上田市",
-      "global_code": "8Q8W87FC+3Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "grocery_or_supermarket",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "大桂商店",
+      "photos": [
+        {
+          "height": 570,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101310987069362739951\">大桂商店</a>"
+          ],
+          "photo_reference": "Aap_uEDT0XZ-LbxWFOhMwZvfC6JUx3-5XXBhzpD1-8eLj87G5qZ395oV-0zK4xVJf0A-dbZoCbyvpmrYOSaudqLBr91ddn7uF_lLeNMA4wd00AY4WZ7d7RG_uVj-kEbah_ChNrUpaQobNdtDlIutqyPh6H390IpXso42SAdlP5J11LCzHpKm",
+          "width": 1830
+        }
+      ],
+      "place_id": "ChIJ23a9KPO6HWARa10xelf9-Zs",
+      "plus_code": {
+        "compound_code": "87FC+3Q 上田市、長野県",
+        "global_code": "8Q8W87FC+3Q"
+      },
+      "types": [
+        "grocery_or_supermarket",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

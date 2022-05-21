@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５８６−５",
-        "short_name": "２５８６−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "佐野",
-        "short_name": "佐野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0402",
-        "short_name": "381-0402",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町佐野２５８６−５",
-    "geometry": {
-      "location": {
-        "lat": 36.7374241,
-        "lng": 138.4158588
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7388434302915,
-          "lng": 138.4173809302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0402 長野県下高井郡山ノ内町佐野２５８６−５",
+      "geometry": {
+        "location": {
+          "lat": 36.7374241,
+          "lng": 138.4158588
         },
-        "southwest": {
-          "lat": 36.7361454697085,
-          "lng": 138.4146829697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73884427989272,
+            "lng": 138.4173817798927
+          },
+          "southwest": {
+            "lat": 36.73614462010728,
+            "lng": 138.4146821201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAX0XKbz0HWARYlkYSWbTf8w",
-    "plus_code": {
-      "compound_code": "PCP8+X8 日本、長野県山ノ内町",
-      "global_code": "8Q8WPCP8+X8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "湯田中温泉 あぶらや燈千",
+      "photos": [
+        {
+          "height": 428,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117797986332469022722\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB25zhK1X4iwtML6yLAuQCgfCLPB2rFAlZPTNkQvYr-keMjScfvIrKZ8pq67BkH_dU48WKlHA2yqzkmeWS-Kq4q5bQVQHDdkr1nZW3k0jnT0rpI3nBMReQF2KoEEaGaF0ELAfMhAJYPeswAv9Bo_mNClPOqUwceSVPnVwOUFhMoadtA",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJAX0XKbz0HWARYlkYSWbTf8w",
+      "plus_code": {
+        "compound_code": "PCP8+X8 山ノ内町、長野県",
+        "global_code": "8Q8WPCP8+X8"
+      },
+      "types": [
+        "spa",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

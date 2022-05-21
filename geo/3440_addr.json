@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９８９４",
-        "short_name": "９８９４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "落合",
-        "short_name": "落合",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0214",
-        "short_name": "399-0214",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0214 長野県諏訪郡富士見町落合９８９４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9038641,
-          "lng": 138.2396158
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0214 長野県諏訪郡富士見町落合９８９４",
+      "geometry": {
+        "location": {
+          "lat": 35.9038133,
+          "lng": 138.2395666
         },
-        "southwest": {
-          "lat": 35.9037448,
-          "lng": 138.2395169
+        "viewport": {
+          "northeast": {
+            "lat": 35.90527367989272,
+            "lng": 138.2409267798927
+          },
+          "southwest": {
+            "lat": 35.90257402010728,
+            "lng": 138.2382271201073
+          }
         }
       },
-      "location": {
-        "lat": 35.9038133,
-        "lng": 138.2395666
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9052385802915,
-          "lng": 138.2409153302915
-        },
-        "southwest": {
-          "lat": 35.9025406197085,
-          "lng": 138.2382173697085
-        }
-      }
-    },
-    "place_id": "ChIJYdVOsjJDHGARwGABJcLVQT4",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-0214 長野県諏訪郡富士見町落合９８９４",
+      "place_id": "ChIJYdVOsjJDHGARwGABJcLVQT4",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

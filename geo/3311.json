@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４８２",
-        "short_name": "４８２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "栗林",
-        "short_name": "栗林",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "東伊那",
-        "short_name": "東伊那",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "駒ヶ根市",
-        "short_name": "駒ヶ根市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4321",
-        "short_name": "399-4321",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4321 長野県駒ヶ根市東伊那栗林４８２",
-    "geometry": {
-      "location": {
-        "lat": 35.7444628,
-        "lng": 137.9896417
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7459380802915,
-          "lng": 137.9909374802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4321 長野県駒ヶ根市東伊那栗林４８２",
+      "geometry": {
+        "location": {
+          "lat": 35.7444843,
+          "lng": 137.9896058
         },
-        "southwest": {
-          "lat": 35.7432401197085,
-          "lng": 137.9882395197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.74593892989272,
+            "lng": 137.9909383298927
+          },
+          "southwest": {
+            "lat": 35.74323927010727,
+            "lng": 137.9882386701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpcn8TrCMHGARm7m388rJALI",
-    "plus_code": {
-      "compound_code": "PXVQ+QV 長野県駒ヶ根市",
-      "global_code": "8Q7VPXVQ+QV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "レストラン菜々ちゃん",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106111876058859582008\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBf0yVgHPhj4NEByRgTzhMhkK2gO90qHOuhaGlrjq9B3RQZzd0xhvRgtZBL2Nbyxaf4VFeMaEG2FMz1UuvU-Se6u0G8dyYdR8RJNGJ592VMLaO3fs03F2R4mq4skhOsvX8yfmfLJvrCzAOY2gJ2bFXuchYXP0J2s62bl13rMCEQE-0o",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJpcn8TrCMHGARm7m388rJALI",
+      "plus_code": {
+        "compound_code": "PXVQ+QV 駒ヶ根市、長野県",
+        "global_code": "8Q7VPXVQ+QV"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

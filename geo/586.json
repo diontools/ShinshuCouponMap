@@ -1,64 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県千曲市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0023 長野県千曲市八幡",
+      "geometry": {
+        "location": {
+          "lat": 36.517823,
+          "lng": 138.1027287
         },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+        "viewport": {
+          "northeast": {
+            "lat": 36.51917252989272,
+            "lng": 138.1039950298927
+          },
+          "southwest": {
+            "lat": 36.51647287010728,
+            "lng": 138.1012953701072
+          }
         }
       },
-      "location": {
-        "lat": 36.5338864,
-        "lng": 138.119971
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
-        },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "元祖うづら餅 うづらや",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105969467058615729634\">東日本太郎</a>"
+          ],
+          "photo_reference": "Aap_uEBsK7ZOmk-cWZy6i3-G2P48irxLY2xVW9wixxm7GUDBtGFEgEAVG3196R0-JbGepw_VNFPjlj0wkNip_qrrznNWt8-NK72om7uaSJpHstRaDNiunUDbu7k6DQbd8NssatRkSZJwtQ0yxLlcLSys7pmh8tnNYa0o1QRkQS_6rON0g7NL",
+          "width": 2880
         }
-      }
+      ],
+      "place_id": "ChIJAQCV3zSdHWAR-lhK4ph7dts",
+      "plus_code": {
+        "compound_code": "G493+44 千曲市、長野県",
+        "global_code": "8Q8WG493+44"
+      },
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJQfuLuhydHWARe_teCWFmml0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0023 長野県千曲市八幡３０６７",
+      "geometry": {
+        "location": {
+          "lat": 36.5177786,
+          "lng": 138.1021941
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.51911687989271,
+            "lng": 138.1035428798927
+          },
+          "southwest": {
+            "lat": 36.51641722010727,
+            "lng": 138.1008432201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルうづらや",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103829449360456441641\">shoko yamamura</a>"
+          ],
+          "photo_reference": "Aap_uEA6oIEv2LXJQ9q4_hDajog0MKcg_7aoswfh-PKiY31uu6RUc7DWNuBTCTlQZX_Y5GOLleyMIL2p6qN47glWin1q1jXfRk3qp3mio_Bi0Nr1jis6fDYyanjd-nR5LDzDFGB0SpWn0QgURaLpVTYjnPplVJ9KmghpBBwaWZZKBM9uRYs",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJA3SSJDWdHWARvFSIwc5tBv4",
+      "plus_code": {
+        "compound_code": "G492+4V 千曲市、長野県",
+        "global_code": "8Q8WG492+4V"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

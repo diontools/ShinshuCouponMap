@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３９０",
-        "short_name": "３９０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大河原",
-        "short_name": "大河原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大鹿村",
-        "short_name": "大鹿村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3502",
-        "short_name": "399-3502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3502 長野県下伊那郡大鹿村大河原３９０",
-    "geometry": {
-      "location": {
-        "lat": 35.5651415,
-        "lng": 138.037482
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5666242302915,
-          "lng": 138.0388819302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3502 長野県下伊那郡大鹿村大河原３９０",
+      "geometry": {
+        "location": {
+          "lat": 35.5651415,
+          "lng": 138.037482
         },
-        "southwest": {
-          "lat": 35.5639262697085,
-          "lng": 138.0361839697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.56662507989272,
+            "lng": 138.0388827798927
+          },
+          "southwest": {
+            "lat": 35.56392542010727,
+            "lng": 138.0361831201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJt06kqgGHHGARH2O8aoAG6Uk",
-    "plus_code": {
-      "compound_code": "H28P+3X 長野県大鹿村",
-      "global_code": "8Q7WH28P+3X"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 歌舞伎の里大鹿",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116845511550808137767\">伊藤正剛</a>"
+          ],
+          "photo_reference": "Aap_uEB5T8i7o1nPvvtnzW9ZJRs7CPHKtf-TYUZ83rmilodrIw5gvmxWAxnKKfKXGYbcMsI8uIyHTGYZfKcoZoA1bv1MrprRGIjcJPH05I3mdaKXIMGLA_gsp1bOfeo2GbbPL6xNucRMxd80lgg_q7Ywxmpv8Llm-jYvTQVOsAwook9QT9CO",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJt06kqgGHHGARH2O8aoAG6Uk",
+      "plus_code": {
+        "compound_code": "H28P+3X 大鹿村、長野県",
+        "global_code": "8Q7WH28P+3X"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

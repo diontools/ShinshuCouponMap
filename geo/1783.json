@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６６８７−５",
-        "short_name": "６６８７−５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "三郷小倉",
-        "short_name": "三郷小倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8103",
-        "short_name": "399-8103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8103 長野県安曇野市三郷小倉６６８７−５",
-    "geometry": {
-      "location": {
-        "lat": 36.2475734,
-        "lng": 137.8501648
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2489993302915,
-          "lng": 137.8514671802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8103 長野県安曇野市三郷小倉６６８７−５",
+      "geometry": {
+        "location": {
+          "lat": 36.2475734,
+          "lng": 137.8501648
         },
-        "southwest": {
-          "lat": 36.2463013697085,
-          "lng": 137.8487692197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24900017989273,
+            "lng": 137.8514680298927
+          },
+          "southwest": {
+            "lat": 36.24630052010728,
+            "lng": 137.8487683701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMwBxG2cTHWARxCKyxIAaK_8",
-    "plus_code": {
-      "compound_code": "6VX2+23 日本、長野県安曇野市",
-      "global_code": "8Q8V6VX2+23"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "安曇野ワイナリー",
+      "photos": [
+        {
+          "height": 1430,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103467325008546121872\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDBMjcPAS3gJtOlyaIHwNiCYOZL-PcVq82XNe2LGl1JNl7frWeYAUit4YSXsfq_kufxVS_dwyz2qEdGKn-DA8hZIY-jz5h_p0FINPqbjb2y7ciwT8whpOp4cUzAcNnjdtA08z7KJ1r3vvJLiH761lzBPy7A8Y8a1KOvveZwEBFp1BAN",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJMwBxG2cTHWARxCKyxIAaK_8",
+      "plus_code": {
+        "compound_code": "6VX2+23 安曇野市、長野県",
+        "global_code": "8Q8V6VX2+23"
+      },
+      "types": [
+        "tourist_attraction",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

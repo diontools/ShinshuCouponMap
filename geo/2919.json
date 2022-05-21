@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小黒川",
-        "short_name": "小黒川",
-        "types": [
-          "establishment",
-          "natural_feature"
-        ]
-      },
-      {
-        "long_name": "伊那市",
-        "short_name": "伊那市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県伊那市 小黒川",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.8445523,
-          "lng": 137.9515096
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒396-0026 長野県伊那市伊那 ますみケ丘269",
+      "geometry": {
+        "location": {
+          "lat": 35.84116789999999,
+          "lng": 137.9325004
         },
-        "southwest": {
-          "lat": 35.8106097,
-          "lng": 137.8328517
+        "viewport": {
+          "northeast": {
+            "lat": 35.84251772989271,
+            "lng": 137.9338502298927
+          },
+          "southwest": {
+            "lat": 35.83981807010727,
+            "lng": 137.9311505701072
+          }
         }
       },
-      "location": {
-        "lat": 35.82758101120385,
-        "lng": 137.8921806348525
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8445523,
-          "lng": 137.9515096
-        },
-        "southwest": {
-          "lat": 35.8106097,
-          "lng": 137.8328517
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "小黒川PA (上り)",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104637536159833639481\">しまえびほっかい</a>"
+          ],
+          "photo_reference": "Aap_uEBcrW0ZlMn5krinwhCmOvBSc0DHfGoWuEwzTEXBbLip1x8g1fDUU3T27gbmjsTQfgCkE8tQBBHcKI2JPpwqR8-JiM_4VbgCfOeTub0oJuC-dXw3sLSoXwhyPunoR_qiRHxEvRILMpOZyLyBzZcG6d3VBOYbEQh0tuMOHO31sW4biegc",
+          "width": 1920
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJv-TMDcTvHGARnkP7GG75vfw",
-    "types": [
-      "establishment",
-      "natural_feature"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJyRqjxDHwHGARjzGMuasAW9Y",
+      "plus_code": {
+        "compound_code": "RWRM+F2 伊那市、長野県",
+        "global_code": "8Q7VRWRM+F2"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

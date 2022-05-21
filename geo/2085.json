@@ -1,94 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目３",
-    "geometry": {
-      "location": {
-        "lat": 36.2295035,
-        "lng": 137.9663478
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23089168029151,
-          "lng": 137.9676176802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目３",
+      "geometry": {
+        "location": {
+          "lat": 36.2295034,
+          "lng": 137.9663778
         },
-        "southwest": {
-          "lat": 36.22819371970851,
-          "lng": 137.9649197197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23089252989272,
+            "lng": 137.9676185298927
+          },
+          "southwest": {
+            "lat": 36.22819287010728,
+            "lng": 137.9649188701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "NAGOMIZA",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117057193529642970027\">根本久</a>"
+          ],
+          "photo_reference": "Aap_uEBJeBdCCXPrDYe7RIeJnpE9pgYGJtbANbVc75cazzhxiz9Zm9GaQvK2-E7vujTPcaWfhLOgGTUtPCelpdBNOFn4GG29h3LVWbk0vwBdYbHyE_tuzu3HItzl2NnS2DcQ7evYBDtklRyRqU4ec1C9bsJbrSg_F4S9uWjlRSUi5y0IQMqV",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJr6XZf4sOHWARA9zuFau_hPY",
+      "plus_code": {
+        "compound_code": "6XH8+RG 松本市、長野県",
+        "global_code": "8Q8V6XH8+RG"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJr6XZf4sOHWARA9zuFau_hPY",
-    "plus_code": {
-      "compound_code": "6XH8+RG 日本、長野県松本市",
-      "global_code": "8Q8V6XH8+RG"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目３−２１ アルピコプラザホテル",
+      "geometry": {
+        "location": {
+          "lat": 36.2296138,
+          "lng": 137.9663997
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23080792989272,
+            "lng": 137.9677072298927
+          },
+          "southwest": {
+            "lat": 36.22810827010728,
+            "lng": 137.9650075701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "アルピコプラザホテル",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102042632687413938662\">Singsir Wong</a>"
+          ],
+          "photo_reference": "Aap_uED_N-jPLyJOXcl0TsS4SCHtxQIKd30PlA9rchalRsBk7mAT1vk8q18iktSfWpa6YybEdrvZNINOOI70eOSbvM99X3vrqn9eN7TiNtJhrZ-DOcatkUNveAMI9Au0skjKhzmHXbykaE2W_hKNGZ-LLaLvrDiMQEA5ugyOrFHs0uJ-_8Vs",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJDSOOgIwOHWARkQLHak0Zjss",
+      "plus_code": {
+        "compound_code": "6XH8+RH 松本市、長野県",
+        "global_code": "8Q8V6XH8+RH"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

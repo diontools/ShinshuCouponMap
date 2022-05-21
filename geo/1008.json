@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１４８１",
-        "short_name": "１４８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "静間",
-        "short_name": "静間",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2255",
-        "short_name": "389-2255",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2255 長野県飯山市静間１４８１",
-    "geometry": {
-      "location": {
-        "lat": 36.8337925,
-        "lng": 138.3561588
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.83501228029149,
-          "lng": 138.3577270302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2255 長野県飯山市静間１４８１",
+      "geometry": {
+        "location": {
+          "lat": 36.8337925,
+          "lng": 138.3561588
         },
-        "southwest": {
-          "lat": 36.8323143197085,
-          "lng": 138.3550290697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.83501312989272,
+            "lng": 138.3577278798927
+          },
+          "southwest": {
+            "lat": 36.83231347010727,
+            "lng": 138.3550282201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJg08T0PWoA2ARn5pwx-dDF7w",
-    "plus_code": {
-      "compound_code": "R9M4+GF 日本、長野県飯山市",
-      "global_code": "8Q8WR9M4+GF"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 新飯山店",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115230233391138367130\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDxMqC4yl9FRbBLQxUYzgPpu78UI3IaLuAVoKF8_CFQj52LemdsSUv4IR2vk4l8HJ5ipV_o9TmqJ50bQKRmAP6RMZE02fe0lVB7FsQ4apzCY8j9WgLckuS_4L6qHnyC4O5fqyV6KKKl0I-TTbZ_2zGBw61ycNw3k9TcZEycrQ0tmmZe",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJg08T0PWoA2ARn5pwx-dDF7w",
+      "plus_code": {
+        "compound_code": "R9M4+GF 飯山市、長野県",
+        "global_code": "8Q8WR9M4+GF"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

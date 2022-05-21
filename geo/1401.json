@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４５２４−１",
-        "short_name": "４５２４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "滋野乙",
-        "short_name": "滋野乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0512",
-        "short_name": "389-0512",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0512 長野県東御市滋野乙４５２４−１",
-    "geometry": {
-      "location": {
-        "lat": 36.35564310000001,
-        "lng": 138.374958
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3570593802915,
-          "lng": 138.3759817302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0512 長野県東御市滋野乙４５２４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.35564310000001,
+          "lng": 138.374958
         },
-        "southwest": {
-          "lat": 36.3543614197085,
-          "lng": 138.3732837697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35706022989272,
+            "lng": 138.3759825798927
+          },
+          "southwest": {
+            "lat": 36.35436057010728,
+            "lng": 138.3732829201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJs8yNWCO4HWARMUL3dJP0-JM",
-    "plus_code": {
-      "compound_code": "994F+7X 日本、長野県東御市",
-      "global_code": "8Q8W994F+7X"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 雷電くるみの里",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102282148161879854421\">道の駅 雷電くるみの里</a>"
+          ],
+          "photo_reference": "Aap_uEB0N_h51JxXMW6MOoleWYPzq-EWXSbU9EKReZYQ47CCPIHVqEs4iGY6VEWDn4YlxNBCrDAPOUNpl2dEfjnFNc6z-5svLbQMYrXH_xb4R8qpyfJDN57QpjPA9ssXTwJpyU4X9t8HOGzZsM3hIBqrQD4XdOIjWOYm9XMSEjZLpBUXMLbY",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJs8yNWCO4HWARMUL3dJP0-JM",
+      "plus_code": {
+        "compound_code": "994F+7X 東御市、長野県",
+        "global_code": "8Q8W994F+7X"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

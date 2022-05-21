@@ -1,85 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７７１−１",
-        "short_name": "７７１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2253 長野県飯山市飯山７７１−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8463704,
-          "lng": 138.3600836
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山７７１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.845121,
+          "lng": 138.3589934
         },
-        "southwest": {
-          "lat": 36.8438878,
-          "lng": 138.3579213
+        "viewport": {
+          "northeast": {
+            "lat": 36.84656317989272,
+            "lng": 138.3605180798927
+          },
+          "southwest": {
+            "lat": 36.84386352010728,
+            "lng": 138.3578184201072
+          }
         }
       },
-      "location": {
-        "lat": 36.845121,
-        "lng": 138.3589934
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8464780802915,
-          "lng": 138.3603514302915
-        },
-        "southwest": {
-          "lat": 36.84378011970851,
-          "lng": 138.3576534697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2253 長野県飯山市飯山７７１−１",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104693403508111418832\">terence Lo</a>"
+          ],
+          "photo_reference": "Aap_uEDrJNXwSjOyuwwTgVGbEDl44KFw-3IdtDYQUkqaBDAqIpMm9ZJO7ClOSgJc_oifMEfPbTmL8aybYT2DqwoSz119sTHp3EpP2bI8xKiLwws7jKV_bTBmvEjFPg8nYTkV8DwL0LxsSrB_izyetm9rq-A_tMqiQgRIV2VGG4X1HE-vJwZo",
+          "width": 3264
         }
-      }
-    },
-    "place_id": "ChIJc-Mj89QY9l8R7OKQPAssCEQ",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJc-Mj89QY9l8R7OKQPAssCEQ",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

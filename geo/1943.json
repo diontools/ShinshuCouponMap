@@ -1,90 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２２７２",
-        "short_name": "２２７２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "木曽平沢",
-        "short_name": "木曽平沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "塩尻市",
-        "short_name": "塩尻市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-6302",
-        "short_name": "399-6302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-6302 長野県塩尻市木曽平沢２２７２−７",
-    "geometry": {
-      "location": {
-        "lat": 35.9862098,
-        "lng": 137.8430763
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9874926802915,
-          "lng": 137.8444851802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-6302 長野県塩尻市木曽平沢２２７２−７",
+      "geometry": {
+        "location": {
+          "lat": 35.9862098,
+          "lng": 137.8430763
         },
-        "southwest": {
-          "lat": 35.9847947197085,
-          "lng": 137.8417872197086
+        "viewport": {
+          "northeast": {
+            "lat": 35.98749352989272,
+            "lng": 137.8444860298928
+          },
+          "southwest": {
+            "lat": 35.98479387010727,
+            "lng": 137.8417863701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3VCyHAgeHWARI7vWCsykbZQ",
-    "plus_code": {
-      "compound_code": "XRPV+F6 日本、長野県塩尻市",
-      "global_code": "8Q7VXRPV+F6"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "道の駅 木曽ならかわ",
+      "photos": [
+        {
+          "height": 619,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115590846629436990339\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBGi1AO38eGBISrqpX2qf9ENmSrJqI63Nhq6hs7j4sbw7hLw36nujGBHto0FiWwToaS-skElvFi02LmcSdPVL6jOvzoyx0Iyrh8GnqyLcKuEtuOyPX0T7AFkigXJlokZlI-y_HrglWZl8oi5v32Z-H9YwcrbaSmszvIbAY7uSYV2pT8",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ3VCyHAgeHWARI7vWCsykbZQ",
+      "plus_code": {
+        "compound_code": "XRPV+F6 塩尻市、長野県",
+        "global_code": "8Q7VXRPV+F6"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

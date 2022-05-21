@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "豊里",
-        "short_name": "豊里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小海町",
-        "short_name": "小海町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1103",
-        "short_name": "384-1103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1103 長野県南佐久郡小海町豊里",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1017133,
-          "lng": 138.4846842
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-1103 長野県南佐久郡小海町豊里",
+      "geometry": {
+        "location": {
+          "lat": 36.0662245,
+          "lng": 138.4437522
         },
-        "southwest": {
-          "lat": 36.0430435,
-          "lng": 138.3666028
+        "viewport": {
+          "northeast": {
+            "lat": 36.1017133,
+            "lng": 138.4846842
+          },
+          "southwest": {
+            "lat": 36.0430435,
+            "lng": 138.3666028
+          }
         }
       },
-      "location": {
-        "lat": 36.0662245,
-        "lng": 138.4437522
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1017133,
-          "lng": 138.4846842
-        },
-        "southwest": {
-          "lat": 36.0430435,
-          "lng": 138.3666028
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "豊里",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115761203513507131628\">shuichi miyawaki</a>"
+          ],
+          "photo_reference": "Aap_uECHOLIDrGTrUbBwg0gkjF-jfHsp_fuFxr9ex6ZPZnwJBbYmieKWeK6kjSktR68ysNAaS1Frth6zE5P05fVfgnlP4ExkRkwHXpVljBmC7JnQIgFAJ6rWJFqkQTPAqLKC6h-5UkOzOo5PUvK1u13QCqKeqBGlPaRs3ejq5nP-plJJ754F",
+          "width": 3648
         }
-      }
-    },
-    "place_id": "ChIJV8CETMo5HGARUEuEHVSL9PY",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJV8CETMo5HGARUEuEHVSL9PY",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

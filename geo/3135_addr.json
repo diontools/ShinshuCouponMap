@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１５８",
-        "short_name": "３１５８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "米沢",
-        "short_name": "米沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0216",
-        "short_name": "391-0216",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0216 長野県茅野市米沢３１５８",
-    "geometry": {
-      "location": {
-        "lat": 36.0265301,
-        "lng": 138.181589
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0278435802915,
-          "lng": 138.1829871302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0216 長野県茅野市米沢３１５８",
+      "geometry": {
+        "location": {
+          "lat": 36.0265301,
+          "lng": 138.181589
         },
-        "southwest": {
-          "lat": 36.0251456197085,
-          "lng": 138.1802891697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.02784442989272,
+            "lng": 138.1829879798927
+          },
+          "southwest": {
+            "lat": 36.02514477010727,
+            "lng": 138.1802883201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJoVGSZRZRHGARKekVH18Kjsc",
-    "plus_code": {
-      "compound_code": "25GJ+JJ 長野県茅野市",
-      "global_code": "8Q8W25GJ+JJ"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0216 長野県茅野市米沢３１５８",
+      "place_id": "ChIJoVGSZRZRHGARKekVH18Kjsc",
+      "plus_code": {
+        "compound_code": "25GJ+JJ 茅野市、長野県",
+        "global_code": "8Q8W25GJ+JJ"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

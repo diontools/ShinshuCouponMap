@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３５２−１",
-        "short_name": "４３５２−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "千国乙",
-        "short_name": "千国乙",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9422",
-        "short_name": "399-9422",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙４３５２−１",
-    "geometry": {
-      "location": {
-        "lat": 36.7673305,
-        "lng": 137.8862713
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7685128802915,
-          "lng": 137.8877175802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-9422 長野県北安曇郡小谷村千国乙４３５２−１",
+      "geometry": {
+        "location": {
+          "lat": 36.7673305,
+          "lng": 137.8862713
         },
-        "southwest": {
-          "lat": 36.7658149197085,
-          "lng": 137.8850196197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.76851372989272,
+            "lng": 137.8877184298927
+          },
+          "southwest": {
+            "lat": 36.76581407010728,
+            "lng": 137.8850187701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJ1eSk_kYz9l8R_5efMml31Gc",
-    "plus_code": {
-      "compound_code": "QV8P+WG 長野県小谷村",
-      "global_code": "8Q8VQV8P+WG"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-9422 長野県北安曇郡小谷村千国乙４３５２−１",
+      "place_id": "ChIJ1eSk_kYz9l8R_5efMml31Gc",
+      "plus_code": {
+        "compound_code": "QV8P+WG 小谷村、長野県",
+        "global_code": "8Q8VQV8P+WG"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８１５６",
-        "short_name": "８１５６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊津",
-        "short_name": "豊津",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "中野市",
-        "short_name": "中野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2101",
-        "short_name": "389-2101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2101 長野県中野市豊津８１５６",
-    "geometry": {
-      "location": {
-        "lat": 36.7937437,
-        "lng": 138.3277705
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7950149802915,
-          "lng": 138.3291285302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2101 長野県中野市豊津８１５６",
+      "geometry": {
+        "location": {
+          "lat": 36.7936237,
+          "lng": 138.3277898
         },
-        "southwest": {
-          "lat": 36.7923170197085,
-          "lng": 138.3264305697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.79501582989272,
+            "lng": 138.3291293298927
+          },
+          "southwest": {
+            "lat": 36.79231617010728,
+            "lng": 138.3264296701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWzPdUVMg9l8Rk6ZOcTTlMGE",
-    "plus_code": {
-      "compound_code": "Q8VH+F4 日本、長野県中野市",
-      "global_code": "8Q8WQ8VH+F4"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "斑尾高原カントリー倶楽部",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106600420752359126162\">tatsuya kawamura</a>"
+          ],
+          "photo_reference": "Aap_uEBU9wIuId2gKTDUaGotw0jq8quXKCHYFo2XIOajxbv51Kj9WNa3Q_tzwh5ACpPLuswGahVGXd5T3C9EICT661eUsDUtZJ_QIiKlW7z_3rBHnxGF1BZx6xBVDI07pWllOtJcBQldHhLeJxdZlDEx3tjG2yXklo7k45jEPjO_H_O9YyU2",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJWzPdUVMg9l8Rk6ZOcTTlMGE",
+      "plus_code": {
+        "compound_code": "Q8VH+F4 中野市、長野県",
+        "global_code": "8Q8WQ8VH+F4"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

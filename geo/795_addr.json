@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３４−６",
-        "short_name": "３３４−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0907",
-        "short_name": "380-0907",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0907 長野県長野市鶴賀３３４−６",
-    "geometry": {
-      "location": {
-        "lat": 36.6421701,
-        "lng": 138.2012871
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.64362878029149,
-          "lng": 138.2026419302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0907 長野県長野市鶴賀３３４−６",
+      "geometry": {
+        "location": {
+          "lat": 36.6421701,
+          "lng": 138.2012871
         },
-        "southwest": {
-          "lat": 36.6409308197085,
-          "lng": 138.1999439697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64362962989273,
+            "lng": 138.2026427798927
+          },
+          "southwest": {
+            "lat": 36.64092997010728,
+            "lng": 138.1999431201072
+          }
         }
-      }
-    },
-    "place_id": "ChIJ9bCfxWKGHWAROVtIMDAGiwY",
-    "plus_code": {
-      "compound_code": "J6R2+VG 長野県長野市",
-      "global_code": "8Q8WJ6R2+VG"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0907 長野県長野市鶴賀３３４−６",
+      "place_id": "ChIJ9bCfxWKGHWAROVtIMDAGiwY",
+      "plus_code": {
+        "compound_code": "J6R2+VG 長野市、長野県",
+        "global_code": "8Q8WJ6R2+VG"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

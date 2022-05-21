@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５５０９",
-        "short_name": "５５０９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2411",
-        "short_name": "389-2411",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2411 長野県飯山市豊田５５０９",
-    "geometry": {
-      "location": {
-        "lat": 36.9316196,
-        "lng": 138.3791672
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9329167802915,
-          "lng": 138.3805443302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2411 長野県飯山市豊田５５０９",
+      "geometry": {
+        "location": {
+          "lat": 36.9316196,
+          "lng": 138.3791672
         },
-        "southwest": {
-          "lat": 36.9302188197085,
-          "lng": 138.3778463697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.93291762989271,
+            "lng": 138.3805451798927
+          },
+          "southwest": {
+            "lat": 36.93021797010727,
+            "lng": 138.3778455201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJnzwaQ3IQ9l8RxZ-em8M7na0",
-    "plus_code": {
-      "compound_code": "W9JH+JM 長野県飯山市",
-      "global_code": "8Q8WW9JH+JM"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2411 長野県飯山市豊田５５０９",
+      "place_id": "ChIJnzwaQ3IQ9l8RxZ-em8M7na0",
+      "plus_code": {
+        "compound_code": "W9JH+JM 飯山市、長野県",
+        "global_code": "8Q8WW9JH+JM"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,64 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り３丁目１−２４",
+      "geometry": {
+        "location": {
+          "lat": 36.0498127,
+          "lng": 138.1134408
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 36.05116432989271,
+            "lng": 138.1147487298927
+          },
+          "southwest": {
+            "lat": 36.04846467010727,
+            "lng": 138.1120490701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "和風居酒屋 山長",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104455417605784119092\">黒うどん山長諏訪店</a>"
+          ],
+          "photo_reference": "Aap_uEB_JU4kX8PZbQqVSzcA5YXu6oM4kZeWMnItZI9CZldLRcF1R6qMngfnia2glNKjMoIJfVsPGgmSIu_V26ZgTF10ZqSDoSbrj8y2UOV5yXkCgmosJYwBE9AZsPlDeOQWkbU8RvDbxSPTvc4RXhtt4yplax7eGEa0y_UouvuP-nu2Y-X3",
+          "width": 3264
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ54uwXq5VHGARD_yZTKywjJQ",
+      "plus_code": {
+        "compound_code": "24X7+W9 諏訪市、長野県",
+        "global_code": "8Q8W24X7+W9"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

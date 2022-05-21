@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７９",
-        "short_name": "２７９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "田中",
-        "short_name": "田中",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0516",
-        "short_name": "389-0516",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0516 長野県東御市田中２７９",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3559587,
-          "lng": 138.327502
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0516 長野県東御市田中２７９",
+      "geometry": {
+        "location": {
+          "lat": 36.3558553,
+          "lng": 138.3273792
         },
-        "southwest": {
-          "lat": 36.3557526,
-          "lng": 138.327275
+        "viewport": {
+          "northeast": {
+            "lat": 36.35716762989272,
+            "lng": 138.3286894298927
+          },
+          "southwest": {
+            "lat": 36.35446797010727,
+            "lng": 138.3259897701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3558553,
-        "lng": 138.3273792
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3572046302915,
-          "lng": 138.3287374802915
-        },
-        "southwest": {
-          "lat": 36.3545066697085,
-          "lng": 138.3260395197085
-        }
-      }
-    },
-    "place_id": "ChIJuUpQE4W5HWARUih2xarHXlQ",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0516 長野県東御市田中２７９",
+      "place_id": "ChIJuUpQE4W5HWARUih2xarHXlQ",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

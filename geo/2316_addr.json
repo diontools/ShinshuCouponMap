@@ -1,82 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1f",
-        "short_name": "1f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "５０６−８",
-        "short_name": "５０６−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南浅間",
-        "short_name": "南浅間",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0306",
-        "short_name": "390-0306",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0306 長野県松本市南浅間５０６−８ 1f",
-    "geometry": {
-      "location": {
-        "lat": 36.2544039,
-        "lng": 137.98376
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2557198802915,
-          "lng": 137.9851030802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0306 長野県松本市南浅間５０６−８ 1f",
+      "geometry": {
+        "location": {
+          "lat": 36.2544039,
+          "lng": 137.98376
         },
-        "southwest": {
-          "lat": 36.2530219197085,
-          "lng": 137.9824051197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.25572072989272,
+            "lng": 137.9851039298927
+          },
+          "southwest": {
+            "lat": 36.25302107010728,
+            "lng": 137.9824042701073
+          }
         }
-      }
-    },
-    "place_id": "EjgxZiwgNTA2LTggTWluYW1pYXNhbWEsIE1hdHN1bW90bywgTmFnYW5vIDM5MC0wMzA2LCBKYXBhbiIeGhwKFgoUChIJP9Kysh8MHWAR9BtbjHxHvLYSAjFm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "1f",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108951132508897283024\">宮坂昇</a>"
+          ],
+          "photo_reference": "Aap_uEAWkoWp3c79C2uOPE2al-LnGivZmjvNHiaeZvyWe5FbEUU3P5rGB4x5KcbCKW5LI-3qw5ctJ3ycAr52k-HDcSoK-u7A2IWL_8DuPlVpOqrJCm0kqQRUE_pN92Bg7pHYxMTUH1NZ7cmuObd7g29fLLK8Zi63r3ecRpWTflkuKhBt07X8",
+          "width": 2160
+        }
+      ],
+      "place_id": "EkLml6XmnKzjgIHjgJIzOTAtMDMwNiDplbfph47nnIzmnb7mnKzluILljZfmtYXplpPvvJXvvJDvvJbiiJLvvJggMWYiHhocChYKFAoSCT_SsrIfDB1gEfQbW4x8R7y2EgIxZg",
+      "types": [
+        "subpremise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

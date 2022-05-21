@@ -1,79 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "王滝村",
-        "short_name": "王滝村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0201",
-        "short_name": "397-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9054781,
-          "lng": 137.6251478
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村3297６",
+      "geometry": {
+        "location": {
+          "lat": 35.814219,
+          "lng": 137.55618
         },
-        "southwest": {
-          "lat": 35.7087132,
-          "lng": 137.3243378
+        "viewport": {
+          "northeast": {
+            "lat": 35.81562322989272,
+            "lng": 137.5575141798927
+          },
+          "southwest": {
+            "lat": 35.81292357010727,
+            "lng": 137.5548145201072
+          }
         }
       },
-      "location": {
-        "lat": 35.809316,
-        "lng": 137.5508923
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9054781,
-          "lng": 137.6251478
-        },
-        "southwest": {
-          "lat": 35.7087132,
-          "lng": 137.3243378
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "くるみ沢旅館",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117085164541984071396\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA8AMsqHtjsO6L7hpXmZBpEK3NKFP_ziAblUxo68I8f0Na7nuhQks7jdePQgxxUQRm76q1CBlsDe3FYlDpI8mqay5mI5wF4Bq4XPobTjtQNoBDsI8EOh1u9d9rslaVIVrpCzko6Up-6jcLfypbXYCEk87BAnZrvl0fu5YLfWnjKZYXB",
+          "width": 3024
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJUf5ZDW_VHGAR7FVwY-FGkiY",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJaZi_cffWHGARhJHxZi93VCQ",
+      "plus_code": {
+        "compound_code": "RH74+MF 王滝村、長野県",
+        "global_code": "8Q7VRH74+MF"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

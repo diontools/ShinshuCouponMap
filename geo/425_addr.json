@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４８９",
-        "short_name": "２４８９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "赤塩",
-        "short_name": "赤塩",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯綱町",
-        "short_name": "飯綱町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1203",
-        "short_name": "389-1203",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1203 長野県上水内郡飯綱町赤塩２４８９",
-    "geometry": {
-      "location": {
-        "lat": 36.7680077,
-        "lng": 138.2853613
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7692650802915,
-          "lng": 138.2863732302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-1203 長野県上水内郡飯綱町赤塩２４８９",
+      "geometry": {
+        "location": {
+          "lat": 36.7680077,
+          "lng": 138.2853613
         },
-        "southwest": {
-          "lat": 36.7665671197085,
-          "lng": 138.2836752697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.76926592989272,
+            "lng": 138.2863740798927
+          },
+          "southwest": {
+            "lat": 36.76656627010728,
+            "lng": 138.2836744201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJMf7VdC4n9l8RQx6HRMwhgrE",
-    "plus_code": {
-      "compound_code": "Q79P+64 長野県飯綱町",
-      "global_code": "8Q8WQ79P+64"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-1203 長野県上水内郡飯綱町赤塩２４８９",
+      "place_id": "ChIJMf7VdC4n9l8RQx6HRMwhgrE",
+      "plus_code": {
+        "compound_code": "Q79P+64 飯綱町、長野県",
+        "global_code": "8Q8WQ79P+64"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

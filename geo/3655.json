@@ -1,94 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０",
-        "short_name": "３０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "松尾町",
-        "short_name": "松尾町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0042",
-        "short_name": "395-0042",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0042 長野県飯田市松尾町２丁目３０",
-    "geometry": {
-      "location": {
-        "lat": 35.515903,
-        "lng": 137.825452
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5172345802915,
-          "lng": 137.8268355302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0042 長野県飯田市松尾町２丁目３０",
+      "geometry": {
+        "location": {
+          "lat": 35.515903,
+          "lng": 137.825452
         },
-        "southwest": {
-          "lat": 35.5145366197085,
-          "lng": 137.8241375697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.51723542989272,
+            "lng": 137.8268363798927
+          },
+          "southwest": {
+            "lat": 35.51453577010728,
+            "lng": 137.8241367201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJhXKzTJSZHGARxPoQYhHHJi8",
-    "plus_code": {
-      "compound_code": "GR8G+95 長野県飯田市",
-      "global_code": "8Q7VGR8G+95"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "萬房",
+      "photos": [
+        {
+          "height": 2908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110068882522828182979\">mitsutaka suganuma</a>"
+          ],
+          "photo_reference": "Aap_uEA6kvykj_nT-H12PxsI1Nm57mbYvfByW7V_X6PGoZw9kLBAMOjGwJyXlgO9V8bvbuPTDsNR30pOgpTRipgXGzc5KfifgbMMIxVpSfI7pEt3NQ7y1Yh-AJSkyF_ZBFj50P2xzw_CGNkCz7LfrVGTOLq5kiOAEC3RRjuI-DWOJmIKsYqD",
+          "width": 3877
+        }
+      ],
+      "place_id": "ChIJhXKzTJSZHGARxPoQYhHHJi8",
+      "plus_code": {
+        "compound_code": "GR8G+95 飯田市、長野県",
+        "global_code": "8Q7VGR8G+95"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

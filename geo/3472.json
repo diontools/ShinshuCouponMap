@@ -1,104 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０",
-        "short_name": "３０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "湖岸通り",
-        "short_name": "湖岸通り",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0027",
-        "short_name": "392-0027",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り３丁目１−３０",
-    "geometry": {
-      "location": {
-        "lat": 36.0504424,
-        "lng": 138.1131938
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0518283302915,
-          "lng": 138.1143693802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り３丁目１−３０",
+      "geometry": {
+        "location": {
+          "lat": 36.0504517,
+          "lng": 138.1129476
         },
-        "southwest": {
-          "lat": 36.0491303697085,
-          "lng": 138.1116714197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.05182917989271,
+            "lng": 138.1143702298928
+          },
+          "southwest": {
+            "lat": 36.04912952010727,
+            "lng": 138.1116705701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJi7qe5K5VHGARKjj8xm-RRYY",
-    "plus_code": {
-      "compound_code": "3427+57 長野県諏訪市",
-      "global_code": "8Q8W3427+57"
-    },
-    "types": [
-      "bakery",
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "くらすわ",
+      "photos": [
+        {
+          "height": 1067,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115886175243768571727\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAZ7-0f3uQDR4f3D-OLc-yFxpzmbPR8BNzaosfN5TlsJ3r-2gn_QGMlNIzARgySQnniT84L3K3CfApaXvSBUmOZZxg0DrlY2-SkEjPHmUbM3cky5FB2nr-JhSud5T368J2jDkYJtB3I-Tz6bGBKl3ryga8pfII4DTYLkeHYryuud1hu",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJi7qe5K5VHGARKjj8xm-RRYY",
+      "plus_code": {
+        "compound_code": "3427+57 諏訪市、長野県",
+        "global_code": "8Q8W3427+57"
+      },
+      "types": [
+        "restaurant",
+        "bakery",
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

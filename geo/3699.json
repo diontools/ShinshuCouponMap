@@ -1,133 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県飯田市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0041 長野県飯田市中央通り１丁目６",
+      "geometry": {
+        "location": {
+          "lat": 35.5162704,
+          "lng": 137.8267965
         },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+        "viewport": {
+          "northeast": {
+            "lat": 35.51759107989272,
+            "lng": 137.8281131298927
+          },
+          "southwest": {
+            "lat": 35.51489142010728,
+            "lng": 137.8254134701073
+          }
         }
       },
-      "location": {
-        "lat": 35.51487,
-        "lng": 137.8217006
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.655717,
-          "lng": 138.1530655
-        },
-        "southwest": {
-          "lat": 35.253339,
-          "lng": 137.6892207
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "信濃屋中央通り店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115441846133578989000\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB39SmsTzB0xTgfvGGkRdv2_V_Hiclm9znIEo8UpnWrMhRFVmw1HymKt9-3f6u1DdJ9HtWBeQpXvFRG7xef1V-mzvmswJVgitJvW0oXg-PVDRl2KVP5iATgGgPpdQG4o37HPM0w8U7R46H8BRXApLINVuFE-v0CM_YM5FIVHeimvqJL",
+          "width": 1960
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNeX_xjSdHGARxqitnTSMRU4",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "中央通り",
-        "short_name": "中央通り",
-        "types": [
-          "route"
-        ]
+      ],
+      "place_id": "ChIJo6f_apSZHGARoVzA6ED0CeY",
+      "plus_code": {
+        "compound_code": "GR8G+GP 飯田市、長野県",
+        "global_code": "8Q7VGR8G+GP"
       },
-      {
-        "long_name": "東京",
-        "short_name": "東京",
-        "types": [
-          "colloquial_area",
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東京都",
-        "short_name": "東京都",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、東京都東京 中央通り",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.7137093,
-          "lng": 139.7779881
-        },
-        "southwest": {
-          "lat": 35.66419339999999,
-          "lng": 139.7575412
-        }
-      },
-      "location": {
-        "lat": 35.6712206,
-        "lng": 139.765035
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7137093,
-          "lng": 139.7779881
-        },
-        "southwest": {
-          "lat": 35.66419339999999,
-          "lng": 139.7575412
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJl2aYIQGMGGAR6QfA1mWs-FY",
-    "types": [
-      "route"
-    ]
-  }
-]
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "４丁目",
-        "short_name": "４丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大手",
-        "short_name": "大手",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0874",
-        "short_name": "390-0874",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目１０−１７",
-    "geometry": {
-      "location": {
-        "lat": 36.236513,
-        "lng": 137.971976
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2377921302915,
-          "lng": 137.9733091802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0874 長野県松本市大手４丁目１０−１７",
+      "geometry": {
+        "location": {
+          "lat": 36.2364507,
+          "lng": 137.9719591
         },
-        "southwest": {
-          "lat": 36.2350941697085,
-          "lng": 137.9706112197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23779297989272,
+            "lng": 137.9733100298927
+          },
+          "southwest": {
+            "lat": 36.23509332010727,
+            "lng": 137.9706103701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8-BAmZEOHWARj51nj1nR8gc",
-    "plus_code": {
-      "compound_code": "6XPC+JQ 日本、長野県松本市",
-      "global_code": "8Q8V6XPC+JQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "一歩",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106938397782699648261\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDPiNm5u6taDXIr7vhPVJxkvQvlOad9oDjulI74XEAqBlVfYbLZhWjR8jyeGALWS7TkR375XrGyLstFt0TuSEze74B2BIMU8TNoEDvbBW9ATwWyQcdL-V3BilDwmoUHrhmUHD9Bq0kAVMs9FQ1zOGj2RsB9CBV1oDF38e-SfF-Sz5Zi",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJ8-BAmZEOHWARj51nj1nR8gc",
+      "plus_code": {
+        "compound_code": "6XPC+JQ 松本市、長野県",
+        "global_code": "8Q8V6XPC+JQ"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

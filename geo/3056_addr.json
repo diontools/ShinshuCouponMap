@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８５１",
-        "short_name": "３８５１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上片桐",
-        "short_name": "上片桐",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3301",
-        "short_name": "399-3301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3301 長野県下伊那郡松川町上片桐３８５１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.6151252,
-          "lng": 137.9063344
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-3301 長野県下伊那郡松川町上片桐３８５１",
+      "geometry": {
+        "location": {
+          "lat": 35.6150098,
+          "lng": 137.9062479
         },
-        "southwest": {
-          "lat": 35.61493,
-          "lng": 137.9060892
+        "viewport": {
+          "northeast": {
+            "lat": 35.61634147989272,
+            "lng": 137.9076447298928
+          },
+          "southwest": {
+            "lat": 35.61364182010727,
+            "lng": 137.9049450701073
+          }
         }
       },
-      "location": {
-        "lat": 35.6150098,
-        "lng": 137.9062479
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6163765802915,
-          "lng": 137.9075645302915
-        },
-        "southwest": {
-          "lat": 35.6136786197085,
-          "lng": 137.9048665697085
-        }
-      }
-    },
-    "place_id": "ChIJzb4u28iRHGARhjk39YilOVY",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-3301 長野県下伊那郡松川町上片桐３８５１",
+      "place_id": "ChIJzb4u28iRHGARhjk39YilOVY",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

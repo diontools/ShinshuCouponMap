@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７２１−１",
-        "short_name": "２７２１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上郷黒田",
-        "short_name": "上郷黒田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0004",
-        "short_name": "395-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0004 長野県飯田市上郷黒田２７２１−１",
-    "geometry": {
-      "location": {
-        "lat": 35.53345900000001,
-        "lng": 137.835801
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5346819802915,
-          "lng": 137.8370278802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0004 長野県飯田市上郷黒田２７２１−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5333958,
+          "lng": 137.8357331
         },
-        "southwest": {
-          "lat": 35.5319840197085,
-          "lng": 137.8343299197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.53468282989272,
+            "lng": 137.8370287298928
+          },
+          "southwest": {
+            "lat": 35.53198317010728,
+            "lng": 137.8343290701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNxqkZ_qZHGAR_I3e26KsqNs",
-    "plus_code": {
-      "compound_code": "GRMP+98 長野県飯田市",
-      "global_code": "8Q7VGRMP+98"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "grocery_or_supermarket",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "稲垣来三郎匠",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104135263599053253656\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBLDmosTvvBoejj6faTyEcwyNbOb0Wne-8zdbkZeybbL42qZiSvR_5HyOlA1dAGwIuj_hWTe514IqGZu4C5LBDFe0TATU8widks35myhSYVdIlrZQlUGhFSPNz2z8XKAydf7Y40yikThbytz-bYZrTk1jMGYCGFO9ric_MHDrfCEmkW",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJNxqkZ_qZHGAR_I3e26KsqNs",
+      "plus_code": {
+        "compound_code": "GRMP+98 飯田市、長野県",
+        "global_code": "8Q7VGRMP+98"
+      },
+      "types": [
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

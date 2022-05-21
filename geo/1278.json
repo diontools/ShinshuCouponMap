@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２３−２５８１",
-        "short_name": "１２２３−２５８１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−２５８１",
-    "geometry": {
-      "location": {
-        "lat": 36.5183889,
-        "lng": 138.3201748
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.51978123029149,
-          "lng": 138.3215321302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−２５８１",
+      "geometry": {
+        "location": {
+          "lat": 36.5183889,
+          "lng": 138.3201748
         },
-        "southwest": {
-          "lat": 36.5170832697085,
-          "lng": 138.3188341697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.51978207989272,
+            "lng": 138.3215329798927
+          },
+          "southwest": {
+            "lat": 36.51708242010727,
+            "lng": 138.3188333201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJf5tEuCCUHWARw00TMR-tgPQ",
-    "plus_code": {
-      "compound_code": "G89C+93 日本、長野県上田市",
-      "global_code": "8Q8WG89C+93"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "峯村山荘",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100208404478377060829\">Hosumix M</a>"
+          ],
+          "photo_reference": "Aap_uEB5mLQT28ZWn75RH8sDYUQf7LZCsfsaN4OxvucTrUpuvBGuQxJy_zVIa7uA3pScGc_TGcX9QZOzy966-UWHaVAl5EkShimqSs3w5sqJDPLgBxhQtfCA10ZSZLfGji4MmV1vX_TLOuIU166OAZlDO-MC84pwibDoQHTybxKvp1zeXNMN",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJf5tEuCCUHWARw00TMR-tgPQ",
+      "plus_code": {
+        "compound_code": "G89C+93 上田市、長野県",
+        "global_code": "8Q8WG89C+93"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

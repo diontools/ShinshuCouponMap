@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２４４−１",
-        "short_name": "２２４４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "海ノ口",
-        "short_name": "海ノ口",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1302",
-        "short_name": "384-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1302 長野県南佐久郡南牧村海ノ口２２４４−１",
-    "geometry": {
-      "location": {
-        "lat": 35.9868776,
-        "lng": 138.435635
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9881285802915,
-          "lng": 138.4369957802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1302 長野県南佐久郡南牧村海ノ口２２４４−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9868776,
+          "lng": 138.435635
         },
-        "southwest": {
-          "lat": 35.9854306197085,
-          "lng": 138.4342978197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.98812942989273,
+            "lng": 138.4369966298927
+          },
+          "southwest": {
+            "lat": 35.98542977010728,
+            "lng": 138.4342969701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJr4nUxBw_HGAR2Uqs0QFx6bw",
-    "plus_code": {
-      "compound_code": "XCPP+Q7 日本、長野県南牧村",
-      "global_code": "8Q7WXCPP+Q7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "八ヶ岳高原ロッジ",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103180668519097098992\">八ヶ岳高原ロッジ</a>"
+          ],
+          "photo_reference": "Aap_uECMGAHt4hKL1dDeCB-i9ZcoQ0I1mQX_fRFB94WaVBEaM-QNaZJYT03hyT7AQO5GWdcFTdiRxK3oY1gQXT7Pq124VgQT2RuhxaOe4vpJ-Ttol2ZosAtVNkmI2Z30Vzy1pIQ5nYy-NcJefqfp9C1MEveKYRV5wbRzCjylBRTkSRd-kZq1",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJr4nUxBw_HGAR2Uqs0QFx6bw",
+      "plus_code": {
+        "compound_code": "XCPP+Q7 南牧村、長野県",
+        "global_code": "8Q7WXCPP+Q7"
+      },
+      "types": [
+        "restaurant",
+        "lodging",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

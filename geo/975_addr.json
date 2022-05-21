@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2f",
-        "short_name": "2f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "小出ビル",
-        "short_name": "小出ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中御所",
-        "short_name": "中御所",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0935",
-        "short_name": "380-0935",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0935 長野県長野市中御所 小出ビル 2f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6461666,
-          "lng": 138.1823014
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0826 長野県長野市大字南長野北石堂町１４１３ 小出ビル ２Ｆ",
+      "geometry": {
+        "location": {
+          "lat": 36.6460655,
+          "lng": 138.186978
         },
-        "southwest": {
-          "lat": 36.6460257,
-          "lng": 138.1820995
+        "viewport": {
+          "northeast": {
+            "lat": 36.64745672989272,
+            "lng": 138.1882503798927
+          },
+          "southwest": {
+            "lat": 36.64475707010727,
+            "lng": 138.1855507201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6460911,
-        "lng": 138.182178
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6474451302915,
-          "lng": 138.1834885302915
-        },
-        "southwest": {
-          "lat": 36.6447471697085,
-          "lng": 138.1807905697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "隠れ家居酒屋おにやんま",
+      "photos": [
+        {
+          "height": 1773,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110262488561301730341\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECr13M2rFw-eRWswaN9hpki4SB5QYT8NR4fK326BWdddRbbvquoAfwzyMlTrKRYfxIdf-yV374w0y0fLx9LIACx2VV4fxj7HYwMg68fDZIuPpero41DW8x0D5BSdQAfXRziL_K6b7eFZ98OlMonWunxyQjuJtBpOzBHHOIE9ItB7JNL",
+          "width": 2364
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "EjVKYXBhbiwg44CSMzgwLTA5MzUgTmFnYW5vLCBOYWthZ29zaG8sIOWwj-WHuuODk-ODqyAyZiIeGhwKFgoUChIJFU3GzOuGHWARiVeeZKHWXowSAjJm",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJTeze4uyGHWARN9CLN14Qr1k",
+      "plus_code": {
+        "compound_code": "J5WP+CQ 長野市、長野県",
+        "global_code": "8Q8WJ5WP+CQ"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

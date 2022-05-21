@@ -1,82 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 大字小布施東町476−2",
-    "geometry": {
-      "location": {
-        "lat": 36.693815,
-        "lng": 138.31777
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6951630802915,
-          "lng": 138.3191708802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町 大字小布施東町476−2",
+      "geometry": {
+        "location": {
+          "lat": 36.6938158,
+          "lng": 138.3177558
         },
-        "southwest": {
-          "lat": 36.69246511970851,
-          "lng": 138.3164729197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69516392989273,
+            "lng": 138.3191717298928
+          },
+          "southwest": {
+            "lat": 36.69246427010728,
+            "lng": 138.3164720701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJr4jK9FiJHWARLc4DoDSt3Tc",
-    "plus_code": {
-      "compound_code": "M8V9+G4 日本、長野県小布施町",
-      "global_code": "8Q8WM8V9+G4"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "樹杢西脇",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115250437228030573993\">BRIDDI Co.Ltd.</a>"
+          ],
+          "photo_reference": "Aap_uEB_JwWZr7AdQhZgRu6qcopwy7sEA5yqmqSd95quqWQMqXa3RoB-yd4e44tvXEF7_cRLnHy1dNY4-F1dADMzz2HMNKnKDilPQV5EQo0eEZlhBb6ZdGva0SnmAE5XMxpmJ1tqdVKDjcw6IgK0EjT_g6blkwbA3mX8q3p9zJ-kPpDavoNS",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJr4jK9FiJHWARLc4DoDSt3Tc",
+      "plus_code": {
+        "compound_code": "M8V9+G4 小布施町、長野県",
+        "global_code": "8Q8WM8V9+G4"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

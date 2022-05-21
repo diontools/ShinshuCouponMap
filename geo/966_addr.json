@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南長野",
-        "short_name": "南長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市南長野末広町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6447647,
-          "lng": 138.1883884
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0822 長野県長野市大字南長野末広町",
+      "geometry": {
+        "location": {
+          "lat": 36.643943,
+          "lng": 138.1868566
         },
-        "southwest": {
-          "lat": 36.6431649,
-          "lng": 138.186385
+        "viewport": {
+          "northeast": {
+            "lat": 36.64536212989272,
+            "lng": 138.1882484798927
+          },
+          "southwest": {
+            "lat": 36.64266247010728,
+            "lng": 138.1855488201072
+          }
         }
       },
-      "location": {
-        "lat": 36.6438602,
-        "lng": 138.1872849
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6453137802915,
-          "lng": 138.1887356802915
-        },
-        "southwest": {
-          "lat": 36.6426158197085,
-          "lng": 138.1860377197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "Nacs末広",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103585577827753739393\">嶋田実</a>"
+          ],
+          "photo_reference": "Aap_uEDW7W9Ba-XrwMZsXrMlu9p_Ir6Z2mGZgxCLuaQCTdZqDj2ByitzQPx0PtVvI9w7FKSEJshZ8zc9h3_wQmkHq7y1p01yjOYVxfjB5nk_AiQtLE5B83WudaeJ7XS8ZvhliePyWuaCkE6CpvUUvknfThShnCw79tcl-dDtzzct0sTFRVve",
+          "width": 2160
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5Z-T2ZKGHWARq-vctZ8-Gg4",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJz5HmLpOGHWARtRjANT4QbvU",
+      "plus_code": {
+        "compound_code": "J5VP+HP 長野市、長野県",
+        "global_code": "8Q8WJ5VP+HP"
+      },
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

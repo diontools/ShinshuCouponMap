@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1516",
-        "short_name": "390-1516",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1516 長野県松本市安曇",
-    "geometry": {
-      "location": {
-        "lat": 36.2513203,
-        "lng": 137.653235
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1516 長野県松本市",
+      "geometry": {
+        "location": {
           "lat": 36.2513203,
-          "lng": 137.6607766
+          "lng": 137.653235
         },
-        "southwest": {
-          "lat": 36.164478,
-          "lng": 137.5590825
+        "viewport": {
+          "northeast": {
+            "lat": 36.29474144999999,
+            "lng": 137.71162365
+          },
+          "southwest": {
+            "lat": 36.12105684999999,
+            "lng": 137.50823545
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC8XxEJAOHWARBzhcrx9Cbpo",
-    "plus_code": {
-      "compound_code": "7M23+G7 長野県松本市",
-      "global_code": "8Q8V7M23+G7"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "上高地",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109817538742171300293\">蓮池宏二</a>"
+          ],
+          "photo_reference": "Aap_uEAprMizhKoWZjMziysQvHDwLNQsCCvu6dyKtaIud7M_RO1ODhj51aBkOlOBv7EIkrImE0hCw7GTbyV8dLt28xfhWhQVjICYUh_3B98Em2XwoNQ7RJABDdRyQ2IwVsOUerHHo9s78lcpnRYXWRmx4f7icQKtgHs6gGQC5-9y1P5C9wA-",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJC8XxEJAOHWARBzhcrx9Cbpo",
+      "plus_code": {
+        "compound_code": "7M23+G7 松本市、長野県",
+        "global_code": "8Q8V7M23+G7"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

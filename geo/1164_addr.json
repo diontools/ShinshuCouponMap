@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５８１−１",
-        "short_name": "５８１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "加増",
-        "short_name": "加増",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0061",
-        "short_name": "384-0061",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0061 長野県小諸市加増５８１−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3189329,
-          "lng": 138.4452062
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒384-0061 長野県小諸市加増５８１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3186208,
+          "lng": 138.4449228
         },
-        "southwest": {
-          "lat": 36.3182339,
-          "lng": 138.4447704
+        "viewport": {
+          "northeast": {
+            "lat": 36.31998627989272,
+            "lng": 138.4461223298927
+          },
+          "southwest": {
+            "lat": 36.31728662010728,
+            "lng": 138.4434226701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3186208,
-        "lng": 138.4449228
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3199323802915,
-          "lng": 138.4462631802915
-        },
-        "southwest": {
-          "lat": 36.3172344197085,
-          "lng": 138.4435652197085
-        }
-      }
-    },
-    "place_id": "ChIJVcJTXXHJHWAR7DM7w_MSKdM",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒384-0061 長野県小諸市加増５８１−１",
+      "place_id": "ChIJVcJTXXHJHWAR7DM7w_MSKdM",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

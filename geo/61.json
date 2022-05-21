@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７１４８",
-        "short_name": "７１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
-    "geometry": {
-      "location": {
-        "lat": 36.7196085,
-        "lng": 138.4924648
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7209761302915,
-          "lng": 138.4935369802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏７１４８",
+      "geometry": {
+        "location": {
+          "lat": 36.7196085,
+          "lng": 138.4924648
         },
-        "southwest": {
-          "lat": 36.7182781697085,
-          "lng": 138.4908390197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.72097697989272,
+            "lng": 138.4935378298927
+          },
+          "southwest": {
+            "lat": 36.71827732010728,
+            "lng": 138.4908381701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx_uQ3pbxHWARdD5xY-n5ayM",
-    "plus_code": {
-      "compound_code": "PF9R+RX 日本、長野県山ノ内町",
-      "global_code": "8Q8WPF9R+RX"
-    },
-    "types": [
-      "convenience_store",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "志賀高原山の駅 お土産＆ヤマザキYショップ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103483986412635976841\">倉石薫</a>"
+          ],
+          "photo_reference": "Aap_uEB4taRcdWmrSHLeDJvPH4UnRjaMsopPw1fzLK-Ij0c6eAgXyuyWAxTYsZgxpmE3ownzI-qxk6675oWjyikyy_OW6z-lqP3iFAVd92zgTlbVNyoLtpRBf6Nw_QWfNCKgG3v1Oq6FApcPG6KKVacyS_RfC2xWJfCJJWVSrTpUq_T8k0tt",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJx_uQ3pbxHWARdD5xY-n5ayM",
+      "plus_code": {
+        "compound_code": "PF9R+RX 山ノ内町、長野県",
+        "global_code": "8Q8WPF9R+RX"
+      },
+      "types": [
+        "convenience_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

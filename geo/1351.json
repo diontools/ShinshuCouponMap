@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目１−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3964116,
-        "lng": 138.2499406
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3982320302915,
-          "lng": 138.2510616302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3964116,
+          "lng": 138.2499406
         },
-        "southwest": {
-          "lat": 36.3955340697085,
-          "lng": 138.2483636697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39823287989272,
+            "lng": 138.2510624798927
+          },
+          "southwest": {
+            "lat": 36.39553322010727,
+            "lng": 138.2483628201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJActeZNq8HWAR7e8gEg_xGdw",
-    "plus_code": {
-      "compound_code": "96WX+HX 日本、長野県上田市",
-      "global_code": "8Q8W96WX+HX"
-    },
-    "types": [
-      "car_rental",
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ＪＲ駅レンタカー 上田駅営業所",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109607137640259592516\">Jurina Hamada</a>"
+          ],
+          "photo_reference": "Aap_uEAIamtP7oyYDuHveT7m8YT1HVDMcZyMAvbNEw4-0fibhwJ_TBMtxSZPwjHrbr8MAzwiTwso3ZwDFJXjCs51x2XqfWI7BWCJ45luAosl9EPed36ts26YbJiZ--0tu7-npZeUXEVoQW117oaVoxVZkJs4krw4EEhdbGOhVXRCEonceFA9",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJActeZNq8HWAR7e8gEg_xGdw",
+      "plus_code": {
+        "compound_code": "96WX+HX 上田市、長野県",
+        "global_code": "8Q8W96WX+HX"
+      },
+      "types": [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

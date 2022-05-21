@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３０",
-        "short_name": "１３０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "新開",
-        "short_name": "新開",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0002",
-        "short_name": "397-0002",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0002 長野県木曽郡木曽町新開１３０",
-    "geometry": {
-      "location": {
-        "lat": 35.8299964,
-        "lng": 137.7739647
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.83137028029149,
-          "lng": 137.7754597802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0002 長野県木曽郡木曽町新開１３０",
+      "geometry": {
+        "location": {
+          "lat": 35.8299964,
+          "lng": 137.7739647
         },
-        "southwest": {
-          "lat": 35.8286723197085,
-          "lng": 137.7727618197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.83137112989272,
+            "lng": 137.7754606298927
+          },
+          "southwest": {
+            "lat": 35.82867147010728,
+            "lng": 137.7727609701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQSUuBJDnHGAR0JExegX3__k",
-    "plus_code": {
-      "compound_code": "RQHF+XH 長野県木曽町",
-      "global_code": "8Q7VRQHF+XH"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ゲストハウス ヒルトップ",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115456802380584064262\">ゲストハウス ヒルトップ</a>"
+          ],
+          "photo_reference": "Aap_uEAoEZRPIMJNA7uzeUMisdEYe3GY9x_Yy7BCQl5rrdHs_k_2lgfq8S0rvwowt0bIgz1i2lJyapdRaY6d4En1FBJtx-XHrw8Dzh269EBBCcqNyWdkJc31xBkJ2E3wa9CLWyHN7WN5KFrkZm--03v5Q4YRdJxqY2knnd6ZsQYtga8xgxZy",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJQSUuBJDnHGAR0JExegX3__k",
+      "plus_code": {
+        "compound_code": "RQHF+XH 木曽町、長野県",
+        "global_code": "8Q7VRQHF+XH"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

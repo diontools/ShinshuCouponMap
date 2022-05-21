@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３８５１",
-        "short_name": "３８５１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "上片桐",
-        "short_name": "上片桐",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松川町",
-        "short_name": "松川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-3301",
-        "short_name": "399-3301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-3301 長野県下伊那郡松川町上片桐３８５１",
-    "geometry": {
-      "location": {
-        "lat": 35.61502,
-        "lng": 137.906211
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.6163997802915,
-          "lng": 137.9074999802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-3301 長野県下伊那郡松川町上片桐３８５１",
+      "geometry": {
+        "location": {
+          "lat": 35.6150799,
+          "lng": 137.9061465
         },
-        "southwest": {
-          "lat": 35.6137018197085,
-          "lng": 137.9048020197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.61640062989272,
+            "lng": 137.9075008298927
+          },
+          "southwest": {
+            "lat": 35.61370097010727,
+            "lng": 137.9048011701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbQEs28iRHGARUsvJRnPajDg",
-    "plus_code": {
-      "compound_code": "JW84+2F 長野県松川町",
-      "global_code": "8Q7VJW84+2F"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "いずぎん・寿司",
+      "photos": [
+        {
+          "height": 2016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114466835053774736216\">公香宮島</a>"
+          ],
+          "photo_reference": "Aap_uEAD4WfSA0AZIEpakrR1v7RVfUzWlwiGVaL7Vyf9mcvWF0x_yQN4Qh6NQGPPaq6XjrwG8Dw_2ZFj1nQlWuSnPM67B2u8t6K_yonn3o--2Y-lUZ8jTkq8M-Hx-czyo5c8mDeCQfoa74GiqHNuaFtJ7tna_UcbidYCt4_gGJZLIWq8FjMU",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJbQEs28iRHGARUsvJRnPajDg",
+      "plus_code": {
+        "compound_code": "JW84+2F 松川町、長野県",
+        "global_code": "8Q7VJW84+2F"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６７６４−１９",
-        "short_name": "６７６４−１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高",
-        "short_name": "穂高",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県安曇野市穂高６７６４−１９",
-    "geometry": {
-      "location": {
-        "lat": 36.3329653,
-        "lng": 137.8872846
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3343670302915,
-          "lng": 137.8886281302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県安曇野市穂高６７６４−１９",
+      "geometry": {
+        "location": {
+          "lat": 36.3329653,
+          "lng": 137.8872846
         },
-        "southwest": {
-          "lat": 36.3316690697085,
-          "lng": 137.8859301697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.33436787989272,
+            "lng": 137.8886289798927
+          },
+          "southwest": {
+            "lat": 36.33166822010728,
+            "lng": 137.8859293201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ7d-vUv3R918RrhEDbRve9m4",
-    "plus_code": {
-      "compound_code": "8VMP+5W 日本、長野県安曇野市",
-      "global_code": "8Q8V8VMP+5W"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "安曇野・穂高 キッチンはるつげ & 宿 春告鳥",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107311087414635319116\">木と人のぬくもりの宿 春告鳥 はるつげどり</a>"
+          ],
+          "photo_reference": "Aap_uEAJbdI9xC9eFxYOJNklwlPngeVE9apOqIVE0gOiJAu2mGpBXZVEDOPmfcfF2WgGE94eYGrh3-sk8ka-lcqlzYcUqt4L79jAv52Jwi7qkEZJmG7Xonl0OREv8iMILOc8bS4phZAf3lOPBRJLWed0yv7qKlzJfCrdKcBv-j8TeuH3hM5M",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ7d-vUv3R918RrhEDbRve9m4",
+      "plus_code": {
+        "compound_code": "8VMP+5W 安曇野市、長野県",
+        "global_code": "8Q8V8VMP+5W"
+      },
+      "types": [
+        "meal_takeaway",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

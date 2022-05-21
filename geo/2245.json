@@ -1,108 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "ビルＣ",
-        "short_name": "ビルＣ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "５",
-        "short_name": "５",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５−６ ビルＣ",
-    "geometry": {
-      "location": {
-        "lat": 36.2322164,
-        "lng": 137.965799
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2335223302915,
-          "lng": 137.9671457802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目５−６ ビルＣ",
+      "geometry": {
+        "location": {
+          "lat": 36.2321855,
+          "lng": 137.9657967
         },
-        "southwest": {
-          "lat": 36.2308243697085,
-          "lng": 137.9644478197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23352317989272,
+            "lng": 137.9671466298927
+          },
+          "southwest": {
+            "lat": 36.23082352010728,
+            "lng": 137.9644469701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJCQRNTokOHWAR40VYMMGTJ-A",
-    "plus_code": {
-      "compound_code": "6XJ8+V8 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+V8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ゴールデン酒場おさけや 松本店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118029852255254889289\">高橋健太</a>"
+          ],
+          "photo_reference": "Aap_uED84h0ewtQLBfrBBdu-Hj3J7_b9CWj8IE3u2BNfN6BG_GZo_5lXV2tHnRHPdLIC5SdkjZfHCStEfKHL79QqfMbuD1uIfjHd0Xjb43k9Jr2b-8nqHHDghSAQxVJeB33j6fs0t4a2_Gy3Psg2UhxnAqbqDejXMfzMBj1DVh5MjWwx_Ih7",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJCQRNTokOHWAR40VYMMGTJ-A",
+      "plus_code": {
+        "compound_code": "6XJ8+V8 松本市、長野県",
+        "global_code": "8Q8V6XJ8+V8"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

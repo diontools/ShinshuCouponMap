@@ -1,94 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "藤屋御本陳",
-        "short_name": "藤屋御本陳",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大門町",
-        "short_name": "大門町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0841",
-        "short_name": "380-0841",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0841 長野県長野市長野大門町 藤屋御本陳",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6572443,
-          "lng": 138.1877652
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0841 長野県長野市長野大門町 藤屋御本陳",
+      "geometry": {
+        "location": {
+          "lat": 36.6571437,
+          "lng": 138.187702
         },
-        "southwest": {
-          "lat": 36.6569902,
-          "lng": 138.1876097
+        "viewport": {
+          "northeast": {
+            "lat": 36.65849807989273,
+            "lng": 138.1889581298927
+          },
+          "southwest": {
+            "lat": 36.65579842010728,
+            "lng": 138.1862584701072
+          }
         }
       },
-      "location": {
-        "lat": 36.6571437,
-        "lng": 138.187702
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.65846623029149,
-          "lng": 138.1889888802915
-        },
-        "southwest": {
-          "lat": 36.6557682697085,
-          "lng": 138.1862909197085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "藤屋御本陳",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107325936646700964236\">孝博笹岡</a>"
+          ],
+          "photo_reference": "Aap_uECtGHMJLoFe3mSkqyAMMxSH_lLaY1C7WhotdRVW4bvkoTbRg7m87Z_VUS8FHVe5oCj6Nups2Q48QZNY26xop4rnha9UHMACwtzEwU5vAO_eGy3BvU9cc7DxV65rspaqu8ccqrDv42DPIMyGqyR-TLUvMy6jEOmf6uH1m13hWTOmUTkp",
+          "width": 1920
         }
-      }
-    },
-    "place_id": "ChIJrcttjeSGHWARuVk7m8uD63E",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJrcttjeSGHWARuVk7m8uD63E",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

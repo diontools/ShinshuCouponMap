@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０３８",
-        "short_name": "１０３８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "北河原",
-        "short_name": "北河原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "栗田",
-        "short_name": "栗田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0921",
-        "short_name": "380-0921",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0921 長野県長野市栗田北河原１０３８−４",
-    "geometry": {
-      "location": {
-        "lat": 36.642961,
-        "lng": 138.1891457
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6446847302915,
-          "lng": 138.1900400302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0921 長野県長野市栗田北河原１０３８−４",
+      "geometry": {
+        "location": {
+          "lat": 36.642961,
+          "lng": 138.1891457
         },
-        "southwest": {
-          "lat": 36.6419867697085,
-          "lng": 138.1873420697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64468557989272,
+            "lng": 138.1900408798927
+          },
+          "southwest": {
+            "lat": 36.64198592010727,
+            "lng": 138.1873412201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJu7D4fJKGHWAREdp2wwvp40U",
-    "plus_code": {
-      "compound_code": "J5VQ+5M 日本、長野県長野市",
-      "global_code": "8Q8WJ5VQ+5M"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "科の木 新幹線口店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101038997192207656798\">qp qupiqupi</a>"
+          ],
+          "photo_reference": "Aap_uEAlE0p9hOdCXyTgLtJQOfV8hXhr67Hn2jEguVhQny4Aante8DwFIlAfmvWuwSJF0j9gqBijqLTihb8KWGcySZ_rwVoPjJpuDy0pHsu0R7oj7ZqeKSSd-3YBedIuCSAp7NtJql9pFyAi0z10K96Wwuf8Lw42G1Zg9XxC_RvL04BszInD",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJu7D4fJKGHWAREdp2wwvp40U",
+      "plus_code": {
+        "compound_code": "J5VQ+5M 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+5M"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

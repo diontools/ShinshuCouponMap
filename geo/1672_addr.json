@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３３９",
-        "short_name": "４３３９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉４３３９",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.33874670000001,
-          "lng": 138.5772279
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉４３３９",
+      "geometry": {
+        "location": {
+          "lat": 36.33867499999999,
+          "lng": 138.5771495
         },
-        "southwest": {
-          "lat": 36.3386145,
-          "lng": 138.5771009
+        "viewport": {
+          "northeast": {
+            "lat": 36.34002722989271,
+            "lng": 138.5784806298927
+          },
+          "southwest": {
+            "lat": 36.33732757010727,
+            "lng": 138.5757809701072
+          }
         }
       },
-      "location": {
-        "lat": 36.33867499999999,
-        "lng": 138.5771495
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3400295802915,
-          "lng": 138.5785090302915
-        },
-        "southwest": {
-          "lat": 36.3373316197085,
-          "lng": 138.5758110697085
-        }
-      }
-    },
-    "place_id": "ChIJ_ZlqiWnSHWAR-OOOQRVaN7M",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0111 長野県北佐久郡軽井沢町長倉４３３９",
+      "place_id": "ChIJ_ZlqiWnSHWAR-OOOQRVaN7M",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

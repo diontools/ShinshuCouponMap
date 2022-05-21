@@ -1,97 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６",
-        "short_name": "３６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目２−３６",
-    "geometry": {
-      "location": {
-        "lat": 36.3973502,
-        "lng": 138.2495131
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3987302302915,
-          "lng": 138.2508876302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目２−３６",
+      "geometry": {
+        "location": {
+          "lat": 36.3973502,
+          "lng": 138.2495131
         },
-        "southwest": {
-          "lat": 36.39603226970851,
-          "lng": 138.2481896697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39873107989273,
+            "lng": 138.2508884798927
+          },
+          "southwest": {
+            "lat": 36.39603142010728,
+            "lng": 138.2481888201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJRR4nBtq8HWARD4rEsmOZwL0",
-    "plus_code": {
-      "compound_code": "96WX+WR 長野県上田市",
-      "global_code": "8Q8W96WX+WR"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-0025 長野県上田市天神１丁目２−３６",
+      "place_id": "ChIJRR4nBtq8HWARD4rEsmOZwL0",
+      "plus_code": {
+        "compound_code": "96WX+WR 上田市、長野県",
+        "global_code": "8Q8W96WX+WR"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

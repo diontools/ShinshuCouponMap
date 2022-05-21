@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "大桑村",
-        "short_name": "大桑村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡大桑村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.7794223,
-          "lng": 137.8173931
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5504 長野県木曽郡大桑村野尻９３９−９６",
+      "geometry": {
+        "location": {
+          "lat": 35.66198139999999,
+          "lng": 137.6203221
         },
-        "southwest": {
-          "lat": 35.6128851,
-          "lng": 137.4855875
+        "viewport": {
+          "northeast": {
+            "lat": 35.66328667989271,
+            "lng": 137.6217563798927
+          },
+          "southwest": {
+            "lat": 35.66058702010727,
+            "lng": 137.6190567201072
+          }
         }
       },
-      "location": {
-        "lat": 35.6829149,
-        "lng": 137.6649313
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.7794223,
-          "lng": 137.8173931
-        },
-        "southwest": {
-          "lat": 35.6128851,
-          "lng": 137.4855875
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "いなほ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108262658289779453151\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDusY9UUd3QIKp7H8Y2G54d6j1j8fu8PWR9dtKkuIhYR2KS6ZI_S7DAoEgwugcJBaP5AtNGDsgMau8IUdQyc1XL-5c0ZBvQkE-DxpLHtkTfRVHut-bKT1PhSUGICYFv3bsK14pa3bdLLVhau-I3mTWk7-Zr7eaFwjC5P8CTTF_xmhdP",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4SX8GDbEHGARASegRf_7vrc",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJO9teZwnGHGARBd6HWmxj6mY",
+      "plus_code": {
+        "compound_code": "MJ6C+Q4 大桑村、長野県",
+        "global_code": "8Q7VMJ6C+Q4"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１４３−１０",
-        "short_name": "１１４３−１０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１４３−１０",
-    "geometry": {
-      "location": {
-        "lat": 36.34285,
-        "lng": 138.6161722
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3442755302915,
-          "lng": 138.6174676302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１４３−１０",
+      "geometry": {
+        "location": {
+          "lat": 36.3429036,
+          "lng": 138.6161744
         },
-        "southwest": {
-          "lat": 36.3415775697085,
-          "lng": 138.6147696697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34427637989272,
+            "lng": 138.6174684798928
+          },
+          "southwest": {
+            "lat": 36.34157672010728,
+            "lng": 138.6147688201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJTRw_i6DTHWARTjSLmvmcago",
-    "plus_code": {
-      "compound_code": "8JV8+4F 日本、長野県軽井沢町",
-      "global_code": "8Q8W8JV8+4F"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "キャンディタフト",
+      "photos": [
+        {
+          "height": 1286,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100957300590155991870\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECucBD_qF2b8oxt-jg8HKtYx_2-lC_xj9jf3MpVmKaETpTcftbHf16FgJglCdcFFoq0KxgRSzSIzAlTX3p80g5zIml0uDpjb91cVA0VyGhYM1rNcvef2vIVrSKrhiwb5DdSpdLecujCcKouSInBOVgl6TVChKjQuz9tsZR6uMt7gDR7",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJTRw_i6DTHWARTjSLmvmcago",
+      "plus_code": {
+        "compound_code": "8JV8+4F 軽井沢町、長野県",
+        "global_code": "8Q8W8JV8+4F"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

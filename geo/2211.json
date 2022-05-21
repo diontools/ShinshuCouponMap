@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目２−３",
-    "geometry": {
-      "location": {
-        "lat": 36.2317823,
-        "lng": 137.9648377
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2331763302915,
-          "lng": 137.9660908802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目２−３ ホテル飯田屋ビル",
+      "geometry": {
+        "location": {
+          "lat": 36.2320089,
+          "lng": 137.9646684
         },
-        "southwest": {
-          "lat": 36.2304783697085,
-          "lng": 137.9633929197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23327072989272,
+            "lng": 137.9660526798927
+          },
+          "southwest": {
+            "lat": 36.23057107010727,
+            "lng": 137.9633530201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0yk0aYkOHWAR5jRnF9SzTpk",
-    "plus_code": {
-      "compound_code": "6XJ7+PW 日本、長野県松本市",
-      "global_code": "8Q8V6XJ7+PW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "イイダヤ軒 弁当店",
+      "photos": [
+        {
+          "height": 1428,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111331980434903736208\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBQKpEXr3zoSbz-TM50Sl59tpmH9c_46q3NIRPufzdqMGJVpu5Q_K2LJGCpu7QTkuVJT0G9PN3UHbbIQBlYf1Z1HTD1Ndnu2C6X2yOHwlTvQM8nHCC1VqyiajAF76sdoXa0ouWb-HE7Fj1NpLf3gcEZthzVr5_AFkCvS72uRsJTSJKf",
+          "width": 1710
+        }
+      ],
+      "place_id": "ChIJF7b9yMUPHWARgTA3VCddsnA",
+      "plus_code": {
+        "compound_code": "6XJ7+RV 松本市、長野県",
+        "global_code": "8Q8V6XJ7+RV"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

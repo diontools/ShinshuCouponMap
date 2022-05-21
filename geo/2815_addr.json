@@ -1,72 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県木曽郡木曽町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡木曽町福島中畑５９９０",
+      "geometry": {
+        "location": {
+          "lat": 35.8465266,
+          "lng": 137.6917365
         },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+        "viewport": {
+          "northeast": {
+            "lat": 35.84794102989272,
+            "lng": 137.6930291798927
+          },
+          "southwest": {
+            "lat": 35.84524137010728,
+            "lng": 137.6903295201073
+          }
         }
       },
-      "location": {
-        "lat": 35.8424988,
-        "lng": 137.6915171
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0268062,
-          "lng": 137.8282544
-        },
-        "southwest": {
-          "lat": 35.7891093,
-          "lng": 137.4761888
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "中善酒造店",
+      "photos": [
+        {
+          "height": 2656,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112626196395699620556\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBV6jnCv5kY-Fh71_IYtR6hlSzgYZOt4XHKAb79aMf0P7_VhplhIrRvmAA-Qoq7mFrSfn3rEEPRPvlT4qvSyNQ7gDivKwsJozCE2oLsAs3x47zXX02GjXma7Jdx21Wc1MA3l2T0aRILpM6KWjgcKIlevx7Rv_cFT2ZBvn_RB8ELz-oA",
+          "width": 3981
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJGb9UfHEnHWARFYfp0VxZPjs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ04KF-K7eHGARSiti9R_Dfxs",
+      "plus_code": {
+        "compound_code": "RMWR+JM 木曽町、長野県",
+        "global_code": "8Q7VRMWR+JM"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

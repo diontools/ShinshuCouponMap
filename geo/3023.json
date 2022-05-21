@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１９２",
-        "short_name": "１１９２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "浪合",
-        "short_name": "浪合",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0501",
-        "short_name": "395-0501",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0501 長野県下伊那郡阿智村浪合１１９２",
-    "geometry": {
-      "location": {
-        "lat": 35.3536074,
-        "lng": 137.6697173
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.3548353302915,
-          "lng": 137.6710458302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0501 長野県下伊那郡阿智村浪合１１９２",
+      "geometry": {
+        "location": {
+          "lat": 35.3536074,
+          "lng": 137.6697173
         },
-        "southwest": {
-          "lat": 35.3521373697085,
-          "lng": 137.6683478697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.35483617989271,
+            "lng": 137.6710466798928
+          },
+          "southwest": {
+            "lat": 35.35213652010727,
+            "lng": 137.6683470201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfxZTDC2hHGARwH1z3YR3Oso",
-    "plus_code": {
-      "compound_code": "9M39+CV 長野県阿智村",
-      "global_code": "8Q7V9M39+CV"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "峠のパン屋 キッチンストーブ",
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101328761024664648975\">キッチンストーブ</a>"
+          ],
+          "photo_reference": "Aap_uEDGg9iHCFokA6JH5uMeZdYKUUhpgZBZA4R3Sv63VsR-eyRo5ok2_kHjrybCkj8Eg2X6FK99g1pQoz-5CUA73tWhwxAXymG10bSMsx9BCuxOO4tHx3At8mw-R9AMcvlk5VPvCyZqG_pTfA0BC7_0FSCKuPjMqY-qb54B9twNC-hCyvsz",
+          "width": 4752
+        }
+      ],
+      "place_id": "ChIJfxZTDC2hHGARwH1z3YR3Oso",
+      "plus_code": {
+        "compound_code": "9M39+CV 阿智村、長野県",
+        "global_code": "8Q7V9M39+CV"
+      },
+      "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５３４６−１",
-        "short_name": "５３４６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "開田高原西野",
-        "short_name": "開田高原西野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽町",
-        "short_name": "木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0302",
-        "short_name": "397-0302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野５３４６−１",
-    "geometry": {
-      "location": {
-        "lat": 35.9302824,
-        "lng": 137.5300732
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.93141208029149,
-          "lng": 137.5315085302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0302 長野県木曽郡木曽町開田高原西野５３４６−１",
+      "geometry": {
+        "location": {
+          "lat": 35.9302824,
+          "lng": 137.5300732
         },
-        "southwest": {
-          "lat": 35.92871411970849,
-          "lng": 137.5288105697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.93141292989272,
+            "lng": 137.5315093798927
+          },
+          "southwest": {
+            "lat": 35.92871327010728,
+            "lng": 137.5288097201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJT2wo0qEuHWARrcNo85mkCnc",
-    "plus_code": {
-      "compound_code": "WGJJ+42 長野県木曽町",
-      "global_code": "8Q7VWGJJ+42"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "開田高原マイアスキー場",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101841320822409154259\">Satota Ta</a>"
+          ],
+          "photo_reference": "Aap_uECErMDfERMTZCP8rt6_wcPclZYh8aUB3-4nx-FFLazY09fe-1R9moF3Pms8U4DJvCSgAtIwXVUKiAxlemRmH7mIaMEZwn0BXtSxT3jjdAiqFwjYU2zxg6RrKE0TVXt4FujKMbw2rZi8kzTzARKURQaMWMKRZ3RoHY3Q3hFKrd5HYMPx",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJT2wo0qEuHWARrcNo85mkCnc",
+      "plus_code": {
+        "compound_code": "WGJJ+42 木曽町、長野県",
+        "global_code": "8Q7VWGJJ+42"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

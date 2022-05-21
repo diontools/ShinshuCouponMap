@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３５９−７",
-        "short_name": "２３５９−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "島内",
-        "short_name": "島内",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0851",
-        "short_name": "390-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0851 長野県松本市島内２３５９−７",
-    "geometry": {
-      "location": {
-        "lat": 36.2416089,
-        "lng": 137.933459
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.24294578029149,
-          "lng": 137.9347578802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒390-0851 長野県松本市島内２３５９−７",
+      "geometry": {
+        "location": {
+          "lat": 36.2416089,
+          "lng": 137.933459
         },
-        "southwest": {
-          "lat": 36.24024781970849,
-          "lng": 137.9320599197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.24294662989272,
+            "lng": 137.9347587298928
+          },
+          "southwest": {
+            "lat": 36.24024697010728,
+            "lng": 137.9320590701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJVfwcu-8NHWARSxa1di0Dens",
-    "plus_code": {
-      "compound_code": "6WRM+J9 長野県松本市",
-      "global_code": "8Q8V6WRM+J9"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒390-0851 長野県松本市島内２３５９−７",
+      "place_id": "ChIJVfwcu-8NHWARSxa1di0Dens",
+      "plus_code": {
+        "compound_code": "6WRM+J9 松本市、長野県",
+        "global_code": "8Q8V6WRM+J9"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

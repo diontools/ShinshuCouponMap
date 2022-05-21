@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６３７９",
-        "short_name": "６３７９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2411",
-        "short_name": "389-2411",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2411 長野県飯山市豊田６３７９",
-    "geometry": {
-      "location": {
-        "lat": 36.930697,
-        "lng": 138.387208
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.93200943029149,
-          "lng": 138.3885282802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2411 長野県飯山市豊田６３７９",
+      "geometry": {
+        "location": {
+          "lat": 36.930697,
+          "lng": 138.387208
         },
-        "southwest": {
-          "lat": 36.9293114697085,
-          "lng": 138.3858303197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.93201027989272,
+            "lng": 138.3885291298927
+          },
+          "southwest": {
+            "lat": 36.92931062010728,
+            "lng": 138.3858294701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHbe2SAsQ9l8R9_R11NGNRtE",
-    "plus_code": {
-      "compound_code": "W9JP+7V 日本、長野県飯山市",
-      "global_code": "8Q8WW9JP+7V"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "メイプルハイム",
+      "photos": [
+        {
+          "height": 1013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107020394280921990288\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBN-ixMyuQjQG8ScTKb2J8nf1S2FsK_N52Bencv1WMJxOAP3gRXl1c6mnAzSxrVbtOsoVctST232-KkNGxMFfKac42EwOh4003UfSisQ5e27Ot8Sqp7fegRciwlJcsqLE9NdDd8R1syN8CoF0Vr5JjJsGzk4z4H2VKxIgwLOpeVmbNx",
+          "width": 1869
+        }
+      ],
+      "place_id": "ChIJHbe2SAsQ9l8R9_R11NGNRtE",
+      "plus_code": {
+        "compound_code": "W9JP+7V 飯山市、長野県",
+        "global_code": "8Q8WW9JP+7V"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

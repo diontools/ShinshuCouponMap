@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村落倉高原１４７１８−１９９",
+      "geometry": {
+        "location": {
+          "lat": 36.7420937,
+          "lng": 137.8610094
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.74347762989272,
+            "lng": 137.8623905798927
+          },
+          "southwest": {
+            "lat": 36.74077797010727,
+            "lng": 137.8596909201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ロッジ 基",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107335268077176551820\">Miyako</a>"
+          ],
+          "photo_reference": "Aap_uEDOWPgvQpGZSFKCeY7hQbyaFJXjQg7IzJ4ZoBcPaJgkyg-7JRYnCc3Xxb9LqlnfeYxQYi5226EtsRs5xeMxaFT0zNk2ZFZERuETl9DjnSNscSQT0-Sa3khpiAoMFli2Y3FGeP0RnkJ4d5kKNePsSlk3HCNP8VqXnbGdyHDsxc88w0HV",
+          "width": 3008
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJSdTPhOTM918RlXj7nEY5aSM",
+      "plus_code": {
+        "compound_code": "PVR6+RC 白馬村、長野県",
+        "global_code": "8Q8VPVR6+RC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,160 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡軽井沢町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉 山5956−32",
+      "geometry": {
+        "location": {
+          "lat": 36.3666107,
+          "lng": 138.5555973
         },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+        "viewport": {
+          "northeast": {
+            "lat": 36.36780812989272,
+            "lng": 138.5570334798927
+          },
+          "southwest": {
+            "lat": 36.36510847010727,
+            "lng": 138.5543338201073
+          }
         }
       },
-      "location": {
-        "lat": 36.3483927,
-        "lng": 138.5970297
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.424134,
-          "lng": 138.6571931
-        },
-        "southwest": {
-          "lat": 36.27847089999999,
-          "lng": 138.5075049
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ヴァンベール軽井沢",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115500582586706970362\">森下直樹</a>"
+          ],
+          "photo_reference": "Aap_uECrD_HxeHKVwJmxcBJ1vHVefatRSKWspz_-to_1Ob9gqwJmfMA87utCWZNUsMrndK0QVLXBI5YnIh1-tJ-RqFGhqsKtlVyLfrKsglhWbc_PMcDdUoarYxAUw5ZYK3ZkOqswfPnrzqzhHbO0t0OSVyUrj5chIpX4_ozQ9z0KYRBLLp2A",
+          "width": 5504
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk6PBPzzSHWAR-XHag0iPEZk",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "１７３１",
-        "short_name": "１７３１",
-        "types": [
-          "premise"
-        ]
+      ],
+      "place_id": "ChIJ0_-Tjh7OHWARYj5gwmKZ0Hk",
+      "plus_code": {
+        "compound_code": "9H84+M8 軽井沢町、長野県",
+        "global_code": "8Q8W9H84+M8"
       },
-      {
-        "long_name": "相俣",
-        "short_name": "相俣",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "みなかみ町",
-        "short_name": "みなかみ町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "利根郡",
-        "short_name": "利根郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "群馬県",
-        "short_name": "群馬県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "379-1404",
-        "short_name": "379-1404",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒379-1404 群馬県利根郡みなかみ町相俣１７３１",
-    "geometry": {
-      "location": {
-        "lat": 36.726965,
-        "lng": 138.89355
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7283323302915,
-          "lng": 138.8950711302915
-        },
-        "southwest": {
-          "lat": 36.7256343697085,
-          "lng": 138.8923731697085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtZaEvr0SHmARfSV_PPsMxnI",
-    "plus_code": {
-      "compound_code": "PVGV+QC 日本、群馬県みなかみ町",
-      "global_code": "8Q8WPVGV+QC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

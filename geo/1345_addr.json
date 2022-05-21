@@ -1,111 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "5階",
-        "short_name": "5階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "２２",
-        "short_name": "２２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目３−２２ 5階",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3984995,
-          "lng": 138.2486991
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目３−２２ 5F",
+      "geometry": {
+        "location": {
+          "lat": 36.3984569,
+          "lng": 138.2486322
         },
-        "southwest": {
-          "lat": 36.3982525,
-          "lng": 138.2484304
+        "viewport": {
+          "northeast": {
+            "lat": 36.39984197989273,
+            "lng": 138.2500470798927
+          },
+          "southwest": {
+            "lat": 36.39714232010729,
+            "lng": 138.2473474201072
+          }
         }
       },
-      "location": {
-        "lat": 36.3983817,
-        "lng": 138.248567
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3997435802915,
-          "lng": 138.2499453302915
-        },
-        "southwest": {
-          "lat": 36.3970456197085,
-          "lng": 138.2472473697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Dining & Cafe ANNIVERSARY 駅前本店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105188446995363593881\">shohei komiyama</a>"
+          ],
+          "photo_reference": "Aap_uEAh07iIPvLUZcLWrqL5TQUdPeHa77BQoVKPHA1Xm49yW7VswQ8YH_-XLFac0PRgyDL0LZG1Psy0YvYmwiNy3sNYtX8yRiQWXSa3dcSSL7ZVpaICO8_x1YQpL7DE77yIuh8aGwzQrz8q6LEkhTw9RlBT3obfi1mb8ioo6UD1Toxnx0pE",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "Ejg16ZqOLCAxLWNoxY1tZS0zLTIyIFRlbmppbiwgVWVkYSwgTmFnYW5vIDM4Ni0wMDI1LCBKYXBhbiIgGh4KFgoUChIJodpwQ9e8HWARNKrseBKGvxISBDXpmo4",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJsxTTXNe8HWARyf-eseLPd2k",
+      "plus_code": {
+        "compound_code": "96XX+9F 上田市、長野県",
+        "global_code": "8Q8W96XX+9F"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,156 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0000",
-        "short_name": "382-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0000 長野県須坂市仁礼 大字仁礼字峰の原3153-3",
-    "geometry": {
-      "location": {
-        "lat": 36.5551575,
-        "lng": 138.3592154
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.55649338029151,
-          "lng": 138.3605213802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0000 長野県須坂市 大字仁礼字峰の原3153-3",
+      "geometry": {
+        "location": {
+          "lat": 36.5551575,
+          "lng": 138.3592154
         },
-        "southwest": {
-          "lat": 36.55379541970851,
-          "lng": 138.3578234197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.55649422989273,
+            "lng": 138.3605222298927
+          },
+          "southwest": {
+            "lat": 36.55379457010729,
+            "lng": 138.3578225701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKT41d4CUHWARea5DUvA4rRo",
-    "plus_code": {
-      "compound_code": "H945+3M 長野県須坂市",
-      "global_code": "8Q8WH945+3M"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "峰の原",
-        "short_name": "峰の原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
       },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2211",
-        "short_name": "386-2211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原 高原３１５３−５０",
-    "geometry": {
-      "location": {
-        "lat": 36.5564973,
-        "lng": 138.3519764
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5577994302915,
-          "lng": 138.3530941302915
-        },
-        "southwest": {
-          "lat": 36.5551014697085,
-          "lng": 138.3503961697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "時空の杜",
+      "photos": [
+        {
+          "height": 2320,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103299392707129532171\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEApUM-T80BNXJb5wAA08MBCnHvptorDo2T-QiTAxAFfYpkXyFUaGJ1pI3wwa7U8uL5ElRGR8ozR0VwzbOfcjOZOGRa0-Pzpvepy5Hya9eNg4vJmBxSoPnyC_I174LYiCfU5x0x5bOJm3si7tvA4k54i0dOV3XHY9pbvlMK0leJrdO2m",
+          "width": 4640
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR7i4khiTHWARRk0wEGdycxE",
-    "plus_code": {
-      "compound_code": "H942+HQ 長野県須坂市",
-      "global_code": "8Q8WH942+HQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJKT41d4CUHWARea5DUvA4rRo",
+      "plus_code": {
+        "compound_code": "H945+3M 須坂市、長野県",
+        "global_code": "8Q8WH945+3M"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

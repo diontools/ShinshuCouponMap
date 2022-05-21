@@ -1,83 +1,92 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "長和町",
-        "short_name": "長和町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "和田",
-        "short_name": "和田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小県郡",
-        "short_name": "小県郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0701",
-        "short_name": "386-0701",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0701 長野県小県郡長和町和田 町長和町和田5101-1",
-    "geometry": {
-      "location": {
-        "lat": 36.2258648,
-        "lng": 138.127401
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.22745623029149,
-          "lng": 138.1288455802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0701 長野県小県郡長和町 町長和町和田5101-1",
+      "geometry": {
+        "location": {
+          "lat": 36.2258648,
+          "lng": 138.127401
         },
-        "southwest": {
-          "lat": 36.2247582697085,
-          "lng": 138.1261476197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.22745707989272,
+            "lng": 138.1288464298927
+          },
+          "southwest": {
+            "lat": 36.22475742010728,
+            "lng": 138.1261467701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "美ヶ原高原ホテル山本小屋",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110919575160044429614\">t h</a>"
+          ],
+          "photo_reference": "Aap_uEA5HhkpRCbEqyEH8Acl5NEF16hBZ0l8x_NV2ZCNUuB7bFxj-7I1fl1Wu9nnSThXtiRJp0T1CJdu71VaaX9Cc9oubMGIJ7PJeGf-v9Vjr6cGUeWxpYCT0HuF9XEFAztZG5xQa5yTWTKvxY0sfXRz9fh3wD_a7L4M4VyiKwgO27z7ioWF",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ633U34yoHWARQdssGtvp2kE",
+      "plus_code": {
+        "compound_code": "64GG+8X 長和町、長野県",
+        "global_code": "8Q8W64GG+8X"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ633U34yoHWARQdssGtvp2kE",
-    "plus_code": {
-      "compound_code": "64GG+8X 日本、長野県長和町",
-      "global_code": "8Q8W64GG+8X"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0701 長野県小県郡長和町和田 美ヶ原高原５１０１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2282211,
+          "lng": 138.1317979
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.22961797989272,
+            "lng": 138.1331423298927
+          },
+          "southwest": {
+            "lat": 36.22691832010727,
+            "lng": 138.1304426701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "山本小屋ふる里館",
+      "photos": [
+        {
+          "height": 2008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105261806806716846890\">山本小屋ふる里館</a>"
+          ],
+          "photo_reference": "Aap_uEBcSRJj0OEr_d_hGp_3YPLYndtHPvi5yXI1KnscYGLU68JzsbMokGJ0ixzSDWlM0sRXupcVamW9c1LLzM4nWR18a-Pm3n3B9n4VbjGyChh9FVT7ztC4XMruQEOT9VhhIwv6cLsjPvo670BAPrg9b-cmaXgioN8BiiJX0mBIJ_YKeBLj",
+          "width": 3008
+        }
+      ],
+      "place_id": "ChIJz8w55ZKoHWARFetncUCd3KI",
+      "plus_code": {
+        "compound_code": "64HJ+7P 長和町、長野県",
+        "global_code": "8Q8W64HJ+7P"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

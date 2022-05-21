@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９４６",
-        "short_name": "９４６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "南長池",
-        "short_name": "南長池",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0024",
-        "short_name": "381-0024",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0024 長野県長野市南長池９４６",
-    "geometry": {
-      "location": {
-        "lat": 36.6480533,
-        "lng": 138.2324669
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6493433302915,
-          "lng": 138.2338194302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0024 長野県長野市南長池９４６",
+      "geometry": {
+        "location": {
+          "lat": 36.6480379,
+          "lng": 138.232468
         },
-        "southwest": {
-          "lat": 36.6466453697085,
-          "lng": 138.2311214697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64934417989272,
+            "lng": 138.2338202798927
+          },
+          "southwest": {
+            "lat": 36.64664452010728,
+            "lng": 138.2311206201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJOX2c_QaGHWAR94nVA8hALU4",
-    "plus_code": {
-      "compound_code": "J6XJ+6X 日本、長野県長野市",
-      "global_code": "8Q8WJ6XJ+6X"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "御菓子処 花岡 長野店",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106334527396701837144\">Hidenori Maezawa</a>"
+          ],
+          "photo_reference": "Aap_uECprEgkX7E2zE8X6cupSbP85JLsQcbUFia3fAoyP1kUh6kVWRtarpRXOEalW9PyuR417EQKPvNXgDBLKErtpaZdJ784Tznrl_xwsq91Ki-xfp7_76jzs8eukW9q3IIeJP1N0gE0xK8om2Hbx8A2b-92sV8PN_flJSBqoN4qBdZuq5VH",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJOX2c_QaGHWAR94nVA8hALU4",
+      "plus_code": {
+        "compound_code": "J6XJ+6X 長野市、長野県",
+        "global_code": "8Q8WJ6XJ+6X"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７０８−１",
-        "short_name": "２７０８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "東",
-        "short_name": "東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "王滝村",
-        "short_name": "王滝村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0201",
-        "short_name": "397-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村東２７０８−１",
-    "geometry": {
-      "location": {
-        "lat": 35.8087114,
-        "lng": 137.5543883
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8100050802915,
-          "lng": 137.5556466302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村東２７０８−１",
+      "geometry": {
+        "location": {
+          "lat": 35.8087114,
+          "lng": 137.5543883
         },
-        "southwest": {
-          "lat": 35.8073071197085,
-          "lng": 137.5529486697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.81000592989272,
+            "lng": 137.5556474798927
+          },
+          "southwest": {
+            "lat": 35.80730627010728,
+            "lng": 137.5529478201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZwEKs_HWHGARS9461uIOryc",
-    "plus_code": {
-      "compound_code": "RH53+FQ 長野県王滝村",
-      "global_code": "8Q7VRH53+FQ"
-    },
-    "types": [
-      "drugstore",
-      "establishment",
-      "health",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "卯野薬房",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108026809920759439929\">レオゴメス</a>"
+          ],
+          "photo_reference": "Aap_uEANB50CKDQ90Fc1RQ3PN4cndahGVFT6O-M7_PCIdPIKYASgJIb69fZ79XfCw1f-Ovx6ni5gcGoI9TvFJOg1igSa6LOHIEAcB8WcBjOOHUz7cktq22y2XAr5rTPZ_qPc041kmJasfrG3XQhKbyCNbtUG26SIoop-FtH75PddTI3nuZuM",
+          "width": 2160
+        }
+      ],
+      "place_id": "ChIJZwEKs_HWHGARS9461uIOryc",
+      "plus_code": {
+        "compound_code": "RH53+FQ 王滝村、長野県",
+        "global_code": "8Q7VRH53+FQ"
+      },
+      "types": [
+        "drugstore",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

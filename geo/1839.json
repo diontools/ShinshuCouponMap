@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "穂高牧",
-        "short_name": "穂高牧",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8305",
-        "short_name": "399-8305",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8305 長野県安曇野市穂高牧",
-    "geometry": {
-      "location": {
-        "lat": 36.39357460000001,
-        "lng": 137.726959
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.39492358029151,
-          "lng": 137.7283079802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8305 長野県安曇野市穂高牧",
+      "geometry": {
+        "location": {
+          "lat": 36.39357460000001,
+          "lng": 137.726959
         },
-        "southwest": {
-          "lat": 36.39222561970851,
-          "lng": 137.7256100197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39492442989273,
+            "lng": 137.7283088298927
+          },
+          "southwest": {
+            "lat": 36.39222477010729,
+            "lng": 137.7256091701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ1-gj38ZuHWARBWGi0m9svu4",
-    "plus_code": {
-      "compound_code": "9PVG+CQ 日本、長野県安曇野市",
-      "global_code": "8Q8V9PVG+CQ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "合戦小屋",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113844583703564526286\">竹内英晴</a>"
+          ],
+          "photo_reference": "Aap_uEB-LqWWWJWQaQJZCYSzcA1Xw1KG3wdZ9B_NtiBmlgULa72opZHM9nrmo9dDOk8lfrrQnMTosZqXHP-U-abRsiVcpxhPWu-LZGQ3s-mffmkLGcrX4DoPMfQIrb0CT4_UwHayPX16EbKVmv__93XxUWrDcgJrtbgTxEwI0ywGqBTntocL",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJ1-gj38ZuHWARBWGi0m9svu4",
+      "plus_code": {
+        "compound_code": "9PVG+CQ 安曇野市、長野県",
+        "global_code": "8Q8V9PVG+CQ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

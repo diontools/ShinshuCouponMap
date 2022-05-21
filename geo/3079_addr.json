@@ -1,79 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "売木村",
-        "short_name": "売木村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1601",
-        "short_name": "399-1601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1601 長野県下伊那郡売木村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.3066452,
-          "lng": 137.7349725
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1601 長野県下伊那郡売木村軒川５２５−１",
+      "geometry": {
+        "location": {
+          "lat": 35.2756586,
+          "lng": 137.7060435
         },
-        "southwest": {
-          "lat": 35.2272697,
-          "lng": 137.6583951
+        "viewport": {
+          "northeast": {
+            "lat": 35.27704742989273,
+            "lng": 137.7073966798927
+          },
+          "southwest": {
+            "lat": 35.27434777010728,
+            "lng": 137.7046970201072
+          }
         }
       },
-      "location": {
-        "lat": 35.271067,
-        "lng": 137.7112747
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.3066452,
-          "lng": 137.7349725
-        },
-        "southwest": {
-          "lat": 35.2272697,
-          "lng": 137.6583951
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション風の森",
+      "photos": [
+        {
+          "height": 1525,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109601034997292499007\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDbEcH-81jG-LgFroetNPtBVy6wp6YfhsFwm_iPNyOvsVWrlvC_rNJEpT9G6o-nMlrumTCMm-O3_M5428dweqcQdkOylG8n2fD3OANvPyu_muYwTNRCGWbfNu8RAQ2LJHfC_2-0oPFdVuerM3M95dg9cSqkuTegJoiCRmApRvZoGALF",
+          "width": 2034
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJbaLEradeG2ARGLN6wb9IzCA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJAeoL9ZheG2ARCVfxANHRjh4",
+      "plus_code": {
+        "compound_code": "7PG4+6C 売木村、長野県",
+        "global_code": "8Q7V7PG4+6C"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

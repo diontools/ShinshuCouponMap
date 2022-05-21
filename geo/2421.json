@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木崎湖キャンプ場",
-        "short_name": "木崎湖キャンプ場",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "９７０７−１",
-        "short_name": "９７０７−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平９７０７−１ 木崎湖キャンプ場",
-    "geometry": {
-      "location": {
-        "lat": 36.5479494,
-        "lng": 137.837681
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5490156802915,
-          "lng": 137.8388978802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平９７０７−１ 木崎湖キャンプ場",
+      "geometry": {
+        "location": {
+          "lat": 36.5479494,
+          "lng": 137.837681
         },
-        "southwest": {
-          "lat": 36.5463177197085,
-          "lng": 137.8361999197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.54901652989273,
+            "lng": 137.8388987298927
+          },
+          "southwest": {
+            "lat": 36.54631687010728,
+            "lng": 137.8361990701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJPXj3eOjR918R8BklKRbhdu4",
-    "plus_code": {
-      "compound_code": "GRXQ+53 日本、長野県大町市",
-      "global_code": "8Q8VGRXQ+53"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "シロウマアウトドアカンパニー",
+      "photos": [
+        {
+          "height": 642,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116855652316207625976\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECB0shQLc2IvKGFVjI91h0hiFdJdiJ_Wz-FCj-NT0Cgg1A7Z6Guf2NFh-aQT89h1N010HYMqcRWtBR89z2f2xsIv7_1_hKuA9n4pi-IKn9faWTN0pQOD1FyFzSqrgKO3oH7qXP1CgUDEZFY_EhxS8IWaTIZjEW7FgkFZlw1w6mb2KxW",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJPXj3eOjR918R8BklKRbhdu4",
+      "plus_code": {
+        "compound_code": "GRXQ+53 大町市、長野県",
+        "global_code": "8Q8VGRXQ+53"
+      },
+      "types": [
+        "point_of_interest",
+        "travel_agency",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

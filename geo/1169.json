@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２５９０−１",
-        "short_name": "２５９０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "御影新田",
-        "short_name": "御影新田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-0808",
-        "short_name": "384-0808",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-0808 長野県小諸市御影新田２５９０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.298035,
-        "lng": 138.467009
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.29924433029149,
-          "lng": 138.4682728302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0808 長野県小諸市御影新田２５９０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.2978811,
+          "lng": 138.4670519
         },
-        "southwest": {
-          "lat": 36.29654636970849,
-          "lng": 138.4655748697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.29924517989271,
+            "lng": 138.4682736798927
+          },
+          "southwest": {
+            "lat": 36.29654552010727,
+            "lng": 138.4655740201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ1VONPe3LHWARaHcjn7JGlFs",
-    "plus_code": {
-      "compound_code": "7FX8+6R 日本、長野県小諸市",
-      "global_code": "8Q8W7FX8+6R"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "和泉屋菓子店ツルヤみかげ店傳兵衛",
+      "photos": [
+        {
+          "height": 3008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106081639825973769011\">Masaki TSUCHIYA</a>"
+          ],
+          "photo_reference": "Aap_uEC_MCUmuidcinEtCmKxZNIlFalk0-NkNpi1UPNIDVyzvfjnvPXOX2VZk5zUxW1h1YRiKTh0IRScBkCA68-5XvgEJVMFQeNimVymFrpPiHmUJn86f8_jA18ESeGV_GNG5du19QU_G6cOo1AL4SeKqzgS8J2EaTywAva1fzp1WA3BsX-V",
+          "width": 3008
+        }
+      ],
+      "place_id": "ChIJ1VONPe3LHWARaHcjn7JGlFs",
+      "plus_code": {
+        "compound_code": "7FX8+6R 小諸市、長野県",
+        "global_code": "8Q8W7FX8+6R"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

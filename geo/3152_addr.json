@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４７３４−３８８８",
-        "short_name": "４７３４−３８８８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平４７３４−３８８８",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0150802,
-          "lng": 138.2827402
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平４７３４−３８８８",
+      "geometry": {
+        "location": {
+          "lat": 36.0148823,
+          "lng": 138.2825215
         },
-        "southwest": {
-          "lat": 36.0146824,
-          "lng": 138.2823197
+        "viewport": {
+          "northeast": {
+            "lat": 36.01628507989272,
+            "lng": 138.2839899298927
+          },
+          "southwest": {
+            "lat": 36.01358542010728,
+            "lng": 138.2812902701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0148823,
-        "lng": 138.2825215
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0162302802915,
-          "lng": 138.2838881802915
-        },
-        "southwest": {
-          "lat": 36.0135323197085,
-          "lng": 138.2811902197085
-        }
-      }
-    },
-    "place_id": "ChIJW2OTuINFHGARvzq7F8-mIfI",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0213 長野県茅野市豊平４７３４−３８８８",
+      "place_id": "ChIJW2OTuINFHGARvzq7F8-mIfI",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松代町",
-        "short_name": "松代町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-1231",
-        "short_name": "381-1231",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-1231 長野県長野市松代町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5687161,
-          "lng": 138.2071553
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-1231 長野県長野市松代町松代８",
+      "geometry": {
+        "location": {
+          "lat": 36.5646466,
+          "lng": 138.1981391
         },
-        "southwest": {
-          "lat": 36.5542926,
-          "lng": 138.1930823
+        "viewport": {
+          "northeast": {
+            "lat": 36.56597522989272,
+            "lng": 138.1994943798927
+          },
+          "southwest": {
+            "lat": 36.56327557010728,
+            "lng": 138.1967947201073
+          }
         }
       },
-      "location": {
-        "lat": 36.5653994,
-        "lng": 138.198316
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5687161,
-          "lng": 138.2071553
-        },
-        "southwest": {
-          "lat": 36.5542926,
-          "lng": 138.1930823
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "松代タクシー 本社",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104006248674992158689\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED7T1Ak1dSso-1H9jHP9A64iebcLwpd0lp3E9qTVr6MEaevZ90koxKyM2I4BKHnqKNIoDWd4vJmtufk4IuLocO60o6n5cnZWc3YZsBr1hpAg8bw-BqhB789OzVHAkx360A7kYEcIERKrxTKGBCDBk9s5fIygAjFlSoMsMApEi7bDeM9",
+          "width": 4160
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJjeYvsC6FHWARIIxdex2Seyo",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJLai6ctaEHWAR-ETNYz1kGgE",
+      "plus_code": {
+        "compound_code": "H57X+V7 長野市、長野県",
+        "global_code": "8Q8WH57X+V7"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

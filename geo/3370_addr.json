@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "中箕輪",
-        "short_name": "中箕輪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "箕輪町",
-        "short_name": "箕輪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4601",
-        "short_name": "399-4601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9565541,
-          "lng": 137.9968276
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-4601 長野県上伊那郡箕輪町中箕輪",
+      "geometry": {
+        "location": {
+          "lat": 35.9050375,
+          "lng": 137.9844708
         },
-        "southwest": {
-          "lat": 35.892403,
-          "lng": 137.8868196
+        "viewport": {
+          "northeast": {
+            "lat": 35.9565541,
+            "lng": 137.9968276
+          },
+          "southwest": {
+            "lat": 35.892403,
+            "lng": 137.8868196
+          }
         }
       },
-      "location": {
-        "lat": 35.9050375,
-        "lng": 137.9844708
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9565541,
-          "lng": 137.9968276
-        },
-        "southwest": {
-          "lat": 35.892403,
-          "lng": 137.8868196
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "中箕輪",
+      "photos": [
+        {
+          "height": 5504,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111640198514794406473\">森谷良明</a>"
+          ],
+          "photo_reference": "Aap_uEBu6kkzom_whuH2ivMrZk0ZDJ3f9RhJdc-_8IOvQUbxfFpfsctSl4Q3DfyxgZzlDQmOuAkDkq0WDQgukwGynJ-5sL9W_e22V6X8VQzSStw78JWIEoDmauwHU4h3lvT94PJd1q5ozZ5ixT3DnLvVXgfYA9VihIcCVn76G2o5gqUn_XpB",
+          "width": 3096
         }
-      }
-    },
-    "place_id": "ChIJuSiDBhb7HGARc8YBpADkqr4",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJuSiDBhb7HGARc8YBpADkqr4",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

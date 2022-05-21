@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８",
-        "short_name": "８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "諏訪",
-        "short_name": "諏訪",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0004",
-        "short_name": "392-0004",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0004 長野県諏訪市諏訪１丁目９−８",
-    "geometry": {
-      "location": {
-        "lat": 36.047521,
-        "lng": 138.116984
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0489154302915,
-          "lng": 138.1183251302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0004 長野県諏訪市諏訪１丁目９−８",
+      "geometry": {
+        "location": {
+          "lat": 36.0475246,
+          "lng": 138.1169828
         },
-        "southwest": {
-          "lat": 36.0462174697085,
-          "lng": 138.1156271697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04891627989272,
+            "lng": 138.1183259798927
+          },
+          "southwest": {
+            "lat": 36.04621662010728,
+            "lng": 138.1156263201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJpbEkULJVHGAR3CTVADV9Kfc",
-    "plus_code": {
-      "compound_code": "24X8+2Q 日本、長野県諏訪市",
-      "global_code": "8Q8W24X8+2Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "イール亭おおいし",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115515760346197288300\">aya inoue</a>"
+          ],
+          "photo_reference": "Aap_uECXqpEXlBp4ns5kWj1rFB1_LEaekPbUenoEnPp9NmsTsW4VEWvMj6UgMfFYDqmnUd-az215QskMr580QjofM3go_lHeOVWWMzBMePelOvLNtiICFTbgnGRl8wX8jdiotm_rw5iFwi9h9IgXBn_17Ng1EVSqPiMEgGT3cTdwljdyIF8G",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJpbEkULJVHGAR3CTVADV9Kfc",
+      "plus_code": {
+        "compound_code": "24X8+2Q 諏訪市、長野県",
+        "global_code": "8Q8W24X8+2Q"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

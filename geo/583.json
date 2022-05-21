@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７−２",
-        "short_name": "１１７−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "鋳物師屋",
-        "short_name": "鋳物師屋",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0015",
-        "short_name": "387-0015",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0015 長野県千曲市鋳物師屋１１７−２",
-    "geometry": {
-      "location": {
-        "lat": 36.522029,
-        "lng": 138.127268
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.52329828029149,
-          "lng": 138.1286319302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒387-0015 長野県千曲市鋳物師屋１１７−２",
+      "geometry": {
+        "location": {
+          "lat": 36.5220552,
+          "lng": 138.1272601
         },
-        "southwest": {
-          "lat": 36.5206003197085,
-          "lng": 138.1259339697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.52329912989272,
+            "lng": 138.1286327798927
+          },
+          "southwest": {
+            "lat": 36.52059947010727,
+            "lng": 138.1259331201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJwTJH99CcHWARrWTamzevnNg",
-    "plus_code": {
-      "compound_code": "G4CG+RW 日本、長野県千曲市",
-      "global_code": "8Q8WG4CG+RW"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "信州観光バス 本社",
+      "photos": [
+        {
+          "height": 440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115746021292113233489\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBT-rz1_c-JMCaCB_U5L2GU1ecNGmfe-bR4rSarA-3METaC44jfk0Fwkoh6xDtAUui3a_yweZm4HTl_0B5eziZvjPCEd0eK24ENORgbk5rQO7GEDwGFqGJaQoyhcQBruJ4BWBulh-awk1IJRZ6pPdqzG394h-fkQmij4nU_aHv2H5kT",
+          "width": 586
+        }
+      ],
+      "place_id": "ChIJwTJH99CcHWARrWTamzevnNg",
+      "plus_code": {
+        "compound_code": "G4CG+RW 千曲市、長野県",
+        "global_code": "8Q8WG4CG+RW"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

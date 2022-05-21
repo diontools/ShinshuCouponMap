@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２７９３",
-        "short_name": "１２７９３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "夜間瀬",
-        "short_name": "夜間瀬",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0405",
-        "short_name": "381-0405",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１２７９３",
-    "geometry": {
-      "location": {
-        "lat": 36.789359,
-        "lng": 138.413875
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7907932802915,
-          "lng": 138.4151981302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0405 長野県下高井郡山ノ内町夜間瀬１２７９３",
+      "geometry": {
+        "location": {
+          "lat": 36.789359,
+          "lng": 138.413875
         },
-        "southwest": {
-          "lat": 36.7880953197085,
-          "lng": 138.4125001697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.79079412989272,
+            "lng": 138.4151989798927
+          },
+          "southwest": {
+            "lat": 36.78809447010728,
+            "lng": 138.4124993201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJC7VXdVz1HWARqAGWTfUZTD0",
-    "plus_code": {
-      "compound_code": "QCQ7+PG 日本、長野県山ノ内町",
-      "global_code": "8Q8WQCQ7+PG"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "name": "志賀高原カントリークラブ",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102957359277285587112\">志賀高原カントリークラブ</a>"
+          ],
+          "photo_reference": "Aap_uEBO6f5opLcQCtSALrKUvQ5Kl3YYo3srV56xJP1sJR9hpN4o0Qo2D1OQMY7YytcJ9MmDVNn4AATOoOLUZDhAAKOwtsyguEyCsYoxSX3qnEah9CouJIkAGBDmX7Vl1UTng9kqsjh4lPHKZFRTlLWPgZp6KzQvRqeMNRFgeH5RzuDtXm_o",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJC7VXdVz1HWARqAGWTfUZTD0",
+      "plus_code": {
+        "compound_code": "QCQ7+PG 山ノ内町、長野県",
+        "global_code": "8Q8WQCQ7+PG"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０６１８",
-        "short_name": "１０６１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "八島湿原",
-        "short_name": "八島湿原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "393-0000",
-        "short_name": "393-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒393-0000 長野県諏訪郡下諏訪町八島湿原１０６１８",
-    "geometry": {
-      "location": {
-        "lat": 36.1125901,
-        "lng": 138.1714944
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.11400408029149,
-          "lng": 138.1728242802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒393-0000 長野県諏訪郡下諏訪町八島湿原１０６１８",
+      "geometry": {
+        "location": {
+          "lat": 36.1125901,
+          "lng": 138.1714944
         },
-        "southwest": {
-          "lat": 36.11130611970849,
-          "lng": 138.1701263197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.11400492989272,
+            "lng": 138.1728251298927
+          },
+          "southwest": {
+            "lat": 36.11130527010728,
+            "lng": 138.1701254701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJzZTbADCrHWARkd27G97Xu-8",
-    "plus_code": {
-      "compound_code": "457C+2H 長野県下諏訪町",
-      "global_code": "8Q8W457C+2H"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ヒュッテ御射山",
+      "photos": [
+        {
+          "height": 2752,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110077055828121248392\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDHplrxnxgf7_Oq5ksDOX54UR4iJNROGpKAjgCIGotj0G78qnBHCSWIXgTvpauRiG0CNXzR2sIlgbhLpQHggc3ZGCbqq0xdUFnglvSueK3cvE1iljLJBo1yfNO6ZR4gkzOGU1plwu7FwD9_Zv6uWXQD_8LlEHbXW6Sf0TBm_xyJOvzw",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJzZTbADCrHWARkd27G97Xu-8",
+      "plus_code": {
+        "compound_code": "457C+2H 下諏訪町、長野県",
+        "global_code": "8Q8W457C+2H"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,90 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６８２−６",
-        "short_name": "３６８２−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "越水",
-        "short_name": "越水",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠越水３６８２−６",
-    "geometry": {
-      "location": {
-        "lat": 36.75285,
-        "lng": 138.092682
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.75425868029149,
-          "lng": 138.0939605302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠越水３６８２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.75285,
+          "lng": 138.092682
         },
-        "southwest": {
-          "lat": 36.7515607197085,
-          "lng": 138.0912625697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.75425952989273,
+            "lng": 138.0939613798927
+          },
+          "southwest": {
+            "lat": 36.75155987010728,
+            "lng": 138.0912617201073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "戸隠高原ホテル",
+      "photos": [
+        {
+          "height": 1353,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100708775991890483054\">戸隠高原ホテル</a>"
+          ],
+          "photo_reference": "Aap_uEA1wrV0sZc7cbHMSPlbJOquVTjAvH1nYlMqnaap5_1BrXXwocmxQgwN-hrDxy8WsDngVzZWTvqXaPT56uTT-oHKxjAsUh7UzNKpb4x4UVLIKTPbCcV7dNeJA2wcq0TXlCsCZghrOl_oyiat9nPVp0c034ewhYXMEqV5IvU5Ct4KEri7",
+          "width": 2162
+        }
+      ],
+      "place_id": "ChIJ33Jit-Uu9l8Rb804-kEbv6c",
+      "plus_code": {
+        "compound_code": "Q33V+43 長野市、長野県",
+        "global_code": "8Q8WQ33V+43"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJ33Jit-Uu9l8Rb804-kEbv6c",
-    "plus_code": {
-      "compound_code": "Q33V+43 日本、長野県長野市",
-      "global_code": "8Q8WQ33V+43"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠越水３６８２−６",
+      "geometry": {
+        "location": {
+          "lat": 36.7526794,
+          "lng": 138.0923293
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.75410287989273,
+            "lng": 138.0936594298928
+          },
+          "southwest": {
+            "lat": 36.75140322010729,
+            "lng": 138.0909597701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "戸隠高原ホテル サウナ小屋＆テントサウナ",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102530846648418237522\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECJ_rfg0Qbf0MHbyKO1aG_Tg1GJsE7qgEXhaWYCaLTn8t9LkQdINMoKdNhZElCCz96OifBZ7euTJ8SeWT0wGEVrB_DpSS7dMyv3JVVEszh2ZEYZ9HeMs1Jul0LKY6YTbash5A_d_ulWfII9RaxXGrHYPt6ORiMUNhOuT7tPHBw39sYY",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJvRoRjzUv9l8R_p5r33hbnVg",
+      "plus_code": {
+        "compound_code": "Q33R+3W 長野市、長野県",
+        "global_code": "8Q8WQ33R+3W"
+      },
+      "types": [
+        "spa",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

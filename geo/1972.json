@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４２０３",
-        "short_name": "４２０３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "安曇",
-        "short_name": "安曇",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-1515",
-        "short_name": "390-1515",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-1515 長野県松本市安曇４２０３",
-    "geometry": {
-      "location": {
-        "lat": 36.1528778,
-        "lng": 137.62835
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1541783302915,
-          "lng": 137.6299344802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1515 長野県松本市安曇４２０３",
+      "geometry": {
+        "location": {
+          "lat": 36.1528778,
+          "lng": 137.62835
         },
-        "southwest": {
-          "lat": 36.1514803697085,
-          "lng": 137.6272365197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.15417917989272,
+            "lng": 137.6299353298927
+          },
+          "southwest": {
+            "lat": 36.15147952010727,
+            "lng": 137.6272356701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5W5o1UE4HWARWVpmnTlZaoY",
-    "plus_code": {
-      "compound_code": "5J3H+58 日本、長野県松本市",
-      "global_code": "8Q8V5J3H+58"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白船グランドホテル",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101872711225558576221\">俊博鈴木</a>"
+          ],
+          "photo_reference": "Aap_uEDlLm0jWhG1UTVLaEw-qKY6AiIbv6bFxYsTgo1mMW2pWXlHAkaa6lIKOueX2KEEnKMshpRp46NnwVYVBrc8FNYsCB9oO2BaCW4rM7YMJvr4318hnMrn8fOGoM9UON0wMBonB76m0_ZoON5973ej0IhHYHl0m66_TFilJwlheydPe5o0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ5W5o1UE4HWARWVpmnTlZaoY",
+      "plus_code": {
+        "compound_code": "5J3H+58 松本市、長野県",
+        "global_code": "8Q8V5J3H+58"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,109 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "2f",
-        "short_name": "2f",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "浪やビル",
-        "short_name": "浪やビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１３６２",
-        "short_name": "１３６２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "末広町",
-        "short_name": "末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "大字南長野末広町",
-        "short_name": "大字南長野末広町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0825",
-        "short_name": "380-0825",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0825 長野県長野市大字南長野末広町末広町１３６２ 浪やビル 2f",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6441689,
-          "lng": 138.1876723
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0837 長野県長野市大字南長野末広町１９７０−１ 浪やビル 2F",
+      "geometry": {
+        "location": {
+          "lat": 36.6440055,
+          "lng": 138.187596
         },
-        "southwest": {
-          "lat": 36.6439562,
-          "lng": 138.1874558
+        "viewport": {
+          "northeast": {
+            "lat": 36.64530377989272,
+            "lng": 138.1889970298927
+          },
+          "southwest": {
+            "lat": 36.64260412010728,
+            "lng": 138.1862973701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6440814,
-        "lng": 138.1875568
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6454199802915,
-          "lng": 138.1889130302915
-        },
-        "southwest": {
-          "lat": 36.6427220197085,
-          "lng": 138.1862150697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "さかなや道場 長野駅善光寺口店",
+      "photos": [
+        {
+          "height": 1150,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111359164349189899255\">YU KEUNG CHIU</a>"
+          ],
+          "photo_reference": "Aap_uECpu8zTKmxcHq8JTOlxFuzwhyuAo4eiY37fjMY6c6stRdnsdfJGtMKoFIkeO8IhjctfceAAmocvTo-j6NpIFTCcvfUleSpx7N-2m4PHZGr2TsQ1Q8cQ98-EI0_UB08C5_kiJD-q1xHUdL2OSQgzq5JUEWca4OJ8xIaI6EcRuD4gu--W",
+          "width": 2048
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "El1KYXBhbiwg44CSMzgwLTA4MjUgTmFnYW5vLCDlpKflrZfljZfplbfph47mnKvluoPnlLpTdWVoaXJvY2jFjeKIku-8ke-8k--8lu-8kiDmtarjgoTjg5Pjg6sgMmYiHhocChYKFAoSCU1dZtqShh1gEe8fX7LQRaj2EgIyZg",
-    "types": [
-      "subpremise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJacCI2pKGHWARmfHFgb0cggk",
+      "plus_code": {
+        "compound_code": "J5VQ+J2 長野市、長野県",
+        "global_code": "8Q8WJ5VQ+J2"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

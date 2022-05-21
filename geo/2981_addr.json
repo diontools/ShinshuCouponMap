@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "伍和",
-        "short_name": "伍和",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0302",
-        "short_name": "395-0302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0302 長野県下伊那郡阿智村伍和",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.4420502,
-          "lng": 137.7703721
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒395-0302 長野県下伊那郡阿智村伍和",
+      "geometry": {
+        "location": {
+          "lat": 35.4166025,
+          "lng": 137.7341718
         },
-        "southwest": {
-          "lat": 35.3835711,
-          "lng": 137.7086182
+        "viewport": {
+          "northeast": {
+            "lat": 35.4420502,
+            "lng": 137.7703721
+          },
+          "southwest": {
+            "lat": 35.3835711,
+            "lng": 137.7086182
+          }
         }
       },
-      "location": {
-        "lat": 35.4166025,
-        "lng": 137.7341718
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4420502,
-          "lng": 137.7703721
-        },
-        "southwest": {
-          "lat": 35.3835711,
-          "lng": 137.7086182
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "伍和",
+      "photos": [
+        {
+          "height": 1968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109336627295974796394\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED9zYS0GA3gZIgyHEzxPYKye6piQnsFC6e16w7aeCSApWEz0K-aM6SvWrI7k3jVlYWrNjIGVwEZZI0e6pkxoFh4EneBsLq3I60hijOk-m-WyO228RcflUUbMjznpy-hqZBs9Wsb2TeqMWH_6PwOHdvZhf0udKlT9EkXsOmRLFSnOOI",
+          "width": 2624
         }
-      }
-    },
-    "place_id": "ChIJve2IJJShHGARO1vR7luRUfE",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJve2IJJShHGARO1vR7luRUfE",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

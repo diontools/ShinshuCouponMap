@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１１８−１",
-        "short_name": "１１１８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西尾張部",
-        "short_name": "西尾張部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0031",
-        "short_name": "381-0031",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0031 長野県長野市西尾張部１１１８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.6476824,
-        "lng": 138.2302101
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6491264302915,
-          "lng": 138.2315548802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0031 長野県長野市西尾張部１１１８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6476824,
+          "lng": 138.2302101
         },
-        "southwest": {
-          "lat": 36.6464284697085,
-          "lng": 138.2288569197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64912727989272,
+            "lng": 138.2315557298927
+          },
+          "southwest": {
+            "lat": 36.64642762010728,
+            "lng": 138.2288560701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJqcFtMAaGHWAR9VedyQcH_WA",
-    "plus_code": {
-      "compound_code": "J6XJ+33 長野県長野市",
-      "global_code": "8Q8WJ6XJ+33"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0031 長野県長野市西尾張部１１１８−１",
+      "place_id": "ChIJqcFtMAaGHWAR9VedyQcH_WA",
+      "plus_code": {
+        "compound_code": "J6XJ+33 長野市、長野県",
+        "global_code": "8Q8WJ6XJ+33"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０９１−７０",
-        "short_name": "２０９１−７０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "馬瀬口",
-        "short_name": "馬瀬口",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "御代田町",
-        "short_name": "御代田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0207",
-        "short_name": "389-0207",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0207 長野県北佐久郡御代田町馬瀬口２０９１−７０",
-    "geometry": {
-      "location": {
-        "lat": 36.32590200000001,
-        "lng": 138.501918
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.32721138029151,
-          "lng": 138.5033971802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0207 長野県北佐久郡御代田町馬瀬口２０９１−７０",
+      "geometry": {
+        "location": {
+          "lat": 36.3258682,
+          "lng": 138.5019641
         },
-        "southwest": {
-          "lat": 36.32451341970851,
-          "lng": 138.5006992197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.32721222989272,
+            "lng": 138.5033980298927
+          },
+          "southwest": {
+            "lat": 36.32451257010728,
+            "lng": 138.5006983701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJOT61byHMHWARwXvjacySK0o",
-    "plus_code": {
-      "compound_code": "8GG2+9Q 日本、長野県御代田町",
-      "global_code": "8Q8W8GG2+9Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "天狗乃茶屋",
+      "photos": [
+        {
+          "height": 2208,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104108422422528448092\">真開心</a>"
+          ],
+          "photo_reference": "Aap_uEACp5ONe4jt0Z6aiTIYHlf_9jc7xxZqWlk0hXR5OxFLSRk1SI8D2l3tFl8EkhS1xBAmkrxrlZIxsk6--nMgiWurbcRWgCOjwxwK0EzQq6ohf8mNnGO2lVeaPwnWsU_AvYd8LHhP6kdAAZ20Rcp7qqt2prLSsls71Qn8USaEjHq5J3nC",
+          "width": 3920
+        }
+      ],
+      "place_id": "ChIJOT61byHMHWARwXvjacySK0o",
+      "plus_code": {
+        "compound_code": "8GG2+9Q 御代田町、長野県",
+        "global_code": "8Q8W8GG2+9Q"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

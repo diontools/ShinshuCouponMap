@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１２５",
-        "short_name": "１１２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "磯部",
-        "short_name": "磯部",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0806",
-        "short_name": "389-0806",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0806 長野県千曲市磯部１１２５",
-    "geometry": {
-      "location": {
-        "lat": 36.48053,
-        "lng": 138.1503232
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4819335802915,
-          "lng": 138.1515575302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0806 長野県千曲市磯部１１２５",
+      "geometry": {
+        "location": {
+          "lat": 36.4806428,
+          "lng": 138.1502592
         },
-        "southwest": {
-          "lat": 36.4792356197085,
-          "lng": 138.1488595697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48193442989272,
+            "lng": 138.1515583798927
+          },
+          "southwest": {
+            "lat": 36.47923477010728,
+            "lng": 138.1488587201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJH5J1BQ6cHWARMp2A12hGQ_o",
-    "plus_code": {
-      "compound_code": "F5J2+64 日本、長野県千曲市",
-      "global_code": "8Q8WF5J2+64"
-    },
-    "types": [
-      "establishment",
-      "laundry",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "万葉超音波温泉",
+      "photos": [
+        {
+          "height": 337,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108214106426385483390\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECDwm3Jo94zccprU0ctmVx7i76CWBX9eRfarkkCC86cpd0220a7TifleFEyNSOfyL47doFW2dt57U8pWeW6VQGsnE_araDiesHWrq3iWkoE3DZLSlKXaUGIpHeAXJxO8nJlQnIzmeeV-s5woLHvTec9xFZKXBXYEnmaPkAgP575_lZa",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJH5J1BQ6cHWARMp2A12hGQ_o",
+      "plus_code": {
+        "compound_code": "F5J2+64 千曲市、長野県",
+        "global_code": "8Q8WF5J2+64"
+      },
+      "types": [
+        "laundry",
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

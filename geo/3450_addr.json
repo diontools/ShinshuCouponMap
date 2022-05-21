@@ -1,94 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５２−２",
-        "short_name": "５２−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "沖田町",
-        "short_name": "沖田町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0013",
-        "short_name": "392-0013",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町３丁目５２−２",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0037077,
-          "lng": 138.1332203
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒392-0013 長野県諏訪市沖田町３丁目５２−２",
+      "geometry": {
+        "location": {
+          "lat": 36.0035882,
+          "lng": 138.1331329
         },
-        "southwest": {
-          "lat": 36.0035071,
-          "lng": 138.1329802
+        "viewport": {
+          "northeast": {
+            "lat": 36.00489447989272,
+            "lng": 138.1343269298927
+          },
+          "southwest": {
+            "lat": 36.00219482010728,
+            "lng": 138.1316272701073
+          }
         }
       },
-      "location": {
-        "lat": 36.0035882,
-        "lng": 138.1331329
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0049533802915,
-          "lng": 138.1343697802915
-        },
-        "southwest": {
-          "lat": 36.0022554197085,
-          "lng": 138.1316718197085
-        }
-      }
-    },
-    "place_id": "ChIJp2PfEe9WHGARd384MmADr7U",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒392-0013 長野県諏訪市沖田町３丁目５２−２",
+      "place_id": "ChIJp2PfEe9WHGARd384MmADr7U",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

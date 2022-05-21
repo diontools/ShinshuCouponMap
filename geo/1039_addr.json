@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１４９２−３２１",
-        "short_name": "１１４９２−３２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "飯山",
-        "short_name": "飯山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2253",
-        "short_name": "389-2253",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2253 長野県飯山市飯山１１４９２−３２１",
-    "geometry": {
-      "location": {
-        "lat": 36.8518561,
-        "lng": 138.2903483
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8532675302915,
-          "lng": 138.2919966302915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2253 長野県飯山市飯山１１４９２−３２１",
+      "geometry": {
+        "location": {
+          "lat": 36.8518561,
+          "lng": 138.2903483
         },
-        "southwest": {
-          "lat": 36.8505695697085,
-          "lng": 138.2892986697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85326837989272,
+            "lng": 138.2919974798927
+          },
+          "southwest": {
+            "lat": 36.85056872010727,
+            "lng": 138.2892978201073
+          }
         }
-      }
-    },
-    "place_id": "ChIJZY5FCn4Y9l8RQ-jNOKW7ACk",
-    "plus_code": {
-      "compound_code": "V72R+P4 長野県飯山市",
-      "global_code": "8Q8WV72R+P4"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2253 長野県飯山市飯山１１４９２−３２１",
+      "place_id": "ChIJZY5FCn4Y9l8RQ-jNOKW7ACk",
+      "plus_code": {
+        "compound_code": "V72R+P4 飯山市、長野県",
+        "global_code": "8Q8WV72R+P4"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

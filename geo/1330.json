@@ -1,102 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１",
-        "short_name": "２１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0012",
-        "short_name": "386-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0012 長野県上田市中央１丁目１−２１",
-    "geometry": {
-      "location": {
-        "lat": 36.398123,
-        "lng": 138.250136
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.39942043029149,
-          "lng": 138.2516094302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0012 長野県上田市中央１丁目１−２１",
+      "geometry": {
+        "location": {
+          "lat": 36.3980662,
+          "lng": 138.250273
         },
-        "southwest": {
-          "lat": 36.3967224697085,
-          "lng": 138.2489114697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39942127989271,
+            "lng": 138.2516102798927
+          },
+          "southwest": {
+            "lat": 36.39672162010727,
+            "lng": 138.2489106201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJW9OWHdq8HWARwoCcJCHP_Sk",
-    "plus_code": {
-      "compound_code": "97X2+63 日本、長野県上田市",
-      "global_code": "8Q8W97X2+63"
-    },
-    "types": [
-      "bakery",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "みすゞ飴本舗 飯島商店 上田本店",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103314122367758340260\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDtKvT9jW5QWP8zwq-thDnZqpGcwd96EQdEVOihtcC0lQF0Rav_B-2__I2WXlVA9YcOz-4ya2IkIyyWwZVPRFFVxry6G6Vd_kgLmdj_vBmEXmEouKQQX5MMl_aKsp5X3lKnP56bZwnkucBwzOyXIrY7MA4mMPxvD-HpI4sk32v_Dh5-",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJW9OWHdq8HWARwoCcJCHP_Sk",
+      "plus_code": {
+        "compound_code": "97X2+63 上田市、長野県",
+        "global_code": "8Q8W97X2+63"
+      },
+      "types": [
+        "bakery",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

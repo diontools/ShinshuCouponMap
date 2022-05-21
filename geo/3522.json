@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１７９２−３７５",
-        "short_name": "１７９２−３７５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "渋崎",
-        "short_name": "渋崎",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0010",
-        "short_name": "392-0010",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0010 長野県諏訪市渋崎１７９２−３７５",
-    "geometry": {
-      "location": {
-        "lat": 36.038968,
-        "lng": 138.0983189
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0403574802915,
-          "lng": 138.0995606802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0010 長野県諏訪市渋崎１７９２−３７５",
+      "geometry": {
+        "location": {
+          "lat": 36.038968,
+          "lng": 138.0983189
         },
-        "southwest": {
-          "lat": 36.03765951970851,
-          "lng": 138.0968627197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04035832989273,
+            "lng": 138.0995615298927
+          },
+          "southwest": {
+            "lat": 36.03765867010728,
+            "lng": 138.0968618701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp9qCTZZVHGARCojUmk6aMt8",
-    "plus_code": {
-      "compound_code": "23QX+H8 長野県諏訪市",
-      "global_code": "8Q8W23QX+H8"
-    },
-    "types": [
-      "establishment",
-      "museum",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "諏訪市原田泰治美術館",
+      "photos": [
+        {
+          "height": 3792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115091947978266067664\">Pooh Kuma</a>"
+          ],
+          "photo_reference": "Aap_uEBxpyY7N2cx9_Ihpyza0p62oNSCcC62ETVtzESH-mNleIhDD25zO07VCOThhbyE7_rWZ3aRrbrzcSAtpT8Cv9EEbmkev4yZFff1n-y6089rfJ57vrW4YXtskThwgVukAOOc1-r9yOwCSDOBTW4bpROCmgrfNHNbRwlDgnA4MxgZXADU",
+          "width": 5056
+        }
+      ],
+      "place_id": "ChIJp9qCTZZVHGARCojUmk6aMt8",
+      "plus_code": {
+        "compound_code": "23QX+H8 諏訪市、長野県",
+        "global_code": "8Q8W23QX+H8"
+      },
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１５０−１",
-        "short_name": "３１５０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中込",
-        "short_name": "中込",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "佐久市",
-        "short_name": "佐久市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "385-0051",
-        "short_name": "385-0051",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒385-0051 長野県佐久市中込３１５０−１",
-    "geometry": {
-      "location": {
-        "lat": 36.254019,
-        "lng": 138.4800212
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2553688802915,
-          "lng": 138.4816268802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒385-0051 長野県佐久市中込３１５０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.254019,
+          "lng": 138.4800212
         },
-        "southwest": {
-          "lat": 36.2526709197085,
-          "lng": 138.4789289197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.25536972989272,
+            "lng": 138.4816277298927
+          },
+          "southwest": {
+            "lat": 36.25267007010728,
+            "lng": 138.4789280701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFWISwKnMHWARUZ8gDqG4IXs",
-    "plus_code": {
-      "compound_code": "7F3J+J2 日本、長野県佐久市",
-      "global_code": "8Q8W7F3J+J2"
-    },
-    "types": [
-      "establishment",
-      "health",
-      "lodging",
-      "point_of_interest",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "佐久一萬里温泉ホテル",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110897996240967281885\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAtYq20W9jYTmhW4SWOA59IrjXpBpTktWa-8W4-aQoqts_FvLa8FzqazFn523L1ca5bYu688NqrY5fjAilSmjRiqf1TU8XW9cGeSVGBr9QCt4ZG1-ZZJzSkMj8KOXP-7zIM9vpY_l210207srwpRqPCRdge1HMLCxP6M0xUgmify7pB",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJFWISwKnMHWARUZ8gDqG4IXs",
+      "plus_code": {
+        "compound_code": "7F3J+J2 佐久市、長野県",
+        "global_code": "8Q8W7F3J+J2"
+      },
+      "types": [
+        "lodging",
+        "spa",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

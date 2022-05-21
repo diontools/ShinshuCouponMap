@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "192番地番地",
-        "short_name": "192番地番地",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平沢",
-        "short_name": "平沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1306",
-        "short_name": "384-1306",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1306 長野県南佐久郡南牧村平沢192番地番地",
-    "geometry": {
-      "location": {
-        "lat": 35.9174478,
-        "lng": 138.4499904
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9187755302915,
-          "lng": 138.4513819302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1306 長野県南佐久郡南牧村平沢192番地番地",
+      "geometry": {
+        "location": {
+          "lat": 35.9174478,
+          "lng": 138.4499904
         },
-        "southwest": {
-          "lat": 35.9160775697085,
-          "lng": 138.4486839697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.91877637989272,
+            "lng": 138.4513827798927
+          },
+          "southwest": {
+            "lat": 35.91607672010728,
+            "lng": 138.4486831201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3YfBzrEVHGARiNvQPqQ0VZM",
-    "plus_code": {
-      "compound_code": "WC8X+XX 日本、長野県南牧村",
-      "global_code": "8Q7WWC8X+XX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "しんたく山荘",
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117865870663822864536\">Masanao Inoue</a>"
+          ],
+          "photo_reference": "Aap_uEC3dyI06vRugvWDJv2AjqpIm9DY3HM8u6d3903p9kDHC4P0aRmN7pGRJaDQgLwj7Z0sumwf3aTcPgfSuV9I3FCrJagoNx8K4zEABDMXZ6RLeF1_8JhnCThUPqVjcCN2lHRpbdZo1lTbG9LEcHrs3FG_7PLgtx1rd3SakmZl-sII2_9v",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJ3YfBzrEVHGARiNvQPqQ0VZM",
+      "plus_code": {
+        "compound_code": "WC8X+XX 南牧村、長野県",
+        "global_code": "8Q7WWC8X+XX"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,64 +1,52 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-1516 長野県松本市 上高地4468",
+      "geometry": {
+        "location": {
+          "lat": 36.2487698,
+          "lng": 137.6383587
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.25011962989272,
+            "lng": 137.6397085298927
+          },
+          "southwest": {
+            "lat": 36.24741997010727,
+            "lng": 137.6370088701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "五千尺ホテル上高地",
+      "photos": [
+        {
+          "height": 1389,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111558086751236021899\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDd1fGMa6I_atqX4QHliWDpJI7Txf04WlRCzI21cJawmbmTYQWDizJ_zVclnyi6o_MLE4x6rgxn0n_hqGzi_JZqjJEFMfwNVi6pclFlDWTOqvKSBJk-qP60F7-YDGhT5PA-2ZfunvQL2F6qh9nytJH1sXOWjOtV8w6UqxBpPAo59RYL",
+          "width": 2048
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJh-62VNZFHWAREt0Vige4P0M",
+      "plus_code": {
+        "compound_code": "6JXQ+G8 松本市、長野県",
+        "global_code": "8Q8V6JXQ+G8"
+      },
+      "types": [
+        "cafe",
+        "lodging",
+        "bakery",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

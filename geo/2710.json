@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５０９８",
-        "short_name": "５０９８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城５０９８",
-    "geometry": {
-      "location": {
-        "lat": 36.7006005,
-        "lng": 137.8422292
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7019566302915,
-          "lng": 137.8436682302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城５０９８",
+      "geometry": {
+        "location": {
+          "lat": 36.7006005,
+          "lng": 137.8422292
         },
-        "southwest": {
-          "lat": 36.69925866970851,
-          "lng": 137.8409702697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70195747989273,
+            "lng": 137.8436690798927
+          },
+          "southwest": {
+            "lat": 36.69925782010728,
+            "lng": 137.8409694201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJSzzMxgfO918RXekvwi2SbR8",
-    "plus_code": {
-      "compound_code": "PR2R+6V 長野県白馬村",
-      "global_code": "8Q8VPR2R+6V"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテルペンション アルピーヌ",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111997385468852330109\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDrSxtmJd0jiXcONjG9Skp2EWj6okbPttZs6YtsAT0TNSbOxldz7XgleXa6XHda1rfcobWoWSkdcpxugvTQ0AXNIA2SkEbot0UBJZFAY7JRdxJiLiZsXd3QWcbPM2U0eXN8S0NqP0K59dT6rzKAQXkAHuepMIlz9rDQiKpQTVQbWxuQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJSzzMxgfO918RXekvwi2SbR8",
+      "plus_code": {
+        "compound_code": "PR2R+6V 白馬村、長野県",
+        "global_code": "8Q8VPR2R+6V"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

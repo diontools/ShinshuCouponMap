@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１−８",
-        "short_name": "１−８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0103",
-        "short_name": "389-0103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢１−８",
-    "geometry": {
-      "location": {
-        "lat": 36.356132,
-        "lng": 138.634245
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3574662302915,
-          "lng": 138.6355218302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0103 長野県北佐久郡軽井沢町軽井沢１−８",
+      "geometry": {
+        "location": {
+          "lat": 36.3561143,
+          "lng": 138.6342011
         },
-        "southwest": {
-          "lat": 36.3547682697085,
-          "lng": 138.6328238697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35746707989271,
+            "lng": 138.6355226798927
+          },
+          "southwest": {
+            "lat": 36.35476742010727,
+            "lng": 138.6328230201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJPbJah4bTHWARUs5pTV07nqM",
-    "plus_code": {
-      "compound_code": "9J4M+FM 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J4M+FM"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "デリカテッセン・キッツビュール",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105069171783421945481\">小島涼平</a>"
+          ],
+          "photo_reference": "Aap_uEAG6l9KftMs9wYQKGtqh7VcsKa3AUI1ydJVU7LYdDi-q6Sqi6BNoNBajBqMEZVQqlLSQNPMUxaR4tHGCOfyTxx-4lWgnFlFnWDLJVxLIGpu21fkAsHju-1Y-J7r0LZ8dwwaqHMVxPAyhG7NbCTI40UT-wxsbWdF5L31CqnfgGt8sn62",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJPbJah4bTHWARUs5pTV07nqM",
+      "plus_code": {
+        "compound_code": "9J4M+FM 軽井沢町、長野県",
+        "global_code": "8Q8W9J4M+FM"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

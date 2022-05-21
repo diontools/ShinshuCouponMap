@@ -1,115 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1F",
-        "short_name": "1F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "松本パルコ",
-        "short_name": "松本パルコ",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３０",
-        "short_name": "３０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１０−３０ 松本パルコ 1F",
-    "geometry": {
-      "location": {
-        "lat": 36.2328761,
-        "lng": 137.9679581
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2338985302915,
-          "lng": 137.9693709302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１０−３０ 松本パルコ 1F",
+      "geometry": {
+        "location": {
+          "lat": 36.2328761,
+          "lng": 137.9679581
         },
-        "southwest": {
-          "lat": 36.23120056970851,
-          "lng": 137.9666729697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23389937989272,
+            "lng": 137.9693717798928
+          },
+          "southwest": {
+            "lat": 36.23119972010728,
+            "lng": 137.9666721201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJoU_yeJMPHWARgKArT7JgtH0",
-    "plus_code": {
-      "compound_code": "6XM9+55 日本、長野県松本市",
-      "global_code": "8Q8V6XM9+55"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "そばきり みよ田 松本パルコ店",
+      "photos": [
+        {
+          "height": 3721,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106457640815817022558\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAqq7EOwpbK-8aRhHQozh-CfJj7YfXgFvap11jSTa3UBhw2T7uiLeXCBe7_uX5nYYFVqJkp_lz0C2M3QtMLCokIKfFBV68DygizA0WSB3VI90UM9lLtuQO6oZJLWoS8eaIsyT-wqkFRH3e0jmwRiBG2IEJQeTi9p6LYSiembrsxcznZ",
+          "width": 5581
+        }
+      ],
+      "place_id": "ChIJoU_yeJMPHWARgKArT7JgtH0",
+      "plus_code": {
+        "compound_code": "6XM9+55 松本市、長野県",
+        "global_code": "8Q8V6XM9+55"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

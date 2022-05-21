@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０９２−７",
-        "short_name": "４０９２−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "智里",
-        "short_name": "智里",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "阿智村",
-        "short_name": "阿智村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0304",
-        "short_name": "395-0304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里４０９２−７",
-    "geometry": {
-      "location": {
-        "lat": 35.4451141,
-        "lng": 137.6629333
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4463733802915,
-          "lng": 137.6642883302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0304 長野県下伊那郡阿智村智里４０９２−７",
+      "geometry": {
+        "location": {
+          "lat": 35.4451089,
+          "lng": 137.6629434
         },
-        "southwest": {
-          "lat": 35.4436754197085,
-          "lng": 137.6615903697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.44637422989272,
+            "lng": 137.6642891798927
+          },
+          "southwest": {
+            "lat": 35.44367457010728,
+            "lng": 137.6615895201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-RERZ-SkHGARFQE5YrtY3jw",
-    "plus_code": {
-      "compound_code": "CMW7+25 長野県阿智村",
-      "global_code": "8Q7VCMW7+25"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "野熊の庄 月川",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115271115201764807934\">大吉長安</a>"
+          ],
+          "photo_reference": "Aap_uEA0xYb7J5f23SvgFsZgG0JUr9d2awvtgPJDjkIEEbtxmMz5SRZ6OipZHdW0CiSOVgrK03TszfQ2LFa-f9hdOlwGVumwmE2AN0b8y1hdIhio5U-ZLNNYJgpgxvEG2Sjfmgr1JslnGKTgOepeNhz6pMVadRCFEw58TL6aEir2G6cuHM76",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-RERZ-SkHGARFQE5YrtY3jw",
+      "plus_code": {
+        "compound_code": "CMW7+25 阿智村、長野県",
+        "global_code": "8Q7VCMW7+25"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

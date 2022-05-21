@@ -1,80 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "ちの",
-        "short_name": "ちの",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0001",
-        "short_name": "391-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0001 長野県茅野市ちの",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0151453,
-          "lng": 138.1623455
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0001 長野県茅野市ちの",
+      "geometry": {
+        "location": {
+          "lat": 36.0059618,
+          "lng": 138.1473741
         },
-        "southwest": {
-          "lat": 35.990402,
-          "lng": 138.1356301
+        "viewport": {
+          "northeast": {
+            "lat": 36.0151453,
+            "lng": 138.1623455
+          },
+          "southwest": {
+            "lat": 35.990402,
+            "lng": 138.1356301
+          }
         }
       },
-      "location": {
-        "lat": 36.0059618,
-        "lng": 138.1473741
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0151453,
-          "lng": 138.1623455
-        },
-        "southwest": {
-          "lat": 35.990402,
-          "lng": 138.1356301
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "ちの",
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107914612578214692798\">遠藤栄一</a>"
+          ],
+          "photo_reference": "Aap_uEBTtUzrRedXMgEXzvi4NnJJDurfWeMQDvs41MYmzJdkIEJAbghzCt3XIo-qKNJOngp1VUGKQ4NZ3iuGQVDeLO3x4YFlCpQnqKsRMuBSj5O_UA4Y1XWyA5fFWLvnxQiRZAClnKIZ09C6yJW_xTJA2eYsQ4YbWc8s-wsnXA9y6qSCeVpt",
+          "width": 2336
         }
-      }
-    },
-    "place_id": "ChIJ3dcMzNlWHGARydJ_OAm8Yho",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ3dcMzNlWHGARydJ_OAm8Yho",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

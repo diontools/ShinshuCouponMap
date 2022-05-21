@@ -1,79 +1,51 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "穂高",
-        "short_name": "穂高",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8303",
-        "short_name": "399-8303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8303 長野県安曇野市穂高 穂高4337−2",
-    "geometry": {
-      "location": {
-        "lat": 36.3427485,
-        "lng": 137.8853438
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3441215802915,
-          "lng": 137.8867798802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8303 長野県安曇野市 穂高4337−2",
+      "geometry": {
+        "location": {
+          "lat": 36.3427764,
+          "lng": 137.8854423
         },
-        "southwest": {
-          "lat": 36.3414236197085,
-          "lng": 137.8840819197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34412242989272,
+            "lng": 137.8867807298927
+          },
+          "southwest": {
+            "lat": 36.34142277010728,
+            "lng": 137.8840810701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJi2tPLtBhHWAR7ootGds0oZM",
-    "plus_code": {
-      "compound_code": "8VVP+34 日本、長野県安曇野市",
-      "global_code": "8Q8V8VVP+34"
-    },
-    "types": [
-      "cafe",
-      "clothing_store",
-      "establishment",
-      "food",
-      "home_goods_store",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "あづみ野バザール若松屋",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106160094790994398490\">koji sakakibara</a>"
+          ],
+          "photo_reference": "Aap_uEB6LoOWW55c8plEl2cDfcrYYNjsaXtCtJlUoCmundbzdawJE_r1sTbL7aR3XHh2TN7_zOojgsluhW83JBgLEzIweDojSl7aKUzlAY6G_h3am3Me2K990e6KWkMQOiq_iXybcQzDknraEt4_ckDKMTwfMznxOKtCBsOJC9cxzwDqv3W-",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJi2tPLtBhHWAR7ootGds0oZM",
+      "plus_code": {
+        "compound_code": "8VVP+34 安曇野市、長野県",
+        "global_code": "8Q8V8VVP+34"
+      },
+      "types": [
+        "cafe",
+        "clothing_store",
+        "home_goods_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

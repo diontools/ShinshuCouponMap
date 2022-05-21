@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０",
-        "short_name": "２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "高宮中",
-        "short_name": "高宮中",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0834",
-        "short_name": "390-0834",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0834 長野県松本市高宮中１−２０ イトーヨーカドー南松本店2階",
-    "geometry": {
-      "location": {
-        "lat": 36.2132136,
-        "lng": 137.9610535
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2143495802915,
-          "lng": 137.9620871302915
+{
+  "candidates": [
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "日本、〒390-0834 長野県松本市高宮中１−２０ イトーヨーカドー南松本店2階",
+      "geometry": {
+        "location": {
+          "lat": 36.2132136,
+          "lng": 137.9610535
         },
-        "southwest": {
-          "lat": 36.2116516197085,
-          "lng": 137.9593891697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.21435197989272,
+            "lng": 137.9620877298927
+          },
+          "southwest": {
+            "lat": 36.21165232010728,
+            "lng": 137.9593880701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJS9AMH1YOHWARdcQwmjSXVOY",
-    "plus_code": {
-      "compound_code": "6X76+7C 日本、長野県松本市",
-      "global_code": "8Q8V6X76+7C"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "JTB 南松本イトーヨーカドー店 - 閉店",
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117820938435728667578\">JTB東海南松本イトーヨーカドー店</a>"
+          ],
+          "photo_reference": "Aap_uEC7mrI90Cc7g51SPncw9eMzdh3XsI4OjMHcfZvIDdCHqNg2tIqLYRFbtcdDzP3V2lTSk-ORBXWrbLCc6Ca55sDr1BMH6pA2UonCRZzUA65N82uhNXWCcGCDrzko4zQ7P49YY8cu0m85U0P0WQqRuG4Fv86Ykd_BMXsS-2U6JyI2Vyad",
+          "width": 2119
+        }
+      ],
+      "place_id": "ChIJS9AMH1YOHWARdcQwmjSXVOY",
+      "plus_code": {
+        "compound_code": "6X76+7C 松本市、長野県",
+        "global_code": "8Q8V6X76+7C"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

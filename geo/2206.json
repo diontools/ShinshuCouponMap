@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１９",
-        "short_name": "１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１７",
-        "short_name": "１７",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１７−１９",
-    "geometry": {
-      "location": {
-        "lat": 36.2333042,
-        "lng": 137.965377
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2345639302915,
-          "lng": 137.9667209302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１７−１９",
+      "geometry": {
+        "location": {
+          "lat": 36.2333042,
+          "lng": 137.965377
         },
-        "southwest": {
-          "lat": 36.2318659697085,
-          "lng": 137.9640229697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23456477989271,
+            "lng": 137.9667217798927
+          },
+          "southwest": {
+            "lat": 36.23186512010727,
+            "lng": 137.9640221201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJt9JpmGMPHWARc_btVr7yK9A",
-    "plus_code": {
-      "compound_code": "6XM8+85 日本、長野県松本市",
-      "global_code": "8Q8V6XM8+85"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "信州ビストロ懐石 Ginjo",
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106893741080911866531\">池本秀哉</a>"
+          ],
+          "photo_reference": "Aap_uECwnJVF-kHi8lycQ5Onif0tJGL_Bnr_Ru37ob5Ob1htsk8tqzluWf9pEHtmle54j1X7vJR6MRYYYy2pK6fumXgBgUndgHq_23OLwL1K1eVirOC01AMnagwtc9pflLQg1BFyu8qn4GbD0evk2ci_EWlu1Sc2F0YnO30SF790eWM6noPa",
+          "width": 3418
+        }
+      ],
+      "place_id": "ChIJt9JpmGMPHWARc_btVr7yK9A",
+      "plus_code": {
+        "compound_code": "6XM8+85 松本市、長野県",
+        "global_code": "8Q8V6XM8+85"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

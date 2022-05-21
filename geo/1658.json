@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８９４−１",
-        "short_name": "２８９４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２８９４−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3452211,
-        "lng": 138.5950261
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3465041802915,
-          "lng": 138.5963790802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉２８９４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3452211,
+          "lng": 138.5950261
         },
-        "southwest": {
-          "lat": 36.3438062197085,
-          "lng": 138.5936811197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34650502989272,
+            "lng": 138.5963799298927
+          },
+          "southwest": {
+            "lat": 36.34380537010728,
+            "lng": 138.5936802701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ1SPtP0zSHWAR9VE7dc-X5Xg",
-    "plus_code": {
-      "compound_code": "8HWW+32 日本、長野県軽井沢町",
-      "global_code": "8Q8W8HWW+32"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ル・モンヴェール",
+      "photos": [
+        {
+          "height": 2935,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100761278505787432693\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDJvZWjH_2vTxS1i_INKTFQoQR7-MSR-pi3wuCA3Ae_xcvSTlzQjnKVCU4EKadrXpkkil5VnL0Q7K3a84ortE9BwxvZEM-92Pt3lpUng9WrFcZjo3SqdG2OQW522aAh7EYpwhUAiAK9d_G5JDKi7e6yYUlvki4oROEs44BBAQR29F6H",
+          "width": 2935
+        }
+      ],
+      "place_id": "ChIJ1SPtP0zSHWAR9VE7dc-X5Xg",
+      "plus_code": {
+        "compound_code": "8HWW+32 軽井沢町、長野県",
+        "global_code": "8Q8W8HWW+32"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

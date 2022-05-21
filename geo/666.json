@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１５７",
-        "short_name": "２１５７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸隠",
-        "short_name": "戸隠",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-4101",
-        "short_name": "381-4101",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-4101 長野県長野市戸隠２１５７",
-    "geometry": {
-      "location": {
-        "lat": 36.7308631,
-        "lng": 138.0761224
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7321375302915,
-          "lng": 138.0774738302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-4101 長野県長野市戸隠２１５７",
+      "geometry": {
+        "location": {
+          "lat": 36.7307463,
+          "lng": 138.0761377
         },
-        "southwest": {
-          "lat": 36.7294395697085,
-          "lng": 138.0747758697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73213837989272,
+            "lng": 138.0774746798927
+          },
+          "southwest": {
+            "lat": 36.72943872010728,
+            "lng": 138.0747750201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ3YSmqwIs9l8Rs3wlWQ9AFwQ",
-    "plus_code": {
-      "compound_code": "P3JG+8C 日本、長野県長野市",
-      "global_code": "8Q8WP3JG+8C"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "お宿 富岡",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114823691371905010344\">Misuzu Asamizu</a>"
+          ],
+          "photo_reference": "Aap_uEAD5CGmbOVr34_fYmnDMBw5OX7TmGFzasoZiYkz221KeYOblxAE9FfYDwYbhbZfFg4Jt5koYoUpSKsk7JKnzzX0j3SelXGsIVpBCzowloijesp4M43sjyFLwzI64RB2PSThAxksZy-w_ZapMAGJbn0yipl2salSulzTUYP6ubXB6z80",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ3YSmqwIs9l8Rs3wlWQ9AFwQ",
+      "plus_code": {
+        "compound_code": "P3JG+8C 長野市、長野県",
+        "global_code": "8Q8WP3JG+8C"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

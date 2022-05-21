@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４１０−１７",
-        "short_name": "４１０−１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "芦田八ケ野",
-        "short_name": "芦田八ケ野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-2309",
-        "short_name": "384-2309",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野４１０−１７",
-    "geometry": {
-      "location": {
-        "lat": 36.1315973,
-        "lng": 138.2723715
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1330865802915,
-          "lng": 138.2736382802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野４１０−１７",
+      "geometry": {
+        "location": {
+          "lat": 36.1315973,
+          "lng": 138.2723715
         },
-        "southwest": {
-          "lat": 36.1303886197085,
-          "lng": 138.2709403197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.13308742989272,
+            "lng": 138.2736391298927
+          },
+          "southwest": {
+            "lat": 36.13038777010728,
+            "lng": 138.2709394701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJnZxlwgxNHGARJ0zW-Nll2gY",
-    "plus_code": {
-      "compound_code": "47JC+JW 日本、長野県立科町",
-      "global_code": "8Q8W47JC+JW"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "BLUEBELL COTTAGE ブルーベルコテージ",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111824939786353073386\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECKCYU59Y1QTDOurj8RgUVH7CcEuS88hSWY6aj1X-c9F2rtGPoj1EGt0paEG57ucBEfFuahBzCJUWeUaYnVsjkqfZuy8mpkR43fjMUy4M1AjXXtmuhoD070RU692pDDbce09qlcYQaaRQjes4VPy1m8fVvMZTnbfE2P-x4Gn9XOWSV0",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJnZxlwgxNHGARJ0zW-Nll2gY",
+      "plus_code": {
+        "compound_code": "47JC+JW 立科町、長野県",
+        "global_code": "8Q8W47JC+JW"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

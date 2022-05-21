@@ -1,169 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "高田",
-        "short_name": "高田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0034",
-        "short_name": "381-0034",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0034 長野県長野市高田",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.653143,
-          "lng": 138.2278554
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0034 長野県長野市高田 字五反田1707-3",
+      "geometry": {
+        "location": {
+          "lat": 36.6444401,
+          "lng": 138.2167985
         },
-        "southwest": {
-          "lat": 36.6364096,
-          "lng": 138.2021371
+        "viewport": {
+          "northeast": {
+            "lat": 36.64571852989272,
+            "lng": 138.2181627798928
+          },
+          "southwest": {
+            "lat": 36.64301887010728,
+            "lng": 138.2154631201073
+          }
         }
       },
-      "location": {
-        "lat": 36.643958,
-        "lng": 138.2119915
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.653143,
-          "lng": 138.2278554
-        },
-        "southwest": {
-          "lat": 36.6364096,
-          "lng": 138.2021371
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "くら寿司 長野高田店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111037764256483291590\">西澤秀樹</a>"
+          ],
+          "photo_reference": "Aap_uEBCSC_tZRocH6kv-cPnMTDY_RAim-80uPiMx7pis1Cpzc0_xhaC3Z91KeE3aNhEfgLynhODICyUthjSXBf9MQJ8lFHZZqwOKenFdWHH9JhjjBWpEWCHAf9j4VwaHH7BVWNqASvLAy3WhVglnpQs_rqJhbYwsUuR19AUAvfFr7WgKTfO",
+          "width": 3840
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ45b0z3OGHWARKJFvyX1kAG8",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "五反田",
-        "short_name": "五反田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
+      ],
+      "place_id": "ChIJr42_m3OGHWARY-unAiimmr8",
+      "plus_code": {
+        "compound_code": "J6V8+QP 長野市、長野県",
+        "global_code": "8Q8WJ6V8+QP"
       },
-      {
-        "long_name": "針崎町",
-        "short_name": "針崎町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡崎市",
-        "short_name": "岡崎市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "愛知県",
-        "short_name": "愛知県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "444-0827",
-        "short_name": "444-0827",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒444-0827 愛知県岡崎市針崎町五反田",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 34.9194819,
-          "lng": 137.1519317
-        },
-        "southwest": {
-          "lat": 34.9159445,
-          "lng": 137.1494477
-        }
-      },
-      "location": {
-        "lat": 34.9179458,
-        "lng": 137.1505293
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 34.9194819,
-          "lng": 137.1520386802915
-        },
-        "southwest": {
-          "lat": 34.9159445,
-          "lng": 137.1493407197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJrYM0Jpy9BGARs4cGFU4Yuv4",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

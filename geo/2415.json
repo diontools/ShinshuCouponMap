@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２０４９０",
-        "short_name": "２０４９０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平２０４９０−４",
-    "geometry": {
-      "location": {
-        "lat": 36.5969431,
-        "lng": 137.8254561
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5984380802915,
-          "lng": 137.8267983802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平２０４９０−４",
+      "geometry": {
+        "location": {
+          "lat": 36.5969431,
+          "lng": 137.8254561
         },
-        "southwest": {
-          "lat": 36.5957401197085,
-          "lng": 137.8241004197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.59843892989272,
+            "lng": 137.8267992298927
+          },
+          "southwest": {
+            "lat": 36.59573927010728,
+            "lng": 137.8240995701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJX9MHkZ7Z918RSmxO8PYWKK0",
-    "plus_code": {
-      "compound_code": "HRWG+Q5 日本、長野県大町市",
-      "global_code": "8Q8VHRWG+Q5"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "HAKUBA VALLEY 鹿島槍スキー場",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103920880041567343518\">ChungChen Hsu</a>"
+          ],
+          "photo_reference": "Aap_uEBG3GfC2eq3AldwTuzHcI90ZD-5ARIsSR2YpzD8DIOKsH_xVOWSdkbWDWt0a_udeyy22SJ3biXjo1tTGfdYytB_10D0-fq2VDv1Q2oQg-2cE_wnFcL-6CXCkRPxAj5AiAd5neU6PE-NFUIfwmtIy6cz5mQJCYDihUwFw3B4_waXRFoI",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJX9MHkZ7Z918RSmxO8PYWKK0",
+      "plus_code": {
+        "compound_code": "HRWG+Q5 大町市、長野県",
+        "global_code": "8Q8VHRWG+Q5"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

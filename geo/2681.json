@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０２０−９６２",
-        "short_name": "３０２０−９６２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−９６２",
-    "geometry": {
-      "location": {
-        "lat": 36.6910832,
-        "lng": 137.8430916
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6924693802915,
-          "lng": 137.8444288802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３０２０−９６２",
+      "geometry": {
+        "location": {
+          "lat": 36.6910832,
+          "lng": 137.8430916
         },
-        "southwest": {
-          "lat": 36.6897714197085,
-          "lng": 137.8417309197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69247022989273,
+            "lng": 137.8444297298927
+          },
+          "southwest": {
+            "lat": 36.68977057010729,
+            "lng": 137.8417300701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR-AZ3uLR918Ru16lNPJ2kdw",
-    "plus_code": {
-      "compound_code": "MRRV+C6 長野県白馬村",
-      "global_code": "8Q8VMRRV+C6"
-    },
-    "types": [
-      "convenience_store",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ヤマザキYショップ 白馬ジャジャ店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100534118917787413531\">Max Kennard</a>"
+          ],
+          "photo_reference": "Aap_uEBoqA6hxWhIZt5mx5t9hjo978xxrf74XBpkUid9LP6PForiNtbkiBAFlLEjaQJg7maxeiBD6_giu48epQ8fdDpfoXZsstQBeVlDE2bqrYpl29tGv7VMb6xZXDYHSLRc5dG0ABlJJWxZFqtcau3bK2JTTkuBCYl3pd0IqIx0RGzmGuxh",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJR-AZ3uLR918Ru16lNPJ2kdw",
+      "plus_code": {
+        "compound_code": "MRRV+C6 白馬村、長野県",
+        "global_code": "8Q8VMRRV+C6"
+      },
+      "types": [
+        "convenience_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

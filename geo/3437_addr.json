@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２６１−４",
-        "short_name": "２６１−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "富士見",
-        "short_name": "富士見",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "富士見町",
-        "short_name": "富士見町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0211",
-        "short_name": "399-0211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0211 長野県諏訪郡富士見町富士見２６１−４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 35.9361377,
-          "lng": 138.2142293
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-0211 長野県諏訪郡富士見町富士見２６１−４",
+      "geometry": {
+        "location": {
+          "lat": 35.9360752,
+          "lng": 138.2141286
         },
-        "southwest": {
-          "lat": 35.9359976,
-          "lng": 138.21402
+        "viewport": {
+          "northeast": {
+            "lat": 35.93742992989272,
+            "lng": 138.2155646298927
+          },
+          "southwest": {
+            "lat": 35.93473027010728,
+            "lng": 138.2128649701072
+          }
         }
       },
-      "location": {
-        "lat": 35.9360752,
-        "lng": 138.2141286
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9374166302915,
-          "lng": 138.2155094802915
-        },
-        "southwest": {
-          "lat": 35.9347186697085,
-          "lng": 138.2128115197085
-        }
-      }
-    },
-    "place_id": "ChIJCyVQmWxbHGARXnzwlMyas3k",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-0211 長野県諏訪郡富士見町富士見２６１−４",
+      "place_id": "ChIJCyVQmWxbHGARXnzwlMyas3k",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山 北山 4035-2148 蓼科高原ピラタスの丘",
-    "geometry": {
-      "location": {
-        "lat": 36.0721031,
-        "lng": 138.2978973
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0734207802915,
-          "lng": 138.2991574802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市 北山 4035-2148 蓼科高原ピラタスの丘",
+      "geometry": {
+        "location": {
+          "lat": 36.0721008,
+          "lng": 138.297793
         },
-        "southwest": {
-          "lat": 36.0707228197085,
-          "lng": 138.2964595197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07342162989273,
+            "lng": 138.2991583298927
+          },
+          "southwest": {
+            "lat": 36.07072197010729,
+            "lng": 138.2964586701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmd5t4OdOHGARtUdr1GaayW8",
-    "plus_code": {
-      "compound_code": "37CX+R5 長野県茅野市",
-      "global_code": "8Q8W37CX+R5"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション ピラタス 2",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106259534595709493893\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAmAoI7AlkhZWPVAC3ofa0sc9OcMsO37XYJBd_ZC2d73127RxMUY_rgchRKvYEGO0kcvAJHukTKYq3YXC3GbQvFgWEzaT8Wg1ll5pmmdnpWLb0877TxhptF3T_zCv8dNItXTvdxf4DlLhab2P4MsIZ5eybYN4jMq1ud3yfXVNxvv__7",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJmd5t4OdOHGARtUdr1GaayW8",
+      "plus_code": {
+        "compound_code": "37CX+R5 茅野市、長野県",
+        "global_code": "8Q8W37CX+R5"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

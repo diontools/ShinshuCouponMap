@@ -1,109 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "NAKAZAWA BLDG1F",
-        "short_name": "NAKAZAWA BLDG1F",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "７",
-        "short_name": "７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−７ NAKAZAWA BLDG1F",
-    "geometry": {
-      "location": {
-        "lat": 36.2319668,
-        "lng": 137.9668055
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23336133029149,
-          "lng": 137.9681786802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−７ NAKAZAWA BLDG1F",
+      "geometry": {
+        "location": {
+          "lat": 36.2319668,
+          "lng": 137.9668055
         },
-        "southwest": {
-          "lat": 36.23066336970849,
-          "lng": 137.9654807197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23336217989272,
+            "lng": 137.9681795298927
+          },
+          "southwest": {
+            "lat": 36.23066252010727,
+            "lng": 137.9654798701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJz6j_AowOHWARnravN-OHff4",
-    "plus_code": {
-      "compound_code": "6XJ8+QP 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+QP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "三代目鳥メロ 松本駅前店",
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102209605257029795760\">炭火焼だいにんぐ わたみん家 松本公園通り店</a>"
+          ],
+          "photo_reference": "Aap_uEBp5wz3QzvVAa9qm-cBF_URjfjiWs9Qc0anP1puySA5vBkH6orrOjt1t6t1JVHDlEi_XMvitiRtoJuwLldBF2K8w51wb66AuvJca5HIqHJMv2y81RctOZV67d6MJS0O4viv-Id69HOcOZWXe6lZjvCYn_mTwOnV1DhaV7dQ9MqAV0Mh",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJz6j_AowOHWARnravN-OHff4",
+      "plus_code": {
+        "compound_code": "6XJ8+QP 松本市、長野県",
+        "global_code": "8Q8V6XJ8+QP"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

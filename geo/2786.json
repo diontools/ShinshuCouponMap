@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻 妻籠2173−1",
-    "geometry": {
-      "location": {
-        "lat": 35.5777539,
-        "lng": 137.5958225
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5791123302915,
-          "lng": 137.5971350802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町 妻籠2173−1",
+      "geometry": {
+        "location": {
+          "lat": 35.5777539,
+          "lng": 137.5958225
         },
-        "southwest": {
-          "lat": 35.5764143697085,
-          "lng": 137.5944371197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.57911317989272,
+            "lng": 137.5971359298927
+          },
+          "southwest": {
+            "lat": 35.57641352010727,
+            "lng": 137.5944362701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJk_dOpeS3HGARMYmrkb2v19M",
-    "plus_code": {
-      "compound_code": "HHHW+48 長野県南木曽町",
-      "global_code": "8Q7VHHHW+48"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "岩井屋",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108937137074528325394\">unagi perori</a>"
+          ],
+          "photo_reference": "Aap_uEBKBx3ebe6Zyad2nAIUf09M13XG88eIwlxkDjx6B4gaInsVs_y5gWK6X7beXVAtsXI220cBayQACYu2wRQo2C_ADUPKjjcuosJZANqY2qe9j_lLGzkmu1wOxoIPLQvivDAMWla8_oRa9RJNxvmbUQLOWyNMWAfuYDtcss1lqR2X38_E",
+          "width": 3888
+        }
+      ],
+      "place_id": "ChIJk_dOpeS3HGARMYmrkb2v19M",
+      "plus_code": {
+        "compound_code": "HHHW+48 南木曽町、長野県",
+        "global_code": "8Q7VHHHW+48"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

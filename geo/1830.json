@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７９９９−６",
-        "short_name": "７９９９−６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明７９９９−６",
-    "geometry": {
-      "location": {
-        "lat": 36.3408422,
-        "lng": 137.8356233
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3420353302915,
-          "lng": 137.8369929302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明７９９９−６",
+      "geometry": {
+        "location": {
+          "lat": 36.3408422,
+          "lng": 137.8356233
         },
-        "southwest": {
-          "lat": 36.3393373697085,
-          "lng": 137.8342949697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34203617989272,
+            "lng": 137.8369937798927
+          },
+          "southwest": {
+            "lat": 36.33933652010727,
+            "lng": 137.8342941201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJnVb9AwFpHWARzGBZ_I-91B0",
-    "plus_code": {
-      "compound_code": "8RRP+86 日本、長野県安曇野市",
-      "global_code": "8Q8V8RRP+86"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ガラス体験 遊び心",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108021775079148968194\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAdK5gPsgZahvQqtA7OeGAbNEetqE2H3d-S_IzlVHfhLTvbcWYSZu5kzsGyanAqE58CCU0LjF7T9Ok7ah6q58caiE6DQ4MgVkaEMtK866UH7Qq2JrahglvFFK4Se7-2EOgYBgVH96cD3_DyheMPZlvsVubnl9oRdWV9QAAva52u3XnT",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJnVb9AwFpHWARzGBZ_I-91B0",
+      "plus_code": {
+        "compound_code": "8RRP+86 安曇野市、長野県",
+        "global_code": "8Q8V8RRP+86"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

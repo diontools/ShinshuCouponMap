@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２９４１−２３",
-        "short_name": "２９４１−２３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２９４１−２３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7397317,
-          "lng": 138.4162257
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２９４１−２３",
+      "geometry": {
+        "location": {
+          "lat": 36.7396485,
+          "lng": 138.4161519
         },
-        "southwest": {
-          "lat": 36.7395873,
-          "lng": 138.4160533
+        "viewport": {
+          "northeast": {
+            "lat": 36.74094627989273,
+            "lng": 138.4174605798927
+          },
+          "southwest": {
+            "lat": 36.73824662010728,
+            "lng": 138.4147609201073
+          }
         }
       },
-      "location": {
-        "lat": 36.7396485,
-        "lng": 138.4161519
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7409870302915,
-          "lng": 138.4174884802915
-        },
-        "southwest": {
-          "lat": 36.7382890697085,
-          "lng": 138.4147905197085
-        }
-      }
-    },
-    "place_id": "ChIJ1cbg-L70HWARZX5pdVlkGbI",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0401 長野県下高井郡山ノ内町平穏２９４１−２３",
+      "place_id": "ChIJ1cbg-L70HWARZX5pdVlkGbI",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

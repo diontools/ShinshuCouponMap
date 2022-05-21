@@ -1,116 +1,93 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階2階",
-        "short_name": "1階2階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "上村館ビル",
-        "short_name": "上村館ビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３７",
-        "short_name": "３７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "天神",
-        "short_name": "天神",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-0025",
-        "short_name": "386-0025",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目２−３７ 上村館ビル 1階2階",
-    "geometry": {
-      "location": {
-        "lat": 36.3972882,
-        "lng": 138.2493458
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.39863718029149,
-          "lng": 138.2506947802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0025 長野県上田市天神１丁目２−３７ 上村館ビル 1階2階",
+      "geometry": {
+        "location": {
+          "lat": 36.3972882,
+          "lng": 138.2493458
         },
-        "southwest": {
-          "lat": 36.3959392197085,
-          "lng": 138.2479968197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39863802989272,
+            "lng": 138.2506956298927
+          },
+          "southwest": {
+            "lat": 36.39593837010727,
+            "lng": 138.2479959701072
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "千年の宴 上田お城口駅前店",
+      "photos": [
+        {
+          "height": 1040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115582800523027625808\">千年の宴 上田お城口駅前店</a>"
+          ],
+          "photo_reference": "Aap_uEDkW9VJIVw2giSpE2qugsNIOFeDABJZnYxNQfXauoJMz4ouNdWdrnb2oZ0nar9qEr_6zrez9p92LZ76uKeDGp8Uid2-ke-sUiPfMtBpClGpmrvO-HCNjXPwyg0Xcr1-_mtIExQAWWZRFLsZ2RI4nY8nH-CyLNg0fYwRF7oqTgsfwR56",
+          "width": 1040
+        }
+      ],
+      "place_id": "ChIJVVXFTNa8HWARgTIhT6QepKU",
+      "plus_code": {
+        "compound_code": "96WX+WP 上田市、長野県",
+        "global_code": "8Q8W96WX+WP"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJVVXFTNa8HWARgTIhT6QepKU",
-    "plus_code": {
-      "compound_code": "96WX+WP 日本、長野県上田市",
-      "global_code": "8Q8W96WX+WP"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-0012 長野県上田市中央１丁目１−２２ 桝林ビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.3978196,
+          "lng": 138.2500446
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.39917217989272,
+            "lng": 138.2514853298927
+          },
+          "southwest": {
+            "lat": 36.39647252010727,
+            "lng": 138.2487856701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "魚民 上田お城口駅前店",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109683042220147190138\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECm6-bypKg7ittAsAF-wbbZQ23yZ2YKSegXg3KZJNAccrgmOI8Ifbu9WRbn8a86x2SgNGpAGhJhrqKtTU1IINuhwvgoTiDqJU3lWjro6Js79485n6rlOx1Rfg-9g6wJOALQqsf1Oxtm1Wv6hamX06IV82pHHRt63lwMH_MA-vy-1xVU",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJq6omUie9HWAR9Fc5aRlEziE",
+      "plus_code": {
+        "compound_code": "97X2+42 上田市、長野県",
+        "global_code": "8Q8W97X2+42"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

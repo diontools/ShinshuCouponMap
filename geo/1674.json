@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６１４−３",
-        "short_name": "４６１４−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0111",
-        "short_name": "389-0111",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉４６１４−３",
-    "geometry": {
-      "location": {
-        "lat": 36.347234,
-        "lng": 138.559586
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3485256302915,
-          "lng": 138.5608170802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0111 長野県北佐久郡軽井沢町長倉４６１４−３",
+      "geometry": {
+        "location": {
+          "lat": 36.347234,
+          "lng": 138.559586
         },
-        "southwest": {
-          "lat": 36.3458276697085,
-          "lng": 138.5581191197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34852647989272,
+            "lng": 138.5608179298927
+          },
+          "southwest": {
+            "lat": 36.34582682010728,
+            "lng": 138.5581182701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJT-yRnQfSHWAR5rJj7KvWU5A",
-    "plus_code": {
-      "compound_code": "8HW5+VR 日本、長野県軽井沢町",
-      "global_code": "8Q8W8HW5+VR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "カーロフォレスタ軽井沢ジャルディーノ",
+      "photos": [
+        {
+          "height": 624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115475367282490594887\">カーロフォレスタ軽井沢ジャルディーノ</a>"
+          ],
+          "photo_reference": "Aap_uEBISL8VdL0Vxfpi9EOgADB6Thl82dCp1YrEwNZpiXtBW4t1mAHOnSwvE9QgcqhjsDt0u5bmE0Ez6Cx3vw2vC3kBoSpylGnP0lxBKYJLuCUWo3AqcLC1NPUMQGJz-N5SFJSkfGZsKwGS2P1_PrhgA6oUU5sy-a3W8e5K3M30J4kLhFtT",
+          "width": 936
+        }
+      ],
+      "place_id": "ChIJT-yRnQfSHWAR5rJj7KvWU5A",
+      "plus_code": {
+        "compound_code": "8HW5+VR 軽井沢町、長野県",
+        "global_code": "8Q8W8HW5+VR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

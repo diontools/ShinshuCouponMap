@@ -1,75 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平 高瀬入２１１８−３７",
-    "geometry": {
-      "location": {
-        "lat": 36.4940216,
-        "lng": 137.7241078
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4954711802915,
-          "lng": 137.7254545302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平 高瀬入２１１８−３７",
+      "geometry": {
+        "location": {
+          "lat": 36.4940216,
+          "lng": 137.7241078
         },
-        "southwest": {
-          "lat": 36.4927732197085,
-          "lng": 137.7227565697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.49547202989272,
+            "lng": 137.7254553798927
+          },
+          "southwest": {
+            "lat": 36.49277237010727,
+            "lng": 137.7227557201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVa6hwyhiHWAR7ZpnafQCSQk",
-    "plus_code": {
-      "compound_code": "FPVF+JJ 日本、長野県大町市",
-      "global_code": "8Q8VFPVF+JJ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "七倉山荘",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117379932438803054445\">yoshikazu kuroishi</a>"
+          ],
+          "photo_reference": "Aap_uECvEdVPsHDn1y14pjoZWwyP2uv2Tbk4aFqmKTkYxvw6RVY3mjyYr8jbZnvVv8i0ni8JmJLMLs0kORcIVM27Gju3tFC7k8aU3PA-lKdyoFuEXHlwVVK6dA1-OOoMzwK-wlzssXeVroj3d9swLDUcwiKtbIDvhVPcC6F-f8eoVGxJQzzc",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJVa6hwyhiHWAR7ZpnafQCSQk",
+      "plus_code": {
+        "compound_code": "FPVF+JJ 大町市、長野県",
+        "global_code": "8Q8VFPVF+JJ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

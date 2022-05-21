@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３２６−１３",
-        "short_name": "３３２６−１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "古海",
-        "short_name": "古海",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1302",
-        "short_name": "389-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海３３２６−１３",
-    "geometry": {
-      "location": {
-        "lat": 36.849381,
-        "lng": 138.251966
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8508520302915,
-          "lng": 138.2532725802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1302 長野県上水内郡信濃町古海３３２６−１３",
+      "geometry": {
+        "location": {
+          "lat": 36.849381,
+          "lng": 138.2519661
         },
-        "southwest": {
-          "lat": 36.8481540697085,
-          "lng": 138.2505746197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.85085287989272,
+            "lng": 138.2532734798928
+          },
+          "southwest": {
+            "lat": 36.84815322010728,
+            "lng": 138.2505738201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyeHuI5Ui9l8RCdutF8dnq6M",
-    "plus_code": {
-      "compound_code": "R7X2+QQ 日本、長野県信濃町",
-      "global_code": "8Q8WR7X2+QQ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "オーベルジュ ラ・プーサン",
+      "photos": [
+        {
+          "height": 798,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107373681322280795301\">オーベルジュ ラ・プーサン</a>"
+          ],
+          "photo_reference": "Aap_uEA79oLsHXFl5XF7aBsJAzbZvBVvlQB4vqb1tPnHERuqnsLOb_B6e2dCXHQBIFR1Dk7C59Dt704E1ZhY8BVW9JhZ0u1H9Uz44XrOiTbI2JaEiyOw7jhasW-Y1JXNO0hnfLVWNTIwPULiY1BHAyXktj-LV0NkfYW8TDfIthdbnrRSHQdN",
+          "width": 1658
+        }
+      ],
+      "place_id": "ChIJyeHuI5Ui9l8RCdutF8dnq6M",
+      "plus_code": {
+        "compound_code": "R7X2+QQ 信濃町、長野県",
+        "global_code": "8Q8WR7X2+QQ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

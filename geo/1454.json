@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６１１",
-        "short_name": "６１１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢６１１",
-    "geometry": {
-      "location": {
-        "lat": 36.3590957,
-        "lng": 138.6358557
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3604086302915,
-          "lng": 138.6372588802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢６１１",
+      "geometry": {
+        "location": {
+          "lat": 36.3590598,
+          "lng": 138.635907
         },
-        "southwest": {
-          "lat": 36.3577106697085,
-          "lng": 138.6345609197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36040947989272,
+            "lng": 138.6372597298927
+          },
+          "southwest": {
+            "lat": 36.35770982010728,
+            "lng": 138.6345600701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfw7ovY7THWAR3M9-rgUP0E0",
-    "plus_code": {
-      "compound_code": "9J5P+J8 日本、長野県軽井沢町",
-      "global_code": "8Q8W9J5P+J8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "どんぐり共和国 軽井沢店",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111122778616364745814\">gifuyama77</a>"
+          ],
+          "photo_reference": "Aap_uECcITz4f_4n71pHTnD_jsO3rc2Jx1WEnLzeI3VG3W4Gq5-CnmTs-qMKLxi8dAIJSy3rOhrFaWmArWj59ffmyGZwz9kZ7rUPnvxoGoIVtUNjhk5LYQPWC0hR9s8AbrPVPs3tP1hXzsV_3RxNFbBNquKsTOJQgROqLZmDlRo9Pdib0eUY",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJfw7ovY7THWAR3M9-rgUP0E0",
+      "plus_code": {
+        "compound_code": "9J5P+J8 軽井沢町、長野県",
+        "global_code": "8Q8W9J5P+J8"
+      },
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城４６８８ 白馬東急ホテル 2F",
+      "geometry": {
+        "location": {
+          "lat": 36.705972,
+          "lng": 137.8392277
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.70737407989272,
+            "lng": 137.8407146798928
+          },
+          "southwest": {
+            "lat": 36.70467442010727,
+            "lng": 137.8380150201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "ラウンジ＆バー ザ・ロッジ",
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110286020701317693014\">南村盛壮</a>"
+          ],
+          "photo_reference": "Aap_uECvEU2sIdlZ2GR1kyGMJXf_vH1vG1QWdld1yQm08hklutOynPQ0-cnqdaJhLsdDBUXb-m9R0-yrzIT1ExCGtyEWA7q4lx-fNxAeetc4cxvvVNf6yuZ7gpLEf9eJkytOg2iTwIY7qHFGgQ0J0MvbyTYmE5C9zmND9jA89OJZQ9KiiXQE",
+          "width": 4752
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJT4rUuuHN918RAs6YkxbEq3M",
+      "plus_code": {
+        "compound_code": "PR4Q+9M 白馬村、長野県",
+        "global_code": "8Q8VPR4Q+9M"
+      },
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

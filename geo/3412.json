@@ -1,75 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "下諏訪町",
-        "short_name": "下諏訪町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "諏訪郡",
-        "short_name": "諏訪郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "３５０１",
-        "short_name": "３５０１",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒３５０１ 長野県諏訪郡下諏訪町 393-0000",
-    "geometry": {
-      "location": {
-        "lat": 36.075582,
-        "lng": 138.090449
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0769075802915,
-          "lng": 138.0917597302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒３５０１ 長野県諏訪郡下諏訪町 393-0000",
+      "geometry": {
+        "location": {
+          "lat": 36.0755632,
+          "lng": 138.0903982
         },
-        "southwest": {
-          "lat": 36.0742096197085,
-          "lng": 138.0890617697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07690842989273,
+            "lng": 138.0917605798927
+          },
+          "southwest": {
+            "lat": 36.07420877010728,
+            "lng": 138.0890609201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJKVW5yFFVHGAROgacQkQr9Wg",
-    "plus_code": {
-      "compound_code": "33GR+65 長野県下諏訪町",
-      "global_code": "8Q8W33GR+65"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "新鶴本店",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117383551093259218350\">川口隆行</a>"
+          ],
+          "photo_reference": "Aap_uEDrI81FcLUAoleuWLPMxu4C9aDis_Xqlxso5i7GMzgrgs2OwrmQOddCMf1LGDOkPQ9VpFImCY3PeBZNfbp_d4652q6NQ46WxZXRFPJ-XDiFTc8yOWRBgvdY7Iz15gVMUOhrnD_OQJOvgT9RA_EBH_wn_C0aN5MXPKSpwMm-UO44rMPr",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJKVW5yFFVHGAROgacQkQr9Wg",
+      "plus_code": {
+        "compound_code": "33GR+65 下諏訪町、長野県",
+        "global_code": "8Q8W33GR+65"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

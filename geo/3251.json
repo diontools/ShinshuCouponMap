@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２４",
-        "short_name": "２４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "本町西",
-        "short_name": "本町西",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0003",
-        "short_name": "391-0003",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0003 長野県茅野市本町西９−２４",
-    "geometry": {
-      "location": {
-        "lat": 35.9980238,
-        "lng": 138.161033
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.99944538029149,
-          "lng": 138.1623992302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0003 長野県茅野市本町西９−２４",
+      "geometry": {
+        "location": {
+          "lat": 35.9980238,
+          "lng": 138.161033
         },
-        "southwest": {
-          "lat": 35.9967474197085,
-          "lng": 138.1597012697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99944622989273,
+            "lng": 138.1624000798927
+          },
+          "southwest": {
+            "lat": 35.99674657010728,
+            "lng": 138.1597004201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ66SWHeBRHGARpa4nUxJ3b3Q",
-    "plus_code": {
-      "compound_code": "X5X6+6C 長野県茅野市",
-      "global_code": "8Q7WX5X6+6C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ハルピン味噌らーめん 雷蔵",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113941612116049714323\">落谷理一郎</a>"
+          ],
+          "photo_reference": "Aap_uEApiIlBKuKQOlBQguVZJ5p21NOQuIElleWy6nBt1iylwRf3SqAlHNTfKyuNbdfdM60bdSAc5cAWsQ6qavslUT7yGDbGLmZZTesGP4zGX25lUT0CXNrXLj8x1KLtCmKMUdVDIjd6GbXktqIwAnU2AvpCao1VJApCbMvxQLbkIrxetfIl",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ66SWHeBRHGARpa4nUxJ3b3Q",
+      "plus_code": {
+        "compound_code": "X5X6+6C 茅野市、長野県",
+        "global_code": "8Q7WX5X6+6C"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

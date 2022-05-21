@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.9355595,
-          "lng": 138.5128482
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷",
+      "geometry": {
+        "location": {
+          "lat": 36.9160853,
+          "lng": 138.466838
         },
-        "southwest": {
-          "lat": 36.8856818,
-          "lng": 138.4177757
+        "viewport": {
+          "northeast": {
+            "lat": 36.9355595,
+            "lng": 138.5128482
+          },
+          "southwest": {
+            "lat": 36.8856818,
+            "lng": 138.4177757
+          }
         }
       },
-      "location": {
-        "lat": 36.9160853,
-        "lng": 138.466838
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9355595,
-          "lng": 138.5128482
-        },
-        "southwest": {
-          "lat": 36.8856818,
-          "lng": 138.4177757
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "豊郷",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106466255292755373254\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECuHvo9JRoEWKTe3oNG0w2vrmyF800csOhubFSzFtWDaFJqQfrWpet1FaLgMY0XasUzG-bEWnrwNCnrPT1bxfoyWdsJ3-vUJBobQ2m_gLraqIKVsLr2AXtzFFEDlbtATNXut1llDLUMLhstkeIGpn8LVjHdCvDyynd6SiomChRfEGy2",
+          "width": 4608
         }
-      }
-    },
-    "place_id": "ChIJDdyBMCsb9l8Rr6vMv-86CfI",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJDdyBMCsb9l8Rr6vMv-86CfI",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

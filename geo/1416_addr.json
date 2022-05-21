@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５−４",
-        "short_name": "３５−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "布下",
-        "short_name": "布下",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0402",
-        "short_name": "389-0402",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0402 長野県東御市布下３５−４",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3352887,
-          "lng": 138.3603275
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0402 長野県東御市布下３５−４",
+      "geometry": {
+        "location": {
+          "lat": 36.3351207,
+          "lng": 138.3600384
         },
-        "southwest": {
-          "lat": 36.3349702,
-          "lng": 138.3596902
+        "viewport": {
+          "northeast": {
+            "lat": 36.33633342989272,
+            "lng": 138.3615111298927
+          },
+          "southwest": {
+            "lat": 36.33363377010727,
+            "lng": 138.3588114701072
+          }
         }
       },
-      "location": {
-        "lat": 36.3351207,
-        "lng": 138.3600384
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3364165802915,
-          "lng": 138.3613819802915
-        },
-        "southwest": {
-          "lat": 36.33371861970851,
-          "lng": 138.3586840197085
-        }
-      }
-    },
-    "place_id": "ChIJA3YzYYK3HWARn23VvTB28DQ",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0402 長野県東御市布下３５−４",
+      "place_id": "ChIJA3YzYYK3HWARn23VvTB28DQ",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

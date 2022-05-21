@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県安曇野市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.4253478,
-          "lng": 137.9914004
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-7101 長野県安曇野市明科東川手１３３６３",
+      "geometry": {
+        "location": {
+          "lat": 36.36788140000001,
+          "lng": 137.9315133
         },
-        "southwest": {
-          "lat": 36.2374416,
-          "lng": 137.7011596
+        "viewport": {
+          "northeast": {
+            "lat": 36.36923057989272,
+            "lng": 137.9328871298927
+          },
+          "southwest": {
+            "lat": 36.36653092010727,
+            "lng": 137.9301874701073
+          }
         }
       },
-      "location": {
-        "lat": 36.30397860000001,
-        "lng": 137.9058007
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4253478,
-          "lng": 137.9914004
-        },
-        "southwest": {
-          "lat": 36.2374416,
-          "lng": 137.7011596
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "川下り ラフティング",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104383873016610976302\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDCu7wJaH0Gt1trxmf8pYcTx6X70ily0DnICOhsZC7lRcWYUzOwgLIUpI1tN1UgZpJKYyVOK8bMGbQeWUHV5G0eURQW9iI_qn2e1s-KIpnT63CrdmKoISKITef1Y5LrdG3SLEOir96B4MuBTjxos6Qh1X8UkcHqvZutKZUuYYldKPnh",
+          "width": 4000
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJaQHawwZsHWARVuICyjW5jS0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJk-LlDBxzHWARWvs_3wZEH1c",
+      "plus_code": {
+        "compound_code": "9W9J+5J 安曇野市、長野県",
+        "global_code": "8Q8V9W9J+5J"
+      },
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

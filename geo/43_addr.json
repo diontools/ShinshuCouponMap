@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２９６",
-        "short_name": "２２９６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２２９６",
-    "geometry": {
-      "location": {
-        "lat": 36.7352102,
-        "lng": 138.427964
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7365048302915,
-          "lng": 138.4292996802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏２２９６",
+      "geometry": {
+        "location": {
+          "lat": 36.7352102,
+          "lng": 138.427964
         },
-        "southwest": {
-          "lat": 36.7338068697085,
-          "lng": 138.4266017197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.73650567989272,
+            "lng": 138.4293005298927
+          },
+          "southwest": {
+            "lat": 36.73380602010727,
+            "lng": 138.4266008701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJGYuMOZv0HWARPGeFj8iBeRo",
-    "plus_code": {
-      "compound_code": "PCPH+35 長野県山ノ内町",
-      "global_code": "8Q8WPCPH+35"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-0401 長野県下高井郡山ノ内町平穏２２９６",
+      "place_id": "ChIJGYuMOZv0HWARPGeFj8iBeRo",
+      "plus_code": {
+        "compound_code": "PCPH+35 山ノ内町、長野県",
+        "global_code": "8Q8WPCPH+35"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

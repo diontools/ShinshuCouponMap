@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４３２−４",
-        "short_name": "４３２−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "西和田",
-        "short_name": "西和田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0037",
-        "short_name": "381-0037",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0037 長野県長野市西和田４３２−４",
-    "geometry": {
-      "location": {
-        "lat": 36.649285,
-        "lng": 138.2219518
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6506666302915,
-          "lng": 138.2232494802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0037 長野県長野市西和田４３２−４",
+      "geometry": {
+        "location": {
+          "lat": 36.649285,
+          "lng": 138.2219518
         },
-        "southwest": {
-          "lat": 36.6479686697085,
-          "lng": 138.2205515197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65066747989272,
+            "lng": 138.2232503298927
+          },
+          "southwest": {
+            "lat": 36.64796782010728,
+            "lng": 138.2205506701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZVxLQGuGHWARFPFZnH3NYCc",
-    "plus_code": {
-      "compound_code": "J6XC+PQ 日本、長野県長野市",
-      "global_code": "8Q8WJ6XC+PQ"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "カレーハウスCoCo壱番屋 長野西和田店",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111073511429750647844\">カレーハウス CoCo壱番屋 長野西和田店</a>"
+          ],
+          "photo_reference": "Aap_uEA8onOAmLvQl9iEr-fPMf4pcuq91NkBytUmSh3_zSL8LDVqBVtU4l13OnLSN7Vi-rUt1I2Id93KVHWVl___yuJZ4B-V43BWaHyERf7-wzByzIbK5u6gAmvcG_0H_a0l_VQpJKoM-2XvMzODExGj5hvRTW1hy3Qv2eQpk9I9bYUqihgj",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJZVxLQGuGHWARFPFZnH3NYCc",
+      "plus_code": {
+        "compound_code": "J6XC+PQ 長野市、長野県",
+        "global_code": "8Q8WJ6XC+PQ"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

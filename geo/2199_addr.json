@@ -1,100 +1,91 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０",
-        "short_name": "３０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１０",
-        "short_name": "１０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１０−３０",
-    "geometry": {
-      "location": {
-        "lat": 36.2325968,
-        "lng": 137.9682199
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23398828029149,
-          "lng": 137.9696051802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１０−３０",
+      "geometry": {
+        "location": {
+          "lat": 36.2325968,
+          "lng": 137.9682199
         },
-        "southwest": {
-          "lat": 36.23129031970849,
-          "lng": 137.9669072197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23398912989271,
+            "lng": 137.9696060298928
+          },
+          "southwest": {
+            "lat": 36.23128947010727,
+            "lng": 137.9669063701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "松本PARCO",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101808292880164756760\">Na kam</a>"
+          ],
+          "photo_reference": "Aap_uECc4jbXO0MGuLFtat6nVyo74pfHwToXLo4VUpaTHmRLrzspfHk89XSUdQqAGhUW7kH02y_eOYvu0vQn3maRTMrurEscEGPLihxH-azh4pwCgQXRlci-oCOwPojM3lhcNre9WRDypZggwiKBD2rHG-Qce0ntW_4W8h6TLymJhzT1YnRl",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJI1KXgo4OHWARHRWcycjsnYo",
+      "plus_code": {
+        "compound_code": "6XM9+27 松本市、長野県",
+        "global_code": "8Q8V6XM9+27"
+      },
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJI1KXgo4OHWARHRWcycjsnYo",
-    "plus_code": {
-      "compound_code": "6XM9+27 長野県松本市",
-      "global_code": "8Q8V6XM9+27"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "shopping_mall"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目１０−３０ 松本パルコ内 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.2325549,
+          "lng": 137.9683957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.23373507989272,
+            "lng": 137.9696087298927
+          },
+          "southwest": {
+            "lat": 36.23103542010728,
+            "lng": 137.9669090701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "5HORN Dining （ファイブホルンダイニング)",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101618598760127842336\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECyEkxYXaDk2_RgN9luLkHEzubj668M3_SBu99M8ZwMWiGGm-m6C89JZEx6gdKkRU567th7AkZ-53Hie1CN7bycUBJWvNGSCoa4Er6BXADVL8Co0DVd1_S1HneG3fQ8gg5F_KHSvmjRcMGjA4BXAV6X8kCQySUQ6F8dGEMnBYt1zuca",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJ-bNSzssPHWARcOY1iSAjmDU",
+      "plus_code": {
+        "compound_code": "6XM9+29 松本市、長野県",
+        "global_code": "8Q8V6XM9+29"
+      },
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

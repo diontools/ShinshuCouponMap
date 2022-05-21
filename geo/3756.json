@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６２８５−４",
-        "short_name": "６２８５−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "龍江",
-        "short_name": "龍江",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2221",
-        "short_name": "399-2221",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2221 長野県飯田市龍江６２８５−４",
-    "geometry": {
-      "location": {
-        "lat": 35.437766,
-        "lng": 137.8333232
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4390323302915,
-          "lng": 137.8346774302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2221 長野県飯田市龍江６２８５−４",
+      "geometry": {
+        "location": {
+          "lat": 35.4377742,
+          "lng": 137.8333234
         },
-        "southwest": {
-          "lat": 35.4363343697085,
-          "lng": 137.8319794697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.43903317989272,
+            "lng": 137.8346782798928
+          },
+          "southwest": {
+            "lat": 35.43633352010727,
+            "lng": 137.8319786201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNdXEi4WeHGARz3PNbPGk3IY",
-    "plus_code": {
-      "compound_code": "CRQM+48 長野県飯田市",
-      "global_code": "8Q7VCRQM+48"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "たつみ農園",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113798479623234015552\">山元茂樹</a>"
+          ],
+          "photo_reference": "Aap_uECDQ4D67w8UA7ZDiwFRnuuKMdJfM5PgqOXOK7mYrfW8UdRlbPlJqnWZ4rReYfCOWEtE8BFLj8TnKbl9Mfl-7WKbDSYO-1qNQiNYjUkpwrEn3Zm-XmwF8kr3WABtL7gPFug1qendyqqnMt_YeUlq-W-dhAxnjlRBFBvL2v0zOjEe3pOm",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJNdXEi4WeHGARz3PNbPGk3IY",
+      "plus_code": {
+        "compound_code": "CRQM+48 飯田市、長野県",
+        "global_code": "8Q7VCRQM+48"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏",
+      "geometry": {
+        "location": {
+          "lat": 36.722613,
+          "lng": 138.5387323
         },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3986344
+        "viewport": {
+          "northeast": {
+            "lat": 36.8247984,
+            "lng": 138.6420977
+          },
+          "southwest": {
+            "lat": 36.6657213,
+            "lng": 138.3986344
+          }
         }
       },
-      "location": {
-        "lat": 36.722613,
-        "lng": 138.5387323
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
-        },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3986344
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "平穏",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106024334251090797470\">shinchanGDB</a>"
+          ],
+          "photo_reference": "Aap_uECwQB-OLt9GfnKX8-s1z7cM0Hol1r6m7MRMwshlbxVgHyaVct2JU904ZtTH1t3E6KQg5BU14LYxIR9sbWXaPdb650T9439VDlxMSkXlH6Hj8iGqOIyaS2C4fUiXip19sh42bSiMqoKgnmu1A58T65EDu0jeISlWQQSb-KYE0BDsZrG0",
+          "width": 3648
         }
-      }
-    },
-    "place_id": "ChIJh1BYGhjxHWAR1nE0svhgB5Q",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJh1BYGhjxHWAR1nE0svhgB5Q",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

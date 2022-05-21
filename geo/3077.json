@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１−９２",
-        "short_name": "１−９２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "旭",
-        "short_name": "旭",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "売木村",
-        "short_name": "売木村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下伊那郡",
-        "short_name": "下伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-1601",
-        "short_name": "399-1601",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-1601 長野県下伊那郡売木村旭１−９２",
-    "geometry": {
-      "location": {
-        "lat": 35.269615,
-        "lng": 137.71414
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.2707916802915,
-          "lng": 137.7154980302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-1601 長野県下伊那郡売木村旭１−９２",
+      "geometry": {
+        "location": {
+          "lat": 35.269615,
+          "lng": 137.71414
         },
-        "southwest": {
-          "lat": 35.26809371970851,
-          "lng": 137.7128000697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.27079252989273,
+            "lng": 137.7154988798927
+          },
+          "southwest": {
+            "lat": 35.26809287010728,
+            "lng": 137.7127992201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJJ4P_JSZcG2ARI4JWlB1pYTQ",
-    "plus_code": {
-      "compound_code": "7P97+RM 長野県売木村",
-      "global_code": "8Q7V7P97+RM"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ささゆり荘",
+      "photos": [
+        {
+          "height": 2225,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118266891932714700797\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB0ipGYhxCo2BaoPi3NHluGex_F46Ybs9GeJTUkqkg05zvRCX_P1MLbrsUFFdn6OnUJpINSUpu7tJquosaJbFHgoMtsvr41T1WqUS0_UKKBysba3Rz9W9sqn4cSzFZ9OylGLDp-MqAAYAW0o_2Zu_V15L7HGceVNvGvCtr4n6NtAqnu",
+          "width": 3955
+        }
+      ],
+      "place_id": "ChIJJ4P_JSZcG2ARI4JWlB1pYTQ",
+      "plus_code": {
+        "compound_code": "7P97+RM 売木村、長野県",
+        "global_code": "8Q7V7P97+RM"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

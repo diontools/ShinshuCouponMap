@@ -1,92 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９５１５",
-        "short_name": "９５１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊郷",
-        "short_name": "豊郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "野沢温泉村",
-        "short_name": "野沢温泉村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2502",
-        "short_name": "389-2502",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９５１５",
-    "geometry": {
-      "location": {
-        "lat": 36.9227816,
-        "lng": 138.4476337
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9241004802915,
-          "lng": 138.4489557802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2502 長野県下高井郡野沢温泉村豊郷９５１５",
+      "geometry": {
+        "location": {
+          "lat": 36.9227816,
+          "lng": 138.4476337
         },
-        "southwest": {
-          "lat": 36.9214025197085,
-          "lng": 138.4462578197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92410132989272,
+            "lng": 138.4489566298927
+          },
+          "southwest": {
+            "lat": 36.92140167010728,
+            "lng": 138.4462569701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJwTOmlC4F9l8R9P9iXJSG-Y0",
-    "plus_code": {
-      "compound_code": "WCFX+43 日本、長野県野沢温泉村",
-      "global_code": "8Q8WWCFX+43"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ホテル ハウスサンアントン",
+      "photos": [
+        {
+          "height": 1681,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107373179603837326834\">ハウスサンアントン</a>"
+          ],
+          "photo_reference": "Aap_uEA1U3NJwok2X_uY94O0SO7UcuLNP0Q7C4LNxh8vAqx2aG3eUQ5u1Amtk7NRGaqPTOXmFsN7292yo2oWWCO5cElBb7tTn8VWgQw_3blA2NPsdsK-4NfMhL-yVypyyQGP3g5uzLydu6T4VzemQmEL77Wq27hoHk1hiD-6kPaeHDp3hZwr",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJwTOmlC4F9l8R9P9iXJSG-Y0",
+      "plus_code": {
+        "compound_code": "WCFX+43 野沢温泉村、長野県",
+        "global_code": "8Q8WWCFX+43"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

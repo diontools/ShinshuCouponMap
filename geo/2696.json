@@ -1,85 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城 八方和田野の森",
-    "geometry": {
-      "location": {
-        "lat": 36.7110886,
-        "lng": 137.8347031
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7123153302915,
-          "lng": 137.8360836302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村 八方和田野の森",
+      "geometry": {
+        "location": {
+          "lat": 36.7110886,
+          "lng": 137.8347031
         },
-        "southwest": {
-          "lat": 36.7096173697085,
-          "lng": 137.8333856697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71231617989272,
+            "lng": 137.8360844798927
+          },
+          "southwest": {
+            "lat": 36.70961652010728,
+            "lng": 137.8333848201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJAf-Dp97N918RB9iO628nonY",
-    "plus_code": {
-      "compound_code": "PR6M+CV 長野県白馬村",
-      "global_code": "8Q8VPR6M+CV"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白馬リゾートホテル ラ ネージュ東館",
+      "photos": [
+        {
+          "height": 1715,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108254947700712548675\">ラ・ネージュ東館</a>"
+          ],
+          "photo_reference": "Aap_uEAgiduVcbqDEp_i-yAY0ap0hbQ6hQlJvJeBKqJb02AtNhysPLggcK7PiBY27pF-DD_LNep64NAPUGDKvefvUhUjZXx8bbiU27RvbZj1n9rmh3pKojgwkFDkOQQcf8t-U2on44Gk8YX7_XoPYJVoNV7Q-9rOyE_sZnt4zxq5ltFehwVy",
+          "width": 2287
+        }
+      ],
+      "place_id": "ChIJAf-Dp97N918RB9iO628nonY",
+      "plus_code": {
+        "compound_code": "PR6M+CV 白馬村、長野県",
+        "global_code": "8Q8VPR6M+CV"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

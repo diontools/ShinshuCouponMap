@@ -1,99 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "7F",
-        "short_name": "7F",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "１−１",
-        "short_name": "１−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "南千歳",
-        "short_name": "南千歳",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0823",
-        "short_name": "380-0823",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目１−１ 7F",
-    "geometry": {
-      "location": {
-        "lat": 36.6450515,
-        "lng": 138.1886757
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6462471802915,
-          "lng": 138.1901617302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0823 長野県長野市南千歳１丁目１−１ 7F",
+      "geometry": {
+        "location": {
+          "lat": 36.6450515,
+          "lng": 138.1886757
         },
-        "southwest": {
-          "lat": 36.6435492197085,
-          "lng": 138.1874637697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.64624802989272,
+            "lng": 138.1901625798927
+          },
+          "southwest": {
+            "lat": 36.64354837010728,
+            "lng": 138.1874629201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJEyQTVu2GHWAR0vnHZO1-V94",
-    "plus_code": {
-      "compound_code": "J5WQ+2F 日本、長野県長野市",
-      "global_code": "8Q8WJ5WQ+2F"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "イタリアン・トマトながの東急店",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109567626330580888855\">Takumi Nagasawa</a>"
+          ],
+          "photo_reference": "Aap_uEBUysfeqnE8fUO7aV5SXfDOHD6MMnXSFMeHbH4bdyYqlcjOQxzXniC7GhuWi-bwAJ7oX8aucKr5-xVzGRtNkfj_AZRd6tG5haHpUpBx0SXp-9IWJH7zFb7E79CJIv5msjvTgyQHgBe6kp-kWUOZEqw2Y0ozxPzXNuMEtx86GTw3vVsg",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJEyQTVu2GHWAR0vnHZO1-V94",
+      "plus_code": {
+        "compound_code": "J5WQ+2F 長野市、長野県",
+        "global_code": "8Q8WJ5WQ+2F"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１３６６",
-        "short_name": "１３６６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "村石町",
-        "short_name": "村石町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "野辺",
-        "short_name": "野辺",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "382-0031",
-        "short_name": "382-0031",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒382-0031 長野県須坂市野辺村石町１３６６",
-    "geometry": {
-      "location": {
-        "lat": 36.6346193,
-        "lng": 138.3210747
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6359376802915,
-          "lng": 138.3223973302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒382-0031 長野県須坂市野辺村石町１３６６",
+      "geometry": {
+        "location": {
+          "lat": 36.6346072,
+          "lng": 138.3210672
         },
-        "southwest": {
-          "lat": 36.6332397197085,
-          "lng": 138.3196993697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.63593852989273,
+            "lng": 138.3223981798927
+          },
+          "southwest": {
+            "lat": 36.63323887010728,
+            "lng": 138.3196985201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJaymL0diNHWAReGUoGj4wPGw",
-    "plus_code": {
-      "compound_code": "J8MC+RC 日本、長野県須坂市",
-      "global_code": "8Q8WJ8MC+RC"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "糀屋本藤醸造舗 (こうじやほんどうじょうぞうほ)",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101708067837260354863\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDwZGrYsb9GqHiNPM5SRlOy5za4aQ-440BkZpG1W-xLYqNUg7CQ2KSetC3jMdWebeNAc0AWjbtPQ63_FE5akaijHt_5xBuQjWQQlUo2Wfvx4t53sHypsJazvFAy1D4GeC0m8BjyyqObBNEzSERlc6nEi-jAwKPd_M5zqxPKVJjZtKgB",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJaymL0diNHWAReGUoGj4wPGw",
+      "plus_code": {
+        "compound_code": "J8MC+RC 須坂市、長野県",
+        "global_code": "8Q8WJ8MC+RC"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

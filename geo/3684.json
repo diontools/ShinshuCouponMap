@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４９１８−１",
-        "short_name": "４９１８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "川路",
-        "short_name": "川路",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-2431",
-        "short_name": "399-2431",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-2431 長野県飯田市川路４９１８−１",
-    "geometry": {
-      "location": {
-        "lat": 35.4409452,
-        "lng": 137.8182502
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.4423300302915,
-          "lng": 137.8195466802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-2431 長野県飯田市川路４９１８−１",
+      "geometry": {
+        "location": {
+          "lat": 35.4409452,
+          "lng": 137.8182502
         },
-        "southwest": {
-          "lat": 35.4396320697085,
-          "lng": 137.8168487197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.44233087989272,
+            "lng": 137.8195475298927
+          },
+          "southwest": {
+            "lat": 35.43963122010728,
+            "lng": 137.8168478701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJyd3j1uueHGARBDeoJkavFDk",
-    "plus_code": {
-      "compound_code": "CRR9+98 長野県飯田市",
-      "global_code": "8Q7VCRR9+98"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "喜目屋みやげ店",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103401425030683924934\">武田盛宏</a>"
+          ],
+          "photo_reference": "Aap_uECHIt1cdEI6zed5nAnuVe98Hg4ZBnuFNkO-FtVb3jWJ824BlUyAakR93PUhrkIfP4j2XLUnHq7aFMFoX1Z3HPW6yoU0PxVx9mIQ1UZvw8pnwwJzjGmxDNdcZMncZDRlRIN1q69SFK2nYJBd8p4VzSKAEh00qeTaPPYg1VJj8Zrl9g4u",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJyd3j1uueHGARBDeoJkavFDk",
+      "plus_code": {
+        "compound_code": "CRR9+98 飯田市、長野県",
+        "global_code": "8Q7VCRR9+98"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

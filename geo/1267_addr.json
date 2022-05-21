@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５１５−１",
-        "short_name": "５１５−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神畑",
-        "short_name": "神畑",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1103",
-        "short_name": "386-1103",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1103 長野県上田市神畑５１５−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3837939,
-          "lng": 138.2117563
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-1103 長野県上田市神畑５１５−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3837551,
+          "lng": 138.2117098
         },
-        "southwest": {
-          "lat": 36.3837028,
-          "lng": 138.2116707
+        "viewport": {
+          "northeast": {
+            "lat": 36.38505107989273,
+            "lng": 138.2130472298927
+          },
+          "southwest": {
+            "lat": 36.38235142010728,
+            "lng": 138.2103475701072
+          }
         }
       },
-      "location": {
-        "lat": 36.3837551,
-        "lng": 138.2117098
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3850696302915,
-          "lng": 138.2130624802915
-        },
-        "southwest": {
-          "lat": 36.3823716697085,
-          "lng": 138.2103645197085
-        }
-      }
-    },
-    "place_id": "ChIJ2QJX-RyjHWARwsaN8ACX9fQ",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-1103 長野県上田市神畑５１５−１",
+      "place_id": "ChIJ2QJX-RyjHWARwsaN8ACX9fQ",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

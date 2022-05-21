@@ -1,109 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "16",
-        "short_name": "16",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "東後町",
-        "short_name": "東後町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0832",
-        "short_name": "380-0832",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0832 長野県長野市長野東後町16−１ 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.6536825,
-        "lng": 138.1874471
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6550334802915,
-          "lng": 138.1887344302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0832 長野県長野市長野東後町16−１ 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.6536825,
+          "lng": 138.1874471
         },
-        "southwest": {
-          "lat": 36.6523355197085,
-          "lng": 138.1860364697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65503432989272,
+            "lng": 138.1887352798927
+          },
+          "southwest": {
+            "lat": 36.65233467010728,
+            "lng": 138.1860356201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJRUX44KSHHWAR38utbjjKhr8",
-    "plus_code": {
-      "compound_code": "M53P+FX 日本、長野県長野市",
-      "global_code": "8Q8WM53P+FX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "HAKKO MONZEN",
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114349461294945565494\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBdGl0fOHwbFb9_wVi59alO_dbt1ifdSU5lLU5LH6Jke3MUvjPSuXVeMZZ3SUdEDuLuqBLYIHnIIveIvAv6jf5l7A_iB8280ixAxtux4hASPzRx_7etNGJQTNy4G5jIhrIQaLNQPDkupJTHl5TZcKYpiX1lIvgBG52V-hRqjq35ZYjt",
+          "width": 4898
+        }
+      ],
+      "place_id": "ChIJRUX44KSHHWAR38utbjjKhr8",
+      "plus_code": {
+        "compound_code": "M53P+FX 長野市、長野県",
+        "global_code": "8Q8WM53P+FX"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

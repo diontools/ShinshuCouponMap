@@ -1,93 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "９２５",
-        "short_name": "９２５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0102",
-        "short_name": "389-0102",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢９２５",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3579219,
-          "lng": 138.6416545
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢９２５",
+      "geometry": {
+        "location": {
+          "lat": 36.3578577,
+          "lng": 138.6415703
         },
-        "southwest": {
-          "lat": 36.3578148,
-          "lng": 138.6415138
+        "viewport": {
+          "northeast": {
+            "lat": 36.35920752989272,
+            "lng": 138.6429201298927
+          },
+          "southwest": {
+            "lat": 36.35650787010728,
+            "lng": 138.6402204701073
+          }
         }
       },
-      "location": {
-        "lat": 36.3578577,
-        "lng": 138.6415703
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3592173302915,
-          "lng": 138.6429331302915
-        },
-        "southwest": {
-          "lat": 36.3565193697085,
-          "lng": 138.6402351697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-0102 長野県北佐久郡軽井沢町軽井沢９２５",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109027249302890296105\">関根勉</a>"
+          ],
+          "photo_reference": "Aap_uED412OLM-Pa95JJ4Ezd1k4SxnpAextQaBRQ_O_lGqcm8h2626-R2M8pe6xyzm9b0GtDcAOgrEMUGUGSzU0g3UgZAp4s1B4cXKfl2q8E1ecibyYf7HtBmTPEYEyN3gfltTwTkL6DP4tdAyth1J9WIVwBiGiIjjNalMmKp_CxMbXU4S61",
+          "width": 1080
         }
-      }
-    },
-    "place_id": "ChIJ6TktIXnUHWAR9HOBkTBRUUs",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ6TktIXnUHWAR9HOBkTBRUUs",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

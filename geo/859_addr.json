@@ -1,89 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "東町",
-        "short_name": "東町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0831",
-        "short_name": "380-0831",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0831 長野県長野市長野東町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6571594,
-          "lng": 138.1901686
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒380-0831 長野県長野市長野東町",
+      "geometry": {
+        "location": {
+          "lat": 36.6560558,
+          "lng": 138.1886831
         },
-        "southwest": {
-          "lat": 36.6545567,
-          "lng": 138.1879289
+        "viewport": {
+          "northeast": {
+            "lat": 36.65720787989272,
+            "lng": 138.1903985798927
+          },
+          "southwest": {
+            "lat": 36.65450822010727,
+            "lng": 138.1876989201073
+          }
         }
       },
-      "location": {
-        "lat": 36.6560558,
-        "lng": 138.1886831
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6572070302915,
-          "lng": 138.1903977302915
-        },
-        "southwest": {
-          "lat": 36.6545090697085,
-          "lng": 138.1876997697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒380-0831 長野県長野市長野東町",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100306980356347900182\">Haruo Natsume</a>"
+          ],
+          "photo_reference": "Aap_uEBpOT8TaYrWkOaT_ngrKx-x1OnXZV8qZBGNbscoGdtJ3-4KmDuKfymCR0yHue7Ze8S6MyJf_zTXdXPdQOBnR2pXV8GWt2MOR6lOcJSiTNbeqm6R4eM3ZAREEveN9xHDdNzvkkQ-0RxKZFEJ2I90aYuPrEaF8oy73lh7Jni40Sx6Bgwx",
+          "width": 4608
         }
-      }
-    },
-    "place_id": "ChIJv5ZsMOWGHWARqdFeiVREs2k",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_3"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJv5ZsMOWGHWARqdFeiVREs2k",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

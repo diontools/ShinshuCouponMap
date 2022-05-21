@@ -1,89 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２３−１",
-        "short_name": "２３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "野辺山",
-        "short_name": "野辺山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1305",
-        "short_name": "384-1305",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1305 長野県南佐久郡南牧村野辺山２３−１",
-    "geometry": {
-      "location": {
-        "lat": 35.96505560000001,
-        "lng": 138.4668625
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.96631708029151,
-          "lng": 138.4681691302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1305 長野県南佐久郡南牧村野辺山２３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.96505560000001,
+          "lng": 138.4668625
         },
-        "southwest": {
-          "lat": 35.96361911970851,
-          "lng": 138.4654711697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.96631792989273,
+            "lng": 138.4681699798927
+          },
+          "southwest": {
+            "lat": 35.96361827010728,
+            "lng": 138.4654703201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ_7aPUxA-HGARteqTh2Mitys",
-    "plus_code": {
-      "compound_code": "XF88+2P 日本、長野県南牧村",
-      "global_code": "8Q7WXF88+2P"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "滝沢牧場",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104032776802632593791\">gomaprix</a>"
+          ],
+          "photo_reference": "Aap_uEAmoVmBF3BMQLQE7I0ttY12_VZuxAL2a8NGzlel_8wQq_rAcQB48cKDKVTpqJN9HKq8C2XjWVmDnW_RXHB2pW_V8Ci6QZAlhjsncOFRkKiiwDN-m4OsBHkUZgnn6zLigX_SBvdF8bRGPAnq0yEKSi_AzVLFcY1R58ydBrGwoVi6km3m",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJ_7aPUxA-HGARteqTh2Mitys",
+      "plus_code": {
+        "compound_code": "XF88+2P 南牧村、長野県",
+        "global_code": "8Q7WXF88+2P"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

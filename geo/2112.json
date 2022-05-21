@@ -1,99 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４",
-        "short_name": "４４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "９",
-        "short_name": "９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "３丁目",
-        "short_name": "３丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "石芝",
-        "short_name": "石芝",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-0007",
-        "short_name": "399-0007",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-0007 長野県松本市石芝３丁目９−４４",
-    "geometry": {
-      "location": {
-        "lat": 36.204171,
-        "lng": 137.9486402
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2056035302915,
-          "lng": 137.9498272802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-0007 長野県松本市石芝３丁目９−４４",
+      "geometry": {
+        "location": {
+          "lat": 36.2042581,
+          "lng": 137.94851
         },
-        "southwest": {
-          "lat": 36.20290556970851,
-          "lng": 137.9471293197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.20560437989272,
+            "lng": 137.9498281298927
+          },
+          "southwest": {
+            "lat": 36.20290472010728,
+            "lng": 137.9471284701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc799VkwOHWARmJlFTI4PjNE",
-    "plus_code": {
-      "compound_code": "6W3X+MF 日本、長野県松本市",
-      "global_code": "8Q8V6W3X+MF"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "林檎の湯屋 おぶ～",
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100480479507954385083\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECfNAYRtaaX0onl7_EE8uxdjFXacMyVRDnxq8gEwo7fxdtUDRqYNiAy5wtL638ITVPGOCba9YqNV0fYLu1ollkgZksW8Ka9yHcnyqrb-tufcSXddBon2gNS12taLyA6Bv8Fc5lH7rE4T95szZoFXX5GxMuUUPOVJY5DutE8lKcms7oy",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJc799VkwOHWARmJlFTI4PjNE",
+      "plus_code": {
+        "compound_code": "6W3X+MF 松本市、長野県",
+        "global_code": "8Q8V6W3X+MF"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

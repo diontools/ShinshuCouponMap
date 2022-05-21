@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "７７１７",
-        "short_name": "７７１７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "島内",
-        "short_name": "島内",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0851",
-        "short_name": "390-0851",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0851 長野県松本市島内７７１７",
-    "geometry": {
-      "location": {
-        "lat": 36.2575797,
-        "lng": 137.9496253
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.25888563029149,
-          "lng": 137.9508179802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0851 長野県松本市島内７７１７",
+      "geometry": {
+        "location": {
+          "lat": 36.2575797,
+          "lng": 137.9496253
         },
-        "southwest": {
-          "lat": 36.2561876697085,
-          "lng": 137.9481200197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.25888647989272,
+            "lng": 137.9508188298927
+          },
+          "southwest": {
+            "lat": 36.25618682010727,
+            "lng": 137.9481191701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJtefsWrgNHWARIrEUQ7lJNrg",
-    "plus_code": {
-      "compound_code": "7W5X+2V 日本、長野県松本市",
-      "global_code": "8Q8V7W5X+2V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "麓庵かつ玄",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102061990635098837469\">山口康臣</a>"
+          ],
+          "photo_reference": "Aap_uEBPRGX4Ll3zb7WBEPUiLBwQ3xgNg20GrfrpW4pX57mI26nlkDI4rL8zQ_8VGFF_QNteYCZMvKqGs6wPmN_rfne8kFNA5AVQ2cBd6AF-nukjuIVsmbf2Y0uORGINw_y7LuKWrix1_nAJgq_gHGl3F1W2ehx0kk5T48BCq0yFYz_foMET",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJtefsWrgNHWARIrEUQ7lJNrg",
+      "plus_code": {
+        "compound_code": "7W5X+2V 松本市、長野県",
+        "global_code": "8Q8V7W5X+2V"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

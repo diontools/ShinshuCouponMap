@@ -1,109 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "1階",
-        "short_name": "1階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "33IMビル",
-        "short_name": "33IMビル",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２",
-        "short_name": "２",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "深志",
-        "short_name": "深志",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0815",
-        "short_name": "390-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目２ 33IMビル 1階",
-    "geometry": {
-      "location": {
-        "lat": 36.2308114,
-        "lng": 137.9660632
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2319901802915,
-          "lng": 137.9674049302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0815 長野県松本市深志１丁目２ 33IMビル 1階",
+      "geometry": {
+        "location": {
+          "lat": 36.2308114,
+          "lng": 137.9660632
         },
-        "southwest": {
-          "lat": 36.2292922197085,
-          "lng": 137.9647069697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23199102989273,
+            "lng": 137.9674057798927
+          },
+          "southwest": {
+            "lat": 36.22929137010728,
+            "lng": 137.9647061201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJmTmfGvYPHWAR3gwapY3iL_A",
-    "plus_code": {
-      "compound_code": "6XJ8+8C 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+8C"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "キタノイチバ 松本東口駅前店",
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105947465007099266568\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBqs1-5Fye7SOZWWiSkqehEssOkuoMswdyCOLYK00kJkB2t0nYUyxfvGymX8D2-iOV4NbI6WBmoDdsflj-7SEh0ByE_AJIejfB0qW44aYv0mucwBrZtavrjFX9m3F-1bN_gLppHgEztfLNyy44B6aZFCNj66FDaORffL8shJ00YUZpl",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJmTmfGvYPHWAR3gwapY3iL_A",
+      "plus_code": {
+        "compound_code": "6XJ8+8C 松本市、長野県",
+        "global_code": "8Q8V6XJ8+8C"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

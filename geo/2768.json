@@ -1,93 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３１８６",
-        "short_name": "３１８６",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "東",
-        "short_name": "東",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "王滝村",
-        "short_name": "王滝村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0201",
-        "short_name": "397-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村東３１８６",
-    "geometry": {
-      "location": {
-        "lat": 35.8232389,
-        "lng": 137.5557422
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.82456428029149,
-          "lng": 137.5570278802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0201 長野県木曽郡王滝村東３１８６",
+      "geometry": {
+        "location": {
+          "lat": 35.8232389,
+          "lng": 137.5557422
         },
-        "southwest": {
-          "lat": 35.8218663197085,
-          "lng": 137.5543299197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.82456512989273,
+            "lng": 137.5570287298927
+          },
+          "southwest": {
+            "lat": 35.82186547010728,
+            "lng": 137.5543290701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQZ5wZ1rWHGARWH5_Ed6GANw",
-    "plus_code": {
-      "compound_code": "RHF4+77 長野県王滝村",
-      "global_code": "8Q7VRHF4+77"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ひめや",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116098604104044563257\">山口悟史</a>"
+          ],
+          "photo_reference": "Aap_uEAWLnAaAo2z7iaC56bTlI735l-A5gYw5CFugUAXxdBdKwbG896bHZdhH-ttT6gs_dFdh9MV1mF9gzW5qcsKWe_qd5lrYu1IDqiEUgIjFS429-vptQdTfSKm_7VUk3BmxYdAIO1WU1WrzJ_B8_IOG8-ZSuky-gEdMSS5bT8Q-X2YrxIw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJQZ5wZ1rWHGARWH5_Ed6GANw",
+      "plus_code": {
+        "compound_code": "RHF4+77 王滝村、長野県",
+        "global_code": "8Q7VRHF4+77"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

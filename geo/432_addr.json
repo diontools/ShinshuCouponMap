@@ -1,69 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "金井原通り",
-        "short_name": "金井原通り",
-        "types": [
-          "route"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県須坂市 金井原通り",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6541149,
-          "lng": 138.3240111
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、長野県須坂市 金井原通り",
+      "geometry": {
+        "location": {
+          "lat": 36.6465885,
+          "lng": 138.316394
         },
-        "southwest": {
-          "lat": 36.6370432,
-          "lng": 138.3065707
+        "viewport": {
+          "northeast": {
+            "lat": 36.64793832989272,
+            "lng": 138.3177438298927
+          },
+          "southwest": {
+            "lat": 36.64523867010728,
+            "lng": 138.3150441701073
+          }
         }
       },
-      "location": {
-        "lat": 36.6465885,
-        "lng": 138.316394
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6541149,
-          "lng": 138.3240111
-        },
-        "southwest": {
-          "lat": 36.6370432,
-          "lng": 138.3065707
-        }
-      }
-    },
-    "place_id": "ChIJXVeEU5COHWARxqpR9mnAVSI",
-    "types": [
-      "route"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "金井原通り",
+      "place_id": "ChIJXVeEU5COHWARxqpR9mnAVSI",
+      "types": [
+        "route"
+      ]
+    }
+  ],
+  "status": "OK"
+}

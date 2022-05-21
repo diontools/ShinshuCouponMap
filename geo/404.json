@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３６−９",
-        "short_name": "３６−９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "野尻",
-        "short_name": "野尻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "信濃町",
-        "short_name": "信濃町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-1303",
-        "short_name": "389-1303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３６−９",
-    "geometry": {
-      "location": {
-        "lat": 36.8365704,
-        "lng": 138.2103067
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8378802302915,
-          "lng": 138.2116132302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-1303 長野県上水内郡信濃町野尻３６−９",
+      "geometry": {
+        "location": {
+          "lat": 36.8365704,
+          "lng": 138.2103067
         },
-        "southwest": {
-          "lat": 36.8351822697085,
-          "lng": 138.2089152697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.83788107989272,
+            "lng": 138.2116140798927
+          },
+          "southwest": {
+            "lat": 36.83518142010728,
+            "lng": 138.2089144201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ68CRmT4j9l8RfKJgpXt1eCM",
-    "plus_code": {
-      "compound_code": "R6P6+J4 日本、長野県信濃町",
-      "global_code": "8Q8WR6P6+J4"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "花屋食堂",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103984517551715881654\">塩川勝己</a>"
+          ],
+          "photo_reference": "Aap_uEANS8C2jQBCyifRzQQbZocPBmOZRw6CGW4APtsmi-moJz0DXN-48tNvg7heOaSU39L1TuNJ4MWlh1jVvc7kVeIZvYMw2r9GmbkIMMlYNQEU7ZDpPYGfTu0-P7bsOK-odU3KkuyrMWOnctWExZV1klVxII1zaGygPaMXSZgxD6oC8vZ4",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJ68CRmT4j9l8RfKJgpXt1eCM",
+      "plus_code": {
+        "compound_code": "R6P6+J4 信濃町、長野県",
+        "global_code": "8Q8WR6P6+J4"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

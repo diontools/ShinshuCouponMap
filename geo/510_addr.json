@@ -1,85 +1,40 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２７０−１",
-        "short_name": "２７０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "桜堂",
-        "short_name": "桜堂",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "387-0012",
-        "short_name": "387-0012",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒387-0012 長野県千曲市桜堂２７０−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5260518,
-          "lng": 138.1224918
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒387-0012 長野県千曲市桜堂２７０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.5259725,
+          "lng": 138.1223478
         },
-        "southwest": {
-          "lat": 36.5258826,
-          "lng": 138.1222142
+        "viewport": {
+          "northeast": {
+            "lat": 36.52744507989272,
+            "lng": 138.1235977798927
+          },
+          "southwest": {
+            "lat": 36.52474542010727,
+            "lng": 138.1208981201073
+          }
         }
       },
-      "location": {
-        "lat": 36.5259725,
-        "lng": 138.1223478
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5273992802915,
-          "lng": 138.1236689302915
-        },
-        "southwest": {
-          "lat": 36.5247013197085,
-          "lng": 138.1209709697085
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒387-0012 長野県千曲市桜堂２７０−１",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114552200977645054745\">田中中田</a>"
+          ],
+          "photo_reference": "Aap_uEDRM32r4D_GjOz096AJSZ8lMY9vl9ZwNpCbmWzrogI-CcMZSyHNmNg9BItM-3bMz43qP9j92ISgOjlig5FFpWII91x5D1LjkYo7FC5LBUby-ahlL_Cly8rVHPXTK_CCmwECYtEK_cw--yTpozSHQXE1RHXx1UrgWblkIFZa-pBeJDG2",
+          "width": 1080
         }
-      }
-    },
-    "place_id": "ChIJky1yH9WcHWARGxHtGbuThN4",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJky1yH9WcHWARGxHtGbuThN4",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

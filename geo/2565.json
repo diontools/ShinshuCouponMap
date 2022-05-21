@@ -1,72 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北安曇郡白馬村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城",
+      "geometry": {
+        "location": {
+          "lat": 36.6909573,
+          "lng": 137.8438858
         },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+        "viewport": {
+          "northeast": {
+            "lat": 36.69247702989271,
+            "lng": 137.8451828298927
+          },
+          "southwest": {
+            "lat": 36.68977737010727,
+            "lng": 137.8424831701072
+          }
         }
       },
-      "location": {
-        "lat": 36.6981614,
-        "lng": 137.8619333
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7676912,
-          "lng": 137.9414972
-        },
-        "southwest": {
-          "lat": 36.6139054,
-          "lng": 137.7500029
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Komorebi Yoga",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116767654507415997472\">princess</a>"
+          ],
+          "photo_reference": "Aap_uEDy7I2GIclPBGPxWIv4bIX-VgvOVcGOpoG2gEjf3560j0yDE0CovzIkOvKa7-73dC27W5QvDAb4hwUVcSbQ5htSTO59bcVpVFjgtX_m50SFEdtMWxV_-r4BOWTIMhMe-Ia65ZoUsqb7SsIRpssHOkK-tRbs2Uo9OPBPV7HM1D1l3fUc",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5_6hSuPR918REzUb61r1JNA",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJExHMQuHR918RX3DYA7t53Yk",
+      "plus_code": {
+        "compound_code": "MRRV+9H 白馬村、長野県",
+        "global_code": "8Q8VMRRV+9H"
+      },
+      "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４６１９",
-        "short_name": "４６１９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "信州新町水内",
-        "short_name": "信州新町水内",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-2403",
-        "short_name": "381-2403",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-2403 長野県長野市信州新町水内４６１９",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5846686,
-          "lng": 138.0528672
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-2403 長野県長野市信州新町水内４６１９",
+      "geometry": {
+        "location": {
+          "lat": 36.5846068,
+          "lng": 138.0527813
         },
-        "southwest": {
-          "lat": 36.5845365,
-          "lng": 138.052696
+        "viewport": {
+          "northeast": {
+            "lat": 36.58605407989273,
+            "lng": 138.0540026798927
+          },
+          "southwest": {
+            "lat": 36.58335442010728,
+            "lng": 138.0513030201072
+          }
         }
       },
-      "location": {
-        "lat": 36.5846068,
-        "lng": 138.0527813
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5860180802915,
-          "lng": 138.0540447802915
-        },
-        "southwest": {
-          "lat": 36.5833201197085,
-          "lng": 138.0513468197085
-        }
-      }
-    },
-    "place_id": "ChIJHwkDAj1_HWARope1cJvccwI",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒381-2403 長野県長野市信州新町水内４６１９",
+      "place_id": "ChIJHwkDAj1_HWARope1cJvccwI",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,108 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "手前ざる",
-        "short_name": "手前ざる",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "中央",
-        "short_name": "中央",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0811",
-        "short_name": "390-0811",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−６ 手前ざる",
-    "geometry": {
-      "location": {
-        "lat": 36.2319557,
-        "lng": 137.966669
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23331803029149,
-          "lng": 137.9680116802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0811 長野県松本市中央１丁目４−６ 手前ざる",
+      "geometry": {
+        "location": {
+          "lat": 36.2319557,
+          "lng": 137.966669
         },
-        "southwest": {
-          "lat": 36.2306200697085,
-          "lng": 137.9653137197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23331887989272,
+            "lng": 137.9680125298927
+          },
+          "southwest": {
+            "lat": 36.23061922010727,
+            "lng": 137.9653128701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJiVyRAYwOHWARVBdFQ5zPsaY",
-    "plus_code": {
-      "compound_code": "6XJ8+QM 日本、長野県松本市",
-      "global_code": "8Q8V6XJ8+QM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "築地市場食堂 松本駅前店",
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104305617254765112562\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAPh2gqpLn1_k8_I05KmnJ0ds3CUUU-TwBWkBXdJvbMQSzxz4UFaMaqJ1NXxXhbqO-deK6ZE6s3FP5tiQFXgeb-Iqe4WbIKON2XX3vv67dtJ--nzx0F8c7x1dBSToB8WpUFtmUXsriStHJu4IkSjoBsw8K2sau1NQP7aYwHos2ord2p",
+          "width": 900
+        }
+      ],
+      "place_id": "ChIJiVyRAYwOHWARVBdFQ5zPsaY",
+      "plus_code": {
+        "compound_code": "6XJ8+QM 松本市、長野県",
+        "global_code": "8Q8V6XJ8+QM"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０５７",
-        "short_name": "２０５７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "海ノ口",
-        "short_name": "海ノ口",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南牧村",
-        "short_name": "南牧村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "南佐久郡",
-        "short_name": "南佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "384-1302",
-        "short_name": "384-1302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒384-1302 長野県南佐久郡南牧村海ノ口２０５７",
-    "geometry": {
-      "location": {
-        "lat": 36.0007733,
-        "lng": 138.5022303
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.00204128029149,
-          "lng": 138.5036032802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-1302 長野県南佐久郡南牧村海ノ口２０５７",
+      "geometry": {
+        "location": {
+          "lat": 36.0007733,
+          "lng": 138.5022303
         },
-        "southwest": {
-          "lat": 35.99934331970849,
-          "lng": 138.5009053197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.00204212989272,
+            "lng": 138.5036041298928
+          },
+          "southwest": {
+            "lat": 35.99934247010728,
+            "lng": 138.5009044701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVfvXiLc9HGAReontNFJ96LE",
-    "plus_code": {
-      "compound_code": "2G22+8V 日本、長野県南牧村",
-      "global_code": "8Q8W2G22+8V"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "レストラン１４１",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114426381200765226527\">masataka murata</a>"
+          ],
+          "photo_reference": "Aap_uEBTdt7uzIWBdL8UvXu_AGyj7bFUDfFoea90apUBqNy1l7Dip1lWojuXfUEHf-Hw6t-L4qnND0qNq7HVl0LNqxTueUO72fcaqGtXMDKAA5FA3nqedEi1v7WYbiUfnNrlZQs6rBZtGP8zbDUrgsfEolERGLeGuAD9bUxNqpiUyyww2MZq",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJVfvXiLc9HGAReontNFJ96LE",
+      "plus_code": {
+        "compound_code": "2G22+8V 南牧村、長野県",
+        "global_code": "8Q8W2G22+8V"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,64 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小諸市",
-        "short_name": "小諸市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県小諸市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.414866,
-          "lng": 138.5067915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-0809 長野県小諸市滋野甲５９１−１",
+      "geometry": {
+        "location": {
+          "lat": 36.35301,
+          "lng": 138.38973
         },
-        "southwest": {
-          "lat": 36.2757988,
-          "lng": 138.3623833
+        "viewport": {
+          "northeast": {
+            "lat": 36.35438547989272,
+            "lng": 138.3911713798927
+          },
+          "southwest": {
+            "lat": 36.35168582010728,
+            "lng": 138.3884717201072
+          }
         }
       },
-      "location": {
-        "lat": 36.3271412,
-        "lng": 138.4258254
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.414866,
-          "lng": 138.5067915
-        },
-        "southwest": {
-          "lat": 36.2757988,
-          "lng": 138.3623833
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "自然の恵みそばと、カフェ 凱 Toki",
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115900866985475170503\">自然の恵みそばと、カフェ「凱」 Toki</a>"
+          ],
+          "photo_reference": "Aap_uEBLUg3efS45vT3K5Pqx8j-Y72h89tBWoOxUPiYz9frNHrgJaPrAqL0PMi4cuSaQDmf7P-b3kCh0Pywv6-3yaGTK0faUkFLmdqsgPgj8dVYmRlTl4pLmnD9BhcjXQXMZaCsHhSeB_USpBZHwEqQVOAtAiWfDEgFSpvm2P1LqKOaV-5VO",
+          "width": 3456
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJCbaWP1fIHWARK6ZkTmPAsGE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJjx_DPfi3HWARo5QsobWX5OY",
+      "plus_code": {
+        "compound_code": "993Q+6V 小諸市、長野県",
+        "global_code": "8Q8W993Q+6V"
+      },
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

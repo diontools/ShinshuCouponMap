@@ -1,88 +1,42 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "瀬戸川",
-        "short_name": "瀬戸川",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小川村",
-        "short_name": "小川村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上水内郡",
-        "short_name": "上水内郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-3304",
-        "short_name": "381-3304",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-3304 長野県上水内郡小川村瀬戸川",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.6726574,
-          "lng": 137.9884808
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒381-3304 長野県上水内郡小川村瀬戸川",
+      "geometry": {
+        "location": {
+          "lat": 36.638513,
+          "lng": 137.9447198
         },
-        "southwest": {
-          "lat": 36.6145329,
-          "lng": 137.9052475
+        "viewport": {
+          "northeast": {
+            "lat": 36.6726574,
+            "lng": 137.9884808
+          },
+          "southwest": {
+            "lat": 36.6145329,
+            "lng": 137.9052475
+          }
         }
       },
-      "location": {
-        "lat": 36.638513,
-        "lng": 137.9447198
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6726574,
-          "lng": 137.9884808
-        },
-        "southwest": {
-          "lat": 36.6145329,
-          "lng": 137.9052475
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "瀬戸川",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117784452209220906109\">62 Casa</a>"
+          ],
+          "photo_reference": "Aap_uED6hszGOFFCPw_S0RGjxb7HsqDwAa9TNr9qbQHa8eT6Q3aMERHD9z3ibJVn6zypfwOpio7-ZOVBrFkSwWGKDLtMxf1rburpM-Avv2PKFvIWEx9DHRX3hzc0OQtf0hbeSU3k56SlpmZjS3nw4E7EL67enX8SZGwEdFCiwIEv3Pp7Wp_a",
+          "width": 3264
         }
-      }
-    },
-    "place_id": "ChIJbcg0nZ7W918RXXXse57ldtk",
-    "types": [
-      "political",
-      "sublocality",
-      "sublocality_level_2"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJbcg0nZ7W918RXXXse57ldtk",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０３５−２１４８",
-        "short_name": "４０３５−２１４８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山４０３５−２１４８",
-    "geometry": {
-      "location": {
-        "lat": 36.0721194,
-        "lng": 138.2979235
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0734319302915,
-          "lng": 138.2991689802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山４０３５−２１４８",
+      "geometry": {
+        "location": {
+          "lat": 36.0721194,
+          "lng": 138.2979235
         },
-        "southwest": {
-          "lat": 36.0707339697085,
-          "lng": 138.2964710197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07343277989273,
+            "lng": 138.2991698298927
+          },
+          "southwest": {
+            "lat": 36.07073312010728,
+            "lng": 138.2964701701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJA7Rt4OdOHGARKwVoqKFXcm8",
-    "plus_code": {
-      "compound_code": "37CX+R5 長野県茅野市",
-      "global_code": "8Q8W37CX+R5"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0301 長野県茅野市北山４０３５−２１４８",
+      "place_id": "ChIJA7Rt4OdOHGARKwVoqKFXcm8",
+      "plus_code": {
+        "compound_code": "37CX+R5 茅野市、長野県",
+        "global_code": "8Q8W37CX+R5"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

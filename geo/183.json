@@ -1,72 +1,37 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡木島平村",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8948837,
-          "lng": 138.5555357
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2302 長野県下高井郡木島平村往郷１３１０−２",
+      "geometry": {
+        "location": {
+          "lat": 36.8514642,
+          "lng": 138.4083338
         },
-        "southwest": {
-          "lat": 36.7934872,
-          "lng": 138.3841393
+        "viewport": {
+          "northeast": {
+            "lat": 36.85282917989272,
+            "lng": 138.4096632298927
+          },
+          "southwest": {
+            "lat": 36.85012952010727,
+            "lng": 138.4069635701073
+          }
         }
       },
-      "location": {
-        "lat": 36.8585206,
-        "lng": 138.4066807
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "（有）高社食品",
+      "place_id": "ChIJwxhHsKQe9l8RHZITvn2AWO8",
+      "plus_code": {
+        "compound_code": "VC25+H8 木島平村、長野県",
+        "global_code": "8Q8WVC25+H8"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8948837,
-          "lng": 138.5555357
-        },
-        "southwest": {
-          "lat": 36.7934872,
-          "lng": 138.3841393
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJc3eDrccd9l8RkOQoasAe-GM",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

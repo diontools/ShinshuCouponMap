@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０５５",
-        "short_name": "３０５５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸倉温泉",
-        "short_name": "戸倉温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0807",
-        "short_name": "389-0807",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５",
-    "geometry": {
-      "location": {
-        "lat": 36.4824833,
-        "lng": 138.1436083
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4837868302915,
-          "lng": 138.1449846802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５",
+      "geometry": {
+        "location": {
+          "lat": 36.4824305,
+          "lng": 138.1436385
         },
-        "southwest": {
-          "lat": 36.4810888697085,
-          "lng": 138.1422867197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48378767989272,
+            "lng": 138.1449855298928
+          },
+          "southwest": {
+            "lat": 36.48108802010728,
+            "lng": 138.1422858701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJNxhmyhScHWARA4vWDCo9R4Y",
-    "plus_code": {
-      "compound_code": "F4JV+XC 日本、長野県千曲市",
-      "global_code": "8Q8WF4JV+XC"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "千曲乃湯しげの家",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105419314411036535148\">105419314411036535148</a>"
+          ],
+          "photo_reference": "Aap_uEA_GV9gLzzhyeXQ_CvF3BYXaiALb_bacDu0mXJTtBnM7DPfBB55pqM4bKfq9kyebEfd56TvyUWBcCKozymDAPVHQIqXhOqx0QakbIsnlUCmZz1V2JFwD5a_cI0TphORfwbcORDLGebHu9AvR6zsmm1hy-zcJuKgBpvu9olYw4Z1rkZo",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJNxhmyhScHWARA4vWDCo9R4Y",
+      "plus_code": {
+        "compound_code": "F4JV+XC 千曲市、長野県",
+        "global_code": "8Q8WF4JV+XC"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

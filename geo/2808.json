@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻 吾妻下町866−23",
-    "geometry": {
-      "location": {
-        "lat": 35.5788808,
-        "lng": 137.5955572
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5802904302915,
-          "lng": 137.5969987302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町 吾妻下町866−23",
+      "geometry": {
+        "location": {
+          "lat": 35.5788541,
+          "lng": 137.5955227
         },
-        "southwest": {
-          "lat": 35.57759246970851,
-          "lng": 137.5943007697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.58029127989272,
+            "lng": 137.5969995798927
+          },
+          "southwest": {
+            "lat": 35.57759162010727,
+            "lng": 137.5942999201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJUUR1R-O3HGARvLgXOz-65x0",
-    "plus_code": {
-      "compound_code": "HHHW+H6 長野県南木曽町",
-      "global_code": "8Q7VHHHW+H6"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "田丸屋",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117186784006337269359\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA3CtJqyZe5GT8cnnETO4ngkm3iHfJ0Suw0AU546Hb4u-gKzv_1hmwcW4O2a1TGJS7un28mhZdzt0zHuilWAjzbbNsks-NI-PUxRSuyycBJg8J1poWMJypWAQZcaVCt_-J3Tgfylbk9Ce_-m2O0Ugo6ECNJ2sE-MMn9RVxla4f_e56S",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJUUR1R-O3HGARvLgXOz-65x0",
+      "plus_code": {
+        "compound_code": "HHHW+H6 南木曽町、長野県",
+        "global_code": "8Q7VHHHW+H6"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

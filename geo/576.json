@@ -1,81 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３０５５",
-        "short_name": "３０５５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "戸倉温泉",
-        "short_name": "戸倉温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0807",
-        "short_name": "389-0807",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５",
-    "geometry": {
-      "location": {
-        "lat": 36.4831129,
-        "lng": 138.1430358
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4844493802915,
-          "lng": 138.1443519802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0807 長野県千曲市戸倉温泉３０５５",
+      "geometry": {
+        "location": {
+          "lat": 36.4831129,
+          "lng": 138.1430358
         },
-        "southwest": {
-          "lat": 36.4817514197085,
-          "lng": 138.1416540197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48445022989272,
+            "lng": 138.1443528298927
+          },
+          "southwest": {
+            "lat": 36.48175057010728,
+            "lng": 138.1416531701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ-cyvPGucHWAR9gHW_bPmyJg",
-    "plus_code": {
-      "compound_code": "F4MV+66 日本、長野県千曲市",
-      "global_code": "8Q8WF4MV+66"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "畑山ハイヤー (資)畑山自動車商会",
+      "photos": [
+        {
+          "height": 340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116166907894832569422\">畑山ハイヤー (資)畑山自動車商会</a>"
+          ],
+          "photo_reference": "Aap_uEC4mkzk3G_8O7XQauyblMzIJDWWaOuFZRAuSPu1qnj2_4HAZxzyq6yF6XbpuHPM9Spr-Qnhn-gUyGlz_9lvQcU5fk8TdiA7ZbFmUfmMIisFMtx3nDp745pT2O48mILFbHQ-8x2RvVblvTK1DbBZBDRHMtFUfkAYDYncPY8ldolkU7J4",
+          "width": 512
+        }
+      ],
+      "place_id": "ChIJ-cyvPGucHWAR9gHW_bPmyJg",
+      "plus_code": {
+        "compound_code": "F4MV+66 千曲市、長野県",
+        "global_code": "8Q8WF4MV+66"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

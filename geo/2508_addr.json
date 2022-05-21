@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１７３８",
-        "short_name": "１１７３８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中土",
-        "short_name": "中土",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "小谷村",
-        "short_name": "小谷村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9511",
-        "short_name": "399-9511",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9511 長野県北安曇郡小谷村中土１１７３８",
-    "geometry": {
-      "location": {
-        "lat": 36.8220667,
-        "lng": 137.9214543
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.82322583029149,
-          "lng": 137.9227164802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-9511 長野県北安曇郡小谷村中土１１７３８",
+      "geometry": {
+        "location": {
+          "lat": 36.8220667,
+          "lng": 137.9214543
         },
-        "southwest": {
-          "lat": 36.8205278697085,
-          "lng": 137.9200185197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.82322667989272,
+            "lng": 137.9227173298927
+          },
+          "southwest": {
+            "lat": 36.82052702010728,
+            "lng": 137.9200176701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJP230Fpo29l8RVila_hRgWyM",
-    "plus_code": {
-      "compound_code": "RWCC+RH 長野県小谷村",
-      "global_code": "8Q8VRWCC+RH"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-9511 長野県北安曇郡小谷村中土１１７３８",
+      "place_id": "ChIJP230Fpo29l8RVila_hRgWyM",
+      "plus_code": {
+        "compound_code": "RWCC+RH 小谷村、長野県",
+        "global_code": "8Q8VRWCC+RH"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

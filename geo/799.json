@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１９４−１２",
-        "short_name": "２１９４−１２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "田町",
-        "short_name": "田町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "鶴賀",
-        "short_name": "鶴賀",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0815",
-        "short_name": "380-0815",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0815 長野県長野市鶴賀田町２１９４−１２",
-    "geometry": {
-      "location": {
-        "lat": 36.653952,
-        "lng": 138.190959
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6553018302915,
-          "lng": 138.1922808802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0815 長野県長野市鶴賀田町２１９４−１２",
+      "geometry": {
+        "location": {
+          "lat": 36.653952,
+          "lng": 138.190959
         },
-        "southwest": {
-          "lat": 36.6526038697085,
-          "lng": 138.1895829197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65530267989272,
+            "lng": 138.1922817298927
+          },
+          "southwest": {
+            "lat": 36.65260302010728,
+            "lng": 138.1895820701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJHRW6QfCGHWARDJOHucj7yq0",
-    "plus_code": {
-      "compound_code": "M53R+H9 日本、長野県長野市",
-      "global_code": "8Q8WM53R+H9"
-    },
-    "types": [
-      "cafe",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "長野ロズベリーカフェ・ライブミュージック",
+      "photos": [
+        {
+          "height": 1799,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107999397971673776403\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAnRXhkXObBYTYsR08uRhfZrCsVRxjZXAkc9q_RUjD1f_1PWfx6cCfN0ibuKljG2ZG3NY8Y-Z_hkSlpg9E_N1zA6V9tq6wE0bmZlCTV2-1J3K48jkQd5M7AmDou3MDiqaMYhqfsNY2gmR6gdWMhLoDpuYTGBzbZQxo54tG4tkYEFjE",
+          "width": 3196
+        }
+      ],
+      "place_id": "ChIJHRW6QfCGHWARDJOHucj7yq0",
+      "plus_code": {
+        "compound_code": "M53R+H9 長野市、長野県",
+        "global_code": "8Q8WM53R+H9"
+      },
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

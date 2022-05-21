@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２８８４−１３",
-        "short_name": "２８８４−１３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大町温泉郷",
-        "short_name": "大町温泉郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "平",
-        "short_name": "平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "大町市",
-        "short_name": "大町市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "398-0001",
-        "short_name": "398-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒398-0001 長野県大町市平大町温泉郷２８８４−１３",
-    "geometry": {
-      "location": {
-        "lat": 36.5313762,
-        "lng": 137.8083721
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5326669302915,
-          "lng": 137.8099731302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒398-0001 長野県大町市平大町温泉郷２８８４−１３",
+      "geometry": {
+        "location": {
+          "lat": 36.5313762,
+          "lng": 137.8083721
         },
-        "southwest": {
-          "lat": 36.52996896970851,
-          "lng": 137.8072751697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53266777989272,
+            "lng": 137.8099739798927
+          },
+          "southwest": {
+            "lat": 36.52996812010727,
+            "lng": 137.8072743201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ0Va5odZhHWARiEbo81g4qOo",
-    "plus_code": {
-      "compound_code": "GRJ5+H8 日本、長野県大町市",
-      "global_code": "8Q8VGRJ5+H8"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "緑翠亭 景水",
+      "photos": [
+        {
+          "height": 525,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111831046958811291084\">緑翠亭景水</a>"
+          ],
+          "photo_reference": "Aap_uEA9i_fV92tYTUSM4YzqlJuuHXQxkjg2X4U5T709Q5gvqhU-JxY8RG-T-SnOmlPJV0x2ENxY80yvmSelsqZufJRGfFjr3QtJhxYQKayxyP47TxOS6uj_Mm5wDAyT1xHf0voatnJ6O54tNvqct0Acz5eHR63TCxxXJzs82lbI31KdONIj",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJ0Va5odZhHWARiEbo81g4qOo",
+      "plus_code": {
+        "compound_code": "GRJ5+H8 大町市、長野県",
+        "global_code": "8Q8VGRJ5+H8"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３４１８",
-        "short_name": "３４１８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "白樺湖",
-        "short_name": "白樺湖",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山白樺湖３４１８",
-    "geometry": {
-      "location": {
-        "lat": 36.1055336,
-        "lng": 138.2315268
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1068137802915,
-          "lng": 138.2329058302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山白樺湖３４１８",
+      "geometry": {
+        "location": {
+          "lat": 36.1055336,
+          "lng": 138.2315268
         },
-        "southwest": {
-          "lat": 36.1041158197085,
-          "lng": 138.2302078697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.10681462989272,
+            "lng": 138.2329066798927
+          },
+          "southwest": {
+            "lat": 36.10411497010728,
+            "lng": 138.2302070201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJX83sDn1SHGARFAqs7K8VXZw",
-    "plus_code": {
-      "compound_code": "464J+6J 長野県茅野市",
-      "global_code": "8Q8W464J+6J"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "白樺湖レイクサイドホテル山幸閣",
+      "photos": [
+        {
+          "height": 718,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117323478972942891207\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDdxrl59DwabtGcoasfAVMOxtF2QDbuKLn94rAF-DkYXNZWqvtVoBYZBjdhyQ4e37qcX63HYEsDkcXocfkXK2Ei497-RZSwFPvpyh3WR7TMyc22kgHru5tACX6xviGksdyVf7u0oR5lAAb6W186PdzSJZJ5uBcMHnqBg_L0rdO63Z0G",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJX83sDn1SHGARFAqs7K8VXZw",
+      "plus_code": {
+        "compound_code": "464J+6J 茅野市、長野県",
+        "global_code": "8Q8W464J+6J"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

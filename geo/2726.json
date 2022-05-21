@@ -1,82 +1,87 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城",
-    "geometry": {
-      "location": {
-        "lat": 36.7019841,
-        "lng": 137.8369446
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7034282302915,
-          "lng": 137.8384009802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城",
+      "geometry": {
+        "location": {
+          "lat": 36.7019841,
+          "lng": 137.8369446
         },
-        "southwest": {
-          "lat": 36.70073026970851,
-          "lng": 137.8357030197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70342907989272,
+            "lng": 137.8384018298927
+          },
+          "southwest": {
+            "lat": 36.70072942010727,
+            "lng": 137.8357021701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "白馬八方尾根スキー場",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114619460991909255701\">Tree Frog</a>"
+          ],
+          "photo_reference": "Aap_uEB__7vwMopG9Q0vCEPE-jK7qeyVwO9ay3OOLCBF9rnqscrblTTw0eIr1HSseV2uaAxZffz6RoqR1T6F1Ngf8PZvQs63HKcYZz6W_MTj8Y9aH2EGrvu1U6uIltr6ew_ZLLR9jdxZwqAkA_5WLbd4zkjR9JoPc25oELSRQUaj4QHH6j1z",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJnSNvHAnO918RR59j-Pg3h7o",
+      "plus_code": {
+        "compound_code": "PR2P+QQ 白馬村、長野県",
+        "global_code": "8Q8VPR2P+QQ"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJnSNvHAnO918RR59j-Pg3h7o",
-    "plus_code": {
-      "compound_code": "PR2P+QQ 長野県白馬村",
-      "global_code": "8Q8VPR2P+QQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村北城３８７１",
+      "geometry": {
+        "location": {
+          "lat": 36.6997537,
+          "lng": 137.8371115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.70088492989272,
+            "lng": 137.8379409798927
+          },
+          "southwest": {
+            "lat": 36.69818527010727,
+            "lng": 137.8352413201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "白馬八方尾根スキー場 名木山ゲレンデ",
+      "photos": [
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103813363687394296032\">保坂久</a>"
+          ],
+          "photo_reference": "Aap_uEBZH2Wz_OiAmJQOLtmsxHCo9UFGtaf71iZLHfQApntSUJMrA5zuuiEYXOU03Gec25Xvv1HIBWAtNU0q0oPiFev00vqT1vTEhLmAcyOJdehFs3NBXseKHDK4aucPo6OmBCwPjJ6Ztb7iyeXjO7-uYEp0S7m0cdax03mnm7RUmdDcJjdA",
+          "width": 5984
+        }
+      ],
+      "place_id": "ChIJAQA05gXO918Rn9OHG5yQ0g8",
+      "plus_code": {
+        "compound_code": "MRXP+WR 白馬村、長野県",
+        "global_code": "8Q8VMRXP+WR"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

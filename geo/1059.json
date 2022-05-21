@@ -1,92 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "星野",
-        "short_name": "星野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長倉",
-        "short_name": "長倉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "軽井沢町",
-        "short_name": "軽井沢町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0195",
-        "short_name": "389-0195",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0195 長野県北佐久郡軽井沢町長倉星野",
-    "geometry": {
-      "location": {
-        "lat": 36.3579091,
-        "lng": 138.5887584
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3593386802915,
-          "lng": 138.5899975802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0195 長野県軽井沢町星野",
+      "geometry": {
+        "location": {
+          "lat": 36.3579091,
+          "lng": 138.5887584
         },
-        "southwest": {
-          "lat": 36.3566407197085,
-          "lng": 138.5872996197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35933952989273,
+            "lng": 138.5899984298927
+          },
+          "southwest": {
+            "lat": 36.35663987010729,
+            "lng": 138.5872987701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJn7K8-C_SHWARjOa6jK1h32o",
-    "plus_code": {
-      "compound_code": "9H5Q+5G 日本、長野県軽井沢町",
-      "global_code": "8Q8W9H5Q+5G"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "星野リゾート 軽井沢ホテルブレストンコート",
+      "photos": [
+        {
+          "height": 1993,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104235928120069297113\">ホテルブレストンコート</a>"
+          ],
+          "photo_reference": "Aap_uEBqqIe4qsi3qyTjESNzb9foEp2KeSC5uGQkxXuTFBtfT6cYk1JXwEXQiCjURjD9xJz8QZbc_1bx1anCpU8rRFZTNfUuH5HaiABoXPLAGuUF7am2LBxKimjtjSQxSDD0K2wUQBnqqIfNaPIk_5kelXpFNJmaV9WQj-kScfnX8MQW6J8",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJn7K8-C_SHWARjOa6jK1h32o",
+      "plus_code": {
+        "compound_code": "9H5Q+5G 軽井沢町、長野県",
+        "global_code": "8Q8W9H5Q+5G"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,103 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２０",
-        "short_name": "２０",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "川岸上",
-        "short_name": "川岸上",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "岡谷市",
-        "short_name": "岡谷市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "394-0048",
-        "short_name": "394-0048",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒394-0048 長野県岡谷市川岸上１丁目２０−３",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0530866,
-          "lng": 138.0338204
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒394-0048 長野県岡谷市川岸上１丁目２０−３",
+      "geometry": {
+        "location": {
+          "lat": 36.053007,
+          "lng": 138.0336658
         },
-        "southwest": {
-          "lat": 36.0528853,
-          "lng": 138.0335569
+        "viewport": {
+          "northeast": {
+            "lat": 36.05438522989272,
+            "lng": 138.0349702798927
+          },
+          "southwest": {
+            "lat": 36.05168557010728,
+            "lng": 138.0322706201073
+          }
         }
       },
-      "location": {
-        "lat": 36.053007,
-        "lng": 138.0336658
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0543349302915,
-          "lng": 138.0350376302915
-        },
-        "southwest": {
-          "lat": 36.0516369697085,
-          "lng": 138.0323396697085
-        }
-      }
-    },
-    "place_id": "ChIJdcEK5y7-HGARobeCPEM98Dw",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒394-0048 長野県岡谷市川岸上１丁目２０−３",
+      "place_id": "ChIJdcEK5y7-HGARobeCPEM98Dw",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

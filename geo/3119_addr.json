@@ -1,85 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０２３−１",
-        "short_name": "２０２３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "中沖",
-        "short_name": "中沖",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0000",
-        "short_name": "391-0000",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0000 長野県茅野市中沖２０２３−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.0027879,
-          "lng": 138.133094
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒391-0000 長野県茅野市中沖２０２３−１",
+      "geometry": {
+        "location": {
+          "lat": 36.0027201,
+          "lng": 138.1330359
         },
-        "southwest": {
-          "lat": 36.0026495,
-          "lng": 138.1329707
+        "viewport": {
+          "northeast": {
+            "lat": 36.00413002989272,
+            "lng": 138.1344926298927
+          },
+          "southwest": {
+            "lat": 36.00143037010728,
+            "lng": 138.1317929701072
+          }
         }
       },
-      "location": {
-        "lat": 36.0027201,
-        "lng": 138.1330359
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0040938802915,
-          "lng": 138.1344591802915
-        },
-        "southwest": {
-          "lat": 36.0013959197085,
-          "lng": 138.1317612197085
-        }
-      }
-    },
-    "place_id": "ChIJCVMTcO9WHGARzgZadk6sFqc",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒391-0000 長野県茅野市中沖２０２３−１",
+      "place_id": "ChIJCVMTcO9WHGARzgZadk6sFqc",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

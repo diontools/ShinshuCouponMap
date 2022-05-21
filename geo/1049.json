@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６４５８",
-        "short_name": "６４５８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊田",
-        "short_name": "豊田",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯山市",
-        "short_name": "飯山市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2411",
-        "short_name": "389-2411",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2411 長野県飯山市豊田６４５８",
-    "geometry": {
-      "location": {
-        "lat": 36.9284971,
-        "lng": 138.3876816
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.9299478302915,
-          "lng": 138.3890885302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-2411 長野県飯山市豊田６４５８",
+      "geometry": {
+        "location": {
+          "lat": 36.9284971,
+          "lng": 138.3876816
         },
-        "southwest": {
-          "lat": 36.9272498697085,
-          "lng": 138.3863905697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.92994867989272,
+            "lng": 138.3890893798927
+          },
+          "southwest": {
+            "lat": 36.92724902010728,
+            "lng": 138.3863897201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJv23jFHUQ9l8RardPs0O0lNE",
-    "plus_code": {
-      "compound_code": "W9HQ+93 日本、長野県飯山市",
-      "global_code": "8Q8WW9HQ+93"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "アルペンプラザ",
+      "photos": [
+        {
+          "height": 2280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100175304542261280069\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECW2o8lgUmeAxjHnXzSEcW0jKMgbTmIQRVCjnDKq_FszUM6uCGOYtzUMAcc07AnguubAnGmOQ1KqHb4YcPnKXw9RJ7dwvum4ay6AHHHrZJqmPIT1nuK47H93ywWWZK0FtCTtKAH7wQZg92C9wYefWUBn2T5z45XcMy3Ypb7PJ-3r1-S",
+          "width": 4056
+        }
+      ],
+      "place_id": "ChIJv23jFHUQ9l8RardPs0O0lNE",
+      "plus_code": {
+        "compound_code": "W9HQ+93 飯山市、長野県",
+        "global_code": "8Q8WW9HQ+93"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,82 +1,79 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３５０６",
-        "short_name": "３５０６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "ちの",
-        "short_name": "ちの",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0001",
-        "short_name": "391-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0001 長野県茅野市ちの３５０６ モンエイトビル２F",
-    "geometry": {
-      "location": {
-        "lat": 35.9943241,
-        "lng": 138.1521133
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.9956284802915,
-          "lng": 138.1533764802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0001 長野県茅野市ちの３５０６ モンエイトビル２F",
+      "geometry": {
+        "location": {
+          "lat": 35.9943241,
+          "lng": 138.1521133
         },
-        "southwest": {
-          "lat": 35.9929305197085,
-          "lng": 138.1506785197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.99562932989272,
+            "lng": 138.1533773298927
+          },
+          "southwest": {
+            "lat": 35.99292967010727,
+            "lng": 138.1506776701073
+          }
         }
-      }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "茅野市観光案内所（茅野駅ちの旅案内所）",
+      "photos": [
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104969254961373867152\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECtybmR7grmkB11ojq0p04lavJxa8itU_CCCJqCDhg0WrA2aSkqu7tW_h4ZHimU6VyVlsyd31-d_BHIQQk35BMDVaUeWRprX2WjdMJnvg1bu6mCm6DuM9CYQga6hXaZfCvCV1LYevyaY8SusG0S41jpNJqlHxw2H21Ry8i4qMjNLzSu",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJE28evFFXHGARx8mKPDf2VPk",
+      "plus_code": {
+        "compound_code": "X5V2+PR 茅野市、長野県",
+        "global_code": "8Q7WX5V2+PR"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
     },
-    "partial_match": true,
-    "place_id": "ChIJE28evFFXHGARx8mKPDf2VPk",
-    "plus_code": {
-      "compound_code": "X5V2+PR 長野県茅野市",
-      "global_code": "8Q7WX5V2+PR"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency"
-    ]
-  }
-]
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-8501 長野県茅野市ちの３５０６ モンエイトビル ２F",
+      "geometry": {
+        "location": {
+          "lat": 35.9944656,
+          "lng": 138.1520404
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.99572047989272,
+            "lng": 138.1532904798927
+          },
+          "southwest": {
+            "lat": 35.99302082010728,
+            "lng": 138.1505908201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "ちの観光まちづくり推進機構",
+      "place_id": "ChIJJw0fqi9XHGARleEHOhDaBUU",
+      "plus_code": {
+        "compound_code": "X5V2+QR 茅野市、長野県",
+        "global_code": "8Q7WX5V2+QR"
+      },
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

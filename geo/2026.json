@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３３",
-        "short_name": "３３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４",
-        "short_name": "４",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "巾上",
-        "short_name": "巾上",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0817",
-        "short_name": "390-0817",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0817 長野県松本市巾上４−３３",
-    "geometry": {
-      "location": {
-        "lat": 36.2326587,
-        "lng": 137.962464
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.23406058029151,
-          "lng": 137.9637750802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0817 長野県松本市巾上４−３３",
+      "geometry": {
+        "location": {
+          "lat": 36.23269010000001,
+          "lng": 137.9624415
         },
-        "southwest": {
-          "lat": 36.23136261970851,
-          "lng": 137.9610771197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.23406142989273,
+            "lng": 137.9637759298927
+          },
+          "southwest": {
+            "lat": 36.23136177010728,
+            "lng": 137.9610762701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJfR8tNIgOHWARdNhpRnjRni4",
-    "plus_code": {
-      "compound_code": "6XM6+3X 日本、長野県松本市",
-      "global_code": "8Q8V6XM6+3X"
-    },
-    "types": [
-      "bar",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "BACCAブルーイング",
+      "photos": [
+        {
+          "height": 2312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107251075322945398441\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBqodUmKPTQtrEtRsTRizKcg_Ddq-RMnMujfjMdgN8qX6weYjC7ZLq3vGshxcJ1hHANJ9J1HCiuCfBjYc7v_TeE4Xmo7vJxb_te0g8-hUDMQBwJqsMrYDHfvQrj0_aG6osRIANa5vf6Qu4nHoTLuXSdxRwYjmF_xJ_B5I9tCLxUUhUu",
+          "width": 3082
+        }
+      ],
+      "place_id": "ChIJfR8tNIgOHWARdNhpRnjRni4",
+      "plus_code": {
+        "compound_code": "6XM6+3X 松本市、長野県",
+        "global_code": "8Q8V6XM6+3X"
+      },
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

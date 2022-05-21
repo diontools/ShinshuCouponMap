@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北城",
-        "short_name": "北城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "10284, 北城 白馬村 北安曇郡 長野県 399-9301 日本",
-    "geometry": {
-      "location": {
-        "lat": 36.7118343,
-        "lng": 137.8658286
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.71319048029149,
-          "lng": 137.8671290302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "10284, 白馬村 北安曇郡 長野県 399-9301 日本",
+      "geometry": {
+        "location": {
+          "lat": 36.7118343,
+          "lng": 137.8658286
         },
-        "southwest": {
-          "lat": 36.7104925197085,
-          "lng": 137.8644310697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.71319132989272,
+            "lng": 137.8671298798927
+          },
+          "southwest": {
+            "lat": 36.71049167010728,
+            "lng": 137.8644302201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJO7thvgLN918RBzBL7T28cVU",
-    "plus_code": {
-      "compound_code": "PV68+P8 長野県白馬村",
-      "global_code": "8Q8VPV68+P8"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "花笑カフェ",
+      "photos": [
+        {
+          "height": 2269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110262736762255515200\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA-ArEBozP0OjIVejzsSEoDWsOql8_HeReg2Zwy2nlPuCywxTP8fD4ONrySCu2UO4QQBMk0XIekqAFRFUGttlR7LDP6nkaOEh4MVAu81yzk8jeAwran6aDYyeK8W1vA92HBwOxJjlAgQW7aupSjTZMKVwX20JY1xPsP3UeG_SZIAswS",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJO7thvgLN918RBzBL7T28cVU",
+      "plus_code": {
+        "compound_code": "PV68+P8 白馬村、長野県",
+        "global_code": "8Q8VPV68+P8"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

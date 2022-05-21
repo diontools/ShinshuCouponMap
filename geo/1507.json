@@ -1,100 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１９８７−３９３",
-        "short_name": "１９８７−３９３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "軽井沢",
-        "short_name": "軽井沢",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "町北",
-        "short_name": "町北",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野原町",
-        "short_name": "長野原町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "吾妻郡",
-        "short_name": "吾妻郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "群馬県",
-        "short_name": "群馬県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "377-1412",
-        "short_name": "377-1412",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒377-1412 群馬県吾妻郡長野原町町北軽井沢１９８７−３９３",
-    "geometry": {
-      "location": {
-        "lat": 36.4667202,
-        "lng": 138.5900452
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.46807288029149,
-          "lng": 138.5913393802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢１１７８−２３２ プリンスショッピングプラザ ウエスト内",
+      "geometry": {
+        "location": {
+          "lat": 36.3390361,
+          "lng": 138.6322272
         },
-        "southwest": {
-          "lat": 36.46537491970849,
-          "lng": 138.5886414197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.34039952989272,
+            "lng": 138.6336446798927
+          },
+          "southwest": {
+            "lat": 36.33769987010728,
+            "lng": 138.6309450201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx7QBlvraHWARVmyw_U2DqBo",
-    "plus_code": {
-      "compound_code": "FH8R+M2 日本、群馬県長野原町",
-      "global_code": "8Q8WFH8R+M2"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "すみやプリンスショッピングプラザ店",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103063505704782748597\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECmoAX9GmGZQEm3X4D_fO-T6wIPsmJRhHRFiYoIJQK71LZHlVWh8qSEpvwbxZxLe2hkxgXBAUGXJoNEOqpo5VHVLa2fREFIbhXWXr3zAV3_dR27Gdtd4f4f35ehLLc7bOfu1yPQ56lHr6Ch8PprcRfZdSvtum9uG89iA2RbqfrtBkAi",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJkaGyz2TTHWAR-BCWjyPoVLY",
+      "plus_code": {
+        "compound_code": "8JQJ+JV 軽井沢町、長野県",
+        "global_code": "8Q8W8JQJ+JV"
+      },
+      "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

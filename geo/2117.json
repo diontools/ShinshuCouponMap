@@ -1,107 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "帰郷亭ゆもとや",
-        "short_name": "帰郷亭ゆもとや",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１５",
-        "short_name": "１５",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２９",
-        "short_name": "２９",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "浅間温泉",
-        "short_name": "浅間温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0303",
-        "short_name": "390-0303",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉１丁目２９−１５ 帰郷亭ゆもとや",
-    "geometry": {
-      "location": {
-        "lat": 36.2615914,
-        "lng": 137.9868764
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2630063302915,
-          "lng": 137.9882534802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0303 長野県松本市浅間温泉１丁目２９−１５ 帰郷亭ゆもとや",
+      "geometry": {
+        "location": {
+          "lat": 36.2615914,
+          "lng": 137.9868764
         },
-        "southwest": {
-          "lat": 36.2603083697085,
-          "lng": 137.9855555197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.26300717989272,
+            "lng": 137.9882543298927
+          },
+          "southwest": {
+            "lat": 36.26030752010728,
+            "lng": 137.9855546701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8xCuOhoMHWARfg0xwshoDi8",
-    "plus_code": {
-      "compound_code": "7X6P+JQ 日本、長野県松本市",
-      "global_code": "8Q8V7X6P+JQ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "帰郷亭ゆもとや",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116095853125874190526\">福田寿仁</a>"
+          ],
+          "photo_reference": "Aap_uEBRv-mZmR-ynBFQ4ImcgUv01yve1mzCK48N5smyUqjjOi7ZrgRf-D7886x8Tmdg37m9Txi5CF4dx1xXOZDEQGSmkWtUjfhcPfyxaWPGcTrPh4xI4nLJVJpcosqf4WEf-x2Hi8ydwXxGuQHEMzxd3l4o-Cwj2hXuSTavOTTMJm3hrkTu",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJ8xCuOhoMHWARfg0xwshoDi8",
+      "plus_code": {
+        "compound_code": "7X6P+JQ 松本市、長野県",
+        "global_code": "8Q8V7X6P+JQ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

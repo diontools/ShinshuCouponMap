@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "小布施町",
-        "short_name": "小布施町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "小布施",
-        "short_name": "小布施",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上高井郡",
-        "short_name": "上高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0201",
-        "short_name": "381-0201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町小布施 大字小布施東町489−1",
-    "geometry": {
-      "location": {
-        "lat": 36.694462,
-        "lng": 138.317495
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6958408302915,
-          "lng": 138.3188476802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0201 長野県上高井郡小布施町 大字小布施東町489−1",
+      "geometry": {
+        "location": {
+          "lat": 36.6944778,
+          "lng": 138.3174965
         },
-        "southwest": {
-          "lat": 36.6931428697085,
-          "lng": 138.3161497197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69584167989272,
+            "lng": 138.3188485298927
+          },
+          "southwest": {
+            "lat": 36.69314202010728,
+            "lng": 138.3161488701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJl1g39F2JHWAR9bRyqQFuhNM",
-    "plus_code": {
-      "compound_code": "M8V8+QX 日本、長野県小布施町",
-      "global_code": "8Q8WM8V8+QX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "おぶせ庵煎餅堂",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100863383622564419828\">鈴太郎</a>"
+          ],
+          "photo_reference": "Aap_uEAFGOYeDYYvn3uPs9FHvABg_AJpMwsCr5EmcZ-HpWsKbzIoccEME2MpOdIYpfTlVhHsNPJ-jm3GBKV49RAOzm06nEh_GeN0TWZy7peSqrbktP6W-Rvz8XF0trWU11QlTGaBHvZykIJF9OVdTaLQGQTqJhMW2Q_yn34jDtqwqzzlq-5H",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJl1g39F2JHWAR9bRyqQFuhNM",
+      "plus_code": {
+        "compound_code": "M8V8+QX 小布施町、長野県",
+        "global_code": "8Q8WM8V8+QX"
+      },
+      "types": [
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２１７６−１",
-        "short_name": "２１７６−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "吾妻",
-        "short_name": "吾妻",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南木曽町",
-        "short_name": "南木曽町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-5302",
-        "short_name": "399-5302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻２１７６−１",
-    "geometry": {
-      "location": {
-        "lat": 35.5778478,
-        "lng": 137.5958368
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.57920093029149,
-          "lng": 137.5971695302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-5302 長野県木曽郡南木曽町吾妻２１７６−１",
+      "geometry": {
+        "location": {
+          "lat": 35.5778478,
+          "lng": 137.5958368
         },
-        "southwest": {
-          "lat": 35.57650296970849,
-          "lng": 137.5944715697085
+        "viewport": {
+          "northeast": {
+            "lat": 35.57920177989271,
+            "lng": 137.5971703798927
+          },
+          "southwest": {
+            "lat": 35.57650212010727,
+            "lng": 137.5944707201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJVwz5qOS3HGAR8hV7kpWCYnc",
-    "plus_code": {
-      "compound_code": "HHHW+48 長野県南木曽町",
-      "global_code": "8Q7VHHHW+48"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "ゑびや茶房",
+      "photos": [
+        {
+          "height": 1239,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103147034974008203566\">Hide Matsumura</a>"
+          ],
+          "photo_reference": "Aap_uEAq8EdoFVwscgu8pFQe7M1-d8n-Zm9wCHxFgXcKJbwA0DtuvFTvRXhchtxU9535uHWEKBQ_vAFCv4v55EQGJEQUDv1znP8g1gRiPYlPBBwKka93fYoGGhadaNdyRynpAvj3j1tX2mZ644MJMS1MLL12My4dvwDMifC40GVpQZWfqklf",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJVwz5qOS3HGAR8hV7kpWCYnc",
+      "plus_code": {
+        "compound_code": "HHHW+48 南木曽町、長野県",
+        "global_code": "8Q7VHHHW+48"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

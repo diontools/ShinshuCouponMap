@@ -1,81 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５８０４",
-        "short_name": "５８０４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "生坂村",
-        "short_name": "生坂村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "東筑摩郡",
-        "short_name": "東筑摩郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-7201",
-        "short_name": "399-7201",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-7201 長野県東筑摩郡生坂村５８０４",
-    "geometry": {
-      "location": {
-        "lat": 36.4318152,
-        "lng": 137.9245359
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.43302988029149,
-          "lng": 137.9257285302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-7201 長野県東筑摩郡生坂村５８０４",
+      "geometry": {
+        "location": {
+          "lat": 36.4318152,
+          "lng": 137.9245359
         },
-        "southwest": {
-          "lat": 36.43033191970849,
-          "lng": 137.9230305697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.43303072989271,
+            "lng": 137.9257293798927
+          },
+          "southwest": {
+            "lat": 36.43033107010727,
+            "lng": 137.9230297201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ8Yro4xxwHWAR4ltSHeWGpKE",
-    "plus_code": {
-      "compound_code": "CWJF+PR 日本、長野県生坂村",
-      "global_code": "8Q8VCWJF+PR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "やまなみ荘",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110068882522828182979\">菅沼光貴</a>"
+          ],
+          "photo_reference": "Aap_uEDV_1Kjn-QWxuuWZ46IoxJMUnEiAytJQ7Onht5sG9_jzE6F94Phgz0KpuF_MTBc8ZGIJqKWKMnuxGUpQruPQWN8vJnXWmWMOI2IdtC3k5ztzDmI3c293v8f7EsZf62HNp9g5u6ZxYye9oz2JyK80VsDHih2DUOuGm_qcbvmFB3Ce4KW",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ8Yro4xxwHWAR4ltSHeWGpKE",
+      "plus_code": {
+        "compound_code": "CWJF+PR 生坂村、長野県",
+        "global_code": "8Q8VCWJF+PR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

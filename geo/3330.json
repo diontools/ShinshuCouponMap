@@ -1,91 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２８２−４",
-        "short_name": "１２８２−４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "久保",
-        "short_name": "久保",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "南箕輪村",
-        "short_name": "南箕輪村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "上伊那郡",
-        "short_name": "上伊那郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-4511",
-        "short_name": "399-4511",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村久保１２８２−４",
-    "geometry": {
-      "location": {
-        "lat": 35.8954981,
-        "lng": 137.9690315
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8968695302915,
-          "lng": 137.9703049802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-4511 長野県上伊那郡南箕輪村久保１２８２−４",
+      "geometry": {
+        "location": {
+          "lat": 35.8954953,
+          "lng": 137.9690409
         },
-        "southwest": {
-          "lat": 35.8941715697085,
-          "lng": 137.9676070197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.89687037989272,
+            "lng": 137.9703058298927
+          },
+          "southwest": {
+            "lat": 35.89417072010728,
+            "lng": 137.9676061701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWTG6aHX6HGARe8yY5js1a8s",
-    "plus_code": {
-      "compound_code": "VXW9+5J 長野県南箕輪村",
-      "global_code": "8Q7VVXW9+5J"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "らーめん じゃげな",
+      "photos": [
+        {
+          "height": 427,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101829527054713717444\">スナップ寅さん</a>"
+          ],
+          "photo_reference": "Aap_uECi5i7HaWNnFvSxJEewBDXLZREVuL_qM88YMo7I9ftPopxrSL5P2psFg8HtYoBgwcFaisZ3pICiZPXDybvqm7ii7IBIDPGKD3J3W_z8h8xX1KqHrijT5JUasewhnWhbFf_5Nai00iBTw_P86Py2RGPEW8Qc7sD521fVkNwdNNh1o75U",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJWTG6aHX6HGARe8yY5js1a8s",
+      "plus_code": {
+        "compound_code": "VXW9+5J 南箕輪村、長野県",
+        "global_code": "8Q7VVXW9+5J"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

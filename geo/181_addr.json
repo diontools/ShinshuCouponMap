@@ -1,93 +1,30 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１０−１",
-        "short_name": "１０−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "往郷",
-        "short_name": "往郷",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木島平村",
-        "short_name": "木島平村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-2302",
-        "short_name": "389-2302",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-2302 長野県下高井郡木島平村往郷１０−１",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.86132550000001,
-          "lng": 138.402015
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒389-2302 長野県下高井郡木島平村往郷１０−１",
+      "geometry": {
+        "location": {
+          "lat": 36.8611837,
+          "lng": 138.4018399
         },
-        "southwest": {
-          "lat": 36.8609961,
-          "lng": 138.4016384
+        "viewport": {
+          "northeast": {
+            "lat": 36.86238337989271,
+            "lng": 138.4031684298927
+          },
+          "southwest": {
+            "lat": 36.85968372010727,
+            "lng": 138.4004687701073
+          }
         }
       },
-      "location": {
-        "lat": 36.8611837,
-        "lng": 138.4018399
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8624534302915,
-          "lng": 138.4031756802915
-        },
-        "southwest": {
-          "lat": 36.8597554697085,
-          "lng": 138.4004777197085
-        }
-      }
-    },
-    "place_id": "ChIJETEZLqse9l8Rf2AN9tu8Te4",
-    "types": [
-      "premise"
-    ]
-  }
-]
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒389-2302 長野県下高井郡木島平村往郷１０−１",
+      "place_id": "ChIJETEZLqse9l8Rf2AN9tu8Te4",
+      "types": [
+        "premise"
+      ]
+    }
+  ],
+  "status": "OK"
+}

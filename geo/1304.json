@@ -1,84 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "３２",
-        "short_name": "３２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "築地",
-        "short_name": "築地",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-1107",
-        "short_name": "386-1107",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-1107 長野県上田市築地３２",
-    "geometry": {
-      "location": {
-        "lat": 36.3948178,
-        "lng": 138.2091551
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3961381302915,
-          "lng": 138.2103983302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-1107 長野県上田市築地３２",
+      "geometry": {
+        "location": {
+          "lat": 36.3948178,
+          "lng": 138.2091551
         },
-        "southwest": {
-          "lat": 36.3934401697085,
-          "lng": 138.2077003697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.39613897989272,
+            "lng": 138.2103991798927
+          },
+          "southwest": {
+            "lat": 36.39343932010728,
+            "lng": 138.2076995201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ722xG_CiHWAR37Nf_2PmcVw",
-    "plus_code": {
-      "compound_code": "96V5+WM 日本、長野県上田市",
-      "global_code": "8Q8W96V5+WM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "meal_takeaway",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "かっぱ寿司 上田築地店",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112191798386690321672\">tofu on the Beach</a>"
+          ],
+          "photo_reference": "Aap_uEA5SgfxiBNxYZ1aQU0F8jK1FHToJ54SIV4txOxq0FIzm6nCoIhK4jkuy35JascnSrbjlXRBk4RcuZRbYFRDAjOzLRCjouvzOmSSnwL-mVH5GSkzlMFlm91dSJqJARqi2RCQN6XfXl1iUkiUg1EWX291tS0Bp3sGyX11ODWrq5zGaYI-",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ722xG_CiHWAR37Nf_2PmcVw",
+      "plus_code": {
+        "compound_code": "96V5+WM 上田市、長野県",
+        "global_code": "8Q8W96V5+WM"
+      },
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

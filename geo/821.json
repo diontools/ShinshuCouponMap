@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "５０８−１",
-        "short_name": "５０８−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "大門町",
-        "short_name": "大門町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0841",
-        "short_name": "380-0841",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0841 長野県長野市長野大門町５０８−１",
-    "geometry": {
-      "location": {
-        "lat": 36.657185,
-        "lng": 138.1873424
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6585297302915,
-          "lng": 138.1887783802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒380-0841 長野県長野市長野大門町５０８−１",
+      "geometry": {
+        "location": {
+          "lat": 36.6571828,
+          "lng": 138.187388
         },
-        "southwest": {
-          "lat": 36.6558317697085,
-          "lng": 138.1860804197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.65853057989272,
+            "lng": 138.1887792298927
+          },
+          "southwest": {
+            "lat": 36.65583092010727,
+            "lng": 138.1860795701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJWShlieSGHWAREIA2HXL-o2k",
-    "plus_code": {
-      "compound_code": "M54P+VW 日本、長野県長野市",
-      "global_code": "8Q8WM54P+VW"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "玉屋長野大門",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115547677290779532199\">Satoshi Sekihara</a>"
+          ],
+          "photo_reference": "Aap_uEClmsZQ5Psg_053A0g-HDTTQfbMzGYV7GGZJD7prh3-PVpahZtY0lNpQUMdE5QDSULyBQxmN-QtAMP2fw2JwAdE53vEshYD7jTKwOduThUPOQOV-XGhhb67d_enJXWo1cBres89vXvZRrRxQGiKWskDG9TKtu4Vrm93vFW3lkMo1HLH",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJWShlieSGHWAREIA2HXL-o2k",
+      "plus_code": {
+        "compound_code": "M54P+VW 長野市、長野県",
+        "global_code": "8Q8WM54P+VW"
+      },
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

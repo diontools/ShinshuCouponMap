@@ -1,87 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４０９８",
-        "short_name": "４０９８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "広津",
-        "short_name": "広津",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "池田町",
-        "short_name": "池田町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8604",
-        "short_name": "399-8604",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8604 長野県北安曇郡池田町広津４０９８",
-    "geometry": {
-      "location": {
-        "lat": 36.4518291,
-        "lng": 137.8976797
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4531086802915,
-          "lng": 137.8989085802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒399-8604 長野県北安曇郡池田町広津４０９８",
+      "geometry": {
+        "location": {
+          "lat": 36.4518291,
+          "lng": 137.8976797
         },
-        "southwest": {
-          "lat": 36.4504107197085,
-          "lng": 137.8962106197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.45310952989272,
+            "lng": 137.8989094298927
+          },
+          "southwest": {
+            "lat": 36.45040987010727,
+            "lng": 137.8962097701072
+          }
         }
-      }
-    },
-    "place_id": "ChIJ1-0REhRlHWARA-hFuS_bxmw",
-    "plus_code": {
-      "compound_code": "FV2X+P3 長野県池田町",
-      "global_code": "8Q8VFV2X+P3"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒399-8604 長野県北安曇郡池田町広津４０９８",
+      "place_id": "ChIJ1-0REhRlHWARA-hFuS_bxmw",
+      "plus_code": {
+        "compound_code": "FV2X+P3 池田町、長野県",
+        "global_code": "8Q8VFV2X+P3"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

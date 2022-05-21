@@ -1,153 +1,38 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県千曲市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒367-0244 埼玉県児玉郡神川町八日市８６４−３",
+      "geometry": {
+        "location": {
+          "lat": 36.208404,
+          "lng": 139.1156091
         },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
+        "viewport": {
+          "northeast": {
+            "lat": 36.20976837989272,
+            "lng": 139.1169781298927
+          },
+          "southwest": {
+            "lat": 36.20706872010727,
+            "lng": 139.1142784701073
+          }
         }
       },
-      "location": {
-        "lat": 36.5338864,
-        "lng": 138.119971
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "居酒屋雪",
+      "place_id": "ChIJObRSmPrBHmARLPFzMFjJJHc",
+      "plus_code": {
+        "compound_code": "6458+96 神川町、埼玉県",
+        "global_code": "8Q8X6458+96"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5599979,
-          "lng": 138.201792
-        },
-        "southwest": {
-          "lat": 36.4365918,
-          "lng": 138.0299026
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJQfuLuhydHWARe_teCWFmml0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  },
-  {
-    "address_components": [
-      {
-        "long_name": "８６４−３",
-        "short_name": "８６４−３",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "八日市",
-        "short_name": "八日市",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "神川町",
-        "short_name": "神川町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "児玉郡",
-        "short_name": "児玉郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "埼玉県",
-        "short_name": "埼玉県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "367-0244",
-        "short_name": "367-0244",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒367-0244 埼玉県児玉郡神川町八日市８６４−３",
-    "geometry": {
-      "location": {
-        "lat": 36.2084234,
-        "lng": 139.1155627
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2097675302915,
-          "lng": 139.1169772802915
-        },
-        "southwest": {
-          "lat": 36.20706956970851,
-          "lng": 139.1142793197085
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJObRSmPrBHmARLPFzMFjJJHc",
-    "plus_code": {
-      "compound_code": "6458+96 日本、埼玉県神川町",
-      "global_code": "8Q8X6458+96"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

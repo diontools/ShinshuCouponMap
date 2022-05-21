@@ -1,84 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "福島",
-        "short_name": "福島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "木曽郡",
-        "short_name": "木曽郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "397-0001",
-        "short_name": "397-0001",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒397-0001 長野県木曽郡福島 木曽町福島1788-11",
-    "geometry": {
-      "location": {
-        "lat": 35.847354,
-        "lng": 137.698422
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 35.8487464302915,
-          "lng": 137.6997694802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒397-0001 長野県木曽郡 木曽町福島1788-11",
+      "geometry": {
+        "location": {
+          "lat": 35.8473755,
+          "lng": 137.6984215
         },
-        "southwest": {
-          "lat": 35.8460484697085,
-          "lng": 137.6970715197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.84874727989271,
+            "lng": 137.6997703298927
+          },
+          "southwest": {
+            "lat": 35.84604762010727,
+            "lng": 137.6970706701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJm53jIaTeHGAR-y0F3JK08g8",
-    "plus_code": {
-      "compound_code": "RMWX+W9 長野県木曽町",
-      "global_code": "8Q7VRMWX+W9"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "居酒屋ちから",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117345183667417564509\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECxzqfVV7-1a7A1JnB0nG7l0a89gUsIe6y7VuOqzuGYMqtH4lLOi0FFFMIsqrQFWf9S23vu2ZmzKgHPMYAW_Ae0cvbped8BdPvSMAUAAafdNQ1lOTJEYBmXbJFNGVKlb4ayJKv6KYrraTmj84f9_5Z06vpCJBnBvDWY4HBiG-w_1ah2",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJm53jIaTeHGAR-y0F3JK08g8",
+      "plus_code": {
+        "compound_code": "RMWX+W9 木曽町、長野県",
+        "global_code": "8Q7VRMWX+W9"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

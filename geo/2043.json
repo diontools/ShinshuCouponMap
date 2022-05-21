@@ -1,64 +1,46 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県松本市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0841 長野県松本市渚２丁目８−２０",
+      "geometry": {
+        "location": {
+          "lat": 36.2276858,
+          "lng": 137.9600374
         },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+        "viewport": {
+          "northeast": {
+            "lat": 36.22899847989272,
+            "lng": 137.9613978298927
+          },
+          "southwest": {
+            "lat": 36.22629882010727,
+            "lng": 137.9586981701073
+          }
         }
       },
-      "location": {
-        "lat": 36.2380434,
-        "lng": 137.9719897
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.379439,
-          "lng": 138.1311424
-        },
-        "southwest": {
-          "lat": 36.0096617,
-          "lng": 137.5507201
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "第一交通 本社事務所",
+      "photos": [
+        {
+          "height": 3864,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101731734343848678902\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDwhlAMa6hHtE2pewC9PhK53ycUcxIXCEVZofjN_WOsT7mN7ziVdDPsIryPOKDTNgTepbDagfFk5XEVb2UTnU8A68p2VNQrsZ3nTaWVTwn-X6ESBAh6vU_IjnIG2PmkDeQGOglIyqm7hAAp4Ikdd80EgnJidTu_bH36-XuxqyIr68T9",
+          "width": 5152
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx2hD6AAUHWAR3c0QMjZtjcs",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJ9_C7vmEOHWARJbYMqR9ccdM",
+      "plus_code": {
+        "compound_code": "6XH6+32 松本市、長野県",
+        "global_code": "8Q8V6XH6+32"
+      },
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

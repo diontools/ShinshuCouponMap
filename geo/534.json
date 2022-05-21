@@ -1,100 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "６",
-        "short_name": "６",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "７１",
-        "short_name": "７１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "上山田温泉",
-        "short_name": "上山田温泉",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "千曲市",
-        "short_name": "千曲市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0821",
-        "short_name": "389-0821",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目７１−６",
-    "geometry": {
-      "location": {
-        "lat": 36.4815881,
-        "lng": 138.1426202
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.4829087302915,
-          "lng": 138.1439337802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0821 長野県千曲市上山田温泉１丁目７１−６",
+      "geometry": {
+        "location": {
+          "lat": 36.4815674,
+          "lng": 138.1425952
         },
-        "southwest": {
-          "lat": 36.4802107697085,
-          "lng": 138.1412358197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.48290957989273,
+            "lng": 138.1439346298927
+          },
+          "southwest": {
+            "lat": 36.48020992010728,
+            "lng": 138.1412349701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJq6q-2RScHWARUyx_cB7TILA",
-    "plus_code": {
-      "compound_code": "F4JV+J2 日本、長野県千曲市",
-      "global_code": "8Q8WF4JV+J2"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "光文堂",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107515925831550241068\">hira yu</a>"
+          ],
+          "photo_reference": "Aap_uEAy4m72QX8XbCxowFWz3jTTpjazgQXm4QWlf2hCsZ287ef4q_Os7ba0QW6gh4wouoY5ef59TKGSPl5I3mlPf_UawkxJ2P_oemZ3D-QsyIXFHkkRlIPD5ytpQhnr0HBP3YGzdOcis9Owx1pCN78abaE-oXZ6N9OLIhY8_QYTCAiU4Ovb",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJq6q-2RScHWARUyx_cB7TILA",
+      "plus_code": {
+        "compound_code": "F4JV+J2 千曲市、長野県",
+        "global_code": "8Q8WF4JV+J2"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

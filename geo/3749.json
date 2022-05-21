@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "８１３−１",
-        "short_name": "８１３−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北方",
-        "short_name": "北方",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "飯田市",
-        "short_name": "飯田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "395-0151",
-        "short_name": "395-0151",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒395-0151 長野県飯田市北方８１３−１",
-    "geometry": {
-      "location": {
-        "lat": 35.499888,
-        "lng": 137.7999
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 35.5013135302915,
-          "lng": 137.8011599802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒395-0151 長野県飯田市北方８１３−１",
+      "geometry": {
+        "location": {
+          "lat": 35.499888,
+          "lng": 137.7999
         },
-        "southwest": {
-          "lat": 35.49861556970851,
-          "lng": 137.7984620197085
+        "viewport": {
+          "northeast": {
+            "lat": 35.50131437989272,
+            "lng": 137.8011608298927
+          },
+          "southwest": {
+            "lat": 35.49861472010728,
+            "lng": 137.7984611701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJMfeOlk2YHGARhSO3mHahIis",
-    "plus_code": {
-      "compound_code": "FQXX+XX 長野県飯田市",
-      "global_code": "8Q7VFQXX+XX"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ドライブイン酒蔵",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113565736725694633161\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAZuMA292md2k1HucitC5w8mIh6nZm_DrRyIAcjetKgDllqEIEUUL5fESuCxPT5VSPwXuIobdmQhCJhg9jy4WvYD0aSksGf3ADJ0YJlDvQVgon8pj_vC902MQie10wHNvK8t2WdXrwrQj95hWqKmVocmG16gtJxmUE-7XvG689lHRfO",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJMfeOlk2YHGARhSO3mHahIis",
+      "plus_code": {
+        "compound_code": "FQXX+XX 飯田市、長野県",
+        "global_code": "8Q7VFQXX+XX"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

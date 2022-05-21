@@ -1,116 +1,55 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "蓼科高原 バラクラ イングリッシュ ガーデン",
-        "short_name": "蓼科高原 バラクラ イングリッシュ ガーデン",
-        "types": [
-          "bakery",
-          "cafe",
-          "clothing_store",
-          "establishment",
-          "florist",
-          "food",
-          "park",
-          "point_of_interest",
-          "restaurant",
-          "store",
-          "tourist_attraction"
-        ]
-      },
-      {
-        "long_name": "５０４７",
-        "short_name": "５０４７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "栗平",
-        "short_name": "栗平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山栗平５０４７ 蓼科高原 バラクラ イングリッシュ ガーデン",
-    "geometry": {
-      "location": {
-        "lat": 36.0368332,
-        "lng": 138.2395739
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.03820143029149,
-          "lng": 138.2409348802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山栗平５０４７",
+      "geometry": {
+        "location": {
+          "lat": 36.0368332,
+          "lng": 138.2395739
         },
-        "southwest": {
-          "lat": 36.03550346970849,
-          "lng": 138.2382369197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.03820227989272,
+            "lng": 138.2409357298927
+          },
+          "southwest": {
+            "lat": 36.03550262010728,
+            "lng": 138.2382360701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJkzQJd9VPHGARfXI1iErFt_8",
-    "plus_code": {
-      "compound_code": "26PQ+PR 長野県茅野市",
-      "global_code": "8Q8W26PQ+PR"
-    },
-    "types": [
-      "bakery",
-      "cafe",
-      "clothing_store",
-      "establishment",
-      "florist",
-      "food",
-      "park",
-      "point_of_interest",
-      "restaurant",
-      "store",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "蓼科高原 バラクラ イングリッシュ ガーデン",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109212006577671839161\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBo-JymMaNpoSqA4Hn3zJRtgbzSWZDJy2taWtYmT0vLCzDtpGK4fbGGF2hr-bc2BElu5-VEP1Es3x36ysftb3qhVTr3DiJwXQbOG_97BZ7zCfz_el4AAZeB6EJnX2XTzrx7FJLbD--Pbg-1_oBOssXOli5Zgx8CnbGSM6o4QBxAiFNy",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJkzQJd9VPHGARfXI1iErFt_8",
+      "plus_code": {
+        "compound_code": "26PQ+PR 茅野市、長野県",
+        "global_code": "8Q8W26PQ+PR"
+      },
+      "types": [
+        "florist",
+        "tourist_attraction",
+        "cafe",
+        "bakery",
+        "restaurant",
+        "park",
+        "point_of_interest",
+        "clothing_store",
+        "store",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,91 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "東急リゾートタウン",
-        "short_name": "東急リゾートタウン",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "４０２６−１２０８",
-        "short_name": "４０２６−１２０８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "北山",
-        "short_name": "北山",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0301",
-        "short_name": "391-0301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0301 長野県茅野市北山４０２６−１２０８ 東急リゾートタウン",
-    "geometry": {
-      "location": {
-        "lat": 36.0762978,
-        "lng": 138.2656708
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0777430802915,
-          "lng": 138.2671550302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0301 長野県茅野市北山４０２６−１２０８ 東急リゾートタウン",
+      "geometry": {
+        "location": {
+          "lat": 36.0762999,
+          "lng": 138.2657616
         },
-        "southwest": {
-          "lat": 36.0750451197085,
-          "lng": 138.2644570697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.07774392989273,
+            "lng": 138.2671558798927
+          },
+          "southwest": {
+            "lat": 36.07504427010728,
+            "lng": 138.2644562201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlZdEPGhOHGARLGeqHK5b3eM",
-    "plus_code": {
-      "compound_code": "37G8+G7 長野県茅野市",
-      "global_code": "8Q8W37G8+G7"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ゲストハウス クロイツェル/ペンション/東急リゾート/蓼科",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108006506400420275901\">ゲストハウス クロイツェル（東急リゾートタウン蓼科）</a>"
+          ],
+          "photo_reference": "Aap_uEA0OiIBERaGhZpZXOpe_V0Mh0BFAxnqk2cThW2SIxYwE0s3rQdzFwmonJNsZUTYA9eOux6JdiuDKo4CSvQb84dhTs4wjQOB4bwDZwQnP9M5RvUXSk3bYApUMbFW-qHSLL-GAE9XUamN0Wz0NnHdjTtugtOw1DcJDx7ElwWJEwfKtY6Y",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJlZdEPGhOHGARLGeqHK5b3eM",
+      "plus_code": {
+        "compound_code": "37G8+G7 茅野市、長野県",
+        "global_code": "8Q8W37G8+G7"
+      },
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

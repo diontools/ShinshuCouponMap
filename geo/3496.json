@@ -1,101 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２−７",
-        "short_name": "２２−７",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３",
-        "short_name": "３",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "１丁目",
-        "short_name": "１丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "高島",
-        "short_name": "高島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0022",
-        "short_name": "392-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0022 長野県諏訪市高島１丁目３−２２−７",
-    "geometry": {
-      "location": {
-        "lat": 36.042644,
-        "lng": 138.111943
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.04402658029149,
-          "lng": 138.1132349302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0022 長野県諏訪市高島１丁目３−２２−７",
+      "geometry": {
+        "location": {
+          "lat": 36.0426721,
+          "lng": 138.1119195
         },
-        "southwest": {
-          "lat": 36.0413286197085,
-          "lng": 138.1105369697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04402742989272,
+            "lng": 138.1132357798928
+          },
+          "southwest": {
+            "lat": 36.04132777010727,
+            "lng": 138.1105361201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlxlJzbBVHGAR5PKvbFJ_Vy4",
-    "plus_code": {
-      "compound_code": "24V6+3Q 長野県諏訪市",
-      "global_code": "8Q8W24V6+3Q"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "わけしめ亭",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101349384572257195748\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBVZe_QhdxZq2BM1zABhM44jhgxE4StQvuDDR6SxOiA7gM7_j4zN2GZFXdST0RrZctJg8dlPKl7qJXVHwoGfSBts7NJ0vlUrg3jiA2oPiJ4zsb5t012TQlzb8bFA2YwdjkhSDLPnbCC-wgEiS_re5SHlwP8Fh-p8Zdv4U7J3VMLd9ef",
+          "width": 1960
+        }
+      ],
+      "place_id": "ChIJlxlJzbBVHGAR5PKvbFJ_Vy4",
+      "plus_code": {
+        "compound_code": "24V6+3Q 諏訪市、長野県",
+        "global_code": "8Q8W24V6+3Q"
+      },
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "峰の原",
-        "short_name": "峰の原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "仁礼",
-        "short_name": "仁礼",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "須坂市",
-        "short_name": "須坂市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2211",
-        "short_name": "386-2211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原 高原３１５３−５０",
-    "geometry": {
-      "location": {
-        "lat": 36.5564973,
-        "lng": 138.3519764
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5577994302915,
-          "lng": 138.3530941302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2211 長野県須坂市仁礼峰の原３１５３−９７２",
+      "geometry": {
+        "location": {
+          "lat": 36.5406133,
+          "lng": 138.3415273
         },
-        "southwest": {
-          "lat": 36.5551014697085,
-          "lng": 138.3503961697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.54209557989272,
+            "lng": 138.3427590298928
+          },
+          "southwest": {
+            "lat": 36.53939592010728,
+            "lng": 138.3400593701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJR7i4khiTHWARRk0wEGdycxE",
-    "plus_code": {
-      "compound_code": "H942+HQ 長野県須坂市",
-      "global_code": "8Q8WH942+HQ"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ロッジやまぼうし",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102273266244255732153\">Taka s</a>"
+          ],
+          "photo_reference": "Aap_uEDtZWgYcUAzE2_RslyBRFajFQCyAUTL1iH6xJ2lWL3kEdqIfb_f-JD91i5bKEBhJCgB35jLfnLI6s1G7Uqkkm4yQgbMDDUjBPPr2fE6q5X5YPCU_p8mAkq_SfVnKP3azpwiJJvzwi1xCcKZhAOg1SNo5w064u27bfyO1ADP366aK7Bi",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJpz8OcXKUHWARlMWdkGkCBNM",
+      "plus_code": {
+        "compound_code": "G8RR+6J 須坂市、長野県",
+        "global_code": "8Q8WG8RR+6J"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

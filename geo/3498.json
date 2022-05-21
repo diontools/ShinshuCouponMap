@@ -1,92 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２０１−４２",
-        "short_name": "１２０１−４２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "２丁目",
-        "short_name": "２丁目",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "高島",
-        "short_name": "高島",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "392-0022",
-        "short_name": "392-0022",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒392-0022 長野県諏訪市高島２丁目１２０１−４２",
-    "geometry": {
-      "location": {
-        "lat": 36.042013,
-        "lng": 138.104933
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.0433801302915,
-          "lng": 138.1063407302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0022 長野県諏訪市高島２丁目１２０１−４２",
+      "geometry": {
+        "location": {
+          "lat": 36.0420254,
+          "lng": 138.1049395
         },
-        "southwest": {
-          "lat": 36.0406821697085,
-          "lng": 138.1036427697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.04338097989272,
+            "lng": 138.1063415798928
+          },
+          "southwest": {
+            "lat": 36.04068132010728,
+            "lng": 138.1036419201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJgXnDgLxVHGARQyRlz6yOObA",
-    "plus_code": {
-      "compound_code": "24R3+RX 長野県諏訪市",
-      "global_code": "8Q8W24R3+RX"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "natural_feature",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ラルバ諏訪湖",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112555184210373704479\">Ryuya Yamada</a>"
+          ],
+          "photo_reference": "Aap_uEDLs5IAoxtcl6toi75m57c4LrnHQmgTgaYtY531dbvra01BPUIVoN6ST8f2vOCoKcfAeEnnbwiByWe7DT1y-fywy1lg0s5KljGT9vCSQdH--5d2aD_2eq7eqnT8nBEid71p2XdgVSILRMOMyPu7Z7NoBIWOw0zzmfcDLvmSp3Qf9JMS",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJgXnDgLxVHGARQyRlz6yOObA",
+      "plus_code": {
+        "compound_code": "24R3+RX 諏訪市、長野県",
+        "global_code": "8Q8W24R3+RX"
+      },
+      "types": [
+        "lodging",
+        "natural_feature",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

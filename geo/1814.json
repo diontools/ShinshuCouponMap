@@ -1,91 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４４",
-        "short_name": "４４",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "３６１８",
-        "short_name": "３６１８",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "穂高有明",
-        "short_name": "穂高有明",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "安曇野市",
-        "short_name": "安曇野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-8301",
-        "short_name": "399-8301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明３６１８−４４",
-    "geometry": {
-      "location": {
-        "lat": 36.35237240000001,
-        "lng": 137.8382061
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3536824802915,
-          "lng": 137.8394199302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-8301 長野県安曇野市穂高有明３６１８−４４",
+      "geometry": {
+        "location": {
+          "lat": 36.35237240000001,
+          "lng": 137.8382061
         },
-        "southwest": {
-          "lat": 36.3509845197085,
-          "lng": 137.8367219697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.35368332989273,
+            "lng": 137.8394207798927
+          },
+          "southwest": {
+            "lat": 36.35098367010728,
+            "lng": 137.8367211201073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ5YsQ3TVpHWARC-ho_6M5vzs",
-    "plus_code": {
-      "compound_code": "9R2Q+W7 日本、長野県安曇野市",
-      "global_code": "8Q8V9R2Q+W7"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "お宿なごみ野",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112347645708073870419\">平田和則</a>"
+          ],
+          "photo_reference": "Aap_uED9FBPxqiTR-nmCdNA2f0jXyDRjaqyuyVpdEj-k2nUtsW1hu40AhckvHCIz62aTtmROK1xDQ-dzIqjv_emPQCAmXMYKZqb8TpgSCw2iCd8PUoe3kPqMFkol1plYC5jSnluOv3OE2ri15q4RE7JKLg9eQhTjxCeig7kmMy0iXPyJbeng",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ5YsQ3TVpHWARC-ho_6M5vzs",
+      "plus_code": {
+        "compound_code": "9R2Q+W7 安曇野市、長野県",
+        "global_code": "8Q8V9R2Q+W7"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

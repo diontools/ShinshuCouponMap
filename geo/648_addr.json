@@ -1,92 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "Unnamed Road",
-        "short_name": "Unnamed Road",
-        "types": [
-          "establishment",
-          "point_of_interest"
-        ]
-      },
-      {
-        "long_name": "元善町",
-        "short_name": "元善町",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_3"
-        ]
-      },
-      {
-        "long_name": "長野",
-        "short_name": "長野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "長野市",
-        "short_name": "長野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "380-0853",
-        "short_name": "380-0853",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒380-0853 長野県長野市長野元善町 Unnamed Road",
-    "geometry": {
-      "location": {
-        "lat": 36.6590645,
-        "lng": 138.18762
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6604134802915,
-          "lng": 138.1889689802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0000 長野県長野市長野元善町４８２",
+      "geometry": {
+        "location": {
+          "lat": 36.6592897,
+          "lng": 138.1876582
         },
-        "southwest": {
-          "lat": 36.6577155197085,
-          "lng": 138.1862710197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66063952989272,
+            "lng": 138.1890080298927
+          },
+          "southwest": {
+            "lat": 36.65793987010727,
+            "lng": 138.1863083701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJZ__sbi6HHWARIA6Zpe6axrI",
-    "plus_code": {
-      "compound_code": "M55Q+J2 長野県長野市",
-      "global_code": "8Q8WM55Q+J2"
-    },
-    "types": [
-      "establishment",
-      "point_of_interest",
-      "tourist_attraction"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "滝屋本店",
+      "photos": [
+        {
+          "height": 2863,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103182277612676381220\">、まるこ</a>"
+          ],
+          "photo_reference": "Aap_uEBe7MM8Fr9bJuHRD9fjjJ1ozbiDmw9oagPeRaidAdJcyBIhgofRJCU624DrNdJsu2RCAXglsszk4AVZ3wH8fIl_qEgOVccq7LCuM46oCB4BujC0VMbNkVTJB2WNL-cJd4uS747Ieywxqca-ilhGzU_MU0HQA2x3v4Wyj9eqV4z4UnoX",
+          "width": 3817
+        }
+      ],
+      "place_id": "ChIJVVVRbeOGHWARx-TJAVpnhqc",
+      "plus_code": {
+        "compound_code": "M55Q+P3 長野市、長野県",
+        "global_code": "8Q8WM55Q+P3"
+      },
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

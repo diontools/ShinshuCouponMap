@@ -1,90 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２２２０１−２",
-        "short_name": "２２２０１−２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "神城",
-        "short_name": "神城",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9211",
-        "short_name": "399-9211",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２２０１−２",
-    "geometry": {
-      "location": {
-        "lat": 36.6609801,
-        "lng": 137.8382803
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.66241768029149,
-          "lng": 137.8397256302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9211 長野県北安曇郡白馬村神城２２２０１−２",
+      "geometry": {
+        "location": {
+          "lat": 36.6609801,
+          "lng": 137.8382803
         },
-        "southwest": {
-          "lat": 36.6597197197085,
-          "lng": 137.8370276697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.66241852989272,
+            "lng": 137.8397264798927
+          },
+          "southwest": {
+            "lat": 36.65971887010728,
+            "lng": 137.8370268201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJlVMPelHQ918RWDCJDfvhlK8",
-    "plus_code": {
-      "compound_code": "MR6Q+98 長野県白馬村",
-      "global_code": "8Q8VMR6Q+98"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション ウルル",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115073841957851769284\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA13GNAgJPKUEJzS4eY_fqvbDC_c92nEuFjbhwbCdYvc06IggNxwSKnKj8Ihq-qQE3w7YOolIasgf-Xbm5WQtFs0uAjrt65IIrr3Oo1jwwy-3p6FSbnFltNb_t3Mec7PNHknh0y8AmygUN79Wwq21Kw2xPOJGgIegI1hYTwSL3xo8PA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlVMPelHQ918RWDCJDfvhlK8",
+      "plus_code": {
+        "compound_code": "MR6Q+98 白馬村、長野県",
+        "global_code": "8Q8VMR6Q+98"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

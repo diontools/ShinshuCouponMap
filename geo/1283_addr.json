@@ -1,79 +1,34 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２２３−４６２９",
-        "short_name": "１２２３−４６２９",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−４６２９",
-    "geometry": {
-      "location": {
-        "lat": 36.5348605,
-        "lng": 138.3272211
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5362231302915,
-          "lng": 138.3284724802915
+{
+  "candidates": [
+    {
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２２３−４６２９",
+      "geometry": {
+        "location": {
+          "lat": 36.5348605,
+          "lng": 138.3272211
         },
-        "southwest": {
-          "lat": 36.5335251697085,
-          "lng": 138.3257745197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53622397989272,
+            "lng": 138.3284733298927
+          },
+          "southwest": {
+            "lat": 36.53352432010728,
+            "lng": 138.3257736701073
+          }
         }
-      }
-    },
-    "place_id": "ChIJP0OmOwWUHWARcv1hQCOXF04",
-    "plus_code": {
-      "compound_code": "G8MG+WV 長野県上田市",
-      "global_code": "8Q8WG8MG+WV"
-    },
-    "types": [
-      "street_address"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "〒386-2204 長野県上田市菅平高原１２２３−４６２９",
+      "place_id": "ChIJP0OmOwWUHWARcv1hQCOXF04",
+      "plus_code": {
+        "compound_code": "G8MG+WV 上田市、長野県",
+        "global_code": "8Q8WG8MG+WV"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "status": "OK"
+}

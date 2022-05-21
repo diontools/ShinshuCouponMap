@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "みそら野",
-        "short_name": "みそら野",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "白馬村",
-        "short_name": "白馬村",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北安曇郡",
-        "short_name": "北安曇郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "399-9301",
-        "short_name": "399-9301",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村みそら野",
-    "geometry": {
-      "location": {
-        "lat": 36.691313,
-        "lng": 137.849124
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.6927012802915,
-          "lng": 137.8504330302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒399-9301 長野県北安曇郡白馬村みそら野",
+      "geometry": {
+        "location": {
+          "lat": 36.691313,
+          "lng": 137.8491241
         },
-        "southwest": {
-          "lat": 36.6900033197085,
-          "lng": 137.8477350697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.69270212989272,
+            "lng": 137.8504339298927
+          },
+          "southwest": {
+            "lat": 36.69000247010727,
+            "lng": 137.8477342701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJwZHFOuTR918Ry8-FAsFDkhs",
-    "plus_code": {
-      "compound_code": "MRRX+GJ 長野県白馬村",
-      "global_code": "8Q8VMRRX+GJ"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "ペンション おはよう",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103929411439056509541\">たかべたかべ</a>"
+          ],
+          "photo_reference": "Aap_uEBnmf37iMbTyn3isFXlKW26yv70JmkoB--qcnzp1Tmb42BHpi6-7SuEkurPK7F5ixn8xrg6V0XR3A75F82zMxNz4Ssl_LKS4nosZXRj7HxXlRuJM_GopRyj2ZEgs2Bnr_-k4SPD3OaotrTcLyH1y-qsEHfCISKpQJwe8mGGbWsDhIRx",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJwZHFOuTR918Ry8-FAsFDkhs",
+      "plus_code": {
+        "compound_code": "MRRX+GJ 白馬村、長野県",
+        "global_code": "8Q8VMRRX+GJ"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

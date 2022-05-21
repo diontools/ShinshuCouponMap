@@ -1,83 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "平穏",
-        "short_name": "平穏",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "381-0401",
-        "short_name": "381-0401",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏",
-    "geometry": {
-      "location": {
-        "lat": 36.6988191,
-        "lng": 138.4870477
-      },
-      "location_type": "GEOMETRIC_CENTER",
-      "viewport": {
-        "northeast": {
-          "lat": 36.7002155302915,
-          "lng": 138.4884673802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町平穏",
+      "geometry": {
+        "location": {
+          "lat": 36.6988191,
+          "lng": 138.4870477
         },
-        "southwest": {
-          "lat": 36.6975175697085,
-          "lng": 138.4857694197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.70021637989272,
+            "lng": 138.4884682298927
+          },
+          "southwest": {
+            "lat": 36.69751672010727,
+            "lng": 138.4857685701072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJx_uQ3pbxHWARwQl-_NEPB-s",
-    "plus_code": {
-      "compound_code": "MFXP+GR 日本、長野県山ノ内町",
-      "global_code": "8Q8WMFXP+GR"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "石の湯ロッジ",
+      "photos": [
+        {
+          "height": 1067,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102942249593425346863\">石の湯ロッジ</a>"
+          ],
+          "photo_reference": "Aap_uEDOIIo6BbP__2BssUSf4oteZ6WRfAdGNZaMYThJGtTU8Jk3VNTzBAdKVlnJiPikS9z3yxj9uzSAU06Wc_YuEJ-mlb_3MErjjEgN2lVqNV7Y-qho4Eah6KvS72x3fXOsAZ0GXlgKEOpm70D-X-iHXhwfE2Nhzqegi9HC2wIIR63BueLJ",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJx_uQ3pbxHWARwQl-_NEPB-s",
+      "plus_code": {
+        "compound_code": "MFXP+GR 山ノ内町、長野県",
+        "global_code": "8Q8WMFXP+GR"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

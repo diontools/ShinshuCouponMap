@@ -1,93 +1,49 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "２０",
-        "short_name": "２０",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "１",
-        "short_name": "１",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_4"
-        ]
-      },
-      {
-        "long_name": "高宮中",
-        "short_name": "高宮中",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "松本市",
-        "short_name": "松本市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "390-0834",
-        "short_name": "390-0834",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒390-0834 長野県松本市高宮中１−２０",
-    "geometry": {
-      "location": {
-        "lat": 36.2128455,
-        "lng": 137.9609455
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.2150429302915,
-          "lng": 137.9628808802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒390-0834 長野県松本市高宮中１−２０",
+      "geometry": {
+        "location": {
+          "lat": 36.2128455,
+          "lng": 137.9609455
         },
-        "southwest": {
-          "lat": 36.2123449697085,
-          "lng": 137.9601829197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.21539085000001,
+            "lng": 137.9637839
+          },
+          "southwest": {
+            "lat": 36.21199705000001,
+            "lng": 137.9592799
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJS9AMH1YOHWARQiP66GyvKu0",
-    "plus_code": {
-      "compound_code": "6X76+49 長野県松本市",
-      "global_code": "8Q8V6X76+49"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "grocery_or_supermarket",
-      "point_of_interest",
-      "store"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "イトーヨーカドー 南松本店",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107972964360024295877\">IZU OYA</a>"
+          ],
+          "photo_reference": "Aap_uEAllBbObXAu004Jq2mDJRhhE-w7Ir7zEMg3-MORCMI4D0fBPa_Ja8esLpUAcFoKsvdrjs-rB2IaYwwO_Qnn7cvz0KlodnKKcsIs1KzMIApiRLcZwwomgkdk4eLy411WJKQ1phMj8ToYHYqK7RZWj8x8CQW4xvEBBlJoIgyZRLpWLYbI",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJS9AMH1YOHWARQiP66GyvKu0",
+      "plus_code": {
+        "compound_code": "6X76+49 松本市、長野県",
+        "global_code": "8Q8V6X76+49"
+      },
+      "types": [
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,64 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "諏訪市",
-        "short_name": "諏訪市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県諏訪市",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒392-0027 長野県諏訪市湖岸通り４丁目１−４３",
+      "geometry": {
+        "location": {
+          "lat": 36.0472985,
+          "lng": 138.1127797
         },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+        "viewport": {
+          "northeast": {
+            "lat": 36.04849312989272,
+            "lng": 138.1141207798927
+          },
+          "southwest": {
+            "lat": 36.04579347010728,
+            "lng": 138.1114211201073
+          }
         }
       },
-      "location": {
-        "lat": 36.0391525,
-        "lng": 138.1140545
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.1241101,
-          "lng": 138.2003509
-        },
-        "southwest": {
-          "lat": 35.9462515,
-          "lng": 138.0342909
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "かたくらシルクホテル",
+      "photos": [
+        {
+          "height": 2757,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108476357963767851554\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBbHq3M4_UQdGN18KOQKH0NtSFvZPjsn_m61mOnp9w7Jv9FfDwWHNYVhbBKWACMrdmYf-gLaVigkQIUvZYTNc5W2-HCdSQx33RUglVHmXzrKz7k_FnYsm8GbQi8LjwWC_Zf-4-v6NXsaevkE3i2OpuHFDDEo6_53uok6Z0lyWq_1UYr",
+          "width": 3761
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ30EFZMxVHGARRiDmvSJjp-0",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJOWXA1LFVHGARwJPGJvJ6A1Y",
+      "plus_code": {
+        "compound_code": "24W7+W4 諏訪市、長野県",
+        "global_code": "8Q8W24W7+W4"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

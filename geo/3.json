@@ -1,72 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "山ノ内町",
-        "short_name": "山ノ内町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "下高井郡",
-        "short_name": "下高井郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県下高井郡山ノ内町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒381-0401 長野県下高井郡山ノ内町志賀高原高天ヶ原",
+      "geometry": {
+        "location": {
+          "lat": 36.7303375,
+          "lng": 138.5059476
         },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+        "viewport": {
+          "northeast": {
+            "lat": 36.73151367989272,
+            "lng": 138.5074753298927
+          },
+          "southwest": {
+            "lat": 36.72881402010728,
+            "lng": 138.5047756701073
+          }
         }
       },
-      "location": {
-        "lat": 36.7446479,
-        "lng": 138.4128175
-      },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.8247984,
-          "lng": 138.6420977
-        },
-        "southwest": {
-          "lat": 36.6657213,
-          "lng": 138.3833921
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "志賀パークホテル",
+      "photos": [
+        {
+          "height": 2688,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104250861961041156902\">英昭 飯名</a>"
+          ],
+          "photo_reference": "Aap_uEAW2wRckrc5YTJd8plBQqC_u-ZmsmJIgEl1F7a-WU1-3wLQ777uBiAFaXStt-kPkkFxYI0ldQUnRnoamKjsfGf0X4HOLMnoUdOMl5SGWFoJVyCrC1QYQwwZksmZ8BqzLp_p8AttAGDBxUeVyxU_N5w4ZiKgsyD_z7Jb11KotPUTULuj",
+          "width": 4032
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJp5BF3xjxHWARfQ5Kg1VjUng",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      ],
+      "place_id": "ChIJqe9Ovcb0HWARQf8WCOiv94w",
+      "plus_code": {
+        "compound_code": "PGJ4+49 山ノ内町、長野県",
+        "global_code": "8Q8WPGJ4+49"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

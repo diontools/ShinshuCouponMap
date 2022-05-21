@@ -1,82 +1,47 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１２７８",
-        "short_name": "１２７８",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "菅平高原",
-        "short_name": "菅平高原",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "上田市",
-        "short_name": "上田市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "386-2204",
-        "short_name": "386-2204",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２７８",
-    "geometry": {
-      "location": {
-        "lat": 36.5316216,
-        "lng": 138.3456665
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.5328988802915,
-          "lng": 138.3469046802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒386-2204 長野県上田市菅平高原１２７８",
+      "geometry": {
+        "location": {
+          "lat": 36.5316216,
+          "lng": 138.3456665
         },
-        "southwest": {
-          "lat": 36.53020091970851,
-          "lng": 138.3442067197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.53289972989273,
+            "lng": 138.3469055298928
+          },
+          "southwest": {
+            "lat": 36.53020007010728,
+            "lng": 138.3442058701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ4VzsWkKUHWAR1XTXps4N0CY",
-    "plus_code": {
-      "compound_code": "G8JW+J7 日本、長野県上田市",
-      "global_code": "8Q8WG8JW+J7"
-    },
-    "types": [
-      "establishment",
-      "lodging",
-      "point_of_interest"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "菅平高原ホテル柄澤",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103636524689203378678\">knaves1998</a>"
+          ],
+          "photo_reference": "Aap_uEAvknjcpCEErEEMWx5kA5XhOirHI39fGORg3gOWJRXcyK1rBtV2iKYjNlFijL3anRto_-zEhLGTAo_TNEzwgzDLqsiAEOEDFy7lE0evKU8fFu7tiJgAe1m1zOJrgeA_T5V7f7QEziCXSiQ_01p3tPHHsssKtX-J20EriyjbjXMewAt1",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ4VzsWkKUHWAR1XTXps4N0CY",
+      "plus_code": {
+        "compound_code": "G8JW+J7 上田市、長野県",
+        "global_code": "8Q8WG8JW+J7"
+      },
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

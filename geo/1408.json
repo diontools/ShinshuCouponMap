@@ -1,83 +1,48 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "１１３４−１",
-        "short_name": "１１３４−１",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "祢津",
-        "short_name": "祢津",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "東御市",
-        "short_name": "東御市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "389-0506",
-        "short_name": "389-0506",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒389-0506 長野県東御市祢津１１３４−１",
-    "geometry": {
-      "location": {
-        "lat": 36.3654212,
-        "lng": 138.3480047
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.36686273029149,
-          "lng": 138.3495247302915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒389-0506 長野県東御市祢津１１３４−１",
+      "geometry": {
+        "location": {
+          "lat": 36.3654549,
+          "lng": 138.3480878
         },
-        "southwest": {
-          "lat": 36.3641647697085,
-          "lng": 138.3468267697085
+        "viewport": {
+          "northeast": {
+            "lat": 36.36686357989272,
+            "lng": 138.3495255798927
+          },
+          "southwest": {
+            "lat": 36.36416392010727,
+            "lng": 138.3468259201072
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJ6-EPd6W5HWARg-eUgSCDhWU",
-    "plus_code": {
-      "compound_code": "988X+56 日本、長野県東御市",
-      "global_code": "8Q8W988X+56"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "武蓮 東御インター店",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105620983885622040138\">SHIOZAWA TAKASHI</a>"
+          ],
+          "photo_reference": "Aap_uECP8nArnD17cCcjIPg-bpHczCC3VLlH8e2Ddy2FULdyLQYfxFJ7JPHWfrkitr9twIgdImSKY47l1x8F_XOlDwJj0nqcbPiRKdrittpheJNZ8epk8mgTrId3P0d_4a2qY32fJpidw6ygsmS4R3a3uZcs-GlZdqd9UGWY1mn5ztQxuy4l",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ6-EPd6W5HWARg-eUgSCDhWU",
+      "plus_code": {
+        "compound_code": "988X+56 東御市、長野県",
+        "global_code": "8Q8W988X+56"
+      },
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

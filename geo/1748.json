@@ -1,72 +1,36 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "立科町",
-        "short_name": "立科町",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "北佐久郡",
-        "short_name": "北佐久郡",
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      }
-    ],
-    "formatted_address": "日本、長野県北佐久郡立科町",
-    "geometry": {
-      "bounds": {
-        "northeast": {
-          "lat": 36.3243676,
-          "lng": 138.3442034
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒384-2309 長野県北佐久郡立科町芦田八ケ野５１５０",
+      "geometry": {
+        "location": {
+          "lat": 36.133244,
+          "lng": 138.268075
         },
-        "southwest": {
-          "lat": 36.0862461,
-          "lng": 138.2337213
+        "viewport": {
+          "northeast": {
+            "lat": 36.13475427989273,
+            "lng": 138.2693496798927
+          },
+          "southwest": {
+            "lat": 36.13205462010728,
+            "lng": 138.2666500201073
+          }
         }
       },
-      "location": {
-        "lat": 36.2720773,
-        "lng": 138.3160771
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "（株）池の平商事",
+      "place_id": "ChIJtTdpaBBNHGARSMx5iWEWpAg",
+      "plus_code": {
+        "compound_code": "47M9+76 立科町、長野県",
+        "global_code": "8Q8W47M9+76"
       },
-      "location_type": "APPROXIMATE",
-      "viewport": {
-        "northeast": {
-          "lat": 36.3243676,
-          "lng": 138.3442034
-        },
-        "southwest": {
-          "lat": 36.0862461,
-          "lng": 138.2337213
-        }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJFddCeKizHWARaM8BCA3KszE",
-    "types": [
-      "locality",
-      "political"
-    ]
-  }
-]
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,85 +1,50 @@
-[
-  {
-    "address_components": [
-      {
-        "long_name": "４７３４−１３２",
-        "short_name": "４７３４−１３２",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "豊平",
-        "short_name": "豊平",
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_2"
-        ]
-      },
-      {
-        "long_name": "茅野市",
-        "short_name": "茅野市",
-        "types": [
-          "locality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "長野県",
-        "short_name": "長野県",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
-      },
-      {
-        "long_name": "日本",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "391-0213",
-        "short_name": "391-0213",
-        "types": [
-          "postal_code"
-        ]
-      }
-    ],
-    "formatted_address": "日本、〒391-0213 長野県茅野市豊平４７３４−１３２",
-    "geometry": {
-      "location": {
-        "lat": 36.024486,
-        "lng": 138.329217
-      },
-      "location_type": "ROOFTOP",
-      "viewport": {
-        "northeast": {
-          "lat": 36.02574878029149,
-          "lng": 138.3306100802915
+{
+  "candidates": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "日本、〒391-0213 長野県茅野市豊平４７３４−１３２",
+      "geometry": {
+        "location": {
+          "lat": 36.024486,
+          "lng": 138.329217
         },
-        "southwest": {
-          "lat": 36.02305081970849,
-          "lng": 138.3279121197085
+        "viewport": {
+          "northeast": {
+            "lat": 36.02574962989272,
+            "lng": 138.3306109298927
+          },
+          "southwest": {
+            "lat": 36.02304997010727,
+            "lng": 138.3279112701073
+          }
         }
-      }
-    },
-    "partial_match": true,
-    "place_id": "ChIJa5BjhxJGHGARfT_smYXuvmU",
-    "plus_code": {
-      "compound_code": "28FH+QM 長野県茅野市",
-      "global_code": "8Q8W28FH+QM"
-    },
-    "types": [
-      "establishment",
-      "food",
-      "lodging",
-      "point_of_interest",
-      "restaurant",
-      "spa"
-    ]
-  }
-]
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "唐沢鉱泉 八ヶ岳秘湯の宿",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108572760309179477704\">唐沢鉱泉 八ヶ岳秘湯の宿</a>"
+          ],
+          "photo_reference": "Aap_uECy6jSRU9kBZ4DOAnh_EpcE4aZ5bULxKn9ZaEpkXvshFHB8sI9v2p-3P9O6NMJF_Qow8qlZVggx484JWt6K4ClgSx0_DIOVqFHFvGSatD2S51LJxOoqdoMLTEDRTRfy35v2FXi8VRpwB6Dd_nkyo_mh75i0bOT4RlIXv9Bub_y3SRJF",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJa5BjhxJGHGARfT_smYXuvmU",
+      "plus_code": {
+        "compound_code": "28FH+QM 茅野市、長野県",
+        "global_code": "8Q8W28FH+QM"
+      },
+      "types": [
+        "lodging",
+        "spa",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}
