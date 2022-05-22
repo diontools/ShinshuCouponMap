@@ -24,19 +24,48 @@
         <meta name="twitter:image:src" content="https://www.google.com/maps/d/thumbnail?mid=1pMCQ5BZea2t_nfasCG6xUIXHsvy7IEYN">
         <style>
             html, body, iframe {
-                width: 100%;
-                height: 100%;
                 padding: 0;
                 margin: 0;
                 box-sizing: border-box;
                 border: none;
             }
-            html {
+            html, body {
                 overflow: hidden;
+                width: 100%;
+                height: 100%;
+            }
+            body {
+                display: flex;
+                flex-direction: column;
+            }
+            iframe {
+                flex-grow: 1;
+                width: 100%;
+            }
+            footer {
+                background-color: rgb(41, 41, 41);
+                color: rgb(228, 228, 228);
+                display: flex;
+                align-content: flex-end;
+                justify-content: flex-end;
+                font-size: 90%;
+            }
+            footer > a {
+                color: inherit;
+                text-decoration: none;
+                margin: 0.125rem 0.25rem;
+            }
+            footer > a:hover {
+                text-decoration: underline;
             }
         </style>
     </head>
     <body>
         <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1pMCQ5BZea2t_nfasCG6xUIXHsvy7IEYN&ehbc=2E312F" width="640" height="480"></iframe>
+        <footer>
+            <a href="https://tabi-susume.com/kankosearch/">ソース（信州割の公式サイト）</a>
+            <a href="https://github.com/diontools/ShinshuCouponMap">GitHub</a>
+            <a href="https://twitter.com/diontools">管理者@diontools</a>
+        </footer>
     </body>
 </html>
